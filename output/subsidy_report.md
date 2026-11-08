@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 568 total records
+Generated 2026-11-08, 597 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -3558,6 +3558,69 @@ Generated 2026-11-08, 568 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Anaheim
+
+**Affordable Housing chapter: density bonus, by-right review of Housing Element sites, replacement housing and affordable parking ratios (Anaheim Municipal Code Chapter 18.52, Ord. 6627, August 11, 2026)**
+- Agency: City of Anaheim Planning and Building Department, Planning Services Division
+- Type: density bonus
+- Typical award: Requirement and entitlement, not a subsidy. Sec. 18.52.020 adopts Government Code 65915 density bonuses and incentives by reference; sites in the Sixth Cycle Housing Element candidate inventory for low and very low income units are reviewed by right (no discretionary hearing) when at least 20% of units are restricted to lower income households. Sec. 18.52.030 implements Housing Crisis Act replacement housing with exemptions for 100% lower income projects. Sec. 18.52.100 sets reduced parking ratios for affordable projects, which the Platinum Triangle Mixed Use Overlay (Chapter 18.20) cross-references for its residential parking.
+- AMI requirement: State density bonus thresholds (5% very low, 10% low, 10% moderate for-sale, 100% affordable) with 55-year rental covenants; by-right review requires 20% lower income units on inventory sites.
+- Cycle: rolling (next: Applies at project application; code last amended August 11, 2026.)
+- Layering notes: Anaheim has no inclusionary ordinance of general application and no affordable housing fee waiver ordinance was located; the A-LHTF Guidelines mention in-lieu fees under an Affordable Housing Ordinance but that ordinance text could not be opened (anaheim.gov code pages blocked), so verify whether a citywide inclusionary requirement exists. The Platinum Triangle and Beach Boulevard specific plans offer density, not money. Density bonus and by-right approval do not trigger prevailing wage. Chapter 18.52 and Chapter 18.20 read on the zoneomics mirror.
+- Source: https://www.zoneomics.com/code/anaheim-CA/chapter_25
+- Confidence: verified (researched 2026-11-08)
+
+**Anaheim Local Housing Trust Fund (A-LHTF), Ordinance No. 6588; Program Guidelines and Funding Allocation Plan (adopted May 29, 2025, revised June 9, 2026)**
+- Agency: City of Anaheim Housing and Community Development Department, with transfers to the Anaheim Housing Authority by cooperation agreement; 201 S. Anaheim Blvd., Suite 201
+- Type: loan
+- Typical award: Initial Funding Allocation Plan of $16,000,000: Build More Homes Initiative $5,000,000 (includes $1,000,000 from a federal grant restricted to housing production), First-Time Homebuyer programs $5,000,000 ($50,000 downpayment loans), Housing Stability Program $1,000,000, administration $500,000 (3.12%), reserve $4,500,000. Build More Homes funds pay for site acquisition, site preparation (environmental, demolition, relocation) and gap financing, structured as loans at 4% simple interest repaid from a residual receipts split; A-LHTF money may not exceed 50% of total City investment in a project. Eligible deposits include General Fund, federal PRO Housing grant, state Local Housing Trust Fund matching grants, REAP 2.0 (gap financing for infill with at least 65% residential floor area in mixed-use), Development Agreement community benefit payments, philanthropy and in-lieu fees paid under the City's Affordable Housing Ordinance.
+- AMI requirement: Affordability follows the leveraged source (LIHTC, HOME, PLHA); where none applies the City sets project-specific requirements, generally 55-year covenants. Target beneficiaries: workforce households, households experiencing homelessness, active older adults 55 and over, special needs (transition-age youth, persons with disabilities, persons with AIDS). Shelters, transitional housing and group homes are ineligible.
+- Cycle: rolling (project-by-project Council actions; annual Funding Allocation Plan in the City budget) (next: No NOFA. Each expenditure requires a separate Council action; the Funding Allocation Plan is updated in the annual budget cycle (next spring 2027). Approach Housing and Community Development with a site or gap request.)
+- Layering notes: Anaheim's answer to losing $15,000,000 to $17,000,000 a year of redevelopment set-aside: the trust consolidates HOME (FY 2024 $1,314,088), PLHA (about $3,000,000 a year), REAP 2.0 and General Fund into one locally controlled pool, with City gap financing averaging about $6,000,000 per recent project (Finamore Place, Miraflores) before land. The 50% leverage rule means A-LHTF is a secondary layer behind HOME, PLHA, County MHSA/BHSA loans, OCHFT and Anaheim Housing Authority PBVs. The Guidelines are also the City's vehicle for state LHTF matching grants, so expect future rounds to be tied to HCD LHTF deadlines. Public funds trigger state prevailing wage; REAP 2.0 funds carry infill and reporting rules. Guidelines PDF opened via anaheim.gov DocumentCenter (anaheim.net links return 403).
+- Source: https://www.anaheim.gov/DocumentCenter/View/66427
+- Confidence: verified (researched 2026-11-08)
+
+**City-owned and Housing Authority-owned site solicitations for affordable housing (Beach Boulevard corridor and Center City developer RFPs)**
+- Agency: Anaheim Housing Authority and Housing and Community Development Department, Real Property and Housing Development staff
+- Type: other
+- Typical award: Land contributions under long-term ground leases plus City gap loans rather than a cash NOFA: Miraflores (85 units) on a 60-year City ground lease with a $3,000,000 HOME loan; Southeast Corner of Beach and Lincoln (46 affordable senior and transition-age youth units) on former Housing Authority land with 46 PBVs; earlier RFPs for 212 S. Beach Blvd (Silvermoon) and State College at Lincoln (about 0.51 acre) sought developers for lower income and special needs housing. The A-LHTF Build More Homes Initiative funds site acquisition for future solicitations.
+- AMI requirement: Project-specific: City solicitations have required 100% affordable or supportive housing with 55-year covenants and local resident preference.
+- Cycle: rolling (site-by-site RFPs) (next: unknown, verify with agency; no open RFP was located this pass. Watch Housing Authority agendas for Beach Boulevard parcels (Anaheim Lodge demolition site, 39 Commons remainder).)
+- Layering notes: The most valuable Anaheim resource is land, not cash: the Housing Authority assembled Beach Boulevard motel sites and the City leases them at nominal rent, which replaces a $5,000,000 to $10,000,000 land cost in a 4% deal. Pair with Housing Authority PBVs, HOME or PLHA loans, A-LHTF gap money and County MHSA/BHSA. The RFP pages and Authority agendas could not be opened (anaheim.gov CivicAlerts and DocumentCenter returned 403; Granicus archive lists meetings but not staff reports), so details are from the A-LHTF Guidelines, the Housing Authority page and the 2026 fact sheet.
+- Source: https://www.anaheim.gov/DocumentCenter/View/66427
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**HOME, PLHA and CDBG entitlement funds used as affordable housing gap financing (Build More Homes Initiative)**
+- Agency: City of Anaheim Housing and Community Development Department (HUD Programs division) and Anaheim Housing Authority
+- Type: grant
+- Typical award: HOME allocation FY 2024 $1,314,087.60 (down from $2,240,380 in FY 2010); PLHA about $3,000,000 a year since 2019; together about $4,600,000 a year of recurring production money, though a large share of HOME is committed to tenant-based rental assistance. City cash gap financing has averaged $6,000,000 per project on the last two developments (Finamore Place, 101 family units, completed February 2022; Miraflores, 85 PSH family units, 2024, with a 60-year ground lease, a $3,000,000 HOME loan and 8 vouchers). Center of Hope (72 PSH units, 2023) received a $2,000,000 City construction loan and 50 vouchers. Anaheim also administers CDBG, ESG and HOPWA for the region.
+- AMI requirement: HOME rents and 80% AMI limits with 20% of HOME units at 50% AMI; PLHA rental production at or below 60% AMI; City deals have typically been 100% affordable family, senior or supportive housing with 55-year covenants.
+- Cycle: rolling (project-specific RFPs and negotiated agreements; no standing developer NOFA) (next: Annual Action Plan adopted each spring; developer solicitations are issued per site (recent Housing Authority RFPs covered 212 S. Beach Blvd and State College at Lincoln). Verify the FY 2026-27 HOME and PLHA figures with the department; the City documents page lists only the FY 2022-23 Action Plan.)
+- Layering notes: Anaheim does not run a competitive NOFA; it assembles sites (Beach Boulevard corridor, former motels) and selects developers by RFP, then layers HOME, PLHA, A-LHTF and Housing Authority PBVs. The City is an HHAP direct recipient and a HOPWA grantee for Orange County, so operating subsidies for PSH can come from the same department. Stack order seen in practice: City land lease plus HOME or PLHA loan, Housing Authority PBVs, County MHSA/BHSA or OCHFT loan, 4% credits with CMFA or CSCDA bonds. Davis-Bacon on HOME projects of 12 or more assisted units; state prevailing wage on all City funds. Figures from the June 2026 A-LHTF Guidelines PDF (opened); Housing and Community Development documents page and 2026 affordable housing fact sheet opened; Action Plan PDFs and CivicAlerts pages returned 403.
+- Source: https://www.anaheim.gov/DocumentCenter/View/66427
+- Confidence: verified (researched 2026-11-08)
+
+**Low and Moderate Income Housing Asset Fund (Anaheim Housing Authority as Housing Successor to the Anaheim Redevelopment Agency)**
+- Agency: Anaheim Housing Authority as Housing Successor, administered by Housing and Community Development
+- Type: loan
+- Typical award: Balance not confirmed this pass: the Housing Successor page describes the LMIHAF and annual SB 341 reporting but the report PDFs (for example the FY 2020-21 report, DocumentCenter 70278) returned 403. The Authority holds former Agency housing assets, loans and land; a January 2026 Authority agenda report (per search snippet, not opened) said the Authority owned one vacant building at 883 S. Anaheim Blvd pending long-term housing plans. Before dissolution the Agency's housing set-aside was $15,000,000 to $17,000,000 a year.
+- AMI requirement: Health and Safety Code 34176.1: low and moderate income households (up to 120% AMI), at least 30% of five-year expenditures for households at or below 30% AMI, senior cap of 50% over 10 years.
+- Cycle: rolling (next: unknown, verify with agency; request the latest Housing Successor Annual Report and LMIHAF balance from Housing and Community Development.)
+- Layering notes: Anaheim's former Agency was one of the largest in Orange County, so LMIHAF repayments and land (Beach Boulevard, Center City) remain a meaningful site source even if cash is thin; the A-LHTF Guidelines say Trust funds may be transferred to the Housing Authority to combine with other sources for site acquisition. Treat as land and residual receipts rather than a cash NOFA. Public funds trigger state prevailing wage. Housing Successor Agency page opened on anaheim.gov; report PDFs blocked.
+- Source: https://www.anaheim.gov/2969/Housing-Successor-Agency
+- Confidence: verified (researched 2026-11-08)
+
+**Project-Based Vouchers, Anaheim Housing Authority**
+- Agency: Anaheim Housing Authority, 201 S. Anaheim Blvd., Suite 201, (714) 765-4320; Housing and Community Development Department
+- Type: other
+- Typical award: About $144,000,000 a year in Section 8 rent assistance to about 6,500 households (2026 fact sheet). PBVs are committed to City-assisted projects: Southeast Corner of Beach and Lincoln (208 S. Beach Blvd) 37 senior units (some HOPWA) and 9 transition-age youth units, waiting list referrals opening November 5, 2026; Center of Hope 50 vouchers (72 PSH units, 2023); Miraflores 8 vouchers (85 units, 2024). The City counts 4,156 affordable apartments in 50 communities (45 fully affordable), 2,851 family, 1,113 senior and 332 special needs units.
+- AMI requirement: PBV admission at or below 50% AMI (30% of adjusted income toward rent); City PSH projects target 30% AMI with Coordinated Entry referrals; HAP contracts up to 20 years.
+- Cycle: rolling (committed through the City's project-specific development agreements) (next: No open PBV solicitation; request vouchers when responding to a Housing Authority site RFP or negotiating a City loan. Beach and Lincoln waiting list opens November 5, 2026.)
+- Layering notes: Anaheim Housing Authority is a separate PHA from OCHA, so projects inside Anaheim can get PBVs from either; the City's own vouchers are the standard operating layer on City land deals, and HOPWA units can be project-based through the same office. Davis-Bacon applies to new construction or rehab of nine or more PBV units; HAP contracts bring a HUD subsidy layering review. Housing Authority page and 2026 affordable housing fact sheet (DocumentCenter 54022) opened on anaheim.gov; Public Documents page (1947) returned 403.
+- Source: https://www.anaheim.gov/668/Housing-Authority
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Antioch
 
 **Antioch Community Grants: CDBG, Housing Successor (LMIHAF) and PLHA funds (FY 2027/28 to 2029/30 cycle via the Contra Costa Consortium NOFA)**
@@ -4150,6 +4213,59 @@ Generated 2026-11-08, 568 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Garden Grove
+
+**Affordable Housing and Permanent Supportive Housing Development RFP and Housing Element Program 4 (Affordable Housing Construction assistance)**
+- Agency: City of Garden Grove Community and Economic Development Department, Neighborhood Improvement Division and Housing Authority
+- Type: loan
+- Typical award: The City posted a developer solicitation (gg.city/afford-rfp, redirecting to the Neighborhood Improvement page for the Affordable Housing and Permanent Supportive Housing Development RFP) seeking qualified developers to build affordable and permanent supportive housing units; the page returned 403 to all fetch methods so the funding amount, sites and deadline could not be read. Housing Element Program 4 commits the City to technical and financial assistance for about 10 affordable units a year (80 units over the cycle) through land cost write-downs and construction assistance from General Fund, HOME, LMIHAF and PLHA, plus expedited processing. The FY 2025-30 Consolidated Plan earmarks part of about $2,900,000 of HOME-ARP for one PSH development, and the Housing Successor is buying the Civic Center Parcel for housing.
+- AMI requirement: Program 4 targets lower income and senior households; HOME-ARP PSH units serve qualifying homeless populations; 55-year covenants under Sec. 9.60.050 regulatory agreements.
+- Cycle: rolling (next: unknown, verify with agency; confirm whether the Affordable Housing and PSH Development RFP is still open and whether it covers the Civic Center Parcel. Contact Neighborhood Improvement (714-741-5144).)
+- Layering notes: Likely the only Garden Grove developer solicitation and probably paired with HOME-ARP and LMIHAF land; a respondent should plan on County 2026 Supportive Housing NOFA loans, OCHFT, County BHSA and GGHA PBVs for the rest of the stack. Public funds trigger state prevailing wage. Source is the 2021-2029 Housing Element PDF (opened); the RFP page itself was blocked (ggcity.org/news/afford-rfp and the neighborhood-improvement RFP page both 403).
+- Source: https://ggcity.org/sites/default/files/HousingElement11921.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**HOME, HOME-ARP, CDBG and ESG entitlement (FY 2025-2030 Consolidated Plan and FY 2025-26 Action Plan)**
+- Agency: City of Garden Grove Community and Economic Development Department, Neighborhood Improvement Division (Timothy Throne, 714-741-5144, timothyt@ggcity.org; Dana Yang, 714-741-5131)
+- Type: grant
+- Typical award: Five-year estimates FY 2025-2030: CDBG $9,100,000, HOME $3,000,000 (about $600,000 a year), ESG $785,000, plus about $2,900,000 of HOME-ARP for TBRA and one permanent supportive housing development. FY 2025-26 HOME budget $540,267: New Construction of Affordable Housing (predevelopment) $145,134, Acquisition/Rehabilitation of Affordable Housing $145,133, Interval House HEART program $250,000 (about 10 extremely low income households). CDBG FY 2025-26 public service RFP of about $280,000 (due January 2025); FY 2025-26 CDBG subrecipients include Habitat for Humanity OC home repairs, Meals on Wheels, StandUp for Kids and the Fair Housing Foundation. A $120,000 HOME rehabilitation NOFA closed January 9, 2025 and the City sought $2,000,000 from the CalHome Super NOFA (March 2025) for homebuyer assistance.
+- AMI requirement: HOME rents and 80% AMI limits with 20% of HOME units at 50% AMI; HOME-ARP PSH for qualifying populations; CDBG national objectives.
+- Cycle: annual NOFA (next: CDBG public service and HOME RFPs are released each winter (the FY 2025-26 CDBG RFP and the HOME rehabilitation NOFA were due in January 2025); FY 2026-27 Action Plan hearing in spring 2027 after community needs workshops. The developer RFP page (gg.city/afford-rfp) could not be opened; call Neighborhood Improvement for the HOME-ARP PSH development solicitation status.)
+- Layering notes: Garden Grove's HOME is about $600,000 a year and most goes to TBRA and HEART, so City development money is limited to small predevelopment and acquisition-rehab lines (about $145,000 each in FY 2025-26) and the one-time HOME-ARP PSH development set-aside (part of about $2,900,000). The real local layers are Housing Successor land and GGHA PBVs; County 2026 NOFA loans ($95,000 to $105,000 per unit inside Garden Grove), OCHFT and County BHSA supply capital. Davis-Bacon at 12 or more HOME units. FY 2025-2030 Consolidated Plan public review draft PDF, CDBG page, FY 2025-26 CDBG RFP PDF and the March 13, 2025 weekly memo opened on ggcity.org; the afford-rfp and hud-nofa pages returned 403.
+- Source: https://ggcity.org/sites/default/files/fy2025-2030-con-plan-public-review-draft.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Low and Moderate Income Housing Asset Fund and Civic Center housing site (Garden Grove Housing Authority as Housing Successor to the Garden Grove Agency for Community Development)**
+- Agency: Garden Grove Housing Authority as Housing Successor, Community and Economic Development Department, 11222 Acacia Parkway; Housing Authority (714) 741-5150
+- Type: loan
+- Typical award: FY 2024-25 (SB 341 report): $3,164,557.92 deposited (including $3,000,000 of ERAF/SERAF loan repayments through the ROPS), $2,890,976.02 spent or encumbered, ending cash balance $3,092,947.34; total LMIHAF assets $24,689,712.27 including $9,870,187.74 of loans and grants receivable and $14,819,524.53 of real property. Development spending: $1,000,000 third installment plus $127,500 interest on the $8,550,000 purchase of the Civic Center Parcel (11390-11400 Stanford Avenue, northern portion of APN 090-154-57, exempt surplus land approved by HCD) for housing, and $1,550,000 encumbered for additional land acquisition. Prior Housing Successor projects: Wesley Village (47 senior and family units) and Sycamore Court (78-unit substantial rehabilitation), both with 55-year covenants satisfying the Limon replacement housing judgments. Property at 11391 Acacia Parkway acquired 2019; 12291 Thackery Drive tied up in the New Age (Kam Sang) litigation.
+- AMI requirement: Health and Safety Code 34176.1 income limits (up to 120% AMI) with at least 30% of five-year spending for households at or below 30% AMI and a 50% senior cap; City projects carry 55-year covenants.
+- Cycle: rolling (next: unknown, verify with agency; the Civic Center Parcel will be offered through a developer solicitation once the purchase installments are complete (about $4,550,000 remained after FY 2024-25). Watch Housing Authority agendas.)
+- Layering notes: Garden Grove is spending its LMIHAF on land, so the opportunity is a Civic Center site near the Main Street downtown with Housing Authority PBVs and HOME or HOME-ARP predevelopment money, then County MHSA/BHSA, OCHFT and 4% credits; cash loans from the fund will be small. Public funds trigger state prevailing wage. FY 2024-25 Housing Authority and Housing Successor Annual Report PDF and the Redevelopment Agency Dissolution page opened on ggcity.org.
+- Source: https://ggcity.org/sites/default/files/ggha-fy-2024-25-housing-successor-and-housing-authority-annual-report-attachment-a_0.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Project-Based Vouchers, Garden Grove Housing Authority (GGHA)**
+- Agency: Garden Grove Housing Authority, 11277 Garden Grove Blvd, (714) 741-5150
+- Type: other
+- Typical award: GGHA assists more than 2,300 families with Housing Choice Vouchers and also administers Mainstream and Emergency Housing Vouchers. Its PBV program attaches vouchers to specific units under HAP contracts; the PBV waiting list opened for registrations October 5 to October 19, 2026 (2026 PBV income limits $65,150 for one person to $122,850 for eight). The number of PBV units under contract and any set-aside for new projects were not published; the Administrative Plan effective November 1, 2026 governs PBV selection.
+- AMI requirement: PBV households at or below 50% AMI (30% of income toward rent and utilities); units must pass HQS; HAP contracts up to 20 years.
+- Cycle: rolling (next: No owner solicitation posted; request PBVs with a development proposal to the Housing Authority. Payment standards for the four Orange County PHAs are posted for 2026.)
+- Layering notes: The fourth PHA in Orange County, so a Garden Grove project can seek PBVs from GGHA or OCHA (both post the same area-wide 2026 payment standards). GGHA PBVs are the natural operating layer for a project on the Housing Successor's Civic Center Parcel together with HOME-ARP, County MHSA/BHSA and OCHFT. Davis-Bacon applies to nine or more PBV units in new construction or rehab; HAP contracts bring a HUD subsidy layering review. Housing Authority page and the September 21, 2026 PBV waiting list notice opened on ggcity.org.
+- Source: https://ggcity.org/housing-authority/notice-09-21-26
+- Confidence: verified (researched 2026-11-08)
+
+**Residential Density Bonus and Affordable Housing Regulatory Agreements (Garden Grove Municipal Code Chapter 9.60, Secs. 9.60.040 and 9.60.050; Housing Element Program 10)**
+- Agency: City of Garden Grove Community and Economic Development Department, Planning Services Division
+- Type: density bonus
+- Typical award: Requirement and entitlement, not a subsidy. Chapter 9.60 implements the State Density Bonus Law, Housing Accountability Act, Housing Crisis Act and No Net Loss law: density bonus, incentives, concessions, waivers and parking ratios per Government Code 65915 and 65915.5 as amended, processed concurrently with the land use application; ministerial review for qualifying housing development projects; replacement of protected units; regulatory agreement required for every affordable unit (Sec. 9.60.050) including a rule that voucher holders pay the affordable rent, not FMR. The 2021-2029 Housing Element reports surveyed projects averaging 183% of base density through bonuses and commits the City to the updated ordinance by 2025 (Program 10) and to study an inclusionary ordinance (Program 11).
+- AMI requirement: State thresholds (5% very low, 10% low, 10% moderate for-sale, 100% affordable) with 55-year rental covenants in the City regulatory agreement.
+- Cycle: rolling (next: Applies at project application. Program 11 inclusionary study was due within the Housing Element cycle; no inclusionary ordinance or in-lieu fee exists as of this pass.)
+- Layering notes: Garden Grove has no inclusionary ordinance, in-lieu fee, local housing trust fund or affordable housing fee waiver; density bonus plus Housing Element Program 4 (technical and financial assistance for 10 affordable units a year, expedited processing, land write-downs from General Fund, HOME, LMIHAF and PLHA) is the full local toolkit beyond the Housing Successor land and GGHA vouchers. Garden Grove is not a Prohousing designated city. Density bonus does not trigger prevailing wage. Chapter 9.60 read on the zoneomics mirror; 2021-2029 Housing Element PDF opened on ggcity.org.
+- Source: https://www.zoneomics.com/code/garden-grove-CA/chapter_18
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Hayward
 
 **HOME Investment Partnerships funds through the Alameda County HOME Consortium and CDBG entitlement (Cooperation Agreement FY 2027-2029)**
@@ -4190,6 +4306,112 @@ Generated 2026-11-08, 568 total records
 - Cycle: rolling (next: Ministerial application any time; approval lapses per 10-1.2690.)
 - Layering notes: Hayward has no local density bonus chapter; state density bonus requests are processed with site plan review (recent approvals include townhome projects with 10% to 11% affordable units). The overlay lowers entitlement risk on the inventory sites and pairs with state SB 35/SB 423 streamlining. Fee relief for affordable projects is not offered by the City. Code read on the zoneomics mirror because municode is blocked.
 - Source: https://www.zoneomics.com/code/hayward-CA/chapter_34
+- Confidence: verified (researched 2026-11-08)
+
+
+### City of Huntington Beach
+
+**Affordable Housing (Inclusionary Housing) Ordinance, Huntington Beach Zoning and Subdivision Ordinance Sec. 230.26, and in-lieu fee**
+- Agency: City of Huntington Beach Community Development Department, Housing Division (Charles Kovac, Housing Manager, charles.kovac@surfcity-hb.org; Gregory Hoang, Senior Housing Analyst, 714-536-5473)
+- Type: other
+- Typical award: Requirement, not a subsidy. New residential projects of three or more units (including conversions) must restrict at least 10% of units: rental units at the lower income level (or very low or extremely low at the developer's choice), ownership units at moderate income, with fractional units rounded up or paid as fee. In-lieu fees may be paid by ownership projects of any size and rental projects of 100 units or fewer, per a fee schedule set by Council resolution and indexed annually to Orange County new home prices; fees are paid before building permit (pro rata for phased projects) and deposited in the Affordable Housing Trust Fund. Land dedication is allowed at Council discretion. Projects that exceed the requirement on-site are eligible for reduced City fees (the 2025 Annual Progress Report cites over $1,000,000 of development impact fee exemptions for a 78-unit project with 8 ELI, 32 VL and 37 low units). A 6-1 Council vote amended the ordinance and the fee formula to make payment more flexible (date not confirmed).
+- AMI requirement: Affordability term at least 55 years for rental and 45 years for ownership; affordable rental units built by a separate affordable developer on a parcel within an ownership project may not request City financial assistance; at least 40% of such units must have two or more bedrooms; interior standards equal to LIHTC minimums.
+- Cycle: rolling (next: Applies at entitlement; fee per the current Council resolution at building permit. Council must review the Trust Fund and fee within 180 days after each fiscal year end (by late December).)
+- Layering notes: A low 3-unit threshold but a fee-out for all ownership and all rental projects up to 100 units, so in practice most Huntington Beach projects pay the fee; the Trust Fund (next record) is the resulting local source. The ordinance's fee-reduction incentive is the only affordable housing fee relief found among the five cities. Housing Element status matters here: HCD's March 6, 2026 letter found the 2021-2029 element cannot be certified until the Program 2A and 2B rezonings (Affordable Housing Overlay) are complete, and the state litigation over the element continues, which exposes projects to builder's remedy and limits state funding points. Code read on the zoneomics mirror; Legistar attachments (HCD letter, 2025 APR) opened via the Legistar web API.
+- Source: https://www.zoneomics.com/code/huntington-beach-CA/chapter_4
+- Confidence: verified (researched 2026-11-08)
+
+**Affordable Housing Density Bonus (Zoning and Subdivision Ordinance Sec. 230.14) and Affordable Housing Overlay (Beach and Edinger Corridors Specific Plan)**
+- Agency: City of Huntington Beach Community Development Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement and entitlement, not a subsidy. Sec. 230.14 implements Government Code 65915: 20% base bonus for 10% lower income units rising 1.5% per additional 1% to 35%, 5% base bonus for 10% moderate income for-sale units rising 1% per 1% to 35%, one to three incentives or concessions by affordability tier, land donation option under 65915(h). The Beach and Edinger Corridors Specific Plan Affordable Housing Overlay provides non-discretionary review for qualifying affordable projects, and the HBHA Pathways RFQ sought 100% affordable supportive housing at 60% AMI or less with by-right processing for projects with at least 20% affordable units.
+- AMI requirement: State thresholds; 55-year rental covenants; in-lieu fees under Sec. 230.26 are calculated on units before the density bonus.
+- Cycle: rolling (next: Applies at project application. Housing Element Program 2B (expand the Affordable Housing Overlay) is the rezoning HCD requires before certification; Resolution 2026-25 to adopt the element was heard June 2 and June 8, 2026.)
+- Layering notes: Huntington Beach's local code mirrors the pre-2020 state schedule (35% cap), but state law controls and allows larger bonuses; the practical constraint is political and legal (Measure U voter control, State v. City of Huntington Beach over the Housing Element). Until the element is certified, projects may use builder's remedy and the City cannot earn Prohousing points. No local fee waiver ordinance beyond the Sec. 230.26 fee-reduction incentive. Density bonus does not trigger prevailing wage. Code read on zoneomics; HCD March 6, 2026 letter and Legistar matter list opened.
+- Source: https://www.zoneomics.com/code/huntington-beach-CA/chapter_4
+- Confidence: verified (researched 2026-11-08)
+
+**Affordable Housing Trust Fund (Sec. 230.26.E and F) and City inclusionary loans**
+- Agency: City of Huntington Beach Community Development Department, Housing Division; Huntington Beach Housing Authority
+- Type: loan
+- Typical award: In-lieu fees collected under Sec. 230.26 are placed in the Affordable Housing Trust Fund and may be used for predevelopment, land or air rights acquisition, rehabilitation, land write-downs, administration, gap financing or interest rate buy-downs on construction or permanent loans. Current balance and annual receipts were not published in an opened document. Example of use: the City holds an Inclusionary Housing promissory note on Pelican Harbor Apartments that was amended (First Amendment to City Inclusionary Housing Promissory Note) with a HOME note amendment and CMFA bond TEFRA approval on October 21, 2025 (Resolution 2025-65) to allow the project's refinancing; Five Points Senior Villas covenants were extended by amendment in August 2025.
+- AMI requirement: Fund projects must have at least 50% of units affordable to very low and low income households with at least 20% very low income, under a recorded affordable housing agreement with 55-year covenants; Council may add permitted uses by resolution with the annual fee schedule.
+- Cycle: rolling (next: unknown, verify with agency; no NOFA. Council reviews the fund annually within 180 days of fiscal year end. Request the fund balance from the Housing Division.)
+- Layering notes: Small and reactive: Huntington Beach uses the Trust Fund and HOME CHDO reserve for project-specific loans and covenant extensions rather than rounds. Combine with the City's CDBG and HOME, County 2026 Supportive Housing NOFA loans ($95,000 to $105,000 per unit inside Huntington Beach), OCHA PBVs (Oasis Huntington Beach took 62) and OCHFT. The Huntington Beach Housing Authority is also the housing successor; its LMIHAF balance was not opened this pass. Public funds trigger state prevailing wage. Code text on zoneomics; Legistar matter 25-856 attachments list opened (the inclusionary note PDF itself is an image scan with no text).
+- Source: https://www.zoneomics.com/code/huntington-beach-CA/chapter_4
+- Confidence: verified (researched 2026-11-08)
+
+**CDBG and HOME entitlement (FY 2025-2029 Consolidated Plan, Resolution 2025-32; annual CDBG Notice of Funding Availability)**
+- Agency: City of Huntington Beach Community Development Department, Housing Division (Charles Kovac, Housing Manager; Gregory Hoang, Senior Housing Analyst, gregory.hoang@surfcity-hb.org, 714-536-5473)
+- Type: grant
+- Typical award: FY 2025-26: CDBG grant $1,121,195 plus $258,868 carryover ($1,380,063 total); HOME grant $538,328 plus $306,100 program income ($844,428 total). HOME uses FY 2025-26: Families Forward TBRA $200,000, Mercy House TBRA $200,000, Mobile Home TBRA $128,841, CHDO Reserve/Affordable Housing $261,754, administration $53,833. CDBG capital: code enforcement $246,506, housing rehabilitation $381,139, TBRA administration $235,000, ADA improvements $125,000; public services $168,179 across six agencies. The 2026-27 CDBG NOFA opened October 2, 2025 with applications due December 11, 2025.
+- AMI requirement: HOME rents and 80% AMI limits; CHDO reserve for nonprofit-owned or developed affordable housing; CDBG national objectives.
+- Cycle: annual NOFA (next: 2027-28 CDBG NOFA expected October 2026 with applications due in December 2026 (verify; the 2026-27 cycle closed December 11, 2025). Action Plan hearing each spring (2025-26 plan adopted March 31, 2025).)
+- Layering notes: Huntington Beach's HOME is small ($538,328) and goes almost entirely to TBRA; only the CHDO reserve (about $260,000 a year) is available for development, so City HOME is a token layer next to County and OCHFT money. Davis-Bacon applies at 12 or more HOME-assisted units. The City's Pathways Project (Jamboree Housing ENA extended 18 months in May 2024 for a permanent shelter and supportive housing at the Navigation Center site, Beach and Edinger Corridors Affordable Housing Overlay) was budgeted from IIG, AHSC, TCAC, BHCIP, Community Care Expansion, OCHFT ($2,500,000), OCHA PBVs ($3,720,000) and Behavioral Health Services funds ($5,000,000), illustrating the stack the City expects. Legistar attachments (FY 2025-26 funding tables, 2026-27 NOFA notice, Pathways funding matrix, ENA extension) opened via the Legistar web API; huntingtonbeachca.gov department pages returned 404 at the old paths.
+- Source: https://huntingtonbeach.legistar1.com/huntingtonbeach/attachments/c6fadf50-7b29-450f-b8cd-19f552fdfedf.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Pathways Project supportive housing and shelter site (Huntington Beach Housing Authority Exclusive Negotiations Agreement with Jamboree Housing; Navigation Center site, Beach and Edinger Corridors Affordable Housing Overlay)**
+- Agency: Huntington Beach Housing Authority and Community Development Department; Jason Austin, Deputy Director of Homeless and Behavioral Health
+- Type: other
+- Typical award: City-controlled site (current Navigation Center, about 3,000 deed-restricted affordable units in the City's overall portfolio per the RFQ) offered to Jamboree Housing under a 2022 Exclusive Negotiations Agreement extended 18 months on May 14, 2024 to plan and secure funding for a permanent homeless shelter, sobering center, services and low income supportive housing. June 2024 funding matrix prepared by the City: IIG $3,900,000, BHCIP $60,000,000, TCAC/CDLAC equity $23,000,000, Community Care Expansion $3,800,000, AHSC $17,000,000, OCHFT $2,500,000, OCHA PBVs $3,720,000, Behavioral Health Services (Prop 1) $5,000,000. No City cash commitment is listed.
+- AMI requirement: Housing Authority goal of 100% affordable units at 60% AMI or below qualifying as supportive housing under Government Code 65650; at least 20% affordable for by-right processing in the overlay.
+- Cycle: closed/inactive (ENA with a selected developer; no open solicitation) (next: ENA extension ran 18 months from May 2024 (to about November 2025); status of a further extension or disposition agreement not confirmed. Check Housing Authority agendas.)
+- Layering notes: Recorded because it shows how Huntington Beach expects to finance supportive housing: City land plus state programs, OCHFT, OCHA PBVs and County BHSA, with no local trust fund dollars in the stack. Any developer other than Jamboree would need the ENA to lapse. Public land and any City funds trigger state prevailing wage. ENA extension and funding matrix PDFs opened via Legistar web API (matter 24-397).
+- Source: https://huntingtonbeach.legistar1.com/huntingtonbeach/attachments/8086715c-5d18-4e67-855c-9dc7a7974022.pdf
+- Confidence: verified (researched 2026-11-08)
+
+
+### City of Irvine
+
+**Affordable Housing Credits Program (Irvine Zoning Ordinance Sec. 2-3-6)**
+- Agency: City of Irvine Community Development Department (credits database and three-party credits agreements)
+- Type: other
+- Typical award: Market mechanism, not a subsidy. Projects that build more affordable units than the 15% requirement earn transferable credits in three income categories (extremely low or very low, low, moderate) that they may sell to market-rate projects or mixed projects with a shortfall; credits become available after building permits are issued for the excess units and a completion bond or certificate of occupancy is in place. A three-party credits agreement (buyer, seller, City) must be executed before the buyer's building permits; sale prices are not disclosed to the City.
+- AMI requirement: Credits track the income level of the excess units; the receiving project satisfies its required affordable component at that level.
+- Cycle: rolling (next: Agreement before building permit; City maintains the credits database on request.)
+- Layering notes: For a 100% affordable developer this is a revenue source unique among the five Orange County priority cities: excess units can be monetized to market-rate builders in the same or other planning areas, effectively a private in-lieu payment. Confirm with the City how many credits are outstanding and the recent trading range. Read on the zoneomics mirror because cityofirvine.gov returned 403.
+- Source: https://www.zoneomics.com/code/irvine-CA/chapter_2
+- Confidence: verified (researched 2026-11-08)
+
+**Affordable Housing In-Lieu Fee Fund (Irvine Zoning Ordinance Sec. 2-3-5.B.3.c; fee set by City Council resolution)**
+- Agency: City of Irvine Community Development Department
+- Type: loan
+- Typical award: In-lieu fees are deposited in the City's affordable housing fund and used for projects serving low, very low and extremely low income households and Housing Element needs; the fee is set by Council resolution and determined at building permit (a legacy $17,000 per unit rate applied only to Irvine Business Complex projects filed before 2007). An Affordable Housing Requirement and In-Lieu Fee Update draft study was posted August 3, 2023 (per the City page title captured in search results), but the adopted schedule and the current fund balance could not be read because cityofirvine.gov blocked access. The City's FY 2023-25 budget reported a four-acre land conveyance to the Irvine Community Land Trust as part of its 100% affordable housing support.
+- AMI requirement: Fund uses limited to low, very low and extremely low income households and Housing Element implementation; recipients record 55-year covenants under Chapter 2-3.
+- Cycle: rolling (next: unknown, verify with agency; no NOFA located. Ask Community Development for the current in-lieu fee resolution, fund balance and whether a developer round is planned.)
+- Layering notes: Because most Irvine builders provide units on-site or through credits, the in-lieu fund is smaller than Santa Ana's; its visible use is land and loans to Irvine Community Land Trust projects (Salerno, Parc Derian, Doria, Alegre, Sage Park) which then take LIHTC, HOME, OCHFT and County MHSA money. Public funds trigger state prevailing wage. Code section read on zoneomics; City pages (node 81916 and affordable housing pages) returned 403.
+- Source: https://www.zoneomics.com/code/irvine-CA/chapter_2
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Inclusionary Housing Ordinance, Affordable Housing Implementation Procedure (Irvine Zoning Ordinance Chapter 2-3, Secs. 2-3-1 to 2-3-11; Ord. 04-15, 24-13, 25-16)**
+- Agency: City of Irvine Community Development Department, Planning Services and Housing staff
+- Type: other
+- Typical award: Requirement, not a subsidy. Residential projects must provide 15% of units as affordable: 5% extremely low or very low income, 5% low income, 5% moderate income (ownership units for very low or low earn 2:1 credit; extremely low units 1.6:1; three- and four-bedroom units 1.4:1 and 1.6:1). Projects with at least 10% very low or extremely low units satisfy the combined 10% lower income requirement. Alternatives (menu option) are allowed only when on-site units are infeasible or in the City's interest: converting market units for 55 years, extending expiring covenants 55 years, in-lieu fees set by Council resolution, transferring units to a nonprofit, buying affordable housing credits (Sec. 2-3-6), alternative housing (SROs, special needs, shelters at 1:1), or dedicating land or resources of at least equal value. Projects up to 100% affordable may be approved in any planning area and can only be denied under Government Code 65589.5(d). Community preference policy in Sec. 2-3-11.
+- AMI requirement: Covenants of at least 55 years at the income level provided; bedroom mix must match the market units and affordable units must be dispersed; affordable housing plans and annual compliance reports required; revocation of entitlements for noncompliance.
+- Cycle: rolling (next: Applies at entitlement; in-lieu fee amount determined at building permit under the current Council resolution (fee study drafted August 3, 2023; current schedule not confirmed). Chapter last amended June 24, 2025 (Ord. 25-16).)
+- Layering notes: Irvine's 15% requirement is the highest of the five Orange County priority cities and is the engine behind the Irvine Company planning area affordable sites that nonprofits (Jamboree, C&C, Related, ICLT) build with 4% and 9% credits; a nonprofit taking an inclusionary site typically gets the land at low cost plus City or Irvine Community Land Trust support, then layers County MHSA/BHSA, OCHFT and OCHA PBVs. Sec. 2-3-7 states the City has no obligation to provide financial incentives, so there is no guaranteed city subsidy. cityofirvine.gov returned 403 to all fetch methods this pass; the ordinance was read on the zoneomics mirror.
+- Source: https://www.zoneomics.com/code/irvine-CA/chapter_2
+- Confidence: verified (researched 2026-11-08)
+
+**Irvine Community Land Trust (ICLT) land and development partnerships**
+- Agency: Irvine Community Land Trust, 501(c)(3) created by the City of Irvine in 2006, 503 Nightmist, Irvine 92618; Board chaired by Ryan Aeh (2026)
+- Type: other
+- Typical award: ICLT acquires or receives land (including City conveyances such as the four-acre site reported in the City's FY 2023-25 budget) and ground leases it to development partners so that units stay affordable permanently. Portfolio: Alegre Apartments, Doria Apartments, Parc Derian Apartments, Salerno Apartments (501 Nightmist) and Sage Park (affordable ownership); it reports hundreds of affordable units in Irvine and, since its 2017 mission expansion, elsewhere in Orange County. ICLT finances projects with LIHTC, HOME, Orange County Housing Finance Trust loans, FHLB AHP and HUD programs; dollar values of land contributions are not published.
+- AMI requirement: Permanent affordability through recorded ground lease covenants; rental projects have served extremely low to low income households and Sage Park serves moderate income buyers.
+- Cycle: rolling (partnerships negotiated with ICLT) (next: No solicitation open; contact ICLT through its partnerships page. Note the September 2026 governance dispute: ICLT directors wrote to the City Council on September 23, 2026 defending Resolution 26-803 (consultant contract, 5 to 1 vote), which could affect City-ICLT land conveyances.)
+- Layering notes: ICLT is how Irvine converts inclusionary land dedications and City-owned parcels into 100% affordable projects without a city loan program; a developer partnering with ICLT gets site control at nominal ground rent and then stacks 4% or 9% credits, County MHSA/BHSA capital, OCHFT (Cypress Village Irvine took $3,500,000 in the 2024 OCHFT round) and OCHA PBVs. ICLT is a nonprofit, not a public agency, so its land alone does not trigger prevailing wage, but City land conveyed through it may. ICLT home, about, history, process, partnerships and properties pages and the September 23, 2026 letter opened on irvineclt.org.
+- Source: https://irvineclt.org/our-process/
+- Confidence: verified (researched 2026-11-08)
+
+**Residential Density Bonus Standards (Irvine Zoning Ordinance Sec. 2-3-10)**
+- Agency: City of Irvine Community Development Department, Planning Services
+- Type: density bonus
+- Typical award: Requirement and entitlement, not a subsidy. Implements Government Code 65915 to 65918 by reference: density bonuses, incentives and concessions, waivers and parking ratios per state law, documented in a density bonus housing agreement recorded as a condition of the discretionary approval; development standards may be modified under Sec. 2-3-10.C for projects providing the Chapter 2-3 affordable units.
+- AMI requirement: State thresholds (5% very low, 10% low, 10% moderate for-sale, 100% affordable); 55-year rental covenants.
+- Cycle: rolling (next: Applies at project application.)
+- Layering notes: Irvine has no local housing trust fund NOFA, no fee waiver ordinance for affordable units and no city-run developer NOFA; the local tools are the 15% inclusionary requirement, in-lieu fund, credits program, Irvine Community Land Trust and this density bonus section. Irvine receives its own CDBG, HOME, PLHA and HHAP allocations (HHAP Round 6 $5,947,855 per the County record) but those pages could not be opened this pass. Irvine is not a Prohousing designated city per the HCD list opened 2026-11-08.
+- Source: https://www.zoneomics.com/code/irvine-CA/chapter_2
 - Confidence: verified (researched 2026-11-08)
 
 
@@ -5256,6 +5478,89 @@ Generated 2026-11-08, 568 total records
 - Cycle: rolling (next: Applies at first approval with an Affordable Housing Plan; Affordable Housing Agreement before final map or building permit. Housing Element Program 8 scheduled a 2024 review of the inclusionary and commercial linkage fee structure; the Council heard a FY 2026-27 Master Fee Schedule and nexus study update in March 2026, so confirm the current per square foot rate with Planning Services.)
 - Layering notes: San Ramon's 15% rental requirement with half the units at very low income is the deepest in the county among the priority cities and, combined with Bishop Ranch's build-out, produces receiver-site deals: the Canopy (BR 8) Affordable Site Development Agreement introduced January 13, 2026 (Ordinance 536, adopted January 27, 2026) has Sunset Development dedicating a rough-graded site with impact fees paid to Eden Housing for 161 affordable units that absorb the inclusionary obligations of 255 Canopy single-family homes (raised from 15% to 22.5%) and the CityWalk apartments, plus $3,000 per market-rate unit (about $765,000) paid into the Affordable Housing Fund. Dougherty Valley affordable units (Highlands Point, Muirlands, Seville, Valencia, Cornerstone at Gale Ranch and others, about 1,886 affordable units citywide) are governed by Contra Costa County affordability agreements under the Dougherty Valley Settlement Agreement and the County's Chapter 822-4, not this ordinance, and several 20-year moderate-income agreements expire in 2026. Ordinance text read at source_url; the Canopy staff report was read on the City's IQM2 agenda host (https://sanramonca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=4882).
 - Source: https://www.sanramon.ca.gov/UserFiles/Servers/Server_10826046/File/Our%20City/Departments/Community%20Development/Planning/ORD%20520%20Amended%20Inclusionary%20Housing%20Ordinance%202023.pdf
+- Confidence: verified (researched 2026-11-08)
+
+
+### City of Santa Ana
+
+**Affordable Housing Development RFP No. 26-004A (Inclusionary Housing Fund, HOME, HOME-ARP and Housing Successor Agency loans)**
+- Agency: City of Santa Ana Community Development Agency, Housing Division, 20 Civic Center Plaza M-26, (714) 667-2250; bid contact Jacques Lam, JLam@santa-ana.org; solicitation on PlanetBids portal 20137
+- Type: loan
+- Typical award: Open RFP issued May 1, 2026 with $17,507,926 available: Inclusionary Housing Funds $2,628,194, HOME $11,533,196, HOME-ARP $715,622 (permanent supportive housing only), Housing Successor Agency Funds $2,630,914, plus Housing Authority project-based vouchers and Housing Successor land. Available funds are republished each quarter in the Housing Division Quarterly Report and added to the RFP by addendum. Recent City awards: Crossroads at Washington $4,600,000 plus 15 PBVs (86 units), WISEPlace $5,200,000 plus 25 PBVs (48 units), Estrella Springs $1,600,000 plus 89 PBVs (89 units), Wellington $920,000 (9 ownership units, approved July 1, 2025), Richard Lehn Intergenerational Housing $2,021,319 HHAP plus 8 PBVs (11 units).
+- AMI requirement: At least 55-year covenants; Inclusionary and Housing Successor funds serve moderate (120% AMI), low, very low and extremely low income households and may fund mixed-income and mixed-use projects; HOME units at High and Low HOME rents with 20% of HOME-assisted units at 50% AMI in projects of five or more HOME units; HOME-ARP units are permanent supportive housing only. Priority points for substantial rehabilitation and adaptive reuse (motel and office conversions), homeownership, and by-right or shovel-ready projects.
+- Cycle: rolling (quarterly deadlines under a one-year open RFP) (next: Quarterly proposal deadlines: January 11, 2027 and May 3, 2027 at 4:00 p.m. (July 1 and October 1, 2026 rounds have passed); question deadlines November 30, 2026 and April 5, 2027. The City's stated objective is to issue one affordable housing RFP per year and finance at least one multifamily project per year.)
+- Layering notes: Santa Ana is the deepest city pool in Orange County: about $17,500,000 in one RFP, mostly HOME, with loans at 3% simple interest, 55-year term, repaid from 50% of residual receipts, TCAC developer fee limits and a Review Panel scoring process under the 2020 Affordable Housing Funds Policies and Procedures (opened). City-funded projects must comply with the Community Workforce Agreement (30% of craft hours from Santa Ana and Orange County ZIP codes, union hiring halls) and state prevailing wage; Davis-Bacon applies to HOME projects of 12 or more assisted units. Stack with County 2026 Supportive Housing NOFA loans and OCHA or SAHA PBVs, OCHFT gap loans (WISEPlace took $2,500,000 OCHFT MHSA plus $1,500,000 County ARPA) and 4% or 9% credits. The County NOFA pays $95,000 to $105,000 per unit inside Santa Ana, so the City loan is normally the larger local layer. RFP PDF, RFP page, policies PDF and FY 2025-26 Q4 quarterly report opened on santa-ana.gov and its Google Cloud document store.
+- Source: https://storage.googleapis.com/proudcity/santaanaca/2026/05/8841f39e-rfp-26-004a-affordable-housing-development_final.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Affordable Housing Opportunity and Creation Ordinance (Municipal Code Chapter 41, Article XVIII.I, Secs. 41-1900 to 41-1909; Ordinance NS-3019) and in-lieu fee to the Inclusionary Housing Fund**
+- Agency: City of Santa Ana Planning and Building Agency (inclusionary housing plans) and Community Development Agency Housing Division (Inclusionary Housing Fund)
+- Type: other
+- Typical award: Requirement, not a subsidy. Applies to projects of five or more units (lowered from 20 by NS-3019, adopted April 19, 2022) that receive a discretionary density or land use increase. Rental projects: 15% low income, or 10% very low, or 5% extremely low, or a 10% mix (5% low, 3% very low, 2% extremely low). For-sale projects: 5% moderate income. In-lieu fee per habitable square foot on a tiered schedule of $6.00, $9.00, $12.00 and $15.00 by project size, with the $15.00 rate for 20 or more units reducible to $10.00 or $5.00 when the developer commits to local hire (30% of hours) and skilled and trained workforce percentages. The earlier NS-2994 amendment had cut the fee from $15 to $5 per square foot before the 2022 rewrite. Inclusionary Housing Fund receipts since inception: $31,147,483 (FY 2009-2020 $10,800,251; FY 20/21 $3,709,875; FY 21/22 $6,933,320; FY 22/23 $0; FY 23/24 $834,000; FY 24/25 $0; FY 25/26 $1,685,995 from the 408-unit Lowe Enterprises project at 2828 N. Main St.). Fund expenditures to date $20,558,250 for 224 units plus The Link interim shelter ($7,893,866); commitments $1,357,021. Only 35 on-site inclusionary units (25 ownership, 10 rental) have been built since 2011, so the ordinance functions mainly as a fee.
+- AMI requirement: On-site units restricted 55 years; fund may be spent on moderate, low, very low and extremely low income rental and ownership housing, shelter and down payment assistance. Sec. 41-1904.1 incentives for on-site production: up to 25% setback reduction, up to 20 feet of added height, and a local density bonus of 1.5% for each 1% of for-sale units above 5% moderate income, up to 35%.
+- Cycle: rolling (next: Applies at entitlement; fee due before building permit. Fee schedule may be changed only by a five-vote Council supermajority (Sec. 41-1904(c)). The Housing Element programs commit the City to periodic review of the threshold and fee.)
+- Layering notes: This fee stream feeds the Inclusionary Housing Fund that is offered through the City's annual Affordable Housing Development RFP (record above), which is the only Orange County city in-lieu fund with a regular competitive outlet. Orange County has no county inclusionary ordinance, so this is a city-only requirement. Market-rate developers often use the ordinance's local density bonus with the state bonus; the Housing Element notes the 2022 rewrite was meant to recover fee revenue lost after NS-2994 cut the rate to $5. Ordinance page, NS-3019 PDF and the zoneomics code mirror for Article XVIII.I opened; fund figures from the FY 2025-26 Q4 Housing Division Quarterly Report (opened).
+- Source: https://santa-ana.gov/2021-affordable-housing-opportunity-and-creation-ordinance/
+- Confidence: verified (researched 2026-11-08)
+
+**Density Bonus for Affordable Housing (Municipal Code Chapter 41, Article XVI.I, Secs. 41-1600 to 41-1607) and Density Bonus Agreements**
+- Agency: City of Santa Ana Planning and Building Agency, Planning Division, (714) 667-2700
+- Type: density bonus
+- Typical award: Requirement and entitlement, not a subsidy. The local article grants a 25% density bonus plus one additional development incentive under a recorded Density Bonus Agreement, with waivers or modifications of development standards decided under Sec. 41-1607; state law (Government Code 65915) now governs bonus amounts up to 50% or more, up to five incentives or concessions and unlimited waivers, and the City applies the state schedule. The FY 2025-26 Q4 Housing Division report lists the Density Bonus Agreements executed to date, including 415 and 547 rental units restricted under two agreements and smaller sets of 92, 19, 11 and 2 very low income units.
+- AMI requirement: State law thresholds: 5% very low, 10% low, 10% moderate for-sale, or 100% affordable; local code covenants of 30 years when an additional incentive is granted (state law requires 55 years for rental); a monitoring fee set by resolution applies.
+- Cycle: rolling (next: Applies at project application; agreements recorded before building permit.)
+- Layering notes: Santa Ana projects routinely combine the state density bonus with the AHOCO local bonus and the Transit Zoning Code (SD-84) and Metro East overlays; the Housing Element credits the City with 5,130 permits from 2021 to 2024, 152% of its very low, low and moderate RHNA progress through 2025. No fee waiver or impact fee deferral ordinance for affordable housing was found; the County NOFA treats city fee waivers as match but Santa Ana offers none. Density bonus alone does not trigger prevailing wage. Code text read on the zoneomics mirror; the Q4 quarterly report lists agreements.
+- Source: https://www.zoneomics.com/code/santa-ana-CA/chapter_17
+- Confidence: verified (researched 2026-11-08)
+
+**HOME Investment Partnerships, CDBG and ESG entitlement (FY 2025-2029 Consolidated Plan)**
+- Agency: City of Santa Ana Community Development Agency, Housing Division (HOME Participating Jurisdiction since 1994)
+- Type: grant
+- Typical award: Five-year Consolidated Plan FY 2025-2029 anticipates $41,700,000: CDBG $30,123,118, HOME $9,093,495, ESG $2,504,870. HOME development funds are deployed as loans through the Affordable Housing Development RFP ($11,533,196 of HOME and $715,622 of HOME-ARP available in RFP 26-004A), with 15% of each annual HOME allocation reserved for certified CHDOs. CDBG funds public services, infrastructure, the Residential Rehabilitation Program (grants up to $25,000, closed in Q4 FY 2025-26 when funds ran out) and shelter; HOME also funds the My First Home mortgage assistance program.
+- AMI requirement: HOME rental units at or below 80% AMI at High and Low HOME rents, 20% of HOME-assisted units at 50% AMI in projects of five or more HOME units; CDBG national objective benefit to low and moderate income persons.
+- Cycle: annual NOFA (next: Annual Action Plan adopted each spring for the July 1 program year; developer requests go through the Affordable Housing Development RFP quarterly deadlines (next January 11, 2027). Public service and CDBG applications are solicited in the winter before the Action Plan.)
+- Layering notes: Santa Ana's HOME grant (about $1,800,000 a year) is larger than the County Urban County HOME grant ($1,244,583) and the City lends most of it to multifamily deals rather than TBRA, which is why HOME is the largest line in the RFP. Davis-Bacon applies at 12 or more HOME-assisted units; HOME brings NEPA, Section 3 and a HUD subsidy layering review. HOME-ARP is limited to permanent supportive housing. Santa Ana is outside the County Urban County program, so County HOME is not available inside the city. Consolidated Plan page, CDBG page, HOME page and Grants page opened on santa-ana.gov; RFP PDF supplies the HOME terms.
+- Source: https://santa-ana.gov/con-plan/
+- Confidence: verified (researched 2026-11-08)
+
+**Low and Moderate Income Housing Asset Fund (Housing Authority of the City of Santa Ana as Housing Successor to the Santa Ana Community Redevelopment Agency)**
+- Agency: Housing Authority of the City of Santa Ana as Housing Successor, staffed by the Community Development Agency Housing Division
+- Type: loan
+- Typical award: LMIHAF ending balance $4,134,871 at June 30, 2025 (FY 2024-25 SB 341 report); $305,772 deposited and $0 spent on development that year. $2,630,914 of Housing Successor funds are in RFP 26-004A. Past commitments: $6,195,000 in 2016 for 69 units and $13,222,740 in 2017 for 118 units. The Housing Successor also ground-leases former RDA sites for 65 to 99 years: 1126 and 1146 Washington (Crossroads at Washington, 86 units, completed October 2024), 801-809 E. Santa Ana Blvd (FX Residences, 16 to 17 PSH units, completed April 2025), 826 N. Lacy (two Habitat homes, 2023). The City and Housing Successor loan portfolio totals $155,432,612 in 344 loans (325 deferred or residual receipts).
+- AMI requirement: Low and moderate income (up to 120% AMI) under Health and Safety Code 34176.1; at least 30% of expenditures over each five-year period must serve households at or below 30% AMI (extremely low income test reported for July 2020 to June 2025); senior housing limited to 50% of assisted units over 10 years.
+- Cycle: rolling (offered through the annual Affordable Housing Development RFP) (next: Next RFP quarterly deadline January 11, 2027; land assets are offered when the Housing Authority issues site-specific RFPs.)
+- Layering notes: Small compared with the County's $29,000,000 LMIHAF but flexible: no federal strings, can serve moderate income and mixed-use, and the Housing Authority's land is the real asset (Crossroads and FX Residences were built on 65- and 99-year ground leases). Pair with HOME in the same RFP, SAHA PBVs, County MHSA/BHSA capital and OCHFT. Public funds trigger state prevailing wage and the City's Community Workforce Agreement. FY 2024-25 Housing Successor Annual Report PDF and the Successor Agency page opened on santa-ana.gov.
+- Source: https://storage.googleapis.com/proudcity/santaanaca/2026/02/f9299188-fy-2024-2025-housing-successor-annual-report.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Permanent Local Housing Allocation (PLHA), City of Santa Ana entitlement**
+- Agency: City of Santa Ana Community Development Agency, Housing Division
+- Type: grant
+- Typical award: Amount not published on the City site. The 2021-2029 Housing Element lists PLHA alongside Inclusionary and HOME as a funding source for the City's rental production, acquisition-rehabilitation and homeownership programs, and the City's own HHAP allocation is budgeted separately. The Housing Division Quarterly Report (FY 2025-26 Q4) does not list PLHA among available development funds, which suggests the allocation is committed to homeless services and homeownership rather than offered to developers.
+- AMI requirement: Per PLHA statute: rental production at or below 60% AMI, assistance to persons experiencing homelessness, affordable ownership and workforce housing.
+- Cycle: rolling (next: unknown, verify with agency; confirm the five-year PLHA plan allocation and whether any PLHA is set aside for development.)
+- Layering notes: Santa Ana is an HCD PLHA entitlement separate from the County Urban County allocation (County CY 2025 $956,505), and its share is likely larger than the County's, but no City page or report with the figure could be opened this pass; santa-ana.gov site search returned no PLHA page. Treat as a possible add-on to the Housing Division RFP rather than a stand-alone source. Housing Element PDF (September 2022 certified element) opened and is the source for the program description.
+- Source: https://storage.googleapis.com/proudcity/santaanaca/uploads/2022/09/Housing_Element_-Complete-9.16.22_Compressed.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Prohousing Designation (HCD Prohousing Designation Program)**
+- Agency: City of Santa Ana Planning and Building Agency; designation issued by HCD
+- Type: other
+- Typical award: Not a direct subsidy. Santa Ana appears on HCD's list of Prohousing Designated Jurisdictions, which gives projects inside the city bonus points or priority processing in AHSC, Infill Infrastructure Grant, Transformative Climate Communities, SCCP, LPP, TIRCP and STPG, and makes the City eligible for the Prohousing Incentive Program (PIP).
+- AMI requirement: Follows the state program applied for (AHSC and IIG serve lower income projects at or below 80% AMI).
+- Cycle: rolling (next: Designation is good for four years from award and must be renewed; PIP rounds are announced by HCD. Confirm the designation date with the Planning Division.)
+- Layering notes: The only Prohousing city among the five Orange County priority cities (Anaheim, Irvine, Huntington Beach and Garden Grove are not on the list opened 2026-11-08), so AHSC and IIG applications in Santa Ana carry the designation points. The City's own HHAP allocation, SAHA PBVs and the RFP loans make a full local stack for AHSC-sized projects. HCD designated jurisdictions page opened.
+- Source: https://www.hcd.ca.gov/planning-and-research/prohousing/designated-jurisdictions
+- Confidence: verified (researched 2026-11-08)
+
+**Project-Based Vouchers, Housing Authority of the City of Santa Ana (SAHA)**
+- Agency: Housing Authority of the City of Santa Ana (Community Development Agency), waiting list hotline (714) 667-2284
+- Type: other
+- Typical award: PBVs are committed to City-financed projects through the Affordable Housing Development RFP: Estrella Springs 89 PBVs (89 PSH units, former Budget Inn), WISEPlace on Broadway 25 PBVs (15 set aside for domestic violence survivors), Crossroads at Washington 15 PBVs (43 PSH units of 86), Richard Lehn Intergenerational Housing 8 PBVs (11 units, under construction), plus earlier commitments at Casa Querencia (57 units), Heroes' Landing (75), The Orchard (72) and FX Residences (17). PBV waiting lists for Crossroads at Washington and Andalucia closed April 30, 2026. SAHA received 25 Foster Youth to Independence vouchers in August 2025. Total HCV count not confirmed from an opened document.
+- AMI requirement: PBV households at or below 50% AMI at admission (30% of adjusted income toward rent); PSH units generally 30% AMI with Coordinated Entry referrals; HAP contracts up to 20 years.
+- Cycle: rolling (requested with or without capital in the Affordable Housing Development RFP) (next: Request PBVs in the RFP quarterly rounds (next January 11, 2027); SAHA's FY 2026 Annual Plan draft (Feb 17, 2026) was opened but lists no fixed PBV allotment.)
+- Layering notes: Santa Ana is one of four PHAs in Orange County (with OCHA, Anaheim and Garden Grove) and has been the most active in project-basing: 89 PBVs at Estrella Springs is the largest single PBV award in the county. A HAP contract is not itself a prevailing wage trigger but Davis-Bacon applies to new construction or rehab of nine or more PBV units and PBVs bring a HUD subsidy layering review. Combine with City HOME or Housing Successor loans, County MHSA/BHSA capital and OCHFT. The City also receives its own HHAP allocation (Richard Lehn used $2,021,319 HHAP), so the operating stack for PSH can be entirely city-controlled. PSH properties page, Housing Authority page, PBV waiting list notices and the 2025 Affordable Housing Awards release opened on santa-ana.gov.
+- Source: https://santa-ana.gov/about-our-permanent-supportive-housing-properties/
 - Confidence: verified (researched 2026-11-08)
 
 
