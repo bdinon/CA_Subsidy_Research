@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 552 total records
+Generated 2026-11-08, 568 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -4226,6 +4226,82 @@ Generated 2026-11-08, 552 total records
 - Confidence: needs_confirmation (researched 2026-11-08)
 
 
+### City of Lodi
+
+**CDBG entitlement, City of Lodi (2026-27 Annual Action Plan and annual CDBG application cycle)**
+- Agency: City of Lodi Community Development Department, Neighborhood Services Division (CDBG administration consultant Michael Baker International)
+- Type: grant
+- Typical award: 2026-27 CDBG award $665,263 (2025-26 $655,037; 2024-25 $675,615): capital projects $434,263 including Public Works $235,000, DCDC/HACSJ Salas Park (Lodi Commons) $115,000 and $84,263 unassigned; CBO services $98,000 (15% cap); admin $133,000 including fair housing. 2026-27 cycle anticipated about $310,000 for capital and infrastructure applications. City guideline: 40% of the award net of admin to community-based organizations. No program income.
+- AMI requirement: HUD CDBG national objective (low and moderate income benefit); Consolidated Plan 2024-2028 goal to preserve and increase affordable housing through rehabilitation, land acquisition or partnerships with housing developers.
+- Cycle: annual NOFA (applications December to late January) (next: 2026-27 applications ran December 8, 2025 to January 27, 2026; the 2027-28 cycle should open about December 2026 with applications due late January 2027 and funds available July 1, 2027. 2025-26 CAPER hearing was September 2, 2026. Contact NeighborhoodServices@lodi.gov.)
+- Layering notes: Lodi is a CDBG entitlement city but not a HOME participating jurisdiction; HOME for Lodi projects comes from the San Joaquin Urban County NOFA (Lodi Commons received $230,024 plus $500,000 program income in 2026-27 and $2 million HOME-ARP, county records). City CDBG contributions to housing are small infrastructure or predevelopment pieces ($115,000 to Salas Park in 2026-27), so treat CDBG as a sub-$250,000 layer. Lodi joined the SJCOG San Joaquin Regional Housing Fund by resolution on July 17, 2024 and gets HHAP Round 4 ($652,126) and Round 5 subrecipient funds for shelter and transitional housing. Read from the City CDBG page and the 2026-27 Annual Action Plan PDF.
+- Source: https://www.lodi.gov/183/Community-Development-Block-Grant-Program
+- Confidence: verified (researched 2026-11-08)
+
+**City-owned sites for affordable housing (Housing Element Program 1.16 Surplus Land Act; Salas Park right-of-way with HACSJ; 130 West Century Boulevard)**
+- Agency: City of Lodi Community Development Department and City Council
+- Type: other
+- Typical award: Land contribution, not cash. Salas Park former right-of-way (about 3 acres rezoned to High Density Residential by Ordinance 2026, August 2024): City agreement with the Housing Authority of the County of San Joaquin for up to 110 affordable units, first phase Lodi Commons (DCDC Senior Housing at Salas Park, 54 senior units plus manager) funded with County HOME, HOME-ARP, HHAP, Congressional Community Project funds and $115,000 City CDBG. 130 West Century Boulevard (about 2.5 acres, Housing Element capacity 53 lower income units) under Council discussion January 27, 2026 with no decision. Program 1.16 targets 101 lower income units on four City sites, with RFP or sale by 2026, ENA 2026, entitlements 2027-2028, permits 2029.
+- AMI requirement: Lower income units counted toward RHNA; Surplus Land Act priority to affordable housing developers (25% affordable minimum under Government Code 54233 when sold for housing).
+- Cycle: rolling (next: Housing Element Program 1.16 calls for an action plan to sell or RFP City-owned land for affordable housing by 2026 and incentives for affordable housing on City sites by 2026; watch Council agendas for a Surplus Land Act declaration on 130 West Century Boulevard and the remaining Salas Park phase (56 units).)
+- Layering notes: Lodi's only material local contribution to multifamily deals is land; the City budget has no housing fund and no RDA housing successor fund appears in the Housing Element or in Council items since 2024. The HACSJ partnership shows the working model: City land plus County HOME and HOME-ARP, HHAP, HACSJ PBVs and tax credits (county records). A developer other than HACSJ would need a Surplus Land Act process. Read from the City 2026-27 Annual Action Plan PDF (Salas Park partnership) and the Legistar staff reports for the January 27, 2026 Century Boulevard item.
+- Source: https://www.lodi.gov/DocumentCenter/View/10072/26-27-AAP-Final-Draft-Public-Review-050226-060326-PDF
+- Confidence: verified (researched 2026-11-08)
+
+**Lodi Housing Element 2023-2031 incentive programs (Program 1.6 fee waivers, reductions or deferrals for infill at 20 or more units per acre; Program 1.12 incentives for special needs housing; Program 1.5 funding applications)**
+- Agency: City of Lodi Community Development Department
+- Type: fee waiver
+- Typical award: Not yet adopted as a standing program. Program 1.6 commits the City to adopt by 2025 one or more incentives for infill housing at 20 or more units per acre: parking credits, fee waivers, reductions or deferrals when financially feasible, priority processing. Program 1.12 commits to incentives (reduced standards, fee waivers or financial assistance) for housing for persons with disabilities by 2026. Program 1.5 sets a goal of the City securing $1 million in state or federal housing funds by 2028 and $2 million by 2031. Housing Element impact fee estimate: about $18,948 development impact fees plus $11,468 building fees per single-family home; multifamily fees lower per unit.
+- AMI requirement: Program 1.6 objective: incentivize 100 extremely low, 200 very low and 200 low income units on infill parcels; Program 1.12 objective 40 special needs units.
+- Cycle: rolling (next: No adopting resolution found through 2026-11-08; the Housing Element deadline for Program 1.6 (2025) has passed, so ask Planning (209) 333-6711 whether a fee deferral or waiver policy is before Council. Lodi is also adding Chapter 15.69 (Agricultural Mitigation Fee) and 15.70 (Parkland Dedication and In-Lieu) in October 2026, which add costs rather than relief.)
+- Layering notes: Lodi has no housing trust fund, inclusionary ordinance, in-lieu fee or housing successor fund; HOME comes only through the County. Until Program 1.6 is adopted, the only fee relief is state law (ADU fee exemptions, SB 937 fee timing). Expect County HOME plus SJRHF, HACSJ PBVs and BHSA (county records) to carry gap financing, with City CDBG for off-site infrastructure. Programs read from the adopted 2023-2031 Housing Element PDF on lodi.gov (HCD certified April 11, 2024).
+- Source: https://www.lodi.gov/DocumentCenter/View/8317
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Residential Density Bonus, Lodi Municipal Code Section 17.36.050 (Development Code; Housing Element Program 1.1 update pending)**
+- Agency: City of Lodi Community Development Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement and entitlement incentive, not a subsidy. Bonus of 20% to 35% for 10% low income or 5% very low income units, 5% to 35% for 10% moderate income common interest units, 20% for senior projects, additional child care bonus; maximum 35% in the code text, with the code deferring to state law where it conflicts. At least one incentive for qualifying projects of five or more units.
+- AMI requirement: State density bonus thresholds; affordability covenants per Government Code 65915 (55 years rental).
+- Cycle: rolling (next: Applies at entitlement. Housing Element Program 1.1 commits the City to update 17.36.050 to the current state tier framework (up to 50% and 100% bonuses); the 2025 Development Code amendments (Ordinances 2030 and 2034) addressed other sections, so the density bonus update is still pending as of 2026-11-08.)
+- Layering notes: Lodi has no inclusionary ordinance (Housing Element confirms) and no local in-lieu fee, so the density bonus is the only land-use subsidy. Because the code defers to state law, developers can claim the full state bonus despite the outdated 35% text. Pair with County HOME, SJRHF, HACSJ PBVs and the City surplus land program (next record). Read from the zoneomics mirror of Title 17 Article 3 because municode blocks scripts.
+- Source: https://www.zoneomics.com/code/lodi-CA/chapter_3
+- Confidence: verified (researched 2026-11-08)
+
+
+### City of Manteca
+
+**Density Bonus and Other Incentives, Manteca Municipal Code Chapter 17.72 (Ord. 1501, 2011) and Draft Zoning Code Update (public review October 22 to November 21, 2026)**
+- Agency: City of Manteca Development Services Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement and entitlement incentive, not a subsidy. One density bonus with concessions per Government Code 65915 for 10% lower income, 5% very low income, senior or 10% moderate for-sale units; parking caps of 1 space (0-1 bedroom), 2 (2-3 bedrooms), 2.5 (4 or more bedrooms); waivers of standards that physically preclude the project; density bonus agreement required; pro forma review consultant paid by applicant unless nonprofit. The Draft Zoning Code Update (implementing the 2043 General Plan and 6th Cycle Housing Element) rewrites 17.72 and the 17.200 density bonus definitions and makes Council the approval authority.
+- AMI requirement: State density bonus thresholds; continued affordability per Government Code 65915 (55 years rental) under the agreement required by 17.72.030.
+- Cycle: rolling (next: Applies at entitlement. Draft Zoning Code Update comment period closed November 21, 2026; Planning Commission hearing noticed, Council adoption expected late 2026 or early 2027.)
+- Layering notes: Manteca's 2011 chapter has not kept pace with state law (no 50% or 100% bonus tiers, old parking ratios), so state law controls in practice; the pending Zoning Code Update should fix this. Section 17.72.030.G still references a Chapter 17.32 Affordable Housing Requirements that no longer exists in the code (see next record). Manteca has no local trust fund, in-lieu fund or NOFA, so the land-use incentive plus County and regional sources (Urban County CDBG and HOME, SJRHF, HACSJ PBVs, BHSA) are the whole local layer. Read from the zoneomics mirror of Title 17 (ecode360 blocks scripts); the City's Title 17 page confirms the update schedule.
+- Source: https://www.zoneomics.com/code/manteca-CA/chapter_4
+- Confidence: verified (researched 2026-11-08)
+
+**Manteca 6th Cycle Housing Element implementation and Urban County CDBG/HOME (no city-run housing NOFA)**
+- Agency: City of Manteca Development Services Department; San Joaquin County Human Services Agency Neighborhood Preservation Division for CDBG and HOME
+- Type: grant
+- Typical award: Manteca's FY 2026-27 Urban County CDBG request is $420,911; HOME for Manteca projects comes from the County HOME NOFA (about $973,290 countywide entitlement). The City itself publishes no housing NOFA, trust fund or fee waiver program; its housing work in 2025-2026 is the Zoning Code Update implementing the 2043 General Plan (adopted 2023) and the 6th Cycle Housing Element (RHNA 4,822 units, about 3,270 at or below 120% AMI per press coverage of the draft).
+- AMI requirement: HUD CDBG national objective and HOME rent and income limits for County-funded projects; Housing Element programs may offer density bonus and streamlined review only.
+- Cycle: annual NOFA (next: County Urban County NOFA for FY 2027-28 expected about October to December 2026 (county record). Confirm Manteca Housing Element programs (fee deferral, surplus land, incentives) with Planning once the Housing Element PDF is reachable.)
+- Layering notes: Documented so the gap is explicit: Manteca is the county's fastest growing city but has no local affordable housing capital. Developers should apply to the County HOME NOFA, SJRHF gap loans, HACSJ PBVs and BHSA (county records) and use the Chapter 17.72 density bonus. The Title 17 page (opened) confirms the Zoning Code Update implements the 6th Cycle Housing Element; the Housing Element document itself is hosted on the blocked govaccess server.
+- Source: https://www.manteca.gov/249/Zoning-Ordinance-Title-17
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Manteca Affordable Housing Requirements (former Chapter 17.32) and proposed affordable housing fee (no active inclusionary ordinance, in-lieu fund or housing trust fund)**
+- Agency: City of Manteca Development Services Department
+- Type: other
+- Typical award: Not an active program. Current Title 17 has no Chapter 17.32; the chapter is only referenced in 17.72.030.G, indicating the inclusionary requirement was repealed. Local press reported a City nexus study supporting a maximum $16.86 per square foot affordable housing fee and Council discussion of adopting a fee, but no ordinance or fee resolution was found on manteca.gov or in the Draft Zoning Code Update. No Manteca Housing Trust Fund, in-lieu fee fund or housing successor LMIHAF appears in City pages.
+- AMI requirement: None in effect.
+- Cycle: closed/inactive (next: Verify with Planning (209) 456-8540 whether an affordable housing impact or linkage fee is scheduled for Council action with the Zoning Code Update, and whether any in-lieu balance remains from the former Chapter 17.32.)
+- Layering notes: Manteca receives CDBG through the San Joaquin Urban County ($420,911 FY 2026-27 request, county record) and HOME through the County NOFA; the City is a member of the SJCOG San Joaquin Regional Housing Fund. Expect no City gap money; County HOME, SJRHF, HACSJ PBVs and BHSA plus the density bonus are the stack. Blocked this pass: manteca.prod-as.govaccess.org (6th Cycle Housing Element PDF, connection refused), manteca.gov site search and Agenda Center (JavaScript only); the adopted General Plan PDF on manteca.gov lists the Housing Element under separate cover. Source is the Title 17 code mirror chapter that carries the dangling 17.32 reference.
+- Source: https://www.zoneomics.com/code/manteca-CA/chapter_4
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+
 ### City of Menlo Park
 
 **Below Market Rate (BMR) Housing Fund NOFA 2026/27**
@@ -5408,6 +5484,69 @@ Generated 2026-11-08, 552 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Stockton
+
+**Affordable Housing Incentives and Density Bonus Provisions, Stockton Municipal Code Chapter 16.40 (State bonus to 50%, Tier-1 to 75%, Tier-2 to 100%; Ord. 2020-12-01-1502, 2022-07-12-1601-02, 2025-06-03-1601)**
+- Agency: City of Stockton Community Development Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement and entitlement incentive, not a subsidy. State Density Bonus up to 50%; Tier-1 supplemental bonus 50% to 75% with 30 eligibility points; Tier-2 76% to 100% with 50 points. Points: one per additional percent of very low or low income units, LEED 15 to 30, CALGreen Tier I up to 20, 10% on-site renewable 15, adaptive reuse of historic buildings 20, plus other community benefits. Projects not qualifying for state concessions get three local concessions: setback reduction up to 25%, parking reductions of 25% to 100% scaled to the share of lower income units, lot coverage or FAR increases of 5% to 20%, lot coverage up to 25%, height plus 12 feet or 10%.
+- AMI requirement: State law thresholds (5% very low, 10% low, 100% affordable, senior, moderate for-sale) for the base bonus; supplemental tiers require additional affordable units or community benefits scored under 16.40.050; density bonus housing agreement recorded per 16.40.070.
+- Cycle: rolling (next: Applies at entitlement. Title 16 was amended June 3, 2025 and again in 2025-2026 (Chapter 16.20, 16.80.310, 16.244.010) to implement the 2023-2031 Housing Element; check the current code before design.)
+- Layering notes: Stockton's 100% bonus exceeds state law and was one of HCD's stated reasons for the Prohousing Designation. Pair with the PFF exemption and the Housing NOFA; the Housing Element also allows duplexes by right in single-family zones. Parking can go to zero for projects with 75% or more lower income units, which matters for downtown and transit sites. Read from the zoneomics code mirror of Title 16 Division 3 because the City's code publisher blocks scripts.
+- Source: https://www.zoneomics.com/code/stockton-CA/chapter_3
+- Confidence: verified (researched 2026-11-08)
+
+**CDBG, HOME and ESG entitlements, City of Stockton (2026-27 Annual Action Plan, CDBG/ESG NOFA and Real Property Acquisition NOFA)**
+- Agency: City of Stockton Housing, Homelessness, Events and Parking Department (formerly Economic Development Department Housing Division)
+- Type: grant
+- Typical award: 2026-27 allocations: CDBG $3,229,216 plus about $350,000 program income, HOME $1,382,561, ESG $284,821. HOME budget: $1,324,906 HOME Housing Loans for multifamily rehab or new construction, $207,384 CHDO set-aside, $150,000 program delivery, $138,256 admin. CDBG largely to public infrastructure ($4,914,998 with carryover) and public services; 2026-27 CDBG/ESG public service NOFA awarded $498,509 CDBG and $262,528 ESG to nonprofits. 2024 Real Property Acquisition NOFA offered about $4,551,524 of CDBG and PIP for nonprofit site acquisition (5 applications, $10.0 million requested; awards included $1,500,000 to Parents by Choice for transitional youth housing at 523 E. Main and up to $800,000 CDBG to STAND for scattered-site acquisition).
+- AMI requirement: HOME rents and incomes (at or below 60% AMI for rental, 15% CHDO set-aside), CDBG national objective, ESG homeless eligibility. HOME preference policy (2024, in 2025-2029 Consolidated Plan) favors projects serving targeted populations named in the Consolidated Plan.
+- Cycle: annual NOFA (next: HOME and other housing capital are awarded through the annual Housing NOFA (see NOFA record). CDBG/ESG public service NOFA runs each winter for awards in April (2026-27 awards approved April 2026). Substantial Amendments to the 2025-2029 Consolidated Plan and 2026-27 AAP were out for comment October 9 to November 10, 2026 with a Council hearing November 10, 2026. 2027-28 AAP draft expected spring 2027.)
+- Layering notes: Stockton is its own HUD entitlement and HOME participating jurisdiction, so it is outside the San Joaquin Urban County CDBG/HOME program (county record) and County HOME cannot be used inside Stockton city limits. HOME match is currently 100% waived by HUD. HOME money is the backbone of the City Housing NOFA and has been combined with PLHA, LMIHF, HHAP and PIP in every recent award. CDBG has been used for land acquisition NOFAs for nonprofits, which is unusual in the region. HACSJ has secured City NOFA funds for its DCDC projects (Danny Drive, Sierra Vista). Draft 2026-27 AAP read from the Stockton Legistar attachment; the City housing page lists the same plans.
+- Source: https://legistar1.granicus.com/stockton/attachments/b79ff976-94f8-4817-ad9f-c36ef89e48dc.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**City-Wide Affordable Housing Development Public Facilities Fee (PFF) Exemption Program (with Greater Downtown Residential PFF Exemption; Resolutions 2015-11-17-1602, 2018-02-06-0504, 2018-11-06-1402, 2020-12-15-1105)**
+- Agency: City of Stockton Economic Development Department (fee programs) with Community Development Department Permit Center
+- Type: fee waiver
+- Typical award: Full exemption from seven Public Facilities Fee categories (city office space, libraries, fire stations, parkland, community recreation centers, police stations, street improvements) for qualifying new affordable housing anywhere in city limits; the same categories are exempt for all new residential development in the Greater Downtown area. Dollar value depends on the current PFF schedule (not published on the program page); the program was cited by HCD as a basis for Stockton's 2023 Prohousing Designation. Other PFFs (water, wastewater, air quality, habitat, school fees) and the SJMSCP habitat fee still apply.
+- AMI requirement: Qualifying affordable housing development as defined in the authorizing resolutions (deed-restricted units); confirm the affordability threshold and covenant term with the Economic Development Department before relying on it.
+- Cycle: rolling (next: Programs sunset when the City completes its Master Infrastructure Plans and PFF Nexus Study and adopts new fees; Resolution 2020-12-15-1105 extended them, and the related Stockton Economic Stimulus Plan (SESP) fee reduction is being phased out over five years from 2025. Apply before building permit issuance through the Economic Development Department.)
+- Layering notes: Most valuable local incentive in Stockton after the NOFA; the exemption reduces per-unit soft costs by the PFF categories listed and the downtown exemption applies to market-rate units too, which helps mixed-income deals. A non-residential short-term PFF deferral program (through December 31, 2027) and the non-residential 5 or 10 year deferral do not apply to housing. Stacks with the Chapter 16.40 density bonus and the Housing NOFA; fee exemptions count as public assistance for Labor Code 1720 analysis, so confirm prevailing wage exposure with counsel. Read from the City Business Assistance page (financial_assistance.php); authorizing resolutions are linked there.
+- Source: https://www.stocktonca.gov/business/economic_development/financial_assistance.php
+- Confidence: verified (researched 2026-11-08)
+
+**Low and Moderate Income Housing Fund (LMIHF), Successor Agency to the Stockton Redevelopment Agency (housing successor)**
+- Agency: City of Stockton as Housing Successor; administered by the Housing Division through the Housing NOFA
+- Type: loan
+- Typical award: Fund balance not published in the 2026 NOFA documents; the Housing Source Funds Description lists LMIHF as a NOFA source for acquisition, new construction and conversion or rehabilitation for households up to 120% AMI. Recent uses: part of $1,614,000 HOME and LMIHF allocated to Sierra Vista III in 2019 and 2020 (de-obligated March 2026 and returned to the NOFA pool); part of $1,126,893 PLHA and LMIHF to Kentfield Apartments rehab (2024).
+- AMI requirement: Housing successor rules (Health and Safety Code 34176.1): 55-year rental covenants, income targeting by statute with at least 30% of expenditures for extremely low income households over each five-year period; City NOFA applies a 55-year regulatory agreement.
+- Cycle: annual NOFA (next: Deployed only through the Housing NOFA (next expected about October 2026); no standalone LMIHF application. Check the annual housing successor report filed with the City's HCD Annual Progress Report for the current balance.)
+- Layering notes: Stockton is one of the few San Joaquin County cities with legacy redevelopment housing money; Tracy, Manteca and Lodi records show none in active use. LMIHF is the most flexible source in the Stockton pool (local money, up to 120% AMI, no federal cross-cutting rules) and is usually paired with HOME to cover costs HOME cannot. Treat as a small, lumpy source: the only recent LMIHF commitments were under $1.7 million each. Combine with HACSJ PBVs and SJRHF gap loans (county records). Fund description opened from the Stockton Legistar attachment for the April 2026 award item; the Successor Agency meets concurrently with Council.
+- Source: https://legistar1.granicus.com/stockton/attachments/540653fd-9f3a-493b-85ca-5810bff4fdb1.docx
+- Confidence: verified (researched 2026-11-08)
+
+**Prohousing Designation and Prohousing Incentive Pilot (PIP) funds, City of Stockton (2023 designation, 2026 renewal application, PIP Rounds 1 to 4)**
+- Agency: City of Stockton Housing, Homelessness, Events and Parking Department with HCD
+- Type: grant
+- Typical award: Stockton received $2.37 million in PIP funds after its 2023 designation (one of 22 jurisdictions then designated) and applied by March 31, 2026 for PIP Round 4 ($1,000,000 base plus up to $500,000 bonus, $1.5 million total, no match). PIP funds are placed in the Housing NOFA for predevelopment, construction, acquisition, rehabilitation or capitalized operating subsidies for households up to 120% AMI, and PIP was part of the $4.55 million 2024 property acquisition NOFA. The 2026 renewal application is out for public comment November 2 to December 8, 2026 (Council hearing December 8, 2026, 1:00 PM) and would keep the City eligible for PIP and HHAP preferences through 2029.
+- AMI requirement: PIP: affordable to extremely low through moderate income households, or workforce housing up to 120% AMI (150% in high-cost areas); City NOFA covenants apply.
+- Cycle: annual NOFA (next: PIP money reaches developers only through the City Housing NOFA (next expected about October 2026). Prohousing renewal hearing December 8, 2026; PIP Round 4 award decision pending from HCD.)
+- Layering notes: Designation also gives Stockton projects scoring preference in state competitive programs (AHSC, IIG, MHP, HHAP), which helps the local stack indirectly. Stockton Measure M (Strong Communities sales tax) funds libraries and recreation, not housing, and Measure W funds public safety; neither is a housing source despite appearing in the brief. Read from the City housing page, which also lists the 2025-2029 Consolidated Plan and 2026-27 AAP documents.
+- Source: https://www.stocktonca.gov/business/economic_development/housing_index.php
+- Confidence: verified (researched 2026-11-08)
+
+**Stockton Affordable Housing NOFA (annual Housing NOFA; HOME, HOME-ARP, PLHA, LMIHF, NSP, CDBG, HHAP and PIP loan pool)**
+- Agency: City of Stockton Economic Development Department, Housing Division (underwriting consultant TDA Consulting Inc.)
+- Type: loan
+- Typical award: 2025 Housing NOFA released October 30, 2025, closed December 18, 2025: 8 proposals requesting $28.2 million for 522 units; $11,979,838 available after de-obligating $1,614,000 of HOME and LMIHF from Sierra Vista III. Awards: Fairview Terrace (Mutual Housing California, 76 senior units) $2,800,000 gap loan approved March 31, 2026 (Resolution 2026-03-31-1601) on top of $7,037,865 HOME awarded November 19, 2024; Don Shalvey Apartments (Visionary Home Builders, 108 family units, TDC $84.0 million) $5,000,000 and Danny Drive (DCDC, 66 senior units, TDC $39.7 million) $4,179,838 recommended April 2026 after Council deferred them on March 31. 2024 NOFA (January 29, 2024) offered about $16.1 million and funded Fairview Terrace $7,037,865 HOME, Kentfield Apartments rehab $1,126,893 PLHA and LMIHF, Casa de Mariposa $747,055, plus two HHAP projects. Typical award $0.7 million to $7 million per project.
+- AMI requirement: 55-year regulatory agreement and loan term at 3% simple interest, repaid from residual receipts proportionate to the City share of permanent financing; projects served 30% to 80% AMI (families) and 30% to 60% AMI (seniors). HOME-funded units carry the HOME affordability period inside the 55-year term. Article XXXIV authority: voters allow Council to approve up to 500 assisted units per year.
+- Cycle: annual NOFA (fall release) (next: Next Housing NOFA expected about October 2026 under the Council-approved process (Motion 2025-11-04-1601: release, two-week question window, due date at least 45 days after release, pass/fail review, three-rater scoring, matrix to Council two weeks before award). No 2026 NOFA posted on the housing page as of 2026-11-08; confirm with hhep@stocktonca.gov, (209) 937-8538.)
+- Layering notes: Stockton is the only city in San Joaquin County running a competitive gap-loan NOFA, and it is the main local soft source after the SJCOG San Joaquin Regional Housing Fund (county record). Pool is HUD and state pass-through plus housing successor LMIHF, so awards must fit each source's rules and deadlines; the City requires the full stack to be committed before executing loan documents and de-obligates allocations older than three years that cannot start within three years (Sierra Vista III lost $1.6 million in 2026). Scoring: developer capacity 30, proforma 30, populations served 15, design 15, leverage 10; an AI score was averaged with three human raters in 2025. Stacks with HACSJ project-based vouchers, County HOME (Urban County does not cover Stockton), BHSA and managed care plan grants (county records), the City PFF exemption and the 100% density bonus (records below). 2026 awards included HOME-ARP and PIP as eligible sources. Source documents read through the Stockton Legistar API and Granicus attachments; stocktonca.gov Economic Development pages have moved to /business/economic_development/housing_index.php.
+- Source: https://legistar1.granicus.com/stockton/attachments/b99be6e6-5a2b-44a6-b6d2-10c2eca86d3d.pdf
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Suisun City
 
 **Suisun City Housing Authority Project-Based Vouchers (2023 RFP, up to 96 PBVs) and Almond Gardens Apartments**
@@ -5448,6 +5587,39 @@ Generated 2026-11-08, 552 total records
 - Cycle: annual NOFA (next: PLHA allocations arrive annually from HCD; the City's PLHA plan and any inclusionary decision were not found (suisun.com 403). Ask Development Services whether Council acted on Program 1.E and how PLHA is programmed.)
 - Layering notes: A Suisun City project must bring its own subsidy: state HOME or CDBG with the City as applicant, CMFA bonds and TCAC (Almond Gardens model), County SCHTF (county record), and the City's land or fee concessions (separate record). About $85,000 a year of PLHA is too small for gap loans unless pooled. Source is the HCD-posted October 2022 review draft; the adopted element PDF on suisun.com returned 403.
 - Source: https://www.hcd.ca.gov/housing-elements/docs/suisun-city-6th-draft100422.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+
+### City of Tracy
+
+**CDBG and HOME in Tracy (San Joaquin Urban County share, City FY 2026-27 CDBG/HOME application) and City use of PLHA and HHAP**
+- Agency: City of Tracy Economic Development (CDBG/HOME) and Homeless Services Division; funds pass through San Joaquin County Neighborhood Preservation Division
+- Type: grant
+- Typical award: Tracy's FY 2026-27 Urban County CDBG entitlement request is $521,683 (county record). The City posted a FY 2026-27 CDBG and HOME Notice of Funding Availability (contact Alexandra Pineda, cdbg.home@cityoftracy.org, (209) 831-6491) but the notice could not be opened this pass. City uses of flexible funds have gone to the Temporary Emergency Housing Facility shelter: $331,794 CDBG recommended for shelter operations (January 30, 2026), $18,650 County CDBG for furnishings (March 3, 2026), a $786,574 PLHA application for shelter operations (February 20, 2026), HHAP Round 4 $436,246 and a Round 5 application (December 19, 2025), plus $7.17 million County ARPA and a $3 million HUD EDI grant for shelter site work.
+- AMI requirement: HUD CDBG national objective and HOME rent and income limits; County Urban County rules apply.
+- Cycle: annual NOFA (next: County Urban County NOFA for FY 2027-28 expected about October to December 2026 (county record); Tracy's own CDBG/HOME application window for FY 2026-27 has closed. Confirm the City's next cycle with cdbg.home@cityoftracy.org.)
+- Layering notes: Tracy does not control HOME: HOME rental awards are made by the County (for example Lodi Commons and STAND), so a Tracy multifamily deal applies to the County HOME NOFA with a City support letter, and Tracy's CDBG share is small and has been committed to the shelter. PLHA and HHAP have been used for shelter operations rather than capital. Layer County HOME, SJRHF, HACSJ PBVs and BHSA (county records) with the Tracy density bonus. The City news article announcing the CDBG/HOME application returned 404 and the govaccess PDF host refused connections; facts above were read from the City's homelessness actions page (opened) and the county record.
+- Source: https://www.cityoftracy.org/Departments/Homeless-Services/City-and-Council-Actions-to-Address-Homelessness
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Density Bonus, Tracy Municipal Code Title 10 Chapter 10.08 Article 36.5 (Sections 10.08.4650 to 10.08.4695; Ordinance 1378 adopted January 20, 2026)**
+- Agency: City of Tracy Community and Economic Development Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement and entitlement incentive, not a subsidy. Ordinance 1378 repealed the 2008 article (Ord. 1113) and re-enacted Article 36.5 to match current state law: bonus of 5% to 35% (higher for 100% affordable projects under Government Code 65915), one or more concessions or incentives, parking caps, land donation and child care bonuses, and a recorded density bonus housing agreement (10.08.4686).
+- AMI requirement: State thresholds: 10% very low, 20% low (code text uses 70% AMI for low), 50% senior, 20% moderate condominium units; 100% affordable projects under state law.
+- Cycle: rolling (next: Applies at entitlement. Adopted as part of the Housing Element implementation package introduced December 2025 and adopted January 20, 2026; no further hearing scheduled.)
+- Layering notes: Tracy's bonus is the state minimum with no local enhancement, unlike Stockton's 100% tier. The 2023-2031 Housing Element (adopted July 1, 2025, HCD compliance letter August 11, 2025, RHNA 8,830) relies on rezoning rather than local subsidy. Tracy's Residential Growth Management Ordinance governs allotments for market-rate units; confirm whether affordable projects are exempt. Read from the zoneomics mirror of Title 10 because cityoftracy.org returns 403 to scripts and its Municipal Code host blocks automated access.
+- Source: https://www.zoneomics.com/code/tracy-CA/chapter_44
+- Confidence: verified (researched 2026-11-08)
+
+**Tracy Affordable Housing Ordinance, in-lieu fee and Affordable Housing Fund (status unconfirmed)**
+- Agency: City of Tracy Community and Economic Development Department
+- Type: other
+- Typical award: Not confirmed this pass. The current Title 10 Chapter 10.08 code mirror contains only the Article 36.5 density bonus; no inclusionary article, in-lieu fee or affordable housing fund section appears, and Article 33 is absent from the chapter sequence. Search snippets show a June 1, 2021 Council goal to evaluate an inclusionary and in-lieu fee program and a housing trust fund, which suggests any earlier ordinance was repealed or never funded. No Tracy Affordable Housing Fund NOFA was found.
+- AMI requirement: Unknown; none in current code mirror.
+- Cycle: closed/inactive (no active local inclusionary requirement or fund identified) (next: Verify with Planning (209) 831-6400 whether an Affordable Housing Fund balance exists from past in-lieu payments and whether the 2023-2031 Housing Element programs commit to a new inclusionary or linkage fee study; the Housing Element PDF (about 12 MB) could not be opened this pass.)
+- Layering notes: Tracy appears to have no local gap money for multifamily: no trust fund, no in-lieu fee receipts identified, no RDA housing successor fund in current agendas, and HUD money flows through the San Joaquin Urban County (county record). The realistic local layer is land use (density bonus, Housing Element rezoning sites) plus the regional sources: SJRHF gap loans, HACSJ PBVs, County HOME and HOME-ARP, BHSA and managed care plan grants (Health Plan of San Joaquin gave Tracy $595,000 and $1.2 million for its shelter). Blocked: cityoftracy.org (Akamai 403 to scripts; HTML pages under 10 MB readable only through the WebFetch tool), tracyca.prod.govaccess.org (connection refused), Tracy PrimeGov agenda portal not reached. Source is the City's Housing Element Update page, which was opened and documents the July 1, 2025 adoption.
+- Source: https://www.cityoftracy.org/Departments/Community-and-Economic-Development/Planning/General-Plan-Zoning-Ordinance/2023-2031-Housing-Element-Update
 - Confidence: needs_confirmation (researched 2026-11-08)
 
 
