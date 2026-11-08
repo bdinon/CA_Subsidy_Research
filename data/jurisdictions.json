@@ -1,0 +1,321 @@
+{
+  "state": "California",
+  "region_label": "Northern California / Sacramento Valley / Bay Area target markets",
+  "counties": [
+    {
+      "county": "Sacramento",
+      "region": "Sacramento Valley",
+      "priority_cities": [
+        "City of Sacramento",
+        "Elk Grove",
+        "Rancho Cordova",
+        "Citrus Heights",
+        "Folsom"
+      ],
+      "county_housing_authority": "Sacramento Housing and Redevelopment Agency (SHRA)",
+      "notes": "SHRA administers both city and county programs jointly, check for combined NOFAs"
+    },
+    {
+      "county": "Sonoma",
+      "region": "North Bay",
+      "priority_cities": [
+        "Santa Rosa",
+        "Petaluma",
+        "Rohnert Park",
+        "Sonoma"
+      ],
+      "county_housing_authority": "Sonoma County Community Development Commission",
+      "notes": "Active wildfire recovery / rebuild-related housing funds may apply"
+    },
+    {
+      "county": "Napa",
+      "region": "North Bay",
+      "priority_cities": [
+        "City of Napa",
+        "American Canyon",
+        "St. Helena",
+        "Calistoga"
+      ],
+      "county_housing_authority": "Napa County Housing Authority",
+      "notes": ""
+    },
+    {
+      "county": "El Dorado",
+      "region": "Sacramento Valley / Sierra Foothills",
+      "priority_cities": [
+        "Placerville",
+        "South Lake Tahoe"
+      ],
+      "county_housing_authority": "El Dorado County Health and Human Services Agency, Housing Division",
+      "notes": "Tahoe Basin projects may fall under separate TRPA jurisdiction rules, flag if relevant"
+    },
+    {
+      "county": "Solano",
+      "region": "North Bay / Sacramento Valley",
+      "priority_cities": [
+        "Fairfield",
+        "Vacaville",
+        "Vallejo",
+        "Suisun City"
+      ],
+      "county_housing_authority": "Solano County Department of Health and Social Services / Housing Authority of the County of Solano",
+      "notes": ""
+    },
+    {
+      "county": "Yolo",
+      "region": "Sacramento Valley",
+      "priority_cities": [
+        "Davis",
+        "Woodland",
+        "West Sacramento"
+      ],
+      "county_housing_authority": "Yolo County Housing",
+      "notes": "West Sacramento has its own active redevelopment successor agency programs"
+    },
+    {
+      "county": "Contra Costa",
+      "region": "East Bay",
+      "priority_cities": [
+        "Concord",
+        "Richmond",
+        "Antioch",
+        "Walnut Creek",
+        "San Ramon"
+      ],
+      "county_housing_authority": "Contra Costa County Department of Conservation and Development",
+      "notes": ""
+    },
+    {
+      "county": "Alameda",
+      "region": "East Bay",
+      "priority_cities": [
+        "Oakland",
+        "Fremont",
+        "Hayward",
+        "Berkeley",
+        "San Leandro"
+      ],
+      "county_housing_authority": "Alameda County Housing and Community Development Department",
+      "notes": "Oakland and Berkeley run substantial independent local programs, treat as near-county-level in depth"
+    },
+    {
+      "county": "San Joaquin",
+      "region": "Central Valley",
+      "priority_cities": [
+        "Stockton",
+        "Tracy",
+        "Manteca",
+        "Lodi"
+      ],
+      "county_housing_authority": "San Joaquin County Community Development Department",
+      "notes": ""
+    },
+    {
+      "county": "San Mateo",
+      "region": "Peninsula / Bay Area",
+      "priority_cities": [
+        "Redwood City",
+        "San Mateo",
+        "Daly City",
+        "South San Francisco",
+        "Menlo Park",
+        "East Palo Alto",
+        "Burlingame",
+        "San Carlos"
+      ],
+      "county_housing_authority": "San Mateo County Department of Housing",
+      "notes": "Home For All San Mateo County initiative is a useful index of local programs Priority cities expanded 2026-11-07 at user request to add Menlo Park, East Palo Alto, Burlingame and San Carlos (high-income or subsidy-active cities); edit as needed."
+    },
+    {
+      "county": "Marin",
+      "region": "North Bay",
+      "priority_cities": [
+        "San Rafael",
+        "Novato",
+        "Mill Valley"
+      ],
+      "county_housing_authority": "Marin County Community Development Agency / Housing Authority of the County of Marin",
+      "notes": ""
+    },
+    {
+      "county": "Placer",
+      "region": "Sacramento Valley / Sierra Foothills",
+      "priority_cities": [
+        "Roseville",
+        "Rocklin",
+        "Lincoln",
+        "Auburn"
+      ],
+      "county_housing_authority": "Placer County Health and Human Services, Housing and Community Development Division",
+      "notes": ""
+    },
+    {
+      "county": "Orange",
+      "region": "Southern California",
+      "priority_cities": [
+        "Santa Ana",
+        "Anaheim",
+        "Irvine",
+        "Huntington Beach",
+        "Garden Grove"
+      ],
+      "county_housing_authority": "Orange County Housing and Community Development (OC Community Resources) and Orange County Housing Authority (OCHA)",
+      "notes": "Added 2026-11-06 at user request. Priority cities are the five largest by population; edit as needed. Orange County Housing Finance Trust (JPA of County and cities) is a regional source."
+    },
+    {
+      "county": "San Diego",
+      "region": "Southern California",
+      "priority_cities": [
+        "San Diego",
+        "Chula Vista",
+        "Oceanside",
+        "Escondido",
+        "Carlsbad"
+      ],
+      "county_housing_authority": "County of San Diego Housing and Community Development Services (HCDS) and Housing Authority of the County of San Diego (HACSD); the City of San Diego has its own San Diego Housing Commission (SDHC)",
+      "notes": "Added 2026-11-06 at user request. Priority cities are the five largest by population; edit as needed. Regional Task Force on Homelessness (RTFH) is the CoC (CA-601)."
+    },
+    {
+      "county": "Santa Clara",
+      "region": "Bay Area",
+      "priority_cities": [
+        "San Jose",
+        "Sunnyvale",
+        "Santa Clara",
+        "Mountain View",
+        "Milpitas"
+      ],
+      "county_housing_authority": "County of Santa Clara Office of Supportive Housing (OSH) administers County housing funds including 2016 Measure A; Santa Clara County Housing Authority (SCCHA) is the PHA for the county except where the City of San Jose contracts with it",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the five largest by population; edit as needed. The CoC is CA-500 (San Jose/Santa Clara City and County), led by OSH and Destination: Home."
+    },
+    {
+      "county": "San Benito",
+      "region": "Central Coast",
+      "priority_cities": [
+        "Hollister",
+        "San Juan Bautista"
+      ],
+      "county_housing_authority": "San Benito County Resource Management Agency (Planning) with the Housing Authority of the County of San Benito (PHA)",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the largest or most development-active; edit as needed. Small county; check the Hollister HOME and CDBG programs and the Community Foundation for San Benito County."
+    },
+    {
+      "county": "Santa Cruz",
+      "region": "Central Coast",
+      "priority_cities": [
+        "Santa Cruz",
+        "Watsonville",
+        "Capitola",
+        "Scotts Valley"
+      ],
+      "county_housing_authority": "County of Santa Cruz Housing for Health Division and Community Development and Infrastructure Department; Housing Authority of the County of Santa Cruz (PHA, MTW cohort)",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the largest or most development-active; edit as needed. Measure Q 2024 transportation tax has no housing component; the County Affordable Housing Fund and the Housing Trust Fund with Housing Trust Silicon Valley are the local sources; CoC CA-508."
+    },
+    {
+      "county": "Ventura",
+      "region": "Southern California",
+      "priority_cities": [
+        "Oxnard",
+        "Thousand Oaks",
+        "Simi Valley",
+        "Ventura",
+        "Camarillo"
+      ],
+      "county_housing_authority": "County of Ventura Executive Office, Community Development and Housing; Area Housing Authority of the County of Ventura (PHA for unincorporated and most cities except Oxnard, Port Hueneme, Santa Paula and San Buenaventura, which have their own)",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the largest or most development-active; edit as needed. County Housing Trust Fund Ventura County (nonprofit) and the County Homeless Services; CoC CA-611."
+    },
+    {
+      "county": "Fresno",
+      "region": "Central Valley",
+      "priority_cities": [
+        "Fresno",
+        "Clovis",
+        "Reedley",
+        "Sanger"
+      ],
+      "county_housing_authority": "County of Fresno Department of Public Works and Planning, Community Development Division; Fresno Housing (joint Housing Authorities of the City and County of Fresno, MTW cohort)",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the largest or most development-active; edit as needed. City of Fresno runs its own large housing programs (Pass 3); CoC CA-514 Fresno-Madera."
+    },
+    {
+      "county": "Madera",
+      "region": "Central Valley",
+      "priority_cities": [
+        "Madera",
+        "Chowchilla"
+      ],
+      "county_housing_authority": "Madera County Community and Economic Development Department; Housing Authority of the City of Madera (serves the county)",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the largest or most development-active; edit as needed. Non-entitlement county for CDBG and HOME; shares CoC CA-514 with Fresno."
+    },
+    {
+      "county": "Mendocino",
+      "region": "North Coast",
+      "priority_cities": [
+        "Ukiah",
+        "Fort Bragg",
+        "Willits"
+      ],
+      "county_housing_authority": "Community Development Commission of Mendocino County (housing authority and County housing programs)",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the largest or most development-active; edit as needed. Non-entitlement county; Measure B behavioral health facilities tax; CoC CA-509."
+    },
+    {
+      "county": "Merced",
+      "region": "Central Valley",
+      "priority_cities": [
+        "Merced",
+        "Los Banos",
+        "Atwater"
+      ],
+      "county_housing_authority": "Merced County Community and Economic Development Department; Housing Authority of the County of Merced",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the largest or most development-active; edit as needed. Non-entitlement county (Merced city is an entitlement); UC Merced workforce housing demand; CoC CA-520."
+    },
+    {
+      "county": "Monterey",
+      "region": "Central Coast",
+      "priority_cities": [
+        "Salinas",
+        "Monterey",
+        "Seaside",
+        "Marina",
+        "Soledad"
+      ],
+      "county_housing_authority": "County of Monterey Housing and Community Development Department (Housing Division); Housing Authority of the County of Monterey",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the largest or most development-active; edit as needed. Fort Ord Reuse Authority land, Monterey County Housing Trust Fund and inclusionary ordinance; CoC CA-506 (Coalition of Homeless Services Providers, with San Benito)."
+    },
+    {
+      "county": "Nevada",
+      "region": "Sierra Foothills",
+      "priority_cities": [
+        "Grass Valley",
+        "Nevada City",
+        "Truckee"
+      ],
+      "county_housing_authority": "Nevada County Housing and Community Services Agency (Housing and Child Support Services); Regional Housing Authority (Sutter, Yuba, Nevada and Colusa counties) is the PHA",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the largest or most development-active; edit as needed. Non-entitlement county; Truckee has its own workforce housing programs and Tahoe-Truckee partnerships; CoC CA-531."
+    },
+    {
+      "county": "Riverside",
+      "region": "Inland Empire",
+      "priority_cities": [
+        "Riverside",
+        "Moreno Valley",
+        "Corona",
+        "Temecula",
+        "Palm Springs",
+        "Indio"
+      ],
+      "county_housing_authority": "Riverside County Housing and Workforce Solutions (HWS); Housing Authority of the County of Riverside (HACR)",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the largest or most development-active; edit as needed. Large Urban County entitlement with its own NOFAs and Housing Successor funds; Coachella Valley cities run separate programs (Pass 3); CoC CA-608."
+    },
+    {
+      "county": "San Luis Obispo",
+      "region": "Central Coast",
+      "priority_cities": [
+        "San Luis Obispo",
+        "Paso Robles",
+        "Atascadero",
+        "Arroyo Grande"
+      ],
+      "county_housing_authority": "County of San Luis Obispo Planning and Building, Housing and Economic Development Division; Housing Authority of San Luis Obispo (HASLO) is the PHA and a developer",
+      "notes": "Added 2026-11-07 at user request. Priority cities are the largest or most development-active; edit as needed. County Title 29 Affordable Housing Fund (in-lieu and impact fees) and inclusionary ordinance; CoC CA-614."
+    }
+  ]
+}
