@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 651 total records
+Generated 2026-11-08, 679 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -3849,6 +3849,112 @@ Generated 2026-11-08, 651 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Carlsbad
+
+**Carlsbad Density Bonus Ordinance, Carlsbad Municipal Code Chapter 21.86 (Ordinance CS-382, 2020; CS-426, 2022)**
+- Agency: City of Carlsbad Community Development Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Implements Government Code 65915 (bonus, incentives, concessions, waivers, parking ratios) with a density bonus plan submittal, staff review fee set by Council resolution, Local Coastal Program consistency findings and an affordable housing or senior housing agreement. Section 21.86.060 states nothing requires direct financial incentives (subsidies, public land, fee waivers or dedication waivers); the City may grant them at its sole discretion.
+- AMI requirement: Government Code 65915 tiers; 55 year rental affordability; applicant may accept a smaller bonus but not reduce required affordable percentages.
+- Cycle: rolling (next: Applies at entitlement; coastal zone projects need Coastal Development Permit consistency.)
+- Layering notes: No local enhancement; Carlsbad's binding tool is the 15 percent inclusionary requirement (separate record), with the density bonus layered on top (inclusionary units qualify for state incentives). Housing Element Program 1.1 rezoned sites to R-35 and R-40 for RHNA. Carlsbad is not on HCD's Prohousing list (as of August 10, 2026). Code read on the zoneomics mirror.
+- Source: https://www.zoneomics.com/code/carlsbad-CA/chapter_57
+- Confidence: verified (researched 2026-11-08)
+
+**Carlsbad Housing Reserve Fund (CDBG set-aside for affordable housing acquisition) and CDBG entitlement; Section 108 and County HOME Consortium access**
+- Agency: City of Carlsbad Housing and Homeless Services Department; CDBG Advisory Committee recommends allocations
+- Type: grant
+- Typical award: The City reserves part of its annual CDBG entitlement (about $535,000 in FY 2025-26 per the Annual Action Plan; figure not confirmed on a City page) in a Housing Reserve Fund that accumulates for acquisition or development of affordable units; once a property is identified the reserve is reallocated to that project. Carlsbad used a $1.2M CDBG Section 108 loan in the 1990s for the Villa Loma site and may pursue Section 108 again. Carlsbad is in the San Diego Urban County HOME Consortium, so HOME development funds come through the County HCDS NOFA (over $675,000 awarded to Vista Las Flores rehabilitation).
+- AMI requirement: CDBG low and moderate income benefit (80 percent AMI); HOME rents and terms for County-awarded HOME.
+- Cycle: annual NOFA (CDBG action plan each spring; reserve deployed by Council action) (next: FY 2027-28 CDBG application period expected winter 2026-27 with the CDBG Advisory Committee; Council adopts the Annual Action Plan in spring 2027. Confirm the current Housing Reserve Fund balance with the Housing and Homeless Services Department.)
+- Layering notes: Minor source next to the Housing Trust Fund (separate record) but useful for site acquisition because CDBG can buy land. HOME must be sought from County HCDS NOFA 2026-03 (county record), which also offers IHTF and PLHA for Carlsbad sites. Read in the 2021-2029 Housing Element on hcd.ca.gov; carlsbadca.gov pages blocked (403).
+- Source: https://www.hcd.ca.gov/housing-elements/docs/carlsbad-6th-adopted041521.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Carlsbad Housing Trust Fund gap loans (Inclusionary Housing in-lieu fees, housing credit purchases and housing impact fees; CMC 21.85.110 and 21.85.120)**
+- Agency: City of Carlsbad Housing and Homeless Services Department (Mandy Mills, Director); recommendations by the Housing Commission, approvals by City Council
+- Type: loan
+- Typical award: Residual receipts gap loans typically $500,000 to $4.25M per project. June 9, 2026: Council Resolutions 2026-107 and 2026-108 authorized sale of the City-owned 945 Chestnut Avenue (Chestnut Apartments) to The Chestnut Apartments, LP (Kingdom Development) through a carryback loan at appraised value plus a Housing Trust Fund loan not to exceed $850,000 for rehabilitation gap financing (Housing Commission Resolution 2026-004, May 14, 2026). Earlier: $4.25M residual receipts loan to Affirmed Housing (Windsor Pointe, about $8.3M total City assistance) and a 2025 $500,000 recommendation for West Oaks. Fund balance about $12.4M at October 30, 2020 (Housing Element); the FY 2025-26 Housing Trust Fund Annual Report was accepted by the Housing Commission October 8, 2026 (Resolution 2026-006). Fund sources: in-lieu fees ($4,515 per market rate unit as of 2020, fee study pending), sale of affordable housing credits, housing impact fees, loan interest and fund interest. The fund has helped produce about 2,300 affordable homes and leverages City money up to five times.
+- AMI requirement: 55 year affordability for lower income households (up to 80 percent AMI; rents no more than 90 percent of the lower income limit rent per 21.85.040). Trust fund dollars may not be used to satisfy a project's own inclusionary requirement, only to exceed it.
+- Cycle: rolling (next: No NOFA; requests go to the Housing Commission (meets second Thursday) then Council. Next regular Housing Commission meetings follow the 2027 schedule adopted in late 2026; the FY 2025-26 Housing Trust Fund Annual Report went to Council after October 8, 2026.)
+- Layering notes: Carlsbad's trust fund is the best capitalized city fund in North County relative to deal flow, but Council has been selective (Chestnut, Windsor Pointe, West Oaks). Stacks with County HCDS NOFA 2026-03 IHTF and HOME Consortium funds (Carlsbad is in the County HOME Consortium and received County HOME for Vista Las Flores), HACSD or Carlsbad Housing Agency project-based vouchers, CMFA or CSCDA bonds and LIHTC. The CDBG-funded Housing Reserve Fund (separate record) can add acquisition money. carlsbadca.gov and its govaccess document host return 403 or time out; agendas were read on the City's Laserfiche WebLink (records.carlsbadca.gov) and the Housing Element on hcd.ca.gov. The annual report figures should be pulled from the October 2026 Housing Commission packet.
+- Source: https://records.carlsbadca.gov/WebLink/ElectronicFile.aspx?docid=10879105&dbid=0&repo=CityOfCarlsbad
+- Confidence: verified (researched 2026-11-08)
+
+**Inclusionary Housing Ordinance, Carlsbad Municipal Code Chapter 21.85 (Ordinance NS-535 as amended through CS-474, 2024), in-lieu fees and inclusionary housing credits**
+- Agency: City of Carlsbad Housing and Homeless Services Department and Community Development Department (Planning)
+- Type: other
+- Typical award: Requirement, not a subsidy. Residential developments of seven or more units must build and restrict at least 15 percent of total approved units (including density bonus units) for lower income households; off-site combined projects are allowed with Council approval and the percentage is computed on total units (market units divided by 0.85). Projects of fewer than seven units pay an in-lieu fee per market rate unit equal to 15 percent of the subsidy needed to make a typical new attached unit affordable to a lower income household ($4,515 as of 2020; schedule set by Council resolution; fee study authorized). Alternatives: off-site units, land dedication, contribution to special needs housing, purchase of surplus affordable housing credits from Villa Loma and other combined projects, and inclusionary credit schedules for units serving lower tiers. Offsets (21.85.100): the City may grant density increases, standards modifications, fee waivers and subsidies at its discretion. Rental inclusionary units required since 2017 (CS-324) after the 2010 Palmer suspension. The ordinance has produced 1,708 affordable units.
+- AMI requirement: Lower income households (up to 80 percent AMI); rental units restricted 55 years with rents no more than 90 percent of the lower income limit; for-sale units resale restricted.
+- Cycle: rolling (next: Applies at entitlement through an Affordable Housing Agreement (21.85.140) before final map or building permit; in-lieu fee per Council resolution schedule, assessed on market rate units at building permit.)
+- Layering notes: Fees and credit sales fund the Housing Trust Fund (separate record). Density bonus units count in the 15 percent base, which makes Carlsbad's requirement stricter than the state density bonus tiers; the inclusionary units themselves qualify the project for state density bonus incentives (CMC 21.86, separate record). Master and specific plans must carry inclusionary provisions (21.85.035). Code read on the zoneomics mirror; Housing Element Program 2.1 on hcd.ca.gov.
+- Source: https://www.zoneomics.com/code/carlsbad-CA/chapter_56
+- Confidence: verified (researched 2026-11-08)
+
+
+### City of Chula Vista
+
+**Affordable Housing Incentives / Density Bonus, CVMC Chapter 19.90 (Ordinance 3572, 2024)**
+- Agency: City of Chula Vista Development Services Department with Housing and Homeless Services Department
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Chapter 19.90 adopts Government Code 65915 by reference: bonus, incentives, concessions, waivers and parking reductions as set in state law; no local enhancement beyond state minimums. Requires a recorded density bonus agreement senior to monetary liens, concurrent construction and on-site dispersal of affordable units (separate structure allowed where needed for LIHTC), and an administrative fee for agreement processing (19.90.080).
+- AMI requirement: State tiers; occupancy, rent and term per Government Code 65915 (55 years rental).
+- Cycle: rolling (next: Applies at entitlement; pre-application conference encouraged. Density bonus units are exempt from the inclusionary requirement and are not counted in its base.)
+- Layering notes: Inclusionary units can count toward both the inclusionary and density bonus requirements (19.91.060). Otay Ranch village SPA plans carry their own affordable housing plans. Chula Vista is on HCD's Prohousing list (as of August 10, 2026) and received a Prohousing Incentive Program grant (Resolution 2025-179, November 4, 2025), which adds points for state applications on Chula Vista sites. Ordinance text read on the zoneomics code mirror.
+- Source: https://www.zoneomics.com/code/chula-vista-CA/chapter_48
+- Confidence: verified (researched 2026-11-08)
+
+**Chula Vista CDBG and HOME entitlement, PLHA Cycle 2 allocation and Prohousing Incentive Program grant**
+- Agency: City of Chula Vista Housing and Homeless Services Department (HUD grants), Carlos Rodriguez, Management Analyst (PLHA)
+- Type: grant
+- Typical award: FY 2026-27 HUD allocations appropriated June 16, 2026 (Resolution 2026-118): $2,501,482.59 CDBG and $1,200,730.78 HOME, plus ESG; Annual Action Plan adopted May 19, 2026 (Resolution 2026-089). PLHA: Council on October 6, 2026 adopted the PLHA CY2024-2028 302(c)(4) Plan and accepted Cycle 2 funds (Resolutions 2026-211 and 2026-212), directing them to Chula Vista Village at Otay shelter operations, as it did with earlier PLHA (Resolution 2025-084, June 2025). Prohousing Incentive Program grant application authorized November 4, 2025 (Resolution 2025-179). Chula Vista is on HCD's Prohousing Designation list as of August 10, 2026.
+- AMI requirement: CDBG and HOME income rules; HOME development awards are made through the City's affordable housing NOFA or by Council action.
+- Cycle: annual NOFA (next: FY 2027-28 Annual Action Plan public review period is expected March to April 2027 (Housing and Homelessness Advisory Commission reviews in spring); PLHA and PIP uses set by Council resolution.)
+- Layering notes: HOME has been the main federal layer in City NOFAs along with Low-Mod and LHTF (separate record); PLHA in Chula Vista is committed to shelter operations, not capital, so do not count on it for development. The City is a separate CDBG and HOME entitlement, outside the County Urban County and HOME Consortium (county records). Read on the City's eSCRIBE agenda portal.
+- Source: https://pub-chulavista.escribemeetings.com/Meeting.aspx?Id=129a80cb-2e9c-4326-9b98-2b03694326e1&Agenda=Agenda&lang=English
+- Confidence: verified (researched 2026-11-08)
+
+**Chula Vista Housing Authority housing successor loans (Low and Moderate Income Housing Asset Fund) and Local Housing Trust Fund gap financing; 2025-2026 affordable housing NOFA**
+- Agency: City of Chula Vista Housing and Homeless Services Department (Housing Manager Brian Warwick) acting for the Chula Vista Housing Authority as Housing Successor to the former Redevelopment Agency
+- Type: loan
+- Typical award: Residual receipts style gap loans of $3M to $4M per project. June 16, 2026: Housing Authority Resolution 2026-006 and Council Resolution 2026-130 approved up to $4,000,000 (recommended as $3,000,000 Low-Mod plus $975,000 Local Housing Trust Fund) to Wakeland Housing for the 68-unit Park Hill UMC project at 545 East Naples Street, conditioned on reducing density to 62 units; Bayview Family Apartments was the alternate. June 10, 2025: up to $4.0M Low-Mod loan to Community HousingWorks for 201 Third Avenue (HA Resolution 2025-004); March 2025: $3.0M Low-Mod for the Palomar Motel permanent supportive housing conversion with Homekey+. The 2024-2025 NOFA offered about $4,000,000 for new multifamily construction (applications due January 15, 2026). Local Housing Trust Fund seeded in 2024 with a $500,000 City match (Resolution 2024-102) and a $500,000 HCD LHTF matching grant (Resolution 2024-163, awarded January 2026). FY 2026-27 Low-Mod administration and homeless prevention appropriation $800,000.
+- AMI requirement: 55 year covenants; LMIHAF rules (Health and Safety Code 34176.1: 80 percent AMI maximum, 30 percent of funds to 30 percent AMI units); LHTF units for lower income households.
+- Cycle: annual NOFA (as funds accumulate; 2025-2026 round due January 15, 2026) (next: Next NOFA not announced; the Housing and Homelessness Advisory Commission received an affordable housing projects update on October 28, 2026. Contact the Housing and Homeless Services Department for the next round.)
+- Layering notes: Chula Vista's only city gap source beyond fee waivers. Stacks with Chula Vista Housing Authority conduit bonds (separate record), County HCDS NOFA 2026-03 (Chula Vista projects are eligible for County IHTF and HOME Consortium funds because the City is in the Urban County for HOME), HACSD project-based vouchers and 4 percent LIHTC. Housing Element (2021) noted the Balanced Communities in-lieu fund held only about $1.1M in 2020 and was inadequate for gap financing; the new Housing Inclusionary Fund (CVMC 19.91.070) will add in-lieu fees. Palomar Motel used Homekey+. chulavistaca.gov blocks automated access (403); agendas, minutes and item summaries were read on the City's eSCRIBE agenda portal, but staff report PDFs (filestream.ashx) return 403, so loan terms come from the agenda item text.
+- Source: https://pub-chulavista.escribemeetings.com/Meeting.aspx?Id=649164e7-178d-414f-8b0b-bc0719b127d3&Agenda=Agenda&lang=English
+- Confidence: verified (researched 2026-11-08)
+
+**Chula Vista Housing Authority tax-exempt multifamily housing revenue bonds (conduit issuer; 2024 bond policies)**
+- Agency: Chula Vista Housing Authority (City Council acting as Authority), staffed by the Housing and Homeless Services Department
+- Type: bond
+- Typical award: Conduit private activity bonds sized to project debt. Enclave Montecito / Sol Vista (96 units, Otay Ranch Village 2): inducement up to $25 million (HA Resolution 2025-006, August 5, 2025), TEFRA hearing and bond issuance approval April 21, 2026 with an issuance amount not to exceed $14,000,000; TEFRA for the Otay Ranch II project May 19, 2026. Resolution 2024-103 (May 21, 2024) updated the Authority's conduit bond policies so the City is the issuer in most instances rather than JPAs; Master Fee Schedule Chapter 19 sets Housing Authority application, issuance and monitoring fees.
+- AMI requirement: Federal 20 percent at 50 percent AMI or 40 percent at 60 percent AMI minimum; City regulatory agreements typically mirror the inclusionary and Low-Mod covenants (55 years).
+- Cycle: rolling (next: Rolling; inducement needed before CDLAC application rounds. Contact the Housing and Homeless Services Department for the bond policy and fee schedule.)
+- Layering notes: Replaces CMFA or CSCDA issuance for most Chula Vista deals, which keeps issuer fees local; the County TEFRA practice (county record) is not needed when the City issues. Pairs with 4 percent LIHTC, City Low-Mod and LHTF loans and parkland fee waivers (separate records). Read on the City's eSCRIBE agenda portal; bond policy PDF not downloadable (403).
+- Source: https://pub-chulavista.escribemeetings.com/Meeting.aspx?Id=ca35a0b7-10ab-4b86-9229-4b7694290704&Agenda=Agenda&lang=English
+- Confidence: verified (researched 2026-11-08)
+
+**Inclusionary Housing Ordinance, CVMC Chapter 19.91 (Ordinance 3572, 2024; threshold amended to 20 units by Ordinance 3581, November 2024) and Housing In-Lieu Fee / Housing Inclusionary Fund**
+- Agency: City of Chula Vista Housing and Homeless Services Department and Development Services Department
+- Type: other
+- Typical award: Requirement, not a subsidy. Residential and mixed-use projects of 20 or more units (applications deemed complete on or after July 1, 2024) must restrict 10 percent of units, split as evenly as possible between moderate income and low income households, for rental or for-sale product; density bonus units are excluded from the base. In-lieu fee for fractional units or in place of on-site units set by Council resolution on a square footage basis with different rates for for-sale and rental product (Master Fee Schedule Chapter 16, Resolution 2024-100, May 21, 2024, based on the RSG Inclusionary Policy and In-Lieu Fee Study); paid before the first building permit into the Housing Inclusionary Fund. Alternatives: off-site units within one mile or in TCAC high or moderate resource areas, land dedication, conversion of market rate units, preservation of at-risk units, transferable credits (10 year life), and incentive credits (for example 3.5 rental units of credit per very low income unit provided in place of a moderate unit). Replaced the 1981 Balanced Communities Policy (10 percent of 50 or more units).
+- AMI requirement: 55 years rental (45 years ownership); moderate income (up to 120 percent AMI) and low income (up to 80 percent AMI) units; Chapter 19.94 marketing and lottery rules give preference to displaced Chula Vista residents and local residents and workers.
+- Cycle: rolling (next: Applies at entitlement; the Council on May 21, 2024 voted 5-0 to set the threshold at 20 units (first reading) and adopted the Chapter 19.91 threshold amendment on November 12, 2024. Code is current through Ordinance 3617 (February 2026). Check the Master Fee Schedule Chapter 16 for the current per square foot in-lieu rate.)
+- Layering notes: Projects of 20 to 24 units routinely pay fees, so the Housing Inclusionary Fund will grow slowly; Otay Ranch village developers (for example Village 8 East, Affordable Housing Agreement approved November 4, 2025) satisfy the requirement with dedicated affordable sites that then seek City Low-Mod loans and bonds (separate records). Inclusionary units may count toward the state density bonus (19.91.060). Ordinance text read on the zoneomics code mirror (chulavista.municipal.codes returns 403); Council actions read on the eSCRIBE agenda portal.
+- Source: https://www.zoneomics.com/code/chula-vista-CA/chapter_49
+- Confidence: verified (researched 2026-11-08)
+
+**Parkland Acquisition and Development fee exemption for affordable units (Ordinance 3573 amending CVMC 17.10, 2024) and project fee waivers and deferrals for affordable housing**
+- Agency: City of Chula Vista Development Services Department and Housing and Homeless Services Department; waivers by City Council resolution
+- Type: fee waiver
+- Typical award: Ordinance 3573 (second reading May 28, 2024) exempts affordable units from Parkland Acquisition and Development (PAD) fees. Council also waives parkland dedication and in-lieu requirements case by case: Resolution 2026-087 (May 19, 2026) for the 96-unit Sol Vista (Enclave Montecito) affordable rental project in Otay Ranch Village 2 and Resolution 2024-060 (April 9, 2024) for the 100 percent affordable Chula Vista Seniors project at 178 Third Avenue. The Housing Element (Program 4.5) describes Council waivers or deferrals of development impact fees for projects with affordable units and a development fee deferral program for infill rental housing west of I-805. PAD fees in Chula Vista run tens of thousands of dollars per unit, so the exemption is a material subsidy.
+- AMI requirement: Deed restricted affordable units; 100 percent affordable projects have received full parkland waivers.
+- Cycle: rolling (next: Exemption applies at permit; discretionary waivers go to Council with the project's financing approvals. Confirm the current CVMC 17.10 text and whether other DIFs (transportation, public facilities) can be deferred for a specific project.)
+- Layering notes: Fee relief is the second city layer after Low-Mod and LHTF loans (separate record). Waived City fees may be public funds under Labor Code 1720, so projects usually assume prevailing wage once they also take City or bond financing. County HCDS impact fee waivers (county records) do not apply inside the city. Read on the City's eSCRIBE agenda portal (May 19, 2026 and May 2024 agendas); chulavistaca.gov is blocked to scripts.
+- Source: https://pub-chulavista.escribemeetings.com/Meeting.aspx?Id=662715ac-708c-4c6b-b604-1a87172b0989&Agenda=Agenda&lang=English
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Citrus Heights
 
 **Affordable housing incentives and density bonus (Citrus Heights Zoning Code Chapter 106.32)**
@@ -4074,6 +4180,49 @@ Generated 2026-11-08, 651 total records
 - Cycle: annual NOFA (next: unknown, verify with agency)
 - Layering notes: Recorded so the Elk Grove layer is complete; the City's housing pages (elkgrove.gov/affordable-housing) return 403 to automated access and the Council resolution PDFs moved off the old elkgrovecity.org paths. Confirm with Housing and Public Services, (916) 683-7111, whether PLHA is pooled with Affordable Housing Fund RFPs.
 - Source: https://elkgrove.gov/affordable-housing/developers
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+
+### City of Escondido
+
+**Density Bonus and Residential Incentives Ordinance (Escondido Zoning Code Article 67, Sections 33-1410 to 33-1421) and Development Fee Deferral Policy**
+- Agency: City of Escondido Development Services Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Article 67 grants state law density bonuses (up to 50 percent; 80 percent or unlimited for 100 percent affordable projects) and incentives and concessions to projects of five or more units (three or more in some areas), including student housing and child care provisions, in-lieu incentives of equivalent land value, land donation bonuses and a sliding scale (one percent bonus per one percent increase above the 10 percent very low income minimum); amended in 2020, 2021 and 2022 for AB 2345. Agreement processing and administrative fee apply (33-1421). The 2012 Development Fee Deferral Policy lets residential projects of five or more units defer development fees to occupancy (up to one year from permit). Density transfer programs exist in the Downtown and East Valley Specific Plan areas (Resolution 2019-69; Ordinance 2023-10).
+- AMI requirement: Government Code 65915 tiers; affordability tenure per 33-1418 (55 years rental).
+- Cycle: rolling (next: Applies at entitlement; density bonus request form on escondido.gov. A zoning ordinance update with lot consolidation incentives was planned for 2025; confirm current Article 67 text with Planning.)
+- Layering notes: State conforming with no local fee waiver: a 2024 staff report noted neither state law nor the Municipal Code requires the City to give direct financial assistance to density bonus projects. The fee deferral is the only fee relief. Escondido is not on HCD's Prohousing list (as of August 10, 2026). Pair with City HOME and recycled RDA funds (separate records) and County HCDS NOFA. Article text read on the zoneomics code mirror; Housing Element and APR read on escondido.gov.
+- Source: https://www.zoneomics.com/code/escondido-CA/chapter_67
+- Confidence: verified (researched 2026-11-08)
+
+**Escondido HOME and CDBG entitlement: HOME affordable housing development awards (Resolution 2026-50, Valley Creek Senior Apartments) and HOME acquisition-rehabilitation RFP**
+- Agency: City of Escondido Development Services Department, Housing and Neighborhood Services Division, 201 North Broadway, Escondido 92025; Danielle Lopez, Housing and Neighborhood Services Manager, (760) 839-4841
+- Type: grant
+- Typical award: FY 2025-26 HUD allocation $1,931,930 ($1,341,561 CDBG, $590,369 HOME); FY 2026-27 announced April 10, 2026: $1,394,624 CDBG and $563,047.23 HOME ($1,957,671 total, no ESG); HOME expected about $2.9M over the 2025-2029 Consolidated Plan. April 8, 2026: Council adopted Resolution 2026-50 allocating $3,000,000 in HOME ($583,938.80 expiring 2018 funds plus $2.4M unspent 2019-2023 funds) to National CORE and San Diego Community Housing Corporation for Valley Creek Senior Apartments, a 136-unit 100 percent affordable senior project with 14 units for homeless or at-risk veterans on a 1.88-acre County-owned site at East Valley Parkway and Fig Street, piggybacking on the County's RFP with the County as lead agency. Council also considered a City RFP option of $8.5M for an affordable project. The FY 2025-26 CAPER reports a HOME RFP being prepared for acquisition, rehabilitation and preservation of units for households under 80 percent AMI. HOME also funds the Rental Subsidy Program ($388,000 amendment, $500 per month) and the HELP homebuyer program.
+- AMI requirement: HOME rents and incomes (low income, 60 percent AMI for most units) for the HOME affordability period; the Valley Creek award is paired with County and tax credit covenants of 55 years.
+- Cycle: annual NOFA (HOME development funds released periodically by RFP) (next: HOME acquisition-rehab RFP expected FY 2026-27 (date not published); CDBG RFP 26-11 for FY 2026-27 public services and facilities closed in spring 2026; FY 2027-28 CDBG and HOME hearings expected February and June 2027 per the City's cycle.)
+- Layering notes: Escondido is a CDBG entitlement and HOME participating jurisdiction outside the County HOME Consortium, but the Valley Creek deal shows the City will layer its HOME onto County HCDS NOFA awards (county records) on County-owned land. No local trust fund, inclusionary fund or linkage fee exists; the other local layers are recycled redevelopment funds (separate record), density bonus and fee deferral (separate record). Read the April 8, 2026 staff report on the City's agenda host (mccmeetingspublic) and the Housing and Neighborhood Services, CDBG and HOME pages and the FY 2025-26 CAPER on escondido.gov.
+- Source: https://mccmeetingspublic.blob.core.usgovcloudapi.net/escondidca-meet-87c076e9477a46f094730be2cf72cc18/ITEM-Attachment-003-b1eb50cc9e404f78b2bcb60ffa370303.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Escondido Successor Housing Agency (Resolution 2012-16) recycled redevelopment housing funds and affordable housing development assistance (Housing Element Program 2.8)**
+- Agency: City of Escondido Housing and Neighborhood Services Division acting for the Successor Housing Agency to the former Community Development Commission; City Council sits as the Successor Agency
+- Type: loan
+- Typical award: Case by case gap loans from recycled Low and Moderate Income Housing Asset Fund money and loan repayments; no NOFA. Recent uses: Valley Senior Village (completed 2023, 50 units, 24 homeless and 25 units at 30 to 60 percent AMI) used recycled RDA funds; 10 affordable homeownership units at 245 East El Norte Parkway (2024). Housing Element Program 2.8 lists Recycled RDA Funds with LIHTC, CalCHA bonds, CalHFA, CalHome, PLHA and HOME as sources the City will pursue, and commits to pre-application consultation, expedited review and City-owned sites (Program 1.4; one City-owned site under review). SB 341 annual reports are posted under Policy and Regulatory Documents on escondido.gov (page not reachable this pass).
+- AMI requirement: LMIHAF rules (80 percent AMI maximum, 30 percent of expenditures to 30 percent AMI units over five year periods); 55 year covenants typical.
+- Cycle: rolling (next: unknown, verify with agency; no competitive round. Approach the Housing and Neighborhood Services Division before County HCDS or TCAC deadlines; Council approves loans individually.)
+- Layering notes: Small pool (balance not confirmed; SB 341 report link on the City page was broken). Stacks with City HOME (separate record), County HCDS NOFA 2026-03 (Escondido projects are eligible for County IHTF), HACSD project-based vouchers and state density bonus. Escondido has no inclusionary ordinance (Program 2.9 feasibility study triggered by the 2023 APR) and no housing trust fund. Read the Housing and Neighborhood Services page on escondido.gov, the 2023 Annual Progress Report staff report and the draft 2021-2029 Housing Element on escondido.gov.
+- Source: https://escondido.gov/214/Housing-Neighborhood-Services
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Essential Middle Income Rental Housing Program (California Community Housing Agency JPA membership, January 13, 2021; Housing Element Program 2.3)**
+- Agency: City of Escondido Housing and Neighborhood Services Division with the California Community Housing Agency (CalCHA)
+- Type: tax abatement
+- Typical award: Not a direct subsidy. As a CalCHA member, the City allows CalCHA to acquire existing market rate apartment communities with governmental purpose bonds; CalCHA's property tax exemption converts the complexes to rent restricted units for low, median and moderate income households up to 120 percent AMI with rents capped at 35 percent of the applicable AMI and annual increases capped at 4 percent; no displacement of existing tenants. Program 2.3 commits the City to identify properties for acquisition; no Escondido acquisition was confirmed this pass.
+- AMI requirement: Low, median and moderate income households (up to 120 percent AMI); rent caps at 35 percent of AMI tier; terms per CalCHA regulatory agreement.
+- Cycle: rolling (next: unknown, verify with agency; CalCHA transactions depend on bond market conditions and City host approval of each acquisition.)
+- Layering notes: Middle income JPA structure, not stackable with LIHTC. Useful only for workforce housing acquisitions; the City forgoes its share of property tax. The welfare exemption for nonprofit LIHTC owners (county record) remains the tax tool for deed restricted projects. Read in the draft 2021-2029 Housing Element on escondido.gov; program status not confirmed.
+- Source: https://www.escondido.gov/DocumentCenter/View/1826/Draft-Sixth-Cycle-of-the-Housing-Element-PDF
 - Confidence: needs_confirmation (researched 2026-11-08)
 
 
@@ -5021,6 +5170,49 @@ Generated 2026-11-08, 651 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Oceanside
+
+**Inclusionary Housing Ordinance, Oceanside City Code Chapter 14C (Ordinance 24-OR0004-1, 2024) and Inclusionary Housing In-Lieu Fee**
+- Agency: City of Oceanside Housing and Neighborhood Services Department (Housing Division) and Development Services Department (Planning)
+- Type: other
+- Typical award: Requirement, not a subsidy. Applies to residential projects of three or more units (rental projects included since the September 9, 2020 Phase 1 amendment). Ordinance 24-OR0004-1 (approved by Council February 10, 2024) raised the set-aside for low and moderate income households from 10 percent to 15 percent, raised the applicability threshold and added requirements for reserved units within multifamily projects; it was folded into Local Coastal Program amendment LCPA23-00002, which Coastal Commission staff recommended certifying with modifications at the February 2026 hearing (acutely low income definition, 15 percent of base units). In-lieu fee calculated per square foot under a 2022 nexus study (Development Impact Fee schedule effective July 1, 2025 lists a per development, per unit and per square foot structure, adjusted annually); deferral of the in-lieu fee allowed on the same terms as impact fee deferral. Fees must be used exclusively for low and moderate income housing in the City; the Housing Element reports $360,000 of in-lieu fees used for homebuyer assistance and in-lieu fees as a source for preservation (Program 19). A further Chapter 14C revision was noticed for a Community Development Commission hearing on May 6, 2026.
+- AMI requirement: 15 percent of base units for low and moderate income households (rental units for low income); 55 year terms under the 2024 ordinance; density bonus units excluded.
+- Cycle: rolling (next: Applies at entitlement; coastal zone projects remain under the previously certified 10 percent rule until the Coastal Commission certifies LCPA23-00002 (hearing February 5, 2026, outcome not confirmed). Confirm the current in-lieu fee rate on the City's FY 2025-26 impact fee schedule and whether the May 6, 2026 revisions were adopted.)
+- Layering notes: In-lieu fee revenue is Oceanside's only recurring local housing fund; the Housing Element lists inclusionary fees with HOME, Housing Asset Funds, project-based vouchers and PLHA as sources for the Affordable Housing Strategy NOFAs (separate record). Compare Carlsbad (15 percent at 7 or more units) and the unincorporated County ordinance (county record). ci.oceanside.ca.us returns 403 and the oceanside.prod-as.govaccess.org document hosts time out, and the Legistar web API has no Oceanside client, so the ordinance text was read in the California Coastal Commission's February 2026 staff report (Exhibit 2 contains the strikeout ordinance) and the City's 2021-2029 Housing Element on hcd.ca.gov. The City's Legistar calendar (oceanside.legistar.com) opens for current agendas only.
+- Source: https://documents.coastal.ca.gov/reports/2026/2/Th16b/Th16b-2-2026-report.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Oceanside Affordable Housing Strategy RFP/NOFA (Housing Element Program 4): HOME, Housing Successor Agency asset funds, inclusionary in-lieu fees, PLHA and project-based vouchers**
+- Agency: City of Oceanside Housing and Neighborhood Services Department, Housing Division, and the Housing Successor Agency to the Oceanside Community Development Commission; recommendations through the Housing Commission
+- Type: loan
+- Typical award: Amounts vary by round; no standing allocation. The Council on September 9, 2020 directed an RFP/NOFA implementing the Affordable Housing Strategy with priority to homelessness and extremely low income housing (temporary shelters, bridge housing, vouchers, permanent supportive housing). Funding sources named: HOME entitlement (City is a HOME participating jurisdiction), remaining Housing Asset Funds (former redevelopment), inclusionary in-lieu fees, project-based vouchers from the Oceanside Housing Authority (Housing Choice Voucher program) and PLHA (PLHA earmarked for emergency shelter operations). Program 19 (preservation) and Program 15 (acquisition and rehabilitation) use CDBG, HOME and in-lieu fees. The Housing Element set an objective of 634 extremely low income units and 1,268 lower income units for 2021-2029 and a 2024-2025 reassessment of incentives.
+- AMI requirement: Lower income and extremely low income households; 55 years for HOME and in-lieu assisted rental units.
+- Cycle: annual NOFA (irregular, as funds accumulate) (next: unknown, verify with agency; no open NOFA found. The November 10, 2026 City Council agenda had no housing funding item. Contact the Housing Division for the FY 2026-27 Annual Action Plan HOME development set-aside and any Housing Commission funding recommendations.)
+- Layering notes: Oceanside projects also compete in the County HCDS NOFA 2026-03 only for IHTF (the City is its own HOME participating jurisdiction and CDBG entitlement, outside the County consortium), and can use HACSD or Oceanside Housing Authority project-based vouchers. The City last issued its own multifamily revenue bonds in 2016 (Villa Storia, 38 units; Program 1) and otherwise relies on CMFA or CSCDA. Fee deferrals for affordable units are offered on the same terms as impact fee deferrals. Program text read in the 2021-2029 Housing Element (October 2022 revision, HCD-hosted); the certified September 2023 re-adoption and current Annual Action Plan could not be opened because City document hosts block or time out.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-adopted120622.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Oceanside Density Bonus Ordinance (Zoning Ordinance, Housing Element Program 2) and development impact fee deferral for affordable units**
+- Agency: City of Oceanside Development Services Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. The Housing Element committed to amend the density bonus ordinance within one year of adoption to conform to AB 1763, SB 1227 and AB 2345 (up to 50 percent bonus; 80 percent or unlimited for 100 percent affordable projects); Coastal Commission staff describe the City's 2024 inclusionary amendments as paired with a density bonus for projects reserving at least 15 percent of base units for very low income, 24 percent for lower income or 44 percent for moderate income households. The City's density bonus application notes that inclusionary income tiers may not be modified or combined with bonus units. Impact fee deferral is available to residential projects and extends to the inclusionary in-lieu fee.
+- AMI requirement: Government Code 65915 tiers; 55 year rental affordability.
+- Cycle: rolling (next: Applies at entitlement. Confirm the current Zoning Ordinance density bonus article and any 2026 amendments with Planning; City code hosts were not reachable this pass.)
+- Layering notes: No local enhancements beyond state law were found; the practical local tools are the inclusionary in-lieu fund and the Affordable Housing Strategy NOFA (separate records). Smart and Sustainable Corridors Plan (Program 9) adds capacity along transit corridors. Read in the 2021-2029 Housing Element (HCD-hosted) and the Coastal Commission February 2026 staff report.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-adopted120622.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Oceanside Housing Revenue Bonds (Multi-Family), Housing Element Program 1**
+- Agency: City of Oceanside Housing and Neighborhood Services Department, Housing Division (City as conduit issuer)
+- Type: bond
+- Typical award: Conduit tax-exempt private activity bonds issued by the City when appropriate; last used in 2016 for Villa Storia (38 units) with a CDLAC award. The City commits to issue bonds in conjunction with other financing as needed.
+- AMI requirement: Federal 20 percent at 50 percent AMI or 40 percent at 60 percent AMI minimum; City regulatory agreement terms set per project.
+- Cycle: rolling (next: unknown, verify with agency; no issuance policy or fee schedule was located. Most recent Oceanside deals have used JPA issuers with City TEFRA approval.)
+- Layering notes: Low volume issuer; expect to use CMFA or CSCDA with a City TEFRA hearing instead, as the County does (county record). Pairs with 4 percent LIHTC and the Affordable Housing Strategy sources (separate record). Read in the 2021-2029 Housing Element (HCD-hosted); City pages blocked.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-adopted120622.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+
 ### City of Petaluma
 
 **Petaluma Commercial Development Housing Linkage Fee (Ordinance 2171 N.C.S. of 2004, as amended 2011)**
@@ -5489,6 +5681,109 @@ Generated 2026-11-08, 651 total records
 - Layering notes: County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. San Carlos is cash-rich from life science linkage fees and land-rich downtown (Walnut Studios at 817 Walnut was the first City-financed project), so it funds projects at a much higher per-unit level than its neighbors; the per-square-foot linkage rate is in the Master Fee Schedule and was not confirmed this pass (codepublishing.com returned 403). Source is the City's Cherry Street Commons page; loan amount from the June 27, 2023 announcement (vmwp.com) and the FY 2024-25 Housing Successor Annual Report.
 - Source: https://www.cityofsancarlos.org/city_hall/departments_and_divisions/community_development/housing/cherry_street_commons.php
 - Confidence: verified (researched 2026-11-07)
+
+
+### City of San Diego
+
+**Affordable Housing Density Bonus Regulations (SDMC Chapter 14, Article 3, Division 7) and ADU Home Density Bonus Program**
+- Agency: San Diego Housing Commission (density bonus affordable unit review; Genevieve Hernandez, (619) 578-7588) and City Development Services Department
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Local enhancements adopted March 6, 2018 (Housing SD): 10 percent density bonus for projects within the permitted building footprint, incentives or waivers available without requesting a bonus, 100 percent density bonus for micro-units within the footprint, and bonuses for sites with existing or recently expired rent restricted units. State bonuses up to 50 percent (80 percent or unlimited for 100 percent affordable) apply. ADU Home Density Bonus: one bonus ADU for each deed restricted affordable ADU (unlimited in TPAs, adjusted by O-21989 in 2025). Permitting: 2,619 homes under the density bonus in 2024 (8,726 in 2021 to 2024); 653 ADUs under the ADU bonus in 2024 (892 in 2021 to 2024, 41 percent affordable). SDHC charges land use application fees (adjusted November 1, 2025).
+- AMI requirement: Government Code 65915 tiers (5 percent very low, 10 percent low, 10 percent moderate for-sale, senior, 100 percent affordable); 55 years for rental units; ADU bonus units restricted 15 years at moderate or low income.
+- Cycle: rolling (next: Applies at entitlement; density bonus and ADU bonus regulations were amended in 2025 (O-21989) and the 2026 Land Development Code update; coastal zone versions lag Coastal Commission certification.)
+- Layering notes: Developers choose between this and Complete Communities Housing Solutions (separate record). 100 percent affordable projects also get the Affordable Housing Expedite Program and Permit Now processing (separate record) and may use the Division 10 DIF waiver only if they elect Complete Communities. SDHC reviews affordability agreements for all programs and records them. Chula Vista, Oceanside, Escondido and Carlsbad ordinances simply conform to state law without these local enhancements. Read on sdhc.org (density bonus and ADU pages) and the City's 2025 Annual Report on Homes.
+- Source: https://sdhc.org/doing-business-with-us/developers/density-bonus/
+- Confidence: verified (researched 2026-11-08)
+
+**Affordable, In-Fill Housing and Sustainable Buildings Expedite Program (Information Bulletin 538, Council Policy 600-27, SDMC 143.0915) and Affordable Housing Permit Now (Executive Order 2023-1)**
+- Agency: City of San Diego Development Services Department, Expedite Team (DSD-ExpediteProgram@sandiego.gov) and Ministerial Project Managers (DSDMinisterialPM@sandiego.gov)
+- Type: fee waiver
+- Typical award: Expedite program fees are waived for 100 percent affordable projects (otherwise fees per IB-503, capped at 40 percent of staff hourly billings). Discretionary review cycles cut to about half of standard (20 business day first review, 10 day subsequent reviews, completeness check in 5 days); ministerial expedite goal 25 percent faster. Permit Now: first review of 100 percent affordable and shelter building and engineering permits within 30 business days, dedicated project managers, collaborative review meetings; 26 projects completed by July 2026 and 3,094 homes permitted 2023 to 2024. Expedite program 2018 to 2024: 435 projects, 3,490 homes. Section 143.0920 allows deviations through a Process Two Neighborhood Development Permit.
+- AMI requirement: Eligibility: 10 or more units with at least 10 percent at or below 60 percent AMI (rental) or 100 percent AMI (for-sale, or 15 percent at 120 percent AMI); SDHC-funded projects with 15 percent at 120 percent AMI; projects restricted at or below 80 percent AMI by public agreement; infill projects in Transit Priority Areas with all units at or below 150 percent AMI; Promise Zone projects. Projects paying the inclusionary fee are not eligible.
+- Cycle: rolling (next: Rolling; request eligibility confirmation by email before submittal. IB 538 dated March 2023; Permit Now 3-year progress report issued March 2026.)
+- Layering notes: Processing benefit rather than cash, but the fee waiver and timeline savings matter for TCAC readiness deadlines. Stack with the SDHC AHF NOFA, Bridge to Home and Complete Communities. Mandatory Initial Review is required for discretionary expedite projects. No comparable formal expedite program was found for Chula Vista, Oceanside or Carlsbad; Escondido offers pre-application consultation and expedited review under Housing Element Program 2.8.
+- Source: https://www.sandiego.gov/development-services/forms-publications/information-bulletins/538
+- Confidence: verified (researched 2026-11-08)
+
+**Bridge to Home Program NOFA (Low and Moderate Income Housing Asset Fund, PLHA and CDBG gap loans), Round 8 (2026)**
+- Agency: City of San Diego Economic Development Department, Community Development Division, 1200 Third Ave., 14th Floor, San Diego 92101; Kristian Castro, KCastro@sandiego.gov, (619) 236-6700
+- Type: loan
+- Typical award: Round 8 (opened August 31, 2026, due October 19, 2026) offered $15 million: $10M LMIHAF for new construction of rental housing at 30 to 60 percent AMI and $5M PLHA restricted to units at or below 30 percent AMI for households experiencing or at risk of homelessness. Round 7 (February 3 to April 6, 2026) offered $16.5M and recommended three projects (430 homes). Round 6 (July 2025) about $16.65M for three projects (391 homes). Round 5 (2025) used $18.38M CDBG for acquisition (Mercado Apartments $15.275M for 222 units; Navajo Family $3.1M for 44 units). Seven rounds have recommended about $141.4M; typical awards $3.0M to $6.65M per project. LMIHAF cash balance $100.5M at June 30, 2025 (SB 341 report), FY25 deposits $8.19M and expenditures $13.37M.
+- AMI requirement: 55 year covenants. LMIHAF: all assisted units at or below 80 percent AMI with at least 30 percent of units at or below 30 percent AMI and no more than 20 percent between 60 and 80 percent AMI (Health and Safety Code 34176.1). PLHA share only for 30 percent AMI units.
+- Cycle: annual NOFA (one to two rounds per year; Round 8 closed October 19, 2026) (next: Round 8 closed October 19, 2026; funding recommendations expected at the Economic Development and Intergovernmental Relations Committee in December 2026 and Council OPAs in early 2027. Round 9 not yet announced; developers must pre-qualify through the rolling RFQ at least two weeks before a NOFA deadline.)
+- Layering notes: Two-step process: developer RFQ pre-qualification (Pre-Qualified Developer List updated October 7, 2026; small and emerging developers may partner), then NOFA. NOFA requires state prevailing wage on the whole project and 55 year covenants recorded senior to foreclosable liens. Pairs with SDHC AHF NOFA and SDHC bonds (separate records); the City prioritizes transit priority areas and Communities of Concern. The Affordable Housing Master Plan (2023 update) governs use of former redevelopment housing assets; since 2012, $233M has gone to over 4,000 units. Successor Agency surplus sites are offered by RFP (808 West Cedar RFP closed December 8, 2025; none open as of December 2025). County HCDS NOFAs normally exclude City of San Diego projects, so this and the SDHC AHF are the local layers. Prohousing: City designation (November 2022) lapsed January 2026 and renewal is pending (separate record).
+- Source: https://www.sandiego.gov/economic-development/bridge-to-home
+- Confidence: verified (researched 2026-11-08)
+
+**City of San Diego Affordable Housing Fund (Housing Trust Fund and Inclusionary Housing Fund, SDMC Chapter 9, Article 8, Division 5) and SDHC Affordable Housing and Permanent Supportive Housing NOFA (FY27 NOFA-27-01)**
+- Agency: San Diego Housing Commission (SDHC), Real Estate Division, 1122 Broadway, Suite 300, San Diego 92101; NOFA contact Morgan Patterson, morganp@sdhc.org; NOFAs posted on the SDHC PlanetBids vendor portal
+- Type: loan
+- Typical award: FY 2027 Annual Plan: about $42.5 million available July 1, 2026 to June 30, 2027 ($5.4M new fees and loan repayments plus $37.1M fund balances, of which $22.4M is already committed to projects and prior NOFAs). Rental Housing Production allocation $30.39M: $11.09M prior Board commitments, $9.8M FY26 NOFA earmark, $0.5M FY24 NOFA earmark, and a $9.0M FY27 NOFA ($6.5M Inclusionary Housing Fund plus $2.5M Housing Trust Fund linkage fees). FY27 production goal 183 units closing plus 348 units in development. FY 2025: $18.08M committed, each AHF dollar leveraged about $9; two closings (Kindred 125 units, Rose Creek 59 units) took $3.85M. Recent per project awards $1.0M to $2.85M (The Iris at San Ysidro, 99 units, $2.3M).
+- AMI requirement: Minimum 55 years. HTF: at least 60 percent of funds for very low income (up to 50 percent AMI), no more than 20 percent for low income, no more than 10 percent for median income. IHF: priority to new construction of units for very low and low income households; rents at or below 30 percent of income, generally at least 10 percent below market.
+- Cycle: annual NOFA (next: FY27 NOFA-27-01 draft guidelines public comment closed October 29, 2026 (stakeholder meeting October 22, 2026); final guidelines and release expected after SDHC Board approval, likely late 2026 or early 2027. Register on the SDHC PlanetBids portal to receive the release. FY28 Annual Plan comment period typically February to March.)
+- Layering notes: Largest city-controlled gap source in the county. Stacks under 4 percent and 9 percent LIHTC, SDHC bonds (separate record), SDHC project-based vouchers through the same NOFA, and County HCDS NOFA 2026-03 money only where a project sits in the City but County IHTF rarely funds City of San Diego sites. The City's Bridge to Home LMIHAF and PLHA NOFA (separate record) is run by the Economic Development Department, not SDHC, and projects commonly take both. HOME funds awarded to the City are administered by SDHC and folded into the same NOFA. AHF also funds ADU construction loans up to $250,000 at 3 percent for low income homeowners (7 year affordability) and homeless programs. FY27 plan and FY25 annual report read on sdhc.org.
+- Source: https://sdhc.org/wp-content/uploads/2026/06/FY27-AHF-Plan.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**City of San Diego CDBG entitlement NOFA (FY2028 RFQ and RFP cycle) and HOME entitlement administered through SDHC**
+- Agency: City of San Diego Economic Development Department, Community Development Division, 1200 Third Ave., Suite 1400, MS 56D, San Diego 92101; CDBG@sandiego.gov, (619) 236-6700; HOME administered by SDHC
+- Type: grant
+- Typical award: FY2027 CDBG competitive categories: public services about $1.29M, community and economic development about $2.72M, nonprofit facility improvement $2.0M (March 2026 funding decision memos). Capital funds for affordable housing acquisition are deployed through Bridge to Home rounds (Round 5 used $18.38M CDBG for two acquisitions). City HOME: in FY2026, 113 of 709 affordable rental units built were HOME funded; HOME is combined with Affordable Housing Fund money in the SDHC NOFA.
+- AMI requirement: CDBG national objective (low and moderate income benefit); HOME units at or below 60 percent AMI rents for 15 to 20 years or longer under the SDHC NOFA (55 years).
+- Cycle: annual NOFA (next: FY2028 CDBG RFQ released October 5, 2026, RFQ responses due November 6, 2026 (5 pm), RFP to qualified organizations December 7, 2026, mandatory workshop December 8, proposals due January 15, 2027 (5 pm), CPAB scores March 5, 2027, Council action April to June 2027 with the FY2028 Annual Action Plan.)
+- Layering notes: Developers rarely apply to the CDBG public services round; the relevant path is Bridge to Home (CDBG acquisition) and the SDHC NOFA (HOME). Federal cross-cutting rules (Davis-Bacon, NEPA, Section 3) attach. The County's Urban County CDBG and HOME Consortium (county records) do not cover the City of San Diego, which is its own entitlement and participating jurisdiction. FY2026 CAPER and FY2027 Annual Action Plan are posted on the CDBG page.
+- Source: https://www.sandiego.gov/cdbg
+- Confidence: verified (researched 2026-11-08)
+
+**Complete Communities Housing Solutions (SDMC Chapter 14, Article 3, Division 10): FAR bonus, Development Impact Fee waiver and Neighborhood Enhancement Fee**
+- Agency: City of San Diego Development Services Department and City Planning Department; SDHC reviews affordable unit compliance
+- Type: density bonus
+- Typical award: Optional incentive program in Transit Priority Areas replacing density limits with floor area ratio tiers (FAR allowance web map). Required: on-site deed restricted units (program page: 15 percent of base units at 50 percent AMI, or 10 percent at 60 percent AMI plus 15 percent at 120 percent AMI, per the FAR tier) and replacement of naturally affordable units. Section 143.1010(f): waiver of Development Impact Fees for all covenant restricted affordable units, all units of 500 square feet or less, and covenant restricted three bedroom units at or below 150 percent AMI, when the project reaches at least 120 percent of base maximum density (Housing Action Package 2.0, O-2024-41, 2023). Neighborhood Enhancement Fee $9.00 per square foot of lot area (or build a public promenade), waived for developments meeting the 50 percent AMI affordability tier. Permitting: 1,917 homes in 2024 and 3,372 homes 2021 to 2024.
+- AMI requirement: Deed restricted on-site units for very low, low and moderate income households (up to 120 percent AMI) for 55 years; right to return and priority preference (75 percent of affordable units) for Communities of Concern residents.
+- Cycle: rolling (next: Ministerial review; January 10, 2024 executive order requires departmental review within 30 days. The 2026 Land Development Code update (adopted mid 2026) adjusted FAR bonuses and DIF provisions; verify current 143.1010 text before relying on the waiver.)
+- Layering notes: Can be combined with the inclusionary requirement (the required units satisfy both) but not with the state density bonus on the same project in most cases; developers choose Complete Communities or the Affordable Housing Density Bonus (separate record). DIF waiver is a City fee waiver and may be treated as public funds for Labor Code 1720 purposes; confirm with DIR. Expedite Program and Affordable Housing Permit Now apply to qualifying projects. Code PDF read on docs.sandiego.gov; program page on sandiego.gov/complete-communities.
+- Source: https://docs.sandiego.gov/municode/MuniCodeChapter14/Ch14Art03Division10.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Housing Impact Fee (commercial linkage fee) funding the San Diego Housing Trust Fund (SDMC Chapter 9, Article 8, Division 6)**
+- Agency: City of San Diego Facilities Financing (calculation) and Development Services Department (collection); San Diego Housing Commission administers the resulting Housing Trust Fund
+- Type: other
+- Typical award: Requirement, not a subsidy. Charged per square foot on new office, hotel, research and development, retail and other commercial development; the 2014 compromise ordinance (adopted November 10, 2014) phased rates to $2.12 per square foot for office, $1.28 for hotel and retail, and $0.80 for research and development, with exemptions for manufacturing, warehouse and certain Enterprise Zone uses and an option to dedicate land in lieu of the fee. Revenue: FY25 collections $1.78M (39 percent above budget); FY27 projected $1.36M in new HTF revenue; projected HTF balance $6.38M entering FY27.
+- AMI requirement: Fee revenue must serve very low, low and median income households (at least 60 percent of HTF to very low income).
+- Cycle: rolling (next: Paid at building permit. SDHC adopts the Affordable Housing Fund Annual Plan each spring; FY27 plan allocated $2.5M of HTF to the FY27 NOFA and $150,000 to transitional housing grants.)
+- Layering notes: The HTF has been a declining share of SDHC's local money; the Inclusionary Housing Fund is now about five times larger. HTF money is the most flexible local source (loans, grants, indirect assistance) and is used for the SDHC NOFA, homeless housing grants and administration. No comparable city linkage fee exists in Chula Vista, Oceanside, Escondido or Carlsbad (Carlsbad's trust fund collects housing impact fees under a different code section). Code PDF read on docs.sandiego.gov; the current fee amount should be confirmed with Facilities Financing because the code table shows the 2014 phase-in schedule.
+- Source: https://docs.sandiego.gov/municode/MuniCodeChapter09/Ch09Art08Division06.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Inclusionary Affordable Housing Regulations and Inclusionary In Lieu Fee (SDMC Chapter 14, Article 2, Division 13; O-21167 as amended through O-22109)**
+- Agency: San Diego Housing Commission (administration, monitoring and Inclusionary Housing Fund; Genevieve Hernandez, genevieveh@sdhc.org, (619) 578-7588) and City Development Services Department (DS-530 checklist, fee collection)
+- Type: other
+- Typical award: Requirement, not a subsidy. Developments of 10 or more units: at least 10 percent of total units rented to very low or low income households at rents not exceeding 30 percent of 60 percent of AMI (phased in from July 1, 2020; now fully effective). For-sale alternatives: 10 percent at 100 percent AMI or 15 percent at 120 percent AMI. In lieu fee $25.00 per square foot of net building area of market rate units (July 1, 2024 and after; $12.73 for projects deemed complete before July 1, 2020). Other compliance: off-site units, rehabilitation or conversion of existing units or SRO or hotel rooms to 55 year affordable units, land donation. North City Future Urbanizing Area requires 20 percent. Condominium conversions of 20 or more units: 10 percent at 100 percent AMI. IHF fee revenue FY25 $17.76M (255 percent above budget); FY27 projected new IHF revenue $4.04M.
+- AMI requirement: Rental inclusionary units restricted at least 55 years; on-site affordable units count toward state density bonus; developments restricted at or below 80 percent AMI by agreement are exempt.
+- Cycle: rolling (next: Applies at permit; fee rate in effect at building permit issuance. Division 13 was amended June 15, 2026 by O-22109 (effective July 15, 2026, not yet effective in the Coastal Overlay Zone); Information Bulletin 532 revised August 2026.)
+- Layering notes: Fees feed the Inclusionary Housing Fund, the larger of the two Affordable Housing Fund accounts (about $30.7M projected balance entering FY27) and the main source of the SDHC NOFA (record above). Projects that pay the fee are not eligible for the Affordable Housing Expedite Program; projects providing on-site units get expedite processing and may stack state density bonus and Complete Communities Housing Solutions FAR bonuses. Compare Chula Vista (10 percent at 20 or more units), Carlsbad (15 percent at 7 or more units) and Oceanside (15 percent at 3 or more units); the unincorporated County ordinance is a separate county record. Code PDF read on docs.sandiego.gov and the SDHC inclusionary page.
+- Source: https://docs.sandiego.gov/municode/MuniCodeChapter14/Ch14Art02Division13.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**SDHC Multifamily Housing Revenue Bond Program (Housing Authority of the City of San Diego conduit bonds, Policy 300.301)**
+- Agency: San Diego Housing Commission, Real Estate Division, Multifamily Housing Bond Program, 1122 Broadway, Suite 300, San Diego 92101; Colin Miller, (619) 578-7429, colinm@sdhc.org; MultifamilyBondProgram@sdhc.org
+- Type: bond
+- Typical award: Conduit tax-exempt private activity bonds sized to project debt; no City or SDHC liability. Application: Bond Inducement Application (DocuSign), $3,000 application fee and $10,000 deposit (refunded at closing, when issuer and ongoing administrative fees apply), plus notarized Developer Disclosure Statement. Issuances since 1982; program policy enacted 1989.
+- AMI requirement: At least 20 percent of units at or below 50 percent AMI or 40 percent at or below 60 percent AMI; 55 year affordability; 95 percent of proceeds to capital costs.
+- Cycle: rolling (next: Rolling; inducement must precede the CDLAC application rounds (CDLAC calendar sets the practical deadlines). Housing Authority (City Council) approval required for issuance.)
+- Layering notes: SDHC is the issuer of choice inside the City; CMFA and CSCDA issuances are also used with City TEFRA approval (County TEFRA practice is a separate county record). Pairs with 4 percent LIHTC and the SDHC AHF NOFA and Bridge to Home loans. Chula Vista's Housing Authority now acts as issuer in most cases within that city (separate record); Oceanside has issued only occasionally (last 2016); Escondido and Carlsbad rely on JPAs.
+- Source: https://sdhc.org/doing-business-with-us/developers/multifamily-housing-revenue-bonds/
+- Confidence: verified (researched 2026-11-08)
+
+**State Prohousing Designation, City of San Diego (2022 designation and 2025 renewal application)**
+- Agency: City of San Diego City Planning Department, Prohousing@sandiego.gov
+- Type: other
+- Typical award: Not a direct subsidy. Prohousing status gives bonus points or set-asides in state AHSC, IIG, MHP and PLHA competitive rounds and eligibility for Prohousing Incentive Program grants. The City was designated in November 2022; the designation was valid until January 2026 and the City circulated a draft renewal application in November 2025. HCD's designated jurisdictions list as of August 10, 2026 shows Chula Vista and San Diego County but not the City of San Diego, so renewal appears still pending.
+- AMI requirement: Not applicable.
+- Cycle: closed/inactive (pending renewal) (next: unknown, verify with agency; check HCD's Prohousing Designation Application Tracker for the City's renewal status before claiming points in a 2027 state application.)
+- Layering notes: Matters for layering state funds onto SDHC and Bridge to Home awards: without the designation, City projects lose Prohousing points in AHSC and MHP scoring that Chula Vista and unincorporated County projects receive. Read the City Planning Prohousing page and HCD's designated list this pass; the renewal decision itself could not be confirmed.
+- Source: https://www.sandiego.gov/planning/prohousing-designation
+- Confidence: needs_confirmation (researched 2026-11-08)
 
 
 ### City of San Jose
