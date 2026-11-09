@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 679 total records
+Generated 2026-11-08, 694 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -3654,6 +3654,72 @@ Generated 2026-11-08, 679 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Arroyo Grande
+
+**Density Bonuses (Municipal Code Chapter 16.82; Ord. 596, 2007)**
+- Agency: City of Arroyo Grande Community Development Department
+- Type: density bonus
+- Typical award: Requirement-based entitlement, not a subsidy. Local codification of state density bonus law: one density bonus per project for 10% lower income, 5% very low income, senior housing, qualified mobilehome park or 10% moderate income for-sale units, with specified bonus percentages, incentives and concessions, waivers of development standards, parking incentives and land donation provisions. Section 16.82.130 defers to state law amendments, so the larger bonuses and lower thresholds in current Government Code 65915 apply even though the chapter text dates to 2007.
+- AMI requirement: Chapter text requires 30-year affordability for low and very low income bonus units (state law now requires 55 years, which governs); equity sharing for moderate income for-sale units.
+- Cycle: rolling (next: Not applicable; requested with the planning application.)
+- Layering notes: No local enhancement beyond state law; the chapter has not been comprehensively updated since 2007 and relies on its state-law amendment clause. Inclusionary units under Chapter 16.80 can be used to qualify for the bonus (Section 16.80.110), which is the main local layering point. Arroyo Grande has no fee waiver ordinance, RDA successor housing fund or NOFA; its tools are the inclusionary trust fund and this chapter, plus County and HASLO resources. Read on the zoneomics mirror.
+- Source: https://www.zoneomics.com/code/arroyo-grande-CA/chapter_22
+- Confidence: verified (researched 2026-11-08)
+
+**Inclusionary Affordable Housing Requirements (Municipal Code Chapter 16.80; Ord. 595, 2007) and in-lieu fee**
+- Agency: City of Arroyo Grande Community Development Department (City Council decides units, fee or land on each project)
+- Type: other
+- Typical award: Requirement, not a subsidy. Applies to new residential projects of two or more units, substantial rehabilitation of two or more units and condo conversions. Options: 5% very low income units, or 10% lower income units, or 15% moderate income units (rental or non-common-interest projects), or an equivalent combination; or an in-lieu fee set by Council resolution (the Housing Element reports the fee was raised from 1% to 5%, applied to construction valuation); or land dedication. Projects of two to four units may always pay the fee. Fees go to the Inclusionary Affordable Housing Trust Fund (Sections 16.80.070 and 16.80.080). Through 2020 only two very low income units had been entitled; nearly all applicants paid the fee.
+- AMI requirement: Rental units restricted at least 55 years, ownership units at least 45 years, at affordable housing cost per Health and Safety Code 50052.5 and 50053; units dispersed and comparable to market-rate units; affordable housing agreement required before map approval or building permit.
+- Cycle: rolling (next: Not applicable; fee paid before the first ministerial permit (grading, demolition or building). Housing Element Program E.1-1 called for amending the requirements and fee within two years of the January 26, 2021 adoption; the fee methodology was still preliminary when the element was adopted.)
+- Layering notes: Low threshold (two units) means almost every multifamily project pays into the trust fund, which is the City's only local gap source (separate record). Chapter 16.80.110 coordinates with the density bonus chapter; inclusionary units can count toward density bonus thresholds. Incentives listed in the Housing Element for inclusionary projects include density bonuses, fee waivers or reductions and modified development standards, but no standing fee waiver ordinance was found. County inclusionary ordinance was repealed in 2022, so this is one of only two active inclusionary programs in the county (with the City of SLO). Read on the zoneomics mirror; arroyogrande.org opens but its housing pages are thin and the eScribe agenda host renders in JavaScript.
+- Source: https://www.zoneomics.com/code/arroyo-grande-CA/chapter_21
+- Confidence: verified (researched 2026-11-08)
+
+**Inclusionary Affordable Housing Trust Fund (In-Lieu Affordable Housing Fund) grants to affordable developments (Housing Element Program C.1-1)**
+- Agency: City of Arroyo Grande Community Development Department and City Manager; awards by City Council
+- Type: grant
+- Typical award: Small fund, awarded by Council to specific projects. Balance of $928,000 as of 2020 per the Housing Element. News reports (not agency sources) state the Council granted $448,370 in July 2023 and a further $630,000 on October 22, 2024 from the Affordable Housing Trust Fund to HASLO's Arroyo Terrace, a 63-unit (reported as 63 to 65 units) 100% affordable project at 700 North Oak Park Boulevard that also received a 2024 TCAC 9% reservation of about $2.2 million in annual federal credits and County Title 29 funds. Housing Element quantified objective: assist three extremely low, three very low and twenty low income units during 2020-2028.
+- AMI requirement: Extremely low, very low and low income units with long-term covenants (55 years rental under Chapter 16.80); criteria for allocating the fund were to be adopted under Housing Element Policy C.1.
+- Cycle: rolling (next: unknown, verify with agency. No NOFA; requests are made to Community Development and the City Manager during the budget cycle or when a project needs gap funding. Contact (805) 473-5420.)
+- Layering notes: The fund is likely close to depleted after the two HASLO grants (about $1.08 million against a $928,000 2020 balance plus later fees), so treat it as a small top-off source replenished by in-lieu fees. Arroyo Terrace shows the local stack: City trust fund grant, County Title 29 and Urban County HOME or PLHA (county records), HASLO vouchers, SLO County Housing Trust Fund and 9% LIHTC. The City also controls a small CDBG share through the Urban County. The Council staff reports for the 2023 and 2024 grants could not be opened (pub-arroyogrande.escribemeetings.com listings are JavaScript-rendered and documents return 403), so the HCD-hosted 2020-2028 Housing Element is the agency source; confirm the current balance and award history with the City.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/arroyo-grande-6th-adopted021121.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+
+### City of Atascadero
+
+**Affordable Housing Impact Fee Deferral Program (Municipal Code Section 3-14.070 as amended by Ord. 666, September 26, 2023, and Council deferral resolution)**
+- Agency: City of Atascadero Community Development Department and Administrative Services
+- Type: fee waiver
+- Typical award: Development impact fees and wastewater capacity charges, normally due at final inspection, may be deferred under a Council-approved agreement for residential units affordable to low, very low or extremely low income households. Staff reports and local coverage describe the program as a 17-year interest-bearing deferral loan for projects with five or more affordable rental units, with up to about $3 million in fees eligible; the City cites multifamily impact fees of roughly $12,000 to $15,000 per unit. Intended to improve TCAC competitiveness by lowering upfront cost.
+- AMI requirement: Units affordable to low, very low and extremely low income households under a recorded agreement; deferral terms set in the agreement approved by Council.
+- Cycle: rolling (next: Not applicable; request with the entitlement or before building permit issuance. Contact Community Development at (805) 461-5000.)
+- Layering notes: Deferral, not forgiveness: fees are a City loan repaid over the term, so underwrite as soft debt. Implements Housing Element Program 2.E. EPS advised the City against outright impact fee waivers for fiscal reasons, so a waiver is unlikely. Stacks with state density bonus (Article 30), the inclusionary in-lieu fund, County Title 29 or Regional Housing Fund, HASLO vouchers and Urban County HOME. The ordinance text was read on the ecode360 code mirror (atascadero.org links to the September 26, 2023 resolution on records.atascadero.org, which returned a scanned PDF with no extractable text).
+- Source: https://ecode360.com/43091640
+- Confidence: verified (researched 2026-11-08)
+
+**Density Bonus (Municipal Code Title 9 Chapter 3 Article 30, Sections 9-3.801 to 9-3.806; Ord. 570, 2013, updated by Ord. 671, June 25, 2024)**
+- Agency: City of Atascadero Community Development Department
+- Type: density bonus
+- Typical award: Requirement-based entitlement, not a subsidy. Adopts state density bonus law (Government Code 65915 to 65918) by reference: bonus amount, incentives and concessions, parking reductions and development standard waivers as specified in state law; state law prevails over conflicts. No local enhancement beyond state minimums. Market-rate senior projects get the bonus but no other concessions. Projects that use the density bonus are exempt from the City's Interim Inclusionary Housing Policy.
+- AMI requirement: State thresholds (5% very low, 10% low, 10% moderate for-sale, 100% senior); replacement housing requirement of Government Code 65915(c)(3) applies.
+- Cycle: rolling (next: Not applicable; requested with the planning application.)
+- Layering notes: The 2024 update (Ord. 671) fulfilled Housing Element Program 2.A. Atascadero also adopted objective design standards and SB 330 and SB 9 code changes in 2024 as Housing Element deliverables. The density bonus exempts a project from inclusionary units, so for mixed-income deals the bonus is usually the better path; 100% affordable deals use it for up to 80% bonus and unlimited density near transit under state law. The County's Regional Housing Incentive Program does not apply inside city limits. Read on the zoneomics mirror; the City's March 2023 draft ordinance PDF on atascadero.org was also opened.
+- Source: https://www.zoneomics.com/code/atascadero-CA/chapter_3
+- Confidence: verified (researched 2026-11-08)
+
+**Interim Inclusionary Housing Policy (Council policy adopted June 24, 2003, amended November 25, 2003) and inclusionary in-lieu housing fund**
+- Agency: City of Atascadero Community Development Department (fund and resale administration by Administrative Services, affordablehousing@atascadero.org)
+- Type: other
+- Typical award: Requirement, not a subsidy. Applies only to residential projects needing legislative approval (planned developments, subdivisions, rezones). 20% of units affordable; in multifamily and mixed-use areas split 20% very low, 37% low, 43% moderate (single-family areas 100% moderate). Projects of 1 to 10 units may pay the in-lieu fee or build; 11 or more units must build unless Council approves fees. In-lieu fee equals 5% of the construction valuation of the market-rate units; fractional units up to 0.499 pay fees. Collected fees sit in the City's inclusionary (in-lieu) housing fund, which has helped Peoples' Self-Help Housing (Atalaya Street 24 homes, Triangle parcel 11 units) and Corporation for Better Housing (60 very low and low income units). Housing Element Program 2.C commits the City to adopt a policy for using the in-lieu funds.
+- AMI requirement: Deed restriction of 30 years under the policy (County Affordable Housing Standards used for income limits, rents and prices); inclusionary units are treated as density bonus units not counted against maximum density. Projects using the state density bonus and second units are exempt.
+- Cycle: rolling (next: Not applicable. The 2022 EPS nexus study recommended replacing the policy with a citywide affordable housing impact fee (nexus-justified maximum $38.71 to $75 per sq ft, adopted fee to be set well below) and lowering inclusionary to 10% to 15% for large discretionary projects; no ordinance had been adopted as of the pages read.)
+- Layering notes: Still an interim policy more than 20 years on; it only reaches discretionary legislative projects, so most by-right multifamily pays nothing. A 100% affordable LIHTC project is effectively exempt and can request the in-lieu fund as gap money; the fund balance is not published and should be requested from Administrative Services at (805) 470-3428. Pair with the City's impact fee deferral program and state density bonus (separate records), County Title 29 and Regional Housing Fund awards, HASLO vouchers and the Urban County HOME NOFA (Atascadero is a participating city). atascadero.org opens to scripts; the policy PDF, Housing Element and EPS nexus study were read directly.
+- Source: https://www.atascadero.org/sites/default/files/Interim%20Inclusionary%20Housing%20Policy.pdf
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Auburn
 
 **Auburn 2021-2029 Housing Element Program A and Program I: case-by-case fee reductions or deferrals, alternative development standards and state CDBG and HOME applications for affordable housing (adopted May 24, 2021)**
@@ -5213,6 +5279,49 @@ Generated 2026-11-08, 679 total records
 - Confidence: needs_confirmation (researched 2026-11-08)
 
 
+### City of Paso Robles
+
+**Affordable housing fee deferral loans (deferral of development impact, water and sewer connection and building permit fees; Housing Element Programs 8 and 9)**
+- Agency: City of El Paso de Robles Community Development Department and City Council (case-by-case resolution)
+- Type: fee waiver
+- Typical award: Case-by-case Council approval of long-term deferral of City fees, structured as low-interest General Fund loans repaid several years beyond occupancy. Track record: Oak Park Public Housing redevelopment (Paso Robles Housing Authority) phases one through four received fee deferral loans of $1.018 million (2012), $889,000 (2014), $999,423 (2017) and about $1.44 million (2018); a 79-unit senior low-income project at Woodland Plaza II received City fee deferrals in February 2021. News reports (not agency sources) describe a 2026 Council resolution authorizing deferral of water, sewer, development impact and building permit fees for affordable housing, a 30-year deferral of about $1.2 million for Highland's Senior Affordable Apartments (298 Niblick Road), a 30-year deferral of about $1.8 million for Sunrise Villas Apartments, and a roughly 50% impact fee waiver for a nine-unit Habitat for Humanity project on Vine Street. The City also cut development impact fees for studios and one-bedroom units (about $6,226 and $9,343 per unit).
+- AMI requirement: Units affordable to lower-income households including extremely low income; 55-year affordability has been required on senior projects receiving deferrals.
+- Cycle: rolling (next: unknown, verify with agency. Requests go to Council with the entitlement or before building permit; contact Community Development at (805) 237-3970 or planning@prcity.com. A development services fee update was before the Housing Constraints and Opportunities Committee on February 12, 2026 and then Council.)
+- Layering notes: This is the only City-controlled financial tool in Paso Robles; it substitutes for a housing trust fund. City fee deferrals have been the local match for Paso Robles Housing Authority tax credit deals (Oak Park) and are expected to pair with County Title 29 or Regional Housing Fund awards, HASLO or Paso Robles Housing Authority vouchers, SLO County Housing Trust Fund loans and the Urban County HOME NOFA (county record). The City receives about $165,000 per year of CDBG through the Urban County, which cannot fund new construction or impact fees. The 2026 resolution and project-specific deferrals were found only in local news; the City's eScribe agenda host (pub-pasorobles.escribemeetings.com) renders listings in JavaScript and returns 403 on document downloads, so the HCD-hosted 2020-2028 Housing Element is the agency source. Paso Robles is now preparing its 7th cycle Housing Element (consultant RFP due September 8, 2026).
+- Source: https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-adopted120920.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Community Development Block Grant (CDBG) city allocation through the San Luis Obispo Urban County**
+- Agency: City of El Paso de Robles Community Development Department, Housing Programs Division (County of San Luis Obispo is lead agency)
+- Type: grant
+- Typical award: About $165,000 per year to the City. At least 70% must benefit low income persons (80% AMI or below), no more than 15% for public services, up to 30% for blight elimination; projects must complete within about 1.5 years. CDBG cannot pay new housing construction costs or development impact fees; eligible uses include land acquisition for low income housing, street improvements serving low income housing, rehabilitation and public facilities.
+- AMI requirement: Beneficiaries at or below 80% of county median income; HOME and CalHome recipients must be low income.
+- Cycle: annual NOFA (next: City CDBG requests run on the Urban County Action Plan calendar (2027 Action Plan NOFA applications were due October 30, 2026; next round expected fall 2027). Contact Housing Programs at (805) 237-3970.)
+- Layering notes: The City recommends use of its own CDBG share but the County Board adopts the Action Plan (county record: Urban County Action Plan NOFA). HOME and ESG are not allocated to the City; the City may apply to the County for HOME annually, and County HOME has funded Peoples' Self-Help Housing projects in Paso Robles (Canyon Creek, Creekside Gardens). Useful only for acquisition, site work or rehab components and must be paired with other local or state sources for construction. Davis-Bacon applies.
+- Source: https://www.prcity.com/238/Community-Development-Block-Grant-Progra
+- Confidence: verified (researched 2026-11-08)
+
+**Density Bonus (Municipal Code Chapter 21.61; Ord. 1144 N.S., adopted October 1, 2024) and Urban Dwelling Units (Chapter 21.65)**
+- Agency: City of El Paso de Robles Community Development Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement-based entitlement, not a subsidy. Chapter 21.61 adopts state density bonus law by reference (Government Code 65915 to 65918) with no local enhancement: bonus amounts, incentives and concessions, parking reductions and waivers are as specified in state law and state law prevails over any conflict. Chapter 21.65 implements SB 9 urban dwelling units for individual owners. Both were part of the 2024 comprehensive Zoning Code Update.
+- AMI requirement: State thresholds (5% very low, 10% low, 10% moderate for-sale common interest, senior, transitional foster youth, disabled veterans, homeless). Replacement housing requirement of Government Code 65915(c)(3) applies.
+- Cycle: rolling (next: Not applicable; requested with the planning application.)
+- Layering notes: Paso Robles has no inclusionary ordinance, no local housing trust fund and no in-lieu fee fund (see separate closed/inactive record), so state density bonus plus fee deferral loans are the only local tools. The 2020-2028 Housing Element Program 10 set a quantified objective of 25 density bonus units. Recent projects: a 79-unit senior low-income development approved February 16, 2021 with fee deferrals, and Highland's Senior Affordable Apartments (30 units, 298 Niblick Road, CEQA notice January 2026) using a density bonus. The County's Regional Housing Incentive Program (Title 22) does not apply inside the City. Read on the zoneomics mirror; prcity.com itself is accessible but municode is blocked.
+- Source: https://www.zoneomics.com/code/paso-robles-CA/chapter_5
+- Confidence: verified (researched 2026-11-08)
+
+**Inclusionary housing ordinance and local affordable housing fund (none adopted; Housing Element finding)**
+- Agency: City of El Paso de Robles Community Development Department, Housing Programs Division
+- Type: other
+- Typical award: None. The 2020-2028 Housing Element states the City of Paso Robles does not have an inclusionary ordinance, and the City holds no inclusionary in-lieu fund, local housing trust fund or RDA successor housing fund for development. The Housing Programs Division's development support is limited to CDBG (about $165,000 per year through the Urban County), applying for County-administered HOME funds, fee deferrals and liaison with the Paso Robles Housing Authority. A November 2025 townhouse proposal offered a voluntary in-lieu payment tied to the County's Title 22 point system for use in a future tax-credit project, which indicates ad hoc negotiated contributions rather than a program.
+- AMI requirement: Not applicable.
+- Cycle: closed/inactive (next: Not applicable. Watch the 7th cycle Housing Element update (consultant RFP due September 8, 2026) for any inclusionary or impact fee program.)
+- Layering notes: Negative finding recorded so the gap is visible: Paso Robles is the largest North County city and offers no local gap funding beyond fee deferrals. Developers must rely on County Title 29 and the new Regional Housing Fund (county records), HASLO and Paso Robles Housing Authority vouchers, SLO County Housing Trust Fund and state programs. The 2020 Housing Element workshops listed a possible local housing fund (General Fund, TOT, in-lieu fees) as an option but none was adopted. prcity.com pages and the HCD-hosted Housing Element were opened; the 2025 Annual Progress Report could not be located on prcity.com.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-adopted120920.pdf
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Petaluma
 
 **Petaluma Commercial Development Housing Linkage Fee (Ordinance 2171 N.C.S. of 2004, as amended 2011)**
@@ -5962,6 +6071,59 @@ Generated 2026-11-08, 679 total records
 - Cycle: rolling (next: Continuous until funds are committed; HOME FY 2024 funds must be spent by June 30, 2027. Contact Housing Services before applying.)
 - Layering notes: San Leandro's local money is thin (AHTF balance $336,166 at June 30, 2025), so the RFP mainly packages federal and state pass-throughs. Realistic stack: County Measure A1 San Leandro base allocation and regional pool, Measure W, HACA project-based vouchers, AHSC (City co-applied with Pacific West Communities in Rounds 9 and 10 for a BART-area project), and CMFA or County conduit bonds. The City expects the County to centralize HOME administration for FY 2027-2029. RFP read on the City's DocumentCenter; some sanleandro.org pages returned 403 after repeated requests.
 - Source: https://www.sanleandro.org/DocumentCenter/View/12099
+- Confidence: verified (researched 2026-11-08)
+
+
+### City of San Luis Obispo
+
+**Affordable Housing Incentives and local density bonus (Municipal Code Chapter 17.140; Ord. 1705, 2021)**
+- Agency: City of San Luis Obispo Community Development Department (Director approval; review authority resolution for alternative incentives)
+- Type: density bonus
+- Typical award: Requirement-based entitlement, not a subsidy. Density bonus of 20% to 50% per Tables 8-3 and 8-4 (10% low income earns 20%, rising to 50% at 24% low income; 5% very low earns 20%); the Director may approve a bonus above 50% at the developer's request. One to three incentives or concessions on the state schedule, and alternative incentives listed in Section 17.140.070 include deferral of application and development review processing fees, deferral of park land in-lieu fees or dedication, mixed-use zoning, reduced site standards and parking. Housing Element Program 2.14 commits the City to support bonuses above the 35% state base; the City approved more than 15 density bonus requests in 2018-2020.
+- AMI requirement: State density bonus thresholds (5% very low, 10% low, 10% moderate for-sale, 100% senior, 10% transitional foster youth, disabled veterans or homeless); affordable units covenanted per state law through an affordable housing agreement (Section 17.140.080). Applies to projects of five or more units including mixed-use.
+- Cycle: rolling (next: Not applicable; requested with the planning application.)
+- Layering notes: Local enhancement beyond state law: Director can approve bonuses above 50% and fee deferrals count as incentives. Projects using a density bonus are exempt from Chapter 17.138 inclusionary requirements. Base densities in the City's high-density zones are 24 or more units per acre before bonus, and the Downtown Flexible Density Program (Chapter 17.141) allows small units (150 to 600 sq ft) outside the inclusionary ordinance. Stack with AHF awards and the City impact fee deferral; the County's Regional Housing Incentive Program (Title 22 Section 22.12.010) applies only to unincorporated land. Read on the zoneomics mirror because slocity.org blocks automated access.
+- Source: https://www.zoneomics.com/code/san-luis-obispo-CA/chapter_8
+- Confidence: verified (researched 2026-11-08)
+
+**City Affordable Housing Fund (AHF) grants and loans (in-lieu fee fund; award criteria Resolution 9263, 2001 Series; Housing Element Program 2.5)**
+- Agency: City of San Luis Obispo Community Development Department, Housing Programs (Council awards)
+- Type: loan
+- Typical award: Gap grants and below-market loans at Council discretion. History: $10,450,954 committed to 464 deed-restricted units from 1999 to 2020; Bishop Street Studios (34 units) received $1,595,500 combined AHF loan, impact fee deferral loan and CDBG loan; $2 million approved January 2020 for a 108-unit project; $330,000 grant to TMHA for a 6-unit acquisition-rehab; a 2023 Council resolution (eScribe DocumentId 8320, blocked to scripts) approved $3.2 million to HASLO for 736 Orcutt Road ($2.0 million) and 279 Bridge Street Family Apartments ($1.2 million), each paired with a fee deferral loan. HCD Prohousing Incentive Program funds ($750,000, 2024) were routed through the AHF. Housing Element target: support at least 4 new affordable developments during 2020-2028.
+- AMI requirement: Extremely low, very low, low and moderate income; deed restrictions of 55 years rental and 45 years ownership under City Affordable Housing Standards. Housing Element Program 2.5 directs the fund to projects that would not be feasible without AHF support and to production efficiency.
+- Cycle: rolling (next: unknown, verify with agency. No formal NOFA; developers request awards through the Housing Programs Coordinator (housing@slocity.org) and awards go to Council by resolution, usually timed to TCAC or CDLAC rounds.)
+- Layering notes: Largest city-controlled housing fund in the county. Revenue is the Chapter 17.138 in-lieu fee and Chapter 4.60 commercial linkage fee plus shared-equity recapture; the City also receives its own CDBG share through the Urban County (county record: Urban County Action Plan NOFA, due October 30, 2026 for the 2027 program year) and has layered CDBG loans with AHF awards. Typical stack for a City of SLO LIHTC deal: AHF grant or loan, City impact fee deferral loan (separate record), County Title 29 or Regional Housing Fund, HASLO project-based vouchers, SLO County Housing Trust Fund predevelopment loan, then state sources. HCD-hosted Housing Element was the only agency document that could be opened; slocity.org (403) and the City eScribe agenda host pub-slocity.escribemeetings.com (filestream 403, JS-only listings) could not be read, so current fund balance and 2025-2026 awards are unconfirmed.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-6th-adopted072321.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Development services fee waiver and citywide development impact fee deferral loans for affordable units (Housing Element incentives table; Chapter 4.56 impact fee deferral)**
+- Agency: City of San Luis Obispo Community Development Department and Finance Department
+- Type: fee waiver
+- Typical award: Residential projects meeting City affordable housing standards for extremely low, very low and low income households are exempt from all planning, engineering and building review, processing and permit fees and water and sewer meter hook-up fees; mixed-income projects receive the waiver per affordable unit. Citywide development impact fees are deferred (as a deferral loan) for affordable units that exceed the inclusionary minimum or are built, owned and managed by HASLO, other public agencies or nonprofit housing agencies. Example: Bishop Street Studios received an impact fee deferral loan as part of $1,595,500 in City assistance; 2023 HASLO awards for 736 Orcutt and 279 Bridge Street each included a fee deferral loan. HCD's Prohousing release describes the impact fee relief as a waiver for qualifying affordable housing.
+- AMI requirement: Deed-restricted affordable units at City Affordable Housing Standards (extremely low, very low, low for the fee exemption; any inclusionary-exceeding or nonprofit or public agency affordable unit for impact fee deferral).
+- Cycle: rolling (next: Not applicable; requested with the building permit or through the AHF award resolution.)
+- Layering notes: Local cost-reduction layer that stacks with AHF awards; the City routinely packages an AHF loan plus an impact fee deferral loan in one resolution. Fee exemptions and deferrals are public subsidies and may trigger Labor Code 1720 prevailing wage unless the project already pays it under LIHTC or state funding. The Chapter 4.56 ordinance text and current deferral terms (interest, repayment at permanent loan closing versus residual receipts) could not be opened because slocity.org, codepublishing and the City eScribe agenda host all block automated access; the HCD-hosted 2020 Housing Element incentives table is the source. No comparable county program exists for unincorporated land beyond the Title 22 incentive program.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-6th-adopted072321.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Inclusionary Housing Requirements (Municipal Code Chapter 17.138, Ord. 1719, 2022) and Commercial Linkage Fee (Chapter 4.60)**
+- Agency: City of San Luis Obispo Community Development Department, Housing Programs
+- Type: other
+- Typical award: Requirement, not a subsidy. Rental projects: 6% of units affordable (3% very low, 3% low). For-sale projects: 10% of units (5% low, 5% moderate). In-lieu fee calculated on new habitable square footage at a rate set by Council resolution in the comprehensive fee schedule; the City's inclusionary page (not opened this pass, slocity.org blocks automated access) reports about $26.73 per sq ft for-sale and $21.42 per sq ft rental, with commercial linkage fees of about $6.42 per sq ft (office, service, hotel, retail) and $5.35 per sq ft (industrial, institutional). All in-lieu and linkage fees go to the City Affordable Housing Fund. By 2020 the program had produced more than 850 affordable units and $10.45 million in in-lieu funds committed to 464 units.
+- AMI requirement: Inclusionary units deed restricted 55 years rental, 45 years ownership, at City Affordable Housing Standards. Fractional units may be met by paying a fractional in-lieu fee. Exempt: ADUs and JADUs, 100% affordable projects, projects using a density bonus, downtown flexible density units (Chapter 17.141), additions and remodels that add no units.
+- Cycle: rolling (next: Not applicable; requirement applies at entitlement and in-lieu fee is paid before building permit issuance (phased projects pay proportionally).)
+- Layering notes: Core local requirement for any market-rate multifamily deal in the City of SLO. 100% affordable projects and density bonus projects are exempt, so an LIHTC deal normally pays nothing and instead competes for the in-lieu revenue through the Affordable Housing Fund (separate record). Ordinance replaced the 1999 program in 2022 after a nexus study; the City notes Chapter 17.138 and Chapter 4.60 (nonresidential linkage fee) apply to mixed-use projects on both the residential and commercial components. County inclusionary ordinance (Title 22 Section 22.12.080) was repealed in 2022 and the County's Title 29 fund is now residual, so the City fund is the only growing in-lieu pool in the county. slocity.org returns 403 to automated access; the ordinance text was read on the zoneomics code mirror and the program history in the HCD-hosted 2020-2028 Housing Element. Confirm current fee rates on the City's inclusionary page before underwriting.
+- Source: https://www.zoneomics.com/code/san-luis-obispo-CA/chapter_8
+- Confidence: verified (researched 2026-11-08)
+
+**Prohousing Designation (HCD, announced January 2024) and Prohousing Incentive Program award**
+- Agency: California HCD designation; City of San Luis Obispo Community Development Department administers the incentive funds
+- Type: other
+- Typical award: Designation gives City-sponsored or City-located projects extra points in HCD competitive programs (AHSC, IIG, MHP and others). The City received $750,000 from the Prohousing Incentive Program in 2024, deposited to the City Affordable Housing Fund for affordable projects, with final awards to individual projects subject to Council approval. HCD lists the City (and the County, designated October 2025) among designated jurisdictions as of August 10, 2026.
+- AMI requirement: Not a direct subsidy; the PIP dollars follow AHF affordability rules (55-year rental, 45-year ownership covenants).
+- Cycle: rolling (next: Not applicable; benefit is realized in state NOFA scoring. PIP rounds are announced by HCD (round 2 closed March 15, 2024).)
+- Layering notes: Both the City and the County of San Luis Obispo are Prohousing (county record: Prohousing Designation, October 2025), so any site in the City qualifies for Prohousing bonus points in HCD programs regardless of which agency sponsors. HCD credited the City's hillside program, objective design standards and the waiver of citywide impact fees for affordable housing exceeding inclusionary requirements or built by HASLO, nonprofits or public agencies. The HCD newsroom release and designated-jurisdictions page were opened; the City's own news page about the $750,000 award could not be opened (slocity.org 403).
+- Source: https://www.hcd.ca.gov/about-hcd/newsroom/seven-california-communities-earn-prohousing-designation
 - Confidence: verified (researched 2026-11-08)
 
 
