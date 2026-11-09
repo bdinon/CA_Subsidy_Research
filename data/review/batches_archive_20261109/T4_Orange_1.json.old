@@ -1,0 +1,75 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Development fee waiver for affordable housing (no countywide program)",
+      "administering_agency": "OC Public Works, OC Development Services",
+      "funding_type": "fee waiver",
+      "typical_award_size": "None adopted. The County has no impact fee waiver or deferral program for affordable housing in the unincorporated area. The 2026 Supportive Housing NOFA treats city waivers of impact, school, sanitation and mitigation fees as eligible local match, and County loans may pay building permit fees as an eligible cost.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Ask the host city for fee waivers to satisfy the County NOFA match requirement.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding. Unincorporated projects pay full County, school district and sanitation district fees; the Affordable Housing Permit carries a processing deposit. Labor Code 1720(b)(4) counts any waived fee as public funds for prevailing wage purposes.",
+      "source_url": "https://housing.oc.gov/sites/hcd/files/2026-03/2026%20NOFA%2003.06.26.pdf",
+      "record_id": "fe6f178ef3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Anaheim",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Low and Moderate Income Housing Asset Fund (Anaheim Housing Authority as Housing Successor to the Anaheim Redevelopment Agency)",
+      "administering_agency": "Anaheim Housing Authority as Housing Successor, administered by Housing and Community Development",
+      "funding_type": "loan",
+      "typical_award_size": "Balance not confirmed this pass: the Housing Successor page describes the LMIHAF and annual SB 341 reporting but the report PDFs (for example the FY 2020-21 report, DocumentCenter 70278) returned 403. The Authority holds former Agency housing assets, loans and land; a January 2026 Authority agenda report (per search snippet, not opened) said the Authority owned one vacant building at 883 S. Anaheim Blvd pending long-term housing plans. Before dissolution the Agency's housing set-aside was $15,000,000 to $17,000,000 a year.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Health and Safety Code 34176.1: low and moderate income households (up to 120% AMI), at least 30% of five-year expenditures for households at or below 30% AMI, senior cap of 50% over 10 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; request the latest Housing Successor Annual Report and LMIHAF balance from Housing and Community Development.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Anaheim's former Agency was one of the largest in Orange County, so LMIHAF repayments and land (Beach Boulevard, Center City) remain a meaningful site source even if cash is thin; the A-LHTF Guidelines say Trust funds may be transferred to the Housing Authority to combine with other sources for site acquisition. Treat as land and residual receipts rather than a cash NOFA. Public funds trigger state prevailing wage. Housing Successor Agency page opened on anaheim.gov; report PDFs blocked.",
+      "source_url": "https://www.anaheim.gov/2969/Housing-Successor-Agency",
+      "record_id": "2f8229257a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "ground lease of authority-owned sites"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

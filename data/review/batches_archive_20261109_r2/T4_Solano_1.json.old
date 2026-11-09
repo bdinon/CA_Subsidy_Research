@@ -1,0 +1,78 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "HOME and CDBG, Solano County (state non-entitlement status; 2024 CDBG planning grants)",
+      "administering_agency": "California HCD state CDBG and HOME programs; Solano County Department of Resource Management as applicant",
+      "funding_type": "grant",
+      "typical_award_size": "No county HOME or CDBG entitlement. State CDBG 2024 awards to the County of Solano: $300,000 Affordable Housing Development Site Feasibility Study and $300,000 Pocket/Cottage Housing Feasibility Study (Resolution 2024-213 of Dec 10, 2024; award Sept 3, 2025; $559,909 contract with Lisa Wise Consulting approved May 5, 2026, through June 30, 2028). No County of Solano award appears in HCD's HOME 2022-2023 awardee list. Fairfield, Vacaville and Vallejo are HUD entitlements (Pass 3).",
+      "per_unit_cap": "HOME per-unit subsidy limits (24 CFR 92.250) apply to any state HOME award.",
+      "affordability_requirement": "State HOME: 20% of HOME units at 50% AMI, rest at 60% AMI, 55-year HCD covenant. State CDBG: 51% of units at or below 80% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Follow HCD state HOME and CDBG NOFAs. The County's feasibility studies run May 2026 to August 2027 (public workshop Aug 27, 2026, survey closed Sept 7, 2026) and will identify five potential housing areas in the unincorporated county; a developer solicitation could follow in 2027-2028.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Negative finding for capital: the County has no HOME or CDBG construction pipeline of its own. The CDBG-funded studies matter because they are the County's first step toward sponsoring affordable multifamily or cottage housing on unincorporated sites under the 2023-2031 Housing Element (adopted Feb 6, 2024). A developer wanting state HOME in Dixon, Rio Vista or the unincorporated area needs the County or city to apply as grantee. HOME and CDBG carry Davis-Bacon (CDBG 8+ units, HOME 12+ units) and state prevailing wage.",
+      "source_url": "https://solano.legistar.com/LegislationDetail.aspx?GUID=B9DE2910-60B7-468B-9A2B-1299341BC12F&ID=8000024&Options=&Search=",
+      "record_id": "c8deb91dd1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Vacaville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Vacaville Affordable Housing, Density Bonuses and Incentives (Land Use and Development Code Chapter 14.09.210; Ordinance 1972 of February 22, 2022, amended by Ordinance 1996 of July 23, 2024)",
+      "administering_agency": "City of Vacaville Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Mirrors Government Code 65915: 5+ unit projects with 5% very low, 10% low, 10% moderate (for-sale), senior, foster youth/veteran/homeless, student, or 100% affordable (80% bonus, no density cap within one half mile of a major transit stop or in a very low vehicle travel area) qualify; one to five incentives by tier; 100% affordable projects near transit get up to three extra stories or 33 feet; childcare facility bonus. Housing Element Program HE-1 says the City will grant bonuses above the state minimum for more affordable units, but the code text tracks state law.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Government Code 65915 set-asides; 55-year rental covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; file with the planning application.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement found in the code text; the Housing Element quantified objective is 300 lower-income units through density bonus. Vacaville's Housing Element also raised the Residential High zone from 24 to 30 units per acre (Program HE-18) and allows reduced parking (HE-19). Vacaville has no housing trust fund, inclusionary ordinance or fee waiver (separate negative record), so the density bonus and PBVs are the main city tools. Read on the zoneomics code mirror; cityofvacaville.gov returns 403 to scripts and WebFetch.",
+      "source_url": "https://www.zoneomics.com/code/vacaville-CA/chapter_6",
+      "record_id": "513f3b82a3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  }
+]

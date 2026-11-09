@@ -1,0 +1,197 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Summer Lake Affordable Housing Fund (east county)",
+      "administering_agency": "Contra Costa County Department of Conservation and Development",
+      "funding_type": "loan",
+      "typical_award_size": "Balance of $913,438 as of 2026, fed by a $3,333 affordable housing fee on each new Summer Lake home collected by the City of Oakley and transferred to the County under the Cypress Corridor annexation Transition Agreement. FY 2026/27 awards: $413,438 construction loan to Harbor Pointe (Discovery Bay, 168 units) and $500,000 predevelopment loan to Casita Phase II (Hijas del Campo, Byron, 17 manufactured farmworker units) at 3% simple interest with a five-year term to start construction.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable housing in east Contra Costa County; the agreement asks the County to consider reserving 20% for projects in Oakley. Awarded through the County Affordable Housing Program, so County loan terms (55 years, 3% simple, residual receipts) apply to construction loans.",
+      "eligible_project_types": [
+        "new construction",
+        "predevelopment",
+        "farmworker housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026-12-07 (through the County housing NOFA when a balance exists). Casita Phase II predevelopment loan must be executed by June 30, 2028.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A geographic set-aside, not a standing program, but it is real money for Oakley, Brentwood, Discovery Bay, Byron and Bay Point projects and the County used it in 2026 to fill requests that Measure X could not. Public funds, so prevailing wage applies. Documented in the May 19, 2026 Board report (file 26-2203) read through the Legistar API.",
+      "source_url": "https://contra-costa.legistar.com/LegislationDetail.aspx?ID=18528&GUID=B677C887-8ECE-4F9B-9304-3E2A7F242109&Options=&Search=&FullText=1",
+      "record_id": "86f8392c92",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "predevelopment",
+        "farmworker housing"
+      ],
+      "next_deadline_date": "2026-12-07",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Housing Authority of the County of Contra Costa (HACCC)",
+      "administering_agency": "Housing Authority of the County of Contra Costa, 3133 Estudillo Street, Martinez; Tony Ucciferri 925-957-8055 (PBV), Robert Moore, Director of Development, 925-957-8025",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HACCC administers about 9,500 Housing Choice Voucher and CoC households and owns 963 public housing units plus two tax credit developments (2025 RFP). Most recent PBV invitation for proposals (REQ-12092025, released Dec 8, 2025, due Jan 8, 2026): up to 15 units for existing properties needing no more than $3,000 per unit of rehab, aimed at properties converting from CoC project-based rental assistance to PBVs. PBV waiting lists opened for partner properties in June to August 2025, Oct 27 to Nov 13, 2025 and March 2 to 19, 2026. Public housing repositioning underway (Las Deltas main campus developer RFQ due Feb 4, 2025; repositioning financial and legal consultant RFPs in 2025 and 2026).",
+      "per_unit_cap": "HUD PBV caps (20% of authorized vouchers agency-wide, project cap of 25% of units or 40% in low-poverty or supportive housing projects). Rents at the lower of reasonable rent or 110% of FMR.",
+      "affordability_requirement": "Households at or below 50% AMI at admission (75% at or below 30% AMI); HAP contracts up to 20 years with extensions. Awards subject to HUD PBV caps and long-term affordability. Jurisdiction is the whole county except Pittsburg; the Richmond Housing Authority and Pittsburg Housing Authority serve their cities (Pass 3).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open PBV solicitation as of Nov 2026; the last closed Jan 8, 2026 and targeted CoC PBRA conversions. HACCC also offers a Mixed Finance capital loan with operating subsidy, sale of units to HACCC, and long-term Property Rental Assistance contracts for developer-owned units (competitive selection required for mixed finance). Register on the Housing Agency Marketplace e-procurement system for notices.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "PBVs are the operating subsidy of choice for Contra Costa PSH and CoC-funded buildings, and the 2025 solicitation shows HACCC converting CoC rental assistance to PBVs to free CoC dollars. Underwrite PBV rents at the HAP contract rent; a PBV HAP contract is not a prevailing wage trigger, but Davis-Bacon applies to PBV new construction or rehab of nine or more contract units. HACCC is not a Moving to Work agency. Public housing repositioning (Las Deltas in North Richmond, El Pueblo, Bayo Vista) may produce RAD or Section 18 PBV units for partner developers. Sources opened: HACCC closed solicitations page and the Dec 2025 PBV advertisement PDF; the repositioning RFP PDF supplied the voucher and unit counts.",
+      "source_url": "https://contracostaha.org/closed-solicitations/",
+      "record_id": "7b49041303",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance (Ch. 822-4) and Residential Density Bonus Ordinance (Ch. 822-2)",
+      "administering_agency": "Contra Costa County Department of Conservation and Development, Community Development Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Inclusionary: 15% of units in unincorporated projects of five or more units must be affordable (rental: 20% of those at very low income, remainder lower income; for-sale: 20% lower, remainder moderate), 55-year rental term, with in-lieu fee, off-site units or land dedication as alternatives. Density bonus: up to 15% for providing the required inclusionary units (822-2.402), with state law bonuses under Government Code 65915 for units beyond the requirement, land donation and child care, and incentives or concessions per 65915(d)(2). Incentives for inclusionary compliance (822-4.418(c)) may include fee deferrals or waivers, housing set-aside funds, tax-exempt financing and zoning modifications at County discretion.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Inclusionary units: 55 years for rentals; for-sale units owner-occupied with resale controls and County recapture. Density bonus target units: 30 years or longer if required by financing (822-2.410); density bonus housing agreement recorded against the property.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; applies by right to unincorporated projects at entitlement. Developer agreements are approved by the Board (for example Grayson Road and Walnut Estates density bonus and inclusionary agreements, April 2026). Confirm current code text with DCD; the County code is hosted on Municode (blocked to automated access), and the mirror read for this record was Zoneomics.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "County pages on www.contracosta.ca.gov refuse automated fetches (403); the same pages and DocumentCenter PDFs were opened on 2026-11-06 through the site's CivicPlus origin host (ca-contracostacounty3.civicplus.com), and Board reports were read through the contra-costa.legistar.com API. The ordinance text itself was read on the Zoneomics mirror of the County Ordinance Code. In-lieu fees from this chapter feed the County's In-Lieu Fee Fund (separate record). A 100% affordable project is exempt from the inclusionary requirement and takes the state density bonus and concessions directly; the County's density bonus submittal checklist and 2025 rent maximums are on the County ordinances page. In-lieu funds cannot be used for units that satisfy inclusionary or density bonus obligations. Density bonus alone does not trigger prevailing wage.",
+      "source_url": "https://www.contracosta.ca.gov/8544/County-Ordinances-for-Affordable-Housing",
+      "record_id": "3c4e24e351",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Richmond/Contra Costa County Continuum of Care (CA-505) and HHAP",
+      "administering_agency": "Contra Costa Health, Health, Housing and Homeless Services Division (H3), CoC lead and HHAP grantee; Contra Costa Council on Homelessness is the CoC board",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 6: $6,708,895 (County $3,244,119 plus CoC $3,464,775), state agreement ratified May 12, 2026, term through June 30, 2030. HHAP Round 5: $6,683,382 (County $3,272,469, CoC $3,410,913), agreement approved March 11, 2025. State accountability site: $28,900,000 in HHAP rounds 1 to 5 awarded to the Contra Costa area, $18,300,000 spent by June 2025; Encampment Resolution Funding $5,700,000 to the County. HUD CoC program FY 2024 awards to CA-505: $11,522,492, including $8,638,557 for Contra Costa tenant-based rental assistance and $1,960,996 for ACCESS. State ESG CoC allocation $304,250 (2024). Homekey history: Delta Landing, Pittsburg (172 interim units, $21,500,000 Homekey), El Portal Place, San Pablo (54 PSH micro-units, $16,000,000 Homekey plus $5,200,000 Measure X). Homekey+: $1,500,000 standard agreement for five PSH units at County-owned Sherman Terrace, Pleasant Hill (Oct 6, 2026); $30,000,000 joint application with SAHA for Choice in Aging Senior Housing (June 9, 2026).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Households experiencing or at risk of homelessness per HUD and state definitions; CoC permanent housing requires Coordinated Entry referrals. HHAP Round 6 must obligate 75% and spend 50% by June 30, 2027.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026 CoC NOFO priority listing approved Aug 6, 2026 (HUD awards expected winter 2026-27); the Council on Homelessness runs the local competition each summer. HHAP is allocated by state round with no local NOFA; H3 contracts HHAP to operators (Delta Landing, Hope Solutions, BACS, Catholic Charities) through Board-approved contracts.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "HHAP money in Contra Costa goes to interim housing operations, rapid rehousing and prevention, not capital, so treat H3 as the services and operating partner for PSH rather than a gap lender. CoC TBRA ($8,600,000 a year) is being converted to HACCC project-based vouchers where possible, which is how new PSH buildings get a long-term subsidy. Homekey and Homekey+ awards have run through H3 for County-owned sites and through DCD for developer sites. The Council on Homelessness agendas (contra-costa.legistar.com) carry the CoC NOFO schedule. Figures from the May 12, 2026 Board report (file 26-1970), HCD HHAP award lists, the HUD FY 2025 CoC award report and accountability.ca.gov.",
+      "source_url": "https://contra-costa.legistar.com/LegislationDetail.aspx?ID=18435&GUID=46CBC2FD-FCDD-474F-880A-0CD959112973&Options=&Search=&FullText=1",
+      "record_id": "5e9b1e47a4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) housing interventions, Contra Costa Behavioral Health",
+      "administering_agency": "Contra Costa Health, Behavioral Health Services Division (CCBHS), with H3 and DCD for capital awards",
+      "funding_type": "grant",
+      "typical_award_size": "Integrated Plan FY 2026-29 approved by the Board March 17, 2026. Estimated housing intervention funding (BHSA plus MHSA carryover): $41,688,148 in FY 2026-27, $37,553,061 in FY 2027-28, $38,543,498 in FY 2028-29; planned housing expenditures $32,515,162, $35,491,761 and $36,458,704. Capital development share 14.1% in year one (about $4,600,000) then 3.8% and 3.7%; 50% of housing funds dedicated to chronically homeless people; no exemptions requested. First capital awards: $2,250,000 BHSA grant to Village of Hope Pittsburg (Hope Solutions, 15 PSH cottages for transition-age youth, approved June 23, 2026, documents Aug 11, 2026) and BHSA operating and development commitments for Sherman Terrace Homekey+ (five PSH units, Pleasant Hill). No Place Like Home: Legacy Court, Richmond (13 NPLH units, Community Housing Development Corp., MOU Oct 7, 2025).",
+      "per_unit_cap": "Capital development limited to 25% of the housing interventions component by statute; the County planned 14.1% in year one.",
+      "affordability_requirement": "Adults and transition-age youth with serious mental illness or substance use disorder who are chronically homeless, homeless or at risk; Housing First; CCBHS client eligibility and referral. Capital grants carry occupancy preferences (five of 15 units at Village of Hope) and no repayment if the project is completed.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standing capital NOFA; the two 2026 capital awards were negotiated with CCBHS and brought to the Board. Annual plan updates each spring; ask CCBHS about year two and three capital (about $1,300,000 a year at the planned share) and about project-based operating subsidies and rental subsidies for PSH units.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Contra Costa's BHSA housing pot (about $32,000,000 to $36,000,000 a year in spending) is now the largest county-controlled housing source, but most of it is rental subsidies, operating subsidies and services. The capital slice was front-loaded into FY 2026-27 and mostly committed (Village of Hope, Sherman Terrace). The practical ask for a PSH sponsor is a BHSA operating or rental subsidy commitment plus services, layered on HACCC PBVs and Measure X or HOME capital. State funds, so capital grants trigger prevailing wage. Plan read from the Board attachment (CCC Integrated Plan 2.27.26) on Legistar.",
+      "source_url": "https://contra-costa.legistar.com/LegislationDetail.aspx?ID=17141&GUID=8EE28BF6-DB8D-4F15-8221-F8E8DE37EA16&Options=&Search=&FullText=1",
+      "record_id": "7f1b2ff776",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

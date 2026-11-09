@@ -1,0 +1,86 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Yolo County formula allocation",
+      "administering_agency": "Yolo County (Board of Supervisors resolutions; County Administrator's Office and Health and Human Services Agency)",
+      "funding_type": "grant",
+      "typical_award_size": "2019-2023 five-year formula allocation $819,661 (Board resolution adopted February 27, 2024 with the PLHA plan). HCD's 2024-2028 formula NOFA lists Yolo County at $270,934 (2024), $303,869 (2025) and an estimated $1,693,338 over five years. For comparison the cities receive their own allocations: Davis about $1.33 million, Woodland about $1.09 million and West Sacramento about $1.04 million over five years.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA guidelines: rental housing at or below 60% AMI (up to 80% AMI) with 55-year covenants, or homeownership and homelessness activities as chosen in the County's five-year plan. The County's adopted plan activities were not readable in the opened documents.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "The County must adopt a new five-year plan and resolution for the 2024-2028 allocations under HCD's amended formula NOFA; no 2026 Board action was found in the minutes reviewed. Ask the County Administrator's Office which activities the plan funds before counting on PLHA.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "At $270,000 to $300,000 a year, Yolo County PLHA is a small, deal-specific source and the County's plan uses have not been published in a readable form online. It could support a single predevelopment or gap contribution for a project in the unincorporated area, or be subgranted to Yolo County Housing. State funds trigger prevailing wage.",
+      "source_url": "https://public.destinyhosted.com/yolocdocs/2024/BOS/20240227_3705/14411_14411_Resolution_-_1.pdf",
+      "record_id": "ec841fb6db",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "supportive housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Woodland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Spring Lake Specific Plan Affordable Housing Plan: inclusionary requirements, Off-Site Affordable Housing Fee and 25% density bonus",
+      "administering_agency": "City of Woodland Community Development Department (Spring Lake Specific Plan area)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Multifamily projects in Spring Lake must make at least 20% of units affordable to and occupied by very low income households plus 10% low income, or alternatively 25% very low income, with a 25% density bonus for complying projects. For-sale projects owe 10% low income units (exempt under 10 units), with land dedication or, only at City initiative for projects under 50 units, an in-lieu fee equal to the appraised affordability gap per unit plus administration. All single-family market-rate units pay an Off-Site Affordable Housing Fee of $1,100 per unit (Council may reset it, not above $1,300), collected before final map approval and spent anywhere in the City on qualifying affordable units; up to 10% may fund administration.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Multifamily: 20% very low plus 10% low, or 25% very low income, permanently affordable; for-sale 10% low income for the longest feasible period.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "homeownership",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "None (specific plan requirement). The Housing Element (Program A.24) proposes amending the Spring Lake Specific Plan to clarify affordability provisions; several Spring Lake single-family projects have paid in-lieu fees under development agreements.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Spring Lake is where most of Woodland's affordable pipeline sits: Mutual Housing at Spring Lake (farmworker, 100 units), a 4.6-acre multifamily site dedicated in 2019 to a nonprofit in place of $900,000 of fees (112 lower income senior units required), and R-20 and R-25 sites intended for 25% very low income projects. A 100% affordable developer can acquire a Spring Lake R-20 or R-25 site and satisfy a market-rate builder's obligation, then draw on Fund 1327 and the off-site fee revenues as gap money. The Plan still names the Redevelopment Agency as fund recipient; the City is housing successor. Chapter 15.16 applies in Spring Lake only where the Specific Plan is silent.",
+      "source_url": "https://www.cityofwoodland.gov/DocumentCenter/View/422/Spring-Lake-Affordable-Housing-Plan-PDF",
+      "record_id": "7fccacb3ca",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "ownership",
+        "farmworker housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

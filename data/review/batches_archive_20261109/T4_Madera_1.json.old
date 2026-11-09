@@ -1,0 +1,76 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Madera",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Density Bonus (Madera Municipal Code Chapter 10-3-5.1) with Housing Element incentives: fee reductions (Program B-7), impact fee waivers (MMC 10-8.17) and fee waivers or deferrals (Program A-4)",
+      "administering_agency": "City of Madera Community Development Department, Planning (Planning Manager David Brletic, (559) 661-5433)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. The density bonus follows state law; the chapter was amended in February 2025 to track recent state changes, including parking for 100% affordable projects near transit. Program B-7 fee reductions: downtown projects and vacant or aging buildings get up to 100% off Engineering fees and 75% off Planning and Building fees. Non-profit buildings get up to 50%, with building fee reductions capped at $4,000. MMC 10-8.17 lets the Community Development Director approve impact fee adjustments, waivers or exemptions. Program A-4 offers fee waivers and deferrals for affordable projects as technical assistance.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus thresholds (for example 10% lower income or 5% very low income units); 55-year affordability for bonus units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Available at entitlement, no deadline. The Housing Element commits to local density bonus standards beyond state law by Q1 2028 and to fee reductions for at least 20 qualifying projects by Q3 2026.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Madera has no inclusionary ordinance or in-lieu fund. These fee tools are the only local cost reductions beyond HOME and PLHA. Program B-7 targets downtown revitalization, so it fits best for an affordable rental project downtown. Elsewhere, use the Director's waiver authority in MMC 10-8.17 and ask for a deferral under A-4. A fee waiver is a public subsidy and, depending on its size, can trigger state prevailing wage. The 6th Cycle Housing Element was adopted February 4, 2026. Madera County's density bonus (county record, Chapter 18.114) applies only in unincorporated areas.",
+      "source_url": "https://media-001-us.cdn.govstack.com/madera-003-us/media/fqwd5cjj/clean-madera-6th-cycle-housing-element-2-4-2026.pdf",
+      "record_id": "af9dcb340f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Chowchilla",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "Chowchilla state CDBG and HOME small-city grants (non-entitlement applications with Self-Help Enterprises)",
+      "administering_agency": "City of Chowchilla Community and Economic Development Department, with Self-Help Enterprises as grant writer and program administrator",
+      "funding_type": "grant",
+      "typical_award_size": "CDBG, HOME and CalHome awards of over $2,000,000 combined between 2018 and 2020, for owner rehab, first-time homebuyer and sweat equity programs. A further HOME grant with Self-Help Enterprises was awarded in 2023. Infrastructure goal: at least $120,000 per year to extend water and sewer service to infill housing sites.",
+      "per_unit_cap": "State HOME and CDBG program limits apply.",
+      "affordability_requirement": "Households at or below 80% AMI under state CDBG and HOME rules.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Set by the HCD state CDBG and HOME NOFAs; unknown, verify with agency.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Chowchilla is a non-entitlement city with no local trust fund, inclusionary ordinance, in-lieu fund or city-run NOFA. Its housing money comes from competitive state CDBG and HOME rounds that the City enters with a developer or with Self-Help Enterprises, so a multifamily project would need the City to apply as the sponsoring jurisdiction. Program 2 commits the City to letters of support for AHSC, LHTF, PLHA and HOME applications, expedited processing and possible land write-downs. The Housing Element also says a HUD moratorium stalled the 2018-2020 owner programs. County-level layers: Madera County PLHA and HHAP and the Housing Authority of the City of Madera (county records).",
+      "source_url": "https://cityofchowchilla.org/DocumentCenter/View/3586/September-2024-Adopted-Chowchilla-2024-2032-Housing-Element",
+      "record_id": "27ccdff7f3",
+      "cycle_notes": "City applies to HCD state CDBG and HOME rounds",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

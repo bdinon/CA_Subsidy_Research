@@ -1,0 +1,79 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Madera County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "Density bonus, incentives and by-right approvals (Madera County Code Chapter 18.114) and 2024-2032 Housing Element rezoning",
+      "administering_agency": "Madera County Community and Economic Development Department, Planning Division (Annette Kephart, (559) 675-7821)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Chapter 18.114 (Ordinance 669, May 19, 2014) grants state-law density bonuses for 10% low income, 5% very low income, senior, 10% moderate for-sale, land donation and child care projects; one to three incentives at 10/20/30% low income (5/10/15% very low income) with County discretion to grant more; waivers of development standards; reduced parking; and by-right approval for developments with 20% lower income units on sites carried over from a prior Housing Element inventory (Section 18.114.140). The County filed a CEQA Notice of Exemption on October 8, 2025 for the 2024-2032 Housing Element update, which rezones Housing Element sites and amends the zoning code for state law consistency; adoption and HCD certification status were not confirmed.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 thresholds with continued affordability covenants and a density bonus housing agreement (Sections 18.114.120 and 130).",
+      "eligible_project_types": [
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested with the land use application; the 2014 chapter predates several state amendments (AB 1287, AB 2694) that apply regardless.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. The County's land use incentives are state minimums; the main 2026 development is the Housing Element rezoning around Madera Ranchos, Oakhurst and the Highway 99 corridor. Source is Chapter 18.114 text on zoneomics.com; Housing Element status from CEQAnet SCH 2025100344.",
+      "source_url": "https://www.zoneomics.com/code/madera-county-unincorporated-CA/chapter_57",
+      "record_id": "720cc72cc0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily and mixed-income housing in unincorporated zones",
+        "senior housing",
+        "by-right projects on prior-inventory sites with 20% lower income units"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Madera",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "City of Madera HOME Investment Partnerships (new participating jurisdiction) and CDBG entitlement, 2025-2029 Consolidated Plan",
+      "administering_agency": "City of Madera Grants Division (Finance), Grants Administrator Marcela Zuniga, (559) 661-3692",
+      "funding_type": "loan",
+      "typical_award_size": "HOME: about $353,555 per year (5-year estimate $1,767,777). The first allocation, in 2024, was $372,065, plus a one-time City match of $127,935, for $500,000. Over 2025-2029 the ConPlan housing goal budgets HOME $1,590,999.90, CDBG $322,982 and PLHA $1,361,913. CDBG: about $989,791 per year. The PY 2027/28 tentative allocation is about $990,000 (up to 20% admin, up to 15% public services, about $643,500 capital).",
+      "per_unit_cap": "HOME federal per-unit subsidy limits (24 CFR 92.250); no local cap published.",
+      "affordability_requirement": "HOME rental rules (24 CFR 92.252): HOME rents for households at or below 60% AMI, with 20% of HOME units at 50% AMI in projects with 5 or more units. CDBG must benefit households at or below 80% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "CDBG PY 2027/28 applications opened November 2, 2026 and are due January 29, 2027 by 5:00 p.m. via grantsinfo@madera.gov. No HOME rental NOFA found; request HOME gap funding directly from the Grants Division ahead of tax credit rounds.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Madera became a HOME participating jurisdiction in June 2024, so HOME is now the City's only recurring federal source that can fund new rental construction. The ConPlan lists owner rehab or new affordable housing as HOME uses. The amounts are small (about $354K per year), so the City would likely save several years of HOME for one gap loan, as the City of Merced does. Stack with PLHA (separate record), Housing Authority of the City of Madera project-based vouchers (county record) and 4% or 9% credits. Federal Davis-Bacon wages apply at 12 or more HOME-assisted units. HOME also requires NEPA review, and grants from 2024 on carry Build America Buy America requirements. The CDBG NOFA mostly funds public services and public improvements, but CDBG can pay for acquisition and site work for new housing. Sources read: 2025-2029 Consolidated Plan, PY 2027/28 CDBG Notice of Funding (media-001-us.cdn.govstack.com/madera-003-us/media/guann5xv/notice-of-funding-final.pdf) and the 6th Cycle Housing Element.",
+      "source_url": "https://media-001-us.cdn.govstack.com/madera-003-us/media/djvfqc4b/madera-conplan_cleanv42.pdf",
+      "record_id": "af6c72a529",
+      "cycle_notes": "CDBG application window opens early November; no open developer NOFA found for HOME",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": "2027-01-29",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  }
+]

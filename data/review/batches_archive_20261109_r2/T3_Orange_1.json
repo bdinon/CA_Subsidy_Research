@@ -1,0 +1,89 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "MHSA/BHSA permanent supportive housing capital and Capitalized Operating Subsidy Reserve (Orange County Health Care Agency through OC Community Resources)",
+      "administering_agency": "OC Health Care Agency, Behavioral Health Services (MHSA/BHSA Housing Program), with OC Housing and Community Development administering loans",
+      "funding_type": "loan",
+      "typical_award_size": "BHSA Integrated Plan FY 2026-29 (Board May 19, 2026): Housing Interventions component $73,500,000 a year; planned capital development $18,375,000 a year (the 25% statutory maximum) plus about $990,508 from other sources; rental subsidies $14,000,000 a year; operating subsidies $6,787,829 a year; $36,750,000 a year reserved for chronically homeless people. Named capital pipeline: Mercury Senior Apartments (Brea), Lampson Workforce Housing (Los Alamitos) and projects to be determined in San Juan Capistrano, Anaheim Hills, Buena Park and Fountain Valley, 56 BHSA units of 416 at about $208,000 per BHSA unit. Since June 2018 the County has completed 476 MHSA units with 196 in the pipeline toward a goal of 2,396 PSH units by 2029; each MHSA dollar leveraged about $5.50. HCA also granted $20,500,000 of MHSA and General Fund to the Orange County Housing Finance Trust. Loan limit $207,235 per regulated unit for capital and another $207,235 for COSR under the 2026 NOFA.",
+      "per_unit_cap": "$207,235 per MHSA/BHSA regulated unit (capital) plus up to $207,235 per unit COSR; BHSA statute caps the housing intervention share at $450,000 per unit.",
+      "affordability_requirement": "Extremely low income (30% AMI) adults experiencing homelessness with a serious mental disorder (WIC 5600.3(b), BHSA eligibility under WIC 5830(a)), certified by HCA and referred through CES; rents at 30% of the 30% AMI limit or 30% of SSI; no minimum income where PBVs or COSR are provided; MHSA/BHSA units at most 49% of the project; units at least 450 square feet with full kitchens and furnishings; 55-year covenant.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Apply through the 2026 Supportive Housing NOFA (open since March 6, 2026) with an HCA review meeting before submission. The three-year plan runs July 1, 2026 to June 30, 2029 with annual updates; HCA moves money to OCCR under a three-year spending plan, so NOFA amounts rise when new BHSA allocations post.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Orange County's BHSA program is the deepest county PSH source in the 13 counties researched: $18,400,000 a year in planned capital plus a COSR that replaces PBVs when none are available (zero interest, forgivable over 15 to 20 years, sized to cover MHSA unit operating deficits). Pair the capital with 4% credits and OCHA or city PBVs; use COSR when PBVs are refused. MHSA/BHSA capital alone may avoid Davis-Bacon; the NOFA says state prevailing wage may apply under Labor Code 1720 and is decided per project with counsel input, while HOME (12+ units) or PBVs (9+ units) trigger Davis-Bacon. Terms are in Attachment D of the 2026 NOFA (opened); budget figures from the Integrated Plan PDF on ochealthinfo.com (opened). HCA does not run its own developer NOFA.",
+      "source_url": "https://housing.oc.gov/sites/hcd/files/2026-03/Attachment%20D%20-%20MHSA%20BHSA%20Term%20Sheet.pdf",
+      "record_id": "59e9773f4c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab",
+        "adaptive reuse"
+      ],
+      "next_deadline_date": "2029-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "2026 Supportive Housing NOFA Section 2.23 and Exhibit 4.03.01 (OC Housing and Community Development, March 6, 2026): projects funded only with local resources such as MHSA/BHSA may be exempt from Davis-Bacon; use of MHSA funds 'may require' state prevailing wage under Labor Code 1720, the County may require the applicant's legal counsel to confirm whether state prevailing wage applies, and an applicant may submit an attorney opinion that it does not (Section 4.03.01). Davis-Bacon applies separately when HOME (12+ HOME units) or PBVs (9+ units) are layered. State prevailing wage therefore depends on Labor Code 1720(b) and 1720(c) project facts.",
+      "audit_note": "Tier 4 spot check November 8, 2026: Attachment D loan limits ($207,235 capital plus $207,235 COSR per regulated unit), 30% AMI targeting, 49% cap, CES referral and COSR terms match; Integrated Plan (June 11, 2026 version) confirms $73,500,000 Housing Interventions, $18,375,000 plus $990,508 capital, $14,000,000 rental subsidies, $6,787,829 operating subsidies, $36,750,000 chronically homeless, 6 projects with 56 BHSA units of 416, 476 completed and 196 pipeline units, 2,396 goal and $5.50 leverage. NOFA page still lists the 2026 NOFA as open (exhibits updated October 2026); funds first-come, first-served until committed or replaced. The $20,500,000 Housing Finance Trust grant was not found in the Integrated Plan and was not rechecked. Attachment D says units are encouraged (not required) to be at least 450 square feet and one-bedroom.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Irvine",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Irvine Community Land Trust (ICLT) land and development partnerships",
+      "administering_agency": "Irvine Community Land Trust, 501(c)(3) created by the City of Irvine in 2006, 503 Nightmist, Irvine 92618; Board chaired by Ryan Aeh (2026)",
+      "funding_type": "land",
+      "typical_award_size": "ICLT acquires or receives land (including City conveyances such as the four-acre site reported in the City's FY 2023-25 budget) and ground leases it to development partners so that units stay affordable permanently. Portfolio: Alegre Apartments, Doria Apartments, Parc Derian Apartments, Salerno Apartments (501 Nightmist) and Sage Park (affordable ownership); it reports hundreds of affordable units in Irvine and, since its 2017 mission expansion, elsewhere in Orange County. ICLT finances projects with LIHTC, HOME, Orange County Housing Finance Trust loans, FHLB AHP and HUD programs; dollar values of land contributions are not published.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Permanent affordability through recorded ground lease covenants; rental projects have served extremely low to low income households and Sage Park serves moderate income buyers.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "homeownership",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No solicitation open as of November 8, 2026; contact ICLT through its partnerships page.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "ICLT is how Irvine converts inclusionary land dedications and City-owned parcels into 100% affordable projects without a city loan program; a developer partnering with ICLT gets site control at nominal ground rent and then stacks 4% or 9% credits, County MHSA/BHSA capital, OCHFT (Cypress Village Irvine took $3,500,000 in the 2024 OCHFT round) and OCHA PBVs. ICLT is a nonprofit, not a public agency, so its land alone does not trigger prevailing wage, but City land conveyed through it may. ICLT home, about, history, process, partnerships and properties pages and the September 23, 2026 letter opened on irvineclt.org.",
+      "source_url": "https://irvineclt.org/our-process/",
+      "record_id": "77c3a08b6b",
+      "cycle_notes": "Partnerships negotiated with ICLT; no RFP or RFQ found on irvineclt.org or by search. Governance note: ICLT directors wrote to the City Council on September 23, 2026 defending Resolution 26-803 (consultant contract), which could affect City-ICLT land conveyances.",
+      "eligible_project_detail": [
+        "new construction",
+        "affordable ownership",
+        "supportive housing",
+        "land acquisition"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08",
+      "audit_note": "Deadline text fixed (the extracted date was a governance letter), but no ICLT, City or state rule addressing prevailing wage on ICLT land deals was found on the ICLT process page or by search, so the trigger stays unclear."
+    }
+  }
+]

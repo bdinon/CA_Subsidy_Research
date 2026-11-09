@@ -1,0 +1,191 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "CDBG, HOME and ESG, Fresno Urban County (2026-27 Annual Action Plan)",
+      "administering_agency": "Fresno County Department of Public Works and Planning, Community Development Division (CDBG and HOME); County Administrative Office, Office of Housing and Homelessness (ESG)",
+      "funding_type": "grant",
+      "typical_award_size": "Federal FY 2026 allocations used July 1, 2026 to June 30, 2027: CDBG $3,116,754, HOME $1,137,340, ESG $278,809. HOME program budget including carryover: affordable rental rehabilitation loans and grants $6,000,000, new construction development loans and grants $5,318,870, tenant-based rental assistance $300,000, administration $571,271, CHDO reserve $290,734 (County set-aside is 25%, above the 15% minimum). CDBG: $1,071,589 for unincorporated public facilities, $1,542,523 to the eight participating cities, $135,000 public services, $300,000 Sheriff programs. HOME match is met from $27,953,832 of banked match (June 30, 2025).",
+      "per_unit_cap": "HUD HOME per-unit subsidy limits.",
+      "affordability_requirement": "HOME rent and income limits with 20-year minimum affordability (County typically records 55-year loan terms); CDBG national objective; ESG for shelter, outreach, rapid rehousing and prevention.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Action Plan public hearing and adoption May 19, 2026 for PY 2026-27; HOME development funds are awarded through the January to March Affordable Housing Development NOFO. A new three-year Urban County Joint Powers Agreement for July 1, 2027 to June 30, 2030 was approved August 11, 2026 with Fowler, Kerman, Kingsburg, Mendota, Reedley and Selma committed, Sanger and Parlier deciding in August 2026, and Orange Cove leaving the JPA.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. HOME is the base of every County capital commitment; the County banks match and carries over unspent HOME, which is why the 2026-27 development line ($5.3 million) is several times the annual allocation. Reservations in the 2026-27 plan: Reedley Elderly $2,000,000, Selma Elderly $2,000,000, Sendero Commons $2,950,000 (HOME-ARP $2,500,000 development plus $450,000 operating, alongside PLHA $2,364,219), Park Kingsburg $2,000,000, HOME-ARP supportive services $772,651 and nonprofit operating and capacity $495,200. CDBG is not used for housing development. Source is the May 19, 2026 Board item (file 26-0444) with the Annual Action Plan attachment.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=77631&GUID=378A003B-E24E-4251-AB89-D21E2638358B",
+      "record_id": "f56c03e785",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental rehabilitation (HOME)",
+        "multifamily new construction (HOME)",
+        "tenant-based rental assistance",
+        "CHDO projects",
+        "public facilities and infrastructure in participating cities (CDBG)",
+        "homeless services (ESG)"
+      ],
+      "next_deadline_date": "2027-07-01",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, Fresno County Assessor",
+      "administering_agency": "Fresno County Assessor-Recorder, Exemptions section ((559) 600-5956)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Full or partial exemption of the property tax on qualifying low-income rental housing owned by a nonprofit or by a limited partnership with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate; the Assessor's exemptions page lists the Welfare Exemption among available exemptions.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement or tax credit allocation; exemption prorated to qualifying units.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 and supplemental affidavits with the Assessor by February 15, 2027 for the 2027-28 roll; first-year claims may be filed after acquisition with late-filing penalties.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. Standard state exemption administered locally; Fresno Housing deals and Self-Help Enterprises deals in the JPA cities rely on it to carry 30% AMI rents. Source is the Assessor's Property Tax Exemptions page.",
+      "source_url": "https://www.fresnocountyca.gov/Departments/Assessor/Exemptions",
+      "record_id": "9e82e2b521",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC rental housing with nonprofit managing general partner",
+        "nonprofit-owned affordable rental housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "County HOME rehabilitation and preservation loans for existing affordable senior and family rentals (Reedley Heritage and Selma Heritage model)",
+      "administering_agency": "Fresno County Department of Public Works and Planning, Community Development Division",
+      "funding_type": "loan",
+      "typical_award_size": "Reedley Heritage (23 units, 1978, 172 S. East Avenue, Reedley; total cost $7,828,816) and Selma Heritage (24 units, 1979, 2745 Wright Street, Selma; total cost $8,493,666): $2,000,000 HOME-CHDO loan each to Self-Help Enterprises limited partnerships supporting 11 units each ($181,818 per unit), 3% simple interest, residual receipts split 50/50, balloon due March 31, 2083, HOME affordability 15 years with tax credit restrictions 30 to 55 years; conditional approvals March 17 and June 30, 2026 pending USDA financing. Park Kingsburg (Horizon ELOM) holds a $2,000,000 rehabilitation reservation in the 2026-27 plan. The 2026-27 HOME budget carries $6,000,000 for affordable rental rehabilitation.",
+      "per_unit_cap": "HUD HOME per-unit subsidy limits; recent awards about $182,000 per assisted unit.",
+      "affordability_requirement": "HOME rents and incomes on assisted units for 15 years (rehabilitation at this subsidy level), with the County loan outstanding 55 years.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "senior housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Apply through the Affordable Housing Development NOFO (January to March); the County will accept applications on an ongoing basis while funds remain after Round 1.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. Preservation deals in the small JPA cities are the County's most repeatable transaction: a $2 million HOME-CHDO loan to Self-Help Enterprises on a USDA 515 senior property with 9% credits. The County expects not to be repaid (negative cash flow projected by year 25) and may later convert the loan to a grant; its monitoring fee is capped at $3,000 in year one rising 3% a year. Source is the June 30, 2026 Reedley Heritage Board item (file 26-0593); Selma Heritage is file 26-0069.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=77782&GUID=05111A3A-F511-4207-9B04-BEB7CF6B66D9",
+      "record_id": "0790bc06b5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "substantial rehabilitation of existing affordable rental housing",
+        "USDA Rural Development 515 preservation with 9% tax credits",
+        "senior rental housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Density Bonus (FMC Chapter 15, Article 22) with TOD Height and Density Bonus (Article 21) and Housing Element Program 9 by-right approval",
+      "administering_agency": "City of Fresno Planning and Development Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Article 22 implements Gov. Code 65915 for projects of 5 or more units (State law governs on conflict). Article 21 adds a discretionary TOD bonus of up to 100% more density and 25% more height in MX or CMS districts within 500 feet of a BRT station or half mile of Manchester Transit Center, combinable with the affordable bonus. Program 9 text amendment (P26-01326, 2026) makes projects with at least 20% lower-income units by-right on reused housing element sites.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus thresholds (e.g., 5% very low or 10% low income for a 20% bonus); covenants per Article 22 (at least 30 years in local text, 55 years under current State law for rentals). Fresno has no inclusionary requirement; FMC 15-2201(E) bars adopting one until the 2014 General Plan is superseded.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; applied with entitlements.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Local text predates recent State amendments, so the State statute controls bonus percentages and concessions. TOD stacking is a Fresno-specific advantage on Blackstone and Ventura/Kings Canyon BRT corridors. No density cap on mixed-use zones since 2022. No inclusionary fund exists to tap. Code read on the zoneomics mirror (City code host not used).",
+      "source_url": "https://www.zoneomics.com/code/fresno-CA/chapter_3",
+      "record_id": "865023e0e2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Clovis",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Clovis Mixed Income Zoning Ordinance (MIZO, Ordinance 26-02) inclusionary requirement and in-lieu fee",
+      "administering_agency": "City of Clovis Planning and Development Services, Affordable Housing Program",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. 5% of units in new residential projects of 11 or more units must be deed-restricted affordable, or pay an in-lieu fee of $2.80 per square foot of net livable area of all market-rate units; alternatives include off-site land dedication, off-site construction and acquisition-rehab.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Rental MIZO units: half at 50% AMI, half at 80% AMI, 55-year deed restriction. For-sale: 100% at 80% AMI, 45-year restriction.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Approved by City Council April 13 and 20, 2026; applies to projects not deemed complete before it took effect.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "New for Clovis; required by Action Item 5 of the Martinez judgment (Keyser Marston feasibility study, October 2025). In-lieu revenue should grow the Housing Trust Fund over time, a potential future gap source. Affordable developers partnering with market-rate builders on off-site compliance may find site or fee opportunities. MIZO units cannot use the fee deferral program. The adopted ordinance PDF is a scanned image; terms were read from the City MIZO page, FAQ and December 2025 presentation.",
+      "source_url": "https://www.clovisca.gov/services/affordable_housing/mixed_income_zoning_ordinance.php",
+      "record_id": "e88f983bf8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

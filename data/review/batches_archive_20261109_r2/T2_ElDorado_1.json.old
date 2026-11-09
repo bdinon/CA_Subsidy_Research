@@ -1,0 +1,128 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Traffic Impact Fee (TIF) Offset Program for Developments with Affordable Housing Units (Board Policy B-14)",
+      "administering_agency": "El Dorado County Planning and Building Department, Affordable Housing Unit, with the Department of Transportation and the Chief Administrative Office; Housing@edcgov.us; 330 Fair Lane, Placerville (Housing Unit moving to 768 Pleasant Valley Road, Diamond Springs)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Up to $1,000,000 of TIF offsets authorized each year from federal and state transportation revenues, with unused balances carried forward; Board may award more than the annual amount. Since December 2007 about $4.7 million of offsets have supported 344 affordable units. Recent awards: Diamond Village Apartments Phase II $436,632 for 30 units at 80% AMI (about 94% of the project TIF, May 12, 2026); Racquet Way Phase 2 recommended at 50% ($139,098 of $278,196) in February 2026 and denied by the Board. Staff reported about $13 million of offset capacity remaining in the program.",
+      "per_unit_cap": "Offset is a share of the TIF per income-restricted unit: 100% for very low (50% AMI), 75% for low (80% AMI), 25% for moderate (120% AMI) units. 2025 Zone B multifamily TIF is $15,456 per unit, so the full offset is about $15,456 (very low) or $11,592 (low) per unit, subject to each TIF schedule update. Only income-restricted units count.",
+      "affordability_requirement": "Developments of 5 or more units in the unincorporated county with a submitted planning application and at least 20% of units affordable to very low, low or moderate income households. Deed restriction through a TIF Offset Affordable Housing Agreement: 55 years for rental units, 45 years for ownership units (lengthened from 20 years in the September 29, 2026 revision). Must be able to pull permits within 2 years of award (extensions in 1-year increments, up to 3).",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-use",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Round 37 applications were due January 1-15, 2026 with Board awards in April 2026. The revised policy (September 29, 2026) says requests are reviewed twice a year in February and August, so expect the next window around January 2027; watch the TIF Offset page for the Round 38 public notice.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "This is the County's only recurring development incentive and it is an offset, not cash, so it reduces the fee line of the sources and uses rather than adding a source. A 30-unit project at 80% AMI saved $436,632 in 2026. Scoring criteria: complete packet, site control, developer capacity, benefit to lower income households, Housing Element alignment, mixed income, services and infrastructure, likelihood of construction within 2 years. The Advisory Committee docked Racquet Way for a market-rate developer's limited affordable housing experience, so bring a compliance track record. The 2026 revisions also changed TIM to TIF, removed ADU language and asked the Affordable Housing Task Force to study eligibility up to 150% AMI, 100% offsets for low income units and CAO-delegated awards; none of those were adopted as of September 2026. Fee reductions under Labor Code 1720(b)(4) have an unsettled prevailing wage effect, but most projects using this offset also carry tax credits or state funds that trigger it anyway. Other impact fees (school, fire) still apply. Cities (Placerville, South Lake Tahoe) are outside the program.",
+      "source_url": "https://www.eldoradocounty.ca.gov/Services/HomebuyerRehab-Loans-Affordable-Housing-Development/Traffic-Impact-Fee-TIF-Offset-Program-for-Affordable-Housing",
+      "record_id": "869479f090",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "homeownership",
+        "mixed-use",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-09-29",
+      "deadline_check": "past_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers and Housing Choice Vouchers, El Dorado County Public Housing Authority (HHSA)",
+      "administering_agency": "El Dorado County Public Housing Authority, a division of HHSA (Board of Supervisors is the governing board); 530-621-6300; 330 Fair Lane, Placerville (moving to 768 Pleasant Valley Road, Diamond Springs, effective May 20, 2026)",
+      "funding_type": "rental assistance",
+      "typical_award_size": "Small agency: 417 Housing Choice Vouchers, no public housing, qualified PHA exempt from annual plans. The PHA conducted a competitive Project-Based Voucher selection process in the 2020-2025 plan period and used PBVs with special-purpose vouchers to support the El Dorado Haven development (No Place Like Home units). Special-purpose vouchers: VASH, Mainstream, FUP, FYI; Emergency Housing Vouchers are winding down. No PBV RFP open as of November 6, 2026.",
+      "per_unit_cap": "HUD PBV program cap: up to 20% of the PHA's authorized units (about 83 vouchers), with exceptions for supportive housing and other eligible units; contract rents at reasonable rent up to 110% of FMR.",
+      "affordability_requirement": "HCV eligibility at 50% AMI or below (75% of admissions at 30% AMI); PBV HAP contracts up to 20 years with extensions. HCV waitlist has been closed since 2016.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open PBV competition. The Five-Year PHA Plan for 2026-2030 (adopted September 29, 2026) continues PBV use; a developer should contact the PHA to request a PBV RFP or a HUD-allowed non-competitive award tied to another competitive public funding source.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "PBVs are the one County-controlled operating subsidy available for supportive housing in El Dorado, and with 417 vouchers the pool is about 80 PBVs at most, several already committed to El Dorado Haven. A project with 10 to 20 PSH units should open the conversation with HHSA early and align with the EDOK Continuum of Care Coordinated Entry, which the PHA references. PBVs do not themselves trigger state prevailing wage. The HCV program is federal; the PHA has no local rental assistance money. The Tahoe Basin is in the county PHA's jurisdiction but check overlap with the City of South Lake Tahoe programs in Pass 3.",
+      "source_url": "https://www.eldoradocounty.ca.gov/Services/Assistance-Programs/Housing-Energy-Assistance/Housing-and-Homelessness/Public-Housing-Authority",
+      "record_id": "65deb30d94",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-09-29",
+      "deadline_check": "past_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of South Lake Tahoe",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "City direct gap and predevelopment financing for affordable housing (HOME program income, Housing Successor and Redevelopment Agency program income, PLHA formula funds, Prohousing Incentive Program funds, general fund, residential units of use) and state application sponsorship",
+      "administering_agency": "City of South Lake Tahoe Development Services Department, Housing Division (Housing Manager, mmanuel@cityofslt.gov, 530-542-7417); City Council approves each commitment",
+      "funding_type": "loan",
+      "typical_award_size": "Deal-by-deal Council commitments, no NOFA or written guidelines. Track record: over $2.5 million of HOME program income, Redevelopment Agency program income and general fund to Sugar Pine Village (248 units, Related California and Saint Joseph Community Land Trust on state surplus land; Phase 1A 68 units opened fall 2024, Phase 2A 60 units fall 2025, Phase 1B 60 units summer 2026, Phase 2B seeking financing), plus City-sponsored AHSC ($17,359,470), MHP ($19.6 million), IIG, LGMG, HOME and PLHA awards; a $564,073 predevelopment loan plus $500,000 of Prohousing Incentive Program funds to Novin Development for the 75-unit 3900 and 3908 Lake Tahoe Boulevard project (SB 35 approval 2025, AHSC pending); about $1,791,669 CDBG-CV and $120,000 PIP for rehabilitation of three Homekey properties (72 supportive units) with Tahoe Coalition for the Homeless; 21 multifamily residential units of use donated to Lake Tahoe Community College's 100-bed dorm (about $315,000 market value); three Al Tahoe lots donated to Saint Joseph Community Land Trust. City awards 2020 to 2025 included PLHA formula about $880,000 total, PLHA competitive $15 million over three awards, HOME $6,538,240 and PIP Round 2 $620,000. Legacy RDA Low and Moderate Income Housing Fund loans (AB 987 database) total $16.46 million HOME, $2.15 million RDA and $1.18 million CDBG across 296 units in eight projects.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Follows the state source layered in: Sugar Pine Village and 3900 Lake Tahoe Boulevard are 55-year deed restrictions at 30% to 80% AMI; TRPA deed restriction also required when bonus units are used. HOME program income follows HOME rules.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Approach the Housing Division ahead of the AHSC, MHP and PLHA competitive rounds; the City committed to apply for at least one state or federal grant per year (Housing Element Program 2-1). Phase 2B of Sugar Pine Village still lacked a local match as of the August 2026 draft Housing Element. Final 2027-2035 Housing Element adoption was scheduled for a September 8, 2026 Council hearing; confirm the adopted program list.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "South Lake Tahoe is a non-entitlement city that has out-raised most small cities by sponsoring state applications (PLHA competitive, AHSC, HOME, IIG, LGMG) for a nonprofit or private developer, so the City's own cash is small but its sponsorship is the key to the state layer. Gap order used on Sugar Pine Village: LIHTC and bonds, AHSC and MHP, IIG and LGMG, HOME and PLHA, City program income last. County layers available in the Tahoe Basin: El Dorado County PLHA formula and County HOME/CDBG participation requests, County Affordable Housing Trust Fund (no development NOFA), County PHA project-based vouchers, CMFA TEFRA approvals, welfare exemption, BHSA housing funds; the County Traffic Impact Fee offset (Policy B-14) does not apply inside the city because the City levies its own fees. TRPA layer: bonus units and the allocation exemption are required for any deed-restricted project (see the TRPA record), and TRPA application fees are waived for affordable projects. Residential allocations are scarce (33 market-rate per year citywide, one third reserved for multifamily), which is why deed-restricted projects using bonus units are the only route to scale. Workforce Housing Fund in-lieu fees (inclusionary record) are a separate, newer pool. No local housing trust fund, no city NOFA, no local tax-exempt issuer. Source is the City's August 2026 public review draft 2027-2035 Housing Element on the City DocumentCenter; the City's CivicPlus pages opened directly but council packets were not reachable (Granicus and Legistar hosts not found).",
+      "source_url": "https://www.cityofslt.gov/DocumentCenter/View/24379/SLT_Housing-Element_Public-Review-Draft_August-2026",
+      "record_id": "b6214b5875",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "modular and all-electric multifamily"
+      ],
+      "next_deadline_date": "2026-09-08",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Madera County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "County affordable housing grant for Eastern Madera County (up to $1,643,522, approved September 14, 2021)",
+      "administering_agency": "Madera County Board of Supervisors and Community and Economic Development Department",
+      "funding_type": "grant",
+      "typical_award_size": "On September 14, 2021 (item 6.b, file 7750) the Board unanimously approved up to $1,643,522 over five years for predevelopment, development, acquisition, rehabilitation or preservation of multifamily, live-work or rental housing affordable to extremely low through moderate income households in Eastern Madera County, developed in discussion with Self-Help Enterprises for Oakhurst. The funding source and subsequent awards were not identified in public records accessible this pass.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Affordable to extremely low, very low, low or moderate income households.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "The five-year window ran to 2026; confirm with Community and Economic Development whether funds were committed (Self-Help Enterprises held an Oakhurst affordable housing town hall in June 2023) and whether a new allocation is planned.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. This is the only discretionary County capital commitment to affordable housing found in the record; it signals willingness to fund a mountain-area project with a nonprofit developer. Source is the Fresnoland Board meeting report (October 4, 2021).",
+      "source_url": "https://fresnoland.org/2021/10/04/madera-board-of-supervisors-91421-pgampe-rate-increase-16m-for-affordable-housing/",
+      "record_id": "bf207d44fe",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental in Eastern Madera County (Oakhurst area)",
+        "acquisition and preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

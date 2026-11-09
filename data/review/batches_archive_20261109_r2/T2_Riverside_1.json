@@ -1,0 +1,87 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) Integrated Plan FY 2026-29, housing interventions",
+      "administering_agency": "Riverside University Health System, Behavioral Health (RUHS-BH)",
+      "funding_type": "grant",
+      "typical_award_size": "BHSA component allocations of $195,334,844 a year; housing interventions set at 23% in year one ($44,927,014) and 27% in years two and three ($52,740,408) after a transfer to other components, with estimated year one housing expenditures of $44,225,982. Plan adopted by the Board June 2, 2026. Uses are tenant-based rental subsidies for about 6,015 people a year (1,015 permanent, 5,000 interim) and operating subsidies for about 725 people in PSH, assisted living and interim settings; no BHSA capital development (the County reports housing funds fully subscribed and points to 399 new interim and recuperative care units at the Mead Valley Wellness Village opening 2027). RUHS-BH housing vendor purchase orders were raised to $15,000,000 a year through FY 2030-31.",
+      "per_unit_cap": "Not applicable; no capital program.",
+      "affordability_requirement": "BHSA-eligible adults with serious behavioral health conditions who are homeless or at risk, at least 50% chronically homeless, Housing First.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Three-year plan effective July 1, 2026 with annual updates each spring; RUHS-BH contracts with housing vendors through purchase orders rather than a developer NOFA.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. Unlike several Bay Area counties, Riverside chose tenant-based subsidies and operating support over project-based commitments and zero capital, so BHSA is not a construction source here; developers of PSH should seek RUHS-BH operating subsidy or master lease vendor agreements for behavioral health units and pair them with HACR PBVs. Source is the DHCS Integrated Plan submission (RUHS media 5601); executive brief at ruhealth.org/media/5971; Board adoption file Detail_LegiFile.aspx?ID=30512. Audit 2026-11-08: classified as grant because the BHSA Housing Interventions plan funds rental subsidies (6,015 people a year) and operating subsidies (725 people) for housing; the plan answers No to capital development, so it is a rental and operating subsidy grant source, not a capital source.",
+      "source_url": "https://www.ruhealth.org/media/5601",
+      "record_id": "b9c5d9af17",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "tenant-based rental subsidies (not project-based)",
+        "operating subsidies for PSH and licensed settings",
+        "interim housing operations"
+      ],
+      "next_deadline_date": "2026-07-01",
+      "deadline_check": "past_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Riverside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Riverside Local Affordable Housing Trust Fund (LAHTF), created by Council resolution March 12, 2024",
+      "administering_agency": "City of Riverside Housing and Human Services Department",
+      "funding_type": "loan",
+      "typical_award_size": "Construction and permanent loans at simple interest of no more than 3% per annum, with repayments recycled into the fund. Seeded with a $1,500,000 transfer of PLHA funds; ongoing revenue from HOME, NSP, CalHome, PLHA and ARPA affordable housing program income (ARPA affordable housing allocation was $1,388,797) plus 50% of future sale proceeds of City-owned land bought with General Fund money. City applied for a $1,000,000 HCD Local Housing Trust Fund match (August 2024). Staff cite typical gap requests of $3M to $4M for 65 to 80 unit projects.",
+      "per_unit_cap": "None published; sized to gap.",
+      "affordability_requirement": "Low to moderate income households. Committee recommendations at creation: 99-year affordability term, priority for seniors and justice-involved people, and eligibility for market-rate developers that restrict 10% of rental units (or 5% of for-sale units). Loans funded with PIP Round 4 money require 55-year first-position covenants at or below 50% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No LAHTF NOFA issued as of 2026-11-08. The March 24, 2026 PIP Round 4 staff report says residual receipts from PIP loans will flow to the trust fund and staff will issue a NOFA once enough has accumulated. Contact Housing and Human Services (Agripina Neubauer, Housing Project Manager).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "City-controlled gap layer that sits ahead of County HOME/PLHA (the County CDBG/HOME record covers the Urban County, which excludes the City of Riverside as its own entitlement grantee). Stacks with the City's own HOME, PLHA and PIP loans (separate records) and with 4% or 9% LIHTC. Capitalized mainly from recycled program income, so the balance is small relative to need; expect it to be combined with HOME and PLHA on the same project. If the LHTF state match was awarded it carries HCD LHTF regulatory terms. City pages on riversideca.gov are thin; staff reports were pulled through the Legistar web API (client riversideca).",
+      "source_url": "https://riversideca.legistar1.com/riversideca/attachments/1ba55bf5-5dbd-4eeb-9ca6-933968bf57e8.pdf",
+      "record_id": "6d04638084",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-03-24",
+      "deadline_check": "past_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No LAHTF rule found; the March 12, 2024 staff report is silent on prevailing wage. City loans are public funds under Labor Code 1720(b), but 1720(c)(5)(E) exempts privately owned residential projects whose public participation is below-market interest rate loans with at least 40% of units restricted for 20+ years at or below 80% AMI (applied in DIR PW 2016-035, Spring Park Senior Villa). Where a loan is drawn from HOME program income, HOME rules (24 CFR 92.354, Davis-Bacon at 12+ HOME-assisted units) follow that money. Outcome is project-specific.",
+      "audit_note": "Leave unclear: only basis is the general Labor Code 1720(b) public funds definition; coverage turns on 1720(c) exemptions and project facts. Searched LAHTF staff report, Labor Code 1720 and DIR coverage determinations 2026-11-08.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

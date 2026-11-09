@@ -1,0 +1,42 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29 (Housing Interventions component)",
+      "administering_agency": "San Benito County Behavioral Health Department (Rachel White, Director)",
+      "funding_type": "grant",
+      "typical_award_size": "Integrated Plan FY 2026-29 approved by the Board June 23, 2026 (4-0) after DHCS approval May 28, 2026 and a public hearing May 21, 2026. Statutory split is 30% Housing Interventions, 35% Full Service Partnerships and 35% Behavioral Health Services and Supports, but the County transferred 7% each from FSP and Housing Interventions into BHSS (about 23% Housing Interventions). The State approved spending up to 35% of the Housing Interventions component on capital development (above the standard 25%) for a housing development project with the Health and Human Services Agency to house HHSA and Behavioral Health clients experiencing homelessness. Dollar amounts are in the plan and budget attachments, not the staff report.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder; at least 50% of housing funds for chronically homeless people under state law unless exempted.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Behavioral Health plans requests for proposals to contract a range of providers to meet BHSA goals and a 62% licensed workforce gap; approach the department about housing intervention contracts for FY 2026-27 and later.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. Classified as grant because the approved plan funds housing capital (a County-HHSA development project using up to 35% of Housing Interventions) and interim and permanent housing for clients. For a county of about 68,000 people the Housing Interventions share is small after the 7% transfer to BHSS; a developer's realistic entry is partnering on the County-HHSA project or an operating subsidy on a few PSH units. Source is the June 23, 2026 Board packet; the plan and budget attachments are on cloudfront via the June 23 agenda.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/4ed6792472814ec90ffed92990c76dc80.pdf",
+      "record_id": "af57e23ae0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "County capital development project with HHSA for homeless behavioral health clients (up to 35% of Housing Interventions)",
+        "rental and operating subsidies",
+        "interim housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Oakland-Berkeley-Alameda County Continuum of Care (CA-502) and HHAP",
+      "administering_agency": "Alameda County Health, Housing and Homelessness Services (CoC lead and HHAP administrator for the County and CoC allocations); City of Oakland administers its own HHAP",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP by round, County of Alameda: R1 $8,700,000, R2 $4,000,000, R3 $11,200,000, R4 $12,100,000, R5 $13,463,754, R6 $10,783,302. CoC: R1 $9,400,000, R2 $4,500,000, R3 $12,000,000, R4 $12,900,000, R5 $14,033,347, R6 $11,516,752. City of Oakland: R5 $28,446,566, R6 about $23,000,000; regional R6 total $45,300,000 (awarded March 2, 2026). State accountability site: $210,100,000 HHAP rounds 1 to 5 in the Alameda area, $102,500,000 directly to the County ($78,100,000 obligated, $60,500,000 spent by mid-2025); Encampment Resolution Funding $30,600,000 in the area. HUD CoC program FY 2024 awards to CA-502: $16,901,825 including Shelter Plus Care TRA $9,129,290, Housing Fast Support Network $2,619,550, YHDP $1,934,338 and Linkages $1,734,446. State ESG CoC share $402,650 (2024). 2024 PIT: 9,450 people, 6,343 unsheltered, 9,963 year-round beds. HHAP uses in the County: Coordinated Entry access points, street health and outreach, HMIS, Emerging Leaders, regional interim housing (safe parking, shelters, navigation centers) and local match for Medi-Cal Housing Community Supports.",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness per HUD and state definitions; CoC permanent housing through Coordinated Entry; HHAP-6 must obligate 75% and spend 50% by June 30, 2027, and the County needs a compliant housing element for the second half of its Round 6 award.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 regional application was due Aug 29, 2025 and awarded March 2026; HHAP-7 is available to HHAP-6 grantees. The CoC's HUD NOFO competition runs each summer through EveryOne Home; letters of interest are collected by the County. Home Together 2030 (summer 2026) sets system priorities.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "HHAP here pays for coordinated entry, outreach, interim housing and services rather than capital; Measure W now dwarfs it and is the County's capital and operating subsidy source for PSH. Oakland and Berkeley projects should look to those cities' HHAP and CoC shares (Pass 3). CoC permanent housing dollars are mostly Shelter Plus Care tenant-based assistance. Figures from the July 17, 2025 County and Oakland HHAP-6 presentation (opened), HCD HHAP allocation lists, the HUD FY 2025 CoC award report and accountability.ca.gov.",
+      "source_url": "https://everyonehome.org/wp-content/uploads/2025/07/HHAP-6-Presentation_Alameda-County-City-of-Oakland.pdf",
+      "record_id": "426c1b481a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "HUD CoC: 24 CFR 578.99(h) states the Davis-Bacon Act does not apply to the CoC program (https://www.law.cornell.edu/cfr/text/24/578.99). HHAP guidance does not state a prevailing wage rule; state prevailing wage would apply to an HHAP- or CoC-funded construction or rehab project only under Labor Code 1720 depending on project facts and 1720(c) exemptions. Most local HHAP spending here is services, outreach and interim housing operations.",
+      "audit_note": "Tier 4 spot check Nov 8, 2026: HHAP Rounds 1 to 6 County and CoC allocations, uses, and the Aug 29, 2025 HHAP-6 deadline match the July 17, 2025 presentation. Prevailing wage changed from true to unclear because the CoC rule excludes Davis-Bacon and no HHAP rule imposes prevailing wage. March 2, 2026 award date and HUD CoC FY 2024 figures were not re-checked in this pass.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) housing interventions, Alameda County Behavioral Health Department",
+      "administering_agency": "Alameda County Behavioral Health Department (ACBHD), Alameda County Health, with Housing and Homelessness Services for the flexible housing subsidy pool",
+      "funding_type": "grant",
+      "typical_award_size": "Integrated Plan FY 2026-29 approved by the Board of Supervisors June 16, 2026 (public hearing April 20, 2026). BHSA budget authority about $166,188,844 a year; Housing Interventions component $37,306,397 (FY 2026-27), $41,735,347 (FY 2027-28), $44,221,971 (FY 2028-29); 52% dedicated to chronically homeless people; outreach and engagement 5% to 6%. Uses: rental subsidies, operating subsidies for existing and new PSH units (about 990 people a year), flexible housing subsidy pool, landlord mitigation, tenancy sustaining services. Capital development share: 0% in all three years; the plan states the County will consider capital development projects as needed once the BHSA transition is complete.",
+      "per_unit_cap": "None; no capital program planned. Statute would allow up to 25% of the housing component for capital.",
+      "affordability_requirement": "Adults, older adults, youth and families with serious mental illness or substance use disorder who are chronically homeless, homeless or at risk; Housing First; ACBHD eligibility and Coordinated Entry referral for PSH units.",
+      "eligible_project_types": [
+        "supportive housing",
+        "rental assistance"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026. BHSA Integrated Plan FY 2026-29 took effect with the BHSA transition and is updated through Annual Updates; there is no capital NOFA (the plan answers No to using Housing Interventions for capital development). Ask ACBHD and H&H about operating subsidy and Flexible Housing Subsidy Pool commitments for PSH units.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Unlike Orange and Contra Costa, Alameda chose not to put BHSA money into capital, so BHSA is an operating and services partner only: pair a BHSA operating subsidy or flex pool commitment with Measure W capital and HACA or city PBVs. State funds would trigger prevailing wage if capital were ever offered. Figures from the June 16, 2026 Board item (304 pages, opened) and the approved plan PDF and executive summary on acbhsa.org.",
+      "source_url": "https://www.alamedacountyca.gov/board/bos_calendar/documents/DocsAgendaReg_06_16_26/HEALTH%20CARE%20SERVICES/Regular%20Calendar/BHCS_405776.pdf",
+      "record_id": "c564b7f39c",
+      "cycle_notes": "Not a competitive application program. Funds flow through the three-year Integrated Plan (Board approved June 16, 2026; submitted to DHCS for the July 2026 start) with Annual Updates and Intermittent Updates. Housing Interventions fund rental subsidies, PSH operating subsidies, the Flexible Housing Subsidy Pool and tenancy services; capital development share is 0% in all three years.",
+      "eligible_project_detail": [
+        "supportive housing",
+        "rental assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No prevailing wage rule found in the FY 2026-29 Integrated Plan (Board item BHCS_405776, June 16, 2026). The plan funds no capital development, so no construction contract is financed; earlier value of true was inferred from state funding and had no cited rule. https://www.alamedacountyca.gov/board/bos_calendar/documents/DocsAgendaReg_06_16_26/HEALTH%20CARE%20SERVICES/Regular%20Calendar/BHCS_405776.pdf",
+      "audit_note": "prevailing_wage_trigger reset from true to unclear in Tier 2 audit because no cited rule supported true and the program funds no capital.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oakland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Impact Fee, OMC Chapter 15.72 (2025 amendments, Ordinance 13853 C.M.S.), with exemption for affordable housing projects and Fund 1872",
+      "administering_agency": "City of Oakland Planning and Building Department (collection, impactfees@oaklandca.gov) and HCD (expenditure through NOFAs)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Requirement on market-rate housing and a funding source for affordable housing. July 15, 2025 amendments converted the fee from per unit to per square foot (AB 602): multifamily Zone 1 $36.17 per sq ft (was $29,658 per unit), Zone 2 $29.18 (was $23,929), Zone 3 $19.73 but set at 0% through FY 2027-28; townhome $14.98 / $10.97 / $5.99 (Zone 3 at 0%); single family $12.66 / $9.08 / $4.40 (Zone 3 at 0%). Annual Marshall and Swift inflation adjustment each July 1. Exempt: 100% affordable projects, projects providing the on-site or off-site affordable units specified in 15.72.100-110, ADUs, 2 to 4 unit projects, single-family homes under 1,750 sq ft, SB 684 projects, and the first four smallest units in larger projects. All impact fee payments deferred to certificate of occupancy for 100% affordable and density bonus projects (SB 937 alignment). FY 2024-25 AHIF fund: start $18,162,106, end $10,737,051, $6,577,455 spent, $5,893,752 committed, $4,843,299 being committed to NOFA pipeline projects.",
+      "per_unit_cap": "Not applicable (exemption). Mixed-income option: provide on-site affordable units at the percentages in 15.72.100 to zero out the fee.",
+      "affordability_requirement": "Exemption requires 100% affordable (manager units excepted) or the on-site mix in 15.72.100 (chosen to align with state density bonus thresholds); fee revenue funds 100% affordable developments for extremely low to moderate income households through the NC NOFA.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fee due at building permit (installments) or deferred to certificate of occupancy for affordable and density bonus projects; rates adjust each July 1. Zone 3 zero rate expires June 30, 2028 unless extended.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Oakland has no general permit or impact fee waiver program; the AHIF exemption plus SB 937 deferral of transportation and capital improvement fees is the relevant relief. Affordable projects still pay the Transportation Impact Fee (Ch. 15.74) but are exempt from the Capital Improvements Impact Fee. AHIF revenue (Fund 1872) is one of the non-bond sources commingled with Measure U in the NC NOFA, so this record both reduces developer cost and feeds the Oakland NOFA record. No county impact fee exists for comparison. Fee rate schedule read in the July 2025 Master Fee Schedule exhibit on Legistar; the annual report FY 2024-25 (November 2025) supplied balances.",
+      "source_url": "https://oakland.legistar1.com/oakland/attachments/b2194064-f7d7-4deb-b57e-d33d286c32be.pdf",
+      "record_id": "38f951c61a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income (on-site compliance)",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": "2028-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program rule found. A fee waived or reduced by a political subdivision is public funds under Labor Code 1720(b)(4), but whether a categorical AHIF exemption is a waiver, and whether coverage follows, depends on 1720(c)(3) de minimis limits (under $600,000 and under 2% of project cost) and project facts; the 1720(c)(5)(E) affordable housing exemption covers below-market loans only, not fee waivers. AHIF revenue spent through Oakland NOFA loans is governed by the NOFA terms, not this record.",
+      "audit_note": "Tier 3: prevailing wage left unclear. Only basis is the general Labor Code 1720(b)(4) public funds definition, with outcome dependent on 1720(c) exemptions and project facts. No DIR determination on an affordable housing impact fee exemption was located.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oakland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Jobs/Housing Impact Fee (commercial linkage fee), OMC Chapter 15.68, Fund 1871",
+      "administering_agency": "City of Oakland Planning and Building Department (collection) and HCD (expenditure)",
+      "funding_type": "loan",
+      "typical_award_size": "Linkage fee on office and warehouse projects over 25,000 sq ft: $7.87 per sq ft for permits applied July 1, 2024 to June 30, 2025 per Table 4 ($8.05 for July 1, 2023 to June 30, 2024), inflation adjusted; paid 25% at permit, 50% at certificate of occupancy, 25% eighteen months later. The 2025 amendments extended the fee to additional nonresidential categories. FY 2024-25 JHIF fund (Fund 1871): start $13,964,433, end $12,546,460, fee revenue $0 in FY 2024-25, $12,060,074 committed to affordable developments, $486,386 being committed to pipeline projects. Past JHIF awards include $2,500,000 (2700 International, 75 units) and $3,472,130 (34th and San Pablo, 60 units).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Revenue restricted to acquisition, new construction, substantial rehabilitation and preservation of affordable housing, awarded through HCD NOFAs.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fee collected continuously; funds flow to the NC NOFA pipeline (next round late 2026 or early 2027).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Oakland is one of only two priority cities in the county with a commercial linkage fee (Fremont also has one). Classified as loan because the fund balance is deployed as City development loans through HCD NOFAs (New Construction and ACAH); the fee itself is a cost to commercial developers, not to affordable housing sponsors. Revenue is modest relative to Measure U (FY 2024-25 JHIF fee revenue was $0) but is flexible local money with no bond restrictions, which HCD uses for early predevelopment commitments. Developers do not apply to this fund directly; it is part of the NOFA sources table.",
+      "source_url": "https://oakland.legistar1.com/oakland/attachments/cbff9d9a-7710-4842-8968-0b288ef0fcb4.pdf",
+      "record_id": "79c31e799d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Reclassified from other to loan per audit rule for trust funds that deploy loans. Impact Fee Annual Report FY 2024-25 (CED Committee February 10, 2026) shows JHIF committed to projects through City loans.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oakland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation (renewed 2025, Resolution 90836 C.M.S.) and Prohousing Incentive Pilot Program grants",
+      "administering_agency": "City of Oakland HCD, Housing Policy Unit",
+      "funding_type": "grant",
+      "typical_award_size": "Oakland was the first Bay Area jurisdiction designated Prohousing (December 2022); renewal for a 3-year term authorized September 16, 2025. Prohousing Incentive Program awards: $2,390,000 (Round 1, 2023) dedicated to capitalized service reserves for deeply affordable housing; Rounds 2 and 3 unsuccessful ($1,390,000 requests); Round 4 application for up to $1,600,000 authorized March 2026 for capitalized service reserves for PSH units in R2H2 or NC NOFA projects.",
+      "per_unit_cap": "None; grants are sub-awarded to projects by HCD as grants or loans.",
+      "affordability_requirement": "Capitalized service reserves for permanent supportive housing and deeply affordable units identified through City NOFAs.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD PIP Round 5 NOFA released October 13, 2026 (about $8 million statewide); applications due March 31, 2027, Prohousing Designation required by March 31, 2027, awards expected June 2027. Oakland Round 4 result not confirmed.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Developers benefit indirectly: Oakland projects receive Prohousing scoring points in AHSC, IIG, TCC and other state programs, and PIP dollars are routed to service reserves that make PSH projects feasible. Hayward and San Leandro also hold or expect Prohousing status. No county equivalent.",
+      "source_url": "https://oakland.legistar1.com/oakland/attachments/7517a614-abf5-43fa-bad4-4cf1bc78d82f.pdf",
+      "record_id": "bb65553d29",
+      "cycle_notes": "State PIP rounds funded from SB 2 Building Homes and Jobs Trust Fund collections; Round 5 NOFA October 13, 2026 with March 31, 2027 due date.",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction"
+      ],
+      "next_deadline_date": "2027-03-31",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "HCD Prohousing Incentive Program guidelines (Round 4 and October 2026 final guidelines) and the Round 4 and Round 5 NOFAs contain no prevailing wage provision. PIP funds pass to projects as City grants or loans for capitalized service reserves, so coverage depends on the general Labor Code 1720(b) public funds definition, 1720(c) exemptions (including 1720(c)(5)(E) for qualifying below-market loans) and project facts.",
+      "audit_note": "Tier 3: prevailing wage left unclear; PIP guidelines and NOFAs were searched and state no prevailing wage rule. Deadline updated from the HCD Round 5 NOFA.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Leandro",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Park Facilities Development Impact Fee exemption and 50% reduction for affordable units (Administrative Code Section 8.8.121, Council item 25-347, July 2025)",
+      "administering_agency": "City of San Leandro Community Development Department and Recreation and Parks",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Park impact fees restructured in July 2025 from per-unit-type ($18,074 per multifamily unit in FY 2024-25) to unit-size tiers: under 550 sq ft $6,052; 550 to 750 sq ft $7,565; 751 to 1,150 sq ft $11,600; 1,151 to 1,650 sq ft $16,140; 1,651 to 1,950 sq ft $20,679; over 1,950 sq ft $25,723 (land acquisition plus improvement components, CPI and ENR indexed). New Section 8.8.121: a residential development is exempt from the park fee if 100% of units (excluding manager units) are affordable and the applicant is a 501(c)(3) nonprofit or controlled by one; any other affordable unit pays 50% of the otherwise applicable rate. ADU fees eliminated by companion resolution.",
+      "per_unit_cap": "Not applicable (exemption or 50% reduction per affordable unit).",
+      "affordability_requirement": "Affordable unit per Health and Safety Code 50093 with affordable rent (50053) or affordable housing cost (50052.5) under a recorded restrictive covenant; full exemption requires 100% affordable nonprofit ownership.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No application deadline; the exemption or 50% reduction applies at building permit. Adopted by Resolution 2025-106 on July 21, 2025 (Council item 25-347), effective 60 days after adoption; in effect as of November 8, 2026. Fees index annually.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The only development fee relief among the five priority cities that is written into local code for 100% affordable nonprofit projects (Oakland's AHIF exemption is comparable in effect). Saves roughly $6,000 to $12,000 per small unit. Other City fees (building permit, sewer connection) are not waived; school and EBMUD fees are outside City control. The document read was the draft resolution attached to the July 1, 2025 Council item on Legistar.",
+      "source_url": "https://legistar1.granicus.com/SanLeandro/attachments/dbe7f4a0-f45c-4e92-aa84-0a1966b90411.pdf",
+      "record_id": "18980d2477",
+      "cycle_notes": "Standing fee relief in Administrative Code Section 8.8.121, not a funding round. Council adopted Resolution 2025-106 (park impact fees and affordable housing waivers), Resolution 2025-107 (ADU street improvement fee exemption) and introduced Ordinance 2025-012 (parkland dedication, second reading September 2, 2025). Resolution takes effect 60 days after adoption.",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income (50% reduction on affordable units)",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "Labor Code 1720(b)(4) treats fees waived or reduced by a political subdivision as payment out of public funds, but 1720(c)(3) excludes de minimis subsidies (under $600,000 and under 2% of total project cost), so coverage depends on project size and other public funds; the San Leandro resolution states no prevailing wage requirement. https://california.public.law/codes/labor_code_section_1720",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Riverside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "University Avenue Density Transfer Pilot Program (Housing Element Program HE-EJ-7-2)",
+      "administering_agency": "City of Riverside Community and Economic Development Department, Planning Division",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Not a cash subsidy. Creates a unit bank seeded with residential capacity from City-owned surplus parcels in the University Avenue Specific Plan; receiver sites (City surplus and Housing Element sites) can withdraw extra units first-come first-served, with priority to City surplus sites, and may combine withdrawals with Chapter 19.545 density bonuses.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "None specific to the transfer; affordability comes from density bonus, SLA covenants or funding sources used on the receiver site.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Land Use Committee recommended approval; the Council item (Legistar 52587, March 2026) showed status Agenda Ready with no recorded vote in the API. Verify adoption with Planning before relying on it.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Most useful when paired with a City surplus parcel disposition (see land write-down record). Pilot limited to the University Avenue Specific Plan area; may expand if successful.",
+      "source_url": "https://riversideca.legistar1.com/riversideca/attachments/ea6aa9ef-342c-4b16-9ef9-01f2ded9ee62.pdf",
+      "record_id": "fd2591cba2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Corona",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Corona Affordable Housing Overlay Zone (AHO), Municipal Code Chapter 17.31",
+      "administering_agency": "City of Corona Planning and Development Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. By-right approval for housing projects on AHO-designated parcels that reserve at least 20% of units for lower income households; mixed use allowed if at least 51% of floor area is residential; density per General Plan designation; objective design standards apply.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "At least 20% of units for lower income households at affordable rent or cost, regulatory agreement for at least 30 years.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Ongoing. Adopted by Ord. 3360 (2023). The Action Plan also proposes a General Plan change to allow 100% residential in Mixed-Use designations with the AHO overlay.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "By-right status removes CEQA and discretionary risk, useful for TCAC readiness. Can be combined with Chapter 17.87 density bonus. The 30-year minimum term is shorter than TCAC's 55 years, so the tax credit term governs.",
+      "source_url": "https://www.zoneomics.com/code/corona-CA/chapter_17",
+      "record_id": "fb016989dc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

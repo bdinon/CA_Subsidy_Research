@@ -1,0 +1,196 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Community Development Block Grant (CDBG), Urban County of Sacramento",
+      "administering_agency": "SHRA for the County of Sacramento",
+      "funding_type": "grant",
+      "typical_award_size": "2027 Action Plan: $6,151,763 allocation plus $2,025,000 prior-year resources ($8.18M); about $3.63M targeted to the housing development, preservation and homeownership goal (27 rental units rehabilitated, 10 constructed, 100 owner rehabs), the rest to infrastructure and public services. June 2025 notice listed $0 County CDBG for multifamily; June 2026 notice did not list CDBG.",
+      "per_unit_cap": null,
+      "affordability_requirement": "At least 51% of assisted units for households at or below 80% AMI.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Through SHRA rounds when offered (rehabilitation projects only); 2027 program year begins January 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Limited developer value: CDBG cannot fund new construction unless carried out by a Community Based Development Organization, and SHRA offers it only for rehabilitation. Davis-Bacon applies at 8 or more units. Useful for acquisition-rehab or preservation deals paired with 4% credits and CalHFA or SHRA bonds. CDBG-CV balances are committed to the Mather Community Campus shelter.",
+      "source_url": "https://www.shra.org/wp-content/uploads/2026/08/2027-County-AP-Narrative_Final.pdf",
+      "record_id": "1123a8939e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Housing Authority of the County of Sacramento",
+      "administering_agency": "SHRA (the County housing authority administers all vouchers for both the City and County)",
+      "funding_type": "rental assistance",
+      "typical_award_size": "Competitive RFP awards from the tenant-based HCV allocation or HUD-VASH; no RFP anticipated in 2026. Cap of 25 units or 25% of a building, whichever is greater, with exceptions for elderly or disabled households and units with qualifying supportive services (common for PSH). HAP contract up to 20 years with extensions to 40 years total.",
+      "per_unit_cap": "25 units or 25% of units per project unless the supportive-services or elderly/disabled exception applies",
+      "affordability_requirement": "HCV income limits (very low income, 75% of admissions at or below 30% AMI); PBV units leased through the Coordinated Access System for homeless set-aside units under a Housing First model.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "SHRA states it does not anticipate a Project-Based Voucher RFP in 2026; updates come through the SHRA listserv. HUD's 2026 budget guidance also asked PHAs to pause new PBV commitments except for public housing repositioning, so a 2027 RFP is uncertain. Non-competitive PBV remains possible for SHRA-controlled sites and for adding units to existing HAP contracts.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "PBV HAP contracts underwrite debt on PSH units (rents at the payment standard, up to 120% of FMR with approval) and were the operating engine for Homekey, NPLH and MHP supportive units in Sacramento. With no 2026 RFP, new PSH deals should plan on Homekey+ operating grants, BHSA rental subsidies or the County Flexible Housing Pool instead. Referral mechanics for PBV PSH run through Sacramento Steps Forward (see Continuum of Care record). SB 802 (Chapter 417, Statutes of 2026) requires the County and cities to form the Sacramento Area Housing and Homelessness Agency, a regional JPA that absorbs SHRA, by January 1, 2028; expect program administration, fee funds and NOFA calendars to migrate to that agency during 2027-2028.",
+      "source_url": "https://www.shra.org/wp-content/uploads/2026/07/SHRA-HCV-2027-Admin-Plan-Draft.pdf",
+      "record_id": "6936e589cd",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Mixed Income Housing Ordinance and Housing Impact Fee (City Code Chapter 17.712)",
+      "administering_agency": "City of Sacramento Community Development Department, Planning Division (fee); SHRA (Mixed Income Housing fund and 100-acre housing strategies)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement and fee, not a subsidy. Housing Impact Fee effective July 1, 2026 through June 30, 2027: $3.58 per square foot for single-unit, duplex and multi-unit dwellings below 20 and 40 dwelling units per net acre respectively; $0.00 for single-unit or duplex at 20 du/acre or more, multi-unit at 40 du/acre or more, and nonresidential-to-residential conversions; $1.55 per square foot in the Housing Incentive Zone. Fee revenue (about $1.7M in 2024, $4.2M lent to projects that year) goes to the SHRA-administered Mixed Income Housing fund; $2.5M posted available June 1, 2026. Projects over 100 gross acres must adopt a Council-approved mixed income housing strategy.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Exempt from the fee: developments with 10% regulated low-income units (80% AMI), room additions, second units, owner-builder single homes, mobilehome parks, projects with pre-ordinance development agreements or pre-November 2015 entitlements. No mandatory inclusionary requirement citywide.",
+      "eligible_project_types": [
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fee assessed at building permit, adjusted every July 1. The Housing Element Program H1 review ended Dec 9, 2025 when Council voted to make no changes, so the current structure holds through at least 2027. Contact Greta Soos, (916) 808-2027.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Most 4% and 9% multifamily deals in Sacramento pay nothing: at 40 du/acre or more the rate is $0, and any project with 10% low-income units is exempt, so the fee mainly hits single-family subdivisions and low-density apartments. The fund it feeds is the largest City gap pool after HOME ($2.5M June 2026). Compare the County Affordable Housing Ordinance ($3.91 per square foot with on-site credit) for unincorporated sites. A 2023 to 2025 study considered mandatory inclusionary and higher fees; Council declined, so no inclusionary units are required citywide.",
+      "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/housing-impact-fee",
+      "record_id": "7a03511fb5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate multifamily (compliance)",
+        "mixed-income projects",
+        "100% affordable projects (fee exempt)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Density bonus (City Code Chapter 17.704) and ministerial infill housing permits (Chapter 17.860 and SB 35/SB 423)",
+      "administering_agency": "City of Sacramento Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus law as implemented in Chapter 17.704 (no local enhancement beyond state minimums identified): e.g., 5% very low income units earns a 20% bonus plus one concession and unlimited waivers; up to 50% bonus and the 100% affordable 80% bonus per Government Code 65915. City ministerial permit (CDD-0428, adopted Aug 27, 2020) covers 2 to 200 unit residential or mixed-use infill projects meeting objective standards, no affordability or prevailing wage requirement, no CEQA, 60 to 90 day review; the state SB 35 permit (CDD-0427) requires 10% lower-income units at 11 or more units. Density bonus requests can be processed ministerially with either permit.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Per state law for the bonus; none for the City ministerial permit.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling at entitlement. Parking: none required within a quarter mile of light rail, 50% reduction within a half mile.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Sacramento is the state's first Prohousing jurisdiction (renewed Dec 23, 2025 with the top score) and already has high base densities, so the bonus is mostly used for height, parking and setback waivers rather than unit count. Combining the City ministerial permit with a density bonus avoids hearings and CEQA for 100% affordable infill without the SB 35 prevailing wage trigger. Missing Middle zoning (2024) allows multi-unit on former single-family lots citywide.",
+      "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/housing-development-kit/housing-development-incentives/help-me-build-more-housing-units-or-tailor-my-project-to-my-site",
+      "record_id": "a5bba5a1fa",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rancho Cordova",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Housing incentives and density bonus (Rancho Cordova Municipal Code Chapter 23.710)",
+      "administering_agency": "City of Rancho Cordova Planning Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus law implemented in Chapter 23.710 (Ord. 17-2021): one density bonus with concessions for 10% lower income, 5% very low income, special needs housing, senior housing, 10% moderate for-sale, 10% foster youth/disabled veteran/homeless units (55-year restriction), or 100% affordable projects; parking capped at 1.0 space for studios and one-bedrooms, 1.5 for two and three bedrooms, 2.5 for four or more; waivers of standards that would preclude the bonus.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Per state law.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling at entitlement.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement beyond state minimums identified; the chapter's special-needs category mirrors state law. Rancho Cordova approved The Liora affordable project through ministerial major design review in 2026, so objective-standards ministerial review is available for qualifying affordable projects.",
+      "source_url": "https://www.zoneomics.com/code/rancho-cordova-CA/chapter_4",
+      "record_id": "15ba935a4a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

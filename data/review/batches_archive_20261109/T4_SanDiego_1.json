@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Chula Vista",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance, CVMC Chapter 19.91 (Ordinance 3572, 2024; threshold amended to 20 units by Ordinance 3581, November 2024) and Housing In-Lieu Fee / Housing Inclusionary Fund",
+      "administering_agency": "City of Chula Vista Housing and Homeless Services Department and Development Services Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Residential and mixed-use projects of 20 or more units (applications deemed complete on or after July 1, 2024) must restrict 10 percent of units, split as evenly as possible between moderate income and low income households, for rental or for-sale product; density bonus units are excluded from the base. In-lieu fee for fractional units or in place of on-site units set by Council resolution on a square footage basis with different rates for for-sale and rental product (Master Fee Schedule Chapter 16, Resolution 2024-100, May 21, 2024, based on the RSG Inclusionary Policy and In-Lieu Fee Study); paid before the first building permit into the Housing Inclusionary Fund. Alternatives: off-site units within one mile or in TCAC high or moderate resource areas, land dedication, conversion of market rate units, preservation of at-risk units, transferable credits (10 year life), and incentive credits (for example 3.5 rental units of credit per very low income unit provided in place of a moderate unit). Replaced the 1981 Balanced Communities Policy (10 percent of 50 or more units).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "55 years rental (45 years ownership); moderate income (up to 120 percent AMI) and low income (up to 80 percent AMI) units; Chapter 19.94 marketing and lottery rules give preference to displaced Chula Vista residents and local residents and workers.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; the Council on May 21, 2024 voted 5-0 to set the threshold at 20 units (first reading) and adopted the Chapter 19.91 threshold amendment on November 12, 2024. Code is current through Ordinance 3617 (February 2026). Check the Master Fee Schedule Chapter 16 for the current per square foot in-lieu rate.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Projects of 20 to 24 units routinely pay fees, so the Housing Inclusionary Fund will grow slowly; Otay Ranch village developers (for example Village 8 East, Affordable Housing Agreement approved November 4, 2025) satisfy the requirement with dedicated affordable sites that then seek City Low-Mod loans and bonds (separate records). Inclusionary units may count toward the state density bonus (19.91.060). Ordinance text read on the zoneomics code mirror (chulavista.municipal.codes returns 403); Council actions read on the eSCRIBE agenda portal.",
+      "source_url": "https://www.zoneomics.com/code/chula-vista-CA/chapter_49",
+      "record_id": "ce6ff05275",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental and for-sale projects of 20 or more units (compliance)",
+        "mixed-income projects",
+        "land dedication sites"
+      ],
+      "next_deadline_date": "2024-11-12",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Escondido",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Density Bonus and Residential Incentives Ordinance (Escondido Zoning Code Article 67, Sections 33-1410 to 33-1421) and Development Fee Deferral Policy",
+      "administering_agency": "City of Escondido Development Services Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Article 67 grants state law density bonuses (up to 50 percent; 80 percent or unlimited for 100 percent affordable projects) and incentives and concessions to projects of five or more units (three or more in some areas), including student housing and child care provisions, in-lieu incentives of equivalent land value, land donation bonuses and a sliding scale (one percent bonus per one percent increase above the 10 percent very low income minimum); amended in 2020, 2021 and 2022 for AB 2345. Agreement processing and administrative fee apply (33-1421). The 2012 Development Fee Deferral Policy lets residential projects of five or more units defer development fees to occupancy (up to one year from permit). Density transfer programs exist in the Downtown and East Valley Specific Plan areas (Resolution 2019-69; Ordinance 2023-10).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 tiers; affordability tenure per 33-1418 (55 years rental).",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; density bonus request form on escondido.gov. A zoning ordinance update with lot consolidation incentives was planned for 2025; confirm current Article 67 text with Planning.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "State conforming with no local fee waiver: a 2024 staff report noted neither state law nor the Municipal Code requires the City to give direct financial assistance to density bonus projects. The fee deferral is the only fee relief. Escondido is not on HCD's Prohousing list (as of August 10, 2026). Pair with City HOME and recycled RDA funds (separate records) and County HCDS NOFA. Article text read on the zoneomics code mirror; Housing Element and APR read on escondido.gov.",
+      "source_url": "https://www.zoneomics.com/code/escondido-CA/chapter_67",
+      "record_id": "5e12280e1f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "supportive housing",
+        "condominium conversions"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

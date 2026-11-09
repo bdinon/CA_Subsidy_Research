@@ -1,0 +1,39 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Transformative Climate Communities (TCC) Round 6",
+      "administering_agency": "Strategic Growth Council (SGC)",
+      "funding_type": "grant",
+      "typical_award_size": "Round 6 funded by Prop 4 (2024 Climate Bond); amount not stated on the program page. Implementation grants for place-based plans in disadvantaged communities that can include affordable housing capital as one project component.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing components must be affordable per TCC guidelines; project must sit within a TCC-eligible disadvantaged community boundary.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Round 6 applications closed Sept 30, 2026 (implementation pre-proposals June 30, 2026); awards expected Spring 2027. Future rounds depend on Prop 4 appropriations.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Community-led collaborative applications (lead applicant typically a city or county) rather than developer-driven. Past awards included Stockton and Sacramento area communities, so San Joaquin and Sacramento sites may qualify. Housing funds within TCC follow AHSC-like terms; state grant funds are generally public funds for prevailing wage, verify in Round 6 guidelines.",
+      "source_url": "https://sgc.ca.gov/grant-programs/tcc/",
+      "record_id": "135ca90b14",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-06-30",
+      "deadline_check": "past_date"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29 (Housing Interventions component)",
+      "administering_agency": "Ventura County Health Care Agency, Behavioral Health Department",
+      "funding_type": "grant",
+      "typical_award_size": "DHCS-approved BHSA Integrated Plan FY 2026-29 (May 2026) funds Housing Interventions: rental subsidies (706 people per year, 620 units, project-based and tenant-based), operating subsidies for PSH and interim settings (355 units per year), landlord mitigation and participant assistance funds, and capital development (up to 25% of Housing Interventions). Named capital projects with BHSA cost per unit: Santa Paula Motel Project (20 BHSA units of 21, $150,712 per unit, leasing 2028), Santa Clara Apartments (10 BHSA units, $213,538 per unit, leasing summer 2029), Fillmore Terrace (4 BHSA units, $200,000 per unit, leasing early 2029). Annual dollar totals are in a separate budget template not posted as an accessible file.",
+      "per_unit_cap": "BHSA Housing Interventions share of a capital project must be $450,000 per unit or less (DHCS).",
+      "affordability_requirement": "BHSA-eligible adults and youth with serious mental illness or substance use disorder, including chronically homeless individuals; referrals through Coordinated Entry and HMIS.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open capital solicitation as of November 8, 2026; the Plan states VCBH will work with County Community Development to issue a NOFA to identify developers serving the BHSA population.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "BHSA classified as grant because the Integrated Plan funds housing capital development, operating subsidies and rental subsidies for PSH. Capital projects braid BHSA with LIHTC, NPLH, HHAP and other sources. The Plan says VCBH is not participating in a Flex Pool at this time, so the earlier note about RFP 226001 for a Flexible Housing Subsidy Pool operator was not confirmed. Behavioral Health Bridge Housing capacity will be partly sustained with BHSA funds. Ventura County housing funding otherwise runs through CEO Community Development (CDBG, HOME Consortium, PLHA), the Area Housing Authority and the Housing Trust Fund Ventura County.",
+      "source_url": "https://hca.venturacounty.gov/behavioral-health/wp-content/uploads/sites/4/2026/05/VCBH-BHSA-Integrated-Plan-5-28-26.pdf",
+      "record_id": "78377eb6d0",
+      "cycle_notes": "Three-year Integrated Plan FY 2026-27 to 2028-29 with annual updates; capital awards through a planned NOFA with County CEO Community Development.",
+      "eligible_project_detail": [
+        "rental and operating subsidies for PSH",
+        "flexible housing subsidy pool",
+        "possible capital development"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

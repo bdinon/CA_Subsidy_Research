@@ -1,0 +1,126 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Measure A1 Rental Housing Development Fund (Base City Allocations, Regional Pools, Innovation and Opportunity Fund)",
+      "administering_agency": "Alameda County Housing and Community Development Department (Measure A1 bond program)",
+      "funding_type": "loan",
+      "typical_award_size": "$580,000,000 general obligation bond approved by 73% of voters in Nov 2016, fully issued by 2021. Rental Development Fund of $425,000,000: a $225,000,000 Base City Allocation (every city and the unincorporated area by housing need) and a $200,000,000 Regional Pool awarded through competitive rounds in four regions, plus the $35,000,000 Innovation and Opportunity Fund ($25,000,000 Acquisition and Opportunity, $10,000,000 Innovation) and $21,500,000 moved from homeownership to the OakDays and Edes Avenue Homekey conversions. Status at June 30, 2026: 56 rental projects and 4,271 homes committed (1,360 for people exiting homelessness), $414,900,000 of A1 capital committed to rental development, 41 projects with 3,139 homes complete, 15 with 1,132 homes under construction or in predevelopment, $486,800,000 (84%) of the bond spent. Annual Report 4 showed only $30,200,000 of rental development funds uncommitted at mid-2022. Current openings are small Innovation and Opportunity pieces: the Tax-Defaulted Property Development Loan program (up to $3,000,000) and the Emerging Developers Predevelopment Loan program ($7,000,000, awards near $500,000, due Dec 2, 2024). A 2026 Program Income plan sets aside $3,100,000 for a senior ADU program.",
+      "per_unit_cap": "Set by the 2017 Rental Housing Development policies and each city's base allocation; Regional Pool awards typically ran $5,000,000 to $15,000,000 per project. Each A1 dollar leveraged about $6 to $7 of other funds.",
+      "affordability_requirement": "Households at or below 60% AMI with 20% of A1-assisted units for households at or below 20% AMI; 55-year County regulatory agreement; priority populations include seniors, veterans, people with disabilities, essential workers and people leaving homelessness or incarceration.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Base City and Regional Pool dollars are essentially committed; remaining A1 money is program income and Innovation and Opportunity funds offered through HCD's fall affordable housing RFP and over-the-counter predevelopment loans. Confirm balances with HCD before counting on A1; the County's 2025 Housing Plan is studying a successor revenue measure.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A1 was the backbone of East Bay gap financing from 2018 to 2024 and is now largely spent, which is why Measure W capital matters. Loans use the standard HCD terms (3% simple, 55 to 59 years, residual receipts). Many cities still hold uncommitted base allocation balances they control locally (Pass 3), and the County reporting site lists every project by city. Bond proceeds are public funds, so state prevailing wage applies. Figures from measurea1.acgov.org (opened) and Annual Report 4 (opened); the 2017 policies PDF on achcd.org is image-only and was not readable.",
+      "source_url": "https://measurea1.acgov.org/",
+      "record_id": "06c878728b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Housing Authority of the County of Alameda (HACA)",
+      "administering_agency": "Housing Authority of the County of Alameda, 22941 Atherton Street, Hayward, 510-538-8876; developer verifications through Jennifer Cado",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HACA administers 7,145 vouchers (6,973 leased at July 1, 2026): 6,361 Housing Choice, 425 VASH, 289 Mainstream, 15 EHV. HACA's Administrative Plan (Chapter 17) allows project-basing up to 30% of voucher budget authority, allocated over a multi-year period through RFPs. The November 2021 RFP offered up to 160 PBVs for new construction serving seniors, homeless families and veterans and for existing Homekey projects in Albany, Hayward, Newark and the unincorporated area; selected projects were Downtown Hayward Senior, Mission Paradise (Hayward), Albany Family Apartments, Newark Towne Place Suites, Cherryland Place and Timber Senior Housing (Newark). PBV unit totals are not published.",
+      "per_unit_cap": "HUD PBV caps (20% of authorized units plus 10% for homeless, veteran, supportive services and low-poverty units); rents at the lower of reasonable rent or 110% of FMR with HACA payment standards and utility allowances.",
+      "affordability_requirement": "Households at or below 50% AMI at admission (75% at or below 30% AMI); HAP contracts up to 20 years with extension; HACA referral and waitlist rules per the Administrative Plan.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No PBV RFP open as of Nov 2026; the last was Nov 18 to Dec 3, 2021. HACA jurisdiction: Albany, Dublin, Emeryville, Fremont, Hayward, Newark, Pleasanton, San Leandro, Union City and all unincorporated areas; Oakland, Berkeley, Alameda and Livermore have their own housing authorities (Pass 3). HACA will issue verification letters for CTCAC, CDLAC and CalHFA applications on request.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "HACA PBVs are the operating subsidy for County-funded PSH outside Oakland and Berkeley; Measure W's capitalized operating subsidy reserve is the fallback when PBVs are unavailable. A HAP contract is not a prevailing wage trigger, but Davis-Bacon applies to PBV new construction or rehab of nine or more contract units. HACA is not a Moving to Work agency. Sources opened: HACA developers page, program data at-a-glance, jurisdiction page and the County HCD bulletin announcing the 2021 RFP.",
+      "source_url": "https://www.haca.net/developers/",
+      "record_id": "94d0c217b0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "existing housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption (property tax), Alameda County Assessor",
+      "administering_agency": "Alameda County Assessor, Phong La, 1221 Oak Street, Room 145, Oakland; Other Exemptions Unit 510-272-6587, exemptions@acgov.org",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Full or partial exemption of property tax on units occupied by households at or below 80% AMI under Revenue and Taxation Code 214(g); worth roughly 1.1% to 1.4% of assessed value a year depending on the tax rate area (Alameda County has high voter-approved debt rates). The Assessor posts the full BOE-267 series (267, 267-L, L1, L2, L3, L4, H, R and income worksheets) and asks claimants to contact the exemptions unit before filing with the parcel number.",
+      "per_unit_cap": "Statewide $20,000,000 aggregate cap on exempted assessed value for limited partnership projects that qualify only through the managing general partner test without government financing (Rev. and Tax. Code 214(g)); projects with tax credits, bonds or government loans are outside the cap.",
+      "affordability_requirement": "Nonprofit or LP with eligible nonprofit managing general partner holding a BOE Organizational Clearance Certificate (and Supplemental Clearance Certificate for LP low-income housing); units restricted by recorded regulatory agreement or occupied by households at or below 80% AMI; BOE-267 first filing and annual supplemental affidavits by Feb 15 (late claims receive a reduced exemption under Rev. and Tax. Code 270).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "2027-02-15 (annual claim deadline for the 2027-28 roll). File the first claim on acquisition so the construction period is covered.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard in every tax credit operating budget; underwrite only the restricted units and confirm the managing GP's OCC and SCC before closing. The Assessor's exemptions page (opened) gives the unit contact and forms but no local deadline text; the BOE's Alameda income limit letter governs tenant qualification.",
+      "source_url": "https://www.acassessor.org/homeowners/decrease-your-assessment/exemptions/",
+      "record_id": "ab54448b8d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date",
+      "link_status": "blocked"
+    }
+  }
+]

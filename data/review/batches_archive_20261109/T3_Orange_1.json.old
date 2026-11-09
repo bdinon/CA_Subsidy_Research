@@ -1,0 +1,116 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Apartment Development Revenue Bond Program, County of Orange conduit issuer",
+      "administering_agency": "County Executive Office, Public Finance (Louis McClure, 714-834-5999, Luis.McClure@ocgov.com) with the Public Financing Advisory Committee (PFAC) and Board of Supervisors",
+      "funding_type": "bond",
+      "typical_award_size": "Tax-exempt multifamily bonds for new construction or acquisition-rehab anywhere in Orange County; a typical bond loan is $7,000,000 or more with issuance costs of about $300,000, 30-year amortization, credit enhanced (Fannie Mae, Freddie Mac, bank letter of credit) or privately placed at County discretion. Borrower pays all issuance and finance team costs. No recent County issuances were located; most Orange County deals use CMFA or CSCDA (for example Valencia Garden in Orange, CMFA $18,499,022).",
+      "per_unit_cap": null,
+      "affordability_requirement": "At least 20% of units for very low income households, or 10% very low plus 30% at 60% AMI, for the longer of 15 years or the life of the bonds (about 30 years); County loans may be added for deeper affordability.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Apply after site control and a lender commitment: PFAC approves the financing concept and team, the Board holds the TEFRA hearing and adopts the inducement resolution, then the County applies to CDLAC; bonds must close within 90 days of the CDLAC award. Call the CEO public finance contact before preparing an application.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The County keeps a conduit program on paper (Attachment H to the 2026 Supportive Housing NOFA, opened) but the pipeline shows cities and developers using CMFA and CSCDA instead; expect PFAC review to add six to eight weeks versus a JPA issuer. Bonds alone do not trigger state prevailing wage; County loans in the same deal do. Confirm current issuer fees with the CEO, as none are published.",
+      "source_url": "https://housing.oc.gov/sites/hcd/files/2026-03/Attachment%20H%20-%20Apartment%20Development%20Revenue%20Bond%20Program.pdf",
+      "record_id": "13282cfa12",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Ana",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Housing Authority of the City of Santa Ana (SAHA)",
+      "administering_agency": "Housing Authority of the City of Santa Ana (Community Development Agency), waiting list hotline (714) 667-2284",
+      "funding_type": "rental assistance",
+      "typical_award_size": "PBVs are committed to City-financed projects through the Affordable Housing Development RFP: Estrella Springs 89 PBVs (89 PSH units, former Budget Inn), WISEPlace on Broadway 25 PBVs (15 set aside for domestic violence survivors), Crossroads at Washington 15 PBVs (43 PSH units of 86), Richard Lehn Intergenerational Housing 8 PBVs (11 units, under construction), plus earlier commitments at Casa Querencia (57 units), Heroes' Landing (75), The Orchard (72) and FX Residences (17). PBV waiting lists for Crossroads at Washington and Andalucia closed April 30, 2026. SAHA received 25 Foster Youth to Independence vouchers in August 2025. Total HCV count not confirmed from an opened document.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PBV households at or below 50% AMI at admission (30% of adjusted income toward rent); PSH units generally 30% AMI with Coordinated Entry referrals; HAP contracts up to 20 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request PBVs in the RFP quarterly rounds (next January 11, 2027); SAHA's FY 2026 Annual Plan draft (Feb 17, 2026) was opened but lists no fixed PBV allotment.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Santa Ana is one of four PHAs in Orange County (with OCHA, Anaheim and Garden Grove) and has been the most active in project-basing: 89 PBVs at Estrella Springs is the largest single PBV award in the county. A HAP contract is not itself a prevailing wage trigger but Davis-Bacon applies to new construction or rehab of nine or more PBV units and PBVs bring a HUD subsidy layering review. Combine with City HOME or Housing Successor loans, County MHSA/BHSA capital and OCHFT. The City also receives its own HHAP allocation (Richard Lehn used $2,021,319 HHAP), so the operating stack for PSH can be entirely city-controlled. PSH properties page, Housing Authority page, PBV waiting list notices and the 2025 Affordable Housing Awards release opened on santa-ana.gov.",
+      "source_url": "https://santa-ana.gov/about-our-permanent-supportive-housing-properties/",
+      "record_id": "8c690732b5",
+      "cycle_notes": "requested with or without capital in the Affordable Housing Development RFP",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab",
+        "motel conversion"
+      ],
+      "next_deadline_date": "2027-01-11",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Garden Grove",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Garden Grove Housing Authority (GGHA)",
+      "administering_agency": "Garden Grove Housing Authority, 11277 Garden Grove Blvd, (714) 741-5150",
+      "funding_type": "rental assistance",
+      "typical_award_size": "GGHA assists more than 2,300 families with Housing Choice Vouchers and also administers Mainstream and Emergency Housing Vouchers. Its PBV program attaches vouchers to specific units under HAP contracts; the PBV waiting list opened for registrations October 5 to October 19, 2026 (2026 PBV income limits $65,150 for one person to $122,850 for eight). The number of PBV units under contract and any set-aside for new projects were not published; the Administrative Plan effective November 1, 2026 governs PBV selection.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PBV households at or below 50% AMI (30% of income toward rent and utilities); units must pass HQS; HAP contracts up to 20 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No owner solicitation posted; request PBVs with a development proposal to the Housing Authority. Payment standards for the four Orange County PHAs are posted for 2026.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The fourth PHA in Orange County, so a Garden Grove project can seek PBVs from GGHA or OCHA (both post the same area-wide 2026 payment standards). GGHA PBVs are the natural operating layer for a project on the Housing Successor's Civic Center Parcel together with HOME-ARP, County MHSA/BHSA and OCHFT. Davis-Bacon applies to nine or more PBV units in new construction or rehab; HAP contracts bring a HUD subsidy layering review. Housing Authority page and the September 21, 2026 PBV waiting list notice opened on ggcity.org.",
+      "source_url": "https://ggcity.org/housing-authority/notice-09-21-26",
+      "record_id": "a2db1efb27",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

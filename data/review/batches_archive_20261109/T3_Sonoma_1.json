@@ -1,0 +1,274 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County of Sonoma",
+      "administering_agency": "Sonoma County Community Development Commission (CDC) for the County of Sonoma",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2025-26 distribution $979,795 (Burbank Housing Guerneville 21 units $555,795; Habitat for Humanity Sebastopol 4 ownership units $424,000). Separate NOFAs: Sept 10, 2025 for rental or ownership projects (due Oct 30, 2025); Sept 17, 2026 for affordable owner-occupied workforce housing only, $674,360 over the counter. Residual receipts loans.",
+      "per_unit_cap": "None published; recent rental award about $26,500 per unit.",
+      "affordability_requirement": "County PLHA Five-Year Plan: 75% to multifamily rental for households at or below 50% AMI, 20% to owner-occupied workforce housing up to 120% AMI, 5% administration. 55-year restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Rental PLHA next expected in the CDC's fall 2026 or early 2027 NOFA (2025 pattern: September release, Oct 30 deadline); AOWH PLHA open over the counter since Sept 17, 2026 until the $674,360 is exhausted. Geography excludes the City of Santa Rosa and City of Petaluma, which receive their own PLHA.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "State formula money with no federal strings; small annual amounts (under $1M) make it a top-up to CFH rather than a primary source. Mandatory technical assistance workshop before applying. Nonprofit and government applicants only. Below-market residual receipts loan, so the Labor Code 1720(c)(6)(E) prevailing wage exemption may apply absent federal funds.",
+      "source_url": "https://sonomacounty.gov/notice-of-funding-availability-–-permanent-local-housing-allocation-funds",
+      "record_id": "072825af0f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "error"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Traffic and Parks Impact Fee Waiver for Affordable Housing (2025-2026)",
+      "administering_agency": "Sonoma County Board of Supervisors; administered through Permit Sonoma",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Waiver of County traffic mitigation and parks impact fees for affordable projects in the unincorporated area that received building permits from Feb 1, 2025 through Dec 31, 2026; staff estimated up to $19.5M in fees waived across 15 eligible projects (over 1,900 affordable units) with a $1.5M General Fund backfill.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units reserved for moderate-, low- and very low-income renters or buyers; recorded deed restriction of at least 55 years for rental and 45 years for ownership units. Minimum affordable percentage not stated in the County release; confirm with Permit Sonoma.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Expires Dec 31, 2026 unless extended; the County is studying its fee structure and may adopt a permanent program. Permits must be issued before the sunset.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Worth several thousand dollars per unit in the unincorporated county and reduces basis for the CTCAC cost containment score. Labor Code 1720(b)(4) counts fees waived or forgiven by a public agency as public funds, so a waiver can itself trigger state prevailing wage unless the project is otherwise exempt; most LIHTC projects taking HCD money already pay prevailing wage. Does not cover the affordable housing in-lieu fee, school, water agency or sanitation district fees. Multi-family fee deferral (separate record) remains available after the waiver sunsets.",
+      "source_url": "https://sonomacounty.gov/sonoma-county-board-of-supervisors-reduces-fees-for-affordable-housing-projects",
+      "record_id": "05b9656e09",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Multi-Family Development Fee Deferral Program",
+      "administering_agency": "Permit Sonoma",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral of County development fees (traffic impact and parkland dedication fees; not school, water agency or sanitation district fees) from building permit final until permanent financing closes, under a recorded Fee Deferral Agreement.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable rental or ownership housing for low- or very low-income households, or special needs housing (elderly or disabled) with at least 20% of units for low-income households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; request by letter with the permit application. Approval requires a Director finding that the fees are not needed for near-term programmed improvements; agreement signed before building or grading permit.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Bridges construction-period cash flow so impact fees are paid from permanent sources at conversion, a common pairing with CalHFA or bond-financed 4% deals. Deferral terms (interest, security) are not published; a deferred fee charged at less than market terms may be treated as public funds under Labor Code 1720(b)(4). Separate single-family ADU affordable-fee deferral exists for restricted ADUs.",
+      "source_url": "https://permitsonoma.org/regulationsandlongrangeplans/regulationsandinitiatives/housing/housinginitiatives/multi-familydevelopmentfeedeferralprogram",
+      "record_id": "1bbf495db3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Measure O Behavioral Health and Homelessness sales tax, housing category",
+      "administering_agency": "Sonoma County Department of Health Services",
+      "funding_type": "grant",
+      "typical_award_size": "Quarter-cent countywide sales tax (approved 2020, 10-year term) generating about $30M to $33M a year across five categories, one of which is Transitional and Permanent Supportive Housing. Pathways to Sustainability NOFA (released Aug 14, 2025) awarded $10M in Measure O plus $2.4M HHAP to 26 projects on Feb 10, 2026; PSH awards went to Committee on the Shelterless ($392,034 Measure O and $196,017 HHAP) alongside city, shelter and services grants.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Transitional and permanent supportive housing for people with behavioral health conditions experiencing homelessness; awards to date are predominantly operating and services, not capital.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2025-26 round awarded Feb 10, 2026. The County says it hopes applicants 'continue to submit proposals for future projects' but has not announced a 2026-27 NOFA; the February 2026 release noted doubts about future funding levels. Measure sunsets around 2030-2031.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Best viewed as an operating and services subsidy for PSH units rather than a capital source; pair with HCD Homekey+, MHP supportive units and PBVs. Sonoma's BHSA (Prop 1) housing interventions requirement (30% of BHSA funds, half for chronically homeless) begins July 2026 and is administered by the same department; no BHSA capital NOFA was found. County funds are public funds for prevailing wage purposes if used for construction.",
+      "source_url": "https://sonomacounty.gov/board-of-supervisors-awards-124-million-in-measure-o-and-state-funds-for-mental-health-and-homeless-services",
+      "record_id": "252e0f6433",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Rosa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Santa Rosa development fee deferral for affordable housing units, City Code Chapter 21-01 (Section 21-01.020)",
+      "administering_agency": "City of Santa Rosa Planning and Economic Development Department; agreements approved by City Council",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral, not a waiver: Government Code 66000(b) development impact fees on affordable units under contract with the City may be deferred up to two years from the date otherwise due, secured by a deed of trust, with the balance (at the rate in effect when originally due) payable on sale, transfer or placement of permanent financing. Separately, all City development impact fees are due at final inspection rather than permit issuance (Section 21-01.030), which is itself a cash-flow benefit, and water and sewer demand fees may use a Board of Public Utilities payment plan.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Only units under an affordability contract with the City or Housing Authority qualify.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Application must be filed with Planning and Economic Development at least 120 days before fees are due; each deferral agreement needs Council approval. No standing deadline.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Stacks with the Capital Facilities Fee pilot waiver (separate record) for remaining fees such as park and utility fees, and with the Housing Trust NOFA. The County's Multi-Family Development Fee Deferral Program (county record) applies only to unincorporated projects. Deferral agreements are not assignable without City Attorney consent, which matters when a LIHTC partnership takes title after entitlement. Read from the ecode360 mirror; the Housing Element implementation ordinance introduced December 2025 (PLN25-0397) amended Titles 20 and 21 but the redline was not reviewed for changes to this chapter.",
+      "source_url": "https://ecode360.com/42997580",
+      "record_id": "d7d3719534",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Rosa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Santa Rosa Affordable Housing Capital Facilities Fee Pilot Program (Resolution RES-2024-175) and 50% permit fee reduction for 100% deed-restricted projects",
+      "administering_agency": "City of Santa Rosa Planning and Economic Development Department with Housing and Community Services (deed restrictions through the Housing Authority)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Capital Facilities Fee (Chapter 21-04) set at $0 for new units deed-restricted through the Housing Authority at very low (0-50% AMI, including acutely and extremely low), low (50-80% AMI) and moderate (80-120% AMI) income levels, for building permits issued during the three-year pilot (adopted late 2024, runs until about late 2027 or adoption of a new CFF nexus study, whichever is first). The City's 2026 Prohousing renewal application also cites a 50 percent reduction in permit fees for projects in which 100 percent of units are deed-restricted affordable, and streamlined design review. The CFF for a multifamily unit is several thousand dollars, so the waiver is worth roughly $100,000 to $500,000 on a typical project (confirm with the current fee schedule).",
+      "per_unit_cap": "Per-unit waiver equal to the applicable CFF for each restricted unit; no dollar cap published.",
+      "affordability_requirement": "Units must be deed-restricted through the Housing Authority at the AMI categories above. Units receiving locally sourced financial assistance from the City or Housing Authority loan programs are NOT eligible for the CFF waiver.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies to building permits for vertical construction issued during the pilot period (three years from the late 2024 effective date of RES-2024-175, roughly through fall 2027, unless a new nexus study ends it sooner). Permit fee reduction has no stated sunset.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Key conflict: a project cannot take both the CFF waiver and a Santa Rosa Housing Trust NOFA loan, so model both paths; for a 100% affordable LIHTC deal the NOFA loan is usually larger than the CFF waiver, but the waiver has no competition and no application cycle. The waiver stacks with the Chapter 21-01 deferral of other impact fees, state density bonus and the County welfare exemption (county record). The County's 2025-2026 traffic and parks fee waiver (county record) applies only in unincorporated Sonoma County. Read from the resolution text included in the City's draft 2026 Prohousing Designation renewal application (Legistar matter 26-0547, Council hearing August 4, 2026); the City's designation expires January 1, 2027 and renewal is pending with HCD.",
+      "source_url": "https://legistar.granicus.com/santarosa/attachments/21130e8e-5174-46fe-8b07-7f926d718e3d.pdf",
+      "record_id": "1a4482981d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "conversion of temporary housing units approved under Section 20-16.030 to permanent units"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sonoma",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "City of Sonoma Affordable Housing Trust Fund (established May 2019, funded by 1% of Transient Occupancy Tax and inclusionary in-lieu fees)",
+      "administering_agency": "City of Sonoma City Manager's office and Planning Department; grants approved by City Council",
+      "funding_type": "grant",
+      "typical_award_size": "Small, case-by-case grants and loans approved by Council. Most recent award: $250,000 grant approved June 18, 2025 (agreement authorized July 16, 2025) to Burbank Housing toward acquisition and 55-year preservation of 18 units at Setzer Senior Apartments (8 units, 673 First St West) and Maysonnave Apartments (10 units, 270 First St East), leveraged with a $4.5 million BAHFA Housing Preservation Loan Pilot loan and San Francisco Housing Accelerator Fund financing; closed fall 2025. Revenue: Council approved on June 10, 2019 the final 1% of the Measure S TOT increase (TOT now 13%) effective September 1, 2019 to address affordable housing, estimated at the time at about $350,000 to $400,000 per year, plus in-lieu fees under Section 19.44.030. Press accounts put the balance at roughly $1.4 million to $1.9 million in 2025-2026; no City balance figure was opened.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Grant terms set per project; the 2025 preservation deal requires affordability for at least 55 years with rents averaging 30% of 80% AMI and tenants protected on modest income increases. The fund is earmarked for very low, low and moderate income housing (Section 19.44.030).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Requests go to City Council; the Council's 2026 priorities include creating a funding plan and policy for use of the Housing Trust Fund, so an allocation policy may be adopted in 2026-2027 (verify with the City Manager's office, (707) 938-3681).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Sonoma is a non-entitlement city inside the County's Urban County and County PLHA area, so projects in the city should combine this fund with County CFH, County HOME and CDBG, County PLHA, RED Housing Fund and County PBVs (county records); the 2025 Burbank deal shows the pattern with BAHFA regional preservation money. Housing Element Program 7 commits the City to pursue a Prohousing Designation and to request RED JPA membership in 2024 (status not confirmed). The City also runs an ADU fee waiver program (housing strategies page) and lists Policy H-4.6 fee waivers for affordable housing, but no multifamily fee waiver ordinance was found. Council staff reports on the civicweb portal could not be reached by meeting date; the City's press release and TOT page were used as sources.",
+      "source_url": "https://www.sonomacity.org/city-of-sonoma-preserves-18-affordable-homes-through-landmark-partnership",
+      "record_id": "5135fbfbb1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation",
+        "acquisition-rehab",
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

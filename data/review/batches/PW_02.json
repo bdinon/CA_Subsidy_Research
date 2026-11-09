@@ -1,0 +1,977 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Measure X Housing Fund (affordable housing development share)",
+      "administering_agency": "Contra Costa County Department of Conservation and Development (75% share); Health, Housing and Homeless Services (H3) administers the 25% services share",
+      "funding_type": "loan",
+      "typical_award_size": "Measure X is a countywide half-cent sales tax (Nov 2020, 20 years, began April 1, 2021). The Board committed $10,000,000 in year one and about $12,000,000 a year after; the County's Measure X allocation table shows the Local Housing Trust Fund line at $12,600,000 (FY 2023-24), $12,902,400 (FY 2024-25), $13,156,577 (FY 2025-26) and $13,306,957 (FY 2026-27), with a 20-year total near $258,000,000. Capital share available through the housing NOFA: $9,707,500 in FY 2025/26 (including $2,000,000 recaptured from Anton San Ramon) and $7,880,690 in FY 2026/27. FY 2026/27 awards: $5,380,690 to 949 Moraga Road (SAHA and Sunflower Hill, Lafayette, 47 IDD units) and $2,500,000 to Rumrill Commons (Novin, San Pablo, 39 units). Earlier: $5,000,000 to El Cerrito Plaza Parcel A South (Related, 69 units), $4,968,158 to Choice in Aging Senior Housing (SAHA, Pleasant Hill, 82 units, matched with $2,963,384 state LHTF), $1,770,958 to Village of Hope Pittsburg (Hope Solutions, 15 PSH cottages). Minimums: $500,000 for capital projects, $250,000 for renovation and microhome projects, $25,000 to $500,000 for predevelopment with no more than $1,000,000 a year for predevelopment (Board, Sept 16, 2025).",
+      "per_unit_cap": "None beyond the HOME per-unit subsidy table used to count Measure X-assisted units; recent awards range from about $72,000 to $118,000 per total unit.",
+      "affordability_requirement": "Priority to households at or below 50% AMI (designated target population); up to 80% AMI eligible. Rental loans 55 years; homeownership 20 years or more (80% AMI, 81% to 120% allowed). Grants only for pilot, innovation and capacity-building projects.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026-12-07 (FY 2027/28 NOFA with CDBG-Housing and HOME, applications due 5:00 PM). Loan agreement required within two years of contingent award; work must start within one year of loan execution; grants spent within two years.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County pages on www.contracosta.ca.gov refuse automated fetches (403); the same pages and DocumentCenter PDFs were opened on 2026-11-06 through the site's CivicPlus origin host (ca-contracostacounty3.civicplus.com), and Board reports were read through the contra-costa.legistar.com API. Largest discretionary local source in the 12 target counties. Same 3% simple, 55-year residual receipts terms as HOME, but no federal cross-cutting rules, so it is the preferred fill for projects inside cities without their own gap funds and for IDD, senior and farmworker deals. Predevelopment loans are not forgivable and must be repaid even if the project dies. The County used Measure X as the local match to win a $2,963,384 state Local Housing Trust Fund grant (FY 2024/25) and as match for Homekey awards (El Portal Place, $5,200,000). The 25% H3 share (about $4,068,983 in FY 2026/27) funds services, prevention and legal aid through a separate two-year RFP and is not capital. Awards are contingent on other commitments (Dec 31, 2027 for FY 2026/27 awards) and executed loans by June 30, 2028; the County recaptured $2,000,000 when Anton San Ramon stalled and pulled Harbor Pointe's Measure X request in May 2026. Measure X is County General Fund money, so state prevailing wage applies.",
+      "source_url": "https://www.contracosta.ca.gov/8750/Measure-X-Housing-Fund",
+      "record_id": "fbd2f7b0e8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership",
+        "predevelopment"
+      ],
+      "next_deadline_date": "2026-12-07",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: FY 2026/27 Measure X awards ($5,380,690 949 Moraga Road, $2,500,000 Rumrill Commons, $7,880,690 available), 50% AMI priority and 80% AMI eligibility, 20-year ownership term, $500,000 and $250,000 minimums, predevelopment $25,000 to $500,000 with $1,000,000 annual cap, and the December 7, 2026 deadline match. The year-by-year Measure X allocation table figures were not re-read. prevailing_wage_trigger true is uncited; the Guidelines leave state prevailing wage to the developer.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance In-Lieu Fee Fund (Chapter 822-4)",
+      "administering_agency": "Contra Costa County Department of Conservation and Development",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2026/27: $1,216,295 available; awards $1,000,000 to Orbisonia Village (Pacific West, Bay Point, 167 units) and $216,295 to Harbor Pointe (USA Properties, Discovery Bay, 168 units). FY 2025/26: $1,054,134 awarded. Fees come from unincorporated projects of five or more units that pay in lieu of building 15% affordable units; the fee is set annually by the Board (for rentals, the 55-year gap between average two-bedroom rent and the affordable rent; for sale units, the gap between the affordable price and the countywide median sale price).",
+      "per_unit_cap": "Mixed-income projects are capped at an award based on the number of 80% AMI or 50% AMI units that exceed the inclusionary requirement.",
+      "affordability_requirement": "New construction for households up to 80% AMI, unincorporated county only; preference for two-bedroom and larger units and for projects exceeding the inclusionary minimum. Cannot fund units required by density bonus or inclusionary obligations. Forgivable low-interest loan reconveyed after five years in service as affordable housing.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026-12-07 (included in the County housing NOFA when a balance exists; the FY 2027/28 NOFA names CDBG-Housing, HOME and Measure X, so confirm an in-lieu balance with DCD). FY 2026/27 awards required commitments by July 1, 2026 (Orbisonia) and Dec 31, 2027 (Harbor Pointe).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County pages on www.contracosta.ca.gov refuse automated fetches (403); the same pages and DocumentCenter PDFs were opened on 2026-11-06 through the site's CivicPlus origin host (ca-contracostacounty3.civicplus.com), and Board reports were read through the contra-costa.legistar.com API. Small and lumpy, about $1,000,000 to $1,200,000 a year, and limited to unincorporated areas (Bay Point, Discovery Bay, North Richmond, Rodeo, El Sobrante, Alamo). It was used as last-dollar construction money alongside Measure X and PLHA in Orbisonia Village, which also needed a July 1, 2026 close for its 4% credits. Public funds, so prevailing wage applies. The fee calculator and 2025 rent maximums are posted on the County ordinances page.",
+      "source_url": "https://www.contracosta.ca.gov/8702/State-and-Local-Funds",
+      "record_id": "50b4b2ad10",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": "2026-12-07",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: $1,216,295 available and awards to Orbisonia Village ($1,000,000) and Harbor Pointe ($216,295), unincorporated new construction at 80% AMI, forgivable loan reconveyed after five years and the density bonus or inclusionary exclusion all match. The FY 2027/28 NOFA covers CDBG-Housing, HOME and Measure X only. prevailing_wage_trigger true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Summer Lake Affordable Housing Fund (east county)",
+      "administering_agency": "Contra Costa County Department of Conservation and Development",
+      "funding_type": "loan",
+      "typical_award_size": "Balance of $913,438 as of 2026, fed by a $3,333 affordable housing fee on each new Summer Lake home collected by the City of Oakley and transferred to the County under the Cypress Corridor annexation Transition Agreement. FY 2026/27 awards: $413,438 construction loan to Harbor Pointe (Discovery Bay, 168 units) and $500,000 predevelopment loan to Casita Phase II (Hijas del Campo, Byron, 17 manufactured farmworker units) at 3% simple interest with a five-year term to start construction.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable housing in east Contra Costa County; the agreement asks the County to consider reserving 20% for projects in Oakley. Awarded through the County Affordable Housing Program, so County loan terms (55 years, 3% simple, residual receipts) apply to construction loans.",
+      "eligible_project_types": [
+        "new construction",
+        "predevelopment",
+        "farmworker housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026-12-07 (through the County housing NOFA when a balance exists). Casita Phase II predevelopment loan must be executed by June 30, 2028.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A geographic set-aside, not a standing program, but it is real money for Oakley, Brentwood, Discovery Bay, Byron and Bay Point projects and the County used it in 2026 to fill requests that Measure X could not. Public funds, so prevailing wage applies. Documented in the May 19, 2026 Board report (file 26-2203) read through the Legistar API.",
+      "source_url": "https://contra-costa.legistar.com/LegislationDetail.aspx?ID=18528&GUID=B677C887-8ECE-4F9B-9304-3E2A7F242109&Options=&Search=&FullText=1",
+      "record_id": "86f8392c92",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "predevelopment",
+        "farmworker housing"
+      ],
+      "next_deadline_date": "2026-12-07",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: May 19, 2026 Board staff report (Legistar 18528) confirms the $913,438 SLAH balance (the item title says $916,438), the $3,333 per-home fee, east county use with 20% Oakley consideration, $413,438 to Harbor Pointe and $500,000 predevelopment to Casita Phase II at 3% simple with a 5-year term and a June 30, 2028 commitment deadline. DCD NOFA page confirms FY 2027/28 applications due December 7, 2026; Guidelines Section 7 confirms 3% simple, 55-year, residual receipts loan terms. prevailing_wage_trigger true has no cited rule; Guidelines Section 8 addresses federal prevailing wage for CDBG and HOME only.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Contra Costa Urban County entitlement",
+      "administering_agency": "Contra Costa County Department of Conservation and Development (HCD entitlement grantee for the Urban County)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD 2024-2028 Formula Allocation NOFA: Contra Costa County CY 2024 $1,523,318 and CY 2025 $1,631,698; 2024-2028 five-year estimate $9,520,738. The $13,021,068 figure in Resolution 2026-406 (Oct 20, 2026) is the five-year estimate for the earlier 2020-2023 allocation cycle, adopted to amend that Five-Year Plan for the owner-occupied workforce housing rule. FY 2025/26 allocation $1,860,477 with $1,767,453 to projects after 5% administration; FY 2024/25 award $1,876,423 to El Cerrito Plaza Parcel A South; FY 2022/23 award $1,000,000 to Choice in Aging Senior Housing and $1,650,000 to Rumrill Commons. Earlier HCD awards: $3,373,129 (2022) and $2,170,178. Antioch, Concord, Pittsburg and Walnut Creek receive separate PLHA entitlements (Pass 3).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Activity 1: rental development for extremely low to low income households as low-interest deferred loans with a 55-year regulatory agreement, priority to units at or below 60% AMI, awards counted on units at 80% AMI or below. The 2024 HCD NOFA requires 40% of funds for affordable owner-occupied workforce housing (Activity 9: down payment assistance, homeowner rehab, 80% to 120% AMI).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Rental PLHA is awarded through the County housing NOFA in years with a balance; the FY 2027/28 NOFA (due 2026-12-07) lists CDBG-Housing, HOME and Measure X only, so ask DCD whether PLHA will be added. HCD formula allocations arrive annually.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County pages on www.contracosta.ca.gov refuse automated fetches (403); the same pages and DocumentCenter PDFs were opened on 2026-11-06 through the site's CivicPlus origin host (ca-contracostacounty3.civicplus.com), and Board reports were read through the contra-costa.legistar.com API. Roughly $1,500,000 to $1,900,000 a year, now split with 40% to homeownership under the state's 2024 workforce housing rule, so the rental share is under $1,000,000 a year. Used as a companion to Measure X in El Cerrito Plaza (7 PLHA units of 69) and Choice in Aging. State funds with County loan terms, so prevailing wage applies. State regulations require commitment and occupancy deadlines (Choice in Aging PLHA must be occupied by 2030). The County's PLHA Five-Year Plan narrative (Sept 2025) is attached to Resolution 2026-406 on Legistar.",
+      "source_url": "https://www.contracosta.ca.gov/8702/State-and-Local-Funds",
+      "record_id": "13a9c2c042",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": "2026-12-07",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: prevailing_wage_trigger true is uncited; the PLHA Guidelines and NOFA state no prevailing wage requirement.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance (Ch. 822-4) and Residential Density Bonus Ordinance (Ch. 822-2)",
+      "administering_agency": "Contra Costa County Department of Conservation and Development, Community Development Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Inclusionary: 15% of units in unincorporated projects of five or more units must be affordable (rental: 20% of those at very low income, remainder lower income; for-sale: 20% lower, remainder moderate), 55-year rental term, with in-lieu fee, off-site units or land dedication as alternatives. Density bonus: up to 15% for providing the required inclusionary units (822-2.402), with state law bonuses under Government Code 65915 for units beyond the requirement, land donation and child care, and incentives or concessions per 65915(d)(2). Incentives for inclusionary compliance (822-4.418(c)) may include fee deferrals or waivers, housing set-aside funds, tax-exempt financing and zoning modifications at County discretion.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Inclusionary units: 55 years for rentals; for-sale units owner-occupied with resale controls and County recapture. Density bonus target units: 30 years or longer if required by financing (822-2.410); density bonus housing agreement recorded against the property.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; applies by right to unincorporated projects at entitlement. Developer agreements are approved by the Board (for example Grayson Road and Walnut Estates density bonus and inclusionary agreements, April 2026). Confirm current code text with DCD; the County code is hosted on Municode (blocked to automated access), and the mirror read for this record was Zoneomics.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "County pages on www.contracosta.ca.gov refuse automated fetches (403); the same pages and DocumentCenter PDFs were opened on 2026-11-06 through the site's CivicPlus origin host (ca-contracostacounty3.civicplus.com), and Board reports were read through the contra-costa.legistar.com API. The ordinance text itself was read on the Zoneomics mirror of the County Ordinance Code. In-lieu fees from this chapter feed the County's In-Lieu Fee Fund (separate record). A 100% affordable project is exempt from the inclusionary requirement and takes the state density bonus and concessions directly; the County's density bonus submittal checklist and 2025 rent maximums are on the County ordinances page. In-lieu funds cannot be used for units that satisfy inclusionary or density bonus obligations. Density bonus alone does not trigger prevailing wage.",
+      "source_url": "https://www.contracosta.ca.gov/8544/County-Ordinances-for-Affordable-Housing",
+      "record_id": "3c4e24e351",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "Tier 4 spot check November 9, 2026: the source URL host (contracosta.ca.gov) returns 403; the identical page on ca-contracostacounty3.civicplus.com confirms 15% affordable in projects of five or more units, very low, lower and moderate targets, and in-lieu fee, off-site and land conveyance alternatives, and the May 19, 2026 Board staff report (Legistar 18528) restates the 15% and five-unit rule. Tenure splits and 822-2.402 and 822-2.410 details were not re-read (Municode blocked, Zoneomics page not found).",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Richmond/Contra Costa County Continuum of Care (CA-505) and HHAP",
+      "administering_agency": "Contra Costa Health, Health, Housing and Homeless Services Division (H3), CoC lead and HHAP grantee; Contra Costa Council on Homelessness is the CoC board",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 6: $6,708,895 (County $3,244,119 plus CoC $3,464,775), state agreement ratified May 12, 2026, term through June 30, 2030. HHAP Round 5: $6,683,382 (County $3,272,469, CoC $3,410,913), agreement approved March 11, 2025. State accountability site: $28,900,000 in HHAP rounds 1 to 5 awarded to the Contra Costa area, $18,300,000 spent by June 2025; Encampment Resolution Funding $5,700,000 to the County. HUD CoC program FY 2024 awards to CA-505: $11,522,492, including $8,638,557 for Contra Costa tenant-based rental assistance and $1,960,996 for ACCESS. State ESG CoC allocation $304,250 (2024). Homekey history: Delta Landing, Pittsburg (172 interim units, $21,500,000 Homekey), El Portal Place, San Pablo (54 PSH micro-units, $16,000,000 Homekey plus $5,200,000 Measure X). Homekey+: $1,500,000 standard agreement for five PSH units at County-owned Sherman Terrace, Pleasant Hill (Oct 6, 2026); $30,000,000 joint application with SAHA for Choice in Aging Senior Housing (June 9, 2026).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Households experiencing or at risk of homelessness per HUD and state definitions; CoC permanent housing requires Coordinated Entry referrals. HHAP Round 6 must obligate 75% and spend 50% by June 30, 2027.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026 CoC NOFO priority listing approved Aug 6, 2026 (HUD awards expected winter 2026-27); the Council on Homelessness runs the local competition each summer. HHAP is allocated by state round with no local NOFA; H3 contracts HHAP to operators (Delta Landing, Hope Solutions, BACS, Catholic Charities) through Board-approved contracts.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "HHAP money in Contra Costa goes to interim housing operations, rapid rehousing and prevention, not capital, so treat H3 as the services and operating partner for PSH rather than a gap lender. CoC TBRA ($8,600,000 a year) is being converted to HACCC project-based vouchers where possible, which is how new PSH buildings get a long-term subsidy. Homekey and Homekey+ awards have run through H3 for County-owned sites and through DCD for developer sites. The Council on Homelessness agendas (contra-costa.legistar.com) carry the CoC NOFO schedule. Figures from the May 12, 2026 Board report (file 26-1970), HCD HHAP award lists, the HUD FY 2025 CoC award report and accountability.ca.gov.",
+      "source_url": "https://contra-costa.legistar.com/LegislationDetail.aspx?ID=18435&GUID=46CBC2FD-FCDD-474F-880A-0CD959112973&Options=&Search=&FullText=1",
+      "record_id": "5e9b1e47a4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: Board item (Legistar 18435) confirms ratification on May 12, 2026 of HHAP-6 agreement 28-963-7 (25-HHAP-10006) for $6,708,895 through June 30, 2030; the HCD HHAP-6 Contra Costa regional application shows $6,708,894.47 administered by the County. The County and CoC split, HUD CoC, Homekey and Homekey+ figures were not re-read. prevailing_wage_trigger true has no cited rule; HHAP-6 is planned for services and interim housing operations.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) housing interventions, Contra Costa Behavioral Health",
+      "administering_agency": "Contra Costa Health, Behavioral Health Services Division (CCBHS), with H3 and DCD for capital awards",
+      "funding_type": "grant",
+      "typical_award_size": "Integrated Plan FY 2026-29 approved by the Board March 17, 2026. Estimated housing intervention funding (BHSA plus MHSA carryover): $41,688,148 in FY 2026-27, $37,553,061 in FY 2027-28, $38,543,498 in FY 2028-29; planned housing expenditures $32,515,162, $35,491,761 and $36,458,704. Capital development share 14.1% in year one (about $4,600,000) then 3.8% and 3.7%; 50% of housing funds dedicated to chronically homeless people; no exemptions requested. First capital awards: $2,250,000 BHSA grant to Village of Hope Pittsburg (Hope Solutions, 15 PSH cottages for transition-age youth, approved June 23, 2026, documents Aug 11, 2026) and BHSA operating and development commitments for Sherman Terrace Homekey+ (five PSH units, Pleasant Hill). No Place Like Home: Legacy Court, Richmond (13 NPLH units, Community Housing Development Corp., MOU Oct 7, 2025).",
+      "per_unit_cap": "Capital development limited to 25% of the housing interventions component by statute; the County planned 14.1% in year one.",
+      "affordability_requirement": "Adults and transition-age youth with serious mental illness or substance use disorder who are chronically homeless, homeless or at risk; Housing First; CCBHS client eligibility and referral. Capital grants carry occupancy preferences (five of 15 units at Village of Hope) and no repayment if the project is completed.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standing capital NOFA; the two 2026 capital awards were negotiated with CCBHS and brought to the Board. Annual plan updates each spring; ask CCBHS about year two and three capital (about $1,300,000 a year at the planned share) and about project-based operating subsidies and rental subsidies for PSH units.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Contra Costa's BHSA housing pot (about $32,000,000 to $36,000,000 a year in spending) is now the largest county-controlled housing source, but most of it is rental subsidies, operating subsidies and services. The capital slice was front-loaded into FY 2026-27 and mostly committed (Village of Hope, Sherman Terrace). The practical ask for a PSH sponsor is a BHSA operating or rental subsidy commitment plus services, layered on HACCC PBVs and Measure X or HOME capital. State funds, so capital grants trigger prevailing wage. Plan read from the Board attachment (CCC Integrated Plan 2.27.26) on Legistar.",
+      "source_url": "https://contra-costa.legistar.com/LegislationDetail.aspx?ID=17141&GUID=8EE28BF6-DB8D-4F15-8221-F8E8DE37EA16&Options=&Search=&FullText=1",
+      "record_id": "7f1b2ff776",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: Integrated Plan attachment confirms housing intervention funding of $41,688,148, $37,553,061 and $38,543,498, expenditures of $32,515,162, $35,491,761 and $36,458,704, capital shares of 14.1%, 3.8% and 3.7% and 50% to chronically homeless; Legistar items of June 23, 2026 and August 11, 2026 confirm the $2,250,000 BHSA grant to Village of Hope Pittsburg. prevailing_wage_trigger true has no cited rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Housing Successor Low and Moderate Income Housing Asset Fund and surplus land (former Contra Costa County Redevelopment Agency)",
+      "administering_agency": "Contra Costa County Department of Conservation and Development, as Housing Successor",
+      "funding_type": "land",
+      "typical_award_size": "Housing Fund balance about $8,700,000 at June 30, 2025, of which about $6,600,000 is pre-dissolution bond proceeds restricted to affordable housing; FY 2024-25 revenue $756,175 from loan payments, interest and land sales; $382,774 spent on monitoring and administration. The County holds former redevelopment land in Bay Point (near Pittsburg/Bay Point BART), North Richmond and Rodeo and solicits developers through RFPs (Heritage Point, 42 units, and Bay Point Senior, Eden Housing, 80 units, came from these parcels). No County loans between the Successor Agency and the County remain outstanding.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Health and Safety Code 34176.1: funds for households at or below 80% AMI with at least 30% for extremely low income over each five-year period; land disposed for affordable housing with recorded covenants (55 years rental).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Watch the County's Development Opportunities page and Board agendas for Bay Point and Rodeo parcel RFPs; the FY 2024-25 Housing Successor report (SB 341) was filed in 2026 and the next is due with the FY 2025-26 financial report.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County pages on www.contracosta.ca.gov refuse automated fetches (403); the same pages and DocumentCenter PDFs were opened on 2026-11-06 through the site's CivicPlus origin host (ca-contracostacounty3.civicplus.com), and Board reports were read through the contra-costa.legistar.com API. Land is the main asset: County-owned sites in Bay Point and Rodeo have been offered at nominal cost with the County as a co-applicant for state funds, and sale proceeds are recycled into affordable housing. The $6,600,000 in old bond proceeds is a one-time pot that could fund site work or gap loans on those parcels. Public land and funds trigger state prevailing wage. Report read from the County DocumentCenter (Contra Costa County Housing Successor Report 2024-25). Audit November 8, 2026: funding_type set to land. The FY 2024-25 SB 341 report shows the Housing Successor's deployable value is mainly former redevelopment land conveyed through DDAs, ENAs and Surplus Land Act processes (Orbisonia Heights/Village DDA), with no project loans or project expenditures in FY 2024-25; the $6.67 million in bond proceeds held by the fiscal agent could still fund gap loans on those sites.",
+      "source_url": "https://www.contracosta.ca.gov/DocumentCenter/View/90514/Contra-Costa-County-Housing-Successor-Report-2024-25-PDF",
+      "record_id": "2c948ba61d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "land disposition"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Concord",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Concord Affordable Housing Fund and Concord Housing Fund (Housing Successor Low and Moderate Income Housing Asset Fund, SB 341 report FY 2024/25)",
+      "administering_agency": "City of Concord Housing and Community Services Division (Housing Successor to the former Concord Redevelopment Agency)",
+      "funding_type": "loan",
+      "typical_award_size": "Housing Successor fund at June 30, 2025: available cash $3,063,558; FY 2024/25 deposits $1,020,949 (including a $615,049 Pavilion loan repayment and $222,705 in loan payoffs); FY 2024/25 expenditures $596,214 (mostly $334,957 in first-time homebuyer loans; no multifamily loan issued); housing loans receivable $33.9 million. The 2023 Housing Element reported a combined Housing Trust Fund balance of about $6.2 million including inclusionary in-lieu fees. Track record: Spring 2018 NOFA offered $14 million of City Affordable Housing Funds and awarded $7.8 million to Resources for Community Development for the 62-unit Rick Judd Commons at 1313-1321 Galindo Street (opened 2025). The Housing Element committed to another NOFA by December 2025 for the remaining funds, including acquisition-rehab of existing affordable complexes; as of November 2026 the City's Affordable Housing Toolkit states there is currently no affordable housing development funding available and invites acquisition-rehab proposals to the Housing Manager.",
+      "per_unit_cap": "None published; 2018 awards ran about $126,000 per unit.",
+      "affordability_requirement": "Housing Successor funds must follow Health and Safety Code 34176.1: at least 30% to rental housing for households at or below 30% AMI, no more than 20% for 60% to 80% AMI, balance at or below 60% AMI; the City's five-year extremely-low-income test (July 2020 to June 2025) showed 0% spent on ELI rental housing, so the next multifamily award is likely to be steered to ELI units. City-funded projects carry long-term regulatory agreements (Rick Judd Commons is 55 years).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA open as of 2026-11-08; the Housing Element's December 2025 NOFA target was not met. Watch Council Housing and Economic Development Committee agendas (stream2.ci.concord.ca.us OnBase agenda portal) for a NOFA tied to the next TCAC rounds; contact Sophia Huckabay, Housing Manager, 925-671-3387.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Concord's own fund is modest (about $3 million liquid in the successor fund plus in-lieu balances) and is best used as the local match that unlocks County HOME, CDBG-Housing and Measure X awards (county records: Contra Costa County Affordable Housing Program, Measure X Housing Fund). Lakeside Recapitalization (RCD, Concord) received $2 million County HOME in May 2026 without City funds, showing County money can lead. The City's Resources for Housing Developers page points developers first to County Measure X and HCD. Gap order for a Concord deal: 4% credits and bonds, County HOME or Measure X, then a City successor-fund loan sized to the ELI set-aside, plus fee deferral under CDC 18.185.040(G). The OnBase agenda portal is JavaScript-only, so 2025 and 2026 council items could not be scanned for a NOFA; status taken from the Toolkit page (https://www.cityofconcord.org/1174/Affordable-Housing-Toolkit) and the SB 341 report (source_url).",
+      "source_url": "https://www.cityofconcord.org/DocumentCenter/View/14401/Housing-Successor-Annual-Reporting-Requirements-FY2025",
+      "record_id": "3a3bc373b2",
+      "cycle_notes": "acquisition-rehab inquiries; no open NOFA",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Concord",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Concord Affordable Housing Incentive Program (CDC 18.185.060), Density Bonus Program (CDC 18.185.050) and Transit Station Overlay density increase",
+      "administering_agency": "City of Concord Community Development Department, Planning Division (zoning@cityofconcord.org, 925-671-3152)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory incentive, not a cash subsidy. Local alternative to state density bonus law for projects with at least 40% affordable units on parcels of 10,000 square feet or more in RM, RH, CO, NC, CMX, DMX and DP districts: RM density rises from 32 to about 45 units per acre (1 unit per 970 square feet, a 40% bonus), RH from 100 to about 145 units per acre (45% bonus), NC from 24 to about 33 units per acre plus FAR increases; reduced parking and other standard modifications; bonuses under 18.185.060 are not additive with 18.185.050. Separately, the Transit Station Overlay District grants a 25% density and floor area increase (Housing Element program to make it by right with objective standards). State-law density bonuses (Gov. Code 65915) are processed by the Community Development Department under 18.185.050; written findings are required to deny; an affordable housing agreement is recorded before building permit.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "18.185.060 rental eligibility: at least 20% of units at very low income plus another 20% at low or very low income (40% total); for-sale: 20% at low or very low plus 20% at up to 100% AMI. 18.185.050 follows state density bonus thresholds.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; no deadline. Concord completed its AFFH rezoning (at least 1,000 lower-income units of capacity in higher-resource areas) in March 2026 and allows multifamily by right in commercial and mixed-use districts when objective design standards are met.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The 40% affordability threshold for the local incentive program is high, so most mixed-income projects use state density bonus law instead; 100% affordable projects (which qualify for an 80% state bonus or unlimited density near transit) get the most value from the local program's FAR and parking relief in downtown districts. No City fee waiver program exists; fee deferral to first occupancy is available under 18.185.040(G) by affordable housing agreement. Pair with the County's conduit bond issuer and HACCC project-based vouchers (county records). codepublishing.com returned 403; chapter text read on the zoneomics mirror (source_url) and confirmed against the City's Affordable Housing Toolkit page.",
+      "source_url": "https://www.zoneomics.com/code/concord-CA/chapter_4",
+      "record_id": "d825cef41b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Concord",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Concord surplus and underutilized public land for affordable housing (Concord Town Center II at 1765 Galindo Street, Downtown Parcels at Laguna and Mount Diablo Streets, Housing Element surplus land program)",
+      "administering_agency": "City of Concord Housing and Community Services Division and Planning Division (surplus land inventory, Housing Element sites program)",
+      "funding_type": "land",
+      "typical_award_size": "Land contribution rather than cash. City-owned surplus sites declared May 24, 2022: Concord Town Center II, 1765 Galindo Street, 3.1 vacant acres zoned DMX, Housing Element site for 309 lower-income units and an MTC Priority Site; the City issued an RFP in January 2025 and as of November 2025 is negotiating with a selected developer for sale and entitlement. Concord Downtown Parcels 1 (Mount Diablo Street, 3.2 acres, 304 lower-income units) and 2 (Oak Street, 1.1 acres, 106 lower-income units) are surplus DMX sites with an MTC technical assistance grant studying street vacations. BART's Monument Boulevard property (8.2 acres, 782 mixed-income units) is in BART's 2029-2033 solicitation window. The City committed that surplus land used for housing will provide at least 25% of units affordable to lower-income households and to notify a developer list before any disposal.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Minimum 25% lower-income units on City surplus land (Surplus Land Act and Housing Element program); the Galindo and Downtown sites are inventoried for lower-income RHNA capacity, so deeper affordability is expected in dispositions.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Town Center II negotiations under way as of November 2025; Downtown Parcels RFP timing depends on the street-vacation study. Join the City's housing interested-parties list (FormCenter link on the Housing and Community Services page) for Surplus Land Act notices.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "City land write-downs are the main way Concord adds local value to a deal given its small housing fund; a land contribution plus a City successor-fund loan, County HOME or Measure X and a HACCC PBV allocation is the realistic stack. Public land dispositions trigger Surplus Land Act procedures and, with any City financial participation, prevailing wage under Labor Code 1720. Inventory read from the City's publicly owned and surplus sites list (source_url), linked from the Affordable Housing Toolkit page.",
+      "source_url": "https://www.cityofconcord.org/DocumentCenter/View/14298/Public-sites-Inventory",
+      "record_id": "8b6f80dd38",
+      "cycle_notes": "RFP-driven; one site under negotiation",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Richmond",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Richmond Affordable Housing Fund (RMC 15.04.603.130; inclusionary in-lieu and linkage fee revenue)",
+      "administering_agency": "City of Richmond Community Development Department, Housing Division",
+      "funding_type": "loan",
+      "typical_award_size": "Dedicated local fund receiving all in-lieu fees, linkage fees and related revenue under Article 15.04.603. Known deposits: $803,055 (2020) and $677,194 (2021) in in-lieu fees; the only reported expenditures in 2020-2021 were $69,165 for legal services on the ordinance amendments, so the fund has been accumulating. Eligible uses: land acquisition, predevelopment, rehabilitation with added affordability restrictions, new construction, administration and compliance monitoring. No published NOFA, loan guidelines or current balance were found; the Housing Element requires the balance and expenditures to be reported in each Annual Progress Report.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Extremely low, very low, lower and moderate income households and special needs populations; long-term affordability covenants expected to match the inclusionary terms (55 years rental).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency. Ask the Housing Division for the current fund balance (reported in the City's Housing Element Annual Progress Report each spring) and whether Council has set award guidelines.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small but growing local source (likely several million dollars by 2026) with no competing formal process, so an early developer request to the Housing Division and Council can secure it as predevelopment or gap money alongside County HOME and Measure X (county records), HACCC project-based vouchers and the County conduit bond program. Richmond's recent large deals relied on State and County money (Trinity Plaza received $2.5 million County CDBG and $1.5 million HOME in May 2026; the Civic Center Homekey conversion carries a City loan increased to $10.3 million in February 2026 from other City sources). Fund mechanics were read from the adopted Housing Element (source_url) because City ordinance pages redirect to a login and Municode is blocked.",
+      "source_url": "https://www.ci.richmond.ca.us/ArchiveCenter/ViewFile/Item/12751",
+      "record_id": "53bddfeab5",
+      "cycle_notes": "no published NOFA; request through the Housing Division",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Richmond",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Richmond Low and Moderate Income Housing Assets Fund (Housing Successor to the Richmond Community Redevelopment Agency; Housing Element Program 2.C)",
+      "administering_agency": "City of Richmond as Successor Agency to the Richmond Community Redevelopment Agency, Housing and Community Development (HCD) Division, 450 Civic Center Plaza",
+      "funding_type": "loan",
+      "typical_award_size": "Housing successor assets (real property, bond proceeds, loan and rent payments) used for affordable housing. Track record: funded development of Miraflores Senior Housing (80 units, completed June 2018, leased by August 2019, with 79 Richmond Housing Authority project-based vouchers) and about $1.1 million toward the RAD renovation of Friendship Manor and other former public housing. No current balance or SB 341 report was found online; the City is required to publish one annually.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Health and Safety Code 34176.1 targeting: at least 30% of expenditures for rental housing at or below 30% AMI, no more than 20% for 60% to 80% AMI, balance at or below 60% AMI; 55-year covenants on successor-funded rental housing.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency. Request the latest SB 341 Housing Successor annual report from the Housing Division; Housing Element Program 2.C commits the City to seek new sources (including social impact bonds) for low-mod housing assets on an ongoing basis.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Richmond's former redevelopment areas (Iron Triangle, Harbour, Hilltop, Nevin) left land assets that the City can contribute to deals; Nevin Plaza Phase II (EAH, 76 units) and the Hacienda Apartments rehabilitation (150 units, CDBG-assisted) are current examples of City-assisted projects. Successor funds stack with HOME, Measure X and the County conduit bond program (county records) and with HACCC project-based vouchers, which now administer the former Richmond Housing Authority voucher program. The Successor Agency web page (https://www.ci.richmond.ca.us/97/Successor-Agency-To-Redevelopment) was opened but is dated (2015-2016 Oversight Board materials); program details were read from the adopted Housing Element (source_url). Audit November 8, 2026: funding_type set to loan; the fund also holds land, so a Richmond deal may receive a land contribution rather than cash. No SB 341 report for Richmond was found online.",
+      "source_url": "https://www.ci.richmond.ca.us/ArchiveCenter/ViewFile/Item/12751",
+      "record_id": "0a22135712",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Reclassified from other to loan under the audit rule for housing successor funds that invest in development; the Housing Element says the Low-Mod Fund (real and personal property, bond proceeds, rent payments) funded Miraflores and $1.1 million of Friendship Manor and Triangle Court RAD renovation but does not state loan terms or a current balance.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Richmond",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Richmond Affordable Housing Density Bonus (RMC Article 15.04.602) and Housing Element Program 3.D",
+      "administering_agency": "City of Richmond Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory incentive, not a cash subsidy. Article 15.04.602 implements state density bonus law; the Housing Element acknowledges the article lagged recent state amendments (AB 2345 and later) and commits the City to apply current state law directly and to update the ordinance (target fourth quarter 2025). Richmond also eliminated parking minimums near transit under AB 2097 (Program 1.L), offers expedited review for housing (Program 1.E), objective design standards in the form-based code (Program 3.C), and inclusionary incentives such as unit clustering and smaller unit types. No local bonus above state law.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus law thresholds (Gov. Code 65915); density bonus units with qualifying affordability count toward Richmond's inclusionary requirement.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; ordinance conformance update was targeted for fourth quarter 2025, verify adoption with the Planning Division.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local housing trust fund NOFA, fee waiver program or local density bonus enhancement exists beyond state law in Richmond; the City's development impact fees are being converted to per square foot (Program 2.B, by 2027) which helps smaller units. Stack state density bonus with County conduit bonds, HOME and Measure X (county records) and the City's Affordable Housing Fund. Source is the adopted Housing Element (source_url); the City's Housing Element Progress page (https://www.ci.richmond.ca.us/4836/Housing-Element-Progress) shows 1,016 units entitled and 326 permitted through December 2024, 65% of entitled units at or below 80% AMI.",
+      "source_url": "https://www.ci.richmond.ca.us/ArchiveCenter/ViewFile/Item/12751",
+      "record_id": "793389d71a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Antioch",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Antioch Inclusionary Housing Ordinance (proposed AMC Title 9, Chapter 5, Article 43) and Inclusionary Housing Trust Fund (not adopted; continued into the General Plan Update on March 10, 2026)",
+      "administering_agency": "City of Antioch Community Development Department, Planning Division (Zoe Merideth, Planning Manager, 925-779-6159)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy, and not in effect. Proposed terms: all residential projects of 5 or more units citywide; 15% of units affordable (10% very low income, 5% low income) in perpetuity; in-lieu fee $202,500 per required unit not built (PlaceWorks financing-gap method: $440,000 Antioch development cost per unit times a 46.02% countywide gap), adjusted each July 1 by CPI and due at building permit; an Inclusionary Housing Trust Fund with administrative guidelines (new construction, preservation, acquisition-rehab, ADUs, predevelopment loans, land purchase, homebuyer assistance) and an annual compliance monitoring fee. The Planning Commission recommended adoption 4-0 on February 4, 2026 (Resolution 2026-02, asking for Antioch resident priority, union preference and ELI priority). On March 10, 2026 the City Council voted 4-1 to continue the IHO into the broader General Plan Update instead of adopting it.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Proposed: 15% of units at very low (10%) and low (5%) income, affordable in perpetuity, with units at least 90% of market-rate unit size and the same bedroom mix.",
+      "eligible_project_types": [
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No adoption date. Track the Antioch General Plan Update (antioch.generalplan.org) for the inclusionary and trust fund components; a review every two years after adoption was proposed and would set the first in-lieu fee review.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Antioch currently has no inclusionary requirement, no in-lieu fee and no local housing trust fund, so market-rate developers face no affordable obligation and affordable developers have no City trust fund to apply to; the only City money is Housing Successor and PLHA (separate record). If adopted later, the $202,500 per unit fee would be the highest flat fee in the county (Pleasant Hill charges $271,350; Concord $15.10 to $20.13 per square foot; Walnut Creek $26.04 per square foot; San Ramon $15.16 per square foot for small projects). The County's Chapter 822-4 ordinance does not apply inside Antioch. antiochca.gov returns 403 to automated access; the ca-antioch.civicplus.com mirror serves the same pages, and the full March 10, 2026 council packet (399 pages, including Attachment G countywide fee comparison) was read at source_url.",
+      "source_url": "https://ca-antioch.civicplus.com/AgendaCenter/ViewFile/Agenda/_03102026-1816",
+      "record_id": "aa5ac01823",
+      "cycle_notes": "not adopted; folded into the General Plan Update",
+      "eligible_project_detail": [
+        "market-rate residential projects of 5 or more units (compliance, if adopted)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Walnut Creek",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "needs_confirmation",
+      "program_name": "Walnut Creek Local Housing Trust Fund and Affordable Housing Subsidy Request for Proposals (annual developer RFP; FY26 round October to December 2025)",
+      "administering_agency": "City of Walnut Creek Housing Division (Housing Programs), Community and Economic Development Department; contact brynen@walnutcreekca.gov",
+      "funding_type": "loan",
+      "typical_award_size": "The City maintains a Local Housing Trust Fund fed by housing in-lieu fees and commercial linkage fees and projects about $16 million available over the 2025-2029 Consolidated Plan period, with $4.14 million in general and local funds also programmed for housing and community services. Track record: $5 million to St. Paul's Commons (44 units, 2019) plus a $366,642 City fee waiver; $400,000 plus later gap funding to Riviera Family Apartments; $5,150,000 to Habitat for Humanity's 42-unit Las Juntas ownership project; acquisition, predevelopment and development funding for the 95 to 97 unit Civic Crossing at 699 Ygnacio Valley Road (TCAC application CA-24-649 shows $10.5 million of City funds); $300,000 per year budgeted for first-time homebuyer loans. The City's developer page (not opened, 403) describes an FY26 Affordable Housing Subsidy RFP open October 14 to December 19, 2025, Council review March to April 2026 and award notification May 2026; Council retains sole discretion to fund one, several or no projects.",
+      "per_unit_cap": "None published; past awards ran about $110,000 to $120,000 per unit.",
+      "affordability_requirement": "Projects must be within Walnut Creek city limits and consistent with the Housing Element; 55-year City regulatory agreements on rental projects; priority to extremely low, very low and low income and special needs households; all other funding sources must be identified before disbursement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round confirmed as of November 8, 2026. The FY26 RFP closed December 19, 2025 with awards expected May 2026 (outcome not confirmed); prior rounds opened in October and November, so an FY27 RFP is expected in fall 2026 or early 2027. Confirm with the Housing Division since the City website blocks automated access.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The strongest city-level gap source in Contra Costa outside the County itself: Walnut Creek routinely commits $5 million to $10 million per project, equal to or above County HOME awards, and pairs it with fee waivers and expedited processing. Stack order for a Walnut Creek deal: City subsidy RFP award and fee waiver first (secures local commitment for TCAC tie-breaker), then County HOME or Measure X (county records; Civic Crossing also received $6.8 million County funds), then 4% credits and County or CMFA conduit bonds. The City is also pursuing a Prohousing Designation (program page exists but was not opened) which adds points in State NOFAs. The City is the Housing Successor for its former redevelopment agency but reported minimal boomerang funds. Because walnutcreekca.gov and its PDFs returned 403 (RFP document and developer page not opened), the fund description is taken from the City's 2025-2029 Consolidated Plan strategic plan posted by Contra Costa County (source_url) and the HCD-hosted Housing Element; RFP dates come from search snippets of the City page and need confirmation.",
+      "source_url": "https://www.contracosta.ca.gov/DocumentCenter/View/86762/WC-Strategic-Plan-Draft",
+      "record_id": "317b292ce3",
+      "cycle_notes": "annual fall RFP since November 2023 (no rolling applications); FY27 round status not confirmed",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "affordable ownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08",
+      "audit_note": "walnutcreekca.gov pages and RFP PDFs return 403 to curl and WebFetch, so RFP dates and track-record awards could not be read on an official page; only the $16 million trust fund estimate and $4.14 million local funds were confirmed in the Consolidated Plan strategic plan."
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Ramon",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "San Ramon Affordable Rental Housing Fee Waiver Policy (adopted October 11, 2022) for 100% affordable rental projects",
+      "administering_agency": "City of San Ramon Community Development Department, Planning and Building Divisions",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Waiver of development impact fees and a capped waiver of City service fees for rental projects in which all units are affordable to households at or below 80% AMI. Impact fee waiver options: City Traffic Impact Fee, School Age Child Care Fee, Park and Recreation Facility Impact Fee, Private Sector Art and Beautification Fee, Open Space Development Impact Fee, Specific Plan Recovery Fees, General Plan Recovery Fee, Zoning Ordinance Recovery Fee and the Tri-Valley Transportation Development Fee (already waived for affordable units). City service fee waivers (building plan check and inspection, planning plan check, engineering plan check and inspection) capped at 25%. City example: a typical 100-unit affordable project receives about $24,000 per unit in impact fee waivers and $5,865 per unit in service fee waivers, over $2.5 million total. The City counts waived fees as local match for State funding applications; value calculated at building permit.",
+      "per_unit_cap": "About $24,000 per unit impact fees plus about $5,865 per unit service fees (City example); actual amount depends on unit mix and fees in effect at permit.",
+      "affordability_requirement": "100% of units (except managers' units) affordable to households at or below 80% AMI under a recorded affordable housing or density bonus agreement; San Ramon's 2026 rent table caps 80% AMI rents at $2,376 (1 person) to $3,938 (6 persons).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at building permit issuance; no application deadline. The Canopy (BR 8) Eden Housing project (161 units, 2026 entitlements) and Eden's 2453 Camino Ramon project are the first users; confirm the policy remains in the FY 2026-27 Master Fee Schedule.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The only formal fee waiver program among the five priority cities and worth roughly $3 million on a 100-unit deal; combined with Bishop Ranch land dedications it makes San Ramon unusually feasible for 100% affordable 4% credit deals despite high land costs. Waivers are public funds for Labor Code 1720 purposes (prevailing wage) and are reported as local match to TCAC and HCD. Layer with County HOME and Measure X, HACCC PBVs and County conduit bonds (county records); the County has no comparable fee waiver program (county record: development fee waiver for affordable housing, discretionary only). Policy terms read from the HCD-hosted Housing Element (source_url) and confirmed in the January 13, 2026 Canopy staff report on the City's IQM2 host.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/san-ramon-6th-draft122922.pdf",
+      "record_id": "751ccdc36b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Ramon",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "San Ramon Density Bonus Ordinance (Zoning Ordinance Division D4, Chapter VIII, Sections D4-76 to D4-80) and Priority Access System for City-funded housing",
+      "administering_agency": "City of San Ramon Community Development Department, Planning Services Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory incentive, not a cash subsidy. Chapter VIII implements Government Code 65915 by reference: any changes to state density bonus law supersede local text; waivers of development standards are granted unless specified findings are made; parking may be modified or covered-parking requirements waived for affordable units; a density bonus housing agreement is recorded before final map or building permit; a processing fee set by resolution applies. No local bonus beyond state law. Separately, the City's Priority Access Guidelines give San Ramon residents and workers priority in City-funded affordable projects, and the Housing Element targets 200 very low or extremely low, 200 low and 400 moderate income inclusionary units over 2023-2031 against a RHNA of 5,111 units.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus law thresholds (Gov. Code 65915); density bonus units are excluded from the inclusionary unit count under C4-177, so they stack on top of the 15% inclusionary requirement.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; no deadline.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Ramon has no city-run NOFA, no RDA successor housing fund (the City never had a redevelopment agency) and its Affordable Housing Fund is deployed by Council through development agreements rather than competitive rounds; local tools are the inclusionary receiver-site model, the fee waiver policy and state density bonus. Most existing affordable stock in Dougherty Valley sits under Contra Costa County affordability agreements (county records: Inclusionary Housing Ordinance Ch. 822-4 and Residential Density Bonus Ch. 822-2) rather than City agreements. Zoning text read on the zoneomics mirror (source_url); the City's code host (qcode) is blocked.",
+      "source_url": "https://www.zoneomics.com/code/san-ramon-CA/chapter_4",
+      "record_id": "82de7ef572",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Trust Fund and Affordable Housing Special Revenue Fund (no development NOFA)",
+      "administering_agency": "El Dorado County Planning and Building Department, Affordable Housing Unit (program administration contracted to Housing Group LLC dba HousingINC through December 31, 2026); Housing@edcgov.us",
+      "funding_type": "loan",
+      "typical_award_size": "Small and discretionary. The Affordable Housing Special Revenue Fund held about $600,151 in April 2026, fed by building permit activity, and the Board committed $550,151 of it to the Caldor Fire Grizzly Flats Homeowner Rebuild Program (forgivable loans up to $73,318 for about 12 fire-displaced households, administered by HomeAid Sacramento). The separate Affordable Housing Trust Fund receives the County's share of CMFA bond issuance fees (for example $6,000 from the Diamond Village II issuance). No multifamily development award from either fund was found.",
+      "per_unit_cap": null,
+      "affordability_requirement": "None codified. Staff describe the Special Revenue Fund as having no specific restrictions, with use at the Board's discretion for affordable housing purposes. The Trust Fund is designated for studies, program development or contributions toward creating housing.",
+      "eligible_project_types": [
+        "new construction",
+        "homeownership",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. A request would go through the Affordable Housing Unit and require Board action.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Reclassified from other to loan in the November 8, 2026 audit: the Affordable Housing Special Revenue Fund is deployable at Board discretion and its only recent use was forgivable loans (up to $73,318 per household) under the Caldor Fire Grizzly Flats Homeowner Rebuild Program (Resolution 064-2026, April 7, 2026). Do not underwrite County gap money in El Dorado. The county has no inclusionary fee revenue yet, no housing bond and no sales tax measure, so the Trust Fund is capitalized only by occasional conduit issuance fees and permit-related deposits. The planned Affordable Housing Ordinance (inclusionary with an in-lieu fee set by a fee nexus study now being procured) is intended to expand the Trust Fund, which is the only path to a real county gap source in the next few years. County housing staff capacity is thin: a single Administrative Analyst position was reinstated in April 2026 and HousingINC runs the program in the interim, so allow time for any County action (Board Policy A-6 resolutions, TIF offsets, TEFRA hearings).",
+      "source_url": "https://eldorado.legistar.com/LegislationDetail.aspx?ID=40257&GUID=FB19D33E-5F00-40BD-BC9C-519FBDAA8C4D&Options=&Search=&FullText=1",
+      "record_id": "ccd7abf22c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "homeownership",
+        "new construction",
+        "predevelopment"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Board item 26-0542 confirms the Special Revenue Fund balance of about $600,150.75, the $550,150.75 commitment to the Grizzly Flats program, forgivable loans up to $73,318, and that the fund has no specific restrictions. Balance after the commitment was $0 with funds continuing to accrue from permit activity, so nothing is currently available for multifamily. prevailing_wage_trigger is true with no cited basis; not reviewed in this audit.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), El Dorado County formula allocation",
+      "administering_agency": "El Dorado County Health and Human Services Agency (HHSA), Community Services Division; hhsa-grants@edcgov.us",
+      "funding_type": "grant",
+      "typical_award_size": "2019-2023 five-year estimate $2,990,478 (Resolution 143-2025, October 21, 2025; years 1-3 were $479,995, $729,477 and $973,923). HCD's 2024-2028 formula NOFA lists El Dorado County at $308,950 (2024), $318,390 (2025) and a five-year estimate of $1,930,938. All of it is programmed to homelessness operations, not development.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA guidelines allow rental housing at or below 60% AMI (up to 80% AMI) with 55-year covenants, but the County's plan directs the funds to operating the navigation center and interim housing services rather than capital.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not available to developers. The 2024 plan amendment moved all PLHA to a single capital activity for a permanent navigation center, and in 2025 staff said the Forni Road housing services site will likely not use PLHA capital, so the money is being reallocated to navigation center operations. A new five-year plan for the 2024-2028 allocations is required by HCD and could revisit uses.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "El Dorado's PLHA is about $300,000 to $1,000,000 a year and is entirely absorbed by homeless services, so there is no PLHA capital for multifamily deals in the unincorporated county. The only PLHA capital nearby came through the City of Placerville's competitive PLHA award (Middletown Apartments, about $1,050,000), which is a Pass 3 item. If the County restructures its 2024-2028 PLHA plan, a developer could ask HHSA to carve out a capital or operating subsidy line for a permanent supportive housing project; HHSA, not Planning and Building, controls PLHA here.",
+      "source_url": "https://eldorado.legistar.com/LegislationDetail.aspx?ID=39157&GUID=A63338BA-252F-4735-A14B-8E5F3415DC0D&Options=&Search=&FullText=1",
+      "record_id": "7b71e74f00",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "interim housing",
+        "supportive housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: staff report for Legistar 25-1513, Resolution 143-2025 and the revised August 2025 plan match the $2,990,478 five-year estimate, year 1-3 amounts, the 2024 single-activity capital amendment and the 2025 shift to navigation center operations; HCD 2024-2028 NOFA confirms $308,950, $318,390 and $1,930,938. prevailing_wage_trigger true has no basis cited, and neither the 2019 nor the 2024-2028 PLHA guidelines or NOFA mention prevailing wage; the funds go to operations, so this should likely be unclear pending a Tier 3 review.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "El Dorado Opportunity Knocks Continuum of Care (CA-525) and HHAP, El Dorado County region",
+      "administering_agency": "El Dorado County HHSA as Administrative Entity for HHAP and as Collaborative Applicant (through the County PHA) for the EDOK CoC; edokcoc.org; Front Door access 530-600-2822",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 6: $670,181.51 accepted June 23, 2026 (County $324,069.60, CoC $346,111.91; HCD agreement 10349 through June 30, 2030). HHAP rounds 1-5 totaled about $5.4 million to the County and CoC, with $5.3 million obligated and $2.7 million spent per the state accountability dashboard. FY 2026 HUD CoC renewal competition: $160,797. State ESG 2024: $359,633 to the region. 2024 point-in-time count 284 people (135 unsheltered), 416 beds.",
+      "per_unit_cap": null,
+      "affordability_requirement": "HHAP: people experiencing or at risk of homelessness; HHAP-6 requires a regionally coordinated homelessness action plan, encampment policy and Housing Element compliance plan. HUD CoC: Permanent Supportive Housing and Rapid Rehousing for homeless households.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 is committed to bridging Navigation Center operations during its wind-down and the gap before the treatment-focused campus at 300 Forni Road opens; no competitive local HHAP NOFA. HUD CoC competition annually (FY 2026 round applied for in 2026). HHAP Round 7 timing depends on the state budget.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The region is small and the money is spoken for: HHAP has historically funded the 60-bed Navigation Center (operated by Volunteers of America) and the County is pivoting to a treatment-based interim housing campus at 300 Forni Road. A permanent supportive housing developer would use the CoC for Coordinated Entry referrals and possibly a HUD CoC PSH renewal or new project, rather than county HHAP capital. HHAP-6 dollars could fund rental assistance or operating subsidy for PSH units if HHSA agrees, but the staff report commits them to interim housing and transition services. Coordinate with HHSA Community Services, not Planning and Building, for anything homelessness-related.",
+      "source_url": "https://eldorado.legistar.com/LegislationDetail.aspx?ID=40595&GUID=6CB4D494-8396-4594-BEB7-033F9E02BA35&Options=&Search=&FullText=1",
+      "record_id": "7b440bf45d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "interim housing",
+        "supportive housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: Legistar 26-0875 (June 23, 2026) confirms the $670,181.51 HHAP-6 award (County $324,069.60, CoC $346,111.91), agreement 10349 through June 30, 2030, and use as bridge funding during the Navigation Center wind-down before 300 Forni Road opens. prevailing_wage_trigger true has no cited rule; HHAP-6 here funds operations, not construction.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) housing interventions, El Dorado County HHSA Behavioral Health",
+      "administering_agency": "El Dorado County Health and Human Services Agency, Behavioral Health Division (Integrated Plan FY 2026-27 through 2028-29 adopted June 23, 2026)",
+      "funding_type": "grant",
+      "typical_award_size": "Housing Interventions budget about $4,050,000 per year (30% component). Capital Development Projects line $500,000 in FY 2026-27 and $500,000 in FY 2027-28 (about 12% of housing interventions, under the 25% cap), both for the Forni Road Housing Services Site (county-owned interim housing with temporary tiny homes and a congregate services building, partly funded from Capital Facilities and Technological Needs). Remaining housing dollars go to rental subsidies, operating subsidies (about 15 people), a Flexible Housing Subsidy Pool, transitional rent and outreach and engagement.",
+      "per_unit_cap": null,
+      "affordability_requirement": "BHSA eligible population: adults with serious mental illness or substance use disorder who are chronically homeless, homeless or at risk of homelessness; at least 50% of housing interventions for chronically homeless people; no more than 25% of housing interventions for capital.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Capital line is fully committed to the County's own Forni Road site for FY 2026-27 and 2027-28; no developer NOFA. The Integrated Plan can be revised annually (draft due to DHCS each March 31) and the next three-year plan starts FY 2029-30.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Unlike larger counties, El Dorado's BHSA capital is reserved for a county-owned interim housing campus, so a developer cannot expect BHSA gap funding for PSH before FY 2029-30. The operating subsidy and Flex Pool lines are the realistic ask: a PSH project with units set aside for BHSA clients could request a multi-year rental or operating subsidy agreement and services contract from Behavioral Health, which also strengthens an MHP or NPLH-style supportive housing application. BHSA money in a project is state funding and triggers prevailing wage. Contact Behavioral Health early in the annual update cycle (fall) to be included in the following year's plan.",
+      "source_url": "https://www.eldoradocounty.ca.gov/files/assets/county/v/1/documents/health-amp-wellbeing/mental-health/draft-eldoradocounty_2026-2029_integratedplan-web-version-1.pdf",
+      "record_id": "00bb0bfe06",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "interim housing",
+        "supportive housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "Nov 9, 2026 spot check: Integrated Plan budget table shows Housing Interventions $4,050,000 per year and Capital Development Projects $500,000 in Years 1 and 2; the one capital project is Forni Road (interim tiny homes, 10 units with 5 funded by Housing Interventions, about $50,000 per unit, available June 30, 2028). prevailing_wage_trigger true is uncited; no prevailing wage rule found in the plan.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of South Lake Tahoe",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "City permit fee waiver for nonprofit and public agency affordable housing (City Code Section 6.55.090), lot consolidation fee waiver for deed-restricted units (Housing Element Program 1-7) and Sugar Pine Village inspection fee reduction",
+      "administering_agency": "City of South Lake Tahoe Development Services Department (Planning and Building Divisions); waivers approved by the City Council at a public hearing",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Case by case. Nonprofits and public agencies developing affordable housing may request waiver of City permit fees, granted by Council resolution (about 45 days from request to approval, run concurrently with permit review). The City also reduced building inspection fees for Sugar Pine Village because HCD inspects the modular units. Program 1-7 commits the City to waive the lot line adjustment fee when the resulting project includes deed-restricted affordable units. City planning fees are modest relative to TRPA fees; City multifamily impact charges are mainly utility connection fees set by South Tahoe Public Utility District (not waived; $7,500 deposit and 10% of capacity fees at plan review). No waiver of TRPA water quality ($1.86 per sq ft) or excess coverage mitigation fees ($8.50 per sq ft), though TRPA application fees are waived for affordable, moderate and achievable bonus-unit projects and the mobility mitigation fee may be waived.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable housing project sponsored by a nonprofit or public agency; deed restriction consistent with TRPA affordable, moderate or achievable definitions when bonus units are used. No specific AMI threshold published for the City waiver.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request with the entitlement or building permit application; Council hearing required. Verify current practice with the Housing Division (530-542-7417) because the code text could not be opened.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Fee relief is small in dollar terms; the real cost drivers in the Basin are TRPA mitigation fees, land coverage purchases and development rights, which the TRPA bonus unit program (separate record) addresses. Combine with the TRPA application fee exemption and with the Phase 2 Housing Amendments height, coverage and density relief. Private for-profit developers are not eligible for the 6.55.090 waiver unless partnered with a nonprofit or public agency. The County Traffic Impact Fee offset (Board Policy B-14) is not available inside the city. The City's code host (codepublishing.com) returned 403 and the gocodebook mirror had no Chapter 6.55 page, so Section 6.55.090 was not read directly; the description is taken from the fees and exactions analysis in the City's August 2026 public review draft 2027-2035 Housing Element (pages 4-203 to 4-206) and from Program 1-7 of the adopted 2022-2027 Housing Element.",
+      "source_url": "https://www.cityofslt.gov/DocumentCenter/View/24379/SLT_Housing-Element_Public-Review-Draft_August-2026",
+      "record_id": "903b87de7c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "modular multifamily"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Confirmed against the August 2026 public review draft Housing Element (pages 4-176 to 4-178, 4-203 to 4-206 and the Program 1-7 review): Council waiver for nonprofits and public agencies under Section 6.55.090 with about 45 days to approval, Sugar Pine Village inspection fee reduction, Program 1-7 fee waiver for designated affordable units in lot consolidations, TRPA $1.86 per sq ft water quality and $8.50 per sq ft excess coverage fees with no affordable exemption, mobility fee waivable, STPUD $7,500 deposit and 10% capacity fee down payment. Section 6.55.090 itself was not read. prevailing_wage_trigger is true with no cited basis; the Housing Element prevailing wage section is general and does not address fee waivers.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Placerville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Housing Opportunity Overlay Zone (HO, Title 10 Chapter 5 Section 24, Zone Change 2016-01) by-right affordable sites and Housing Element Programs A-3 and A-5",
+      "administering_agency": "City of Placerville Development Services Department, Planning Division",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Regulatory. Sites in the HO overlay (and the R-5 Very High Density Multi-Family zone) allow owner-occupied or multifamily housing by right at a minimum 20 and maximum 24 units per acre with compliance with local design standards and no discretionary action (Government Code 65583.2 sites). The overlay covers about 17 acres with three additional sites proposed for 2026. Two of the four original HO parcels produced Mallard Apartments (72 units, 30% to 60% AMI, 55 years) and Middletown Apartments (82 units, 30% to 60% AMI, 55 years), both by Pacific Southwest Community Development Corporation and under construction in 2025 (82 Middletown permits issued in 2025). Objective design standards (LEAP $65,000 and SB 2 $160,000 funded) were still being completed as of March 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "By-right status is tied to lower income housing need under state law; projects on HO sites have been 100% affordable at 30% to 60% AMI with 55-year covenants. No local inclusionary percentage.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Ministerial site plan review on HO or R-5 sites at any time. Three additional HO sites were proposed for 2026 rezoning; confirm status and the objective design standards with Planning.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The HO overlay is where Placerville's deal flow has actually occurred; both recent projects paired by-right siting with City-sponsored CDBG and CPLHA loans, IIG and MHP (see the City state-funding record). The 2025 APR reports 244 lower income units of site capacity against a 90-unit lower income RHNA, so no-net-loss is not a constraint. Combine with the state density bonus (Chapter 12) and SB 35 or AB 2011 streamlining. Source is the City's 2021-2029 Housing Element policy document (Programs A-3 and A-5); the 2016 draft HO ordinance was also read on the City's EvoGov agenda host. No local trust fund or NOFA exists in Placerville.",
+      "source_url": "https://www.cityofplacerville.org/media/Planning%20Division/Housing%20Element/2021-2029%20Housing%20Element%20-%20Amended/PolicyDocSect%20II%20-%202021%20HE%20(12-16-22,%20lmh).pdf",
+      "record_id": "0c547fd28d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "mixed-income multifamily on HO or R-5 sites"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fairfield",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Fairfield affordable housing Fee Deferral Program (Municipal Code Chapter 5, Article I), Fee Credit Bank and Train Station Specific Plan fee reduction",
+      "administering_agency": "City of Fairfield Community Development Department (Director approves deferrals and fee credits)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral, not waiver: affordable projects defer certain building and development fees to certificate of occupancy or permanent financing. Fee Credit Bank: credits from demolished buildings (water and sewer connection fees, not school or Solano County public facilities fees) can be applied to affordable projects. Train Station Specific Plan area: 25% reduction in development fees for multifamily units above 24 units per acre. ADUs under 750 square feet exempt from park, Cordelia open space, sewer connection and County public facilities fees; all ADUs exempt from a long list of City fees. No published dollar value of deferrals.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Deferral: multifamily must be at least 50% moderate-income and 25% low-income units, 55-year rental covenant (45 years ownership). Fee credits: low- and moderate-income units with a covenant of up to 55 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Apply to the Community Development Department with the building permit; no cycle. The City was updating its AB 1600 traffic and Northeast (TSSP) fees in 2022-2023; confirm current fee schedule.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Deferral improves construction-period cash flow but fees are still paid, so budget them. Fee credits are a real reduction when a demolition site has banked credits; ask the Director for the current bank balance. Solano County public facilities fees cannot be deferred or credited by the City (County record: no County waiver program). A fee credit or reduction is public funds under Labor Code 1720(c) if above de minimis, hence unclear. Source is the HCD-posted October 2022 review draft of the 2023-2031 Housing Element (adopted February 7, 2023, certified April 10, 2023 per the City's housing element site, not opened); Chapter 5 of the Municipal Code itself is on a blocked code host.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/fairfield-6th-draft100622.pdf",
+      "record_id": "1e67b3a574",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

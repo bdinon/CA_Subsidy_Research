@@ -1,0 +1,80 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Salinas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Density bonus (Zoning Code Section 37-50.060) and Zoning Code Update Phase 1 housing law amendments (2026)",
+      "administering_agency": "City of Salinas Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement and incentive, not a subsidy. Section 37-50.060 implements Government Code 65915 to 65917 with density bonuses, concessions (listed in subsection (k)) and parking reductions for very low, lower and moderate income, senior, day care and land donation projects, and adds a City density bonus for affordable senior housing (a 2014 senior project received a 100% bonus and 29% parking reduction). The Phase 1 Zoning Code Update ordinance (Planning Commission July 15, 2026; Council adoption August 2026, file 26-378) amended the density bonus, employee housing, two-unit development, ADU and emergency shelter provisions to match current state law and Housing Element Programs 4, 6, 7 and 14, and removed covered parking requirements for some residential uses. Phase 2 (objective design standards, General Plan consistency) is due mid-2027 and Phase 3 (new code) by end of 2027.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus law thresholds (5% very low, 10% lower, 10% moderate for-sale, 100% affordable), 55-year rental covenants; affordable rent defined at 30% of 50% AMI (very low) and 30% of 60% AMI (lower).",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; by-right with the planning application. Watch the Vision Salinas 2040 General Plan draft (summer 2026) and Phase 2 zoning amendments (mid-2027) for new objective standards and West Area and Central Area Specific Plan sites (five tentative maps totaling 3,206 units in process in 2025).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local trust fund money attaches to the bonus; it is the entitlement layer that is combined with the City's LHTF, HOME, PLHA and HSA loans. Bonus units are excluded when computing inclusionary obligations, and the Downtown inclusionary exemption plus the 2026 SB 423 streamlining (467 and 479 East Market Street hearing September 2025) make Chinatown and downtown the easiest sites. Code text read on the zoneomics mirror because municode and the City site block scripts; the Phase 1 ordinance staff report was read through the Salinas Legistar API.",
+      "source_url": "https://www.zoneomics.com/code/salinas-CA/chapter_5",
+      "record_id": "3f28d08a3b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "senior housing",
+        "100% affordable projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Seaside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Incentives (Zoning Code Chapter 17.33, density bonus)",
+      "administering_agency": "City of Seaside Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Incentive, not a subsidy. Chapter 17.33 grants density bonuses by Council determination on the state sliding scale (10% lower income units earn 20%, rising to 35% at 20%; 5% very low income units earn a 20% bonus on a parallel scale), with incentives and concessions, reduced parking (17.33.050), child care bonuses (17.33.060), processing rules and a recorded density bonus agreement (17.33.100). Bonus units do not count toward the 20% inclusionary requirement. The fifth cycle Housing Element (Program 13) acknowledged the chapter had not been updated to current state law and committed to do so in the comprehensive zoning update.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus thresholds; affordability terms per Government Code 65915 (55 years rental).",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; state law controls where the local chapter is less generous. Check for the Seaside 2040 zoning update adoption before relying on local tables.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local fee waiver, trust fund NOFA or city NOFA was found for Seaside beyond the inclusionary in-lieu fund and CDBG (records above and below). Seaside is a CDBG entitlement city (about $365,000 a year per the fifth cycle Housing Element; FY 2026-27 funding plan adopted March 2026 with about $581,000 including carryover, unverified) and is not in the Urban County. Water connection moratorium relief (Council July 2026) matters more than zoning for multifamily feasibility. Code read on the zoneomics mirror because the City site is JavaScript-only for agendas.",
+      "source_url": "https://www.zoneomics.com/code/seaside-CA/chapter_3",
+      "record_id": "720611a4bd",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "senior housing",
+        "100% affordable projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

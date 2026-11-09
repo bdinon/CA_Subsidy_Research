@@ -1,0 +1,271 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Housing Endowment and Regional Trust of San Mateo County (HEART) developer loans",
+      "administering_agency": "HEART of San Mateo County, joint powers authority of the County and 20 cities and towns; 2905 S. El Camino Real, San Mateo; Armando Sanchez 650-204-5640",
+      "funding_type": "loan",
+      "typical_award_size": "HEART reports $57,000,000 invested in affordable housing development. Two products: QuickStart (up to five years, predevelopment, acquisition, construction or rehab, principal deferred to maturity) and SemiPerm (five to 15 years including extensions, interest-only or amortized on a 30-year schedule with balloon, for acquisition, predevelopment, refinancing and rehab). Rates are described as favorable and competitive and quoted on request; origination fee 2% of loans up to $2,000,000 and 1.5% above, $3,000 application fee, borrower pays lender legal and third-party costs; loan size depends on project financials and repayment source. Recent County relationships: a $2,400,000 agreement (June 16, 2026) for HEART to run the County's mobile home replacement loan program, and a $450,000 HEART loan in HEART-SV's plan to take over Visitacion Gardens in Brisbane (May 2026). Funded projects include Montara at Bay Meadows, Ocean View, Peninsula Station, Trestle Glen, Hillcrest Senior, Serenity Senior, Fair Oaks Commons, The Village at the Crossing and 2000 South Delaware.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Up to 120% AMI (workforce) with a 55-year affordability covenant on a number of units commensurate with HEART's share, deferring to other funders' covenants when sufficient; projects must be in a member jurisdiction (the County and 20 cities and towns: Atherton, Belmont, Brisbane, Burlingame, Colma, Daly City, East Palo Alto, Foster City, Half Moon Bay, Hillsborough, Menlo Park, Millbrae, Pacifica, Portola Valley, Redwood City, San Bruno, San Carlos, San Mateo, South San Francisco, Woodside and the County) with an adopted or under-review housing element.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; contact HEART for current rates and available funds. The 2026 Board report notes HEART is restructuring programs (first-time homebuyer loans ended Jan 28, 2026). HEART also runs an ADU design center and received state LHTF matching grants in past rounds.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "HEART is bridge and acquisition money, not permanent gap financing: use QuickStart to tie up a site or carry predevelopment until an AHF award and tax credits close, then take out the loan. Member dues are population based and the County administers HEART, so it reads as a county-level source even though cities co-own it. Public agency funds, so assume state prevailing wage applies to construction financed with HEART loans. Term sheets (May 24, 2023) and member list opened on heartofsmc.org.",
+      "source_url": "https://www.heartofsmc.org/programs/for-developers/",
+      "record_id": "aa834dd6b5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment",
+        "acquisition-rehab",
+        "new construction",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Housing Authority of the County of San Mateo (HACSM, Moving to Work agency)",
+      "administering_agency": "Housing Authority of the County of San Mateo, a division of the Department of Housing, 264 Harbor Blvd, Belmont, 650-802-3300; housing@smchousing.org",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HACSM assists about 4,600 households and project-bases 1,930 vouchers (FY 2027 MTW Plan), with 36 new PBVs planned for 493 Eastmoor Avenue in Daly City (72 units). As an MTW agency since 1998 HACSM may project-base up to 40% of budget authority (raised from 35% in FY 2021) and awards PBVs through periodic RFPs: the last offered 200 Section 8 PBVs and 35 HUD-VASH PBVs for new construction (released Dec 2022, due Dec 30, 2022, awards Jan 2023), with at least 25% of PBVs as supportive housing units, 50% on two- and three-bedroom units, and a per-project cap of about 50% of units (waivable for supportive housing). In Jan 2025 DOH told Homekey+ applicants no PBVs were available. HACSM also provides HAP contracts up to 20 years and the County Housing Voucher Program (local funds) for Homekey sites such as Casa Esperanza.",
+      "per_unit_cap": "MTW cap of 40% of budget authority agency-wide; project cap about 50% of units except supportive housing; rents per HACSM payment standards and MTW rent policies.",
+      "affordability_requirement": "Households at or below 50% AMI at admission with ELI targeting; supportive housing units for homeless and special needs households referred through Coordinated Entry; new construction only in the last RFP; 20-year HAP contracts with extensions.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No PBV RFP open as of Nov 2026 and none since Dec 2022; the AHF NOFA states applications may not assume PBVs without an existing HACSM award letter. Watch the DOH NOFAs, Bids and Proposals page and the annual MTW Plan (FY 2027 plan posted 2026) for the next solicitation. HACSM covers the entire county; no city in San Mateo County runs its own housing authority.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "HACSM is the operating subsidy partner for every County-funded PSH deal and uses MTW flexibility to award PBVs in bulk (1,930 outstanding), but supply is tight and awards come through RFPs rather than the AHF NOFA. A HAP contract is not a prevailing wage trigger; Davis-Bacon applies to PBV new construction or rehab of nine or more contract units. HACSM also recycles MTW HAP reserves into the Affordable Housing Fund (separate record). Sources opened: 2022 RFP page and PDF, FY 2027 MTW Annual Plan, Homekey+ RFP Q&A.",
+      "source_url": "https://www.smcgov.org/housing/rfp-section-8-and-hud-vash-project-based-vouchers",
+      "record_id": "97ba071616",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Inclusionary Affordable Housing Ordinance (2004) with 2026 rezoning amendments, County affordable housing impact fees, and state density bonus",
+      "administering_agency": "San Mateo County Planning and Building Department, 455 County Center, Redwood City; impact fees deposited to the Department of Housing's Housing Trust Fund",
+      "funding_type": "density bonus",
+      "typical_award_size": "Multifamily projects of five or more units in the unincorporated area must make 20% of units affordable, typically to lower income households (a rental project of five to nine units may provide its one required unit at moderate income; ownership projects may provide half at moderate income), with in-lieu fees, off-site units, land dedication or rehabilitation of existing affordable units allowed at the County's sole discretion. Ordinance 4927 (adopted Oct 6, 2026) removes those alternatives and the moderate-income option in the new R3-MD, PC-HD and TS-MU districts rezoned April 21, 2026 in Colma, Broadmoor and the Harbor Industrial area: 20% on site at low, very low or extremely low income. Affordable housing impact fees on residential and non-residential development were adopted in 2016 from a multi-jurisdictional nexus study and fund the AHF ($100,000 offered in each of AHF 13 and 14 for unincorporated projects); a new Multi-Jurisdictional Inclusionary Housing and Non-Residential Linkage Fee Study (Strategic Economics, $619,135, Dec 2025 to June 2027, County share $51,681) will reset fee levels for the County and ten cities. Density bonus follows Government Code 65915; the County enforces state law and has no local bonus beyond it.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Inclusionary units at lower income rents or prices for the ordinance term (long-term covenants recorded at entitlement); state density bonus units 55 years for rental.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; applies at entitlement. Expect revised impact fee levels after the nexus study concludes in mid-2027. Unincorporated areas include North Fair Oaks, Colma, Broadmoor, Harbor Industrial, the Midcoast and Emerald Hills.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "North Fair Oaks and the Colma and Broadmoor rezoning areas are where County inclusionary rules bite; 100% affordable projects satisfy them automatically and take the state density bonus. In-lieu fees and impact fees are small (about $100,000 a year reaches the AHF) because unincorporated development volume is low. Density bonus alone does not trigger prevailing wage. Sources: County inclusionary ordinance page (the ordinance PDF is image-only), Board items 26-817 and 25-1053 and the Oct 6, 2026 Board presentation and Ordinance 4927 (opened).",
+      "source_url": "https://smcgov.org/planning/inclusionary-affordable-housing-ordinance",
+      "record_id": "2ef1683d0c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Daly City/San Mateo County Continuum of Care (CA-512) and HHAP",
+      "administering_agency": "San Mateo County Human Services Agency, Center on Homelessness (CoC lead agency and HHAP administrative entity for the County and CoC)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP joint County and CoC allocations: Round 1 $3,431,246 (Feb 2020), Round 2 $1,597,106, Round 3 $4,375,129, Round 4 $4,658,201, Round 5 $5,237,946 (County $2,564,722, CoC $2,673,224), Round 6 $5,026,361 (County $2,430,522, CoC $2,595,839; accepted June 10, 2025, awarded March 2, 2026, usable through June 30, 2029), about $24,300,000 in all. State accountability site: $19,300,000 HHAP rounds 1 to 5 to the County ($13,800,000 obligated, $11,800,000 spent by mid-2025); Encampment Resolution Funding $16,000,000 in the area, $14,100,000 to the County. HHAP-6 supports operations of the 240-unit Navigation Center in Redwood City. HUD CoC program FY 2024 awards to CA-512: $817,332 (Shelter Plus Care sponsor-based $368,857, Vendome $303,133, Redwood Family House $145,342). State ESG CoC share $188,054 (2024). 2024 PIT: 2,130 people, 1,145 unsheltered, 3,454 year-round beds. Homekey: Casa Esperanza, Redwood City (former Comfort Inn, 51 PSH units, $15,978,232 Homekey plus up to $7,697,170 ARPA match, operated by Episcopal Community Services since 2025 under a 55-year ground lease with County Housing Voucher Program operating subsidies) and a Ramada conversion in South San Francisco with ECS; Homekey+ co-applicant RFP (Jan 15 to Feb 5, 2025) to pair developer teams and sites with County match for 2025 applications.",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness per HUD and state definitions; CoC permanent housing through Coordinated Entry; HHAP-6 must obligate 75% and spend 50% by June 30, 2027.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-7 is available to HHAP-6 grantees; the CoC runs the HUD NOFO each summer. For capital, the County route is the Homekey+ co-applicant process through the Department of Housing and the AHF NOFA's homelessness preference units; HHAP itself funds shelter and services.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A small CoC (about $800,000 a year in HUD renewals) and modest HHAP, so homeless capital comes from Measure K and Homekey rather than CoC money; the County uses its own Housing Voucher Program and HACSM PBVs for operating subsidy at Homekey sites. HHAP figures from the County HSA HHAP page and Board item 25-554 (opened), HCD allocation lists and accountability.ca.gov; Homekey details from Board item 25-249 and the Homekey+ RFP page.",
+      "source_url": "https://www.smcgov.org/hsa/homeless-housing-assistance-and-prevention-hhap-program-0",
+      "record_id": "6af4b9b349",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) housing interventions and MHSA/BHSA capital through the Affordable Housing Fund",
+      "administering_agency": "San Mateo County Health, Behavioral Health and Recovery Services (BHRS), with the Department of Housing administering capital awards",
+      "funding_type": "loan",
+      "typical_award_size": "Three-Year Integrated Plan FY 2026-27 to FY 2028-29 approved by the Board June 9, 2026 (Behavioral Health Commission hearing closed March 5, 2026). Housing Interventions expenditures $24,427,542 (FY 2026-27), $24,374,720 (FY 2027-28), $24,374,720 (FY 2028-29); capital development $6,152,822 then $6,100,000 a year (24% of the component, near the 25% cap) delivered through the DOH Affordable Housing Fund NOFAs, where the AHF 14 round carried $5,000,000 of MHSA/BHSA capital at up to $200,000 per restricted unit; the plan lists nine capital projects and a 65-unit PSH pipeline at up to $450,000 per unit. Operating subsidies $3,540,627 plus $2,182,327, bundled rental and operating subsidies about $1,160,000 to $1,460,000, rental subsidies $1,000,000; $12,900,025 a year (51%) dedicated to chronically homeless people; 64 people a year in operating-subsidized units. San Mateo joined the state Flex Pool Technical Assistance Academy.",
+      "per_unit_cap": "MHSA/BHSA capital capped at $200,000 per restricted unit in the AHF NOFA; BHSA statute caps the housing intervention share at $450,000 per unit.",
+      "affordability_requirement": "MHSA/BHSA units for BHRS-referred adults with serious mental illness or substance use disorder who are homeless or at risk: 30% AMI with PBVs or 20% AMI without, Housing First, on-site supportive services; 55-year County regulatory agreement through the AHF loan.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Apply through the AHF NOFA (next round expected fall 2027) and meet with BHRS before applying; the plan runs July 1, 2026 to June 30, 2029 with annual updates. Ask BHRS about operating subsidies and transitional rent for MHSA/BHSA units, which the AHF NOFA counts toward its homelessness preference requirement.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Mateo keeps BHSA capital at the statutory maximum and routes it through the same AHF loan documents as Measure K, so a PSH sponsor can get Measure K plus about $200,000 per BHSA unit in one award with BHRS operating subsidy behind it. State funds trigger prevailing wage. Plan read from the Board attachment on Legistar (final plan PDF, opened); the smchealth.org copies returned 404.",
+      "source_url": "https://sanmateocounty.legistar.com/LegislationDetail.aspx?ID=94826&GUID=9A552B75-9564-4B1D-A51C-4144E6EBF1C3&Options=&Search=&FullText=1",
+      "record_id": "888763574b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2029-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Menlo Park",
+      "date_researched": "2026-11-07",
+      "research_pass": "3_city",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Below Market Rate (BMR) Housing Program: residential inclusionary and commercial in-lieu fees (MPMC 16.96)",
+      "administering_agency": "City of Menlo Park Community Development Department, Housing Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Residential: 10 to 19 units at least 10% BMR, 20 or more units at least 15% BMR (very low, low and moderate income); 5 to 9 units provide a unit if feasible or pay a graduated in-lieu fee of 1% to 3% of sales price; for-sale projects of 10 or more may pay 3% of the sales price per market-rate unit in lieu; rental in-lieu fee set by Council resolution based on the cost of a one-bedroom unit. Each on-site BMR unit earns one additional market-rate unit up to 15% above zoned density. Commercial: buildings of 10,000 square feet or more provide BMR units or pay in-lieu fees of $23.26 per square foot (office and R&D, Group A) or $12.62 (other commercial and industrial, Group B) for July 1, 2026 to June 30, 2027, adjusted each July 1 by a five-year CPI shelter average.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "BMR rents at or below 30% of the income category limit and no more than 75% of market rents; income categories from 30% to 120% AMI; one-year live or work preference; BMR housing agreement recorded before permits.",
+      "eligible_project_types": [
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at application; Menlo Park leads the 2026 San Mateo County multi-city nexus study (Strategic Economics) that may raise inclusionary percentages and add a residential impact fee later in 2026 or 2027.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. The commercial in-lieu fee is the engine of the BMR fund (see NOFA record); office projects in the Bayfront and downtown specific plan areas often negotiate on-site or off-site BMR units instead. Source is the City's residential BMR requirements page; commercial rates from the companion commercial page and the October 21, 2025 Guidelines (Resolution 7003).",
+      "source_url": "https://www.menlopark.gov/Government/Departments/Community-Development/Housing/Developers/Residential-development-BMR-requirements",
+      "record_id": "5ae2d6681d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate multifamily (compliance)",
+        "commercial and R&D development (fee payer)",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Burlingame",
+      "date_researched": "2026-11-07",
+      "research_pass": "3_city",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Residential Impact Fee and Commercial Linkage Fee ordinances with on-site affordable alternative (BMC 25.44 and 25.45)",
+      "administering_agency": "City of Burlingame Community Development Department, Planning Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Fee-based program adopted after a legal challenge to the former inclusionary ordinance (Ordinance 2000 of 2021, amended by Ordinance 2046 on March 2, 2026). Residential impact fee on residential floor area for rental projects over 10 units and for-sale projects over 6 units, with rates in the Master Fee Schedule (not opened this pass); on-site alternative deems impacts mitigated with 10% low income plus 5% very low income rental units in perpetuity or 15% low income for-sale units for 55 years. Commercial linkage fee on hotel, retail, restaurant, service and office projects adding 5,000 square feet or more, with rates in the Master Fee Schedule; the first four years produced more than $3.8 million. Both feed the Affordable Housing Fund.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Affordable units built concurrently, same size as comparable market units, finishes at least 60% of market value; density bonus projects pay the fee on market-rate units only, not on bonus affordable units; Council may waive fees for public or nonprofit public benefit uses.",
+      "eligible_project_types": [
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fees due before the first building permit at the schedule then in effect; Council signaled further 2026 updates to add incentives for certain development types.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. Because Burlingame has no inclusionary mandate above the fee, 100% affordable projects rely on the Affordable Housing Fund NOFA (see separate record), County AHF and HACSM PBVs; the fee program is why the fund reached $12 million to $14 million by 2025. Source is the published code chapter on gocodebook.com (Burlingame's code host); residential chapter at .../chapter-25.45-residential-impact-fees. Current per-square-foot rates must be confirmed in the Master Fee Schedule with Planning at (650) 558-7250.",
+      "source_url": "https://gocodebook.com/library/us/ca/burlingame-zoning/title-25/chapter-25.44-commercial-linkage-fees",
+      "record_id": "b6113a572d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate multifamily (fee payer or on-site alternative)",
+        "commercial and hotel development (fee payer)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Nine-county San Francisco Bay Area",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Ready to Build technical assistance program for nonprofit affordable housing developers, Community Vision",
+      "administering_agency": "Community Vision; Leslie Palaroan, Senior Program Manager, lpalaroan@communityvisionca.org",
+      "funding_type": "other",
+      "typical_award_size": "Intensive one-on-one technical assistance (feasibility, pro forma and capital stacking, development roadmap, partner matchmaking, asset management training) for nonprofits with a project positioned to reach site acquisition, construction start or completion by December 1, 2028. No direct capital.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing affordable to households at or below 120% AMI with an identified site; preference for site control.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Applications due November 13, 2026 at 5pm (rolling if needed); selections first week of December 2026.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Open to nonprofits in the nine Bay Area counties (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, Sonoma), including emerging developers, CLTs, faith-based entities, tribal organizations and service providers. Pairs with LISC Faith and Housing and with Community Vision or Housing Trust predevelopment loans.",
+      "source_url": "https://communityvisionca.org/advising/ready-to-build/",
+      "record_id": "4c38ec9433",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment technical assistance",
+        "new construction",
+        "acquisition-rehab",
+        "community land trust projects"
+      ],
+      "next_deadline_date": "2026-11-13",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "funding_type kept as other: Ready to Build provides fully funded technical assistance only, with no loan, grant or other deployable capital, so no money-to-project enum value fits.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Kaiser Permanente Northern California service area (Bay Area, Sacramento, Central Valley)",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "needs_confirmation",
+      "program_name": "Kaiser Permanente Thriving Communities Fund (RxHome loan fund with Enterprise and Housing for Health Fund preservation equity)",
+      "administering_agency": "Kaiser Permanente National Community Health (impact investing) with Enterprise Community Loan Fund and Enterprise Community Partners as fund partners",
+      "funding_type": "loan",
+      "typical_award_size": "Kaiser reports $400 million committed toward housing stability and affordability with a goal of 30,000 units created or preserved by 2030; the Thriving Communities Fund provides capital and long-term loans to acquire, develop and maintain multiunit properties. Components reported elsewhere: a $100 million RxHome Fund ($50 million Kaiser loan to Enterprise Community Loan Fund plus $50 million ECLF capital) for affordable and supportive housing loans in Kaiser service areas, and the Housing for Health Fund, an $85 million preservation equity fund with Enterprise and JPMorgan Chase operating in the Bay Area and Sacramento that had invested $26 million in 637 homes by 2020. Current terms and availability were not posted on the page opened.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable and supportive housing in Kaiser Permanente service areas; preservation of unsubsidized affordable rentals (Housing for Health Fund).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with Enterprise Community Loan Fund (RxHome) or Enterprise's Northern California office (Housing for Health Fund).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Reclassified from other to loan: Kaiser's housing page says the Thriving Communities Fund provides capital and long-term loans to acquire, develop and maintain multiunit properties; RxHome is a $100 million debt fund with Enterprise Community Loan Fund (Enterprise blog, December 18, 2023, reports 7,167 units created or preserved). The Housing for Health Fund is a separate preservation equity vehicle. Kaiser's Northern California service area covers the Bay Area, Sacramento, Stockton, Fresno and Santa Cruz. Kaiser also contributed to the Bay's Future Fund and committed $32 million to Sacramento homelessness and housing efforts.",
+      "source_url": "https://about.kaiserpermanente.org/expertise-and-impact/healthy-communities/our-programs-and-partnerships/housing-security",
+      "record_id": "bb14780743",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation (equity)",
+        "acquisition",
+        "new construction loans",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No wage rule stated on Kaiser or Enterprise pages; depends on public sources in the capital stack.",
+      "audit_note": "Kaiser page confirms $400 million commitment, 30,000-unit goal by 2030 and long-term loans, but posts no application process, terms or current availability; RxHome and Housing for Health are not on the Kaiser page.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Tax-exempt multifamily bonds: County TEFRA approvals for CMFA, CSCDA and CEDA issuances (County not an active issuer)",
+      "administering_agency": "San Mateo County Board of Supervisors with the County Attorney (TEFRA hearings); bonds issued by the California Municipal Finance Authority, California Statewide Communities Development Authority or California Enterprise Development Authority",
+      "funding_type": "bond",
+      "typical_award_size": "The County is a member of CMFA, CSCDA and CEDA and holds the required TEFRA hearings for projects in the unincorporated area or where it is the member jurisdiction: CMFA bonds up to $11,000,000 for Mercy Housing's 42-unit 903 Oceana Boulevard rehabilitation in Pacifica (April 7, 2026), plus CMFA (May 6, 2025), CEDA and CSCDA (June 10, 2025) hearings. CMFA shares part of its issuance fee with the County. No County-issued multifamily housing revenue bonds were found in 2025 or 2026 Board records.",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDLAC and Section 142(d) minimums (20% at 50% AMI or 40% at 60% AMI) under the JPA issuer's regulatory agreement; County loans in the same project add 55-year County restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Schedule the TEFRA hearing with the County Attorney's office at least seven days after newspaper notice and before the CDLAC application; the Board hears these on consent. For projects inside cities, the city holds the hearing.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Expect to use CMFA or CSCDA as issuer in San Mateo County; the County's role is the TEFRA approval and a small fee share, with no County credit or staff involvement. Bonds alone do not trigger state prevailing wage; AHF, HOME or HACSM money in the deal does. Board item 26-255 read through the Legistar API.",
+      "source_url": "https://sanmateocounty.legistar.com/LegislationDetail.aspx?ID=94560&GUID=2D3E4F79-DC91-4DE6-A546-5FA23BF9060C&Options=&Search=&FullText=1",
+      "record_id": "08c4ae3907",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

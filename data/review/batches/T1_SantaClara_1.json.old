@@ -1,0 +1,160 @@
+[
+  {
+    "audit_reasons": [
+      "reclass_ambiguous"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sunnyvale",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation, Prohousing Incentive Program applications and City-owned sites for affordable housing (295 South Mathilda Avenue)",
+      "administering_agency": "City of Sunnyvale Community Development Department, Housing Division",
+      "funding_type": "policy/designation",
+      "typical_award_size": "HCD issued Sunnyvale a Prohousing Designation award letter on May 27, 2025 after a December 9, 2024 application (Housing Element Program H41); the City planned a PIP Round 4 application (due March 31, 2026) for homeless services, outreach, shelter and transitional housing activities (award depends on population base and points; Mountain View's comparable request was $890,000). City-owned site: 295 South Mathilda Avenue purchased September 2023 for $7,325,000 and held under an Exclusive Negotiating Agreement (August 30, 2023) and short-term ground lease with MidPen Housing for a 126-unit project with at least 25 percent of units for families experiencing homelessness; the 2024 NOFA awarded $1.5 million for predevelopment; cumulative City support including land about $13.3 million ($105,000 per unit) before construction funds. The City also adopted a water and sewer priority ordinance for affordable developments and received $1.84 million in MTC Housing Incentive Pool funds in 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "295 South Mathilda: 100 percent affordable with 25 percent homeless set-aside; PIP funds for households up to 120 percent AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "PIP Round 4 award expected mid 2026; 295 South Mathilda ENA extended November 2025 with construction targeted 2027 after a tax credit application in 2026. Future City-owned sites would be offered by ENA or RFP.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Prohousing status improves scores for AHSC, IIG and MHP applications by Sunnyvale projects. The City's land contribution model (buy the site, ground lease to the nonprofit, then fund through the NOFA) mirrors Mountain View and San Jose practice and locks in TCAC opportunity-area status. sunnyvale.ca.gov blocked; information taken from the 2025 Housing Element APR read on Legistar.",
+      "source_url": "https://legistar.granicus.com/Sunnyvale/attachments/d5ab8b14-34d8-439e-99c0-2db362a22f77.pdf",
+      "record_id": "219772d0f7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: kept policy/designation because the record is anchored on the Prohousing Designation; the 295 South Mathilda land is already committed to MidPen, so it is not an open land offering. Designation date corrected from 2024 to May 27, 2025 per the 2025 APR.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Ordinance (Ordinance 297, 2018; amended 2022), Municipal Code Title XII Chapter 1, residential in-lieu fee and non-residential affordable housing impact fee (Resolution 8852)",
+      "administering_agency": "City of Milpitas Office of Housing (Planning and Neighborhood Services Department)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. New residential projects of 10 or more units must provide 15 percent of units as affordable on site; alternative compliance (including in-lieu fees) requires Council approval. Fee schedule under Resolution 8852, indexed annually: residential in-lieu fee $49.13 per square foot (July 2025 to June 2026) and $51.20 (July 2026 to June 2027) for all ownership and rental types; non-residential impact fee $10.59 per square foot commercial (office, retail, hotel) rising to $11.04, and $5.29 industrial (R&D, manufacturing, warehouse) rising to $5.51. Housing Element Program 17 targets 1,160 inclusionary units over the cycle and calls for defining very low, low and moderate income shares and extra credit for extremely low income units by the end of 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "15 percent of units affordable; income mix to be defined by the pending 2025 AHO amendment (current practice follows the ordinance and administrative guidelines under development). Preference program for McKinney-Vento families, current and former Milpitas residents and Milpitas workers.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "AHO amendment defining income tiers was due by end of 2025 and a full review by 2027 under the Housing Element; confirm status with the Office of Housing (408-586-3222, housing@milpitas.gov). Fee rates step up July 1, 2027 by index.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "In-lieu and impact fee revenue goes to the City's affordable housing fund administered with the Milpitas Housing Authority; no NOFA process was found and the fund balance was not published on the pages opened. Most Milpitas affordable projects (for example Mosaic Court, $42.3 million County Measure A; 355 Sango Court) are financed by County Measure A, SCCHA and state sources rather than City cash. Fee deferrals are offered for projects with on-site affordable units (Housing Element constraints chapter). milpitas.gov opened directly; the Legistar API has no Milpitas client, and Milpitas agendas are on CivicClerk.",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/10300",
+      "record_id": "a2686a5864",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "for-sale"
+      ],
+      "next_deadline_date": "2027-07-01",
+      "deadline_check": "future_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Housing Opportunity Districts (HOD), Neighborhood Commercial Mixed-Use and Town Center zoning incentives (Resolution 9404, adopted April 15, 2025)",
+      "administering_agency": "City of Milpitas Planning Division",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Zoning incentive, not a cash subsidy. LEAP-funded rezoning effective June 6, 2025 that raises allowable residential density to 60 units per acre in NCMU zones and 65 units per acre in Town Center zones, lowers minimum commercial FAR to 0.10 or 0.20, cuts residential parking to 1 space per unit and commercial to 1 per 300 square feet, reduces open space standards, and exempts 100 percent affordable projects in NCMU and Town Center areas from non-residential requirements. Implements Housing Element Program 15 (Housing Opportunity Zones) with a goal of at least 200 affordable units in these districts; Program 15 also contemplated a supplemental density bonus beyond state law, reduced impact fees and ministerial approval.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable units per the AHO (15 percent) or 100 percent affordable projects, which receive the non-residential exemption; state density bonus can be layered.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "In effect since June 6, 2025. The financial incentive and supplemental density bonus elements of Program 15 were not confirmed as adopted; check with Planning.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The HOD is Milpitas's main local tool beyond state density bonus. The 2008 Density Bonus Ordinance was replaced by Chapter C.12 of the new Zoning Ordinance (Title XIII), adopted September 2, 2025 and effective October 2, 2025, which follows state law and lists waived, reduced or deferred fees and additional density bonus as case-by-case incentives. Impact fees remain high (about $48,500 per unit in the Metro Specific Plan area including the Transit Area Development Impact Fee, about $29,064 elsewhere, mostly park in-lieu), so fee deferral or waiver for 100 percent affordable projects (Program 20 explores this for specific plan areas) matters more here than in neighboring cities. milpitas.gov opened directly (use curl over IPv4; the www host times out otherwise).",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/8216",
+      "record_id": "a920995edf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "100 percent affordable mixed-use"
+      ],
+      "next_deadline_date": "2025-06-06",
+      "deadline_check": "past_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Community Development Block Grant, FY 2026-27 Annual Action Plan (2025-2030 Consolidated Plan)",
+      "administering_agency": "City of Milpitas Office of Housing",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27 CDBG entitlement $538,212 plus about $8,000 program income, $294,688 carryover program income and $116,072 prior-year unused entitlement; roughly $561,000 for capital and housing rehabilitation activities (including Rebuilding Together Silicon Valley critical home repairs), $136,000 public services, with the remainder for other activities and administration. No HOME entitlement (Milpitas is in the County HOME Consortium). Council may supplement CDBG with the Housing Authority Fund.",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDBG low and moderate income benefit; housing rehabilitation for lower income owners.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The FY 2027-28 CDBG notice of funding availability was not posted on the City CDBG page; in the prior cycle the Council funding hearing was held in January and the Action Plan hearing in June.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Too small to matter for multifamily gap financing; Milpitas developers use the County HOME Consortium and County Measure A or SHDF (see county records) and SCCHA vouchers. milpitas.gov opened directly.",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/10522",
+      "record_id": "e8ff1e27ed",
+      "cycle_notes": "Annual CDBG cycle for nonprofit and City activities. FY 2026-27 plan: Council public hearings January 20, 2026 (funding allocations) and June 16, 2026 (plan adoption); entitlement $538,212, estimated program income $8,000, prior-year resources $521,760; capital and housing rehabilitation $561,060, public services $135,986. FY 2027-28 timing expected to follow the same pattern.",
+      "eligible_project_detail": [
+        "acquisition-rehab (owner repair)",
+        "public facilities",
+        "public services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

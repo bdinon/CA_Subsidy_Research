@@ -1,0 +1,80 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance (County Code Chapter 8-8), in-lieu fee and the Affordable Housing Program account, unincorporated Yolo County",
+      "administering_agency": "Yolo County Community Services Department, Planning Division (ordinance and affordable housing agreements); in-lieu fees held by the County in the Affordable Housing Program account",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory requirement, not a funding source. Ordinance 1451 (effective January 1, 2015) requires on-site affordable units: for-sale projects of 10 or more units set aside 20% (half low income, half moderate income); rental projects of 20 or more units set aside 25% very low income plus 10% low income; rental projects of 7 to 19 units set aside 15% very low plus 10% low. Smaller projects (9 or fewer single-family, 7 or fewer multifamily) pay an in-lieu fee assessed on a unit percentage basis. The in-lieu fee equals a percentage of the estimated cost to construct the required units, is set in the County Master Fee Schedule (last adopted June 24, 2025) and may be reduced up to 50% based on available subsidy; the current per-unit amount was not published in the opened documents (the 2009 schedule was $12,920 for-sale and $17,610 rental per required unit).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Rental inclusionary units must be permanently affordable (Sec. 8-8.108(b)); for-sale units carry a 20-year covenant that resets at each resale to a qualified buyer. Alternatives, only if on-site is shown infeasible: off-site units in the unincorporated county, land dedication (2 acres minimum), in-lieu fee, or housing credits transferable within 3 miles and 5 years. Density bonus units do not generate an inclusionary obligation.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at discretionary approval; fee estimate given at approval and paid before final map, first building permit or certificate of occupancy. In-lieu fees must be spent or encumbered within five years of receipt unless the Board extends.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The Affordable Housing Program account (Sec. 8-8.116) is the County's only local housing fund and it is fed solely by in-lieu fees from small unincorporated projects, so expect a balance in the low hundreds of thousands at most; no NOFA or award from it was found. For a 100% affordable project the ordinance imposes no obligation and offers the incentives in Sec. 8-8.118 (fee waiver, standards modifications, streamlining, density bonus). For a mixed-income rental project of 20 or more units the 35% combined set-aside (25% very low plus 10% low) is one of the steepest in the region and is a real feasibility constraint in Esparto, Madison and Dunnigan; the ordinance predates current state density bonus law and the Latinos Unidos v. Napa decision, so confirm how the County applies it today. Davis, Woodland and West Sacramento have their own inclusionary programs (Davis in-lieu fee about $215,000 per unit) covered in Pass 3.",
+      "source_url": "https://www.zoneomics.com/code/yolo-county-unincorporated-CA/chapter_8",
+      "record_id": "1ed9723764",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "homeownership",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption (property tax), Yolo County Assessor",
+      "administering_agency": "Yolo County Assessor/Clerk-Recorder/Elections (ACE), Jesse Salinas, 625 Court Street, Woodland, CA 95695; (530) 666-8135; ace.yolocounty.gov; with the State Board of Equalization (Organizational Clearance Certificate)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Exemption of property taxes on units restricted to lower income households under Revenue and Taxation Code 214(g): full exemption for qualifying units in LIHTC or publicly financed projects and partial exemption for the qualifying share in mixed projects. In Yolo County the 1% base rate plus voter-approved debt applies to the exempt value.",
+      "per_unit_cap": "Statewide $20 million assessed-value cap on the 214(g) exemption for non-LIHTC projects relying only on a regulatory agreement; no cap for LIHTC projects. AB 84 (2024) allows a share of units occupied by households up to 100% AMI to remain exempt, reported on BOE-267-L4.",
+      "affordability_requirement": "Nonprofit owner or limited partnership with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate; recorded regulatory agreement (tax credits, bonds, HOME, PLHA, housing authority or County agreement) restricting rents to lower income households; BOE-267-L2 tenant data where there is no government financing or tax credits.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 (first year) or BOE-267-A (annual) with the Assessor by February 15 each year with BOE-267-L, L1, L2 and L-A supplements as applicable; late filings through December 31 receive a partial exemption. The Yolo ACE website does not post exemption instructions; call the Assessor's office.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard underwriting item. Yolo County Housing is actively using the exemption as a financing tool: its FY 2026 plan commits to working with private investors to build affordable workforce housing 'utilizing the benefits of the welfare exemption,' and the December 2025 KIND West Sacramento deal deed-restricted 30 units for moderate income households with a YCH operating loan structured to meet exemption requirements. Check carefully that moderate income (above 80% AMI) units qualify only within the AB 84 over-income allowance; the core exemption is for lower income units.",
+      "source_url": "https://www.boe.ca.gov/proptaxes/countycontacts.htm",
+      "record_id": "2e605a49b8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

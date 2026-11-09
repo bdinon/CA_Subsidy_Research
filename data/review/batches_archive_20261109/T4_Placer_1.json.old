@@ -1,0 +1,80 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rocklin",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Rocklin Density Increase Incentive Program (Municipal Code Chapter 17.96, Ordinance 977) and Housing Element Program 10 Residential Minimum Density Overlay rezones (August 26, 2025)",
+      "administering_agency": "City of Rocklin Community Development Department, Planning Division (Arwen Wacht, Planning Manager; Nathan Anderson, Principal Planner)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory incentive, not a subsidy. Chapter 17.96 (2011) incorporates Government Code 65915 by reference for projects of five or more units in any residential zone: bonus amounts and concessions as specified in state law, applications processed with entitlements and approved if state criteria are met, affordability secured for 30 years or longer if required by financing. Separately, on August 26, 2025 Council approved General Plan amendments, a CEQA addendum and an ordinance applying the Residential Minimum Density Overlay (Chapter 17.53) to alternative RHNA sites to cure the shortfall HCD identified in its April 8, 2025 letter, including sites in the Rocklin West annexation.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus thresholds; 30-year minimum affordability covenant in the local chapter (state law now requires 55 years for rental units, which controls).",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Processed with entitlements. Confirm the final adoption date of the alternative sites rezone ordinance (introduced August 26, 2025) and the current RHNA site list with Planning.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancements beyond state law; Rocklin's incentives sit in AHIP (fee reduction, Low/Mod loans) rather than the density bonus chapter. The minimum density overlay sites are the practical pipeline of by-right multifamily land for 2021 to 2029 RHNA units. Chapter text read on the zoneomics mirror; the August 26, 2025 staff report cover was read from the Legistar packet on d2kbkoa27fdvtw.cloudfront.net.",
+      "source_url": "https://www.zoneomics.com/code/rocklin-CA/chapter_66",
+      "record_id": "ef95273e8f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income multifamily",
+        "senior housing"
+      ],
+      "next_deadline_date": "2025-08-26",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Auburn",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Auburn Density Bonus ordinance (Municipal Code Sections 159.330 to 159.342, ministerial density bonus permit)",
+      "administering_agency": "City of Auburn Planning and Public Works Department (1225 Lincoln Way, Auburn)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory incentive, not a subsidy. Implements Government Code 65915 to 65918 through a ministerial density bonus permit processed with other entitlements: bonuses per state tables for very low, lower and moderate income units, 20% for senior, foster youth, disabled veteran and homeless housing, 80% for 100% affordable projects (no density limit within one half mile of a major transit stop), incentives and concessions by threshold with a three-story or 33-foot height increase when four concessions apply near transit, unlimited waivers of standards that physically preclude the project, land donation bonus, parking ratios per state law, and a recorded density bonus housing agreement. The Director must determine completeness and the eligible bonus within 30 days. Filing fee set by Council resolution.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State thresholds; affordable units governed by Section 159.340 (affordable rent and housing cost per Health and Safety Code 50053 and 50052.5) with 55-year rental covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Processed with entitlements; no deadline.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Auburn (population about 14,000) has no local housing trust fund, inclusionary ordinance, in-lieu fee fund, housing successor fund or city NOFA; this chapter and the negotiated fee reductions in the Housing Element (next record) are the City's only tools. The Housing Element credits past density bonuses (one project received a 400% bonus with apartments in an R-1 zone and a 50% parking reduction) and Placer County land donation and Housing Trust Placer money for a 79-unit project. Gap funding for Auburn projects comes from Placer County in-lieu fee loans, County PLHA, Housing Trust Placer and PCHA PBVs. Chapter read on the zoneomics mirror (Auburn's code publisher is blocked); auburn.ca.gov DocumentCenter PDFs open directly.",
+      "source_url": "https://www.zoneomics.com/code/auburn-CA/chapter_18",
+      "record_id": "7211b3f714",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income multifamily",
+        "senior housing",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

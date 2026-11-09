@@ -1,0 +1,77 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Madera County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "Housing Authority of the City of Madera: vouchers, public housing, farm labor housing and possible project-based vouchers",
+      "administering_agency": "Housing Authority of the City of Madera (205 W. Fourth Street, Madera; board meets second Wednesday 6 p.m.)",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HACM owns 244 public housing units in the City of Madera, operates the Pomona Ranch Housing Center and USDA farm labor housing, and administers about 800 Housing Choice Vouchers countywide (small, qualified PHA). The FY 2026-27 Agency Plan (public notice May 2026, drafts June 2026) lists as goals evaluating project-based voucher initiatives, pursuing affordable housing development partnerships, tax credit and mixed-finance opportunities, Faircloth authority and RAD or Section 18 conversion of public housing; Attachment 2 states HACM is exploring project-basing vouchers in opportunity zones as opportunities arise. No PBVs are currently awarded and no RFP has been issued.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "HUD income limits; PBV program would follow 24 CFR 983 once adopted.",
+      "eligible_project_types": [
+        "new construction",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Approach HACM directly about a development partnership or a PBV commitment before a CTCAC application; the agency has no published selection process yet.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. HACM is the only local source of operating subsidy for a Madera project and it is just beginning to consider PBVs, so developers should plan on tenant-based voucher demand or state operating subsidies (NPLH, Homekey+) rather than a PBV HAP contract. Source is HACM's 2026 Agency Plan draft on maderaha.org.",
+      "source_url": "https://maderaha.org/wp-content/uploads/2026/06/Agency-Plan-2026-DRAFT.pdf",
+      "record_id": "1ae77ad43b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "future PBV commitments for new construction",
+        "RAD or Section 18 repositioning partnerships",
+        "farmworker housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Madera",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "City of Madera Permanent Local Housing Allocation (PLHA), 2019-2023 five-year plan",
+      "administering_agency": "City of Madera Grants Division (Finance)",
+      "funding_type": "loan",
+      "typical_award_size": "2022 PLHA award of $1,801,097 (FY 2019, 2020 and 2021 allocations), notified February 15, 2023. The ConPlan lists $1,361,913 remaining for housing. The 2026 Housing Element estimates $1,455,181 available from award years 2021-2023, earmarked for housing construction and rehabilitation.",
+      "per_unit_cap": null,
+      "affordability_requirement": "The plan funds affordable rental development or rehabilitation (generally at or below 60% to 80% AMI under HCD PLHA guidelines) and homeless services. The City has not published its own income targets.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. No open City solicitation found as of 2026-11-08. The 2019-2023 plan period has ended, so check whether a new five-year plan has been adopted for later allocations.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The largest uncommitted local pool identified for the City of Madera (about $1.36M to $1.46M). Pair it with City HOME (separate record) to form one local gap layer. Madera County has its own PLHA allocation (county record), so a project in the city could in principle seek both. State-source funds generally count as public funds under Labor Code 1720. The City web page describes only the 2022 application and award; no commitment to a specific project was found this pass.",
+      "source_url": "https://www.madera.gov/living-in-madera/housing-grants-assistance-programs/permanent-local-housing-allocation-plha-program/",
+      "record_id": "7523df22f7",
+      "cycle_notes": "no City NOFA found; Council approves commitments",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-08",
+      "deadline_check": "future_date"
+    }
+  }
+]

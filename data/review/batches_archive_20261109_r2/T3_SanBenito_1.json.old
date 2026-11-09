@@ -1,0 +1,39 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Conduit multifamily revenue bonds through CMFA with County TEFRA approval",
+      "administering_agency": "San Benito County Board of Supervisors (TEFRA hearings via Resource Management Agency); California Municipal Finance Authority as issuer",
+      "funding_type": "bond",
+      "typical_award_size": "Baler Place, 340 Bridgevale Road, Hollister (CRP Baler Place LP, 53 family units, three stories, all-electric): TEFRA hearing and Resolution 2026-55 approving up to $21,000,000 of CMFA tax-exempt bonds on April 28, 2026; the County joined the CMFA joint powers agreement at the same meeting and may receive a share of issuance fees. The project also holds 25 project-based vouchers from the Housing Authority of the County of Santa Cruz.",
+      "per_unit_cap": "Not applicable; bond amount sized to the 50% test for 4% tax credits.",
+      "affordability_requirement": "Bond regulatory agreement: at least 20% of units at 50% AMI or 40% at 60% AMI for the qualified project period, typically 55 years with CTCAC.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request a TEFRA hearing through Planning and Building at least six weeks before the CDLAC application; the County is now a CMFA member so no new JPA step is needed.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. The County is not an issuer and bears no liability; it hosts TEFRA hearings for CMFA (and could for CSCDA or CalPFA) because Hollister projects sit in the county. Baler Place shows the typical San Benito stack: 4% credits and CMFA bonds, HACSC PBVs, no County cash. Source is the April 28, 2026 Board packet.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/76d83a40c5c04e98ef94056ac313b0e40.pdf",
+      "record_id": "486d759c0b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "4% LIHTC multifamily new construction",
+        "acquisition and rehabilitation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

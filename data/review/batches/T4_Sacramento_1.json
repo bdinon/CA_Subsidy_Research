@@ -1,0 +1,80 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "HOME Investment Partnerships Program, Sacramento County HOME Consortium",
+      "administering_agency": "SHRA for the County of Sacramento (lead entity) and consortium cities Citrus Heights, Folsom, Rancho Cordova, Galt and Isleton",
+      "funding_type": "loan",
+      "typical_award_size": "2027 Action Plan: $2,825,253 annual allocation plus $900,000 program income ($3.73M total). 2024 entitlement $2,965,817; year-end 2024 balance $15.7M ($9.1M uncommitted). $2,500,000 posted as available June 1, 2026. Recent project loans $1.5M to $8.9M (Arden Star $8.9M for 48 HOME units; Madison Square $4.45M; San Juan Phase II $4.2M).",
+      "per_unit_cap": "HUD 221(d)(3) per-unit subsidy limits under 24 CFR 92.250; recent awards roughly $170,000 to $210,000 per HOME unit.",
+      "affordability_requirement": "20% of HOME-assisted units at 50% AMI (Low HOME rents), remainder at or below 60% AMI with rents at 65% AMI; federal affordability period 5 to 20 years but SHRA records 55-year restrictions. 15% CHDO set-aside.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Through SHRA multifamily pre-application rounds (next expected January 2027); HUD program year is the calendar year, 2027 Action Plan drafted August 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Applies to the unincorporated county and the five consortium cities (Elk Grove and the City of Sacramento are separate HUD entitlements). HOME on 12 or more units triggers Davis-Bacon, and SHRA policy requires the higher of state or federal wage by trade when both apply; applicants must flag wage assumptions in the SHRA narrative. HOME units stack with CTCAC units but the HOME rent and income rules are the binding constraint on those units. SHRA may assign HOME rather than local fee funds to a request, so underwrite wages conservatively. Environmental review (NEPA) deadline falls two months after SHRA's application deadline. SB 802 (Chapter 417, Statutes of 2026) requires the County and cities to form the Sacramento Area Housing and Homelessness Agency, a regional JPA that absorbs SHRA, by January 1, 2028; expect program administration, fee funds and NOFA calendars to migrate to that agency during 2027-2028.",
+      "source_url": "https://www.shra.org/wp-content/uploads/2026/08/2027-County-AP-Narrative_Final.pdf",
+      "record_id": "ae4ab45094",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Sacramento County Affordable Housing Incentive Program (density bonus, Zoning Code Section 6.5.4)",
+      "administering_agency": "Sacramento County Planning and Environmental Review",
+      "funding_type": "density bonus",
+      "typical_award_size": "State Density Bonus Law as implemented in the County Zoning Code: 20% bonus for 5% very low income rising to 50% at 15%; 20% for 10% low income rising to 50% at 20%; 80% bonus for 100% affordable projects (up to 20% moderate) plus a three-story or 33-foot height increase within a half mile of a major transit stop; separate schedules for senior, special needs, moderate-income for-sale and land donation. Up to five concessions (one for 5% VLI, three at 15% VLI, four at 16% to 99%, five for 100% affordable; one more for child care). Table 6.4.1 (added June 11, 2026) adds bonus for projects at or below 50% restricted units.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Minimum five units with 5% very low, 10% low, 10% moderate (for-sale), or special population set-asides; rental target units restricted 55 years with professional management; units built concurrently and dispersed on site.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; filed with the entitlement application together with an Affordable Housing Strategies Memorandum; the County does not charge a processing fee for eligible applications (Housing Element page). Affordable Housing Agreement must be recorded before grading and building permits.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Parking maximums: 1 space studio and 1-bedroom, 1.5 for 2- and 3-bedroom, 2.5 for 4-bedroom; within a half mile of major transit 0.5 per bedroom, 0.5 per unit for 100% lower-income rental, none for special needs housing. Waivers of standards that physically preclude the project are unlimited but do not count as concessions. Land donation (one acre or 40 units, zoned 30+ units per acre) earns bonus and can satisfy the AHO. Combine with the AHO fee exemption (20% affordable at 17+ du/ac) and the Countywide Rezone Program sites for by-right or streamlined approval. 100% affordable LIHTC projects typically use the 80% bonus and parking reductions to cut costs rather than add units.",
+      "source_url": "https://landuse.saccounty.gov/szc/ch6/",
+      "record_id": "49b5603c6d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

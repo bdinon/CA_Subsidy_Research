@@ -1,0 +1,282 @@
+[
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Federal 9% Low-Income Housing Tax Credit (Competitive)",
+      "administering_agency": "California Tax Credit Allocation Committee (CTCAC), State Treasurer's Office",
+      "funding_type": "tax credit",
+      "typical_award_size": "2026 federal ceiling $136.4M annual credit statewide ($3.416 per capita). Per-project cap $2.8M annual federal credit (Reg. 10325(f)(9)(C)). Set-asides: Nonprofit 10%, Rural 20% (incl. 14% RHS/HOME/CDBG-DR and 10% Native American apportionments within rural), At-Risk 5%, Special Needs 4%. Geographic apportionments for target counties: Capital Region (El Dorado, Placer, Sacramento, Sutter, Yuba, Yolo) 5.7%; East Bay (Alameda, Contra Costa) 7.4%; South and West Bay (San Mateo, Santa Clara) 6.0%; Northern Region (Butte, Marin, Napa, Shasta, Solano, Sonoma) 4.4%; Central Valley (incl. San Joaquin) 8.6%.",
+      "per_unit_cap": "No fixed per-unit cap; credit limited by threshold basis limits (updated Jan 2026) and $2.8M annual federal credit per project. Developer fee cap $2.5M generally.",
+      "affordability_requirement": "Minimum federal 20% at 50% AMI or 40% at 60% AMI (or average income test); competitive scoring effectively requires deep targeting. 55-year CTCAC regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026 rounds closed (R1 April 7, 2026; R2 July 21, 2026). 2027 schedule not posted as of 2026-11-06; expect two rounds, spring and summer 2027. 2027 regulations to be adopted Dec 9, 2026.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mutually exclusive with 4% credits and CDLAC bonds on the same building; a project may not hold concurrent 9% and 4% AHSC applications. Commonly stacked with HCD MHP, AHSC, VHHP, Serna, local HOME/CDBG, county and city soft loans, and the welfare property tax exemption. CTCAC awards state credits alongside 9% federal credits via geographic apportionments (state credits adjusted at 80%). Nonprofit set-aside prioritizes homeless-assistance projects with at least $500K or $10K/unit of MHP, VHHP, Homekey, NPLH, HHC or MHSA capital. Prevailing wage not required by CTCAC itself, but Reg. 10327 grants a 20% threshold basis limit increase for prevailing-wage projects and 5% more for a PLA or skilled-and-trained workforce. Tiebreaker favors high public leverage, so local soft money matters. Max four awards per applicant per round. Proposed 2027 changes (Dec 9, 2026 adoption) would let small regions access the full annual apportionment in round 1 and cap state credit requests at $150,000 per tax credit unit.",
+      "source_url": "https://www.treasurer.ca.gov/ctcac/2026/application.asp",
+      "record_id": "5b8681f9c7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Federal 4% Low-Income Housing Tax Credit (Tax-Exempt Bond Financed)",
+      "administering_agency": "California Tax Credit Allocation Committee (CTCAC), joint application with CDLAC",
+      "funding_type": "tax credit",
+      "typical_award_size": "Non-competitive at CTCAC once CDLAC bond allocation is secured; credit equals roughly 4% of qualified basis annually for 10 years, limited by threshold basis limits. No per-project federal credit cap. Application fee $1,500 CTCAC plus $1,500 CDLAC ($1,700 scattered-site or resyndication).",
+      "per_unit_cap": "None stated; governed by threshold basis limits and CDLAC bond sizing.",
+      "affordability_requirement": "Federal minimum 20% at 50% AMI or 40% at 60% AMI (average income test allowed); CDLAC scoring drives deeper targeting. 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026 joint CDLAC/CTCAC rounds closed (Feb 3, May 19, Sept 8, 2026). 2027 schedule not posted as of 2026-11-06; expect three rounds (early Feb, mid May, early Sept pattern).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Requires CDLAC private activity bond allocation (bond financing threshold reduced from 50% to 25% of aggregate basis plus land by federal H.R. 1 for bonds issued after 2025). Core stack for larger new construction: 4% credits + CDLAC bonds + state credits (base or enhanced) + HCD MHP or AHSC + CalHFA MIP + local soft funds. Enhanced state credits ($500M program) available only with 4% new construction. Acq/rehab 4% deals can access the 15% state credit set-aside. Cannot combine with 9% credits on the same building. CalHFA bond recycling can substitute for part of the bond allocation but recycled bonds do not generate 4% credits. Prevailing wage is not triggered by the credits or conduit bonds alone, but most state soft sources in the stack (HCD, AHSC) will trigger it; CTCAC gives a 20% basis limit boost for prevailing wage projects.",
+      "source_url": "https://www.treasurer.ca.gov/ctcac/2026/application.asp",
+      "record_id": "de2bd5c89b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "State Low-Income Housing Tax Credit (Base Program, R&TC Sec. (g)(1)(A))",
+      "administering_agency": "California Tax Credit Allocation Committee (CTCAC)",
+      "funding_type": "tax credit",
+      "typical_award_size": "2026 state credit ceiling $129.6M ($70M statutory base plus CPI adjustment), of which $67.3M available in 2026 after prior-year advance allocations. 15% ($10.1M) set aside for 4% acquisition/rehab projects; balance awarded with 9% credits through geographic apportionments. State credit is taken over 4 years (30% of basis for new construction: 9%/9%/9%/3%; 13% for acq/rehab basis). Separate $500K annual Farmworker credit.",
+      "per_unit_cap": "Proposed 2027 regulation caps state credit requests at $150,000 per tax credit unit (currently $200,000); farmworker projects exempt.",
+      "affordability_requirement": "Same as paired federal credit; state credit available only to projects receiving or concurrently receiving federal LIHTC. 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Awarded in the same 9% and 4% rounds; 2027 round schedule not posted as of 2026-11-06.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Paired with 9% credits automatically in geographic apportionments (CTCAC may exchange state credits for federal credits if state credits run short; proposed 2027 rule keeps at least 50% of the state request). 4% acq/rehab projects can request state credits only from the 15% set-aside and must meet criteria (A)-(D): building at least 15 years old, serving very low or extremely low income averaging 45% AMI or RHS 514/521 financed, insufficient credits due to low appraised value, substantial rehab. State credits may be certificated (sold) by nonprofit applicants at no less than $0.80 per dollar. Does not count as public funds for prevailing wage.",
+      "source_url": "https://www.treasurer.ca.gov/ctcac/tax.asp",
+      "record_id": "78496bacd8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Enhanced State Tax Credits for 4% New Construction (R&TC Sec. (g)(1)(B), $500M program)",
+      "administering_agency": "California Tax Credit Allocation Committee (CTCAC)",
+      "funding_type": "tax credit",
+      "typical_award_size": "$500M in state credits per year (2020 through 2026 budgets), plus carryforward ($515.5M total in 2026). 2026 split: $390.5M general allocation across the three 4% rounds, $25M for farmworker housing, $100M reserved for CalHFA Mixed-Income Program projects (used in Round 2). Basis multiplier 30% of construction-related basis (75% for projects not otherwise eligible for the 130% boost).",
+      "per_unit_cap": "Proposed 2027 cap of $150,000 state credit per tax credit unit.",
+      "affordability_requirement": "New construction paired with 4% federal credits; must receive a CDLAC bond allocation. Ranking follows CDLAC pools and set-asides (Rural, Homeless, ELI/VLI, Mixed-Income, geographic regions).",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Awarded with CDLAC/CTCAC 4% rounds; 2027 appropriation subject to the 2027-28 state budget (program has been funded annually since 2020). 2027 round dates not posted as of 2026-11-06.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "This is the main gap filler for 4% new construction deals and is the credit source CalHFA MIP relies on ($100M MIP set-aside, which CTCAC may cut to $200M statutory max or lower by agreement). Not available for acq/rehab or 9% projects. State credits are allocated by CDLAC pool ranking when oversubscribed: Emerging Developer (replacing BIPOC) 15%, Rural 15%, Homeless set-aside 25%, ELI/VLI set-aside 20%, then geographic regions. Beginning 2028, the $25M farmworker credits would pair with HDFC's Joe Serna program under proposed rules.",
+      "source_url": "https://www.treasurer.ca.gov/ctcac/tax.asp",
+      "record_id": "c9d0409f83",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "State Farmworker Housing Tax Credit",
+      "administering_agency": "California Tax Credit Allocation Committee (CTCAC)",
+      "funding_type": "tax credit",
+      "typical_award_size": "$500,000 in new state credits annually (plus carryforward; $1.0M available and fully awarded in 2026). Separate $25M annual enhanced state credit set-aside for 4% farmworker new construction. Basis multiplier up to 75% for farmworker projects.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Farmworker housing meeting CTCAC definition; paired with federal credits.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Awarded in regular CTCAC rounds; 2027 schedule not posted as of 2026-11-06.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Relevant to agricultural counties in scope (Napa, Sonoma, Yolo, San Joaquin, Solano). Commonly paired with HCD Joe Serna Jr. Farmworker Housing Grant and USDA Section 514/516. Exempt from the proposed per-unit state credit cap.",
+      "source_url": "https://www.treasurer.ca.gov/ctcac/tax.asp",
+      "record_id": "98bceafe96",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "needs_confirmation",
+      "program_name": "Local Government Special Needs Housing Program (SNHP)",
+      "administering_agency": "California Housing Finance Agency (CalHFA), with county MHSA funds",
+      "funding_type": "loan",
+      "typical_award_size": "Historically county-funded MHSA capital loans and capitalized operating subsidies administered by CalHFA (16 participating counties as of 2019).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Permanent supportive housing units for persons with serious mental illness eligible for MHSA services.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Program discontinued effective January 3, 2020 per DHCS Information Notice 19-047; no new rounds.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "No live CalHFA program page exists; the CalHFA multifamily programs page (source) no longer lists SNHP, and a DHCS notice (BH-IN-19-047) states CalHFA discontinued the program effective Jan 3, 2020 with county MHSA funds reverting to county control. Marked needs_confirmation because the DHCS notice could not be opened this pass. Successor supportive housing capital now comes from Homekey+, HCD MHP supportive units, and county Behavioral Health Services Act (Prop 1) housing allocations (research in Pass 2). CTCAC still lists SNHP commitments as qualifying homeless-assistance funding in the nonprofit set-aside.",
+      "source_url": "https://www.calhfa.ca.gov/multifamily/programs/index.htm",
+      "record_id": "80011286ab",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2020-01-03",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "needs_confirmation",
+      "program_name": "Golden State Acquisition Fund (GSAF)",
+      "administering_agency": "HCD seed capital; Low Income Investment Fund is administrative agent and fund manager; originators are LIIF, Century Housing, Community Vision, Corporation for Supportive Housing, Enterprise Community Loan Fund, Housing Trust Silicon Valley, LISC and RCAC",
+      "funding_type": "loan",
+      "typical_award_size": "$292 million revolving fund (LIIF, 2026) making short-term acquisition and predevelopment loans through eight CDFI originators; terms set by each originator (Century reports GSAF participation can lift acquisition loan-to-value toward 100%).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Sites to be developed or preserved as affordable housing; terms per fund manager.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling through fund managers listed at goldenstate-fund.com.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Listed on HCD's grants and funding page with an external link; the fund's own site was not opened this pass, so terms need confirmation. Bridge financing only; repaid at construction closing from LIHTC/bond sources. Pass 4 (2026-11-08): LIIF's national funds page confirms GSAF is a $292 million fund active since 2013 with LIIF as administrative agent, fund manager and originator and eight CDFI originators (LIIF, Century Housing, Community Vision, CSH, Enterprise Community Partners, Housing Trust Silicon Valley, LISC, RCAC); Century's acquisition term sheet references GSAF as a leverage source. The fund's own site (gsafund.org) did not respond this pass, so terms still need confirmation with an originator.",
+      "source_url": "https://www.hcd.ca.gov/grants-and-funding",
+      "record_id": "2a293a3fe3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

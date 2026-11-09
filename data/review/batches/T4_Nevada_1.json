@@ -1,0 +1,121 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Western Nevada County Regional Housing Trust Fund (WNCRHTF) gap loans",
+      "administering_agency": "Nevada County Housing and Community Services Department (with City of Grass Valley and Nevada City)",
+      "funding_type": "loan",
+      "typical_award_size": "Formed July 14, 2020 (Resolutions 20-315, 20-316, 20-317) by the County, Grass Valley and Nevada City, capitalized with PLHA, a state Local Housing Trust Fund (LHTF) matching grant awarded February 3, 2021, HHSA Intergovernmental Transfer funds, ARPA and a $1 million General Fund commitment repurposed as match in 2025. Awards to date: Cashin's Field (51 units, Nevada City, Resolution 21-116 loan, completed January 2023); Lone Oak Senior Apartments II (31 units, Penn Valley, Pacific West Communities) $1,024,775 under RFP 3 (Resolution 23-227, May 23, 2023) plus $1,281,373 (Resolution 25-167, May 13, 2025) for a $2,306,128 loan approved May 19, 2026 (Resolution 26-196); Habitat for Humanity Ventana Sierra (owner-occupied, May 2023 RFP).",
+      "per_unit_cap": "Not published. Lone Oak II works out to about $74,000 per unit; Cashin's Field loan amount not stated on the trust fund page.",
+      "affordability_requirement": "Low income rental or owner-occupied housing; the Lone Oak II loan is an unsecured deferred loan repaid from residual receipts with affordability tied to the TCAC regulatory agreement. LHTF rules (lower income, 55-year rental covenants, 3% simple maximum) apply to the state-matched share.",
+      "eligible_project_types": [
+        "new construction",
+        "senior housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No open RFP. Resolution 24-121 lets HCS pre-select LHTF projects by RFP and publish preliminary awards on the trust fund page when a new LHTF round opens. The June 16, 2026 PLHA plan amendment states LHTF match is no longer available, so PLHA Rounds 4 and 5 will fund projects directly rather than through the trust fund. Check nevadacountyca.gov/3926 for any new RFP.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. The trust fund is the County's only local gap source and has been used as the TCAC local contribution that moved Lone Oak II from unfunded to a December 2025 4% award. Expect small amounts ($1 million to $2.3 million) and a Board resolution for each loan. Pair with state HOME (Lone Oak II received $11,041,628) and CMFA or CSCDA conduit bonds. Future awards are likely to come as direct PLHA loans scored jointly with the two cities instead of trust fund loans.",
+      "source_url": "https://www.nevadacountyca.gov/3926/Western-Nevada-County-Regional-Housing-T",
+      "record_id": "18e6cb12ba",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "senior affordable housing",
+        "owner-occupied affordable (Habitat model)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Residential Density Bonus and Incentives for Affordable and Senior Housing (Land Use and Development Code Section 12.03.160)",
+      "administering_agency": "Nevada County Community Development Agency, Planning Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "Implements Government Code 65915 for projects of five or more units: 10% lower income, 5% very low income, 10% moderate income (for-sale), 50% senior, 50% workforce housing (60% to 150% AMI, a local category), 10% transitional foster youth, disabled veteran or homeless units, or 100% affordable projects. Bonus and incentive tables track state law (20% to 50%, up to 80% for 100% affordable within one-half mile of transit); senior developments get 20%. Parking ratios reduced per state law. Additional bonus and incentive provisions for transitional and supportive housing are in the Section governing those uses.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "55-year covenants for rental very low and lower income bonus units; moderate income for-sale units per state law.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income",
+        "senior housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; applied with the land use entitlement. The 7th Cycle Housing Element (2027-2035) will rezone at least 42 acres to the RH zone at 16 units per acre to cover a 677-unit lower income shortfall, with rezoning due by May 15, 2030.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. The density bonus is the County's only land use incentive; there is no inclusionary ordinance, no local fee waiver and no housing impact fee. Most multifamily sites are in the Grass Valley and Nevada City spheres, Penn Valley and Lake of the Pines area, and the eastern county near Truckee (Pacific Crest Commons, 55 units, is in the Town). Watch the RH rezone list in the draft Housing Element submitted to HCD in November 2026.",
+      "source_url": "https://nevadacountyca.gov/DocumentCenter/View/56807/Read-about-Density-Bonuses-Section_1203160",
+      "record_id": "61eff6269e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "senior housing",
+        "mixed income for-sale",
+        "supportive and transitional housing"
+      ],
+      "next_deadline_date": "2030-05-15",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Regional Housing Authority Project-Based Vouchers (PBV) and Housing Choice Vouchers",
+      "administering_agency": "Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake Counties), 1455 Butte House Road, Yuba City, 530-671-0220",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HUD Section 8 PBVs attached to specific units under HAP contracts with private owners; Nevada County PBV properties include Courtyard at Penn Valley (re-syndicated LIHTC project) and Grass Valley Terrace Apartments (PBV waitlist opened January 2024). Tenants pay about 30% of income. The JPA was amended and restated to add Lake County (approved May 13, 2026). The County's BHSA plan reports the authority will not open or expand vouchers in calendar 2026.",
+      "per_unit_cap": "HUD payment standards for Nevada County; HAP contracts up to 20 years.",
+      "affordability_requirement": "Households at or below 50% AMI at admission (75% at or below 30% AMI) per HUD; PBV units must meet Housing Quality Standards.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No PBV owner solicitation posted on regionalha.org as of November 8, 2026. Contact the authority about future PBV competitions; existing property waitlists are managed through the Applicant Portal.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. The authority serves five counties from Yuba City and has a small PBV portfolio in Nevada County. With no new vouchers in 2026, underwriting should not assume PBV rents unless the authority commits in writing. Davis-Bacon applies to PBV new construction or rehab of nine or more contract units.",
+      "source_url": "https://www.regionalha.org/programs/project-based-vouchers",
+      "record_id": "7eede8d9b7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "acquisition/rehab",
+        "permanent supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

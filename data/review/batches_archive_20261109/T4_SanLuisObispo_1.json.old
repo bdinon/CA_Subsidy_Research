@@ -1,0 +1,114 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance and housing impact fee (repealed June 7, 2022)",
+      "administering_agency": "San Luis Obispo County Department of Planning and Building",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Ordinances 3471 (Title 22 Section 22.12.040), 3472 (Title 23 Section 23.04.096) and 3473 (Title 29) repealed the inclusionary requirement and discontinued collection of in-lieu and housing impact fees effective June 7, 2022. Title 29 remains only to spend pre-repeal balances.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "None; no on-site inclusionary requirement applies in the unincorporated area.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Replaced by the voluntary Regional Housing Incentive Program and Title 31 Regional Housing Fund adopted October 21, 2025.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. Market-rate projects in the unincorporated county carry no inclusionary obligation, which removes a layering source but also makes mixed-income deals simpler. Cities (San Luis Obispo, Paso Robles and others) keep their own inclusionary rules (Pass 3).",
+      "source_url": "https://www.slocounty.ca.gov/departments/social-services/forms-documents/homeless-services/homepage/2026/title-29-report-for-fy-2025-26",
+      "record_id": "c7c6f8c75d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "not applicable"
+      ],
+      "next_deadline_date": "2025-10-21",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "San Luis Obispo County Housing Trust Fund revolving loans (private CDFI)",
+      "administering_agency": "San Luis Obispo County Housing Trust Fund, 71 Zaca Lane Suite 130, San Luis Obispo, 805-543-5970 (Kathy McClenathen, Deputy Director)",
+      "funding_type": "loan",
+      "typical_award_size": "Notice of Funding Available updated April 1, 2026: up to $3 million available, maximum loan $3 million per project, term generally up to 5 years, 5% to 7% fixed interest, 1% to 2% fees plus costs, real estate collateral (may be subordinate), loan-to-value 80% to 100% including senior debt. LIHTC Project Loans (soft, 15-year or longer, from LHTF and PLHA grant funds): up to $40,000 per extremely low income unit and $20,000 per low income unit, $1.5 million per project. Since 2003: 70 loans over $44 million for 1,700 units; $5.9 million closed in 2024 with $20 million outstanding.",
+      "per_unit_cap": "$40,000 per ELI unit and $20,000 per LI unit on LIHTC Project Loans; $1.5 million per project for longer-term loans; $3 million per project overall.",
+      "affordability_requirement": "Extremely low to moderate income (most loans at or below 80% AMI); can finance units to 120% or 160% AMI; priority for housing serving people with disabilities; 40% of resources committed to ELI households.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "mixed-income",
+        "mixed-use",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; four-step process starting with a phone or email inquiry, then invitation to apply. Maintains a 2026 Multi-Family Readiness List.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. The Housing Trust Fund is the fastest local money in the county and has participated in nearly every recent affordable deal (Cambria Pines, Rolling Hills III, Cleaver and Clark Commons, River Walk Terrace). Use it for predevelopment and acquisition bridges before County and state awards, and ask about the LIHTC soft loan product funded by state LHTF matching grants ($1.5 million LHTF award reported in 2025).",
+      "source_url": "https://www.slochtf.org/for-borrowers",
+      "record_id": "42918f0000",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment",
+        "site acquisition",
+        "construction and bridge loans",
+        "acquisition/rehab",
+        "LIHTC permanent soft loans",
+        "mixed-income and mixed-use with affordable units"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Arroyo Grande",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Density Bonuses (Municipal Code Chapter 16.82; Ord. 596, 2007)",
+      "administering_agency": "City of Arroyo Grande Community Development Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement-based entitlement, not a subsidy. Local codification of state density bonus law: one density bonus per project for 10% lower income, 5% very low income, senior housing, qualified mobilehome park or 10% moderate income for-sale units, with specified bonus percentages, incentives and concessions, waivers of development standards, parking incentives and land donation provisions. Section 16.82.130 defers to state law amendments, so the larger bonuses and lower thresholds in current Government Code 65915 apply even though the chapter text dates to 2007.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Chapter text requires 30-year affordability for low and very low income bonus units (state law now requires 55 years, which governs); equity sharing for moderate income for-sale units.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; requested with the planning application.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement beyond state law; the chapter has not been comprehensively updated since 2007 and relies on its state-law amendment clause. Inclusionary units under Chapter 16.80 can be used to qualify for the bonus (Section 16.80.110), which is the main local layering point. Arroyo Grande has no fee waiver ordinance, RDA successor housing fund or NOFA; its tools are the inclusionary trust fund and this chapter, plus County and HASLO resources. Read on the zoneomics mirror.",
+      "source_url": "https://www.zoneomics.com/code/arroyo-grande-CA/chapter_22",
+      "record_id": "8e382c7245",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

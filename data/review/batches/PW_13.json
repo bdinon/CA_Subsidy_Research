@@ -1,0 +1,1062 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Housing Opportunity Districts (HOD), Neighborhood Commercial Mixed-Use and Town Center zoning incentives (Resolution 9404, adopted April 15, 2025)",
+      "administering_agency": "City of Milpitas Planning Division",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Zoning incentive, not a cash subsidy. LEAP-funded rezoning effective June 6, 2025 that raises allowable residential density to 60 units per acre in NCMU zones and 65 units per acre in Town Center zones, lowers minimum commercial FAR to 0.10 or 0.20, cuts residential parking to 1 space per unit and commercial to 1 per 300 square feet, reduces open space standards, and exempts 100 percent affordable projects in NCMU and Town Center areas from non-residential requirements. Implements Housing Element Program 15 (Housing Opportunity Zones) with a goal of at least 200 affordable units in these districts; Program 15 also contemplated a supplemental density bonus beyond state law, reduced impact fees and ministerial approval.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable units per the AHO (15 percent) or 100 percent affordable projects, which receive the non-residential exemption; state density bonus can be layered.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "In effect since June 6, 2025. The financial incentive and supplemental density bonus elements of Program 15 were not confirmed as adopted; check with Planning.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The HOD is Milpitas's main local tool beyond state density bonus. The 2008 Density Bonus Ordinance was replaced by Chapter C.12 of the new Zoning Ordinance (Title XIII), adopted September 2, 2025 and effective October 2, 2025, which follows state law and lists waived, reduced or deferred fees and additional density bonus as case-by-case incentives. Impact fees remain high (about $48,500 per unit in the Metro Specific Plan area including the Transit Area Development Impact Fee, about $29,064 elsewhere, mostly park in-lieu), so fee deferral or waiver for 100 percent affordable projects (Program 20 explores this for specific plan areas) matters more here than in neighboring cities. milpitas.gov opened directly (use curl over IPv4; the www host times out otherwise).",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/8216",
+      "record_id": "a920995edf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "100 percent affordable mixed-use"
+      ],
+      "next_deadline_date": "2025-06-06",
+      "deadline_check": "past_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Milpitas Housing Authority fund (former redevelopment housing successor, LMIHAF) and Below Market Rate programs",
+      "administering_agency": "City of Milpitas Office of Housing and Milpitas Housing Authority",
+      "funding_type": "loan",
+      "typical_award_size": "The Milpitas Housing Authority is the housing successor to the Milpitas Redevelopment Agency and holds the Low and Moderate Income Housing Asset Fund. FY 2022-23 Housing Successor Annual Report (April 1, 2024): deposits $999,623 (loan repayments $75,139, rental income $81,496, home sale equity share $87,064, interest $755,924); ending balance $40,076,469, of which $35,523,352 is loans receivable and $1,800,000 land held for resale, leaving about $2.4 million unencumbered; FY 2022-23 spending $549,926 ($455,406 administration and monitoring, $84,520 homeless prevention, $10,000 housing development). The Housing Element names the Housing Authority as a funding source for Program 16 (site acquisition and predevelopment assistance, deferred, reduced or waived fees), Program 19 (BMR homeownership) and rental assistance, and Program 16 called for evaluating an affordable housing bond or EIFD by end of 2025. The 1432-1446 South Main Street site was being marketed for sale with proceeds to the LMIHAF.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Dissolution Law (Health and Safety Code 34176.1): at least 30 percent of LMIHAF development spending over each five-year period for rental housing at or below 30 percent AMI (Milpitas reported 86.14 percent for the period tested in FY 2019-20; next test in the FY 2024-25 report); remaining funds for households up to 80 percent AMI; City agreements for assisted units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found. Contact the Office of Housing (408-586-3222) for the current LMIHAF balance and the status of the bond or EIFD evaluation.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Unencumbered LMIHAF cash is small (about $2.4 million at June 30, 2023) relative to the $35.5 million loan portfolio; annual deposits run about $0.5 to $1.0 million, so expect modest predevelopment or acquisition loans rather than full gap financing. Milpitas projects rely on County Measure A (Mosaic Court, Sango Court), SCCHA vouchers, Housing Trust Silicon Valley and state programs. Expedited review is offered for projects with more than 20 percent lower income units (Program 16). Later Housing Successor reports (FY 2023-24 and FY 2024-25) were not checked in this audit. milpitas.gov opened with curl over IPv4.",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/6324",
+      "record_id": "a9279a8a2f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homebuyer assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "Audit 2026-11-08: verified from the FY 2022-23 Housing Successor Annual Report and the Housing Element; fund balances added.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Community Development Block Grant, FY 2026-27 Annual Action Plan (2025-2030 Consolidated Plan)",
+      "administering_agency": "City of Milpitas Office of Housing",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27 CDBG entitlement $538,212 plus about $8,000 program income, $294,688 carryover program income and $116,072 prior-year unused entitlement; roughly $561,000 for capital and housing rehabilitation activities (including Rebuilding Together Silicon Valley critical home repairs), $136,000 public services, with the remainder for other activities and administration. No HOME entitlement (Milpitas is in the County HOME Consortium). Council may supplement CDBG with the Housing Authority Fund.",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDBG low and moderate income benefit; housing rehabilitation for lower income owners.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The FY 2027-28 CDBG notice of funding availability was not posted on the City CDBG page; in the prior cycle the Council funding hearing was held in January and the Action Plan hearing in June.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Too small to matter for multifamily gap financing; Milpitas developers use the County HOME Consortium and County Measure A or SHDF (see county records) and SCCHA vouchers. milpitas.gov opened directly.",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/10522",
+      "record_id": "e8ff1e27ed",
+      "cycle_notes": "Annual CDBG cycle for nonprofit and City activities. FY 2026-27 plan: Council public hearings January 20, 2026 (funding allocations) and June 16, 2026 (plan adoption); entitlement $538,212, estimated program income $8,000, prior-year resources $521,760; capital and housing rehabilitation $561,060, public services $135,986. FY 2027-28 timing expected to follow the same pattern.",
+      "eligible_project_detail": [
+        "acquisition-rehab (owner repair)",
+        "public facilities",
+        "public services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Destination: Home Supportive Housing and Innovation Fund (private acquisition and predevelopment financing and developer capacity grants)",
+      "administering_agency": "Destination: Home (Santa Clara County public-private partnership nonprofit), San Jose; fund seeded by Cisco ($50 million, 2018) and Apple ($50 million, 2019)",
+      "funding_type": "loan",
+      "typical_award_size": "More than $96 million invested since 2018: no-interest or low-interest acquisition and predevelopment financing for 42 extremely low income and supportive housing developments with more than 4,100 units; flexible capacity-building grants to 8 nonprofit developers (1,600 units in pipeline); capacity grants to the Cities of Campbell, Morgan Hill, Mountain View and San Jose. Loan sizes are not posted.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Supportive housing and extremely low income (30% AMI) housing for formerly homeless households in Santa Clara County.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Open funding opportunities are posted on the fund page; otherwise rolling by invitation.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The private counterpart to the County's Measure A and the Housing Trust Supportive Housing Fund. Zero or low interest acquisition money lets sponsors tie up sites before County Measure A, Homekey+ or NPLH awards. Destination: Home is also a founding partner of the Bay Area Housing Innovation Fund (separate record) and funded a dedicated San Jose planner for supportive housing projects. Santa Clara County only.",
+      "source_url": "https://destinationhomesv.org/funding-impactful-strategies/supportive-housing-innovation-fund/",
+      "record_id": "4efe227033",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition",
+        "predevelopment",
+        "supportive housing",
+        "developer capacity grants"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check: fund page confirms Cisco $50 million (2018) and Apple $50 million (2019), over $96 million invested, no or low interest acquisition and predevelopment financing for 42 ELI and supportive developments with more than 4,100 units, capacity grants to 8 developers (1,600 units) and to Campbell, Morgan Hill, Mountain View and San Jose. Open Funding Opportunities page says funding is by RFP or invitation. prevailing_wage_trigger false has no cited rule; private philanthropic funds are not public funds, but no ruling on point was opened.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Impact Fee (AHIF): exemption for deed-restricted affordable units and fee fund",
+      "administering_agency": "Santa Cruz County Community Development and Infrastructure, Planning Division, Housing Section",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Current rates (2026 Affordable Housing Guidelines, Chapter V): market-rate rental units $2 per habitable square foot (ADUs of 750 square feet or less exempt); ownership projects of fewer than seven units $2 to $15 per square foot scaled by unit size and project size (5 or more homes $15 per square foot at all sizes); non-residential $3 per net new square foot ($1 for agricultural barns). Deed-restricted affordable rental units, Measure J units and subsidized housing are exempt, and density bonus projects that include affordable rental units may qualify for a waiver of the fee on the market-rate units. Fees fund the AHIF account used in the County housing NOFA. The September 1, 2026 KMA nexus study supports maximum fees of $17.30 to $24.50 per square foot, far above current rates.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Exemption applies to units deed-restricted to lower income households; waiver on mixed-income projects negotiated with Housing staff in exchange for a set number of affordable rental units.",
+      "eligible_project_types": [
+        "mixed-income",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fees are due at building permit (Planning Director may defer to occupancy for hardship). Watch for a Board fee update in 2027 following the 2026 nexus and feasibility studies.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. The AHIF is both a cost the affordable developer avoids (exempt units) and the source of part of the County NOFA money; at $2 per square foot on rentals it raises little, which is why the NOFA is capped at $500,000 per award. Other County development fees (roadside, parks, drainage) are not waived for affordable projects in the guidelines. Source is the 2026 Affordable Housing Guidelines PDF (August 2026 revision).",
+      "source_url": "https://cdi.santacruzcountyca.gov/Portals/35/CDI/Planning/Housing/2026%20AFH%208_10_26_1.pdf",
+      "record_id": "95043c3f5b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "100% affordable rental projects (exempt)",
+        "density bonus and mixed-income rental projects (waiver available)",
+        "ADUs"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 Nov 9, 2026: Guidelines Chapter V matches ($2 per habitable sq ft market-rate rental, ADUs 750 sq ft or less exempt, ownership $2 to $15 by size and project size with 5+ homes at $15, non-residential $3 and $1 for animal or machinery barns, deed-restricted rental exempt, density bonus waiver by negotiation, payment at building permit with hardship deferral to occupancy). The KMA nexus maximums ($17.30 to $24.50) are not in this PDF and were not re-verified. prevailing_wage_trigger false is uncited; this is a regulatory requirement or fee rule with no public funds.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County five-year plan",
+      "administering_agency": "Santa Cruz County Community Development and Infrastructure (plan and LMIHAF match) and Human Services Department, Housing for Health Division (homeless activities)",
+      "funding_type": "grant",
+      "typical_award_size": "2019-2023 allocations: $565,952, $895,101, $916,102, $480,214 and $332,575 (estimated five-year total $3,395,700); amended 2023 plan spends 75% on Activity 6 homeless assistance through Housing for Health (rapid rehousing, rental assistance, navigation center and shelter operating and capital costs, PSH development or preservation), 20% on Activity 4 as a match deposited to the County LMIHAF for lower-income rental development and predevelopment, and 5% administration. HCD formula allocations for 2024-2028: $457,140 (2024), $467,923 (2025), estimated $2,857,125 five-year. PLHA predevelopment loans were offered through the March 2026 County NOFA.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "PLHA eligible activities; development uses limited to lower-income rental housing with 55-year affordability.",
+      "eligible_project_types": [
+        "supportive housing",
+        "predevelopment",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Development dollars reach projects only through the County housing NOFA (next expected early 2027). The 2024-2028 PLHA plan activities were not located online; confirm with CDI Housing whether the LMIHAF match share continues.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. Three quarters of County PLHA goes to homeless response, so the development share is roughly $90,000 a year plus whatever LMIHAF holds; it is a predevelopment source, not gap financing. Source is the CDI State and Federal Grants page with the amended 2023 five-year plan; 2024-2028 figures from HCD's PLHA NOFA tables.",
+      "source_url": "https://cdi.santacruzcountyca.gov/Planning/Housing/StateandFederalGrants.aspx",
+      "record_id": "7f23adacc1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "homeless services and shelter operations (Activity 6)",
+        "predevelopment loans for lower-income rental housing (via LMIHAF match)",
+        "permanent supportive housing development (eligible under Activity 6)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 Nov 9, 2026: CDI grants page and the amended 2023 five-year plan PDF match (2019-2023 allocations, $3,395,700 estimate, about 75 percent Activity 6 through Housing for Health, about 20 percent Activity 4 LMIHAF match, 5 percent admin); HCD 2024-2028 NOFA table matches ($457,140, $467,923, $2,857,125). March 2026 County NOFA reference and early 2027 timing not re-verified. prevailing_wage_trigger is uncited (no prevailing_wage_basis); the value rests on the general Labor Code 1720(b) public funds definition, not a program rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Rounds 5 and 6, County and Watsonville/Santa Cruz CoC CA-508",
+      "administering_agency": "Santa Cruz County Human Services Department, Housing for Health Division (housingforhealth@santacruzcountyca.gov, (831) 454-7312), administering entity for the Housing for Health Partnership CoC",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-5: $5,080,000 combined County and CoC award announced February 2024 (down $840,000 from HHAP-4) for shelters and transitional housing, outreach, PSH services and flexible assistance. HHAP-6: County $2,111,016.78 and CoC $2,254,602.21 (about $4.4 million block grant); application revisions submitted November 2025 with HCD still requesting changes in December 2025. HHAP-7 preliminary allocations: County $1,880,116.49, CoC $2,014,410.53.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; regional action plan with the four cities.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No local capital NOFA; the Policy Board of the Housing for Health Partnership sets allocations. HHAP-7 planning runs through 2027. Contact Housing for Health about PSH operating or services funding tied to Coordinated Entry referrals.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. HHAP underwrites the services side of PSH projects such as Veterans Village and Park Haven Plaza; it has not funded capital. The December 2025 Policy Board packet also records a CoC decision to prioritize HUD CoC rental assistance for PSH projects threatened by federal NOFO changes. Source is the Housing for Health Partnership Policy Board packet of December 17, 2025; HHAP-5 figure from the County's February 2024 press release and HHAP-6 and HHAP-7 figures from HCD allocation tables.",
+      "source_url": "https://www.housingforhealthpartnership.org/Portals/29/HAP/pdf/Housing%20for%20Health%20Partnership%20Policy%20Board%20Meeting%20Packet%20December%2017%202025.pdf",
+      "record_id": "46a3c2eae9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "shelter and transitional housing operations",
+        "street outreach",
+        "permanent supportive housing services and rental assistance",
+        "flexible financial assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check 2026-11-08: Policy Board packet confirms HHAP-6 block grant of about $4.4M and HCD rejection of November 2025 revisions; HCD HHAP-7 preliminary table confirms County $1,880,116.49 and CoC $2,014,410.53. Packet notes Casa Sankofa youth transitional housing was funded with Homekey and HHAP, so the layering note that HHAP has not funded capital may be overstated. prevailing_wage_trigger false has no cited rule in prevailing_wage_basis.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29: housing interventions (rental and operating subsidies, flexible housing subsidy pool)",
+      "administering_agency": "Santa Cruz County Health Services Agency, Behavioral Health Division (MentalHealth.ServicesAct@santacruzcountyca.gov)",
+      "funding_type": "grant",
+      "typical_award_size": "Housing Interventions component $7,796,621 (FY 2026-27 BHSA funds) plus $942,228 of MHSA carryover for a year-one total of $8,738,849, $7,796,621 in year two and $8,267,735 in year three (30% of a BHSA allocation of about $26 million). Year-one uses: permanent rental subsidies $6,539,529 (260 units), bundled permanent rental and operating subsidies $914,623, interim housing bundled subsidies $781,451, operating subsidies on 200 units; no capital development projects and no housing exemption; FSP to BHSS transfer of $1,819,212 a year does not touch housing. Behavioral Health is building a flexible housing subsidy pool with Housing for Health that will serve BHSA-eligible people first, and new NPLH PSH units came online in spring 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder; at least half of housing funds for chronically homeless people.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Plan approved June 2026 after a March 18 to April 16, 2026 comment period and an April 16, 2026 public hearing. No NOFA; contact Behavioral Health housing staff about subsidy commitments for PSH units in 2027 and later.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. Santa Cruz will not use BHSA for capital; its value to a developer is a 15 to 20 year project-based rental or operating subsidy on PSH units, which can replace or supplement PBVs while HACSC's RFP is paused. Source is the revised June 2026 Integrated Plan PDF on santacruzhealth.org. Audit reclassification: funding_type set to grant because the plan funds rental subsidies ($6,539,529), bundled rental and operating subsidies for permanent settings ($914,623) and bundled interim housing subsidies ($781,451) a year; the plan answers No to BHSA capital development, and 0% of subsidies are administered through flex pools in the budget tables.",
+      "source_url": "https://www.santacruzhealth.org/Portals/7/Pdfs/BH/MHSA/BHSARevisedPlanPendingApprovalJune2026.pdf",
+      "record_id": "6de784df42",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "project-based rental subsidies for PSH units",
+        "operating subsidies",
+        "master-leased and flex pool units",
+        "interim housing subsidies"
+      ],
+      "next_deadline_date": "2026-04-16",
+      "deadline_check": "past_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Monterey Bay Housing Trust and Housing Trust Silicon Valley loans for Santa Cruz County projects",
+      "administering_agency": "Housing Trust Silicon Valley with the Monterey Bay Economic Partnership (Monterey Bay Housing Trust revolving fund); County of Santa Cruz reported as a funding partner",
+      "funding_type": "loan",
+      "typical_award_size": "Monterey Bay Housing Trust is a revolving loan fund financed by the Monterey Bay Economic Partnership and Housing Trust Silicon Valley (created July 2016, initial $10 million goal exceeded; Dignity Health also listed as a financing partner). Recent Santa Cruz County loans: 2727 Mattison Lane, unincorporated county (MidPen Housing, 250 units for families and seniors at 30% to 80% AMI), $9,945,000 acquisition loan through the TECH Fund (April 23, 2025); Beverly Gardens, Scotts Valley (CRP Affordable Housing, 25 units with HACSC PBVs), $3,277,500 acquisition loan through the TECH Fund and Golden State Acquisition Fund (May 28, 2025); 4575 Scotts Valley Apartments (CRP, 100 units at 30% to 70% AMI), $2,000,000 predevelopment loan through the TECH Fund (May 30, 2025). Housing Trust reports 14 loans totaling $33 million in the Monterey Bay region.",
+      "per_unit_cap": "Not published; recent Santa Cruz County loans ranged from $2,000,000 to $9,945,000 per project.",
+      "affordability_requirement": "Affordable housing for low-income individuals and families, including special needs populations; recent loans served 30% to 80% AMI.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "predevelopment",
+        "new construction",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling applications to Housing Trust Silicon Valley lending staff; Monterey Bay Housing Trust funds are drawn as projects qualify.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. This regional revolving fund is the practical acquisition and predevelopment lender for Santa Cruz County projects, filling the gap the County NOFA cannot. Confirmation needed on the County of Santa Cruz's own capital contribution to the Monterey Bay Housing Trust (reported in earlier coverage but not confirmed on a County page this pass). Source is the Housing Trust Silicon Valley loan announcement for 2727 Mattison Lane.",
+      "source_url": "https://housingtrustsv.org/programs/developer-funding/monterey-bay-housing-trust/",
+      "record_id": "611eea6d84",
+      "cycle_notes": "No application round; every loan starts with a conversation with the Housing Trust lending team (Nick Friend, 408-703-3837 ext. 223; Stephaney Kipple, ext. 244).",
+      "eligible_project_detail": [
+        "acquisition loans",
+        "predevelopment loans",
+        "construction and bridge loans for affordable rental and ownership projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "The MBHT program page lists Monterey Bay Economic Partnership and Dignity Health as financing partners; the County of Santa Cruz is not listed, so a County capital contribution remains unconfirmed. The Habitat 11 Harper Street 2020 loan was not re-checked.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Cruz",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Santa Cruz Affordable Housing Trust Fund (AHTF), Resolution NS-26,410, guidelines revised September 10, 2024",
+      "administering_agency": "City of Santa Cruz Community Development Department, Housing and Community Development Division (affordablehousing@santacruzca.gov, (831) 420-5150)",
+      "funding_type": "loan",
+      "typical_award_size": "Construction and deferred-payment permanent loans at simple interest of no more than 3% per year, plus gifts, grants, loan guarantees and credit enhancement. Revenue: Chapter 24.16.030 inclusionary in-lieu fees, the City's PLHA formula allocation (HCD estimate about $1.5 million over five years, deposited directly to the AHTF) and donations. Pipeline list dated September 2024 of 100% affordable rental projects eligible after the first-phase funding review: 136 River Street (For the Future Housing) $1,800,000 loan commitment, predevelopment; 119 Lincoln Street (Eden Housing with For the Future Housing) ground lease plus $5,555,000 loan commitment, predevelopment. Income targets: 30% of funds for extremely low income, up to 70% for lower income, maximum 20% for moderate income, 15% contingency; administrative costs capped at 5%. Fund balance is not published; the 2026 AB 2663 in-lieu fee report (opened) lists fee descriptions but no balance.",
+      "per_unit_cap": "None published; underwritten by sources and uses and subsidy layering review (Attachment I), with at least 10% equity after completion and promissory-note predevelopment loans limited to 15% of estimated project cost.",
+      "affordability_requirement": "Rental housing for low (80% AMI) and very low (50% AMI) income households; for-sale housing for moderate, low and very low income; priority first to projects guaranteeing perpetual affordability and second to at least 55 years with recapture; extra points for lowest rents, highest share of affordable units, committed other sources, leverage of tax credits and state and federal programs, and sponsor track record.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "adu",
+        "homeownership",
+        "predevelopment",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; requests are reviewed on a rolling basis through a first-phase funding review that places eligible 100% affordable rental projects on the AHTF pipeline list, followed by Council approval of loan commitments. Contact the Housing Division before submitting; the pipeline list was last updated September 2024.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The City's primary local gap source and the usual local match for TCAC, HCD and AHSC applications (the Downtown Library and Affordable Housing Project secured $33.5M AHSC, $55.1M of tax credits and $55.6M of CDLAC bond authority). Separate from the County of Santa Cruz Housing Funds NOFA (LMIHAF, County PLHA and County AHIF), which covers unincorporated projects only, and from the County's Chapter 17.10 Measure J program; city projects stack AHTF with Housing Authority of the County of Santa Cruz PBVs, City HOME and CDBG (record below) and Prohousing scoring bonuses. In-lieu fee revenue depends on how many Measure O projects pay fees rather than build units, so balances fluctuate; the City also takes land dedications (Anton Pacific dedicated land for the Pacific Station expansion). cityofsantacruz.com now redirects to santacruzca.gov, which returns 403 to scripted fetches; the AHTF page, guidelines PDF, pipeline list and in-lieu report were opened through the WebFetch tool.",
+      "source_url": "https://www.santacruzca.gov/Government/City-Departments/Community-Development/Housing-Assistance-Information-and-Resources/Affordable-Housing-Trust-Fund",
+      "record_id": "ddf951a9c2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "preservation",
+        "acquisition-rehab",
+        "conversion of market-rate units to affordable",
+        "adu",
+        "limited equity cooperatives",
+        "predevelopment loans and grants",
+        "first-time homebuyer loans"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "Tier 4 Nov 9, 2026: AHTF page (opened with curl this pass), 2024 guidelines and September 2024 pipeline list match (3 percent simple interest cap, 30/70/20/15 percent income targets, 5 percent admin, 15 percent predevelopment note limit, 10 percent equity, perpetual then 55-year priority, 136 River $1,800,000 and 119 Lincoln $5,555,000, about $1.5 million PLHA). HCD 2024-2028 PLHA table shows City of Santa Cruz at $1,161,450 five-year, below the page's $1.5 million figure. prevailing_wage_trigger is uncited (no prevailing_wage_basis); the value rests on the general Labor Code 1720(b) public funds definition, not a program rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Cruz",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation (awarded August 4, 2023; renewal application 2026, Resolution NS-30,681) and Downtown Library and Affordable Housing Project on City Lot 4",
+      "administering_agency": "City of Santa Cruz Economic Development and Housing (Housing Division) with the Planning Division",
+      "funding_type": "policy/designation",
+      "typical_award_size": "Not a direct subsidy. The designation (57 points, 7th highest of 47 jurisdictions as of April 2024) gives City projects scoring preference or priority processing in AHSC, Infill Infrastructure Grant, Transformative Climate Communities and other state programs and made the City eligible for Prohousing Incentive Program Round 2 ($9.5 million statewide pool). Example: the Downtown Library and Affordable Housing Project on City-owned Lot 4 (Cathcart, Cedar and Lincoln Streets) received a $33.5M AHSC award, a $55.1M TCAC tax credit award and $55.6M of CDLAC bond authority for 124 units (all affordable except one manager unit) above a new library funded by Measure S, with child care, 240 parking spaces and a $250,000 Economic Development Trust Fund contribution for the farmers market. The 2023 designation expires January 1, 2027; the City applied for renewal in 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Not applicable to the designation; the Lot 4 housing is 100% affordable (income levels not stated on the project page; Eden Housing manages the interest list for studio to three-bedroom units).",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Renewal decision by HCD pending; current designation valid through January 1, 2027. Lot 4 housing framing was underway on levels 4 through 8 as of the latest project update, with completion dates not stated.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Prohousing points are additive to the AHTF and HOME layers and have been decisive for Santa Cruz downtown projects competing in AHSC. The City disposes of its own land for 100% affordable projects (Lot 4, Pacific Station North 125 units and Pacific Station South 70 units with Santa Cruz Community Health and Dientes, 119 Lincoln Street ground lease) and accepts land dedications from market-rate developers under Measure O (Anton Pacific). Santa Cruz County does not hold a Prohousing designation in the records compiled; Watsonville, Capitola and Scotts Valley pages opened this pass do not mention one. The Prohousing page, the May 2024 Economic Development journal article and the Downtown Library project page were opened; the 2026 resolution PDF returned 403 to scripted access.",
+      "source_url": "https://www.santacruzca.gov/Government/City-Departments/Community-Development/Housing-Assistance-Information-and-Resources/Prohousing-Designation-Program",
+      "record_id": "62b9f1964d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "city-owned land dispositions",
+        "mixed-use with public facilities"
+      ],
+      "next_deadline_date": "2027-01-01",
+      "deadline_check": "future_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Watsonville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Housing Ordinance (Municipal Code Chapter 14-46, Ordinance 1480-25 effective October 9, 2025) with in-lieu and commercial fees",
+      "administering_agency": "City of Watsonville Community Development Department, Housing Division (275 Main Street, Suite 400, (831) 768-3080)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Projects of 7 to 50 units: for-sale 15% (5% above moderate, 5% median, 5% moderate), rental 20% (5% low, 5% median, 10% very low or Housing Choice Voucher and other subsidy recipients). Projects over 50 units: 20% for both tenures (for-sale 10% above moderate, 5% moderate, 5% median). In-lieu fees are required from projects of six or fewer units or lots, from new commercial and industrial development over 1,000 square feet (a commercial linkage fee) and from condominium conversions; fee amounts are set by Council resolution and indexed annually at 50% of the Santa Cruz-Watsonville House Price Index increase, paid at building permit or final map (14-46.070). Income categories use the Watsonville median household income, defined as 70% of the Santa Cruz County median. Federal, state or City-assisted affordable projects meeting the percentages satisfy the chapter in full (14-46.040(c)). Projects with 50% or more affordable units receive priority processing (14-46.080). Release fees for de-restricting units are paid into the affordable housing fund.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Rental units 55 years, ownership units 45 years, deed restricted; very low means the lower of 80% of Watsonville median or 50% of county AMI, low up to 100% of Watsonville median or 50% to 80% county AMI, median up to 120% of Watsonville median or 80% county AMI, moderate up to 150% of Watsonville median, above moderate up to 170%; preference for households living or working in Watsonville at least one year; minimum unit sizes and amenity standards in 14-46.060; affordable units built concurrently with market units.",
+      "eligible_project_types": [
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; requirement applies at entitlement. No application round as of November 9, 2026. Current in-lieu fee resolution amounts not located; request the fee schedule from the Housing Division.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The deepest city inclusionary requirement in Santa Cruz County (20% of rental units with half at very low income or voucher holders) and the only city program with a commercial linkage component; it exceeds the County's Measure J (for-sale only) and Capitola's and Scotts Valley's 15% standards. Because 100% affordable projects satisfy the chapter automatically and get priority processing, tax credit developers face no added inclusionary cost, while mixed-income developers can satisfy the very low tier with Housing Authority of the County of Santa Cruz PBV units. Fees flow to the City's Affordable Housing fund (record below). The 2025 code text was read on the zoneomics mirror because codepublishing.com and gocodebook.com returned 403; the City's Affordable Housing page (watsonville.gov/172) was also opened.",
+      "source_url": "https://www.zoneomics.com/code/watsonville-CA/chapter_35",
+      "record_id": "b594d259ab",
+      "cycle_notes": "Ordinances 1480-25 and 1481-25 took effect October 9, 2025 and removed the prior exemption for unsubsidized rental projects. Affordable housing agreement approved by Council and recorded before final map or construction.",
+      "eligible_project_detail": [
+        "market-rate rental and for-sale projects of seven or more units (compliance)",
+        "small residential projects and commercial or industrial development (fee payers)",
+        "condominium conversions",
+        "subsidized affordable projects (automatic compliance)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 Nov 9, 2026: Chapter 14-46 text on the zoneomics mirror matches every figure in the record (7 to 50 and over 50 unit tiers, 15 and 20 percent components, 55 and 45 year terms, income definitions, commercial over 1,000 sq ft fee, HPI indexing, priority processing at 50 percent affordable). The official watsonville.gov/172 page has no ordinance detail, codepublishing returns 403 and the Legistar API is not enabled, so the detail rests on a third-party mirror only; confidence lowered to needs_confirmation per source rule. prevailing_wage_trigger false is uncited; this is a regulatory requirement or fee rule with no public funds.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Capitola",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Affordable (Inclusionary) Housing Ordinance (Municipal Code Chapter 18.02, Ordinance 1062 of 2023) and in-lieu fee",
+      "administering_agency": "City of Capitola Community and Economic Development Department ((831) 475-7300), with buyer intake by the Housing Authority of the County of Santa Cruz",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Projects creating seven or more for-sale units, residential parcels, mobile home parcels or converted condominiums must restrict 15% of units for sale to moderate, low or very low income households; rental projects are exempt from the inclusionary requirement but pay the Affordable Housing Impact Fee (record below). Alternatives (18.02.050): in-lieu fees at the rate in the Council fee schedule ($10 per square foot per the City's 2021 EPS fee feasibility analysis), payable with deferral allowed if the Council finds it aids feasibility; off-site units; land dedication yielding at least 10% more affordable units than otherwise required. In-lieu fees are deposited to the City's housing trust fund for construction of new low and very low income units. Adopted November 2004, amended 2013, 2021 and by Ordinance 1062 (introduced August 24, 2023) to update definitions, mobile home sales procedures and eligibility. The City may require more than 15% only when it provides a grant, subsidy, loan, fee waiver or other fiscal benefit.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Buyers at or below 120% of Santa Cruz County AMI with assets no more than 1.5 times the income limit (excluding up to $500,000 in retirement plans); affordable price set at 35% of gross income including a 10% down payment; resale restrictions with equity sharing and release payments to the trust fund; condominium conversions of five or more units mitigate through on-site units or in-lieu fees.",
+      "eligible_project_types": [
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; in-lieu fee per the schedule in effect at payment. Inventory to date: eight inclusionary condos at Capitola Beach Villas (2008), four other inclusionary homes, seven affordable lots at Turner Lane and 12 new units added citywide in 2025 (69 in the 6th cycle). Housing Element Program 2.8 commits the City to an economic analysis of the inclusionary ordinance during the planning period.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Lighter than the County's Measure J only in scope (same 15%, same seven-unit threshold, for-sale only) and much lighter than Watsonville. Rental developers owe the $25 per square foot Affordable Housing Impact Fee instead, so a 100% affordable rental project in Capitola should seek the impact fee exemption or deferral at entitlement. The ordinance text was read from the Council's Ordinance 1062 packet attachment on the City's public agenda host (mccmeetingspublic) because codepublishing.com returned 403 and the City's own chapter PDF link is dead; the City's Affordable Housing page and 2023-2031 Housing Element (certified August 30, 2024) were also opened.",
+      "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/capitolaca-meet-ccbbd673a032414cbb411229e1b0e065/ITEM-Attachment-004-f1b24ff134274c7c8e4dec361dd50b51.pdf",
+      "record_id": "6f236a2967",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "for-sale subdivisions and condominium projects of seven or more units (compliance)",
+        "mobile home park subdivisions",
+        "condominium conversions"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Scotts Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing (Below Market Rate) Ordinance (Municipal Code Section 14.01.030, Affordable Housing Committee) and affordable housing in-lieu fee fund",
+      "administering_agency": "City of Scotts Valley Planning Department (planningdepartment@scottsvalley.gov, 1 Civic Center Drive) with the Council's Affordable Housing Committee setting project terms",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Within the former redevelopment project area boundary (unchanged since 1990), residential developments of seven or more units (for sale or rental) must set aside 15% of units for very low, low and moderate income households on site, or off site in limited cases; developments of six or fewer units pay an in-lieu fee; projects of seven or more units with average lot sizes over one acre may pay the fee with Council approval. The in-lieu fee equals the median sales price of a home in the project minus the City-determined affordable price. The two-member Affordable Housing Committee recommends unit counts, sizes and affordability levels for each project, subject to Council confirmation. The ordinance has produced 84 affordable rental and 50 affordable ownership units; in-lieu fees from small projects have subsidized smaller rental projects (the City loaned funds to Emerald Hill Apartments, 46 units with MidPen Housing, including impact fee offsets). Exempt: subsidized projects deed restricted through state or federal programs, single homes on existing lots, additions, ADUs and hardship cases. Housing Element Program H-1.8: comprehensive study by July 2026 and a citywide amendment with income-tier standards by January 2027.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Very low, low and moderate income households as set per project by the Affordable Housing Committee; inclusionary units carry restricted equity accrual, resale price and rental price limits; subsidized affordable projects meeting the standard are exempt.",
+      "eligible_project_types": [
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; the Affordable Housing Committee meets as special meetings noticed 24 hours ahead. Watch for the July 2026 inclusionary study and the January 2027 citywide ordinance amendment (Program H-1.8), which may change the boundary, percentage and in-lieu formula.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The in-lieu fee fund is the City's only local housing money; no balance, guidelines or NOFA are published, so treat it as a small negotiated gap or fee-offset source, as with Emerald Hill. The 15% standard matches Capitola and the County's Measure J but applies to rentals as well; it is lighter than Watsonville's 20%. 100% affordable projects are exempt and instead use Chapter 17.41 ministerial approval and the Chapter 17.62 state density bonus (records below); the 4444 Scotts Valley Drive project is the first 100% affordable project under the 6th cycle element. Regional sources: County state HOME tenant assistance (covers Scotts Valley), Housing Authority PBVs, Housing Trust Silicon Valley loans (Beverly Gardens, 25 units, $3,277,500 acquisition loan), HHAP. The 2023-2031 Housing Element PDF (certified April 2, 2024), the City Housing page (scottsvalley.gov/220) and the Affordable Housing Committee page were opened; the municode text of Section 14.01.030 was not (blocked host).",
+      "source_url": "https://www.scottsvalley.gov/DocumentCenter/View/4812/2023-2031-Housing-Element---Adopted-and-Certified",
+      "record_id": "54d536fe5e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate for-sale and rental projects of seven or more units within the RDA boundary (compliance)",
+        "small projects of six or fewer units (fee payers)",
+        "100% affordable projects (exempt)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Scotts Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Housing Element Opportunity Site Combining District (Municipal Code Chapter 17.41, Ordinance 16.142.1 adopted June 18, 2025): ministerial approval and standards relief for affordable projects",
+      "administering_agency": "City of Scotts Valley Planning Department",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Not a subsidy. Streamlined permitting on Housing Element opportunity sites: multifamily projects with 20% or more of units affordable to lower income households receive the Chapter 17.41 A permitting path (ministerial or reduced review), other projects follow Subsection B; 100% affordable projects (all units deed restricted at least 55 years, rentals at or below 80% AMI, ownership at or below 120% AMI, residential at least 85% of mixed-use floor area) may obtain deviations from development standards needed to make the project feasible. Mixed-use sites in the district require residential uses below 70% of gross floor area unless the project qualifies as affordable. The chapter was adopted December 4, 2024 (Ordinance 16.142) and rewritten June 18, 2025 to carry out Housing Element Programs H-1.1 and H-1.2 (rezoning of at least 8.7 acres to R-VH-2 and 32.2 acres to R-VHM, by-right development).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "At least 20% lower income units for the affordable permitting path; 100% affordable (rental 80% AMI, ownership 120% AMI, 55 years) for standards deviations.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Available now for sites mapped in the combining district; Program H-1.1 required the rezonings within the Housing Element timeline and Program H-1.2 maintains by-right approval for lower income sites. Confirm site eligibility with the Planning Department.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Scotts Valley's main local incentive for tax credit projects, substituting for the absence of a trust fund or fee waiver; it stacks with the Chapter 17.62 state density bonus and the inclusionary exemption for subsidized projects, and with Housing Authority PBVs and state capital. The 4444 Scotts Valley Drive 100% affordable project (first under the 6th cycle element, using state density bonus and SB 35) is the template. Code text read on the zoneomics mirror; the HCD certification letter (April 2, 2024) and the City Housing Element page were also opened.",
+      "source_url": "https://www.zoneomics.com/code/scotts-valley-CA/chapter_22",
+      "record_id": "c5622d2f01",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction on Housing Element opportunity sites",
+        "mixed-use with at least 85% residential floor area",
+        "100% affordable developments"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Solano County Housing Trust Fund (SCHTF)",
+      "administering_agency": "Solano County Administrator's Office with the Department of Resource Management",
+      "funding_type": "loan",
+      "typical_award_size": "Capitalized with $2,000,000 ARPA (ordinance Aug 2022), $1,700,000 ARPA added Dec 12, 2023, and a regular $200,000 annual General Fund contribution (formerly the Community Investment Fund). Awards through the November 2023 RFP/NOFA: $3,200,000 loan to The Hampstead Companies for Prospera at Homestead in Dixon (107 units at or below 60% AMI, 3% interest) and $93,000 to Napa-Solano Habitat for Humanity (three homes, Fairfield). Oct 2024: $1,500,000 for site work on the County-owned 580 North 1st Street, Dixon parcel (demolition approved Sept 22, 2026). Aug 4, 2026: Board approved a $400,000 loan (3% simple interest, payments deferred to year seven) to EAH Housing for Tabor Commons, Fairfield (66 units: 41 at 30% AMI including 16 IDD units, 10 at 60% and 15 at 70% AMI), conditioned on the City of Fairfield contribution, plus deferral of about $446,354 in County public facilities fees, and a $200,000 grant to Habitat for Harmony Village, Vacaville (10 ownership homes at or below 80% AMI). These awards fully committed the fund until the FY 2027-28 contribution.",
+      "per_unit_cap": "None published. Prospera loan equals about $30,000 per unit.",
+      "affordability_requirement": "Guidelines cap assisted households at 120% AMI (moderate income), with lower limits set by each RFP/NOFA; Prospera restricted to 60% AMI, Tabor Commons 30% to 70% AMI, Habitat homes 80% AMI, County workforce site 80% AMI. Loan payments recycle into the fund.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 9, 2026. The Aug 4, 2026 awards committed the full available balance and the FY 2026-27 contribution, leaving no uncommitted funds until the FY 2027-28 $200,000 contribution. The last RFP was November 2023; guidelines allow an RFP or NOFA at least once per funding cycle and let the Board allocate funds to a specific project at any time.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Solano's only county gap source and a small one. It is used as the last dollars in a 9% deal (Tabor Commons) or as a larger patient loan where the County wants RHNA-credited units in Dixon. ARPA-funded loans carry federal and state public funds rules, so prevailing wage applies. The County also pushed ARPA housing money through cities before the fund existed: $4,500,000 gap financing via the City of Fairfield for an EAH deeply affordable project (2022), $215,000 for Habitat homes in Fairfield, and $200,000 to MidPen for Sunset Pines acquisition (2021). A separate $2,000,000 ARPA ADU effort put $1,700,000 into the SCHTF and $300,000 into the North Bay ADU Center. Program documents (NOFA, guidelines) were on the County ARPA RFP page, which now returns 404; the Board reports on solano.legistar.com are the live record.",
+      "source_url": "https://solano.legistar.com/LegislationDetail.aspx?From=RSS&ID=6875909&GUID=E83CDBDF-BE38-44EB-83D5-592A2F6BC9CC&FullText=1",
+      "record_id": "a5f7c96408",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: Legistar file 26-597 (Aug 4, 2026) shows the Tabor Commons loan and Habitat grant were approved and that the fund is fully committed until FY 2027-28; Tabor Commons unit mix is 30% to 70% AMI, not 20% to 50%. SCHTF guidelines allow up to 120% AMI. Prevailing wage true is uncited; remaining capital is General Fund money, not ARPA.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Solano County non-entitlement formula share",
+      "administering_agency": "Solano County Administrator's Office (HCD formula grantee)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD CY 2024-2028 Formula Allocation NOFA: Solano County CY 2024 $569,130 and CY 2025 $596,313; five-year estimate 2024-2028 $3,557,063. Earlier: 2020 award $128,234; 2023 allocation $560,188 (Five-Year Plan amendment affirmed by the Board July 23, 2024). Cities of Fairfield ($390,910 in 2021), Vacaville and Vallejo ($505,369 in 2021) receive their own entitlement shares (Pass 3).",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA statute: rental assistance at or below 60% AMI unless the plan targets up to 120% AMI (150% in high-cost areas); 55-year covenant for rental development. County five-year plan governs uses.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD 2024-2028 PLHA Formula Allocation NOFA (dated July 16, 2026) is open to eligible applicants through June 30, 2032. Solano County must apply to HCD for its CY 2024 allocation by February 2028 and for CY 2025 by February 2029 (HCD gives month only); CY 2026 to 2028 deadlines are TBD. No County NOFA to developers found as of November 8, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "About $570,000 to $600,000 a year, more than Napa or Sonoma's county share, but the County has not published how it programs the money. Ask the County Administrator's Office whether the 2024-2028 plan funds multifamily gap loans, ADUs or homeless services before counting it. State funds, so prevailing wage applies to construction.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "31e1cc94ed",
+      "cycle_notes": "Formula allocation, not a competition for developers. HCD releases each calendar-year allocation (CY 2024 funds released spring 2026, CY 2026 expected spring 2027, CY 2027 spring 2028, CY 2028 spring 2029); the County files a five-year plan and application through the HCD portal, which opened July 16, 2026. Annual PLHA reports due July 31 each year. Developers reach the money only through the County's plan; no County PLHA developer NOFA located on Legistar since mid-2025.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "ADU"
+      ],
+      "next_deadline_date": "2032-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Housing First Solano Continuum of Care (CA-518) and HHAP homelessness funding",
+      "administering_agency": "Solano County Health and Social Services, Behavioral Health Division (County HHAP grantee); CAP Solano JPA (CoC collaborative applicant, HMIS lead and CoC HHAP administrator)",
+      "funding_type": "grant",
+      "typical_award_size": "County HHAP: Round 1 $1,256,129 (board and care beds), Round 2 $574,231 and Round 3 $1,607,846 (Fair Haven Commons and rental subsidies), Round 4 $1,470,396 ($873,703 to Abode Services for mental health rental subsidies), Round 5 $1,655,549 (accepted April 8, 2025, tenancy supports through June 30, 2029), Round 6 allocation $1,968,380.51 (awarded in the April 2026 batch with the CoC's $2,102,264.22, about $4,100,000 combined, for interim housing operations). CoC HHAP Round 5 $1,725,588.34. The 2026-27 state budget HHAP allocation gives the same pair about $4,070,000. CoC HHAP Round 4 permanent housing RFP offered $470,167.50 (2024). HUD CoC awards: $2,247,299 (FY 2024); FY 2025 round 1 $642,829 for STOP Plus. State dashboard: $13,600,000 HHAP rounds 1-5 to the Solano area, $6,500,000 direct to the County. State ESG 2024 via CA-518: $186,481 to Vacaville Solano Services Corporation.",
+      "per_unit_cap": null,
+      "affordability_requirement": "HUD CoC and HHAP target people experiencing homelessness; HHAP allows PSH capital, operating subsidies and rental assistance (no cap on permanent housing uses per HCD's Dec 2025 memo), but Solano has programmed its rounds to rental subsidies, tenancy supports and interim housing.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open local round as of November 8, 2026. HUD has released the 2026 CoC NOFO and Housing First Solano posted it, but no local 2026 letter of intent or application dates were posted yet. The 2025 local competition closed December 19, 2025 (letters of intent December 8, 2025) and did not accept new PSH or RRH applications. County HHAP Round 6 ($1,968,381, accepted by the Board in summer 2026) must be 75% contractually obligated and 50% expended by June 30, 2027. No CAP Solano JPA HHAP RFP was open on its site as of November 8, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "For PSH underwriting the usable pieces are County Behavioral Health rental subsidies and tenancy services (Abode Services contract, $26,142,891 for Dec 2023 to June 2026) and HHAP operating commitments, not capital. Solano has no housing sales tax measure. The 2026 PIT count was Jan 29, 2026. HHAP capital is state money and triggers prevailing wage.",
+      "source_url": "https://solano.legistar.com/LegislationDetail.aspx?ID=7291491&GUID=A415697E-4FE2-46DB-929C-E21AE8EAA9B3&Options=&Search=&FullText=1",
+      "record_id": "155974291b",
+      "cycle_notes": "HUD CoC: CAP Solano JPA (collaborative applicant) runs a local competition after each HUD NOFO; FY 2025 local timeline was December 2025, with Tier 1 $646,384, Tier 2 $2,121,770, CoC Bonus $430,923 and DV Bonus $182,617 available to the Vallejo/Solano CoC. HHAP: County Behavioral Health HHAP Round 6 agreement runs through June 30, 2030 and sustains existing housing supports, rental subsidies and tenancy services; the CoC files a separate HHAP plan through CAP Solano JPA. capsolanojpa.gov and housingfirstsolano.org now open to automated access.",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": "2027-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Solano County Behavioral Health Services Act (BHSA) housing interventions",
+      "administering_agency": "Solano County Health and Social Services, Behavioral Health Division (BH Housing and Homelessness 707-553-5525, bhhousing@solanocounty.gov)",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-29 Integrated Plan approved by the Board June 9, 2026. Year one (FY 2026-27) Housing Interventions component allocation $9,636,071 (30% of $32,120,235) plus $1,415,984 carryover, $11,052,055 available. Solano's population exceeds 200,000, so it cannot claim the small-county exemption; up to 25% of housing funds may go to capital development, half must serve chronically homeless people. Current delivery is through Abode Services (outreach, navigation, rental subsidy administration, rapid rehousing, PSH services at Blue Oak Landing and Fair Haven Commons) and the BHSA-funded ARCH program; an interim housing placement RFP closed July 9, 2026.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Adults and transition-age youth with serious mental illness or substance use disorder who are homeless or at risk; County BH client eligibility required.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open developer or sponsor round as of November 8, 2026. The FY 2026-29 Integrated Plan took effect July 1, 2026 with annual updates. The Abode Services successor was approved in August 2026: three contracts for August 1, 2026 through June 30, 2027 ($6,318,267 permanent supportive housing, $3,877,619 rapid rehousing, $1,600,000 street outreach), funded by HHAP, HHIP, BHBH, opioid settlement, BHSA and 1991 Realignment. Ask BH Housing whether BHSA capital (up to the 25% cap) or project-based operating subsidies will be offered to PSH sponsors.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Roughly $9,600,000 a year makes Solano's BHSA housing pot the largest county-controlled housing source after HHAP; most of it funds rental subsidies and services, which is what a PSH operating budget needs. Classified grant because the plan funds rental subsidy for housing and allows up to 25% for capital development. Pair with Homekey+ or HHAP capital and SCHA or city PBVs. Public funds, so capital triggers prevailing wage. Budget figures from Appendix A of the adopted plan (content.solanocounty.gov).",
+      "source_url": "https://www.solanocounty.gov/government/health-social-services-hss/behavioral-health/behavioral-health-services-act-bhsa/bhsa-integrated-plan",
+      "record_id": "a4e3ed5aee",
+      "cycle_notes": "BHSA Integrated Plan FY 2026-27 to 2028-29 approved by the Board June 9, 2026 after public comment April 10 to May 10, 2026 and a May 19, 2026 hearing; in effect July 1, 2026. Housing Interventions are delivered through provider contracts (Abode Services, renewed through June 30, 2027) rather than a developer NOFA. The renewed Abode contracts shift eligible costs to Medi-Cal Community Supports and Transitional Rent so BHSA is reserved for allowable housing interventions. Interim housing placement RFP closed July 9, 2026.",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2027-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fairfield",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Fairfield Housing Trust Fund and Low/Moderate Income Housing (Housing Successor) funds, developer NOFA (August 2024 round)",
+      "administering_agency": "City of Fairfield Housing Services Department (Fairfield Housing Authority as Housing Successor), 1000 Webster Street, Fairfield, 707-428-7392",
+      "funding_type": "loan",
+      "typical_award_size": "Gap loans from the City's Housing Trust Fund and former redevelopment Low/Mod funds. The August 2024 NOFA (Council goal HS 3.1, estimated $2,100,000) drew four proposals; Council approved financing for two. The March 2026 Council Goals report shows Danco approved for $1,500,000 with a Homekey+ application for a combined $23,500,000. A 2024 City press release (not opened, fairfield.ca.gov returns 403) described the round as about $1,000,000 of Local Housing Trust Fund money plus CDBG, applications due September 24, 2024. Closing of the 1600 Woolner site generated $1,121,000 in Low/Mod funds; the City also obtained a $700,000 state HOME grant and applied for an $800,000 MORE grant. Disposition of Successor Agency properties (Sem Yeto school site, Highway 12 parcel) is meant to replenish Low/Mod funds; an LOI for Sem Yeto was under review in December 2025. Council has also approved project-based voucher and housing trust fund financing for a multifamily preservation deal (Dec 2025 report).",
+      "per_unit_cap": "None published. Danco approval equals $1,500,000 for one project.",
+      "affordability_requirement": "Extremely low to moderate income households; Housing Element Action 3.1 requires long-term covenants (45 to 55 years) on City-assisted units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA open as of November 2026. The City issues NOFAs when funds accumulate (last August 2024). Housing Element Action 3.2 commits to a NOFA a year before any tax credit compliance period ends for at-risk projects. Contact Housing Services before the next TCAC round.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Fairfield is the only Solano city with a working local trust fund plus Low/Mod successor money, so it is the first local gap source after the Solano County Housing Trust Fund (county record; the County put $4,500,000 ARPA through Fairfield for an EAH project in 2022 and proposed $400,000 for EAH's Tabor Commons in Aug 2026). Stack order for a Fairfield 9% deal: TCAC credits, City trust fund or Low/Mod loan, County SCHTF, Fairfield Housing Authority PBVs, fee deferral (separate record). Housing Element Action 1.1 says the Trust Fund is fed by a Housing Trust Fund fee and the City will study increasing it, dedicating excess property transfer tax, and a housing bond. Low/Mod funds carry Health and Safety Code 34176.1 spending rules (80% to 30% AMI and below once excess surplus triggers). Fairfield submitted a Prohousing Designation application in 2024 and was resubmitting for more points in 2025 (designation not confirmed), which would add scoring preference in state programs. Public funds trigger prevailing wage. fairfield.ca.gov and its showpublisheddocument PDFs return 403 to scripts and WebFetch; the City's ClearPoint Council Goals reports on transparency.fairfield.ca.gov were the opened record.",
+      "source_url": "https://transparency.fairfield.ca.gov/wp-content/uploads/2026/05/Fairfield.pdf",
+      "record_id": "e6afaf7b64",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: March 2026 Council Goals report matches the August 2024 NOFA (HS 3.1, $2.1M estimate, four proposals, two approved), Danco $1.5M with Homekey+ for $23.5M total, $700k HOME grant, $800k MORE application, $1,121,000 Low/Mod from 1600 Woolner and the Sem Yeto disposition goal. prevailing_wage_trigger true rests only on the general public-funds rule (Labor Code 1720(b)); no Fairfield program rule was found, so a later PW pass should consider unclear.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Vallejo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Vallejo Inclusionary Housing Ordinance (Municipal Code Chapter 16.216, Affordable Housing Requirements; Housing Element Program B 2.1.1)",
+      "administering_agency": "City of Vallejo Planning and Development Services Department, Long Range Planning (Hector Rojas, 707-553-7283)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Introduced October 27, 2026; Council directed the Planning Commission version: applies to residential projects of 10 or more units; rental projects provide 4% affordable (2% very low, 2% low); ownership projects of 10 to 100 units 7% (4% low, 3% moderate), over 100 units 10% (6% low, 4% moderate). Staff had proposed a 20-unit threshold with 5% rental (1% VLI, 4% LI). In-lieu fee may be paid for some or all units, set by a later Council resolution and deposited in a separate City affordable housing fund; fractional units under 0.50 may be paid as fee. Alternatives: off-site units in the same census tract, rental units in ownership projects. EPS feasibility (March 13, 2026) found a subsidy gap of about $369,000 per very low-income apartment and $471,614 per low-income single-family unit, which are the equivalent in-lieu fee ceilings. Effective 90 days after final passage. Exemptions: disaster rebuilds, ADUs, residential care facilities, applications complete before the effective date.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Rental units at 30% of HCD income limits less utilities (2026 Solano three-person limits: VLI $61,850, LI $98,950, MOD $134,550); 55-year minimum covenants for rental and ownership units; Affordable Housing Plan and recorded Affordable Housing Agreement required; one-for-one replacement of demolished deed-restricted units.",
+      "eligible_project_types": [
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Second reading and adoption scheduled November 10, 2026; in-lieu fee resolution to follow before the effective date (about February 2027). Planning Commission asked for annual reports and a new feasibility study about two years after enactment. A Commercial Linkage Fee ordinance is to be drafted after adoption.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Vallejo's RHNA is 2,900 units with 1,446 lower and moderate units still unmet after 2025. This is the first inclusionary ordinance in Solano County; its in-lieu fund will be a new, small local gap source alongside the Housing Successor LMIHAF (separate record). Developers of 10+ unit rentals should model 4% affordable units or the fee once set. Underwriting in Vallejo is weak (EPS found rental yields of 4.7% to 5.0% against a 5.5% threshold), so the fee is expected to be modest. Staff report and draft ordinance opened on the City's inclusionary project page.",
+      "source_url": "https://www.cityofvallejo.net/common/pages/GetFile.ashx?key=ovFGARsP",
+      "record_id": "46ca5946a2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate residential projects (compliance)",
+        "mixed-income projects",
+        "off-site affordable units"
+      ],
+      "next_deadline_date": "2026-11-10",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Vallejo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Vallejo Housing Successor Low and Moderate Income Housing Asset Fund (LMIHAF), Housing Authority of the City of Vallejo",
+      "administering_agency": "Housing Authority of the City of Vallejo acting as Housing Successor; City of Vallejo Housing and Community Development Department, 200 Georgia Street, 707-648-4507 (Alicia Jones, Housing Director)",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2023-24 report (dated December 5, 2024): deposits $376,807, expenditures $2,404,145 (of which $2,403,420 for extremely low-income housing development), ending balance $605,550, LMIHAF loans and grants receivable $15,773,272, no real property held. FY 2022-23: deposits $1,747,828, no expenditures, ending balance $3,534,099, receivables $13,199,965. $182,210 of a 2015-16 $500,000 excess surplus transfer to HOME match remains encumbered. Four properties in the Long-Range Property Management Plan are used for affordable housing. FY 2024-25 report (due December 2025) not located.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Health and Safety Code 34176.1: at least 30% of expenditures for households at or below 30% AMI and no more than 20% for 60% to 80% AMI over each five-year period; 55-year rental covenants; excess surplus rules.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; the Housing Authority board (City Council) commits funds project by project and reviews the annual report each December. Ask the HCD Department what the $2,400,000 FY 2023-24 commitment funded and what remains after the FY 2024-25 report.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "After the FY 2023-24 spend-down the fund holds about $600,000 in cash and relies on loan repayments from a $15,800,000 portfolio of legacy redevelopment loans, so it is a small, lumpy source. Pair with Vallejo HOME and CDBG (separate record), Vallejo Housing Authority PBVs, CMFA bonds (county record: $75,750,000 Step Up Housing and $32,131,176 Sacramento Street Apartments issues) and TCAC. Former redevelopment funds are public funds and trigger prevailing wage. The Dissolution Law housing obligations (Buchongo settlement, 425 units) are fully met. Report opened from the Vallejo Housing Authority news page.",
+      "source_url": "https://www.cityofvallejo.net/common/pages/GetFile.ashx?key=aHg6Aa2G",
+      "record_id": "ebef7f9072",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Vallejo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Vallejo Affordable Housing Incentives and density bonus (Municipal Code Chapter 16.214)",
+      "administering_agency": "City of Vallejo Planning and Development Services Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "State Density Bonus Law applied: 5+ unit projects providing 20% lower income or 10% very low income units (and other 65915 categories) receive a 5% to 35% bonus (more under current state law), concessions and incentives, land donation and childcare bonuses, and SB 35 streamlining procedures (16.214.14). Section 16.214.07 states the City is not required to provide financial incentives, land, fee waivers or dedication waivers but may at its discretion; 16.214.08 notes financial incentives may trigger prevailing wage. Recorded Affordable Housing Agreement required (16.214.09).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Government Code 65915 set-asides; recorded Affordable Housing Agreement with 55-year rental covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; file with the planning entitlement.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement; the chapter text still cites the older 5% to 35% range, and the City defers to Government Code 65915 as amended. Once Chapter 16.216 (inclusionary) takes effect in 2027, inclusionary units can count toward density bonus set-asides per state law; confirm with Planning how the two chapters interact. Vallejo adopted its 2023-2031 Housing Element December 30, 2024 (certified the next day); no Prohousing Designation for Vallejo was found on HCD's lists. Read on the zoneomics code mirror.",
+      "source_url": "https://www.zoneomics.com/code/vallejo-CA/chapter_2",
+      "record_id": "ef2d0828cc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Vallejo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Vallejo PLHA formula allocation and pending Commercial Linkage Fee",
+      "administering_agency": "City of Vallejo Housing and Community Development Department (PLHA); Planning and Development Services (linkage fee)",
+      "funding_type": "grant",
+      "typical_award_size": "PLHA formula (HCD 2024-2028 NOFA): Vallejo CY 2024 $354,734, CY 2025 $379,973, five-year estimate $2,217,088. How the City programs PLHA was not found on its pages. Commercial Linkage Fee: per the City's project page, a draft ordinance will be prepared and released for public review after the Inclusionary Housing Ordinance is considered and potentially adopted; no fee level or date set. Inclusionary ordinance: Planning Commission recommended adoption September 9, 2026; Council directed revisions October 27, 2026; second reading scheduled November 10, 2026, effective 90 days after final passage.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA: at or below 60% AMI for rental assistance unless the five-year plan targets higher; 55-year covenant for rental development. Linkage fee: not yet set.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PLHA allocations arrive annually from HCD; ask the City for its five-year PLHA plan. Inclusionary ordinance second reading scheduled November 10, 2026; the linkage fee draft follows with no date set.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "About $360,000 to $380,000 a year, the largest city PLHA share in the county. Combined with the inclusionary in-lieu fund and LMIHAF it gives Vallejo three small local pots that could be pooled into a NOFA; none has been. State funds trigger prevailing wage. The opened source is HCD's PLHA formula NOFA; the City's PLHA plan was not located on cityofvallejo.net.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "ba91a3ea58",
+      "cycle_notes": "PLHA is an annual HCD formula allocation, not a City NOFA. The Commercial Linkage Fee is pending and has no fee schedule yet.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "next_deadline_date": "2026-11-10",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Suisun City",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Suisun City land contribution and impact fee waiver for affordable housing (Almond Gardens; Successor Agency and Housing Authority property)",
+      "administering_agency": "City of Suisun City, Suisun City Housing Authority and Successor Agency to the Redevelopment Agency (Bret Prebula, City Manager and Executive Director, 707-421-7300)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Case by case, no ordinance. The CTCAC staff report for Almond Gardens (CA-24-602, December 11, 2024; 97 units, 96 restricted) lists Suisun City land at $850,000 and an impact fee waiver of $1,535,881 in both construction and permanent sources, alongside Citibank bonds, deferred developer fee and tax credit equity. The Housing Authority owned 707 Main Street and the Successor Agency 701, 711, 713 and 717 Main Street; the City announced on September 1, 2026 that 707 Main Street and two downtown parking lots transferred to California Forever in the first phase of a downtown sale agreed in June 2026.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Negotiated; Almond Gardens is 100% affordable (48 units at 30% AMI, 48 at 50% AMI) with a 55-year CTCAC term and Section 8 PBVs on all 96 restricted units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No program or deadline. Any waiver or land write-down requires Council or Housing Authority action; Housing Element Program 1.B promises impact fee deferrals and density bonuses for mixed-use and residential projects in the Downtown Waterfront Specific Plan area.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Suisun City has no trust fund, inclusionary fee or LMIHAF report found online, so land and fee concessions are its only local contribution. The Main Street sales to California Forever entities (CF Suisun LLCs) may generate Successor Agency or Housing Authority proceeds; ask the City whether housing asset proceeds will be re-deployed. A fee waiver on a 97-unit project is public funds under Labor Code 1720(c), hence prevailing wage true (the project is also bond and credit financed). Source is the CTCAC report; the Housing Authority DDA and the May 26, 2026 staff reports were not opened (suisun.com 403; Granicus agenda PDF opened but attachments not).",
+      "source_url": "https://www.treasurer.ca.gov/sites/default/files/ctcac/CA-24-602.pdf",
+      "record_id": "3404b58691",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Suisun City",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "needs_confirmation",
+      "program_name": "Suisun City local housing fund, inclusionary ordinance and PLHA (no trust fund or inclusionary; Housing Element Programs 1.B, 1.C, 1.E; PLHA formula share)",
+      "administering_agency": "City of Suisun City Development Services Department and Suisun City Housing Authority",
+      "funding_type": "grant",
+      "typical_award_size": "Negative finding for local funds. The 2023-2031 Housing Element (adopted March 21, 2023, modified May 16, 2023, HCD certified May 2023) has no trust fund, in-lieu fee or fee waiver program; Program 1.E was to decide on an inclusionary ordinance within two years of adoption (by spring 2025) and adopt one within a year if appropriate; Program 1.C commits the City to apply for state HOME, CDBG, MHP and CalHFA funds for nonprofit developers; Program 1.F explores mortgage revenue bonds and MCCs with other Solano jurisdictions. Suisun City is not a CDBG or HOME entitlement (state programs). PLHA formula (HCD 2024-2028 NOFA): CY 2024 $80,369, CY 2025 $86,957, five-year estimate $502,306.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA: at or below 60% AMI unless the plan targets higher; state HOME and CDBG rules when the City applies as grantee.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PLHA allocations arrive annually from HCD; the City's PLHA plan and any inclusionary decision were not found (suisun.com 403). Ask Development Services whether Council acted on Program 1.E and how PLHA is programmed.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A Suisun City project must bring its own subsidy: state HOME or CDBG with the City as applicant, CMFA bonds and TCAC (Almond Gardens model), County SCHTF (county record), and the City's land or fee concessions (separate record). About $85,000 a year of PLHA is too small for gap loans unless pooled. Source is the HCD-posted October 2022 review draft; the adopted element PDF on suisun.com returned 403.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/suisun-city-6th-draft100422.pdf",
+      "record_id": "6d73f03f8a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "October 2022 draft confirms Programs 1.B, 1.C, 1.E (inclusionary decision within two years of adoption) and 1.F; PLHA amounts confirmed in the HCD NOFA. Adoption dates and any Council action on Program 1.E were not on an opened page; suisun.com housing documents return 403.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

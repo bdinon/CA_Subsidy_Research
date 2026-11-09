@@ -1,0 +1,42 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29: housing interventions (rental and operating subsidies, flexible housing subsidy pool)",
+      "administering_agency": "Santa Cruz County Health Services Agency, Behavioral Health Division (MentalHealth.ServicesAct@santacruzcountyca.gov)",
+      "funding_type": "grant",
+      "typical_award_size": "Housing Interventions component $7,796,621 (FY 2026-27 BHSA funds) plus $942,228 of MHSA carryover for a year-one total of $8,738,849, $7,796,621 in year two and $8,267,735 in year three (30% of a BHSA allocation of about $26 million). Year-one uses: permanent rental subsidies $6,539,529 (260 units), bundled permanent rental and operating subsidies $914,623, interim housing bundled subsidies $781,451, operating subsidies on 200 units; no capital development projects and no housing exemption; FSP to BHSS transfer of $1,819,212 a year does not touch housing. Behavioral Health is building a flexible housing subsidy pool with Housing for Health that will serve BHSA-eligible people first, and new NPLH PSH units came online in spring 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder; at least half of housing funds for chronically homeless people.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Plan approved June 2026 after a March 18 to April 16, 2026 comment period and an April 16, 2026 public hearing. No NOFA; contact Behavioral Health housing staff about subsidy commitments for PSH units in 2027 and later.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. Santa Cruz will not use BHSA for capital; its value to a developer is a 15 to 20 year project-based rental or operating subsidy on PSH units, which can replace or supplement PBVs while HACSC's RFP is paused. Source is the revised June 2026 Integrated Plan PDF on santacruzhealth.org. Audit reclassification: funding_type set to grant because the plan funds rental subsidies ($6,539,529), bundled rental and operating subsidies for permanent settings ($914,623) and bundled interim housing subsidies ($781,451) a year; the plan answers No to BHSA capital development, and 0% of subsidies are administered through flex pools in the budget tables.",
+      "source_url": "https://www.santacruzhealth.org/Portals/7/Pdfs/BH/MHSA/BHSARevisedPlanPendingApprovalJune2026.pdf",
+      "record_id": "6de784df42",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "project-based rental subsidies for PSH units",
+        "operating subsidies",
+        "master-leased and flex pool units",
+        "interim housing subsidies"
+      ],
+      "next_deadline_date": "2026-04-16",
+      "deadline_check": "past_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

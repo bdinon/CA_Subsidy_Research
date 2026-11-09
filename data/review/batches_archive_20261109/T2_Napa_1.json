@@ -1,0 +1,117 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Housing Authority of the City of Napa (countywide HCV administrator)",
+      "administering_agency": "Housing Authority of the City of Napa (HACN, HUD CA073), a City of Napa agency that administers Section 8 for all of Napa County",
+      "funding_type": "rental assistance",
+      "typical_award_size": "About 1,455 active vouchers as of early 2024 (City Consolidated Plan); the 2021 Administrative Plan allows up to 20% of budget authority to be project-based, with a 45-PBV limited preference for Napa Continuum of Care coordinated entry referrals and 15 tenant-based vouchers. Recent allocations: 8 PBVs for Stoddard West (City of Napa, 2017), 38 PBVs for Heritage House (3700 Valle Verde Drive), 8 PBVs for Napa Cove (66 units, American Canyon). Shelter Plus Care PSH renewal about $214,000 in the 2026 CoC listing.",
+      "per_unit_cap": "HAP contract rent capped at the lower of reasonable rent or 110% of FMR (Napa FMRs are high, which supports PSH underwriting).",
+      "affordability_requirement": "Households at or below 50% AMI (75% at 30% AMI on admission); PBV units limited to 25% of units in a building unless serving elderly, disabled or supportive services households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open PBV RFP found. HACN selects owner proposals either by RFP under 24 CFR 983.51(b)(1) or without competition under 983.51(b)(2) for projects already selected through a competitive public funding process (LIHTC, HOME) within the prior three years. A revised Administrative Plan was scheduled for HACN board approval April 7, 2026; confirm adoption.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Recorded at county level because HACN is the only public housing agency in Napa County and attaches PBVs to projects in American Canyon and other cities; the Napa County Housing Authority runs farmworker centers only and holds no vouchers. Developers normally request PBVs after a CTCAC or HCD award, which lets HACN use the non-competitive path. PBV HAP contracts run up to 20 years with extensions. Federal Davis-Bacon applies to PBV new construction or rehab of 9 or more contract units; state prevailing wage is not triggered by PBVs alone. City of Napa records in Pass 3 will cover HACN's city-only programs.",
+      "source_url": "https://www.cityofnapa.org/DocumentCenter/View/7814/2021-Section-8-Administrative-Plan-PDF",
+      "record_id": "8072d03579",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-04-07",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa City and County Continuum of Care (CA-517) and HHAP homelessness funding",
+      "administering_agency": "Napa County Housing and Community Services (CoC collaborative applicant and HHAP administrative entity) with the Napa City and County CoC board",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 5: Napa County $698,089.89 and Napa City & County CoC $727,623.09 (regional total $1,425,712.98, awarded individually). HHAP Round 6: nearly $1,000,000 awarded March 2, 2026 for rapid rehousing and rental subsidies, permanent housing services, coordination and the City of Napa prevention and diversion program. HHAP Round 2: County $160,645 plus CoC redirect $250,000. State dashboard: $4,900,000 HHAP rounds 1-5 to the Napa area 2019-2025 ($3,000,000 direct to the County) and $15,000,000 Encampment Resolution Funding rounds 1-3. HUD FY 2025 CoC awards to CA-517 were small: $21,564 coordinated assessment, $40,874 HMIS, $50,000 planning; the 2026 local priority listing (July 23, 2026) ranks about $300,000 County engagement and housing navigation, $400,000 City of Napa outreach, $214,000 HACN Shelter Plus Care PSH renewal, $108,000 DV bonus and $500,000 CoC bonus. State ESG via CA-517: $207,965 (2024 NOFA).",
+      "per_unit_cap": null,
+      "affordability_requirement": "HUD CoC and HHAP target people experiencing homelessness; HHAP permanent housing uses include operating subsidies, rental assistance and capital for PSH. Homekey Round 2 funded Burbank Housing's Wine Valley Lodge conversion (54 PSH units, $18,113,600 with the City of Napa).",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HUD FY 2026 CoC competition: local priority listing finalized July 2026 (HUD NOFO released June 1, 2026, modified July 24, 2026). HHAP Round 7 timing depends on the 2026-27 state budget; Napa's small HHAP shares are spent mostly on rental subsidies and services, not capital.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "For PSH underwriting the usable pieces are HHAP operating or rental subsidy commitments and HACN Shelter Plus Care or PBVs, not capital; the CoC is small (Point-in-Time 2024 found 494 people). Napa County has no Measure-type housing sales tax and no NPLH balance surfaced. HHAP capital is state money and triggers prevailing wage. Sources opened: HCD HHAP Round 5 awardee list, HCD HHAP Round 6 award release, HUD FY 2025 CoC award report, HCD 2024 ESG award list, the County's HHAP Round 2 application and the state accountability dashboard. napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; the CoC page is https://www.napacounty.gov/1036/Napa-Continuum-of-Care and the 2026 priority listing figures come from search excerpts of a County PDF that could not be opened.",
+      "source_url": "https://hcd.ca.gov/about-hcd/newsroom/hhap6-batch2-awards",
+      "record_id": "2d83617837",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-07-24",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Calistoga",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Calistoga ADU Fee Assistance Program (Measure D funded connection and impact fee grants) and ADU fee waivers",
+      "administering_agency": "City of Calistoga Planning and Building Department and Public Works",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Proposed by resolution at the October 6, 2026 City Council meeting (Housing Element Action A1.2-2): the City would pay, as a Measure D funded grant, water and sewer connection and capacity charges (about $28,500 per ADU) and development impact fees for ADUs over 750 square feet (total fees up to about $43,500) for the first three ADUs with complete building permit applications each calendar year, first come first served, subject to annual appropriation. Existing policy already waives impact fees for ADUs under 750 square feet and utility connection fees for ADUs not built with the primary home. Alternatives discussed: five ADUs a year, tiered connection fee relief (75% for 5-year, 50% for 10-year, 25% for 15-year, 0% for 20-year deed restrictions), monitoring by HACN under the FY 2026-28 intergovernmental agreement.",
+      "per_unit_cap": "About $28,500 to $43,500 per ADU.",
+      "affordability_requirement": "10-year recorded deed restriction requiring the ADU to be rented at rents affordable to households at or below 160% AMI, no rentals under 30 days; violations trigger repayment with 10% interest and a lien. Council was asked whether to tighten to 120% AMI.",
+      "eligible_project_types": [
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "First three complete ADU permit applications each calendar year once adopted; confirm whether the Council adopted the resolution on October 6, 2026 and whether the Chapter 17.37 ADU ordinance amendments (under HCD review in fall 2026) have taken effect. ADU Forgivable Loan outreach with Napa County Housing and Community Services was planned for 2026.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Single unit program recorded because it shows how Calistoga deploys Measure D and because the same connection fee burden (about $28,500 per unit) hits small multifamily projects, which can request similar relief as a density bonus financial concession under 17.08.030. Layers with the County Affordable ADU Forgivable Loan ($105,000 maximum, 5-year restriction) and Calistoga's PLHA share (60% ADU loans, 35% rehab through the City of Napa). Fee grants are public funds; prevailing wage exposure for a homeowner ADU is a question for counsel. Source: October 6, 2026 staff report on the City's CivicWeb host (source_url); the May 18, 2026 Housing Advisory Committee report and April 2026 ADU ordinance review were also opened.",
+      "source_url": "https://calistoga.civicweb.net/document/117944/",
+      "record_id": "5376b06e0d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "adu"
+      ],
+      "next_deadline_date": "2026-10-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

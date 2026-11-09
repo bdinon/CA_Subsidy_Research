@@ -1,0 +1,42 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Multifamily Housing Revenue Bonds, County of Contra Costa conduit issuer",
+      "administering_agency": "Contra Costa County Department of Conservation and Development, bond administration (Kristin Sherk, 925-655-2889)",
+      "funding_type": "bond",
+      "typical_award_size": "Active issuer. Board approvals: El Cerrito Plaza Parcel A South, up to $35,700,000 tax-exempt plus $10,000,000 taxable (Res. 2025-383, Nov 4, 2025, JPMorgan private placement, 6.824% TIC); Lakeside Apartments, Concord, up to $30,000,000 for RCD's 124-unit acquisition-rehab (Res. 2026-59, March 3, 2026; CDLAC allocation in hand, sale resolution expected May 2026); Res. 2026-196, up to $15,075,837 for a 124-unit acquisition-rehab (May 19, 2026); Res. 2025-362, $29,238,977 tax-exempt plus $8,000,000 taxable (Oct 21, 2025); Res. 2025-196, up to $40,000,000 for an 84-unit development (June 10, 2025); Res. 2025-117, up to $50,000,000 for 70 units (April 15, 2025). Fees per the 2018 Debt Policy appendix: $2,500 application fee, issuance fee at closing, annual fee of 0.125% of outstanding principal (minimum $5,000, may be subordinated) for the 55-year regulatory agreement term.",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDLAC and Section 142(d) minimums; County regulatory agreement typically runs 55 years. Recent deals are 100% affordable at 30% to 60% AMI. Projects must be in the unincorporated area or in a city that approves the County as issuer (cities often use CMFA or CSCDA instead).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Tied to CDLAC rounds. The program web page still says the County is not currently accepting applications, but the Board approved six bond resolutions between January 2025 and May 2026; the FY 2026/27 guidelines (section 9.4) direct any County-funded project seeking CDLAC bonds to contact DCD bond staff about the County acting as issuer. Allow for a TEFRA hearing and inducement resolution before the CDLAC deadline.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "County pages on www.contracosta.ca.gov refuse automated fetches (403); the same pages and DocumentCenter PDFs were opened on 2026-11-06 through the site's CivicPlus origin host (ca-contracostacounty3.civicplus.com), and Board reports were read through the contra-costa.legistar.com API. The County issues for projects it also lends to (El Cerrito Plaza, Lakeside), which keeps one regulatory agreement and one monitor; bonds are payable solely from project revenue with no County pledge and the sponsor reimburses TEFRA and approval costs. The 0.125% annual issuer fee is in line with CMFA and CSCDA. Tax-exempt bonds alone do not trigger state prevailing wage, but County, HOME or Measure X loans in the same deal do, and Davis-Bacon follows HOME and CDBG. Program overview and 2018 policy appendix are on the County DocumentCenter.",
+      "source_url": "https://www.contracosta.ca.gov/8694/Multiple-Family-Mortgage-Revenue-Bond",
+      "record_id": "d153e3912d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Development impact fee waiver for affordable housing (Ordinance 659) and density bonus (Ordinance 348)",
+      "administering_agency": "Riverside County Transportation and Land Management Agency, Planning and Building and Safety",
+      "funding_type": "fee waiver",
+      "typical_award_size": "The County Housing Element states that all affordable housing projects receive a waiver of all County development impact fees under Ordinance 659 (fees unchanged since 2015 and higher in the eastern Coachella Valley); the County also commits to fee deferrals and fast-track processing for County-assisted affordable projects (Program 1.1d). Density bonus: Ordinance 348 was amended in March 2021 to adopt state density bonus law (Government Code 65915 and 65917.2) with incentives, concessions and waivers; the R-6 Residential Incentive Zone offers case-by-case density above the General Plan for projects with 15% of units at 80% AMI or 25% at 120% AMI. Projects in the unincorporated area are also exempt from most city-level fees.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Affordable housing as defined by the DIF ordinance and the Housing Element; density bonus tiers per state law.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Claimed at building permit (DIF waiver) and at entitlement (density bonus). School, regional transportation (TUMF and WRCOG) and special district fees are not County DIFs and are not waived.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. The blanket DIF waiver is the County's most valuable standing incentive for unincorporated sites (DIFs run several thousand to over ten thousand dollars per unit by area plan); confirm the current Ordinance 659 text and the waiver procedure with Building and Safety because the Housing Element statement is the only source opened this pass and planning.rctlma.org blocks automated access. Prevailing wage is marked unclear because waived fees can be read as public funds under Labor Code 1720(b)(4). Source is the County 2021-2029 Housing Element HCD submittal (Programs 1.1d and 1.2b and the constraints chapter).",
+      "source_url": "https://planning.rctlma.org/sites/g/files/aldnop416/files/2024-01/Riverside%20County%20-%20HCD%20Submittal.pdf",
+      "record_id": "d24cc6cff5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "affordable multifamily new construction in unincorporated Riverside County",
+        "mixed-income projects using state density bonus"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Riverside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Riverside Local Affordable Housing Trust Fund (LAHTF), created by Council resolution March 12, 2024",
+      "administering_agency": "City of Riverside Housing and Human Services Department",
+      "funding_type": "loan",
+      "typical_award_size": "Construction and permanent loans at simple interest of no more than 3% per annum, with repayments recycled into the fund. Seeded with a $1,500,000 transfer of PLHA funds; ongoing revenue from HOME, NSP, CalHome, PLHA and ARPA affordable housing program income (ARPA affordable housing allocation was $1,388,797) plus 50% of future sale proceeds of City-owned land bought with General Fund money. City applied for a $1,000,000 HCD Local Housing Trust Fund match (August 2024). Staff cite typical gap requests of $3M to $4M for 65 to 80 unit projects.",
+      "per_unit_cap": "None published; sized to gap.",
+      "affordability_requirement": "Low to moderate income households. Committee recommendations at creation: 99-year affordability term, priority for seniors and justice-involved people, and eligibility for market-rate developers that restrict 10% of rental units (or 5% of for-sale units). Loans funded with PIP Round 4 money require 55-year first-position covenants at or below 50% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No LAHTF NOFA issued as of 2026-11-08. The March 24, 2026 PIP Round 4 staff report says residual receipts from PIP loans will flow to the trust fund and staff will issue a NOFA once enough has accumulated. Contact Housing and Human Services (Agripina Neubauer, Housing Project Manager).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "City-controlled gap layer that sits ahead of County HOME/PLHA (the County CDBG/HOME record covers the Urban County, which excludes the City of Riverside as its own entitlement grantee). Stacks with the City's own HOME, PLHA and PIP loans (separate records) and with 4% or 9% LIHTC. Capitalized mainly from recycled program income, so the balance is small relative to need; expect it to be combined with HOME and PLHA on the same project. If the LHTF state match was awarded it carries HCD LHTF regulatory terms. City pages on riversideca.gov are thin; staff reports were pulled through the Legistar web API (client riversideca).",
+      "source_url": "https://riversideca.legistar1.com/riversideca/attachments/1ba55bf5-5dbd-4eeb-9ca6-933968bf57e8.pdf",
+      "record_id": "6d04638084",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-08",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Riverside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "City of Riverside Permanent Local Housing Allocation (PLHA) direct formula allocation, development loans",
+      "administering_agency": "City of Riverside Housing and Human Services Department",
+      "funding_type": "loan",
+      "typical_award_size": "Five-year PLHA plan (adopted July 7, 2020) estimated $9,732,750. CY 2023 application $2,456,509 (March 2025). Development loans to date: $1,000,000 Golden Pierce (79 units), $1,053,907 The Aspire (32 youth PSH units), $380,562 Sunrise at Bogart (22 PSH units), $250,000 proposed for Grapevine (10 units). A large share also goes to homeless case management ($1,384,134 City Net).",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "PLHA rules: rental units at or below 60% AMI (up to 120% AMI for owner units), 55-year covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Awarded through Council-approved loan agreements; uncommitted amounts may be transferred to the Local Affordable Housing Trust Fund ($1.5M already moved). Contact Housing and Human Services.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "City receives its own PLHA formula share separate from the County PLHA record, so City projects can carry both a City and a County PLHA loan. Commonly stacked with City HOME and PIP on the same project (Sunrise at Bogart used PIP $1.44M, PLHA $380K and HOME $1.51M).",
+      "source_url": "https://riversideca.legistar1.com/riversideca/attachments/0e2435f5-b0f3-4816-8f98-68582b8bd16d.pdf",
+      "record_id": "86dae6d648",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Riverside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Prohousing designation and Prohousing Incentive Program (PIP) loans, City of Riverside",
+      "administering_agency": "City of Riverside Housing and Human Services Department (designation by HCD)",
+      "funding_type": "loan",
+      "typical_award_size": "City has received $2.44M in PIP to date: $1,000,000 loan to Mulberry Gardens Family (149 units) and $1,440,000 to Sunrise at Bogart (22 PSH units). Council authorized an application for up to $1,440,000 in PIP Round 4 (March 24, 2026); loans come back to Council project by project.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "PIP-assisted units at or below 50% AMI; 55-year covenants in first position.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Prohousing designation (awarded March 30, 2023) expires January 1, 2027. The Housing and Homelessness Committee took up reapplication on August 31, 2026; a reapplication resolution and HCD submittal must happen before January 2027 for the City to keep PIP eligibility and Prohousing scoring points.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Designation also gives Riverside projects Prohousing points or preference in HCD competitive programs (AHSC, IIG and others), a meaningful edge for City sites. PIP residual receipts flow to the LAHTF. Risk: staff estimate 16 confident and up to 23 uncertain points against a 30-point threshold under the stricter 2024 criteria, so the designation could lapse. Recorded at city level because the City selects and lends to projects, although the money is HCD's.",
+      "source_url": "https://riversideca.legistar1.com/riversideca/attachments/6a5bf8ac-0390-4374-8266-cbdc5145ea9a.docx",
+      "record_id": "b9057c1e22",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2027-01-01",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Coachella Valley, Riverside County",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "We Lift: The Coachella Valley's Housing Catalyst Fund (revolving loan fund managed by Lift to Rise and LIIF)",
+      "administering_agency": "Lift to Rise (Palm Desert) with Low Income Investment Fund as fund manager; partners include the County of Riverside, Rural Community Assistance Corporation and about 70 community partners",
+      "funding_type": "loan",
+      "typical_award_size": "More than $44 million available (goal to grow past $80 million); since 2021 more than $26 million committed in low-interest, flexible loans for nearly 900 affordable units including multifamily rentals, homeownership and Polanco (farmworker) parks; the State contributed $15 million. Loan terms are set by LIIF underwriting and are not posted.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Community-prioritized affordable housing in the Coachella Valley; projects tracked toward a goal of 10,000 units by 2028.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "predevelopment",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling through the Lift to Rise pipeline portal and LIIF.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Eastern Riverside County only (Coachella Valley cities including Indio, Coachella, Palm Springs, Cathedral City, Desert Hot Springs). Loans repay to the fund at construction or permanent closing. Public contributions (County of Riverside, State of California) may make prevailing wage project-specific. Example: Vista Sunrise on the DAP Health campus in Palm Springs (Coachella Valley Housing Coalition, opened 2024). Layer with Riverside County HWS NOFAs, the City of Indio Local Housing Trust Fund and Palm Springs housing successor loans.",
+      "source_url": "https://lifttorise.org/we-lift/",
+      "record_id": "a05a93b378",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment",
+        "acquisition",
+        "gap loans",
+        "new construction",
+        "farmworker housing",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

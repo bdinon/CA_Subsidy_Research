@@ -1,0 +1,92 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Round 6 and 7 (County as CoC administrative entity)",
+      "administering_agency": "San Luis Obispo County Department of Social Services, Homeless Services Division (CoC CA-614 collaborative applicant)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 remainder of $1,386,379 offered in the 2027 Action Plan NOFA ($1,275,468.68 available after 7% admin and 1% HMIS; 10% youth set-aside $138,637.90). HSOC priorities (March 18, 2026): capital for permanent housing $100,000, permanent housing services $116,049, interim housing services $849,419, rapid rehousing $210,000. HCD HHAP-6 allocations: County $1,340,780.92 and CoC $1,431,977.08; HHAP-7 preliminary: County $1,576,336.64 and CoC $1,688,932.11. State ESG $190,735 also in the NOFA. County General Fund Support adds $379,000 a year for shelters and homeless programs.",
+      "per_unit_cap": "Capital for permanent housing limited to about $100,000 in the current round.",
+      "affordability_requirement": "People experiencing or at risk of homelessness; Housing First; at least 10% for youth.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 applications closed October 30, 2026 with awards April 2027; funds must be spent by May 31, 2029. HHAP-7 will be programmed through the 2028 Action Plan after state award.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. HHAP here is almost entirely services and interim housing; only $100,000 is set aside for permanent housing capital. Treat it as an operating or services source for PSH units (Welcome Home Village, 40 PSH and 14 interim units, is the County's flagship) rather than gap capital.",
+      "source_url": "https://www.slocounty.ca.gov/departments/social-services/forms-documents/homeless-services/funding-availability/2027/2027-action-plan-nofa",
+      "record_id": "2097b42dc0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing operating and services",
+        "interim housing operations",
+        "rapid rehousing and rental subsidies",
+        "capital for permanent housing (small)"
+      ],
+      "next_deadline_date": "2029-05-31",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program rule found. The HCD HHAP Round 6 amended NOFA (95 pages, also governing HHAP 7 disbursements) and the County 2027 Action Plan NOFA HHAP section contain no prevailing wage or Labor Code requirement; the County NOFA cites Davis-Bacon only for HOME (12+ HOME units, 24 CFR 92.354) and CDBG. Any obligation on HHAP capital for permanent housing would rest on the general Labor Code 1720(b) public-funds definition and depends on 1720(c) exemptions and project facts.",
+      "audit_note": "Tier 3: prevailing wage left unclear; HHAP statute and NOFA state no rule, coverage of HHAP-funded capital depends on Labor Code 1720(b) and 1720(c) project facts. Services, interim operations and rental subsidy uses are not construction.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "San Luis Obispo County Housing Trust Fund revolving loans (private CDFI)",
+      "administering_agency": "San Luis Obispo County Housing Trust Fund, 71 Zaca Lane Suite 130, San Luis Obispo, 805-543-5970 (Kathy McClenathen, Deputy Director)",
+      "funding_type": "loan",
+      "typical_award_size": "Notice of Funding Available updated April 1, 2026: up to $3 million available, maximum loan $3 million per project, term generally up to 5 years, 5% to 7% fixed interest, 0.5% to 2% fees plus costs, real estate collateral (may be subordinate), loan-to-value 80% to 100% including senior debt. LIHTC Project Loans (soft, 15-year or longer, from LHTF and PLHA grant funds): up to $40,000 per extremely low income unit and $20,000 per low income unit, $1.5 million per project. Since 2003: 70 loans over $44 million for 1,700 units; $5.9 million closed in 2024 with $20 million outstanding.",
+      "per_unit_cap": "$40,000 per ELI unit and $20,000 per LI unit on LIHTC Project Loans; $1.5 million per project for longer-term loans; $3 million per project overall.",
+      "affordability_requirement": "Extremely low to moderate income (most loans at or below 80% AMI); can finance units to 120% or 160% AMI; priority for housing serving people with disabilities; 40% of HTF resources committed to households with special needs. LHTF Loans: 55-year affordability, LIHTC-like income targeting, and 30% of LHTF funds must serve ELI units.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "mixed-income",
+        "mixed-use",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; four-step process starting with a phone or email inquiry, then invitation to apply. Maintains a 2026 Multi-Family Readiness List.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. The Housing Trust Fund is the fastest local money in the county and has participated in nearly every recent affordable deal (Cambria Pines, Rolling Hills III, Cleaver and Clark Commons, River Walk Terrace). Use it for predevelopment and acquisition bridges before County and state awards, and ask about the LIHTC soft loan product funded by state LHTF matching grants ($1.5 million LHTF award reported in 2025).",
+      "source_url": "https://www.slochtf.org/for-borrowers",
+      "record_id": "42918f0000",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment",
+        "site acquisition",
+        "construction and bridge loans",
+        "acquisition/rehab",
+        "LIHTC permanent soft loans",
+        "mixed-income and mixed-use with affordable units"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "HTF LHTF Program Guidelines, Underwriting Standards item k: LHTF Loans must comply with state prevailing wage laws, but an LHTF loan will not trigger prevailing wages for projects that are otherwise exempt (https://www.slochtf.org/_files/ugd/580dcd_12941d48fbde4791a3605aa439068749.pdf). No stated rule for short-term loans from private HTF funds; outcome depends on the loan product and Labor Code 1720(c) exemptions.",
+      "audit_note": "Tier 4 spot check November 8, 2026: prior record said 40% of resources committed to ELI households; Underwriting Guidelines say 40% to households with special needs. Prior prevailing_wage_trigger false contradicted by LHTF guidelines for LHTF and LIHTC Project Loans. NOFA (4/1/2026) fees are 0.5% to 2%. Loan limits (4/1/2025) confirmed.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

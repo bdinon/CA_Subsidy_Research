@@ -1,0 +1,191 @@
+[
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Program fees (residential in-lieu fee and non-residential Workforce Housing fee)",
+      "administering_agency": "Permit Sonoma (collection and compliance); fees deposited to the County Fund for Housing administered by the CDC",
+      "funding_type": "other",
+      "typical_award_size": "Residential: every unit in unincorporated Sonoma County must build affordable units or pay an in-lieu fee graduated by size; 2026 schedule $3,108 for units of 1,000 sq ft or less rising roughly $155 per 10 sq ft (about $19,000 at 2,000 sq ft, about $29,000 at 2,750 sq ft), paid before building permit final. Non-residential (Workforce Housing Program) 2026: office, commercial and hotel $3.69 per sq ft; industrial, warehousing and agricultural processing $3.80; retail and services $6.38; first 2,000 sq ft exempt. Both adjust each January 1 by the ENR Bay Area construction cost index.",
+      "per_unit_cap": null,
+      "affordability_requirement": "On-site alternative for rental projects: at least 15% of units affordable to low and very low income, or 10% to very low and extremely low income; ownership projects 20% split between low and moderate income. Exemptions include ADUs, farmworker and agricultural employee housing, replacement of fire-destroyed homes within 10 years, and projects complying through other approved means (Code 26-89-045).",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Compliance method must be selected with the first permit application; fee schedules reset every January 1 (2027 schedule due January 2027).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "This is the revenue engine for CFH and the inclusionary rule that mixed-income rental developers in the unincorporated county must satisfy; a 100% affordable LIHTC project satisfies the requirement outright and pays no fee. Developers of market-rate or mixed projects can also meet it by land dedication or restricting existing units. The fee is separate from the traffic and parks impact fees that the Board waived for affordable projects in 2025-2026.",
+      "source_url": "https://permitsonoma.org/regulationsandlongrangeplans/regulationsandinitiatives/housing/housinginitiatives/residentialprogram",
+      "record_id": "ed9a3acd1b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Rosa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "needs_confirmation",
+      "program_name": "Santa Rosa tax-exempt multifamily housing revenue bonds (City Council conduit issuance under the City Bond Policy and Term Sheet)",
+      "administering_agency": "City of Santa Rosa Housing and Community Services Department (Housing Authority) and City Council as issuer",
+      "funding_type": "bond",
+      "typical_award_size": "Conduit tax-exempt multifamily housing revenue bonds issued by the City Council on request for housing, mobilehome park purchases and similar public-purpose projects; amounts set per project within CDLAC allocation. Issuer fees and policy terms are in the City's Bond Policy and Bond Policy Term Sheet (DocumentCenter 21065 and 21066), which could not be opened this pass because srcity.org returns 403 to scripts.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Governed by CDLAC and Section 142(d) requirements (20% at 50% AMI or 40% at 60% AMI minimum) plus any City policy overlays in the term sheet (not confirmed).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request to Council timed to CDLAC application rounds; confirm issuer fee schedule and TEFRA hearing lead time with Housing and Community Services, (707) 543-3300.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Alternative to CSCDA, CMFA or CalHFA conduit issuance for 4% LIHTC deals in Santa Rosa; using the City as issuer can simplify coordination with Housing Authority loans and regulatory agreements. The Developer Information page (opened on the City's civicplus mirror) confirms the program exists and lists local funds (real property transfer tax and housing impact fees), CDBG, HOME and HCD funds used by the Housing Authority. Confirm current issuer fees and whether the City still issues or defers to JPAs.",
+      "source_url": "https://ca-santarosa.civicplus.com/678/Developer-Information",
+      "record_id": "19f21c72dc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "mobilehome park acquisition"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Petaluma",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "needs_confirmation",
+      "program_name": "Petaluma density bonus and affordable housing incentive package (Housing Element 2023-2031 Programs 14 and 15; Implementing Zoning Ordinance density bonus chapter)",
+      "administering_agency": "City of Petaluma Community Development Department, Planning and Housing Divisions",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory. The City applies state density bonus law (Government Code 65915) through its Implementing Zoning Ordinance, which the Housing Element says must be updated for AB 1763 and later changes. Program 14 committed the City to adopt by December 2023 an incentive package for affordable projects: expedited review, a dedicated project manager, financial participation from the Local Housing Trust Fund, density bonus beyond state law, waived, reduced or deferred impact fees for affordable units (scaled by affordability), and streamlined review for 100% affordable projects. Whether the package and any local bonus or fee waiver were adopted could not be confirmed.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus thresholds (5% very low, 10% low, 10% moderate for-sale, 100% affordable for the 80% bonus); local enhancements, if adopted, would set their own thresholds.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency. Confirm with Petaluma Planning whether the December 2023 incentive package, a local density bonus and affordable housing fee waivers were adopted, and the status of the Workforce/Missing Middle program (Program 15).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Only the certified Housing Element could be opened; the Implementing Zoning Ordinance (gocodebook and petaluma.municipal.codes return 403) and cityofpetaluma.org housing pages were blocked. Petaluma has been Prohousing designated, which the Housing Element notes was based in part on fee reductions and the trust fund. If fee waivers exist they would stack with the Housing Fund and state density bonus; the County fee waiver and deferral programs (county records) do not apply inside Petaluma.",
+      "source_url": "https://planpetaluma.squarespace.com/s/Housing-Element-Final-Certified-2023-2031web.pdf",
+      "record_id": "a3627a554c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "100% affordable rental"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rohnert Park",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "needs_confirmation",
+      "program_name": "Rohnert Park affordable housing funds (Rental Affordable Housing Fee and Housing In-Lieu Fee account, Housing Fund) and Essential Housing Bond Financing Program (Housing Element Programs HO-3.F and bond program)",
+      "administering_agency": "City of Rohnert Park Development Services Department and City Manager's office; City Council approves assistance",
+      "funding_type": "loan",
+      "typical_award_size": "No NOFA; the City provides gap loans or grants and land through development agreements and Council action, drawing on the segregated affordable housing fee account (budget Funds 4220 Affordable Housing Rental Fee and 4225 Affordable Linkage Fee) and the Housing Fund named in the 2023-2031 Housing Element as a funding source for Programs HO-1.B and HO-3.F (affordable housing on underutilized City sites, including extremely low income units). The Housing Element's Essential Housing Bond Financing Program commits the City to authorize CSCDA or another JPA to issue an estimated $191.3 million in governmental-purpose bonds for acquisition-conversion of market-rate apartments and new deed-restricted housing, forgoing about $337,346 in property tax and targeting at least 222 units (99 very low, 57 low, 66 moderate). Current fund balances and any adopted lending guidelines were not found; the City's budget and Housing Successor (LMIHAF) reports could not be located online.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Fee revenue must serve very low, low and moderate income households (Section 17.08.010(J)); bond program units for very low to moderate income; City-site projects target extremely low income units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency. Contact Development Services (707-588-2231, Planning@rpcity.org). The Housing Element set July 2023 for joining a JPA for the bond program and January 2026 for the Workforce Housing Overlay; a Council and Planning Commission joint meeting on housing was held February 5, 2026.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Rohnert Park was Prohousing designated August 4, 2023 (42 points), which gives projects in the city AHSC and IIG scoring preferences. Local money is thin, so the practical stack is County CFH, County PLHA (Rohnert Park is a non-entitlement city within the County PLHA), RED Housing Fund and County PBVs (county records) plus LIHTC, with the City contributing fee deferrals, land (Program HO-3.F) or a modest gap loan. Rohnert Park's former Community Development Commission was a redevelopment agency, so a Housing Successor LMIHAF may exist; no annual report was found (flag for follow-up). The CivicPlus agenda search on rpcity.ca.gov returned no results for affordable housing and the old rpcity.org pages 404, so recent council actions could not be verified. Source is the adopted 2023-2031 Housing Element on the City's DocumentCenter.",
+      "source_url": "https://www.rpcity.org/DocumentCenter/View/355/Housing---RP-Adopted-Housing-Element-31723-PDF",
+      "record_id": "366239f66d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "city-owned land"
+      ],
+      "next_deadline_date": "2026-02-05",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sonoma",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "needs_confirmation",
+      "program_name": "City of Sonoma Affordable Housing Fees for Nonresidential Development (Resolution 12-2020) and planned residential affordable housing impact fee (Housing Element 2023-2031 Program 8)",
+      "administering_agency": "City of Sonoma Planning Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Resolution 12-2020 established Affordable Housing Fees for Nonresidential Development (commercial linkage); the rate schedule was not opened. Housing Element Program 8 directs the City to adopt by December 2023 a per-square-foot impact fee on single-family homes and 2 to 4 unit projects (now below the five-unit inclusionary threshold) and by December 2025 to expand the commercial linkage fee after nexus studies so it covers extremely low, very low, low and moderate income workforce housing. The City's housing strategies page still states the City does not require housing impact fees for projects below five units or for commercial projects without housing, so adoption of the residential fee is unconfirmed.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Fee proceeds to the housing trust fund for very low, low and moderate income housing.",
+      "eligible_project_types": [
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency. Confirm whether the residential impact fee (due December 2023) and the expanded nonresidential fee (due December 2025) were adopted and at what rates; the City's 2026 Fee Study and Master Fee Schedule Update is underway and may carry them.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Any new fee revenue would flow to the Affordable Housing Trust Fund (separate record) and expand the City's gap capacity, which is now mostly TOT-based. The County's Affordable Housing Program fees (county record) do not apply inside the city. Source is the adopted Housing Element on the City's ProudCity storage; Resolution 12-2020 and council fee resolutions could not be opened on the civicweb portal.",
+      "source_url": "https://storage.googleapis.com/proudcity/sonomaca/2024/10/Housing-Element-2023-2031-FINAL.pdf",
+      "record_id": "49c538f52d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "nonresidential development (compliance)",
+        "small residential projects (planned fee)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

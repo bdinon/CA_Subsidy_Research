@@ -1,0 +1,132 @@
+[
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Petaluma",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Petaluma Housing Fund and Local Housing Trust Fund (Inclusionary In-Lieu Fund, Commercial Linkage Fund, PLHA formula allocation and HCD Local Housing Trust Fund match)",
+      "administering_agency": "City of Petaluma Community Development Department, Housing Division",
+      "funding_type": "loan",
+      "typical_award_size": "No fixed award size and no NOFA; the City negotiates gap loans and grants project by project. Balances reported in the certified 2023-2031 Housing Element: In-Lieu Fund $3,323,128 and Commercial Linkage Fee fund $2,158,717 as of July 1, 2022; PLHA about $250,000 per year with a $470,905 balance from 2019-2020 program years; HOME program income of $900,000 and $1.1 million of in-lieu funds went to MidPen's 43-unit project at 414 Petaluma Blvd North; the City also received a $1,100,000 HCD Local Housing Trust Fund award in 2022 (HCD award list, not a City page). CDBG entitlement about $330,000 per year (FY 2022-23), mostly for public services and rehab, not new construction.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "In-lieu and PLHA funds target lower income households (PLHA priority at or below 60% AMI); linkage funds target 80-100% AMI under current ordinance. Terms set in each loan agreement; expect 55-year regulatory agreements consistent with inclusionary rental rules.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA cycle; approach the Housing Division before a TCAC or CDLAC round. Housing Element Program 13 committed the City to explore new revenue (TOT, short-term rental fees, vacant home tax, employer fee) and to pursue options by 2025, and to consider joining the Renewal Enterprise District JPA; status not confirmed. PLHA allocations require HCD applications each cycle.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Petaluma is a CDBG entitlement city and its own PLHA recipient, so it is outside the County's Urban County CDBG and County PLHA records; it is not a HOME participating jurisdiction (uses state HOME and program income). Local funds are small relative to Santa Rosa, so the usual stack is City gap loan plus County CFH plus RED Housing Fund (county records; Petaluma was exploring RED membership) plus LIHTC. Housing Element Program 14 lists expedited review, a dedicated project manager, trust fund participation, density bonus beyond state law and waived, reduced or deferred impact fees as incentives (see density bonus record). Current fund balances were not available because cityofpetaluma.org and its housing reports page return 403 to scripts; the certified Housing Element was read from the City's planpetaluma.squarespace.com site.",
+      "source_url": "https://planpetaluma.squarespace.com/s/Housing-Element-Final-Certified-2023-2031web.pdf",
+      "record_id": "47058c5ff2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "land acquisition and predevelopment"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "prevailing_wage_basis": "No program-specific rule found. The certified Housing Element states only generally that state law requires prevailing wages for many private projects built under an agreement with a public agency providing assistance; cityofpetaluma.org housing pages return 403, so no City loan guidelines or NOFA could be read.",
+      "last_audited": "2026-11-08",
+      "audit_note": "Housing Element (source_url redirects only to the same file on the Squarespace CDN) still matches the fund balances and sources, but no stated prevailing wage rule could be found for Petaluma Housing Fund loans."
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Petaluma",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "needs_confirmation",
+      "program_name": "Petaluma density bonus and affordable housing incentive package (Housing Element 2023-2031 Programs 14 and 15; Implementing Zoning Ordinance density bonus chapter)",
+      "administering_agency": "City of Petaluma Community Development Department, Planning and Housing Divisions",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory. The City applies state density bonus law (Government Code 65915) through Implementing Zoning Ordinance Chapter 27, last updated in 2019; Zoning Code Interpretation 2023-01 (September 8, 2023) directs staff to apply state law wherever Chapter 27 conflicts until the code is updated. In November 2022 the City Council adopted a resolution exempting deed-restricted affordable housing projects from the City's facilities, parkland, traffic and open space impact fees (City Housing Finance Analysis, August 2023). Housing Element Program 14 committed the City to adopt by December 2023 a broader incentive package: expedited review, a dedicated project manager, Local Housing Trust Fund participation, density bonus beyond state law, and streamlined review for 100% affordable projects. Whether that package and any local bonus beyond state law were adopted could not be confirmed.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus thresholds (5% very low, 10% low, 10% moderate for-sale, 100% affordable for the 80% bonus); local enhancements, if adopted, would set their own thresholds.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency. Confirm with Petaluma Planning whether the December 2023 incentive package, a local density bonus and affordable housing fee waivers were adopted, and the status of the Workforce/Missing Middle program (Program 15).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The November 2022 impact fee exemption for deed-restricted affordable projects is in effect per the City's 2023 Housing Finance Analysis and can count as a local match in state funding applications; confirm current exemption terms with Planning. The Implementing Zoning Ordinance (gocodebook and petaluma.municipal.codes return 403) and cityofpetaluma.org housing pages were blocked. Petaluma has been Prohousing designated, based in part on fee reductions and the trust fund. Fee exemptions stack with the Housing Fund and state density bonus; the County fee waiver and deferral programs (county records) do not apply inside Petaluma.",
+      "source_url": "https://planpetaluma.squarespace.com/s/Housing-Element-Final-Certified-2023-2031web.pdf",
+      "record_id": "a3627a554c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "100% affordable rental"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rohnert Park",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "needs_confirmation",
+      "program_name": "Rohnert Park affordable housing funds (Rental Affordable Housing Fee and Housing In-Lieu Fee account, Housing Fund) and Essential Housing Bond Financing Program (Housing Element Programs HO-3.F and bond program)",
+      "administering_agency": "City of Rohnert Park Development Services Department and City Manager's office; City Council approves assistance",
+      "funding_type": "loan",
+      "typical_award_size": "No NOFA; the City provides gap loans or grants and land through development agreements and Council action, drawing on the segregated affordable housing fee account (budget Funds 4220 Affordable Housing Rental Fee and 4225 Affordable Linkage Fee) and the Housing Fund named in the 2023-2031 Housing Element as a funding source for Programs HO-1.B and HO-3.F (affordable housing on underutilized City sites, including extremely low income units). The Housing Element's Essential Housing Bond Financing Program commits the City to authorize CSCDA or another JPA to issue an estimated $191.3 million in governmental-purpose bonds for acquisition-conversion of market-rate apartments and new deed-restricted housing, forgoing about $337,346 in property tax and targeting at least 222 units (99 very low, 57 low, 66 moderate). Current fund balances and any adopted lending guidelines were not found; the City's budget and Housing Successor (LMIHAF) reports could not be located online.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Fee revenue must serve very low, low and moderate income households (Section 17.08.010(J)); bond program units for very low to moderate income; City-site projects target extremely low income units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026. No NOFA; assistance is negotiated through development agreements and Council action. Contact Development Services (707-588-2231, Planning@rpcity.org).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Rohnert Park was Prohousing designated August 4, 2023 (42 points), which gives projects in the city AHSC and IIG scoring preferences. Local money is thin, so the practical stack is County CFH, County PLHA (Rohnert Park is a non-entitlement city within the County PLHA), RED Housing Fund and County PBVs (county records) plus LIHTC, with the City contributing fee deferrals, land (Program HO-3.F) or a modest gap loan. Rohnert Park's former Community Development Commission was a redevelopment agency, so a Housing Successor LMIHAF may exist; no annual report was found (flag for follow-up). The CivicPlus agenda search on rpcity.ca.gov returned no results for affordable housing and the old rpcity.org pages 404, so recent council actions could not be verified. Source is the adopted 2023-2031 Housing Element on the City's DocumentCenter.",
+      "source_url": "https://www.rpcity.ca.gov/DocumentCenter/View/355/Housing---RP-Adopted-Housing-Element-31723-PDF",
+      "record_id": "366239f66d",
+      "cycle_notes": "No NOFA cycle. The Housing Element set July 2023 to establish or join a JPA for the Essential Housing Bond Financing Program, with implementation through 2031; a Council and Planning Commission joint housing meeting was held February 5, 2026. Bond program and fund status not confirmed.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "city-owned land"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

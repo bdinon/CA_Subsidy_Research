@@ -1,0 +1,192 @@
+[
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) Housing Interventions, 2026-2029 Integrated Plan",
+      "administering_agency": "Nevada County Behavioral Health Department",
+      "funding_type": "other",
+      "typical_award_size": "Three-year BHSA plan (FY 2026/27 to 2028/29, approved June 2, 2026, Resolution 26-231) budgets $27,502,891 in BHSA spending, with the required 30% for housing interventions (about $2.75 million a year) and half of that for chronic homelessness. The County will use housing funds for rental subsidies and operating costs of its PSH units and for outreach (HOME Team, Commons Resource Center, 865 people a year); it will NOT use BHSA for capital development (0% of the allowed 25%) or for CalAIM-covered tenancy services. BHSA-funded PSH beds grew from 20 (2019) to 94 (2026) plus 24 Homekey+ units coming.",
+      "per_unit_cap": "Not applicable; no capital or per-unit awards.",
+      "affordability_requirement": "BHSA-eligible adults with serious mental illness or substance use disorder experiencing or at risk of homelessness; BHSA is the funding source of last resort for PSH.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Integrated Plan runs through FY 2028/29 with annual updates; contact Nevada County Behavioral Health (530-265-1437) about operating subsidies for PSH units.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. Nevada County's BHSA plan is operations-only, so a PSH developer should plan on BHSA as an operating or rental subsidy source for a handful of units, not as gap capital. The plan notes a large gap in permanent rental subsidies and that the Regional Housing Authority will not open or expand vouchers in 2026. Capital has come from BHBH, BHCIP, ERF and Homekey+ instead.",
+      "source_url": "https://www.nevadacountyca.gov/DocumentCenter/View/64394",
+      "record_id": "2ee11c454e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing operating and rental subsidies",
+        "outreach and engagement"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "7th Cycle Housing Element (2027-2035) RH rezone program and lower income site inventory",
+      "administering_agency": "Nevada County Community Development Agency, Planning Department",
+      "funding_type": "other",
+      "typical_award_size": "Draft 7th Cycle Housing Element released for 30-day review October 5, 2026 and directed to HCD on October 20, 2026. RHNA 3,712 units (1,703 lower, 730 moderate, 1,279 above moderate). Site inventory shows a 677-unit lower income shortfall, so the County must rezone about 42 acres to the RH (Residential High) zone at a minimum 16 units per acre by May 15, 2030 (if adopted and certified within 120 days of the May 15, 2027 deadline). Candidate sites are near community regions and rural centers with services.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Rezoned sites must accommodate lower income units; state law requires by-right approval for projects with at least 20% lower income units on shortfall rezone sites.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "HCD review November 2026 to early 2027; adoption hearings spring 2027; certification deadline May 15, 2027; rezoning complete by May 15, 2030.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. The rezone list is the pipeline of multifamily sites in unincorporated Nevada County for the next decade. Developers should comment on candidate sites now and pair a rezone site with the Prohousing Designation, density bonus and PLHA Round 4 and 5 funds. The 2025 Housing Element Annual Progress Report was accepted January 27, 2026.",
+      "source_url": "https://nevco.legistar.com/LegislationDetail.aspx?ID=49989&GUID=C0E8A145-FAF4-411A-AAA0-CE1D7EA5B50E",
+      "record_id": "8f21b7ae16",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental on RH rezone sites",
+        "by-right affordable projects (20% lower income)"
+      ],
+      "next_deadline_date": "2027-05-15",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_redirected"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "needs_confirmation",
+      "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing",
+      "administering_agency": "Nevada County Assessor, 950 Maidu Avenue, Nevada City, 530-265-1480",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Exempts the affordable share of assessed value for qualifying nonprofit or LP-with-nonprofit-GP owners under Revenue and Taxation Code 214(g); worth roughly 1.0% of assessed value plus voter-approved debt rates each year.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Units restricted to lower income households (and up to 140% AMI continuing residents) under a recorded regulatory agreement; BOE Organizational Clearance Certificate required.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 (first year) or BOE-267-A with BOE-267-L supplements with the Assessor by February 15 each year.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. The Assessor page was opened but Nevada County publishes no welfare exemption page or local forms online; confirm filing practice and e-signature acceptance with the Assessor. A 2021 BOE survey noted first-time filers were granted the exemption without field inspection, so expect a routine process. Underwrite the exemption as an operating saving for all LIHTC and PSH projects.",
+      "source_url": "https://www.nevadacountyca.gov/1876/Assessor",
+      "record_id": "5ca4937935",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "acquisition/rehab",
+        "permanent supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "Town of Truckee",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Truckee Workforce Housing Ordinance for non-residential development (Development Code Chapter 18.216)",
+      "administering_agency": "Town of Truckee Community Development Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy (commercial linkage). Commercial, industrial, institutional, recreational, residential resort and other non-residential projects must build workforce housing for a share of the full-time equivalent employees they generate (Table 7-7; commercial projects of 3,500 square feet or less and industrial of 7,000 square feet or less, or under 7 FTEE, are exempt). Fractions and approved cases may pay the same in-lieu fee ($136,851 per required unit under Resolution 2024-65) or use alternative equivalent actions such as land dedication.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Workforce units restricted under Chapter 18.210 affordability controls; occupancy by employees in the Truckee region.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable. Draft 7th cycle Program H-2.E calls for reviewing the ordinance and an affordable housing credit bank by December 2029.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Creates partnering opportunities: commercial developers needing workforce units can buy inclusionary credits from, or dedicate land to, affordable projects. The Edmunds Lofts site came to the Town through a land dedication by High Altitude Fitness under this ordinance. No county equivalent exists.",
+      "source_url": "https://www.townoftruckee.gov/DocumentCenter/View/1196",
+      "record_id": "c9fb1bbef1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "mixed-use",
+        "new construction",
+        "land dedication"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "Town of Truckee",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Truckee Homegrown Housing Program, Monetary Incentives (formerly Deed Restriction for New Housing Development)",
+      "administering_agency": "Town of Truckee Housing Division; program operator Sierra Business Council (info@sierrabusiness.org, 530-582-4800)",
+      "funding_type": "grant",
+      "typical_award_size": "Per-unit payment for a 55-year deed restriction on newly built units, paid at certificate of occupancy after recording: studio $100,000, one bedroom $150,000, two bedroom $225,000 for units restricted to 180% AMI; studio $116,000, one bedroom $174,000, two bedroom $261,000 for units restricted to 120% AMI. Guidelines approved June 23, 2026. Town Council has committed $3,600,000 to deed restriction payments, after moving site-acquisition funds into the program in September 2025.",
+      "per_unit_cap": "$261,000 per two-bedroom unit at 120% AMI; studios through two bedrooms only.",
+      "affordability_requirement": "Occupants must work within the Tahoe Truckee Unified School District boundary; household income at or below 180% AMI (rent or price capped at 120% AMI affordability) or at or below 120% AMI (capped at 80% AMI affordability); 55-year non-renewing restriction; no short-term rental; one dedicated parking space per unit.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Open; apply after a complete Planning application. Milestones: building permit application within 9 months of entitlement, permit issued within 18 months, first inspection within 24 months, certificate of occupancy within 30 months, or the award is cancelled.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Designed for missing-middle workforce units, not tax credit deals: projects entitled under State Density Bonus Law are ineligible, and funds cannot be combined with other assistance that imposes an equivalent 55-year income and workforce restriction. Eligible only in VMT Exemption Areas. Payment at C of O means it works as permanent-loan paydown or equity replacement, not construction financing. A January 27, 2026 BAE valuation analysis informed the revised amounts. Town funds count as public funds under Labor Code 1720.",
+      "source_url": "https://www.townoftruckee.gov/DocumentCenter/View/2190",
+      "record_id": "8cdf4a65cc",
+      "cycle_notes": "first come, subject to available funds",
+      "eligible_project_detail": [
+        "new construction",
+        "adu",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  }
+]

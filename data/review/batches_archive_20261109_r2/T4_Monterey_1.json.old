@@ -1,0 +1,77 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance (Chapter 18.40), in-lieu fees and the 2026 fee-based restructuring proposal",
+      "administering_agency": "Monterey County Housing and Community Development Department; Housing Advisory Committee",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Current ordinance (first adopted 1980, revised 2003): 20% of units in residential projects affordable, analyzed by Keyser Marston as 6% very low, 6% low and 8% moderate income plus a 5% Workforce I component, with in-lieu fees for fractional units and small projects; in-lieu fees collected at building permit 2021-2025 are tabulated in the September 2026 workshop packet. The 2026 KMA In-Lieu Fee Analysis found maximum supportable fees of $73.90 to $305.60 per square foot of saleable area by product type. Staff recommended (Housing Advisory Committee workshops September 2 and 11, 2026) converting to an entirely fee-based program for projects under 250 units, charging 33 to 35 percent of the maximum fee on habitable square footage above the first 1,500 square feet, exempting all multifamily (duplex to fourplex and ADUs under 1,200 square feet), encouraging land donation for 20% affordable units on projects of 250 or more units, indexing the fee annually and allowing fee revenue to be spent countywide.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Very low (50% AMI), low (80% AMI), moderate (120% AMI) and Workforce I (to 150% AMI) for-sale and rental units with long-term resale and rent restrictions; inclusionary units are calculated on base plus density bonus units.",
+      "eligible_project_types": [
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Board action on the restructured ordinance and new fee schedule expected late 2026 or 2027 after Housing Advisory Committee recommendations; LeSar and KMA remain under contract (Amendment 10, April 2026) to complete the fee studies. Until adoption the 2003 ordinance and existing in-lieu fees apply.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. The County concluded the inclusionary mandate produces few units (about five per project) and wants a reliable fee stream for the Housing Trust Fund, land acquisition and leverage of state programs; a fee-based ordinance would make market-rate permits the County's main local revenue source for affordable housing. Source is the September 11, 2026 Housing Advisory Committee workshop item (Legistar file 26-799) with the staff report and KMA analysis attached.",
+      "source_url": "https://monterey.legistar.com/LegislationDetail.aspx?ID=66610&GUID=0F8A38C3-633D-4775-A610-99E87DBFA2A1",
+      "record_id": "8551ea4c42",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate subdivisions and multifamily in unincorporated Monterey County",
+        "nonprofit projects receiving in-lieu fee revenue or donated land"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Seaside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Requirements (Zoning Code Chapter 17.32, 20% inclusionary), in-lieu fund and Campus Town Affordable Housing Agreement",
+      "administering_agency": "City of Seaside Community Development Department, Planning Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Every residential development and condominium conversion must provide at least 20% of units as inclusionary units for moderate, low and very low income households (first third low, second third very low), calculated before any density bonus; equivalents allow one very low unit to count as two moderate units and one low unit as 1.5. Affordability 40 years for rental and for each sale of ownership units. Alternatives (17.32.060): off-site units, land dedication, or any combination of on-site, off-site, in-lieu fees and land dedication equal to the on-site cost. Exemptions: government-built housing, second units, replacement after disaster. The fifth cycle Housing Element reported about $2.6 million in the inclusionary in-lieu fund as of 2017, used for grants to nonprofits. Campus Town (KB Bakewell, Fort Ord, 1,485 units) carries an Affordable Housing Agreement for 225 affordable units (74 very low, 78 low, 73 moderate), equivalent to 350 units, with 161 affordable units in Phase 1 including off-site very low and low income units and land dedicated for a nonprofit rental project.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Very low (50% AMI), low (80%) and moderate (120%) households; 40-year covenants; tenants may be drawn from the HACM Section 8 waiting list.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at tentative map, use permit or building permit. Campus Town Phase 1 final map approved and ground broken in 2025; the City bought a 1.62-acre MST parcel in Campus Town in December 2025 and streamlined Campus Town review in February 2026. The 2023-2031 Housing Element (draft May 2023) and Seaside 2040 General Plan were still being finalized in the documents opened.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Seaside's 20% requirement with no ten-unit threshold is the broadest in the county, but the code sets no fee schedule; in-lieu payments are negotiated case by case. The in-lieu fund (about $2.6 million in 2017, about $9 million across two restricted housing funds in 2018 per candidate statements, unverified) plus former RDA successor agency land in the Long Range Property Management Plan are the City's local layers for a nonprofit partner on the Campus Town dedication site or Seaside East. Blocked: ci.seaside.ca.us AgendaCenter is JavaScript-only and the CivicClerk portal only lists meetings from October 2026; code text read on the zoneomics mirror, program history from the fifth cycle Housing Element PDF on hcd.ca.gov. Confirm the current fund balance and any 2024-2026 fee resolution with Planning.",
+      "source_url": "https://www.zoneomics.com/code/seaside-CA/chapter_3",
+      "record_id": "f99c8cf1ef",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental and for-sale projects (compliance)",
+        "mixed-income projects",
+        "land dedication sites"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

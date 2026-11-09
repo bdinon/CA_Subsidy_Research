@@ -1,0 +1,228 @@
+[
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Merced County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Rounds 1 to 7 and other CoC-administered funds, Merced City and County CoC CA-520",
+      "administering_agency": "Merced County Human Services Agency (Collaborative Applicant and Administrative Entity for the Merced City and County Continuum of Care; collabapp@countyofmerced.com)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 allocations: Merced County $955,092.45 and Merced County CoC $1,020,055.16; HHAP-7 preliminary: County $915,168.72, CoC $980,537.91. CoC-administered rounds: HHAP-1 $716,227.19, HHAP-2 $338,893 (rapid rehousing $171,115, D Street Shelter operating subsidy $100,000, HMIS and CES $16,944), HHAP-3 $909,988.45, HHAP-4 $1,136,537.22 ($400,000 unobligated at reporting); the CoC also managed HHIP $1,260,500, ESG $2,452,084, ESG-CV $3,170,800, HEAP $1,338,104.53, CESH $1,637,863 and HUD CoC grants $6,433,137, a total of $19,950,660.47 across 14 sources from FY 2016-17 to FY 2023-24. The state dashboard reports $4 million of HHAP rounds 1 to 5 went directly to Merced County.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; Coordinated Entry referrals; 2024 Regionally Coordinated Homelessness Action Plan with the City of Merced.",
+      "eligible_project_types": [
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No local capital NOFA; the CoC's 2024 regional plan lists CDBG, HOME, Homekey, PLHA, MHP and REAP as sources it will pursue for dedicated affordable units, led by local jurisdictions. HHAP-7 allocations are preliminary for FY 2026-27.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Merced County has no County housing finance program: the Community and Economic Development Department handles planning and the Housing Element, the Human Services Agency is Collaborative Applicant and Administrative Entity for the Merced City and County Continuum of Care (CA-520) and HHAP, Behavioral Health and Recovery Services holds BHSA, and the Housing Authority of the County of Merced (HACM) is the countywide PHA. The County is a non-entitlement jurisdiction for CDBG and HOME, has no housing trust fund, inclusionary ordinance, in-lieu fee or fee waiver, and Measure V (MCAG half-cent sales tax) is transportation only. The City of Merced is the entitlement jurisdiction with PLHA and Homekey awards (Pass 3). countyofmerced.com is Cloudflare-blocked to automated access (pages, DocumentCenter and AgendaCenter), so records were built from HCD tables and letters, mercedcoc.org reports, merced-pha.com, gocodebook (County Code Title 18) and press coverage; County documents are flagged for confirmation. HHAP in Merced funds rapid rehousing and the D Street Shelter rather than capital; Homekey units in the region (1213 V Street, 95 units; R Street, 21 veteran PSH units) are City of Merced projects. A PSH developer should seek a CoC letter of support and Coordinated Entry referrals. Source is the Merced CoC Grants and Funding Report (FY 2016-17 to FY 2023-24) on mercedcoc.org; HHAP-6 and HHAP-7 figures from HCD allocation tables.",
+      "source_url": "https://www.mercedcoc.org/s/Merced-CoC-Grants-and-Funding-Report-Final.pdf",
+      "record_id": "54546be503",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "rapid rehousing",
+        "shelter operating subsidies (D Street Shelter)",
+        "HMIS and coordinated entry",
+        "dedicated affordable housing units with rapid rehousing assistance (regional plan action 1a.3)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Merced County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Merced",
+      "confidence": "needs_confirmation",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Merced County formula allocation",
+      "administering_agency": "Merced County Community and Economic Development Department",
+      "funding_type": "grant",
+      "typical_award_size": "HCD formula allocations to the County: $371,543 (2024) and $407,167 (2025); the City of Merced holds its own allocation ($364,106 in 2024, $390,011 in 2025, estimated $2,275,663 for 2024-2028). The County's PLHA five-year plan and spending could not be read (County website blocked).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "PLHA eligible activities for households up to 80% AMI (120% for some ownership uses).",
+      "eligible_project_types": [
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No County NOFA found; confirm plan activities with Community and Economic Development (2222 M Street, Merced).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Merced County has no County housing finance program: the Community and Economic Development Department handles planning and the Housing Element, the Human Services Agency is Collaborative Applicant and Administrative Entity for the Merced City and County Continuum of Care (CA-520) and HHAP, Behavioral Health and Recovery Services holds BHSA, and the Housing Authority of the County of Merced (HACM) is the countywide PHA. The County is a non-entitlement jurisdiction for CDBG and HOME, has no housing trust fund, inclusionary ordinance, in-lieu fee or fee waiver, and Measure V (MCAG half-cent sales tax) is transportation only. The City of Merced is the entitlement jurisdiction with PLHA and Homekey awards (Pass 3). countyofmerced.com is Cloudflare-blocked to automated access (pages, DocumentCenter and AgendaCenter), so records were built from HCD tables and letters, mercedcoc.org reports, merced-pha.com, gocodebook (County Code Title 18) and press coverage; County documents are flagged for confirmation. Confirmation needed: at about $400,000 a year the County allocation could fund predevelopment or a small gap loan if the plan allows rental development, but the plan was not accessible. Source is HCD's 2024-2028 PLHA formula allocation NOFA tables.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "53f5b43f2e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "homeless services (likely current use)",
+        "affordable rental development or predevelopment (eligible)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked",
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Merced County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Merced",
+      "confidence": "needs_confirmation",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29 (Housing Interventions component)",
+      "administering_agency": "Merced County Behavioral Health and Recovery Services",
+      "funding_type": "other",
+      "typical_award_size": "Three-Year Integrated Plan approved by the Board June 2, 2026 and accepted by DHCS June 19, 2026; 30% of the County's BHSA allocation is reserved for housing interventions. Known housing activity: a December 16, 2025 award to CalLINKS to provide supportive housing under the BHSA housing component, and $12.6 million of Proposition 1 behavioral health infrastructure grants announced June 2025 (facilities). Housing dollar amounts, unit counts and any capital project could not be read because the County website blocks automated access.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder; at least half of housing funds for chronically homeless people.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Contact Behavioral Health and Recovery Services; the plan and budget are posted on the County BHSA page (DocumentCenter 53006).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Merced County has no County housing finance program: the Community and Economic Development Department handles planning and the Housing Element, the Human Services Agency is Collaborative Applicant and Administrative Entity for the Merced City and County Continuum of Care (CA-520) and HHAP, Behavioral Health and Recovery Services holds BHSA, and the Housing Authority of the County of Merced (HACM) is the countywide PHA. The County is a non-entitlement jurisdiction for CDBG and HOME, has no housing trust fund, inclusionary ordinance, in-lieu fee or fee waiver, and Measure V (MCAG half-cent sales tax) is transportation only. The City of Merced is the entitlement jurisdiction with PLHA and Homekey awards (Pass 3). countyofmerced.com is Cloudflare-blocked to automated access (pages, DocumentCenter and AgendaCenter), so records were built from HCD tables and letters, mercedcoc.org reports, merced-pha.com, gocodebook (County Code Title 18) and press coverage; County documents are flagged for confirmation. Confirmation needed: pull housing intervention figures from the Integrated Plan PDF when accessible; Merced is above the 200,000 population threshold so no housing exemption applies.",
+      "source_url": "https://www.countyofmerced.com/4456/Behavioral-Health-Services-Act",
+      "record_id": "f29613d4e7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "rental and operating subsidies for supportive housing",
+        "contracted supportive housing services",
+        "possible capital development"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Merced County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Merced",
+      "confidence": "needs_confirmation",
+      "program_name": "County exempt surplus land declarations (2490 Emma Street, Snelling; Castle Commerce Center, Atwater)",
+      "administering_agency": "Merced County Executive Office and Department of Public Works (Castle)",
+      "funding_type": "land",
+      "typical_award_size": "In 2026 the Board declared County property at 2490 Emma Street in Snelling exempt surplus land (public review August 27 to September 17, 2026, after closed-session negotiations on March 3, 2026) and processed a Castle Commerce Center parcel in Atwater (intake July 14, 2026); the County's Surplus Land Act notices are posted on its Declaration of Exempt Surplus Land pages. Whether any parcel is intended for housing was not stated in accessible excerpts.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Surplus Land Act: non-exempt dispositions give affordable housing developers priority and require 25% lower income units for 55 years; exempt declarations avoid that process.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Monitor HCD's surplus land notice list and the County's Declaration of Exempt Surplus Land pages; respond within the 30-day review windows.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Merced County has no County housing finance program: the Community and Economic Development Department handles planning and the Housing Element, the Human Services Agency is Collaborative Applicant and Administrative Entity for the Merced City and County Continuum of Care (CA-520) and HHAP, Behavioral Health and Recovery Services holds BHSA, and the Housing Authority of the County of Merced (HACM) is the countywide PHA. The County is a non-entitlement jurisdiction for CDBG and HOME, has no housing trust fund, inclusionary ordinance, in-lieu fee or fee waiver, and Measure V (MCAG half-cent sales tax) is transportation only. The City of Merced is the entitlement jurisdiction with PLHA and Homekey awards (Pass 3). countyofmerced.com is Cloudflare-blocked to automated access (pages, DocumentCenter and AgendaCenter), so records were built from HCD tables and letters, mercedcoc.org reports, merced-pha.com, gocodebook (County Code Title 18) and press coverage; County documents are flagged for confirmation. Confirmation needed: the County pages were not readable; recorded because the Castle Commerce Center (former Castle Air Force Base) is the County's largest land holding and a logical site for workforce housing near UC Merced and Atwater.",
+      "source_url": "https://www.countyofmerced.com/4455/Declaration-of-Exempt-Surplus-Land-for-P",
+      "record_id": "2ee52ac2a2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "County land dispositions (monitor for housing-suitable sites)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Merced County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Merced",
+      "confidence": "needs_confirmation",
+      "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, Merced County Assessor",
+      "administering_agency": "Merced County Assessor (2222 M Street, Merced)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Standard state welfare exemption for low-income housing owned by nonprofits or limited partnerships with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement; exemption prorated to qualifying units.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 and supplemental affidavits with the Assessor by February 15, 2027 for the 2027-28 roll.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Merced County has no County housing finance program: the Community and Economic Development Department handles planning and the Housing Element, the Human Services Agency is Collaborative Applicant and Administrative Entity for the Merced City and County Continuum of Care (CA-520) and HHAP, Behavioral Health and Recovery Services holds BHSA, and the Housing Authority of the County of Merced (HACM) is the countywide PHA. The County is a non-entitlement jurisdiction for CDBG and HOME, has no housing trust fund, inclusionary ordinance, in-lieu fee or fee waiver, and Measure V (MCAG half-cent sales tax) is transportation only. The City of Merced is the entitlement jurisdiction with PLHA and Homekey awards (Pass 3). countyofmerced.com is Cloudflare-blocked to automated access (pages, DocumentCenter and AgendaCenter), so records were built from HCD tables and letters, mercedcoc.org reports, merced-pha.com, gocodebook (County Code Title 18) and press coverage; County documents are flagged for confirmation. Confirmation needed: the Assessor's page on countyofmerced.com is blocked to automated access; the exemption itself is state law.",
+      "source_url": "https://www.countyofmerced.com/123/Assessor",
+      "record_id": "becc88675d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC rental housing with nonprofit managing general partner",
+        "nonprofit-owned affordable rental housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Atwater",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Merced",
+      "confidence": "needs_confirmation",
+      "program_name": "Atwater Housing Successor to the former Atwater Redevelopment Agency (Low and Moderate Income Housing Asset Fund)",
+      "administering_agency": "City of Atwater as Housing and Non-Housing Successor Agency",
+      "funding_type": "loan",
+      "typical_award_size": "Unknown. The City elected to be the housing successor, but the successor agency page lists only 2012-2015 ROPS and oversight board documents. No current SB 341 report or fund balance was found.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing Asset Fund rules (HSC 34176.1).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Recorded so the asset fund is not missed. The page lists no housing awards or reports, so do not assume any cash. Ask the City for its latest SB 341 report and any housing successor-owned parcels. atwater.org opened directly; a site search for 'housing successor' returned no reports.",
+      "source_url": "https://www.atwater.org/successor-agency/",
+      "record_id": "3d96bdd403",
+      "cycle_notes": "no published process",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

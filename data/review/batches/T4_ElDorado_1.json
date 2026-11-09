@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "State HOME and CDBG (non-entitlement county) and Affordable Housing County Participation Requests for HCD applications",
+      "administering_agency": "El Dorado County Planning and Building Department, Affordable Housing Unit; Loans@edcgov.us; Board approval of resolutions under Board Policy A-6",
+      "funding_type": "loan",
+      "typical_award_size": "El Dorado County is a non-entitlement jurisdiction, so HOME and CDBG come through state HCD competitions and the County has used them for homeownership, not rental development: HOME $500,000 First-Time Homebuyer award (Resolutions 058-2026 and 080-2026) and a 2025 CDBG application for up to $1,500,000 for the First-Time Homebuyer Program (Resolution 180-2025). Developers seeking state funds that require a County co-applicant or resolution file an Affordable Housing County Participation Request Form at least 10 weeks before the HCD deadline.",
+      "per_unit_cap": "State HOME per-unit subsidy limits apply if the County sponsors a rental project; none has been sponsored recently.",
+      "affordability_requirement": "HOME: at or below 80% AMI with HOME rents and affordability periods; CDBG: low and moderate income benefit. A developer-sponsored state HOME rental application through the County would carry HCD's 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Follows HCD's HOME and CDBG NOFA calendar (hcd.ca.gov/grants-and-funding/nofa-calendar). Submit the County Participation Request Form at least 10 weeks before the HCD deadline so the Board can adopt the resolution.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The County's HOME and CDBG dollars are committed to first-time homebuyer loans, so a rental project should not count on them. The practical value of the County here is as a resolution sponsor or co-applicant for state programs (HOME rental new construction, CDBG public infrastructure, Joe Serna farmworker, MHP) in a non-entitlement area where a local government signature is required. Build the 10-week lead time plus Board calendar into the HCD application schedule. State HOME in a project triggers federal and state prevailing wage and HOME cross-cutting requirements (environmental review, Section 3, Davis-Bacon on 12 or more HOME units).",
+      "source_url": "https://www.eldoradocounty.ca.gov/Services/HomebuyerRehab-Loans-Affordable-Housing-Development/Developers/Developer-Programs/Collaborative-Opportunities",
+      "record_id": "d234ed9df7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "El Dorado Opportunity Knocks Continuum of Care (CA-525) and HHAP, El Dorado County region",
+      "administering_agency": "El Dorado County HHSA as Administrative Entity for HHAP and as Collaborative Applicant (through the County PHA) for the EDOK CoC; edokcoc.org; Front Door access 530-600-2822",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 6: $670,181.51 accepted June 23, 2026 (County $324,069.60, CoC $346,111.91; HCD agreement 10349 through June 30, 2030). HHAP rounds 1-5 totaled about $5.4 million to the County and CoC, with $5.3 million obligated and $2.7 million spent per the state accountability dashboard. FY 2026 HUD CoC renewal competition: $160,797. State ESG 2024: $359,633 to the region. 2024 point-in-time count 284 people (135 unsheltered), 416 beds.",
+      "per_unit_cap": null,
+      "affordability_requirement": "HHAP: people experiencing or at risk of homelessness; HHAP-6 requires a regionally coordinated homelessness action plan, encampment policy and Housing Element compliance plan. HUD CoC: Permanent Supportive Housing and Rapid Rehousing for homeless households.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 is committed to bridging Navigation Center operations during its wind-down and the gap before the treatment-focused campus at 300 Forni Road opens; no competitive local HHAP NOFA. HUD CoC competition annually (FY 2026 round applied for in 2026). HHAP Round 7 timing depends on the state budget.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The region is small and the money is spoken for: HHAP has historically funded the 60-bed Navigation Center (operated by Volunteers of America) and the County is pivoting to a treatment-based interim housing campus at 300 Forni Road. A permanent supportive housing developer would use the CoC for Coordinated Entry referrals and possibly a HUD CoC PSH renewal or new project, rather than county HHAP capital. HHAP-6 dollars could fund rental assistance or operating subsidy for PSH units if HHSA agrees, but the staff report commits them to interim housing and transition services. Coordinate with HHSA Community Services, not Planning and Building, for anything homelessness-related.",
+      "source_url": "https://eldorado.legistar.com/LegislationDetail.aspx?ID=40595&GUID=6CB4D494-8396-4594-BEB7-033F9E02BA35&Options=&Search=&FullText=1",
+      "record_id": "7b440bf45d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "interim housing",
+        "supportive housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

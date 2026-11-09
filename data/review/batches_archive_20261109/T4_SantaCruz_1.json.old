@@ -1,0 +1,78 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County five-year plan",
+      "administering_agency": "Santa Cruz County Community Development and Infrastructure (plan and LMIHAF match) and Human Services Department, Housing for Health Division (homeless activities)",
+      "funding_type": "grant",
+      "typical_award_size": "2019-2023 allocations: $565,952, $895,101, $916,102, $480,214 and $332,575 (estimated five-year total $3,395,700); amended 2023 plan spends 75% on Activity 6 homeless assistance through Housing for Health (rapid rehousing, rental assistance, navigation center and shelter operating and capital costs, PSH development or preservation), 20% on Activity 4 as a match deposited to the County LMIHAF for lower-income rental development and predevelopment, and 5% administration. HCD formula allocations for 2024-2028: $457,140 (2024), $467,923 (2025), estimated $2,857,125 five-year. PLHA predevelopment loans were offered through the March 2026 County NOFA.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "PLHA eligible activities; development uses limited to lower-income rental housing with 55-year affordability.",
+      "eligible_project_types": [
+        "supportive housing",
+        "predevelopment",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Development dollars reach projects only through the County housing NOFA (next expected early 2027). The 2024-2028 PLHA plan activities were not located online; confirm with CDI Housing whether the LMIHAF match share continues.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. Three quarters of County PLHA goes to homeless response, so the development share is roughly $90,000 a year plus whatever LMIHAF holds; it is a predevelopment source, not gap financing. Source is the CDI State and Federal Grants page with the amended 2023 five-year plan; 2024-2028 figures from HCD's PLHA NOFA tables.",
+      "source_url": "https://cdi.santacruzcountyca.gov/Planning/Housing/StateandFederalGrants.aspx",
+      "record_id": "7f23adacc1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "homeless services and shelter operations (Activity 6)",
+        "predevelopment loans for lower-income rental housing (via LMIHAF match)",
+        "permanent supportive housing development (eligible under Activity 6)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Scotts Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing (Below Market Rate) Ordinance (Municipal Code Section 14.01.030, Affordable Housing Committee) and affordable housing in-lieu fee fund",
+      "administering_agency": "City of Scotts Valley Planning Department (planningdepartment@scottsvalley.gov, 1 Civic Center Drive) with the Council's Affordable Housing Committee setting project terms",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Within the former redevelopment project area boundary (unchanged since 1990), residential developments of seven or more units (for sale or rental) must set aside 15% of units for very low, low and moderate income households on site, or off site in limited cases; developments of six or fewer units pay an in-lieu fee; projects of seven or more units with average lot sizes over one acre may pay the fee with Council approval. The in-lieu fee equals the median sales price of a home in the project minus the City-determined affordable price. The two-member Affordable Housing Committee recommends unit counts, sizes and affordability levels for each project, subject to Council confirmation. The ordinance has produced 84 affordable rental and 50 affordable ownership units; in-lieu fees from small projects have subsidized smaller rental projects (the City loaned funds to Emerald Hill Apartments, 46 units with MidPen Housing, including impact fee offsets). Exempt: subsidized projects deed restricted through state or federal programs, single homes on existing lots, additions, ADUs and hardship cases. Housing Element Program H-1.8: comprehensive study by July 2026 and a citywide amendment with income-tier standards by January 2027.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Very low, low and moderate income households as set per project by the Affordable Housing Committee; inclusionary units carry restricted equity accrual, resale price and rental price limits; subsidized affordable projects meeting the standard are exempt.",
+      "eligible_project_types": [
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; the Affordable Housing Committee meets as special meetings noticed 24 hours ahead. Watch for the July 2026 inclusionary study and the January 2027 citywide ordinance amendment (Program H-1.8), which may change the boundary, percentage and in-lieu formula.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The in-lieu fee fund is the City's only local housing money; no balance, guidelines or NOFA are published, so treat it as a small negotiated gap or fee-offset source, as with Emerald Hill. The 15% standard matches Capitola and the County's Measure J but applies to rentals as well; it is lighter than Watsonville's 20%. 100% affordable projects are exempt and instead use Chapter 17.41 ministerial approval and the Chapter 17.62 state density bonus (records below); the 4444 Scotts Valley Drive project is the first 100% affordable project under the 6th cycle element. Regional sources: County state HOME tenant assistance (covers Scotts Valley), Housing Authority PBVs, Housing Trust Silicon Valley loans (Beverly Gardens, 25 units, $3,277,500 acquisition loan), HHAP. The 2023-2031 Housing Element PDF (certified April 2, 2024), the City Housing page (scottsvalley.gov/220) and the Affordable Housing Committee page were opened; the municode text of Section 14.01.030 was not (blocked host).",
+      "source_url": "https://www.scottsvalley.gov/DocumentCenter/View/4812/2023-2031-Housing-Element---Adopted-and-Certified",
+      "record_id": "54d536fe5e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate for-sale and rental projects of seven or more units within the RDA boundary (compliance)",
+        "small projects of six or fewer units (fee payers)",
+        "100% affordable projects (exempt)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Madera County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Rounds 5 to 7, Madera County allocation within the Fresno Madera CoC CA-514",
+      "administering_agency": "Madera County (Behavioral Health Services and Social Services, as the County applicant) with the Fresno Madera Continuum of Care",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 County of Madera allocation $610,483.23 (awards announced March 2, 2026 as part of the nearly $20.7 million Fresno-Madera regional award with Fresno County $4,301,909.86, City of Fresno $10,491,196.56 and CoC $5,246,520.28); HHAP-7 preliminary allocation $787,530.13. Rounds 1 to 5 brought $6.8 million to the Madera area of which $2.4 million went directly to Madera County ($2.3 million obligated, $1.4 million spent per the state accountability dashboard).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; shared Regionally Coordinated Homelessness Action Plan with Fresno County, the City of Fresno and the CoC.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No local NOFA; the County programs its share directly and the CoC programs the regional share. HHAP-7 allocations are preliminary for FY 2026-27.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. At about $600,000 to $800,000 a year HHAP covers Madera's shelter and outreach system and is not a capital source; the regional CoC allocation is administered by Fresno County's Office of Housing and Homelessness. Source is HCD's HHAP-6 allocation table; round 1 to 5 totals from the state accountability dashboard.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-6-allocations.pdf",
+      "record_id": "d961172683",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "shelter and interim housing operations",
+        "rental assistance and rapid rehousing",
+        "outreach and prevention",
+        "permanent housing operating support"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Madera",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Density Bonus (Madera Municipal Code Chapter 10-3-5.1) with Housing Element incentives: fee reductions (Program B-7), impact fee waivers (MMC 10-8.17) and fee waivers or deferrals (Program A-4)",
+      "administering_agency": "City of Madera Community Development Department, Planning (Planning Manager David Brletic, (559) 661-5433)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. The density bonus follows state law; the chapter was amended in February 2025 to track recent state changes, including parking for 100% affordable projects near transit. Program B-7 fee reductions: downtown projects and vacant or aging buildings get up to 100% off Engineering fees and 75% off Planning and Building fees. Non-profit buildings get up to 50%, with building fee reductions capped at $4,000. MMC 10-8.17 lets the Community Development Director approve impact fee adjustments, waivers or exemptions. Program A-4 offers fee waivers and deferrals for affordable projects as technical assistance.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus thresholds (for example 10% lower income or 5% very low income units); 55-year affordability for bonus units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Available at entitlement, no deadline. The Housing Element commits to local density bonus standards beyond state law by Q1 2028 and to fee reductions for at least 20 qualifying projects by Q3 2026.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Madera has no inclusionary ordinance or in-lieu fund. These fee tools are the only local cost reductions beyond HOME and PLHA. Program B-7 targets downtown revitalization, so it fits best for an affordable rental project downtown. Elsewhere, use the Director's waiver authority in MMC 10-8.17 and ask for a deferral under A-4. A fee waiver is a public subsidy and, depending on its size, can trigger state prevailing wage. The 6th Cycle Housing Element was adopted February 4, 2026. Madera County's density bonus (county record, Chapter 18.114) applies only in unincorporated areas.",
+      "source_url": "https://media-001-us.cdn.govstack.com/madera-003-us/media/fqwd5cjj/clean-madera-6th-cycle-housing-element-2-4-2026.pdf",
+      "record_id": "af9dcb340f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

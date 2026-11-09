@@ -1,0 +1,239 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Housing Impact Fee and Inclusionary Requirements (County Code Chapter 18.107)",
+      "administering_agency": "Napa County Housing and Community Services; Planning, Building and Environmental Services",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Not a subsidy; it capitalizes the Affordable Housing Fund. Fees adopted Oct 21, 2025 (3-2 vote), effective Jan 16, 2026, phased 50% in 2026, 75% in 2027, 100% in 2028: residential per sq ft $0 up to 2,500 sq ft, $43 for 2,501-3,500 sq ft (was $10.75), $86 above 3,500 sq ft (was $12.25); ADUs under 751 sq ft exempt. Nonresidential per sq ft: hotel $100 (was $9), retail and restaurant $58.40 (was $7.50), office $14.68 (was $5.25), industrial $7.70 (was $4.50), warehouse $7.50 (was $3.60).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Ownership projects: 20% of single-family detached units or 17% of attached units for moderate income (120% AMI) households, 40-year restrictions. Rental projects pay housing fees or elect the alternative of 12% of units at low income rents under a rent regulatory agreement. Exempt: farmworker units of 1,200 sq ft or less, 100% affordable projects, certain multifamily and SRO projects, projects of four or fewer units may pay a per-unit fee. Equivalency proposals (off-site units, land dedication) allowed with Planning Commission approval.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fees apply to applications filed after Jan 15, 2026 at 50% of the new schedule; 75% in 2027; full schedule in 2028. The Board also directed staff to create a fee deferral program for owners who rent units as affordable housing; terms not yet published.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Relevant to developers two ways: 100% affordable multifamily is exempt from the fee, and the fee stream funds the County Affordable Housing Fund. A fee exemption or waiver can count as public funds under Labor Code 1720(b)(4), so confirm prevailing wage exposure with counsel. Applies only in unincorporated Napa County; each city has its own inclusionary and linkage rules (Pass 3). Code text was read from the Zoneomics mirror (Ordinances 1334 of 2010, 1386 of 2013, 1491 of June 4, 2024 and 1495 of Sept 24, 2024); fee amounts come from Sonoma Index-Tribune and CBS Bay Area coverage of the Oct 21, 2025 vote. napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; the official FAQ is https://www.napacounty.gov/3951/Affordable-Housing-Impact-Fee-Housing-Co.",
+      "source_url": "https://www.zoneomics.com/code/napa-county-unincorporated-CA/chapter_36",
+      "record_id": "a222ce7fbf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Official Legistar record (matter 25-1814, Resolution R-2025-114) confirms the Oct 21, 2025 hearing, 3-2 vote (Ramos, Manfree, Gallagher yes; Alessio, Cottrell no) and Jan 16, 2026 effective date, but the motion was approved as amended and the amended fee table is not posted. The pre-hearing draft resolution set residential ownership fees at $0/sq ft for 0-2,000 sq ft, $43 for 2,001-3,000 and $86 above 3,000; residential rental $0/sq ft; office $14.50, hotel $100, retail/restaurant $58.40, industrial and warehouse $7.75, with annual CCI indexing. The record's tiers (2,500/3,500 sq ft), phase-in and office/industrial/warehouse rates come from news coverage and could not be matched to an official document. napacounty.gov and municode are Cloudflare-blocked and the code text is only on the Zoneomics mirror. The draft rental fee of $0/sq ft conflicts with the record's statement that rental projects pay housing fees.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "Napa County Density Bonus and Incentives (County Code 18.107.170-18.107.190)",
+      "administering_agency": "Napa County Planning, Building and Environmental Services",
+      "funding_type": "density bonus",
+      "typical_award_size": "Density bonus, incentives and concessions, parking reductions and development standard waivers per Government Code 65915; the chapter defers to state law where they conflict.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus thresholds; County requires 55-year affordability for rental bonus units and 45 years for for-sale units. Requests must be filed with the first discretionary permit with detailed submittals; denial of incentives or waivers requires specified written findings.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": null,
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Unincorporated Napa County is mostly Agricultural Preserve and Agricultural Watershed zoning, so multifamily sites are scarce; the 2023-2031 Housing Element (adopted Dec 19, 2023, HCD compliance letter Feb 22, 2024) relies on a 106-unit RHNA and RHNA transfers to the City of Napa. Inclusionary units count toward the state bonus (Latinos Unidos del Valle de Napa y Solano v. County of Napa, 2013). Ordinance 1495 (Sept 24, 2024) updated the incentives and density bonus sections. Code text read from the Zoneomics mirror; napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; confirm against the official code at library.municode.com or the County.",
+      "source_url": "https://www.zoneomics.com/code/napa-county-unincorporated-CA/chapter_36",
+      "record_id": "81a55918dc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Zoneomics mirror of Chapter 18.107 was re-read and matches the record (18.107.180(F) 55-year rental, (G) 45-year for-sale; 18.107.190 defers to state law), but it is a third-party mirror. library.municode.com and napacounty.gov return Cloudflare challenges, and the Ordinance 1495 attachments on napa.legistar.com returned 404, so the official code text could not be opened.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Unit Permit Fee Waiver and Expedited Processing (County Code 18.107.120)",
+      "administering_agency": "Napa County Planning, Building and Environmental Services",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Building permit application fee waivers for compliant affordable units, flexibility in unit size and finishes, attached units allowed in single-family projects, and expedited processing. Housing impact fees are also refundable if a project does not proceed and a refund is requested within 90 days.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units must satisfy Chapter 18.107 affordability (40-year minimum; 55 years for density bonus rentals).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "The Oct 21, 2025 fee action also directed staff to design a fee deferral program for owners renting units as affordable housing; watch for the ordinance in 2026.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Modest value for multifamily since the chapter is written around inclusionary units in small unincorporated projects. Waived fees count as public funds under Labor Code 1720(b)(4) and can trigger state prevailing wage, so confirm with counsel. Code text read from the Zoneomics mirror; napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; confirm with the County.",
+      "source_url": "https://www.zoneomics.com/code/napa-county-unincorporated-CA/chapter_36",
+      "record_id": "1dc55ae94f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Zoneomics mirror of 18.107.120 matches the record (building permit application fees waived for affordable units, flexibility in size and finishes, attached units allowed, expedited processing), but it is a third-party mirror; municode and napacounty.gov are Cloudflare-blocked. Prevailing wage left unclear: no County guideline addresses it, and whether a permit fee waiver for inclusionary units triggers Labor Code 1720(b)(4) depends on the 1720(c) exemptions and de minimis rules, which no source applies to this program.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "HOME and CDBG, Napa County (state non-entitlement status)",
+      "administering_agency": "California HCD state HOME and CDBG programs; Napa County Housing and Community Services as applicant",
+      "funding_type": "grant",
+      "typical_award_size": "None directly. Napa County is not a HUD CDBG entitlement urban county or a HOME participating jurisdiction. The City of Napa is the only CDBG entitlement in the county (FY 2024-25 entitlement $583,519) and draws HOME and ESG through State HCD grants. No County of Napa state HOME or CDBG award for 2024 or 2025 surfaced in HCD award lists.",
+      "per_unit_cap": "HOME per-unit subsidy limits (24 CFR 92.250) apply to any state HOME award.",
+      "affordability_requirement": "State HOME: 20% of HOME units at 50% AMI, rest at 60% AMI, 55-year HCD covenant. State CDBG: 51% of units for households at or below 80% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Follow HCD state HOME and CDBG NOFAs (state records). A developer in unincorporated Napa or the four small cities needs the County or city to apply as the state HOME or CDBG grantee.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "There is no county-level HOME or CDBG pipeline to layer in Napa; this is a negative finding. The City of Napa CDBG and HOME programs are Pass 3. Napa County received $207,965 of State ESG for CA-517 in the 2024 NOFA, usable for shelter and rapid rehousing, not capital. HOME and CDBG carry federal Davis-Bacon (CDBG at 8+ units, HOME at 12+ units) and state prevailing wage. Status inferred from the City of Napa 2025-2030 Consolidated Plan, the City FY 2024-25 CAPER and HCD award lists; confirm with the County.",
+      "source_url": "https://www.cityofnapa.org/DocumentCenter/View/14570/DRAFT-City-of-Napa-2025-2030-Consolidated-Plan",
+      "record_id": "88123f77f8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "The City of Napa 2025-2030 Consolidated Plan confirms the City is the CDBG entitlement (about $591,000 a year average over FY 2025-29) and receives no direct HOME, ESG or HOPWA, but it says nothing about County entitlement status and lists HOME as administered in partnership with Napa County, which cuts against the record's statement that no county-level HOME pipeline exists. The $583,519 FY 2024-25 figure and the absence of County state HOME/CDBG awards were not found in the documents opened; confirm with HUD CPD allocation tables and HCD award lists.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Napa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "Napa fee deferral and reduced building permit fees for affordable and workforce housing (Housing Element Programs H2-2.8 and H2-1.1)",
+      "administering_agency": "City of Napa Community Development Department (Building Division) and Housing Division",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Resolution R2021-119 (adopted Dec 7, 2021) sets building permit fees (plan review and inspection) at 50% of the R2021-105 schedule for each Affordable and Workforce Housing Unit: units sold or rented at affordable cost to households at or below 120% AMI under an NMC 15.94.080 affordable housing agreement, and ADUs of 500 sq ft or less (fee numbers 2.1.6-2.1.10 multifamily, 2.1.26-2.1.30 single family, 2.1.36 ADU). Separately, the City has a documented practice of deferring impact fees to occupancy for qualifying affordable projects (Prohousing matrix item 3C). Housing Element Program H2-2.8 (fees deferred, reduced or waived plus fast tracking for 100% affordable projects) was reported as not initiated in the 2023 APR.",
+      "per_unit_cap": "Not applicable; percentage reduction of permit fees, no dollar cap published.",
+      "affordability_requirement": "Affordable and workforce housing at or below 120% AMI per the reported 2021 action; impact fee deferral applies to affordable units as defined in NMC 15.94 (80% AMI or below).",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applied at permit issuance on request. Confirm the current master fee schedule discount and the status of the H2-2.8 fast track program with the Building Division (NapaON permit portal) before underwriting; Housing Element fee realignment is due by 2028.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Fee relief is modest relative to the impact fee and TOT loans but is routinely combined with them. Napa Valley Unified School District and Napa Sanitation District fees are outside the City's control. Waived or reduced fees can count as public funds under Labor Code 1720(b)(4), so confirm with counsel. The Prohousing matrix (source_url) and the Housing Element were opened; the 50% figure comes from news coverage and is marked needs_confirmation.",
+      "source_url": "https://www.cityofnapa.org/DocumentCenter/View/12551/Final-Prohousing-Designation-Matrix-PDF",
+      "record_id": "3ae88136e6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "100% affordable projects",
+        "adu",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "The 50% permit fee reduction is now confirmed from the City's own Resolution R2021-119 on Legistar (matter 400-2021, adopted Dec 7, 2021); whether the current master fee schedule carries it forward past the R2021-105 schedule years (2022-2024) was not confirmed. Prevailing wage left unclear: no City rule addresses it, and Labor Code 1720(b)(4) fee reductions are subject to 1720(c) exemptions and de minimis limits that no source applies here.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of American Canyon",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "American Canyon Affordable Housing Nexus Fee (ACMC 19.28.090) and Affordable Housing In-Lieu Fee Fund (Fund 340)",
+      "administering_agency": "City of American Canyon Community Development Department and Finance Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. 2026 fee per gross square foot (Resolution 2025-94, adopted December 2, 2025, effective January 31, 2026, CPI adjusted each year, capped at 2% under Resolution 2016-15): single family and townhouse $3.64, stacked flats and apartments $4.22, ADU $0.00, office, hotel, retail and other nonresidential $0.93, warehouse and industrial $0.60. Fund 340 unaudited balance at June 30, 2023 was $400,075 after FY 2022-23 collections of $217,698 and a $70,492 transfer for the 189 Theresa demolition; the FY 2024-25 AB 1600 report was accepted December 16, 2025 but could not be opened this pass.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "ADUs and affordable housing (deed restricted to lower income households) are exempt. Fee revenue is restricted to housing affordable to very low and low income households.",
+      "eligible_project_types": [
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Paid at building permit issuance. Next CPI adjustment resolution expected on a December 2026 Council consent agenda for January 2027 effectiveness.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The fund is small and the City spends it on services (landlord tenant assistance, Section 8 support, farmworker housing contribution, maintenance of City owned housing, rent stabilization administration) rather than development loans, so there is no American Canyon trust fund NOFA to layer; a developer asking for a City contribution should request a Council action on a case by case basis. Exemption of affordable projects means 100% affordable deals pay no City housing fee. Fee resolution read on the City's Legistar download host (source_url); code sections and the AB 1600 FY 2022-23 report (americancanyon.gov PDF, retrieved via WebFetch because the site blocks scripts) were also opened. Fee revenue sits on top of the Pass 2 County fee structure only for unincorporated parcels; inside city limits only the City fee applies.",
+      "source_url": "https://americancanyon.granicus.com/services/legistar/download/pdf/3766172/RESOLUTION_2025-94_-_FEE_UPDATE_2026.pdf",
+      "record_id": "eb6b34d627",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate residential (compliance)",
+        "nonresidential development (compliance)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

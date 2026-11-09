@@ -1,0 +1,39 @@
+[
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Paso Robles",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Inclusionary housing ordinance and local affordable housing fund (none adopted; Housing Element finding)",
+      "administering_agency": "City of El Paso de Robles Community Development Department, Housing Programs Division",
+      "funding_type": "other",
+      "typical_award_size": "None. The 2020-2028 Housing Element states the City of Paso Robles does not have an inclusionary ordinance, and the City holds no inclusionary in-lieu fund, local housing trust fund or RDA successor housing fund for development. The Housing Programs Division's development support is limited to CDBG (about $165,000 per year through the Urban County), applying for County-administered HOME funds, fee deferrals and liaison with the Paso Robles Housing Authority. A November 2025 townhouse proposal offered a voluntary in-lieu payment tied to the County's Title 22 point system for use in a future tax-credit project, which indicates ad hoc negotiated contributions rather than a program.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable; no program exists as of November 8, 2026. Watch the 7th cycle Housing Element update for any inclusionary or local housing fund program.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Negative finding recorded so the gap is visible: Paso Robles is the largest North County city and offers no local gap funding beyond fee deferrals. Developers must rely on County Title 29 and the new Regional Housing Fund (county records), HASLO and Paso Robles Housing Authority vouchers, SLO County Housing Trust Fund and state programs. The 2020 Housing Element workshops listed a possible local housing fund (General Fund, TOT, in-lieu fees) as an option but none was adopted. prcity.com pages and the HCD-hosted Housing Element were opened; the 2025 Annual Progress Report could not be located on prcity.com.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-adopted120920.pdf",
+      "record_id": "9ee24b94ff",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Kept funding_type other: this is a negative finding with no deployable fund; the Housing Element states the City has no inclusionary ordinance and lists only General Fund fee deferral loans, Urban County CDBG and HOME, and the private SLO County Housing Trust Fund as resources.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

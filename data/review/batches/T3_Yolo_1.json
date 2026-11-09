@@ -1,0 +1,44 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Development fee incentives for affordable units: 50% application and processing fee waiver (Sec. 8-8.118) and Housing Density Bonus (Chapter 8-12), unincorporated Yolo County",
+      "administering_agency": "Yolo County Community Services Department, Planning Division; fee waivers subject to Board of Supervisors approval",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Section 8-8.118(a) allows a fifty percent waiver of development-related application and processing fees for affordable units, subject to Board approval, plus modified standards for road widths, parking, lot coverage and lot size, priority processing and a density bonus. Chapter 8-12 (Ordinance 1445, August 14, 2014) codifies state density bonus law as of 2014: 20% base bonus for 10% low or 5% very low income units, rising to a 35% maximum, one to three concessions, parking caps of 1 space (studio and 1 bedroom), 2 spaces (2 to 3 bedrooms) and 2.5 spaces (4 or more bedrooms). No impact fee waiver program exists; County development impact fees are not waived for affordable housing.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Fee waiver applies to the affordable units in an inclusionary or 100% affordable project. Density bonus tiers per Government Code 65915 (the County code's 35% cap is superseded by current state law allowing 50% and unlimited density for 100% affordable projects).",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request with the planning application; the fee waiver needs a Board action. Chapter 8-12 has not been updated since 2014 and state law controls where more generous.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The waiver covers planning application and processing fees only, not the County's development impact fees, school fees or the cities' fees, so the dollar value is modest (tens of thousands on a typical project). Waived fees are public funds under Labor Code 1720(b)(4), which is why the prevailing wage flag is unclear; most projects using the waiver also carry state funds that trigger it anyway. Use state density bonus law directly rather than the 2014 County chapter, and expect staff to process it under Government Code 65915 as amended.",
+      "source_url": "https://gocodebook.com/library/us/ca/yolo-county/title-8-land-development-and-zoning/chapter-12-housing-density-bonuses",
+      "record_id": "f2eb3dc963",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "homeownership",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "prevailing_wage_basis": "No program rule found. Yolo County Code Chapter 8-12 (density bonus, read on gocodebook.com) contains no prevailing wage provision. Waived fees are public funds under Labor Code 1720(b)(4), but under 1720(c)(3) a subsidy that is both under $600,000 and under 2 percent of total project cost is de minimis and does not by itself make a private project a public work, and 1720(c)(1) exempts private residential projects on private property absent an agreement with a state agency, successor agency or housing authority. A 50 percent planning fee waiver will usually fall under the de minimis test, but the outcome depends on project facts and other funding sources.",
+      "audit_note": "Tier 3: prevailing wage left unclear. Only basis is the general Labor Code 1720(b)(4) public funds definition with outcome set by 1720(c)(3) de minimis and 1720(c)(1) exemptions; no DIR determination or County rule on point found. Section 8-8.118 text could not be located on gocodebook (404 at the expected chapter URL).",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

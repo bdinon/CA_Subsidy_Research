@@ -1,0 +1,41 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Burlingame",
+      "date_researched": "2026-11-07",
+      "research_pass": "3_city",
+      "county_tag": "San Mateo",
+      "confidence": "needs_confirmation",
+      "program_name": "Residential Impact Fee and Commercial Linkage Fee ordinances with on-site affordable alternative (BMC 25.44 and 25.45)",
+      "administering_agency": "City of Burlingame Community Development Department, Planning Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Fee-based program adopted after a legal challenge to the former inclusionary ordinance (Ordinance 2000 of 2021, amended by Ordinance 2046 on March 2, 2026). Residential impact fee on residential floor area for rental projects over 10 units and for-sale projects over 6 units, with rates in the Master Fee Schedule (not opened this pass); on-site alternative deems impacts mitigated with 10% low income plus 5% very low income rental units in perpetuity or 15% low income for-sale units for 55 years. Commercial linkage fee on hotel, retail, restaurant, service and office projects adding 5,000 square feet or more, with rates in the Master Fee Schedule; the first four years produced more than $3.8 million. Both feed the Affordable Housing Fund.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Affordable units built concurrently, same size as comparable market units, finishes at least 60% of market value; density bonus projects pay the fee on market-rate units only, not on bonus affordable units; Council may waive fees for public or nonprofit public benefit uses.",
+      "eligible_project_types": [
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fees due before the first building permit at the schedule then in effect; Council signaled further 2026 updates to add incentives for certain development types.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. Because Burlingame has no inclusionary mandate above the fee, 100% affordable projects rely on the Affordable Housing Fund NOFA (see separate record), County AHF and HACSM PBVs; the fee program is why the fund reached $12 million to $14 million by 2025. Source is the published code chapter on gocodebook.com (Burlingame's code host); residential chapter at .../chapter-25.45-residential-impact-fees. Current per-square-foot rates must be confirmed in the Master Fee Schedule with Planning at (650) 558-7250.",
+      "source_url": "https://gocodebook.com/library/us/ca/burlingame-zoning/title-25/chapter-25.44-commercial-linkage-fees",
+      "record_id": "b6113a572d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate multifamily (fee payer or on-site alternative)",
+        "commercial and hotel development (fee payer)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "Tier 4: only the gocodebook mirror (2026-10 edition) of BMC 25.44 and 25.45 could be read; it matches on the 5,000 square foot commercial threshold, exemptions for rentals of 10 units or fewer and condos of six or fewer, the on-site alternative (10% low plus 5% very low rental in perpetuity, 15% low for-sale for 55 years), fees in the Master Fee Schedule, density bonus treatment, nonprofit waiver and payment before the first building permit. Mirror-only source does not by itself support verified; Ordinance 2046 and fee rates not re-read on burlingame.org. prevailing_wage_trigger false is uncited. Confidence held at needs_confirmation: mirror-only source.",
+      "last_audited": "2026-11-09"
+    }
+  }
+]

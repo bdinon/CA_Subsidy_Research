@@ -1,0 +1,89 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Stockton",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Stockton Affordable Housing NOFA (annual Housing NOFA; HOME, HOME-ARP, PLHA, LMIHF, NSP, CDBG, HHAP and PIP loan pool)",
+      "administering_agency": "City of Stockton Economic Development Department, Housing Division (underwriting consultant TDA Consulting Inc.)",
+      "funding_type": "loan",
+      "typical_award_size": "2025 Housing NOFA released October 30, 2025, closed December 18, 2025: 8 proposals requesting $28.2 million for 522 units; $11,979,838 available after de-obligating $1,614,000 of HOME and LMIHF from Sierra Vista III. Awards: Fairview Terrace (Mutual Housing California, 76 senior units) $2,800,000 gap loan approved March 31, 2026 (Resolution 2026-03-31-1601) on top of $7,037,865 HOME awarded November 19, 2024; Don Shalvey Apartments (Visionary Home Builders, 108 family units, TDC $84.0 million) $5,000,000 and Danny Drive (DCDC, 66 senior units, TDC $39.7 million) $4,179,838 recommended April 2026 after Council deferred them on March 31. 2024 NOFA (January 29, 2024) offered about $16.1 million and funded Fairview Terrace $7,037,865 HOME, Kentfield Apartments rehab $1,126,893 PLHA and LMIHF, Casa de Mariposa $747,055, plus two HHAP projects. Typical award $0.7 million to $7 million per project.",
+      "per_unit_cap": "No published cap; 2025 applications ranged from about $27,000 to about $294,000 of City funds per unit. HOME subsidy limits apply when HOME is the source.",
+      "affordability_requirement": "55-year regulatory agreement and loan term at 3% simple interest, repaid from residual receipts proportionate to the City share of permanent financing; projects served 30% to 80% AMI (families) and 30% to 60% AMI (seniors). HOME-funded units carry the HOME affordability period inside the 55-year term. Article XXXIV authority: voters allow Council to approve up to 500 assisted units per year.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "senior housing",
+        "farmworker housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Next Housing NOFA expected about October 2026 under the Council-approved process (Motion 2025-11-04-1601: release, two-week question window, due date at least 45 days after release, pass/fail review, three-rater scoring, matrix to Council two weeks before award). No 2026 NOFA posted on the housing page as of 2026-11-08; confirm with hhep@stocktonca.gov, (209) 937-8538.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Stockton is the only city in San Joaquin County running a competitive gap-loan NOFA, and it is the main local soft source after the SJCOG San Joaquin Regional Housing Fund (county record). Pool is HUD and state pass-through plus housing successor LMIHF, so awards must fit each source's rules and deadlines; the City requires the full stack to be committed before executing loan documents and de-obligates allocations older than three years that cannot start within three years (Sierra Vista III lost $1.6 million in 2026). Scoring: developer capacity 30, proforma 30, populations served 15, design 15, leverage 10; an AI score was averaged with three human raters in 2025. Stacks with HACSJ project-based vouchers, County HOME (Urban County does not cover Stockton), BHSA and managed care plan grants (county records), the City PFF exemption and the 100% density bonus (records below). 2026 awards included HOME-ARP and PIP as eligible sources. Source documents read through the Stockton Legistar API and Granicus attachments; stocktonca.gov Economic Development pages have moved to /business/economic_development/housing_index.php.",
+      "source_url": "https://legistar1.granicus.com/stockton/attachments/b99be6e6-5a2b-44a6-b6d2-10c2eca86d3d.pdf",
+      "record_id": "3ce8fc2898",
+      "cycle_notes": "fall release",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "senior housing",
+        "farmworker housing"
+      ],
+      "next_deadline_date": "2025-11-04",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Manteca",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Manteca 6th Cycle Housing Element implementation and Urban County CDBG/HOME (no city-run housing NOFA)",
+      "administering_agency": "City of Manteca Development Services Department; San Joaquin County Human Services Agency Neighborhood Preservation Division for CDBG and HOME",
+      "funding_type": "grant",
+      "typical_award_size": "Manteca runs its own annual CDBG and HOME application as a pass-through subrecipient of the San Joaquin Urban County. FY 2026-27 NOFA estimated allocation: CDBG $420,013 and HOME $111,278 (estimates based on prior year). HOME-eligible uses include acquisition, new construction, rehabilitation, homebuyer assistance and TBRA; Manteca HOME funds are administered by the County Neighborhood Preservation Division. The City publishes no trust fund or fee waiver program; its housing work in 2025-2026 is the Zoning Code Update implementing the 2043 General Plan and the 6th Cycle Housing Element.",
+      "per_unit_cap": "HOME subsidy limits apply to County HOME awards.",
+      "affordability_requirement": "HUD CDBG national objective and HOME rent and income limits for County-funded projects; Housing Element programs may offer density bonus and streamlined review only.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2027-28 City notice not yet posted as of November 8, 2026; the FY 2026-27 application was due January 22, 2026, so expect the next deadline about January 2027. Contact (209) 456-8556.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Documented so the gap is explicit: Manteca is the county's fastest growing city but has no local affordable housing capital. Developers should apply to the County HOME NOFA, SJRHF gap loans, HACSJ PBVs and BHSA (county records) and use the Chapter 17.72 density bonus. The Title 17 page (opened) confirms the Zoning Code Update implements the 6th Cycle Housing Element; the Housing Element document itself is hosted on the blocked govaccess server.",
+      "source_url": "https://www.manteca.gov/216/CDBG-HOME-Funding",
+      "record_id": "534004e2c0",
+      "cycle_notes": "Annual City CDBG/HOME application; FY 2026-27 applications due by email January 22, 2026 at 5:00 p.m.",
+      "eligible_project_detail": [
+        "CDBG: public facilities and improvements, property acquisition, public services, new construction, rehabilitation, homebuyer assistance",
+        "HOME: acquisition, new construction, rehabilitation, homebuyer assistance, tenant-based rental assistance",
+        "multifamily rental (County HOME NOFA)"
+      ],
+      "next_deadline_date": "2026-01-22",
+      "deadline_check": "past_date",
+      "audit_note": "Program name says no city-run housing NOFA, but manteca.gov posts a City FY 2026-27 CDBG and HOME Notice of Funding Availability and application; consider renaming.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Density bonus, enhanced density bonus and priority processing (County Code Chapters 17.12 and 17.10.040)",
+      "administering_agency": "Santa Cruz County Community Development and Infrastructure, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus law implemented in Chapter 17.12 (last amended Ordinance 5286, 2018) with a County enhanced density bonus (Section 17.12.065) above the regular 35% state bonus: projects providing at least 21% low income units earn 36.5% rising 1.5 points per percentage point to a 50% maximum bonus at 30% low income units. Priority processing under Section 17.10.040 for standard-density projects with 25% or more affordable units and for density bonus projects with 35% or more affordable units.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 thresholds (5% very low, 10% low, senior, moderate for-sale) with 55-year recorded restrictions; enhanced bonus requires 21% or more low income units.",
+      "eligible_project_types": [
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested with the development application; 2024 and 2025 state law changes (AB 2694, AB 1287) apply directly even where the 2018 chapter text lags.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. The enhanced bonus to 50% is a real local incentive for mixed-income projects in the urban unincorporated area (Live Oak, Soquel, Aptos) where zoning density is low; 100% affordable projects rely on state law's unlimited bonus near transit. Source is Chapter 17.12 text on gocodebook.com.",
+      "source_url": "https://gocodebook.com/library/us/ca/santa-cruz-county-planning/title-17/chapter-17.12-density-bonus",
+      "record_id": "7e964d1c27",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental and for-sale housing in unincorporated zones",
+        "projects on sites with existing rental housing subject to replacement rules (17.12.025)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Housing Authority of the County of Santa Cruz",
+      "administering_agency": "Housing Authority of the County of Santa Cruz (2160 41st Avenue, Capitola; (831) 454-9455; PBV RFP contact Eric Johnson, Senior Analyst)",
+      "funding_type": "rental assistance",
+      "typical_award_size": "823 PBVs in 33 developments as of February 2025 (El Centro 44, St. Stephens Senior 39, Water Street 33, Pippin Orchards 31, Resetar 52 and others) plus commitments to projects in development including Veterans Village (15). PBVs are awarded through a competitive RFP (October 2024 was the last, with a plan for two rounds a year timed to CTCAC); the Spring-Summer 2025 RFP was cancelled because of federal funding uncertainty and no RFP has been reissued as of November 2026. Scoring 200 base points (project type 50, HCV waiting list opportunities 30, poverty deconcentration 25, location 25, experience 25, readiness 25, leverage 10, design 10), 150-point threshold, 40-point supportive services supplement.",
+      "per_unit_cap": "Program cap 20% of ACC units plus 10% excepted units (homeless, veterans, supportive services, low-poverty tracts); income-mixing project cap per 24 CFR 983.",
+      "affordability_requirement": "Tenants pay 30% of income; HCV waiting list, site-based lists or Coordinated Entry referrals; HACSC administers special purpose vouchers (Mainstream, FUP, VASH) that can be project-based.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing",
+        "farmworker housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No open RFP; HACSC is not in HUD shortfall but is holding new commitments. Join the PBV RFP interest list to be notified; HACSC publishes rent, utility allowance and waiting list letters for CTCAC applications on its PBV page.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. PBVs have been the operating subsidy in nearly every recent Santa Cruz County affordable deal; with the RFP paused since spring 2025, developers are turning to BHSA and HHAP subsidies and to CoC rental assistance. Source is the HACSC request for proposals page (RFP status); project list from the February 2025 in-service PBV list and selection rules from the 2022 owner guidance.",
+      "source_url": "https://hacosantacruz.org/general-information/vendors-contracts/request-for-proposals/",
+      "record_id": "e3dc9eebc6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction and rehabilitation LIHTC projects in Santa Cruz County",
+        "permanent supportive housing",
+        "senior and farmworker housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "State HOME, CDBG and CalHome grants administered by the County (non-entitlement)",
+      "administering_agency": "Santa Cruz County Community Development and Infrastructure, Planning Division, Housing Section",
+      "funding_type": "grant",
+      "typical_award_size": "State HOME 2019 award $700,000 for tenant-based rental assistance (security deposits via HACSC and rental assistance via Families in Transition) covering the unincorporated area, Watsonville, Capitola and Scotts Valley; State CDBG 2021 award $500,000 for a street outreach pilot in the unincorporated area; CDBG-CV awards of $100,000, $348,000, $350,000 and about $1.36 million for pandemic services and Project Roomkey; CalHome Mortgage Assistance Program down payment loans up to $56,400 (not currently accepting applications) and a manufactured home replacement program. No state HOME or CDBG award for multifamily development was listed.",
+      "per_unit_cap": "State HOME and CDBG program limits.",
+      "affordability_requirement": "HUD income limits (80% AMI and below) for HOME and CDBG; CalHome to 80% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "homeownership",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD state HOME and CDBG NOFAs run annually; the County has applied for services rather than development. A developer can ask CDI to sponsor a state HOME rental new construction application for an unincorporated project.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. The County's state grant history is services-oriented; its development capacity is limited to the small County NOFA, so state HOME for rental development remains an unused option that requires County sponsorship. Source is the CDI State and Federal Grants page.",
+      "source_url": "https://cdi.santacruzcountyca.gov/Planning/Housing/StateandFederalGrants.aspx",
+      "record_id": "52124b6651",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "tenant-based rental assistance",
+        "homeless services",
+        "homeownership assistance",
+        "rental new construction (eligible under state HOME, not pursued)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

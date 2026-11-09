@@ -1,0 +1,132 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Richmond",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "needs_confirmation",
+      "program_name": "Richmond CDBG and HOME entitlement funds (Housing Division) and Richmond Housing Authority project-based voucher legacy",
+      "administering_agency": "City of Richmond Community Development Department, Housing Division (Jesus Morales, Housing Manager, 510-620-6649); Richmond Housing Authority (Antoinette Terrell, Executive Director, 510-621-1300)",
+      "funding_type": "grant",
+      "typical_award_size": "Richmond does not run its own CDBG or HOME program. The adopted Housing Element states that although Richmond is eligible to be a HUD entitlement city, after staffing cuts the City opted for Contra Costa County to receive its share of HUD funding, and that the County administers CDBG and HOME for Richmond; the County CDBG page defines the Urban County as the entire county less Antioch, Concord, Pittsburg and Walnut Creek, so Richmond is inside the Urban County and the County HOME Consortium. The Housing Element cites the CDBG-assisted rehabilitation of the 150-unit Hacienda Apartments. The Richmond Housing Authority no longer administers vouchers: the County administers the Housing Choice Voucher program (about 1,700 vouchers used in Richmond, including project-based vouchers), and Miraflores received 79 RHA project-based vouchers earlier. The 2015 HUD figure of $1,092,323 predates the switch and should not be used.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "CDBG national objective (80% AMI); HOME rent limits and County regulatory agreements (55 years on County-funded rental projects); HACCC PBV requirements for voucher-assisted units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "County Urban County CDBG and ESG applications due December 7, 2026 at 5:00 PM via City Data Services (Board approval June 2027); housing development requests go to the County Affordable Housing Program NOFA (county record).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Richmond is part of the Contra Costa Urban County and therefore of the County HOME Consortium, so Richmond projects apply to the County for CDBG-Housing, HOME and Measure X (county records); the County's May 2026 awards to Trinity Plaza ($2.5 million CDBG and $1.5 million HOME) are consistent with this. Stack with the Richmond/Contra Costa CoC (CA-505), HACCC PBVs and Richmond housing successor assets. Audit November 8, 2026: the earlier statement that Richmond is an entitlement jurisdiction outside the Consortium was wrong; the Housing Element (HUD funding discussion and Housing Resources, CDBG) and the County CDBG page both place Richmond in the Urban County.",
+      "source_url": "https://www.ci.richmond.ca.us/ArchiveCenter/ViewFile/Item/12751",
+      "record_id": "343b5d5dac",
+      "cycle_notes": "Apply through the County: Urban County CDBG FY 2027/28 to 2029/30 NOFA (public services, economic development, infrastructure) due December 7, 2026; CDBG-Housing and HOME through the County Affordable Housing Program NOFA",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "new construction (HOME)",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-12-07",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "program_name and administering_agency still describe a Richmond-run CDBG/HOME entitlement; recommend renaming to a pointer record (Richmond access to County Urban County CDBG and Consortium HOME) with Contra Costa County DCD as administering agency, or merging into the County records.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Walnut Creek",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "needs_confirmation",
+      "program_name": "Walnut Creek Local Housing Trust Fund and Affordable Housing Subsidy Request for Proposals (annual developer RFP; FY26 round October to December 2025)",
+      "administering_agency": "City of Walnut Creek Housing Division (Housing Programs), Community and Economic Development Department; contact brynen@walnutcreekca.gov",
+      "funding_type": "loan",
+      "typical_award_size": "The City maintains a Local Housing Trust Fund fed by housing in-lieu fees and commercial linkage fees and projects about $16 million available over the 2025-2029 Consolidated Plan period, with $4.14 million in general and local funds also programmed for housing and community services. Track record: $5 million to St. Paul's Commons (44 units, 2019) plus a $366,642 City fee waiver; $400,000 plus later gap funding to Riviera Family Apartments; $5,150,000 to Habitat for Humanity's 42-unit Las Juntas ownership project; acquisition, predevelopment and development funding for the 95 to 97 unit Civic Crossing at 699 Ygnacio Valley Road (TCAC application CA-24-649 shows $10.5 million of City funds); $300,000 per year budgeted for first-time homebuyer loans. The City's developer page (not opened, 403) describes an FY26 Affordable Housing Subsidy RFP open October 14 to December 19, 2025, Council review March to April 2026 and award notification May 2026; Council retains sole discretion to fund one, several or no projects.",
+      "per_unit_cap": "None published; past awards ran about $110,000 to $120,000 per unit.",
+      "affordability_requirement": "Projects must be within Walnut Creek city limits and consistent with the Housing Element; 55-year City regulatory agreements on rental projects; priority to extremely low, very low and low income and special needs households; all other funding sources must be identified before disbursement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round confirmed as of November 8, 2026. The FY26 RFP closed December 19, 2025 with awards expected May 2026 (outcome not confirmed); prior rounds opened in October and November, so an FY27 RFP is expected in fall 2026 or early 2027. Confirm with the Housing Division since the City website blocks automated access.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The strongest city-level gap source in Contra Costa outside the County itself: Walnut Creek routinely commits $5 million to $10 million per project, equal to or above County HOME awards, and pairs it with fee waivers and expedited processing. Stack order for a Walnut Creek deal: City subsidy RFP award and fee waiver first (secures local commitment for TCAC tie-breaker), then County HOME or Measure X (county records; Civic Crossing also received $6.8 million County funds), then 4% credits and County or CMFA conduit bonds. The City is also pursuing a Prohousing Designation (program page exists but was not opened) which adds points in State NOFAs. The City is the Housing Successor for its former redevelopment agency but reported minimal boomerang funds. Because walnutcreekca.gov and its PDFs returned 403 (RFP document and developer page not opened), the fund description is taken from the City's 2025-2029 Consolidated Plan strategic plan posted by Contra Costa County (source_url) and the HCD-hosted Housing Element; RFP dates come from search snippets of the City page and need confirmation.",
+      "source_url": "https://www.contracosta.ca.gov/DocumentCenter/View/86762/WC-Strategic-Plan-Draft",
+      "record_id": "317b292ce3",
+      "cycle_notes": "annual fall RFP since November 2023 (no rolling applications); FY27 round status not confirmed",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "affordable ownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08",
+      "audit_note": "walnutcreekca.gov pages and RFP PDFs return 403 to curl and WebFetch, so RFP dates and track-record awards could not be read on an official page; only the $16 million trust fund estimate and $4.14 million local funds were confirmed in the Consolidated Plan strategic plan."
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Ramon",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "San Ramon Inclusionary Housing Ordinance (Ordinance 520, adopted October 24, 2023; San Ramon Municipal Code Sections C4-175 to C4-183) and Affordable Housing Fund (C4-180)",
+      "administering_agency": "City of San Ramon Community Development Department, Planning Services Division (Lauren Barr, Director; Planning@sanramon.ca.gov, 925-973-2560)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Applies to all residential projects of 2 or more units (ADUs excluded). Projects of 2 to 9 units (for-sale or rental) may pay an affordable housing fee equal to 25% of total new livable square footage times the per square foot rate in the City Fee Resolution (about $15.16 per square foot per the City of Antioch's January 2026 countywide comparison). For-sale projects of 10 or more units (single-family and multifamily) must build 15% affordable units allocated 20% very low, 30% low and 50% moderate income (must-build added in 2023). Rental projects of 10 or more units must provide 15% affordable units, half very low and half low income. Alternatives (C4-179): voluntary rental units in a for-sale project, off-site construction within San Ramon, preservation of at-risk units with 55-year extensions, land dedication (fully improved with impact fees paid) or combinations. Fees go to the Affordable Housing Fund with an annual report to Council on balance and commitments; the balance was $4.28 million as of March 3, 2022.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "55-year affordability (raised from 30 years in 2023) for rental and for-sale units, renewed for 55 years on each resale; resale price capped at purchase price grown by AMI; City first right of refusal on affordable ownership units.",
+      "eligible_project_types": [
+        "preservation",
+        "mixed-use",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at first approval with an Affordable Housing Plan; Affordable Housing Agreement before final map or building permit. Housing Element Program 8 scheduled a 2024 review of the inclusionary and commercial linkage fee structure; the Council heard a FY 2026-27 Master Fee Schedule and nexus study update in March 2026, so confirm the current per square foot rate with Planning Services.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Ramon's 15% rental requirement with half the units at very low income is the deepest in the county among the priority cities and, combined with Bishop Ranch's build-out, produces receiver-site deals: the Canopy (BR 8) Affordable Site Development Agreement introduced January 13, 2026 (Ordinance 536, adopted January 27, 2026) has Sunset Development dedicating a rough-graded site with impact fees paid to Eden Housing for 161 affordable units that absorb the inclusionary obligations of 255 Canopy single-family homes (raised from 15% to 22.5%) and the CityWalk apartments, plus $3,000 per market-rate unit (about $765,000) paid into the Affordable Housing Fund. Dougherty Valley affordable units (Highlands Point, Muirlands, Seville, Valencia, Cornerstone at Gale Ranch and others, about 1,886 affordable units citywide) are governed by Contra Costa County affordability agreements under the Dougherty Valley Settlement Agreement and the County's Chapter 822-4, not this ordinance, and several 20-year moderate-income agreements expire in 2026. Ordinance text read at source_url; the Canopy staff report was read on the City's IQM2 agenda host (https://sanramonca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=4882).",
+      "source_url": "https://www.sanramon.ca.gov/UserFiles/Servers/Server_10826046/File/Our%20City/Departments/Community%20Development/Planning/ORD%20520%20Amended%20Inclusionary%20Housing%20Ordinance%202023.pdf",
+      "record_id": "7d8feb78ee",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental and for-sale projects of 2 or more units (compliance)",
+        "mixed-use projects",
+        "land dedication receiver sites",
+        "preservation of at-risk units"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

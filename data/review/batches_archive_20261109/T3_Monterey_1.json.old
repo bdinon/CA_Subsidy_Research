@@ -1,0 +1,114 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers and development partnerships, Housing Authority of the County of Monterey",
+      "administering_agency": "Housing Authority of the County of Monterey and HACM Development Corporation (Nora Ruvalcaba, Director of Development)",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HACM administers Housing Choice Vouchers countywide (including Salinas) with a Housing Choice Voucher Administrative Plan effective September 28, 2026 that provides for competitive selection of PBV proposals (Chapter 17) and noncompetitive selection of PHA-owned units; recent PBV properties include Alfred Diaz-Infante Apartments (Salinas, 2024 list), One Parkside (Salinas), Villa del Monte (Monterey Peninsula), Magnolia Place Senior II (Greenfield) and South County sites; the last public PBV request for proposals was in 2020. The HACM Development Corporation develops and co-owns housing (Haciendas 1-4 and Tynan Village in Salinas, Rippling River in Carmel Valley with a 2006 County HOME and CDBG loan of $1,262,500, Benito Farm Labor Center in Soledad, Oak Park in Paso Robles) and in May 2026 reaffirmed Milestone Housing Group as development partner for its Greenfield sites (Resolution 3160).",
+      "per_unit_cap": "Program cap 20% of ACC units plus excepted units per 24 CFR 983.",
+      "affordability_requirement": "PBV households at or below 50% AMI (75% extremely low income); farm labor housing for agricultural workers.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open PBV RFP on hamonterey.org as of November 2026; contact the Director of Development about PBV commitments or a joint venture. HACM is not a Moving to Work agency.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. HACM is both the voucher source and a frequent co-developer, so a third-party project should approach it early for PBVs or partnership; its portfolio shows the county's typical stack of PBVs, County HOME and CDBG loans and tax credits. Source is the HACM development portfolio page; selection rules from the 2026 Administrative Plan on hamonterey.org.",
+      "source_url": "https://www.hamonterey.org/development-portfolio",
+      "record_id": "a4bbce7ae0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction and rehabilitation LIHTC projects countywide",
+        "HACM joint ventures and RAD conversions",
+        "farmworker housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "County TEFRA approvals for CSCDA and other conduit issuers",
+      "administering_agency": "Monterey County Board of Supervisors (Housing and Community Development or sponsoring department)",
+      "funding_type": "bond",
+      "typical_award_size": "The Board holds TEFRA hearings and adopts approving resolutions for conduit issuers at no County liability; the most recent example is the June 23, 2026 hearing and Resolution 26-104 approving up to $40,000,000 of California Statewide Communities Development Authority bonds for Montage Health facilities. Multifamily housing bonds for projects in unincorporated Monterey County follow the same process; recent affordable projects in the county (Greenfield Commons, Lightfighter Village) used city TEFRA approvals.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "For housing bonds, at least 20% of units at 50% AMI or 40% at 60% AMI under the bond regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request a TEFRA hearing through HCD or the Clerk of the Board at least six weeks before the CDLAC application.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. The County is not an issuer; it hosts hearings for CSCDA, CMFA and CalPFA on request. Source is the June 23, 2026 TEFRA item (Legistar file RES 26-104).",
+      "source_url": "https://monterey.legistar.com/LegislationDetail.aspx?ID=66037&GUID=717EB61D-6B29-4F26-950F-66FCEC80150C",
+      "record_id": "4137be3fe1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "4% LIHTC multifamily new construction or acquisition in unincorporated areas (conduit bonds)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Marina",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Overlay fee waivers and deferrals (Municipal Code Section 17.48.130, Ordinances 2023-01 and 2023-12) and state density bonus adopted by reference (Section 17.48.040, Ordinance 2023-07)",
+      "administering_agency": "City of Marina Community Development Department, Planning Services Division",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Projects on Affordable Housing Overlay (AHO) sites mapped for Housing Element opportunity sites receive ministerial administrative approval by the Community Development Director (no hearing), AHO development standards instead of the base zone (42-foot height, 48 feet on Reservation Road and Del Monte Boulevard), and one of three incentives: waived, reduced or deferred planning, plan check or construction permit fees; deferral of City construction and impact fees to completion or occupancy; or payment of construction and impact fees over twelve months or longer after completion. Section 17.48.040 adopts Government Code 65915 to 65918 by reference and caps bonuses, concessions, waivers and parking at the state maximums unless a development agreement provides more. Approvals lapse after two years with a one-year extension.",
+      "per_unit_cap": "Not applicable; fee relief sized to the project's actual City fees.",
+      "affordability_requirement": "AHO projects must meet the overlay's affordability requirements (very low and low income emphasis) and the inclusionary ratios in Table 17.48.030-1; density bonus target units restricted 30 years (55 years when also counted as inclusionary units).",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; ministerial on AHO-mapped sites. Housing Element Program 2.3 committed the City to evaluate its incentives by end of 2024 and strengthen them by end of 2026 if 200 lower income units are not on track.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The AHO is the only fee relief program found among Monterey County priority cities and was cited in Marina's August 2025 Prohousing Designation application (Enhancement Category 3). Fee deferral to occupancy helps construction-period cash flow on tax credit deals such as Lightfighter Village (EAH and Veterans Transition Center, 71 units) and future Dunes and Downtown Marina AHO sites. It does not waive school, water (Marina Coast Water District) or Fort Ord Reuse Authority successor fees. Code read on the zoneomics mirror (Title 17, Chapter 17.48) because marina.municipal.codes returns 403.",
+      "source_url": "https://www.zoneomics.com/code/marina-CA/chapter_5",
+      "record_id": "1ef56a5e59",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "100% affordable projects",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

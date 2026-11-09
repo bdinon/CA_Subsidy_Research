@@ -1,0 +1,518 @@
+[
+  {
+    "batch_id": "T1_Alameda_1",
+    "tier": 1,
+    "county": "Alameda",
+    "records": 3
+  },
+  {
+    "batch_id": "T1_ContraCosta_1",
+    "tier": 1,
+    "county": "Contra Costa",
+    "records": 3
+  },
+  {
+    "batch_id": "T1_ElDorado_1",
+    "tier": 1,
+    "county": "El Dorado",
+    "records": 1
+  },
+  {
+    "batch_id": "T1_Fresno_1",
+    "tier": 1,
+    "county": "Fresno",
+    "records": 3
+  },
+  {
+    "batch_id": "T1_Madera_1",
+    "tier": 1,
+    "county": "Madera",
+    "records": 6
+  },
+  {
+    "batch_id": "T1_Marin_1",
+    "tier": 1,
+    "county": "Marin",
+    "records": 4
+  },
+  {
+    "batch_id": "T1_Mendocino_1",
+    "tier": 1,
+    "county": "Mendocino",
+    "records": 2
+  },
+  {
+    "batch_id": "T1_Merced_1",
+    "tier": 1,
+    "county": "Merced",
+    "records": 5
+  },
+  {
+    "batch_id": "T1_Monterey_1",
+    "tier": 1,
+    "county": "Monterey",
+    "records": 2
+  },
+  {
+    "batch_id": "T1_Napa_1",
+    "tier": 1,
+    "county": "Napa",
+    "records": 6
+  },
+  {
+    "batch_id": "T1_Nevada_1",
+    "tier": 1,
+    "county": "Nevada",
+    "records": 2
+  },
+  {
+    "batch_id": "T1_Orange_1",
+    "tier": 1,
+    "county": "Orange",
+    "records": 2
+  },
+  {
+    "batch_id": "T1_Placer_1",
+    "tier": 1,
+    "county": "Placer",
+    "records": 3
+  },
+  {
+    "batch_id": "T1_Riverside_1",
+    "tier": 1,
+    "county": "Riverside",
+    "records": 5
+  },
+  {
+    "batch_id": "T1_Sacramento_1",
+    "tier": 1,
+    "county": "Sacramento",
+    "records": 3
+  },
+  {
+    "batch_id": "T1_SanBenito_1",
+    "tier": 1,
+    "county": "San Benito",
+    "records": 5
+  },
+  {
+    "batch_id": "T1_SanDiego_1",
+    "tier": 1,
+    "county": "San Diego",
+    "records": 6
+  },
+  {
+    "batch_id": "T1_SanJoaquin_1",
+    "tier": 1,
+    "county": "San Joaquin",
+    "records": 6
+  },
+  {
+    "batch_id": "T1_SanLuisObispo_1",
+    "tier": 1,
+    "county": "San Luis Obispo",
+    "records": 3
+  },
+  {
+    "batch_id": "T1_SanMateo_1",
+    "tier": 1,
+    "county": "San Mateo",
+    "records": 1
+  },
+  {
+    "batch_id": "T1_SantaClara_1",
+    "tier": 1,
+    "county": "Santa Clara",
+    "records": 4
+  },
+  {
+    "batch_id": "T1_SantaCruz_1",
+    "tier": 1,
+    "county": "Santa Cruz",
+    "records": 4
+  },
+  {
+    "batch_id": "T1_Solano_1",
+    "tier": 1,
+    "county": "Solano",
+    "records": 8
+  },
+  {
+    "batch_id": "T1_Sonoma_1",
+    "tier": 1,
+    "county": "Sonoma",
+    "records": 3
+  },
+  {
+    "batch_id": "T1_Ventura_1",
+    "tier": 1,
+    "county": "Ventura",
+    "records": 6
+  },
+  {
+    "batch_id": "T1_Yolo_1",
+    "tier": 1,
+    "county": "Yolo",
+    "records": 11
+  },
+  {
+    "batch_id": "T1_regional_1",
+    "tier": 1,
+    "county": "regional",
+    "records": 2
+  },
+  {
+    "batch_id": "T1_statewide_1",
+    "tier": 1,
+    "county": "statewide",
+    "records": 1
+  },
+  {
+    "batch_id": "T2_Fresno_1",
+    "tier": 2,
+    "county": "Fresno",
+    "records": 1
+  },
+  {
+    "batch_id": "T2_Mendocino_1",
+    "tier": 2,
+    "county": "Mendocino",
+    "records": 1
+  },
+  {
+    "batch_id": "T2_Napa_1",
+    "tier": 2,
+    "county": "Napa",
+    "records": 1
+  },
+  {
+    "batch_id": "T2_Riverside_1",
+    "tier": 2,
+    "county": "Riverside",
+    "records": 2
+  },
+  {
+    "batch_id": "T2_Sacramento_1",
+    "tier": 2,
+    "county": "Sacramento",
+    "records": 1
+  },
+  {
+    "batch_id": "T2_SanJoaquin_1",
+    "tier": 2,
+    "county": "San Joaquin",
+    "records": 2
+  },
+  {
+    "batch_id": "T2_SantaClara_1",
+    "tier": 2,
+    "county": "Santa Clara",
+    "records": 1
+  },
+  {
+    "batch_id": "T2_SantaCruz_1",
+    "tier": 2,
+    "county": "Santa Cruz",
+    "records": 1
+  },
+  {
+    "batch_id": "T3_Alameda_1",
+    "tier": 3,
+    "county": "Alameda",
+    "records": 6
+  },
+  {
+    "batch_id": "T3_ElDorado_1",
+    "tier": 3,
+    "county": "El Dorado",
+    "records": 2
+  },
+  {
+    "batch_id": "T3_Fresno_1",
+    "tier": 3,
+    "county": "Fresno",
+    "records": 4
+  },
+  {
+    "batch_id": "T3_Madera_1",
+    "tier": 3,
+    "county": "Madera",
+    "records": 1
+  },
+  {
+    "batch_id": "T3_Marin_1",
+    "tier": 3,
+    "county": "Marin",
+    "records": 1
+  },
+  {
+    "batch_id": "T3_Mendocino_1",
+    "tier": 3,
+    "county": "Mendocino",
+    "records": 1
+  },
+  {
+    "batch_id": "T3_Merced_1",
+    "tier": 3,
+    "county": "Merced",
+    "records": 5
+  },
+  {
+    "batch_id": "T3_Monterey_1",
+    "tier": 3,
+    "county": "Monterey",
+    "records": 2
+  },
+  {
+    "batch_id": "T3_Napa_1",
+    "tier": 3,
+    "county": "Napa",
+    "records": 3
+  },
+  {
+    "batch_id": "T3_Nevada_1",
+    "tier": 3,
+    "county": "Nevada",
+    "records": 3
+  },
+  {
+    "batch_id": "T3_Orange_1",
+    "tier": 3,
+    "county": "Orange",
+    "records": 2
+  },
+  {
+    "batch_id": "T3_Placer_1",
+    "tier": 3,
+    "county": "Placer",
+    "records": 6
+  },
+  {
+    "batch_id": "T3_Riverside_1",
+    "tier": 3,
+    "county": "Riverside",
+    "records": 4
+  },
+  {
+    "batch_id": "T3_Sacramento_1",
+    "tier": 3,
+    "county": "Sacramento",
+    "records": 5
+  },
+  {
+    "batch_id": "T3_SanBenito_1",
+    "tier": 3,
+    "county": "San Benito",
+    "records": 1
+  },
+  {
+    "batch_id": "T3_SanDiego_1",
+    "tier": 3,
+    "county": "San Diego",
+    "records": 1
+  },
+  {
+    "batch_id": "T3_SanJoaquin_1",
+    "tier": 3,
+    "county": "San Joaquin",
+    "records": 2
+  },
+  {
+    "batch_id": "T3_SanLuisObispo_1",
+    "tier": 3,
+    "county": "San Luis Obispo",
+    "records": 2
+  },
+  {
+    "batch_id": "T3_SantaClara_1",
+    "tier": 3,
+    "county": "Santa Clara",
+    "records": 4
+  },
+  {
+    "batch_id": "T3_SantaCruz_1",
+    "tier": 3,
+    "county": "Santa Cruz",
+    "records": 1
+  },
+  {
+    "batch_id": "T3_Solano_1",
+    "tier": 3,
+    "county": "Solano",
+    "records": 1
+  },
+  {
+    "batch_id": "T3_Sonoma_1",
+    "tier": 3,
+    "county": "Sonoma",
+    "records": 12
+  },
+  {
+    "batch_id": "T3_Ventura_1",
+    "tier": 3,
+    "county": "Ventura",
+    "records": 1
+  },
+  {
+    "batch_id": "T3_Yolo_1",
+    "tier": 3,
+    "county": "Yolo",
+    "records": 1
+  },
+  {
+    "batch_id": "T3_regional_1",
+    "tier": 3,
+    "county": "regional",
+    "records": 4
+  },
+  {
+    "batch_id": "T3_statewide_1",
+    "tier": 3,
+    "county": "statewide",
+    "records": 2
+  },
+  {
+    "batch_id": "T4_Alameda_1",
+    "tier": 4,
+    "county": "Alameda",
+    "records": 3
+  },
+  {
+    "batch_id": "T4_ContraCosta_1",
+    "tier": 4,
+    "county": "Contra Costa",
+    "records": 5
+  },
+  {
+    "batch_id": "T4_ElDorado_1",
+    "tier": 4,
+    "county": "El Dorado",
+    "records": 2
+  },
+  {
+    "batch_id": "T4_Fresno_1",
+    "tier": 4,
+    "county": "Fresno",
+    "records": 3
+  },
+  {
+    "batch_id": "T4_Madera_1",
+    "tier": 4,
+    "county": "Madera",
+    "records": 1
+  },
+  {
+    "batch_id": "T4_Marin_1",
+    "tier": 4,
+    "county": "Marin",
+    "records": 2
+  },
+  {
+    "batch_id": "T4_Mendocino_1",
+    "tier": 4,
+    "county": "Mendocino",
+    "records": 2
+  },
+  {
+    "batch_id": "T4_Monterey_1",
+    "tier": 4,
+    "county": "Monterey",
+    "records": 2
+  },
+  {
+    "batch_id": "T4_Napa_1",
+    "tier": 4,
+    "county": "Napa",
+    "records": 1
+  },
+  {
+    "batch_id": "T4_Nevada_1",
+    "tier": 4,
+    "county": "Nevada",
+    "records": 3
+  },
+  {
+    "batch_id": "T4_Orange_1",
+    "tier": 4,
+    "county": "Orange",
+    "records": 3
+  },
+  {
+    "batch_id": "T4_Placer_1",
+    "tier": 4,
+    "county": "Placer",
+    "records": 1
+  },
+  {
+    "batch_id": "T4_Riverside_1",
+    "tier": 4,
+    "county": "Riverside",
+    "records": 4
+  },
+  {
+    "batch_id": "T4_Sacramento_1",
+    "tier": 4,
+    "county": "Sacramento",
+    "records": 2
+  },
+  {
+    "batch_id": "T4_SanBenito_1",
+    "tier": 4,
+    "county": "San Benito",
+    "records": 1
+  },
+  {
+    "batch_id": "T4_SanDiego_1",
+    "tier": 4,
+    "county": "San Diego",
+    "records": 3
+  },
+  {
+    "batch_id": "T4_SanJoaquin_1",
+    "tier": 4,
+    "county": "San Joaquin",
+    "records": 3
+  },
+  {
+    "batch_id": "T4_SanLuisObispo_1",
+    "tier": 4,
+    "county": "San Luis Obispo",
+    "records": 5
+  },
+  {
+    "batch_id": "T4_SanMateo_1",
+    "tier": 4,
+    "county": "San Mateo",
+    "records": 5
+  },
+  {
+    "batch_id": "T4_SantaClara_1",
+    "tier": 4,
+    "county": "Santa Clara",
+    "records": 5
+  },
+  {
+    "batch_id": "T4_SantaCruz_1",
+    "tier": 4,
+    "county": "Santa Cruz",
+    "records": 3
+  },
+  {
+    "batch_id": "T4_Solano_1",
+    "tier": 4,
+    "county": "Solano",
+    "records": 2
+  },
+  {
+    "batch_id": "T4_Ventura_1",
+    "tier": 4,
+    "county": "Ventura",
+    "records": 2
+  },
+  {
+    "batch_id": "T4_Yolo_1",
+    "tier": 4,
+    "county": "Yolo",
+    "records": 2
+  }
+]

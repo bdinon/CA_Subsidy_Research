@@ -1,0 +1,234 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "needs_confirmation",
+      "program_name": "Homekey+ application and Welcome Home Village permanent supportive housing",
+      "administering_agency": "San Luis Obispo County Department of Social Services, Homeless Services Division",
+      "funding_type": "grant",
+      "typical_award_size": "The County applied for Homekey+ in 2025 with Restorative Partners for the Healing and Restoration Campus (HARC) on Los Osos Valley Road, permanent supportive housing for justice-involved people at risk of homelessness; as of the March 10, 2026 annual report no award notice had been received, and no County of San Luis Obispo project appears on HCD's Homekey+ awardee list dated October 14, 2026. Separately the County is advancing Welcome Home Village (40 permanent supportive housing units and 14 interim shelter units, anticipated opening spring 2026) with HHAP and County funds. The County's FY 2025/26 contracts for services, housing and facilities totaled $13,646,539.60. Earlier Homekey: City of San Luis Obispo Calle Joaquin (76 units, $19.4 million Homekey plus $2.6 million County SB 1090).",
+      "per_unit_cap": "Homekey+ caps apply if awarded.",
+      "affordability_requirement": "Permanent supportive housing for people experiencing homelessness with behavioral health needs or veterans.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Homekey+ NOFA funds are fully committed statewide; Welcome Home Village financing is still being assembled. Contact HSD for partnership opportunities.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. The County has not yet landed a Homekey+ award for HARC; Welcome Home Village is a County-led interim and PSH campus funded with HHAP, General Fund and state homelessness grants. A developer or operator with PSH experience could partner on this or on a future scattered-site application.",
+      "source_url": "https://www.slocounty.ca.gov/departments/social-services/forms-documents/homeless-services/homepage/2026/2025-year-end-report",
+      "record_id": "d56094870b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing",
+        "interim housing",
+        "motel conversion"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Luis Obispo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "needs_confirmation",
+      "program_name": "City Affordable Housing Fund (AHF) grants and loans (in-lieu fee fund; award criteria Resolution 9263, 2001 Series; Housing Element Program 2.5)",
+      "administering_agency": "City of San Luis Obispo Community Development Department, Housing Programs (Council awards)",
+      "funding_type": "loan",
+      "typical_award_size": "Gap grants and below-market loans at Council discretion. History: $10,450,954 committed to 464 deed-restricted units from 1999 to 2020; Bishop Street Studios (34 units) received $1,595,500 combined AHF loan, impact fee deferral loan and CDBG loan; $2 million approved January 2020 for a 108-unit project; $330,000 grant to TMHA for a 6-unit acquisition-rehab; a 2023 Council resolution (eScribe DocumentId 8320, blocked to scripts) approved $3.2 million to HASLO for 736 Orcutt Road ($2.0 million) and 279 Bridge Street Family Apartments ($1.2 million), each paired with a fee deferral loan. HCD Prohousing Incentive Program funds ($750,000, 2024) were routed through the AHF. Housing Element target: support at least 4 new affordable developments during 2020-2028.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Extremely low, very low, low and moderate income; deed restrictions of 55 years rental and 45 years ownership under City Affordable Housing Standards. Housing Element Program 2.5 directs the fund to projects that would not be feasible without AHF support and to production efficiency.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. No formal NOFA; developers request awards through the Housing Programs Coordinator (housing@slocity.org) and awards go to Council by resolution, usually timed to TCAC or CDLAC rounds.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Largest city-controlled housing fund in the county. Revenue is the Chapter 17.138 in-lieu fee and Chapter 4.60 commercial linkage fee plus shared-equity recapture; the City also receives its own CDBG share through the Urban County (county record: Urban County Action Plan NOFA, due October 30, 2026 for the 2027 program year) and has layered CDBG loans with AHF awards. Typical stack for a City of SLO LIHTC deal: AHF grant or loan, City impact fee deferral loan (separate record), County Title 29 or Regional Housing Fund, HASLO project-based vouchers, SLO County Housing Trust Fund predevelopment loan, then state sources. HCD-hosted Housing Element was the only agency document that could be opened; slocity.org (403) and the City eScribe agenda host pub-slocity.escribemeetings.com (filestream 403, JS-only listings) could not be read, so current fund balance and 2025-2026 awards are unconfirmed.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-6th-adopted072321.pdf",
+      "record_id": "94afa63537",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Luis Obispo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "needs_confirmation",
+      "program_name": "Development services fee waiver and citywide development impact fee deferral loans for affordable units (Housing Element incentives table; Chapter 4.56 impact fee deferral)",
+      "administering_agency": "City of San Luis Obispo Community Development Department and Finance Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Residential projects meeting City affordable housing standards for extremely low, very low and low income households are exempt from all planning, engineering and building review, processing and permit fees and water and sewer meter hook-up fees; mixed-income projects receive the waiver per affordable unit. Citywide development impact fees are deferred (as a deferral loan) for affordable units that exceed the inclusionary minimum or are built, owned and managed by HASLO, other public agencies or nonprofit housing agencies. Example: Bishop Street Studios received an impact fee deferral loan as part of $1,595,500 in City assistance; 2023 HASLO awards for 736 Orcutt and 279 Bridge Street each included a fee deferral loan. HCD's Prohousing release describes the impact fee relief as a waiver for qualifying affordable housing.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Deed-restricted affordable units at City Affordable Housing Standards (extremely low, very low, low for the fee exemption; any inclusionary-exceeding or nonprofit or public agency affordable unit for impact fee deferral).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; requested with the building permit or through the AHF award resolution.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Local cost-reduction layer that stacks with AHF awards; the City routinely packages an AHF loan plus an impact fee deferral loan in one resolution. Fee exemptions and deferrals are public subsidies and may trigger Labor Code 1720 prevailing wage unless the project already pays it under LIHTC or state funding. The Chapter 4.56 ordinance text and current deferral terms (interest, repayment at permanent loan closing versus residual receipts) could not be opened because slocity.org, codepublishing and the City eScribe agenda host all block automated access; the HCD-hosted 2020 Housing Element incentives table is the source. No comparable county program exists for unincorporated land beyond the Title 22 incentive program.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-6th-adopted072321.pdf",
+      "record_id": "975ec5606f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Paso Robles",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable housing fee deferral loans (deferral of development impact, water and sewer connection and building permit fees; Housing Element Programs 8 and 9)",
+      "administering_agency": "City of El Paso de Robles Community Development Department and City Council (case-by-case resolution)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Case-by-case Council approval of long-term deferral of City fees, structured as low-interest General Fund loans repaid several years beyond occupancy. Track record: Oak Park Public Housing redevelopment (Paso Robles Housing Authority) phases one through four received fee deferral loans of $1.018 million (2012), $889,000 (2014), $999,423 (2017) and about $1.44 million (2018); a 79-unit senior low-income project at Woodland Plaza II received City fee deferrals in February 2021. News reports (not agency sources) describe a 2026 Council resolution authorizing deferral of water, sewer, development impact and building permit fees for affordable housing, a 30-year deferral of about $1.2 million for Highland's Senior Affordable Apartments (298 Niblick Road), a 30-year deferral of about $1.8 million for Sunrise Villas Apartments, and a roughly 50% impact fee waiver for a nine-unit Habitat for Humanity project on Vine Street. The City also cut development impact fees for studios and one-bedroom units (about $6,226 and $9,343 per unit).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units affordable to lower-income households including extremely low income; 55-year affordability has been required on senior projects receiving deferrals.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. Requests go to Council with the entitlement or before building permit; contact Community Development at (805) 237-3970 or planning@prcity.com. A development services fee update was before the Housing Constraints and Opportunities Committee on February 12, 2026 and then Council.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "This is the only City-controlled financial tool in Paso Robles; it substitutes for a housing trust fund. City fee deferrals have been the local match for Paso Robles Housing Authority tax credit deals (Oak Park) and are expected to pair with County Title 29 or Regional Housing Fund awards, HASLO or Paso Robles Housing Authority vouchers, SLO County Housing Trust Fund loans and the Urban County HOME NOFA (county record). The City receives about $165,000 per year of CDBG through the Urban County, which cannot fund new construction or impact fees. The 2026 resolution and project-specific deferrals were found only in local news; the City's eScribe agenda host (pub-pasorobles.escribemeetings.com) renders listings in JavaScript and returns 403 on document downloads, so the HCD-hosted 2020-2028 Housing Element is the agency source. Paso Robles is now preparing its 7th cycle Housing Element (consultant RFP due September 8, 2026).",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-adopted120920.pdf",
+      "record_id": "bad1e3bae2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-02-12",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Paso Robles",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Inclusionary housing ordinance and local affordable housing fund (none adopted; Housing Element finding)",
+      "administering_agency": "City of El Paso de Robles Community Development Department, Housing Programs Division",
+      "funding_type": "other",
+      "typical_award_size": "None. The 2020-2028 Housing Element states the City of Paso Robles does not have an inclusionary ordinance, and the City holds no inclusionary in-lieu fund, local housing trust fund or RDA successor housing fund for development. The Housing Programs Division's development support is limited to CDBG (about $165,000 per year through the Urban County), applying for County-administered HOME funds, fee deferrals and liaison with the Paso Robles Housing Authority. A November 2025 townhouse proposal offered a voluntary in-lieu payment tied to the County's Title 22 point system for use in a future tax-credit project, which indicates ad hoc negotiated contributions rather than a program.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Watch the 7th cycle Housing Element update (consultant RFP due September 8, 2026) for any inclusionary or impact fee program.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Negative finding recorded so the gap is visible: Paso Robles is the largest North County city and offers no local gap funding beyond fee deferrals. Developers must rely on County Title 29 and the new Regional Housing Fund (county records), HASLO and Paso Robles Housing Authority vouchers, SLO County Housing Trust Fund and state programs. The 2020 Housing Element workshops listed a possible local housing fund (General Fund, TOT, in-lieu fees) as an option but none was adopted. prcity.com pages and the HCD-hosted Housing Element were opened; the 2025 Annual Progress Report could not be located on prcity.com.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-adopted120920.pdf",
+      "record_id": "9ee24b94ff",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": "2026-09-08",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Arroyo Grande",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "needs_confirmation",
+      "program_name": "Inclusionary Affordable Housing Trust Fund (In-Lieu Affordable Housing Fund) grants to affordable developments (Housing Element Program C.1-1)",
+      "administering_agency": "City of Arroyo Grande Community Development Department and City Manager; awards by City Council",
+      "funding_type": "grant",
+      "typical_award_size": "Small fund, awarded by Council to specific projects. Balance of $928,000 as of 2020 per the Housing Element. News reports (not agency sources) state the Council granted $448,370 in July 2023 and a further $630,000 on October 22, 2024 from the Affordable Housing Trust Fund to HASLO's Arroyo Terrace, a 63-unit (reported as 63 to 65 units) 100% affordable project at 700 North Oak Park Boulevard that also received a 2024 TCAC 9% reservation of about $2.2 million in annual federal credits and County Title 29 funds. Housing Element quantified objective: assist three extremely low, three very low and twenty low income units during 2020-2028.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Extremely low, very low and low income units with long-term covenants (55 years rental under Chapter 16.80); criteria for allocating the fund were to be adopted under Housing Element Policy C.1.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. No NOFA; requests are made to Community Development and the City Manager during the budget cycle or when a project needs gap funding. Contact (805) 473-5420.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The fund is likely close to depleted after the two HASLO grants (about $1.08 million against a $928,000 2020 balance plus later fees), so treat it as a small top-off source replenished by in-lieu fees. Arroyo Terrace shows the local stack: City trust fund grant, County Title 29 and Urban County HOME or PLHA (county records), HASLO vouchers, SLO County Housing Trust Fund and 9% LIHTC. The City also controls a small CDBG share through the Urban County. The Council staff reports for the 2023 and 2024 grants could not be opened (pub-arroyogrande.escribemeetings.com listings are JavaScript-rendered and documents return 403), so the HCD-hosted 2020-2028 Housing Element is the agency source; confirm the current balance and award history with the City.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/arroyo-grande-6th-adopted021121.pdf",
+      "record_id": "e0e0447caf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

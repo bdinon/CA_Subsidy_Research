@@ -1,0 +1,436 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Qualified Residential Rental Project (QRRP) Tax-Exempt Private Activity Bond Allocation",
+      "administering_agency": "California Debt Limit Allocation Committee (CDLAC), State Treasurer's Office",
+      "funding_type": "bond",
+      "typical_award_size": "2026 state ceiling $5.31B, QRRP share $4.77B (plus $56M carryforward). Non-geographic pools $3.0B: Acquisition and Rehabilitation $1.0B, BIPOC $130M, Rural new construction $130M, Homeless set-aside $650M, ELI/VLI set-aside $780M, State-funded Mixed Income $310M. New construction geographic apportionments $1.75B: Bay Area Region 21%, Northern Region 9%, Inland Region 16%, Coastal 21%, City of LA 17%, Balance of LA 16%. Supplemental pool $79.7M. Application fee $1,500; performance deposit 0.5% of allocation up to $100,000; allocation fee 0.035% of bond amount.",
+      "per_unit_cap": "None; bond sizing driven by CDLAC scoring and tiebreaker (public benefit per dollar of bonds plus state credits).",
+      "affordability_requirement": "Federal minimum 20% at 50% AMI or 40% at 60% AMI (with 10% at 50% AMI under CalHFA issuance). ELI/VLI set-aside requires average 50% AMI or below plus an HCD or similar award. Mixed Income set-aside for projects with 50% or fewer restricted units or in CalHFA MIP. 55-year CDLAC regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026 rounds closed (Feb 3, May 19, Sept 8, 2026; Round 3 awards Dec 9, 2026). 2027 schedule not posted as of 2026-11-06. 2027 regulations proposed for adoption Dec 9, 2026 (replaces BIPOC pool with Emerging Developer pool).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Prerequisite for 4% federal credits and enhanced state credits; applications are joint with CTCAC through the CDLAC online portal. Readiness points require construction start within 180, 201 or 222 days of allocation and committed soft financing at application, so HCD, AHSC, MIP and local awards must be in hand first. Bonds generally sized to at least 25% of aggregate basis plus land (federal threshold after H.R. 1; prior 50% test). CalHFA recycled bonds and 501(c)(3) bonds do not use volume cap. Conduit bond financing alone is generally not treated as public funds for state prevailing wage, but confirm with counsel; most paired state soft funds do trigger it. Issuers in target counties include CalHFA, CSCDA, CMFA, and local housing authorities.",
+      "source_url": "https://www.treasurer.ca.gov/cdlac/qrrp",
+      "record_id": "4485177ae3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Mixed-Income Program (MIP)",
+      "administering_agency": "California Housing Finance Agency (CalHFA); transitioning to Housing Development and Finance Committee (HDFC) under the California Housing and Homelessness Agency",
+      "funding_type": "loan",
+      "typical_award_size": "2026 round: $63M in subsidy loans to 13 developments (1,768 units); funded by 15% of SB 2 Building Homes and Jobs Act revenue. Per project: lesser of $6M, $50,000 per MIP-regulated unit ($60,000 in High or Highest Resource areas), or 50% of the CalHFA permanent loan. Sponsor limited to one award per year; no county may receive more than 25% of annual funds; age-restricted projects capped at 25%.",
+      "per_unit_cap": "$50,000 per MIP-regulated unit; $60,000 in High/Highest Resource areas",
+      "affordability_requirement": "New construction, 4% credits with income averaging; at least 51% LIHTC units. MIP regulatory agreement (55 years): 30% of units at or below 50% AMI (including 10% at or below 30% AMI), 10% of units at 60% to 80% AMI averaging 70%, remaining units at or below 120% AMI; spread between lowest and highest targets at least 40 points; average affordability no more than 60% AMI. Rents at least 10% below market.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026 round closed (application workbook due March 2, 2026, aligned to CDLAC Round 2; awards May 5, 2026). 2027 term sheet expected January 2027; check CalHFA Key Program Dates page.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Must use CalHFA Conduit Issuer Program for construction bonds and CalHFA Tax-Exempt Permanent Loan (minimum $5M perm loan, 1.15x DSCR). Draws on the $100M enhanced state credit MIP set-aside at CTCAC and the $310M State-funded Mixed Income bond set-aside at CDLAC, so MIP projects compete for bonds outside the geographic pools. Cannot be combined with 9% credits. 3% simple interest, residual receipts (50% of surplus cash), coterminous with perm loan, 1% loan fee. Term sheet is silent on prevailing wage; a 3% subordinate loan may fit the Labor Code 1720(c)(6)(E) below-market-loan exemption if 40% of units are restricted at 80% AMI for 20 years, but confirm with counsel. Governor's reorganization moves MIP into HDFC with HCD programs for a unified application.",
+      "source_url": "https://www.calhfa.ca.gov/multifamily/mixedincome/index.htm",
+      "record_id": "a31ffd041a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": "2026-05-05",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Multifamily Housing Program (MHP)",
+      "administering_agency": "California Department of Housing and Community Development (HCD); transferring to Housing Development and Finance Committee (HDFC) under the California Housing and Homelessness Agency effective July 1, 2026",
+      "funding_type": "loan",
+      "typical_award_size": "2025 Super NOFA Round 3: $230M MHP of $382M total. 2026 MHP Gap Funding NOFA: $240M, awards $3M to $15M per project, HCD funds capped at 60% of total development cost. Super NOFA per-project cap $50M across MFSN loans, COSR and services reserves; $80M per sponsor per round. Prop 1 (2018) authorized $1.5B for MHP.",
+      "per_unit_cap": "Base $250,000 per restricted unit (plus $25,000 for emerging developer joint ventures or High/Highest Resource areas; plus $25,000 per Medi-Cal supportive services unit and $100,000 per project for services space). Gap NOFA scored requests up to $250,000 per unit.",
+      "affordability_requirement": "Restricted units at or below 60% AMI; scoring rewards deeper targeting (30 points for lowest incomes). 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No window open as of 2026-11-06. Last round: 2026 MHP Gap Funding NOFA (Round 4) due June 5, 2026, awards August 2026. Next round expected through HDFC's unified multifamily application; timing unannounced.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Core state gap loan: 55-year, 3% simple interest, 0.42% annual payment for 30 years, permanent financing only (construction must not have started at application). Delivered through the Multifamily Finance Super NOFA alongside IIG, VHHP and Joe Serna under AB 434. Pairs with 9% or 4% credits; an MHP award qualifies a project for CDLAC's ELI/VLI set-aside and CTCAC's nonprofit homeless priority. HCD stacking of multiple HCD sources on the same unit allowed within per-unit limits (Admin Notice 21-06). Gap NOFA awardees must apply in the next CDLAC round. HCD loans are public funds; state prevailing wage applies unless a Labor Code 1720(c) exemption fits. MHP can fund capitalized operating subsidy reserves (max $10M per project) and supportive services reserves as grants.",
+      "source_url": "https://www.hcd.ca.gov/funding/mhp",
+      "record_id": "5b634b4d76",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Multifamily Finance Super NOFA (MFSN) umbrella",
+      "administering_agency": "California Department of Housing and Community Development (HCD) / Housing Development and Finance Committee (HDFC)",
+      "funding_type": "loan",
+      "typical_award_size": "Round 3 (Feb 13, 2025): $382M (MHP $230M, Joe Serna $120M, IIG $20M, VHHP $12M), applications due April 15, 2025; a separate $96M Disaster Impacted Areas NOFA and a Tribal MFSN. Round 4 (2026 MHP Gap Funding NOFA): $240M for construction-ready projects with an existing HCD award that lack bonds/4% credits, due June 5, 2026.",
+      "per_unit_cap": "Program-specific: $250,000 base per unit (MHP, SHMHP, TOD), $300,000 (VHHP, Joe Serna), IIG grant table by bedroom and AMI.",
+      "affordability_requirement": "At or below 60% AMI for assisted units (80% AMI for Joe Serna). 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Window closed as of 2026-11-06. Governor's reorganization (effective July 1, 2026) consolidates HCD multifamily programs and CalHFA MIP under HDFC with a single application and unified scoring; next NOFA timing unannounced. Check hcd.ca.gov/funding/supernofa and housing.ca.gov.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "One application for MHP, IIG, VHHP, Joe Serna (and SHMHP/TOD when funded). Universal scoring: lowest income levels, state policy priorities, experience, readiness, infill/amenities, cost containment, tiebreaker on public leverage. Awards sized to fill the gap after tax credit equity and permanent debt. Projects then compete at CDLAC/CTCAC; an HCD award unlocks CDLAC ELI/VLI set-aside eligibility. Emerging developer joint applications get a $25,000 per unit bonus. Gap NOFA excluded projects that already closed construction financing.",
+      "source_url": "https://www.hcd.ca.gov/funding/supernofa",
+      "record_id": "55662b05e1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Infill Infrastructure Grant Program (IIG-2007 and IIG-2019)",
+      "administering_agency": "California Department of Housing and Community Development (HCD) / HDFC",
+      "funding_type": "grant",
+      "typical_award_size": "2025 Super NOFA Round 3: $20M. Qualifying Infill Project grants minimum $1M urban ($500,000 rural), maximum $10M per project under that NOFA. Grant sized by unit count, bedroom mix, affordability and density (net density multiplier up to 1.52 at 105+ units per acre).",
+      "per_unit_cap": "Per QIP unit table (Round 3): 60% AMI rental $41,000 (0-bdrm) to $71,100 (4-bdrm); 50% AMI $47,400 to $79,000; 30% AMI $55,300 to $90,000; unrestricted units $4,700 to $23,700.",
+      "affordability_requirement": "Infill projects with affordable units; higher grants for deeper affordability. 55-year affordability covenant recorded against the site.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Closed as of 2026-11-06; last funded in 2025 Super NOFA Round 3 (due April 15, 2025) and included in the 2026 MHP Gap Funding NOFA for projects with prior awards. Next round via HDFC unified NOFA, timing unannounced.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Funds capital improvement projects (infrastructure, factory-built housing components, adaptive reuse) tied to a specific residential or mixed-use infill development, not vertical construction. Stacks on top of MHP or AHSC in the same Super NOFA application and reduces the basis the tax credits must cover. Catalytic Qualifying Infill Area solicitations (for local governments) are closed. Grant is public funds for prevailing wage purposes.",
+      "source_url": "https://www.hcd.ca.gov/funding/iig",
+      "record_id": "49093ad37a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Veterans Housing and Homelessness Prevention Program (VHHP)",
+      "administering_agency": "California Department of Housing and Community Development (HCD) with CalVet / HDFC",
+      "funding_type": "loan",
+      "typical_award_size": "Prop 41 (2014) authorized $600M; 2025 Super NOFA Round 3 offered only $12M, indicating the bond authority is nearly exhausted. Loan terms match MHP (55-year, 3% simple, 0.42% payments).",
+      "per_unit_cap": "$300,000 base per assisted unit (plus $25,000 bonuses available under Super NOFA).",
+      "affordability_requirement": "Assisted units at or below 60% AMI for veterans and their families; at least 50% of funds must serve extremely low-income veteran households, and 60% of those ELI units must be supportive housing.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Closed as of 2026-11-06; funded through the Super NOFA when dollars remain. Remaining Prop 41 authority not stated on the HCD page; confirm with HCDVets@hcd.ca.gov before underwriting.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Applied for inside the Super NOFA with MHP. Pairs with HUD-VASH vouchers and Homekey+ veteran units; CTCAC counts VHHP capital toward the nonprofit set-aside homeless priority. Veteran definition includes other-than-honorable discharges. Little money left; Homekey+ ($1.03B for veteran PSH) is now the larger state veteran capital source.",
+      "source_url": "https://www.hcd.ca.gov/funding/vhhp",
+      "record_id": "56d0aaed76",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Joe Serna, Jr. Farmworker Housing Grant Program (FWHG)",
+      "administering_agency": "California Department of Housing and Community Development (HCD) / HDFC",
+      "funding_type": "loan",
+      "typical_award_size": "2025 Super NOFA Round 3: $120M. Multifamily rental: deferred-payment loans or forgivable-loan grants, including construction financing; loan terms follow MHP.",
+      "per_unit_cap": "$300,000 base per assisted unit.",
+      "affordability_requirement": "Households deriving 50% or more of income from agricultural employment; units at or below 80% AMI (units above 60% AMI funded at 60% AMI limits). 55-year restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Closed as of 2026-11-06; next round via HDFC unified NOFA, timing unannounced. Homeownership component funded via the Homeownership Super NOFA.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "May be combined with federal and state farmworker tax credits and USDA 514/516. Proposed CTCAC 2027 rules would route the $25M enhanced farmworker state credits through Serna awards beginning 2028. Relevant for Napa, Sonoma, Yolo, Solano and San Joaquin projects. Only HCD program allowing construction-period financing.",
+      "source_url": "https://www.hcd.ca.gov/funding/fwhg",
+      "record_id": "7da2b751fe",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Homekey+",
+      "administering_agency": "California Department of Housing and Community Development (HCD) with CalVet",
+      "funding_type": "grant",
+      "typical_award_size": "Approximately $2.145B (Prop 1 Behavioral Health Infrastructure Bond plus HHAP supplemental): $1.033B for veteran-serving PSH, $1.11B for other target populations. Baseline $200,000 per door (acquisition plus rehab or new construction), plus up to $100,000 per door with 1:1 local capital match (1:2 for veteran units, i.e., $50,000 match earns $100,000). Operating grants per door also available with match. Awards as of July 2, 2026 listed on the HCD awardee list; March 2026 awards totaled $131.8M for eight projects.",
+      "per_unit_cap": "$200,000 per door baseline; up to $300,000 per door with match; new construction cost containment caps raised March 27, 2026",
+      "affordability_requirement": "Permanent supportive housing for people experiencing or at risk of homelessness with a behavioral health challenge; veteran and youth allocations. Applicants must coordinate with county behavioral health departments.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Over the counter until funds are exhausted (NOFA amended March 27, 2026). Applications after Aug 7, 2025 prioritized by veteran units; unrequested regional allocations moved to a discretionary reserve Oct 8, 2025. Pre-application consultation required via HCD Connect.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Eligible applicants are cities, counties, tribes and public entities, with developers as co-applicants (an LP may be co-applicant). March 2026 amendments allow projects with pending or future CTCAC/CDLAC applications (six months to secure awards), HCD portfolio projects with expiring regulatory agreements adding veteran units, and gap funding for stalled projects. Stacks with 4% credits, MHP and local funds; Homekey funding counts toward CTCAC homeless priority. NOFA Section 509 requires certification of state prevailing wage compliance or exemption under Gov. Code 65913.4(a)(9); statutory CEQA exemption available. Tribal Homekey+ ($121M) is separate.",
+      "source_url": "https://www.hcd.ca.gov/grants-and-funding/homekey-plus",
+      "record_id": "bcdc6c3872",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "new construction",
+        "supportive housing",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-03-27",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "National Housing Trust Fund (NHTF), state allocation",
+      "administering_agency": "California Department of Housing and Community Development (HCD)",
+      "funding_type": "loan",
+      "typical_award_size": "Annual federal allocation (varies); deferred-payment or forgivable loans. Most recent: 2024-25 Project Solicitation (amended) with awards posted.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Extremely low-income households (30% AMI); 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Closed as of 2026-11-06; a 2025-26 or 2026-27 solicitation has not been posted. Monitor the HCD NHTF page.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Federal NHTF itself does not carry Davis-Bacon, but the HCD loan is state public funds, so state prevailing wage applies. Pairs with 9% credits for deep ELI targeting; HCD has historically run NHTF through HHC Article I and stand-alone solicitations rather than the Super NOFA.",
+      "source_url": "https://www.hcd.ca.gov/funding/nhtf",
+      "record_id": "da781cf430",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Affordable Housing and Sustainable Communities (AHSC)",
+      "administering_agency": "Strategic Growth Council (SGC) with HCD implementing",
+      "funding_type": "loan",
+      "typical_award_size": "Round 10 NOFA (March 4, 2026): approximately $750M (20% of Cap-and-Invest auction proceeds through 2030). Per project $10M minimum, $50M maximum; AHD loans plus HRI grants must be at least 50% of the request and no more than $35M; STI/PGM grants up to $15M; $100M per recipient per round.",
+      "per_unit_cap": "Rental AHD loans: $250,000 base per assisted unit (inclusive of prior HCD loans). HRI grants $35,000 per residential unit or $50,000 per restricted unit.",
+      "affordability_requirement": "At least 20% of AHD units affordable; rental AHDs must average 60% AMI or below across restricted units; 55-year covenant. Density minimums (TOD 30 units/acre or FAR 2.0; ICP lower; RIPA lowest). Three project area types: Transit Oriented Development, Integrated Connectivity Project, Rural Innovation Project Area.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Round 10 closed May 4, 2026; awards to be adopted at the Dec 16, 2026 Council meeting. Round 11 guidelines expected late 2026 or early 2027 with a spring 2027 application deadline (Round 10 pattern: draft guidelines Dec 19, NOFA March 4, due May 4).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Joint application by the developer and a public agency (city, county or transit agency) covering housing (AHD loan), housing-related infrastructure, sustainable transportation infrastructure and programs. AHD loan terms follow MHP (55-year, 3% simple, residual receipts). Guidelines state AHSC funds are public funding subject to the State Prevailing Wage Law. Concurrent 4% AHSC and 9% CTCAC applications prohibited; one switch between 4% and 9% allowed. An AHSC award qualifies the project for the CDLAC ELI/VLI set-aside. Commonly stacked: 4% credits + CDLAC bonds + AHSC + MIP or MHP + local funds. Also stacks with IIG (both infrastructure), but HCD stacking limits apply across AHD and HRI funds. West Sacramento and Sacramento projects have been frequent winners.",
+      "source_url": "https://sgc.ca.gov/grant-programs/ahsc/",
+      "record_id": "4cdfecda64",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-05-04",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Transformative Climate Communities (TCC) Round 6",
+      "administering_agency": "Strategic Growth Council (SGC)",
+      "funding_type": "grant",
+      "typical_award_size": "Round 6 funded by Prop 4 (2024 Climate Bond); amount not stated on the program page. Implementation grants for place-based plans in disadvantaged communities that can include affordable housing capital as one project component.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing components must be affordable per TCC guidelines; project must sit within a TCC-eligible disadvantaged community boundary.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Round 6 applications closed Sept 30, 2026 (implementation pre-proposals June 30, 2026); awards expected Spring 2027. Future rounds depend on Prop 4 appropriations.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Community-led collaborative applications (lead applicant typically a city or county) rather than developer-driven. Past awards included Stockton and Sacramento area communities, so San Joaquin and Sacramento sites may qualify. Housing funds within TCC follow AHSC-like terms; state grant funds are generally public funds for prevailing wage, verify in Round 6 guidelines.",
+      "source_url": "https://sgc.ca.gov/grant-programs/tcc/",
+      "record_id": "135ca90b14",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-06-30",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

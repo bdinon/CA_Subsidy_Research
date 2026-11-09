@@ -1,0 +1,85 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "HHAP Round 6 local NOFA and Continuum of Care CA-511 (County and SJCoC allocations)",
+      "administering_agency": "San Joaquin County Human Services Agency, Neighborhood Preservation Division, with the San Joaquin Continuum of Care",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 allocations: County of San Joaquin $5,399,638.58 and San Joaquin Continuum of Care $5,766,906.84 (City of Stockton receives its own share; the regional HHAP-6 plan totals $22,698,332.21). Regional HHAP-6 budget: permanent housing 18% (rapid rehousing and services, $2,042,849.90 each for the County and CoC lines), homeless prevention $4.1 million, interim housing $10.4 million, youth set-aside $2.27 million, administration $1.8 million, capital $0. HHAP-5 local awards: 30 agreements totaling $6,430,416.36 approved March 3, 2026 for March 3, 2026 through June 30, 2028, plus $1,000,000 HHAP-5 to the SJ BeWell Tiny Home Village.",
+      "per_unit_cap": "Not applicable; no capital line in HHAP-6.",
+      "affordability_requirement": "Housing First compliant projects serving people experiencing homelessness; HHAP-6 priorities are sustaining existing permanent and interim housing investments. Applicants must be 501(c)(3) nonprofits, tribes or public agencies.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 local NOFA released October 19, 2026; applications due 2:00 pm Friday, November 20, 2026 by email to fiscalneighborhood@sjgov.org or in person at 400 E. Main Street, Stockton.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). HHAP has been used as a small capital and operating piece in County-area PSH (for example $1,000,000 in Lodi Commons and $1,000,000 HHAP-5 for the BeWell tiny home village), but the HHAP-6 regional plan budgets $0 for capital and shifts money to sustaining operations, so developers should treat HHAP as an operating or services source for existing PSH rather than a construction source. The 2025 Regional Homeless Action Plan reports 240 PSH units built in the past five years and 200 plus in the pipeline, and a shelter inventory growing from 1,346 to 1,934 beds by the end of 2026. HHAP rounds 1 through 6 brought roughly $82.7 million to the region. HUD CoC Program funds flow through the SJCoC annual competition (2024 announcement posted on sjchsa.org); Stockton, the County and the CoC file a joint HHAP action plan.",
+      "source_url": "https://www.sjchsa.org/Portals/0/resources/neighborhood-preservation/home/HHAP6%20Application%20FINAL%2010.27.26.pdf",
+      "record_id": "247db77da2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent housing rental subsidies and services",
+        "rapid rehousing",
+        "interim housing and navigation center operations",
+        "homeless prevention",
+        "operating support for existing supportive housing"
+      ],
+      "next_deadline_date": "2026-11-20",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Stockton",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Incentives and Density Bonus Provisions, Stockton Municipal Code Chapter 16.40 (State bonus to 50%, Tier-1 to 75%, Tier-2 to 100%; Ord. 2020-12-01-1502, 2022-07-12-1601-02, 2025-06-03-1601)",
+      "administering_agency": "City of Stockton Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement and entitlement incentive, not a subsidy. State Density Bonus up to 50%; Tier-1 supplemental bonus 50% to 75% with 30 eligibility points; Tier-2 76% to 100% with 50 points. Points: one per additional percent of very low or low income units, LEED 15 to 30, CALGreen Tier I up to 20, 10% on-site renewable 15, adaptive reuse of historic buildings 20, plus other community benefits. Projects not qualifying for state concessions get three local concessions: setback reduction up to 25%, parking reductions of 25% to 100% scaled to the share of lower income units, lot coverage or FAR increases of 5% to 20%, lot coverage up to 25%, height plus 12 feet or 10%.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State law thresholds (5% very low, 10% low, 100% affordable, senior, moderate for-sale) for the base bonus; supplemental tiers require additional affordable units or community benefits scored under 16.40.050; density bonus housing agreement recorded per 16.40.070.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "mixed-use",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement. Title 16 was amended June 3, 2025 and again in 2025-2026 (Chapter 16.20, 16.80.310, 16.244.010) to implement the 2023-2031 Housing Element; check the current code before design.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Stockton's 100% bonus exceeds state law and was one of HCD's stated reasons for the Prohousing Designation. Pair with the PFF exemption and the Housing NOFA; the Housing Element also allows duplexes by right in single-family zones. Parking can go to zero for projects with 75% or more lower income units, which matters for downtown and transit sites. Read from the zoneomics code mirror of Title 16 Division 3 because the City's code publisher blocks scripts.",
+      "source_url": "https://www.zoneomics.com/code/stockton-CA/chapter_3",
+      "record_id": "3f9f62c948",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use",
+        "adaptive reuse",
+        "substantial rehabilitation of multifamily"
+      ],
+      "next_deadline_date": "2025-06-03",
+      "deadline_check": "past_date",
+      "link_status": "blocked"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption processing, Sacramento County Assessor",
+      "administering_agency": "Sacramento County Assessor, Institutional Exemptions Section (BOE issues the Organizational Clearance Certificate)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Exemption of the qualifying low-income share of assessed value from the roughly 1.1% to 1.2% total property tax rate in Sacramento County (plus any direct levies that remain). Annual filing with the Assessor.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per state law: lower-income units (80% AMI, 140% continuation rule) under LIHTC or a recorded regulatory agreement; limited partnerships need a nonprofit or eligible LLC managing general partner with an OCC and a Supplemental Clearance Certificate.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Annual claims due February 15 (next Feb 15, 2027; postmark next business day if a weekend or holiday). First-time filers submit BOE-267 with the BOE-277 OCC and the low-income supplemental affidavit (BOE-267-L or 267-L1 for partnerships). Contact (916) 875-0720 or ASR-InstitutionalExemptions@saccounty.gov.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Sacramento assessor applies the statewide rules (see Pass 1 BOE record); no county-specific abatement JPA exists. SHRA bond policy 9.1.11 additionally requires the nonprofit owner to have material day-to-day involvement (services, management or maintenance) for bond-financed projects claiming the exemption, which aligns with BOE managing-GP scrutiny. File the construction-period claim as soon as the OCC is issued and the site is under development to avoid a year of taxes.",
+      "source_url": "https://assessor.saccounty.gov/content/assessor/us/en/exemptions/nonprofit-exemptions.html",
+      "record_id": "74e5c6e1ab",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Density bonus (City Code Chapter 17.704) and ministerial infill housing permits (Chapter 17.860 and SB 35/SB 423)",
+      "administering_agency": "City of Sacramento Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus law as implemented in Chapter 17.704 (no local enhancement beyond state minimums identified): e.g., 5% very low income units earns a 20% bonus plus one concession and unlimited waivers; up to 50% bonus and the 100% affordable 80% bonus per Government Code 65915. City ministerial permit (CDD-0428, adopted Aug 27, 2020) covers 2 to 200 unit residential or mixed-use infill projects meeting objective standards, no affordability or prevailing wage requirement, no CEQA, 60 to 90 day review; the state SB 35 permit (CDD-0427) requires 10% lower-income units at 11 or more units. Density bonus requests can be processed ministerially with either permit.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Per state law for the bonus; none for the City ministerial permit.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling at entitlement. Parking: none required within a quarter mile of light rail, 50% reduction within a half mile.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Sacramento is the state's first Prohousing jurisdiction (renewed Dec 23, 2025 with the top score) and already has high base densities, so the bonus is mostly used for height, parking and setback waivers rather than unit count. Combining the City ministerial permit with a density bonus avoids hearings and CEQA for 100% affordable infill without the SB 35 prevailing wage trigger. Missing Middle zoning (2024) allows multi-unit on former single-family lots citywide.",
+      "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/housing-development-kit/housing-development-incentives/help-me-build-more-housing-units-or-tailor-my-project-to-my-site",
+      "record_id": "a5bba5a1fa",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

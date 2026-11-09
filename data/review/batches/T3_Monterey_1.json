@@ -1,0 +1,85 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29: housing interventions and capital development",
+      "administering_agency": "Monterey County Health Department, Behavioral Health Bureau",
+      "funding_type": "grant",
+      "typical_award_size": "Three-Year Integrated Plan and budget approved by the Board in June 2026 (Legistar file 26-552): Housing Interventions expenditures $9,025,327 (FY 2026-27), $9,296,089 (FY 2027-28) and $9,574,972 (FY 2028-29); capital development projects $1,130,582 rising to $1,199,435 a year (12.5% of the component); permanent rental subsidies $915,771 a year and interim rental subsidies $305,257 a year plus operating subsidies and a housing flex pool; 51.9% of housing funds dedicated to chronically homeless people; about 1,345 adults and 61 youth served a year.",
+      "per_unit_cap": "Not published; BHSA capital limited to 25% of the component (County planned 12.5%).",
+      "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder; at least half of housing funds for chronically homeless people.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; the Behavioral Health Bureau programs capital and subsidies through contracts. The June 2026 Board item also reported 22 prevention providers losing MHSA PEI funding under the BHSA restructuring.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. Monterey is budgeting roughly $1.1 million a year of BHSA capital, enough for a small PSH gap or acquisition contribution, plus about $900,000 a year of permanent rental subsidies that can be project-based; pair with HHAP-6 operating money and HACM vouchers. Source is the June 2026 Integrated Plan approval item (Legistar file 26-552) with the budget attachment. Funding type set to grant because the Integrated Plan budget funds housing capital development ($1,130,582 in FY 2026-27, 12.5% of the Housing Interventions component) and rental, operating and bundled subsidies (rental subsidies $915,771 in FY 2026-27 rising to $971,542 in FY 2028-29).",
+      "source_url": "https://monterey.legistar.com/LegislationDetail.aspx?ID=65759&GUID=00E0137A-EBD5-4BAA-90FD-AB36F812A89A",
+      "record_id": "aeb9f30acb",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing capital (about $1.1 million a year)",
+        "project-based and tenant-based rental subsidies",
+        "operating subsidies and flex pool units",
+        "interim housing subsidies"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Marina",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Overlay fee waivers and deferrals (Municipal Code Section 17.48.130, Ordinances 2023-01 and 2023-12) and state density bonus adopted by reference (Section 17.48.040, Ordinance 2023-07)",
+      "administering_agency": "City of Marina Community Development Department, Planning Services Division",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Projects on Affordable Housing Overlay (AHO) sites mapped for Housing Element opportunity sites receive ministerial administrative approval by the Community Development Director (no hearing), AHO development standards instead of the base zone (42-foot height, 48 feet on Reservation Road and Del Monte Boulevard), and one of three incentives: waived, reduced or deferred planning, plan check or construction permit fees; deferral of City construction and impact fees to completion or occupancy; or payment of construction and impact fees over twelve months or longer after completion. Section 17.48.040 adopts Government Code 65915 to 65918 by reference and caps bonuses, concessions, waivers and parking at the state maximums unless a development agreement provides more. Approvals lapse after two years with a one-year extension.",
+      "per_unit_cap": "Not applicable; fee relief sized to the project's actual City fees.",
+      "affordability_requirement": "AHO projects must meet the overlay's affordability requirements (very low and low income emphasis) and the inclusionary ratios in Table 17.48.030-1; density bonus target units restricted 30 years (55 years when also counted as inclusionary units).",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; ministerial on AHO-mapped sites. Housing Element Program 2.3 committed the City to evaluate its incentives by end of 2024 and strengthen them by end of 2026 if 200 lower income units are not on track.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The AHO is the only fee relief program found among Monterey County priority cities and was cited in Marina's August 2025 Prohousing Designation application (Enhancement Category 3). Fee deferral to occupancy helps construction-period cash flow on tax credit deals such as Lightfighter Village (EAH and Veterans Transition Center, 71 units) and future Dunes and Downtown Marina AHO sites. It does not waive school, water (Marina Coast Water District) or Fort Ord Reuse Authority successor fees. Code read on the zoneomics mirror (Title 17, Chapter 17.48) because marina.municipal.codes returns 403.",
+      "source_url": "https://www.zoneomics.com/code/marina-CA/chapter_5",
+      "record_id": "1ef56a5e59",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "100% affordable projects",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program-specific rule found. Labor Code 1720(b)(4) treats fees that are reduced, waived or forgiven by a political subdivision as public funds, but 1720(c)(3) excludes de minimis subsidies (under $600,000 and under 2 percent of total project cost) and 1720 does not address fee deferrals; the outcome depends on the size of the waiver and other project funding. Marina Code Chapter 17.48 (zoneomics mirror) contains no prevailing wage provision.",
+      "audit_note": "Prevailing wage left unclear: only basis is the general Labor Code 1720(b)(4) public-funds definition, with outcome depending on 1720(c)(3) de minimis test and project facts.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

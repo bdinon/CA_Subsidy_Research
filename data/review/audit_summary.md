@@ -1,0 +1,150 @@
+# Audit Summary (Pass 5)
+
+Date: November 8, 2026. Database: 852 records. Records audited: 465.
+
+## Results by tier
+
+| Tier | Scope | Records | Confirmed | Corrected | Unverifiable |
+|---|---|---|---|---|---|
+| 1 | needs_confirmation, dead or moved links, funding_type other, ambiguous reclass | 195 | 18 | 124 | 53 |
+| 2 | Past deadlines on live money programs | 106 | 0 | 96 | 10 |
+| 3 | Prevailing wage unclear on live money programs | 77 | 0 | 28 | 49 |
+| 4 | Spot check of records marked verified | 87 | 73 | 12 | 2 |
+
+No patch lines were rejected in any tier.
+
+Database after the audit:
+
+- Confidence: 787 verified, 65 needs_confirmation (was 730 and 122 before Tier 1).
+- Funding type "other": 7 records, each with a note that nothing is deployable (was 41).
+- Past deadlines: 56 records (was 182 before the audit).
+- Prevailing wage: 361 true, 335 false, 156 unclear.
+
+## Spot-check correction rate
+
+12 of 85 readable records needed a material correction: **14 percent**. Two records could not be read and are excluded.
+
+| Level | Corrected | Checked |
+|---|---|---|
+| County | 7 | 23 |
+| Private | 3 | 24 |
+| State | 1 | 11 |
+| City | 1 | 29 |
+
+Kinds of error found:
+
+- **Prevailing wage only (3 records):** Alameda Continuum of Care, Mendocino surplus land and Orange County MHSA capital. Without these, the rate is 9 of 85, or 10.6 percent.
+- **Income limits or set-asides (5 records):** state TOD program (60 percent AMI instead of 80), San Mateo County PLHA (an owner-occupied set-aside that does not exist), Capital Impact Partners (an AMI test the lender does not state), SLO Housing Trust Fund (set-aside described as extremely low income instead of special needs), and Anaheim (record said no inclusionary ordinance; one exists).
+- **Award or availability (3 records):** San Joaquin HHAP local amounts overstated about four times, Fresno County HOME-ARP capital shown as available when fully committed, and El Dorado welfare exemption cap misstated.
+- **Eligibility (1 record):** Community Vision lends to social enterprises as well as nonprofits.
+
+County records had the highest error rate. City code records, mostly density bonus and inclusionary ordinances, were the most reliable.
+
+## Where corrections clustered (all tiers)
+
+- By level: 126 county, 107 city, 19 state, 8 private.
+- By county, the most corrected records: San Diego 16, Santa Clara 15, Orange 14, Monterey 13, San Benito 12, San Joaquin 11, Ventura 11, Fresno 10, Sacramento 10. Statewide and regional records had 19.
+
+## Known gaps
+
+- **Missing prevailing wage citations:** 634 records have prevailing wage true or false with no cited rule. No tier covered them. Several spot checks found true values that rest only on the general Labor Code 1720(b) definition, which the Tier 3 rule treats as unclear.
+- **Blocked city sites:** about 40 Tier 1 records stay needs_confirmation because the city site blocks automated access.
+- **Fields patches cannot change:** program_name and administering_agency. Records needing a manual edit include the Manteca and Richmond names, Nevada County Assessor phone, South Lake Tahoe and Roseville contacts, and the Sonoma County density bonus phone.
+- **Sources that are mirrors or news:**
+  - **Code mirrors:** some verified records rest on third-party code mirrors (zoneomics, gocodebook) because the official code host blocks access. Examples are Irvine, Corona and Los Banos.
+  - **News only:** one verified record, the Ventura County inclusionary postponement, rests on a news article.
+- **Possible new records:** Anaheim inclusionary ordinance (Chapter 17.40) and the San Joaquin County HHAP-6 NOFA of October 27, 2026.
+
+## Tier 4 round 2 (November 9, 2026)
+
+Sample: 130 verified records not audited before, county records at 50 percent and city at 25 percent (`make_worklist.py --sample-rate 0.25 --county-weight 2 --fresh`). State and private records were all checked in round 1.
+
+| Result | Records |
+|---|---|
+| Confirmed | 109 |
+| Corrected | 19 |
+| Unverifiable | 2 |
+
+Correction rate: 19 of 128, **15 percent**. Two corrections were prevailing wage only (OCHA and San Mateo PBVs, false to true under 24 CFR 983.153(c)); without them, 13 percent.
+
+| Level | Corrected | Checked |
+|---|---|---|
+| County | 12 | 65 |
+| City | 7 | 63 |
+
+Both rounds combined: 31 of 213, **14.6 percent**. County 19 of 88 (22 percent), city 8 of 92 (9 percent).
+
+Most material round 2 corrections: Hayward inclusionary terms (2023 amendment), Contra Costa HOME per-unit limits and PLHA five-year amount, Nevada County Homekey+ and Prohousing Incentive Program reopened, Orange County PLHA uses (no rental development), San Diego inclusionary thresholds, SJRHF per-unit caps, Sunnyvale CDBG cycle, Santa Clara fee fund balance (about $5.5M uncommitted, not $10.4M), Thousand Oaks density bonus incentive scope.
+
+Other changes:
+
+- 22 records dropped from verified to needs_confirmation, most because only a code mirror could be read (source-quality rule added for round 2).
+- Normalizer bug fixed: "motel" no longer maps to the interim housing tag. Nine records corrected by patch FIX_motel_tag (not counted in the rate).
+- Database now: 765 verified, 87 needs_confirmation; 53 past deadlines; prevailing wage 364 true, 333 false, 155 unclear; 616 true or false values still have no cited basis.
+
+## Tier 4 round 3: all remaining county records (November 9, 2026)
+
+Scope: the 65 county-level verified records no tier had touched (`make_worklist.py --fresh --levels county --sample-rate 1.0`). Every county-level verified record has now been audited.
+
+| Result | Records |
+|---|---|
+| Confirmed | 44 |
+| Corrected | 21 |
+| Unverifiable | 0 |
+
+Correction rate: 21 of 65, **32 percent**. Of the 21, 2 were prevailing wage only (HACA and HACCC PBVs, false to true under 24 CFR 983.153(c)) and 4 were project type tags only. Excluding both: 15 of 65, 23 percent.
+
+County records across all three Tier 4 rounds: 40 of 153, **26 percent**. All Tier 4 rounds: 52 of 278, 18.7 percent.
+
+Repeat error patterns:
+
+- **Welfare exemption $20M cap** misdescribed as a cap on limited partnership projects (Rev. and Tax. Code 214(g)(1)(C) caps claims that qualify only on the 90 percent occupancy test). Fixed in Contra Costa, Orange, San Mateo, Santa Clara and Yolo. Alameda (ab54448b8d) and Marin (bca5bdb76f) still carry the old wording but were marked confirmed; they need the same fix.
+- **PBV prevailing wage false** where new construction is eligible. Fixed in Alameda, Contra Costa, Orange and San Mateo. Nine other PBV records (Sacramento County, Solano County, Marin, Fairfield, Vacaville, Vallejo, Suisun City, Roseville) are still false without a 983.153 analysis.
+- **Density bonus records tagged homeownership only** when the ordinance covers rental (Fresno, San Benito, Santa Cruz).
+- **Award figures from older documents**: Riverside gap loan range, Solano trust fund (Tabor Commons approved at different terms), Santa Cruz PBV scoring.
+
+Database now: 762 verified, 90 needs_confirmation; prevailing wage 365 true, 331 false, 156 unclear; 604 true or false values have no cited basis.
+
+## Prevailing wage citation pass and targeted fixes (November 9, 2026)
+
+Every record with prevailing wage true or false now cites a rule. 607 patch lines applied, 0 rejected (change log `audit_changes_20261109_101436.csv`).
+
+| Value change | Records |
+|---|---|
+| true to unclear | 175 |
+| false to unclear | 14 |
+| false to true | 8 (PBV records under 24 CFR 983.153(c)) |
+| true to false | 6 (CoC and HHAP or BHSA spent on operations only) |
+| unchanged, rule now cited | about 400 |
+
+How values were set:
+
+- **Mechanical, by program type (247 records):** density bonus, inclusionary and other requirements (false, Labor Code 1720(a)(1): no public funds); HOME and CDBG (true at 12+ HOME units or 8+ CDBG units); welfare exemption (false, pays no construction cost).
+- **Researched (349 records):** program NOFA, guidelines, ordinances and federal or state rules by name.
+- **Rules applied consistently:** PLHA formula, BHSA, LHTF match, Surplus Land Act and housing successor funds state no wage rule of their own, so they are unclear unless a local rule exists. Fee waivers and deferrals are unclear (1720(b)(4)). Density bonus records stay false with any SB 35 or AB 2011 streamlining path stated as a condition. Private lender capital is false. Federal and state LIHTC are false (Duncan, 2008; DIR PW 2006-001).
+- **Programs with their own rule (true):** MHP and programs using its 7316(e), Homekey and Homekey+, IIG (infrastructure only), Oakland, Berkeley and Hayward loan programs, San Diego County NOFA 2026-03, Santa Clara County loan funds, Fresno Section 108.
+
+Targeted fixes: Alameda and Marin welfare exemption cap wording corrected; eight PBV records set to true under 983.153(c) (Roseville kept true by user decision; its awards are usually 8 units, below the threshold).
+
+Database now: prevailing wage 192 true, 315 false, 345 unclear. No true or false value lacks a basis. 91 unclear values have no basis text.
+
+Follow-ups from this pass:
+
+- Santa Clara County "true" values rest on the County wage policy as quoted in a 2017 Housing Trust Silicon Valley document; County pages are blocked.
+- Santa Ana housing funds may carry a Community Workforce Agreement; official text could not be read.
+- Marin, Fremont and Walnut Creek trust funds went to unclear only because their sites block access.
+- HACSM and HACSJ development funds are true on 42 U.S.C. 1437j(a), applied by the agent without a HUD document confirming it.
+
+## Recommendation
+
+The wider sample did not bring the rate down: 14.6 percent across 213 records, so round 1 was not a small-sample fluke. City code records are near the 10 percent line; county program records are about 22 percent. Before relying on the database for deal screening:
+
+1. County audit, welfare exemption fixes, PBV values and the prevailing wage citation pass are done.
+2. Before relying on a "true" or "unclear" prevailing wage value for a live deal, read the program's current NOFA or loan terms; most "unclear" values turn on 1720(c)(5)(E) and project facts.
+3. For any program that matters to a live deal, open the source page before relying on award size, AMI or deadline.
+
+## Files
+
+- Change logs: `data/review/audit_changes_*.csv` (one per tier).
+- Applied patches: `data/review/audit_patches/applied/`.
+- Backups before each tier: `data/backups/programs_before_audit_*.json`.

@@ -1,0 +1,1152 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rohnert Park",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Rohnert Park Inclusionary Housing Ordinance, Municipal Code Section 17.08.010 (re-adopted by Ordinance 991, January 27, 2026): for-sale inclusionary units, Housing In-Lieu Fee and Rental Affordable Housing Fee",
+      "administering_agency": "City of Rohnert Park Development Services Department (Planning and Building)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. For-sale projects over 50 units: 15% of units affordable, half low income (80% AMI) and half moderate income (120% AMI), with 99-year resale restrictions; for-sale projects of 50 units or fewer may instead pay the Affordable Housing In-Lieu Fee of $15,891.95 per unit (Development Impact Fees handout revised July 16, 2026). All new rental projects pay the Rental Affordable Housing Fee of $4.11 per square foot at building permit (first adopted at $3.23 per square foot; adjusted each July 1 by the ENR-CCI San Francisco index); market-rate rental projects have no on-site unit requirement since the 2019 amendment. Fee revenue goes to a segregated affordable housing account used for acquisition, construction and rehabilitation of affordable housing, subsidies, and assistance to other entities, with an annual public report. Developers providing all required units at median, low or very low income get an extra 5% density bonus; alternatives (land donation, transferable inclusionary credits, off-site units, second units for up to half the requirement) need Council approval.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "For-sale inclusionary units: 99-year minimum agreements; rental projects pay the fee instead. Exemptions include projects with vested rights, fire or disaster rebuilds of the same size, and projects whose development agreement sets alternative affordable housing terms.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fees adjust every July 1 (ENR-CCI); planning and building application fees are being restudied for a July 1, 2027 update. Ordinance 991 (comprehensive Title 17 update) was adopted January 27, 2026. Large specific plan areas (University District, Southeast Specific Plan, SOMO Village, Downtown) are governed by development agreements that set their own affordable housing terms (University District and SESP at 15%; downtown CenterCal project exempted from the rental fee in exchange for pursuing 15 affordable units).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The Rental Affordable Housing Fee is Rohnert Park's main local housing revenue source since the 2011 loss of redevelopment; proceeds (budget Fund 4220) plus in-lieu fees fund gap assistance negotiated case by case (see Rohnert Park affordable housing funds record). A 100% affordable rental project would owe the $4.11 per square foot fee unless waived through a development agreement or the Section 17.08.010(I) adjustment process, so request a waiver early. Rohnert Park's for-sale requirement is lower than City of Sonoma's 25% and Petaluma's 15% (which also covers rentals). Ordinance text read from the zoneomics mirror of Title 17; fee amounts from the City's Development Impact Fees handout on rpcity.ca.gov (the former rpcity.org pages redirect and return 404).",
+      "source_url": "https://www.rpcity.ca.gov/DocumentCenter/View/188/Development-Fees-Handout-PDF",
+      "record_id": "ecd822cc32",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental projects (fee)",
+        "for-sale subdivisions (compliance)",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": "2027-07-01",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: fee handout confirms Rental Affordable Housing Fee $4.11 per square foot and in-lieu fee $15,891.95 per unit for for-sale projects of 50 units or fewer, both ENR-CCI adjusted July 1; zoneomics Title 17 text confirms 15% for-sale requirement, half low (80% AMI) and half moderate (120% AMI), 99-year term and extra 5% density bonus. prevailing_wage_trigger false is uncited (regulatory requirement, not a subsidy).",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rohnert Park",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Rohnert Park Density Bonus (Municipal Code Section 17.08.020) and affordable housing concessions under Section 17.08.010(E)",
+      "administering_agency": "City of Rohnert Park Development Services Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory. Section 17.08.020 adopts state density bonus law (Government Code 65915 et seq.) by reference with no local increase beyond the state schedule; it sets application contents (project summary table, base and bonus unit counts, replacement housing compliance, parking) and ministerial processing without separate Planning Commission action. Section 17.08.010(E) lets the City Council grant for-sale projects exceeding the inclusionary requirement, and rental projects that include affordable units, additional concessions: an extra density bonus or incentives of equal financial value, waiver of City standards, direct financial assistance (loan or grant) from trust funds, and deferral of all City fees on market-rate units until certificate of occupancy. Projects making all inclusionary units affordable at median, low or very low income get an additional 5% density bonus.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State thresholds (5% very low, 10% low, 10% moderate for-sale, 100% affordable) for the state bonus; Council discretion for the local concessions, tied to on-site affordable units.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Submitted with the entitlement application; Council concessions requested through the project approval or a development agreement. Housing Element Program HO-3.B (City Density Bonus Program) and HO-2.E (Workforce Housing Overlay, to be presented by January 2026 and adopted by December 2026 if directed) may add local bonuses; status not confirmed.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Rohnert Park relies on development agreements and specific plans rather than a formal local bonus, so negotiate fee deferral, rental fee relief and gap funding together. The Workforce Housing Overlay would be the first local density tool beyond state law; check Planning for its status. The County's density bonus chapter applies only in unincorporated areas. Read from the zoneomics mirror of Title 17 (Ordinance 991, January 27, 2026 version).",
+      "source_url": "https://www.zoneomics.com/code/rohnert-park-CA/chapter_6",
+      "record_id": "46467d8acb",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "100% affordable rental"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sonoma",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "City of Sonoma Density Bonus and incentives, Development Code Sections 19.44.040 through 19.44.080 (Housing Element Program 19)",
+      "administering_agency": "City of Sonoma Planning Department and Planning Commission (reductions in standards); City Council for other incentives",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory. Adopts state density bonus law (Government Code 65915 through 65918) by reference; bonus percentage calculated under 65915(f), inclusionary units count toward the bonus, one bonus per project, Planning Commission may waive or modify standards to fit bonus units, incentives include reduced standards, mixed-use zoning, other cost-reducing incentives and state parking ratios. No local bonus beyond state law, though Housing Element Program 19 contemplates streamlined processing and a density bonus or incentives for projects not otherwise eligible under state law, and reduced parking for affordable and special needs housing (Program 18). Density bonus and inclusionary units are exempt from the Chapter 19.94 growth management allocation.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State thresholds; affordable units restricted in perpetuity under Section 19.44.060 (2016 amendments raised the term from 30 to 55 years and 2021-2023 amendments made it perpetual).",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Density bonus request filed with the first entitlement application; Housing Element Program 19 schedules an update of Chapter 19.44 to current state law (Program 15 code amendments noticed January 2026).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Past projects using the bonus include Firehouse Village and Maysonnave Apartments. In a city with low base densities and an urban growth boundary, the state bonus plus the 25% inclusionary rule is the main production tool; pair with the Affordable Housing Trust Fund and County sources. Read from the zoneomics mirror of the Sonoma Development Code (codepublishing.com and sonoma.municipal.codes return 403).",
+      "source_url": "https://www.zoneomics.com/code/sonoma-CA/chapter_4",
+      "record_id": "afedd8add8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "100% affordable rental"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sonoma",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "City of Sonoma Affordable Housing Fees for Nonresidential Development (Resolution 12-2020) and planned residential affordable housing impact fee (Housing Element 2023-2031 Program 8)",
+      "administering_agency": "City of Sonoma Planning Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Resolution 12-2020 established Affordable Housing Fees for Nonresidential Development, charged per gross square foot by nonresidential use type including additions; the rate schedule itself was not opened. The City's FY 2023-24 AB 1600 fee report shows the Affordable Housing Impact Fee account (732-00000-000-30120) collected $7,452.98 in FY 2023-24 with an ending balance of about $104,000 to $137,000 at June 30, 2024 (the report's summary and detail pages differ), no projects yet identified, and a plan to earmark funds in the FY 2025-26 budget. Housing Element Program 8 directs the City to adopt by December 2023 a per-square-foot impact fee on single-family homes and 2 to 4 unit projects and by December 2025 to expand the nonresidential fee after nexus studies. The FY 2023-24 report lists no residential affordable housing fee, so the residential fee had not been adopted as of June 30, 2024.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Fee proceeds go to the Affordable Housing Trust Fund (Resolution 18-2019) for low and moderate income housing development, preservation, and loan and grant programs.",
+      "eligible_project_types": [
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency. Confirm whether the residential impact fee (due December 2023) and the expanded nonresidential fee (due December 2025) were adopted and at what rates; the City's 2026 Fee Study and Master Fee Schedule Update is underway and may carry them.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Any new fee revenue would flow to the Affordable Housing Trust Fund (separate record) and expand the City's gap capacity, which is now mostly TOT-based. The County's Affordable Housing Program fees (county record) do not apply inside the city. Source is the adopted Housing Element on the City's ProudCity storage; Resolution 12-2020 and council fee resolutions could not be opened on the civicweb portal.",
+      "source_url": "https://storage.googleapis.com/proudcity/sonomaca/2024/10/Housing-Element-2023-2031-FINAL.pdf",
+      "record_id": "49c538f52d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "nonresidential development (compliance)",
+        "small residential projects (planned fee)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Sonoma County Housing Fund (Housing Trust Silicon Valley with the Santa Rosa Metro Chamber)",
+      "administering_agency": "Housing Trust Silicon Valley (CDFI; California Finance Lender License 6053356), 75 E. Santa Clara Street Suite 1350, San Jose; lending team Nick Friend (408-703-3837 ext. 223, nick@housingtrustsv.org) and Stephaney Kipple (ext. 244) (underwriting, approval and loan administration) with the Santa Rosa Metro Chamber (local capital raise)",
+      "funding_type": "loan",
+      "typical_award_size": "$10 million initiative launched after the 2017 Tubbs Fire; loans sized to project need for affordable housing throughout Sonoma County.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable housing serving low income populations in Sonoma County.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; contact the Housing Trust lending team.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Private local capital deployed through Housing Trust underwriting. Layer with the Sonoma County CDC combined NOFA (CFH, HOME, CDBG, LMIHAF), the RED Housing Fund and city housing trust funds in Santa Rosa, Petaluma and Rohnert Park. Loan terms follow Housing Trust short term loan products.",
+      "source_url": "https://housingtrustsv.org/programs/developer-funding/sonoma-county-housing-fund/",
+      "record_id": "45d9f65fa9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition",
+        "predevelopment",
+        "construction",
+        "new construction",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: page confirms $10 million fund, Tubbs Fire origin, Chamber raises local capital and Housing Trust underwrites and administers loans, and lists the same lending contacts. The page does not state eligible uses, income targets or loan terms; those record fields are general. prevailing_wage_trigger false is uncited.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "County General Fund and ARPA affordable housing NOFA and direct allocations",
+      "administering_agency": "Ventura County Executive Office, Community Development",
+      "funding_type": "loan",
+      "typical_award_size": "October 2022: $30.5 million of ARPA and General Fund committed to housing and homelessness, including $19,390,000 of direct allocations (Mesa Ojai $1,200,000; Casa Pacifica Stepping Stones $640,000; Vanguard and Knoll PSH, Oxnard and Ventura, $7,500,000; Ventura College student housing $3,000,000; Housing Trust Fund Ventura County $1,500,000; La Quinta Homekey match $5,550,000) and $11,110,000 released through a NOFA in 2023. A further General Fund NOFA released in fall 2025 produced April 2026 recommendations of $5.2 million for Topa Vista Villas (Santa Paula, 112 units), Fillmore Terrace (Fillmore) and Santa Clara Apartments (Ventura). The FY 2025-26 budget carried $11.7 million for affordable housing in unincorporated areas. Earlier General Fund rounds: $1,000,000 for farmworker housing (Rancho Verde $240,000, Peoples Place $380,000, Dolores Huerta Gardens $380,000) and $300,000 to HTFVC (2020).",
+      "per_unit_cap": "Not published; recent awards of roughly $1 million to $3 million per project.",
+      "affordability_requirement": "Lower income rental housing with long-term County regulatory agreements (55 years typical); PSH and farmworker priority.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "farmworker housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 9, 2026. The County runs its General Fund housing NOFA inside the annual HUD funding cycle, which opens with a mandatory public hearing each November; watch for the FY 2027-28 cycle notice.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. This is the County's real gap source: $1 million to $7.5 million commitments drawn from ARPA and General Fund, awarded through periodic NOFAs run alongside the HUD cycle and used as local match for Homekey, tax credit and state applications. Source is the May 2023 Community Development summary of funded projects and sources; the fall 2025 NOFA results are reported in the FY 2026-27 Annual Action Plan.",
+      "source_url": "https://vcportal.venturacounty.gov/CEO/community-dev/docs/Affordable%20Housing%20Projects%20%26%20Funding%20Sources%20%28May%202023%29.pdf",
+      "record_id": "18e304b2be",
+      "cycle_notes": "FY 2026-27 cycle: notice dated October 7, 2025 listed County General Funds with CDBG, HOME, HOME-ARP, PLHA, BHSA and HHAP; mandatory hearing November 6, 2025 (one representative must attend to apply), letters of intent due November 12, 2025, applications due December 19, 2025 via ProCorem. April 2026 General Fund recommendations totaled $5.2 million for Topa Vista Villas, Fillmore Terrace and Santa Clara Apartments (Fillmore Terrace $1.5 million). Earlier General Fund NOFA in summer or fall 2023.",
+      "eligible_project_detail": [
+        "multifamily rental new construction",
+        "permanent supportive housing",
+        "farmworker housing",
+        "student housing (one-time)",
+        "Homekey local match"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: May 2023 summary matches the $30.5M October 2022 allocation, $19,390,000 direct allocations by project and $11,110,000 NOFA, $300,000 HTFVC (2020) and the $1M farmworker round. FY 2026-27 Draft Annual Action Plan confirms the fall 2025 NOFA and $5.2M April 2026 recommendations. Added that General Fund applications ride the annual cycle with a mandatory hearing. No FY 2027-28 notice found (vcportal directory and venturacounty.gov pages blocked). prevailing_wage_trigger true is uncited; County General Fund loans rest on Labor Code 1720(b) only.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County five-year plan for the Urban County and Thousand Oaks",
+      "administering_agency": "Ventura County Executive Office, Community Development",
+      "funding_type": "loan",
+      "typical_award_size": "HCD formula allocations to the County: $603,486 (2024), $646,422 (2025), estimated $3,771,788 for 2024-2028. Plan activities: rental capital development at or below 60% AMI (loans or operating subsidies), affordable ownership workforce housing grants, grants to Housing Trust Fund Ventura County (matched by the state LHTF program), homeless assistance (added May 3, 2022) and down payment assistance (added May 14, 2024). Awards: Rancho Sierra Senior Apartments (Camarillo area, 50 units) $751,263 (2021-22 and 2022-23); Camino de Salud (Ojai, 49 units) $955,873 (2023-24); Mesa Ojai construction gap and operations (2024-25); 2025 amendment of the 2023 allocation: Topa Vista Villas (Santa Paula, 112 units at 60% AMI) $750,000, Hillcrest Homes (Thousand Oaks, 78 for-sale units) $241,703, HomeNow down payment assistance $300,000 (approved April 29, 2025).",
+      "per_unit_cap": "Not published; rental awards of $750,000 to $956,000 per project.",
+      "affordability_requirement": "Rental units funded with PLHA restricted to 60% AMI and below (55 years); ownership workforce housing to 80% AMI (120% to 150% in recent amendments); 80% of HTFVC grant funds for 60% AMI households.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PLHA is awarded through the same November to May cycle as HUD funds and through plan amendments when projects are ready; the County administers allocations for the Urban County cities and Thousand Oaks. The 2026 allocation year will be programmed in the FY 2027-28 cycle opening November 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. PLHA has been spread across rental projects, down payment assistance and HTFVC capitalization; the rental share is a $750,000 to $1 million soft loan at 60% AMI, typically layered with County HOME and General Fund money on the same project (Topa Vista Villas took PLHA, General Fund NOFA and city funds). Source is the April 29, 2025 PLHA plan amendment on vcportal.venturacounty.gov; 2024-2028 figures from HCD's PLHA NOFA tables.",
+      "source_url": "https://vcportal.venturacounty.gov/CEO/community-dev/docs/pub-hearing/20250429/County_of_Ventura_PLHA_Plan_Amendment_website.pdf",
+      "record_id": "ec4f527ee0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental new construction",
+        "permanent supportive housing",
+        "affordable ownership workforce housing",
+        "down payment assistance",
+        "housing trust fund capitalization"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: April 29, 2025 PLHA plan amendment confirms Topa Vista Villas $750,000 (112 units, 60% AMI), Hillcrest Homes $241,703 and HomeNow $300,000 (150% AMI), rental units at 60% AMI for 55 years, HTFVC 80/20 split, May 3, 2022 and May 14, 2024 amendments, Urban County plus Thousand Oaks. The plan ties Camino de Salud to the 2021 allocation and Mesa operating subsidy to 2021-2022 allocations, which differs from the record's year labels; allocation dollar figures and the Rancho Sierra award are not in this PDF and were not rechecked. Prevailing wage true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Homekey and Homekey+ projects sponsored by the County (Request for Projects, Lewis Road Camarillo)",
+      "administering_agency": "Ventura County Executive Office, Community Development, with Behavioral Health and development partners",
+      "funding_type": "grant",
+      "typical_award_size": "County Homekey+ Request for Project Proposals issued December 17, 2024 (responses due January 14, 2025, then rolling) sought partners for which the County would serve as lead applicant and provide services and capital or operating match. Result: Lewis Road, 1732 S. Lewis Road, Camarillo (County-owned land next to the Rancho Sierra wellness campus; DignityMoves developer, Many Mansions operator, LifeArk modular units): 88 PSH units, about $28 million Homekey+ award (announced August 2025; roughly $23 million of a $28 million construction cost from the state, the remaining $5 million from the County, City of Camarillo and Gold Coast Health Plan, plus $10 million of state and County operating funds), groundbreaking May 13, 2026, occupancy expected end of 2027. Earlier Homekey: Casa Aliento (Oxnard), Mesa Ojai and Casa Pacifica (unincorporated) totaling 109 units completed 2024-2025; La Quinta (Ventura) $5,550,000 County match.",
+      "per_unit_cap": "Homekey+ per-unit limits set by HCD.",
+      "affordability_requirement": "Homekey+: households with behavioral health conditions experiencing or at risk of homelessness, veterans and youth set-asides, 30% AMI, 55-year regulatory agreement, Coordinated Entry referrals.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Homekey+ remains open at HCD over the counter; the County's Request for Projects stays effective until HCD funds or County match capacity is exhausted. Submit a proposal to Community Development with site control, co-applicants and the match requested.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. The County contributes land, services (Behavioral Health) and a share of the capital and operating gap, with the state award carrying most of the cost; co-applicants need a Medi-Cal plan partner (Gold Coast Health Plan) and city support. Source is the County's Homekey+ Request for Projects PDF; Lewis Road details from KCLU (May 14, 2026) and the state Homekey+ award announcement.",
+      "source_url": "https://vcportal.ventura.org/CEO/community-dev/docs/Request%20for%20Projects%20-%20Homekey%20-%20FINAL.pdf",
+      "record_id": "1688e32923",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing new construction and modular",
+        "motel and building conversions",
+        "transitional age youth housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: County Request for Projects (Dec 17, 2024, proposals due Jan 14, 2025, then evaluated until the Homekey+ NOFA closes, funds run out or County match capacity is exhausted) matches. HCD Homekey+ page shows the NOFA amended March 27, 2026 with awards on a rolling basis through HCD Connect. Lewis Road award details are not in these documents and were not rechecked. Prevailing wage true is uncited here.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Round 6, County and Ventura County CoC CA-611",
+      "administering_agency": "Ventura County Executive Office (Continuum of Care administrative entity) with the Ventura County CoC Alliance",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 allocations: County of Ventura $2,690,690.57 and Oxnard, San Buenaventura/Ventura County CoC $2,873,703.79 (combined about $5.6 million, announced by the County in 2026), with the County stating most will go to permanent housing solutions including prevention and diversion, rapid rehousing, rental assistance and supportive services. HHAP-7 preliminary allocations: County $2,540,008.02, CoC $2,721,437.17.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; regional action plan with Oxnard, Ventura and the other cities.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open applicant round as of November 8, 2026. HHAP 7 requires no new state application; it is disbursed to HHAP 6 grantees under the amended HHAP 6 NOFA (August 7, 2026). The region must submit its Regionally Coordinated Homelessness Action Plan update to HCD by January 31, 2027; providers access funds through County and CoC Alliance local awards.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. HHAP is not used for capital in Ventura County; its value is operating and services funding for PSH units referred through Coordinated Entry. The CoC website (coc.venturacounty.gov) blocks automated access, so figures come from HCD's allocation table. Source is HCD's HHAP-6 allocation PDF.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-6-allocations.pdf",
+      "record_id": "a2fcd1fc5c",
+      "cycle_notes": "Formula allocation to the County and CoC, not a developer NOFA. HHAP 6 supplemental recommendations finalized by the CoC on March 11, 2026. HHAP 7 (FY 2026-27, about $829 million statewide) preliminary allocations published by HCD; HHAP 6 grantees must obligate 75 percent and expend 50 percent of the initial HHAP 6 disbursement by June 30, 2027. The CoC runs its own local NOFO for HUD CoC renewals each summer.",
+      "eligible_project_detail": [
+        "rental assistance and rapid rehousing",
+        "prevention and diversion",
+        "interim housing operations",
+        "permanent supportive housing services and operating support"
+      ],
+      "next_deadline_date": "2027-01-31",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "T2 audit 2026-11-08: HHAP 6 and HHAP 7 Ventura figures confirmed against HCD allocation PDFs; HCD HHAP page shows application window closed and no new application for HHAP 7.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Housing Trust Fund Ventura County revolving loan fund and residual receipts loan program (County-capitalized)",
+      "administering_agency": "Housing Trust Fund Ventura County (nonprofit CDFI, Camarillo; Linda Braunschweiger, CEO)",
+      "funding_type": "loan",
+      "typical_award_size": "Revolving Loan Fund: below-market loans of $250,000 to $5,000,000 for acquisition, predevelopment, gap and construction, generally 1 to 5 years, for projects with 30 to 55 year affordability; $53,795,034 approved or funded since 2013 producing 2,255 affordable homes; $18,425,566 of state LHTF matching funds leveraged 2020-2024 plus a $4,406,179 final-round LHTF award. County capital: $300,000 General Fund (2020), $1,500,000 ARPA (2022) and PLHA Activity 3 grants. New Residual Receipts Loan Program (about $4.6 million from a REAP 2.0 grant): 15 to 18 year residual receipts loans for new affordable rental housing at 0% to 80% AMI meeting infill criteria, in development by June 30, 2031; first round applications June 2 to July 2, 2026. Recent loans: Santa Clara Apartments, Ventura (Ventura Housing) $2,000,000 residual receipts, 18 years (2026); Gateway Grove, Santa Paula (Many Mansions, 21 studios at 30% AMI) $500,000 predevelopment (2026); Lockwood III, Oxnard $500,000 (February 4, 2026); Cypress Gardens Phase II, Oxnard (Peoples Self-Help) $1,500,000 (December 16, 2025); Fillmore Terrace II $1,000,000 (September 26, 2025); Aspire Apartments, Oxnard (Many Mansions) $750,000 (April 30, 2025).",
+      "per_unit_cap": "Not published; maximum loan $5,000,000.",
+      "affordability_requirement": "Lower income (80% AMI and below) with priority for extremely low income, veterans, transition age youth, homeless households and farmworkers; residual receipts loans require 0% to 80% AMI units and long-term covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "predevelopment",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Revolving Loan Fund: open, applications accepted year-round on a first-come basis as funds allow, starting with a letter of intent. Residual Receipts Loan Program: no open round as of November 8, 2026; no second round announced.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. HTFVC is where County, city (Moorpark, Ventura, Fillmore and Santa Paula committed $700,000 for 2025-26), bank and state LHTF dollars pool, and it is the fastest local money in the county; its residual receipts product is explicitly designed to earn CTCAC local contribution points. Source is the HTFVC funding programs page; loan list from the July 23, 2026 loan summary.",
+      "source_url": "https://www.housingtrustfundvc.org/funding-programs/",
+      "record_id": "aec746a532",
+      "cycle_notes": "Revolving Loan Fund is rolling (letter of intent, then full application; approval and funding as finances permit). Residual Receipts Loan Program first round ran June 2 to July 2, 2026 at 5:00 pm and the page states the deadline has concluded.",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "acquisition and conversion of market-rate or non-residential property",
+        "predevelopment",
+        "self-help and affordable ownership (case by case)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "T2 audit 2026-11-08: HTFVC page confirms $250,000 minimum and $5 million maximum, 1 to 5 year terms, $53.8 million and 2,255 homes since 2013, residual receipts round closed.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Streamlined ministerial approvals for affordable, supportive and farmworker housing (SB 35, AB 2162, AB 1783, SB 330) and Prohousing Designation",
+      "administering_agency": "Ventura County Resource Management Agency, Planning Division",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Because the County has not met its above-moderate RHNA progress, qualifying multifamily projects with the required affordability are approved ministerially under SB 35 using the County's Streamlined Multifamily Zoning Clearance application; supportive housing is by right where multifamily is allowed (AB 2162); farmworker housing on agricultural land qualifies under AB 1783 and the County's Agricultural Worker Housing regulations (Somis Ranch farmworker complex, AMCAL). The County applied for the state Prohousing Designation in 2026 (public comment through May 29, 2026; Board resolution April 28, 2026), which adds points in state funding programs, and is completing a countywide Farmworker Housing Study and Action Plan (approved September 22, 2026).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "SB 35: 10% or 50% affordable depending on RHNA shortfall category; AB 2162 supportive housing thresholds; AB 1783 farmworker housing requirements.",
+      "eligible_project_types": [
+        "supportive housing",
+        "mixed-income",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Submit the Streamlined Multifamily Zoning Clearance application with objective standards compliance; SB 330 preliminary applications lock in standards.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. No County fee waiver or deferral for affordable housing was found; the County's incentives are procedural (ministerial approval, no CEQA) and locational (RHD sites, farmworker housing on agricultural land). SB 35 projects of 10 or more units require prevailing wage. Source is the RMA Streamlined Affordable Housing Development page.",
+      "source_url": "https://rma.venturacounty.gov/divisions/planning/streamlined-multifamily-housing/",
+      "record_id": "47f57cdedf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "100% affordable and mixed-income multifamily on eligible sites",
+        "permanent supportive housing",
+        "farmworker housing complexes"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oxnard",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Oxnard Affordable Housing In-Lieu Fund (Affordable Housing Trust Fund) developer loans, with Housing Successor and PLHA funds",
+      "administering_agency": "City of Oxnard Housing Department, Grants Management Division",
+      "funding_type": "loan",
+      "typical_award_size": "In-lieu fund balance about $1.8 million (FY 2026-27 Annual Action Plan, approved May 5, 2026). Used for developer loans that leverage other sources. The City also lists Housing Successor Agency funds and Permanent Local Housing Allocation (PLHA) funds as local investment available to projects; amounts not stated.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing affordable to lower and very low income households (Ordinance 2980 Part 13). Term and income mix set in loan documents; HOME-layered projects follow HOME rules.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standing NOFA for the in-lieu fund found; local funds are committed alongside the City's annual HUD funding applications. Contact the Housing Department, Grants Management Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small pool relative to Oxnard's pipeline, so it works as gap filler paired with HOME and HOME-ARP (see CDBG/HOME record). The City's HOME match surplus was $21.5 million at September 2025, so local funds are not needed for HOME match. Housing Successor (former Oxnard CDC) LMIHAF funds are subject to SB 341 income proportionality (at least 30% of development spending to 30% AMI); the City's SB 341 report was not located this pass. County-level sources (HTFVC loans, County NOFA) stack on top. The fund balance figure comes from the HUD Action Plan, not a fund statement.",
+      "source_url": "https://www.oxnard.gov/wp-content/uploads/pdfs/departments/housing/final-fy-2026-27-annual-action-plan.pdf",
+      "record_id": "d49ae8cd6a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oxnard",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Oxnard Affordable Housing Additive Zones, -AHP (by-right) and -AHD (discretionary) (City Code Chapter 16, Division 7C, Ordinance No. 2999)",
+      "administering_agency": "City of Oxnard Community Development Department, Planning Division",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Zoning entitlement, not a subsidy: adds the right to build multifamily or mixed use at up to 30 units per acre on Housing Element sites; ministerial site plan review in -AHP; lot merger fees waived when merging parcels under 0.5 acre. The FY 2026-27 Action Plan cites an inventory of 2,466 potential units in these zones.",
+      "per_unit_cap": null,
+      "affordability_requirement": "At least 20% of units affordable to extremely low, very low or low income households; 55-year rental and 45-year ownership restrictions; no in-lieu payment option; Inclusionary Housing Ordinance also applies; Oxnard-resident preference list.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Available now on designated Housing Element Supplement 1 sites.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Commercial or office space capped at 15% of floor area for by-right treatment. Impact fees still apply (Sec. 16-420D(D)), so fee relief must come from Policy H-4.2 waivers negotiated separately. State density bonus (Division 7A) can be layered for more density. Useful for 100% affordable tax credit projects seeking ministerial certainty on smaller sites.",
+      "source_url": "https://www.zoneomics.com/code/oxnard-CA/chapter_5",
+      "record_id": "3fedd621ce",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Thousand Oaks",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "Thousand Oaks Affordable Housing Trust Fund (Municipal Code Title 9, Chapter 10, Article 2, Ord. 1506-NS as amended by 1719-NS)",
+      "administering_agency": "City of Thousand Oaks Community Development Department",
+      "funding_type": "loan",
+      "typical_award_size": "Special revenue fund for very low, lower and moderate income housing, funded by inclusionary in-lieu fees, loan repayments, grants and Council appropriations. Nonresidential linkage fee proceeds go to a separate subaccount, but the linkage fee is set at $0 per square foot (Council direction 2023). Fund balance not published in the documents opened.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units assisted are subject to an Affordable Housing Agreement under Article 6; funds may only be spent within city limits.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No City NOFA found; the 2024 APR says the County administers the City's HOME and PLHA and that developers were expected to request funding in 2025. Contact Community Development (Senior Planner Iain Holt).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Revenue has been thin because the in-lieu fee was set at zero from 2009 until the November 2023 update. The City has used land instead: it donated Hillcrest area land to the Housing Land Trust Ventura County for a 78-unit for-sale townhome project with People's Self-Help Housing, provided City land for a 50-bed navigation center, and partnered with the County on Step Up (77 extremely low income PSH units). A PLHA grant went to HTFVC as Local Housing Trust Fund match in FY 2021-22. For rental gap, look first to the County PLHA plan (which covers Thousand Oaks), the County HOME Consortium and HTFVC.",
+      "source_url": "https://www.zoneomics.com/code/thousand-oaks-CA/chapter_10",
+      "record_id": "c39bce1dcb",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: Article 2 (Fund created by Ord. 1506-NS; revenue sources; very low to moderate income use; spending only within City limits; linkage fee subaccount; Council approval for any expenditure; Ord. 1719-NS amendments effective November 24, 2023) matches the zoneomics mirror only; the $0 linkage fee rate and 2024 APR statements were not re-checked. Mirror-only source does not support verified. prevailing_wage_trigger true is uncited; Sec. 9-10.502(c) says City financial incentives may require prevailing wages if required by State law, which supports unclear rather than true.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Thousand Oaks",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Thousand Oaks Housing Successor Agency Low and Moderate Income Housing Asset Fund (former Thousand Oaks Redevelopment Agency)",
+      "administering_agency": "City of Thousand Oaks as Housing Successor (Finance Department)",
+      "funding_type": "loan",
+      "typical_award_size": "Fund balance $845,021 at June 30, 2024; no excess surplus.",
+      "per_unit_cap": null,
+      "affordability_requirement": "SB 341 rules: housing for households at or below 80% AMI, at least 30% of development spending to 30% AMI over each five-year period, no more than 20% to 60-80% AMI; homelessness prevention and rapid rehousing allowed within statutory caps.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; request through Community Development. FY 2024-25 report expected with the 2025 APR, unknown, verify with agency.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small pool, best used as predevelopment or a modest gap loan alongside County HOME Consortium and HTFVC funds. Income proportionality pushes spending toward extremely low income units, which aligns with PSH and 30% AMI tax credit set-asides.",
+      "source_url": "https://toaks.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=e0def7f5-9746-44c2-aa36-8052d70b5e57",
+      "record_id": "0442fffc83",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Simi Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Simi Valley Affordable Housing Agreements and Local Housing Fund development loans (Housing Element Program 6)",
+      "administering_agency": "City of Simi Valley Environmental Services Department, Housing Division; Affordable Housing Subcommittee of the City Council",
+      "funding_type": "loan",
+      "typical_award_size": "Negotiated case by case. Track record: $500,000 City development loan to Camino Esperanza (31 senior units, 2015) alongside a $500,000 HTFVC loan; 25 existing Affordable Housing Agreements. Current Local Housing Fund balance not found.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Set by Affordable Housing Agreement; priority for projects with extremely low income and disability set-asides. Objective: 200 lower income units in 2021-2029.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found. Nonprofit developers get up to two rounds of Affordable Housing Subcommittee review at no fee. Contact the Housing Division; unknown, verify with agency.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "No inclusionary ordinance; the Housing Element says the City is exploring one (Program 6). Affordability is negotiated through density bonus and Affordable Housing Agreements. A development agreement amendment for Runkel Canyon (adopted October 2025) reportedly includes an in-lieu affordable housing fee; seen only in a news aggregator, not confirmed. HOME comes through the Ventura County HOME Consortium. Marked needs_confirmation because simivalley.org (pages and showpublisheddocument PDFs) returns 403 and the only City source opened is the 2021 Housing Element on the HCD site.",
+      "source_url": "https://hcd.ca.gov/housing-elements/docs/simi-valley-6th-adopted102821.pdf",
+      "record_id": "cab45f31fc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Camarillo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Camarillo Housing Successor Low and Moderate Income Housing Asset Fund (former Camarillo Community Development Commission)",
+      "administering_agency": "City of Camarillo as Housing Successor, Department of Community Development",
+      "funding_type": "loan",
+      "typical_award_size": "Fund balance $453,283 at June 30, 2025 ($176,421 cash, $275,000 KDF loan receivable, $1,862 interest); FY 2024-25 deposits $9,131; no excess surplus; no development spending in FY 2024-25.",
+      "per_unit_cap": null,
+      "affordability_requirement": "SB 341: 80% AMI or below; at least 30% of development spending to 30% AMI in the July 2024 to June 2029 compliance period; homelessness prevention up to $500,000 per year allowed.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026; no NOFA, funds committed case by case. Contact Community Development, (805) 388-5360.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small pool; useful as predevelopment or a local commitment. The City has used City land and tax-exempt bond proceeds for affordable housing: it bought 2800 Barry Street in 2018 and selected the Area Housing Authority with Many Mansions for Vista Campanario (60 rental and 8 for-sale units, tax credits approved September 2022, near completion FY 2024-25). The former CDC exceeded its production obligations by 179 units, so no outstanding obligations.",
+      "source_url": "https://cms7files.revize.com/camarilloca/Attachment%201%20-%20SB%20341%20Report%20Fiscal%20Year%20Ended%20June%2030,%202025.pdf",
+      "record_id": "a632ea29f5",
+      "cycle_notes": "No competitive cycle. Figures from the SB 341 report for FY 2024-25 dated November 17, 2025; the FY 2025-26 report is due by December 31, 2026. No ROPS deposits anticipated in the future.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "T2 audit 2026-11-08: SB 341 report figures confirmed ($453,283 fund balance, $176,421 cash, $275,000 loan receivable, $9,131 deposits). The cms7files PDF blocks curl but opened via fetch; the City SB 341 page links to it.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Yolo County formula allocation",
+      "administering_agency": "Yolo County (Board of Supervisors resolutions; County Administrator's Office and Health and Human Services Agency)",
+      "funding_type": "grant",
+      "typical_award_size": "2019-2023 five-year formula allocation $819,661 (Board resolution adopted February 27, 2024 with the PLHA plan). HCD's 2024-2028 formula NOFA lists Yolo County at $270,934 (2024), $303,869 (2025) and an estimated $1,693,338 over five years. For comparison the cities receive their own allocations: Davis about $1.33 million, Woodland about $1.09 million and West Sacramento about $1.04 million over five years.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA guidelines: rental housing at or below 60% AMI (up to 80% AMI) with 55-year covenants, or homeownership and homelessness activities as chosen in the County's five-year plan. The County's adopted plan activities were not readable in the opened documents.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "The County must adopt a new five-year plan and resolution for the 2024-2028 allocations under HCD's amended formula NOFA; no 2026 Board action was found in the minutes reviewed. Ask the County Administrator's Office which activities the plan funds before counting on PLHA.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "At $270,000 to $300,000 a year, Yolo County PLHA is a small, deal-specific source and the County's plan uses have not been published in a readable form online. It could support a single predevelopment or gap contribution for a project in the unincorporated area, or be subgranted to Yolo County Housing. State funds trigger prevailing wage.",
+      "source_url": "https://public.destinyhosted.com/yolocdocs/2024/BOS/20240227_3705/14411_14411_Resolution_-_1.pdf",
+      "record_id": "ec841fb6db",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "supportive housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: resolution confirms $819,661 (2019-2023); HCD 2024-2028 NOFA (July 16, 2026) confirms $270,934 CY2024, $303,869 CY2025, $1,693,338 five-year estimate, and 60%/80% AMI rules. Newer detail: HCD amended the 2019-2023 NOFA May 12, 2025 raising Yolo County's five-year estimate to $1,111,411; CY2024 application deadline is February 2028 and CY2025 February 2029. Prevailing wage true is uncited; PLHA guidelines and NOFAs contain no prevailing wage provision, so true rests only on the general Labor Code 1720(b) public-funds rule and should be reviewed toward unclear.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "Inclusionary Housing Ordinance (County Code Chapter 8-8), in-lieu fee and the Affordable Housing Program account, unincorporated Yolo County",
+      "administering_agency": "Yolo County Community Services Department, Planning Division (ordinance and affordable housing agreements); in-lieu fees held by the County in the Affordable Housing Program account",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Regulatory requirement, not a funding source. Ordinance 1451 (effective January 1, 2015) requires on-site affordable units: for-sale projects of 10 or more units set aside 20% (half low income, half moderate income); rental projects of 20 or more units set aside 25% very low income plus 10% low income; rental projects of 7 to 19 units set aside 15% very low plus 10% low. Smaller projects (9 or fewer single-family, 7 or fewer multifamily) pay an in-lieu fee assessed on a unit percentage basis. The in-lieu fee equals a percentage of the estimated cost to construct the required units, is set in the County Master Fee Schedule (last adopted June 24, 2025) and may be reduced up to 50% based on available subsidy; the current per-unit amount was not published in the opened documents (the 2009 schedule was $12,920 for-sale and $17,610 rental per required unit).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Rental inclusionary units must be permanently affordable (Sec. 8-8.108(b)); for-sale units carry a 20-year covenant that resets at each resale to a qualified buyer. Alternatives, only if on-site is shown infeasible: off-site units in the unincorporated county, land dedication (2 acres minimum), in-lieu fee, or housing credits transferable within 3 miles and 5 years. Density bonus units do not generate an inclusionary obligation.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at discretionary approval; fee estimate given at approval and paid before final map, first building permit or certificate of occupancy. In-lieu fees must be spent or encumbered within five years of receipt unless the Board extends.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The Affordable Housing Program account (Sec. 8-8.116) is the County's only local housing fund and it is fed solely by in-lieu fees from small unincorporated projects, so expect a balance in the low hundreds of thousands at most; no NOFA or award from it was found. For a 100% affordable project the ordinance imposes no obligation and offers the incentives in Sec. 8-8.118 (fee waiver, standards modifications, streamlining, density bonus). For a mixed-income rental project of 20 or more units the 35% combined set-aside (25% very low plus 10% low) is one of the steepest in the region and is a real feasibility constraint in Esparto, Madison and Dunnigan; the ordinance predates current state density bonus law and the Latinos Unidos v. Napa decision, so confirm how the County applies it today. Davis, Woodland and West Sacramento have their own inclusionary programs (Davis in-lieu fee about $215,000 per unit) covered in Pass 3.",
+      "source_url": "https://www.zoneomics.com/code/yolo-county-unincorporated-CA/chapter_8",
+      "record_id": "1ed9723764",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "homeownership",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: Sections 8-8.106 to 8-8.111 (Ord. 1451, effective January 1, 2015: 20% for-sale at 10+ units split low and moderate, 25% very low plus 10% low at 20+ rental units, 15% plus 10% at 7 to 19 units, in-lieu fee below 7 multifamily or 10 single-family units, permanent rental and 20-year resetting for-sale covenants, alternatives only if on-site is infeasible, 2-acre minimum dedication, credits within 3 miles and 5 years) match the zoneomics mirror only; amlegal and yolocounty.gov return 403. Mirror-only source does not support verified. funding_type moved from density bonus to regulatory requirement per SCHEMA.md (inclusionary).",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Yolo County Housing and New Hope CDC development partnerships, surplus land and farmworker housing sites",
+      "administering_agency": "Yolo County Housing (YCH) with its nonprofit affiliate New Hope Community Development Corporation; Executive Director Ian Evans, ievans@ych.ca.gov, (530) 669-2219",
+      "funding_type": "land",
+      "typical_award_size": "YCH acts as co-developer, land owner and partner rather than lender. Current pipeline: Tupelo, 73 units in Woodland (one to three bedrooms, 30% to 60% AMI) with a $27,999,100 AHSC award announced December 10, 2025 (City of Woodland $1.5 million loan commitment, Sutter Health $1.5 million, Brinshore Development and Operative Office as partners, construction as early as 2027, about 36 project-based TPVs); 641 5th Street, West Sacramento, 37 units (New Hope CDC, groundbreaking planned 2026, completion target 2027); Yolano and Donnelly redevelopment in Woodland (HUD Choice Neighborhoods Planning Grant, September 2024, over 240 mixed-income units planned, three phases by 2029); El Rio Villa Phase I by 2029. YCH posted a Surplus Land Act Notice of Availability for its Dunnigan property on September 10, 2026 (60-day response window, priority to proposals with at least 25% affordable units) and is seeking developers for its vacant Esparto lots for farmworker homeownership by 2027. In December 2025 YCH partnered with Fulcrum Property and Pacific Housing to deed-restrict 30 existing West Sacramento units for moderate income households for 35 years using the welfare exemption.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Set deal by deal: 30% to 60% AMI at Tupelo (AHSC and tax credit rules); moderate income (80% to 120% AMI) in the acquisition and deed-restriction model; farmworker households at the Esparto lots. YCH's strategic plan targets a 15% increase (about 390 units) in affordable units it owns, manages or supports by 2029.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open solicitation confirmed as of November 9, 2026. The Dunnigan Surplus Land Act response window closes about now and could not be re-confirmed on ych.ca.gov. Next expected openings: developer partnerships for the Esparto vacant lots (farmworker homeownership target Q4 2027) and Section 18 redevelopment of Yolano Village and Donnelly Circle (2027 or later).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "In Yolo the housing authority, not the County, is the development partner that brings land, PBVs, migrant center operating experience and public housing repositioning capital. A developer can join as YCH's co-developer (Brinshore model at Tupelo), buy or ground lease YCH surplus land under the Surplus Land Act, or use YCH or New Hope CDC as the nonprofit managing general partner to qualify existing buildings for the welfare exemption (the KIND West Sacramento structure, where YCH provided a $25,000 operating loan and the deed restriction). AHSC, tax credits and HUD funds in these deals trigger prevailing wage and Davis-Bacon. YCH also operates the Davis, Madison and Dixon migrant centers for the state Office of Migrant Services, so it is the natural partner for Joe Serna farmworker housing applications in the unincorporated area.",
+      "source_url": "https://www.ych.ca.gov/yolo-county-housing-celebrates-75-years/",
+      "record_id": "f708a2e83d",
+      "cycle_notes": "Dunnigan Surplus Land Act Notice of Availability reported posted September 10, 2026 with a 60-day response window (not found on ych.ca.gov or by search on November 9, 2026). YCH FY 2026 Annual Plan: Section 18 disposition application for Vista Montecito, Yolito and Ridgecut around mid-2026, about 36 TPVs to be project-based at Tupelo.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homeownership",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: the 75-years post confirms the HUD Choice Neighborhoods Planning Grant, the almost $28M AHSC award with Woodland and YCTD, and the planned 2026 groundbreaking of the 37-unit West Sacramento project. The YCH FY 2026 Annual Plan confirms 36 TPVs for Tupelo, 641 5th Street completion by Q4 2027, Esparto lots for farmworker homeownership by Q4 2027, Yolano/Donnelly three phases and El Rio Phase I by Q4 2029, and the 15% (390 unit) goal. The Dunnigan SLA notice, KIND/Fulcrum deal and Tupelo lender details were not re-found.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Davis, Woodland/Yolo County Continuum of Care (CA-521, Homeless and Poverty Action Coalition) and HHAP, Yolo County share",
+      "administering_agency": "Yolo County Health and Human Services Agency (County HHAP administrative entity and HPAC staff; HMIS lead) with the Homeless and Poverty Action Coalition (CoC board) and the City of Davis",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 6 allocations (HCD, based on the 2024 count): Yolo County $1,074,906.92 and the Davis, Woodland/Yolo County CoC $1,148,019.07. HHAP Round 7 preliminary allocations (FY 2026-27, disbursed as third and fourth disbursements of HHAP 6 under the NOFA amended August 7, 2026): Yolo County $1,231,712.43 and the Davis, Woodland/Yolo County CoC $1,319,691.89. HHAP rounds 1 to 5 brought $8.1 million to the Yolo area, $3.9 million of it to the County ($2.6 million spent). Round 5 County subawards approved March 3, 2026 include $135,000 to the City of West Sacramento for interim housing operating subsidies and $15,000 for rapid rehousing, both through February 2028. 2024 point-in-time count: 942 people, 633 unsheltered, 983 year-round beds.",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness; HHAP-6 requires a regionally coordinated action plan, a 10% youth set-aside and allows permanent housing capital, operating subsidies and rental assistance among its categories.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. HCD's HHAP application window is closed; HHAP 7 is a formula allocation to existing HHAP 6 grantees (County and CoC), not a competitive developer NOFA. Developers access these funds only through local County or HPAC subaward RFPs, posted on yolocounty.gov (blocked to automated access on November 8, 2026). Key grantee dates: Regionally Coordinated Homelessness Action Plan update due January 31, 2027; HHAP 6 initial disbursement 75% obligated and 50% expended by June 30, 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Yolo's HHAP is about $1 million a year each to the County and the CoC and goes to operations, not capital. For a PSH project the value is Coordinated Entry referrals through HPAC, possible HHAP or CoC operating subsidies for a handful of units, and the County's Behavioral Health Bridge Housing and Transitional Rent pipeline for tenants. The City of Davis receives its own HHAP (about $1 million in Round 6) and the City of West Sacramento has run interim housing with County HHAP pass-throughs; both are Pass 3.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-6-allocations.pdf",
+      "record_id": "1bd8f7ea7f",
+      "cycle_notes": "State formula rounds to the County and CoC; local subawards follow County HHSA and HPAC RFPs. HHAP 6 contracted 2026 through 2029; HHAP 7 ($829.35 million statewide, FY 2026-27) added by NOFA amendment August 7, 2026 with Round 7 initial disbursement fully expended by December 31, 2032 and second disbursement by December 31, 2033. County BHSA plan says HHAP supports existing youth transitional housing, rapid rehousing and interim housing operations.",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "services"
+      ],
+      "next_deadline_date": "2027-01-31",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) housing interventions and capital set-aside, Yolo County HHSA Behavioral Health",
+      "administering_agency": "Yolo County Health and Human Services Agency, Behavioral Health (Director Tony Kildare); Integrated Plan FY 2026-2029 approved by the Board of Supervisors June 23, 2026",
+      "funding_type": "grant",
+      "typical_award_size": "Projected BHSA funding $19.4 million in FY 2026-27 with Housing Interventions at 30% ($5,834,453); the Board's March 3, 2026 budget approach (Scenario 3) transfers 7% of housing interventions to Behavioral Health Services and Supports, leaving about $4.4 million for housing in FY 2026-27. The adopted plan commits to a procurement to allocate 25% of Housing Interventions funds (roughly $1.1 to $1.5 million a year) to capital development: property acquisition, new construction, and rehabilitation or renovation of existing units. Remaining funds pay rental subsidies after Transitional Rent ends, landlord damage mitigation, participant assistance and a new Housing Interventions Team. The Board also added 8 behavioral health case managers ($1 million a year) for permanent supportive housing sites.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Medi-Cal eligible adults with serious mental illness or substance use disorder who are chronically homeless, homeless or at risk; at least half of housing funds for chronically homeless people. BHSA housing interventions are available only after CalAIM Community Supports and the six-month Medi-Cal Transitional Rent benefit (provider Turning Point Community Programs) are exhausted.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "The capital procurement (25% of housing interventions) has not been released as of November 6, 2026; the plan says it will be conducted during FY 2026-27. Behavioral Health Bridge Housing funding expires June 30, 2027, after which BHSA absorbs those costs. Annual plan updates begin FY 2027-28 (draft due to DHCS March 31).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Yolo is one of the few small counties committing the full 25% capital share, but at about $1.1 to $1.5 million a year it buys a handful of units: realistic uses are acquisition of small existing properties, a capital contribution to a PSH project with a BHSA referral agreement, or rehab of existing supportive housing (the Board asked staff whether capital can go to existing facility needs). Pair with YCH PBVs and the County's PSH case management staffing (8 FTE) to make a small PSH deal pencil. BHSA money is state funding and triggers prevailing wage. Behavioral Health is also the County's lead on Homekey+ interest and on the Encampment Resolution Fund application.",
+      "source_url": "https://public.destinyhosted.com/yolocdocs/2026/BOS/20260623_3937/16572_Final_Yolo_County_BHSA_Integrated_Plan_FY_2026-2029.pdf",
+      "record_id": "3c1a274fb6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab",
+        "new construction",
+        "interim housing",
+        "services"
+      ],
+      "next_deadline_date": "2027-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: adopted BHSA Integrated Plan confirms Year One base $19,448,177, Housing Interventions 30% ($5,834,453) adjusted to 23% ($4,473,080) after a 7% transfer to BHSS, a procurement for 25% of Housing Interventions for capital (acquisition, new construction, rehab, plus operating subsidies), use only after Transitional Rent (Turning Point) and BHBH through June 30, 2027. The plan lists one capital project: 50 units, BHSA cost about $20,000 per unit, availability by Dec 31, 2027. Procurement release status and the case manager item were not rechecked. Prevailing wage true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Davis",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "City of Davis Housing Trust Fund (in-lieu fees and negotiated developer contributions, Article 18.05)",
+      "administering_agency": "City of Davis Social Services and Housing Department (Housing Trust Fund administered by the Affordable Housing Manager; Social Services Commission reviews affordable housing plans)",
+      "funding_type": "loan",
+      "typical_award_size": "Project-specific gap contributions sized by Council; no published NOFA or guidelines found. Revenue is in-lieu fees under Resolution 25-002 ($250,000 per unit) plus negotiated contributions from peripheral Measure J/R/D projects: Village Farms Exhibit E (approved December 16, 2025, revised January 13, 2026) commits $6,000,000 to the Housing Trust Fund ($2 million with dedication of the first land site, $1 million at the first building permit, $3 million before any Phase 3 building permit); Willowgrove's plan reportedly adds $1.8 million. Earlier years the fund was small (the 2023 single-family in-lieu fee was about $82,000 per unit) and the City has historically funded projects such as Paul's Place and Creekside from it. Current balance not published in any document opened this pass.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Low and very low income units with long-term covenants; Council direction prioritizes very low and extremely low income and deed-restricted ownership.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Contributions arrive with Village Farms and Willowgrove milestones only if voters approved the projects (Village Farms was placed on the June 2026 ballot and Willowgrove on the November 2026 ballot); verify election outcomes and timing with the Affordable Housing Manager, (530) 757-5602.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The only local soft money in Davis. Sized to projects on the dedicated land sites first (the Village Farms plan says the money should support affordable housing on the dedication sites but may be used elsewhere consistent with the plan). Layer as the last gap after 9% or 4% credits, HCD MHP or AHSC, Yolo County Housing project-based vouchers and the Davis CDBG and HOME allocations; City money is public funds and triggers prevailing wage. Councilmembers raised formalizing the fund into a structured trust (April 2026). Davis has no RDA successor housing fund. Blocked: cityofdavis.org pages and the Village Farms Exhibit E staff reports (403); facts are from the December 16, 2025 and January 13, 2026 Council minutes on documents.cityofdavis.org, which did open.",
+      "source_url": "https://documents.cityofdavis.org/Media/CityCouncil/Documents/PDF/CityCouncil/CouncilMeetings/Minutes/2025/Minutes-2025-12-16-City-Council-Meeting.pdf",
+      "record_id": "286b3332af",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: December 16, 2025 and January 13, 2026 minutes confirm the $6 million Village Farms Housing Trust Fund commitment and payment schedule, but the Resolution 25-002 in-lieu fee, Willowgrove $1.8 million and fund balance are not in any opened source. Measure V (Village Farms) failed at the June 2, 2026 election per press reports of the certified count (11,414 yes, 11,690 no; Davis Enterprise and Davis Vanguard); no official Yolo County statement of vote was opened, so confirm. The $6 million Village Farms contribution will therefore not arrive unless the project returns with a new approval. Willowgrove (Measure W, November 3, 2026) result not found.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Woodland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Affordable Housing In-Lieu Fees Fund (Fund 1327) and Spring Lake off-site fee revenues: City gap loans to affordable projects",
+      "administering_agency": "City of Woodland Community Development Department, Housing (Deputy Director Erika Bumgardner; Housing Analyst Franklin Cui, (530) 661-2019)",
+      "funding_type": "loan",
+      "typical_award_size": "Case-by-case residual receipts loans. Most recent: $1,500,000 to Yolo County Housing for Tupelo Family Apartments (73 units, 72 restricted, 30% to 80% AMI, Yolano-Donnelly Choice Neighborhoods early project), approved July 15, 2025 as a 55-year residual receipts loan at 3% simple interest with a 55-year regulatory agreement; about $20,833 per affordable unit, which staff compared with Mutual Housing at Spring Lake Phase I ($38,462 per unit) and Vista Del Robles Phase II ($41,667 per unit). Earlier the City lent $2,410,000 of in-lieu and Spring Lake off-site fees to Mutual Housing's farmworker phases (100 units) and granted $1.48 million plus free City land for the 61-unit East Beamer Way supportive housing campus. Fund balance not stated; staff noted that in-lieu receipts over the prior four years were enough to replace $500,000 of ARP funds.",
+      "per_unit_cap": "None published; recent awards $20,833 to $41,667 per unit.",
+      "affordability_requirement": "Extremely low, very low and low income rental units with 55-year covenants; Council priority for projects leveraging tax credits, AHSC and other state funds.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; developers request funding through Housing staff ahead of state or TCAC applications. Tupelo received a $27,999,100 AHSC award in December 2025 and will pursue tax credits in 2026 or 2027; staff planned a fall 2025 ARP spending plan update. Contact the Housing Analyst before an application round.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Woodland's pattern is a City commitment letter sized to make the AHSC or TCAC application competitive, with Yolo County Housing or Mutual Housing as developer and Sutter Health or Alta California Regional Center philanthropic layers (Tupelo also has $1.5 million from Sutter and $2.3 million from Alta). Loans are residual receipts and subordinate, so they fit under 4% bond deals. Fund revenue is lumpy (large projects and Spring Lake development agreements); confirm the balance before relying on it. Layer order: AHSC or MHP, 4% or 9% credits, Yolo County Housing PBVs, City Fund 1327, CDBG for off-site infrastructure. Agenda packets are on CivicClerk (woodlandca.api.civicclerk.com file streams open; the portal itself is a JavaScript app).",
+      "source_url": "https://woodlandca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7131,plainText=false)",
+      "record_id": "65388ad906",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "farmworker housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Woodland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Development Impact Fee Deferral Program (MPFP fee deferral for multifamily, December 2008 ordinance) and case-by-case deferrals for affordable projects",
+      "administering_agency": "City of Woodland Community Development Department and Administrative Services (Finance)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral, not waiver. Under Ordinance No. 1690 (adopted June 21, 2022, no expiration date) residential infill projects (single-family or multifamily on vacant or underutilized parcels in urbanized areas) may defer ten City impact and capacity fees (General City, Library, Police, Water Capacity, Roads, Administration, Storm Drain, Fire, Wastewater, Parks) under a recorded fee deferral agreement and lien; deferred fees are due at the earlier of the final inspection request or 12 months, at the rate in effect at permit issuance. Spring Lake Infrastructure Fees, permit and plan check fees and non-City fees are not deferrable. Approval by the City Manager or Council depending on amount. The Council has also approved case-by-case interest-free deferral to just before certificate of occupancy for affordable projects (Housing Element). The Prohousing application cites Vista Del Robles (72 units, 2024) as a user.",
+      "per_unit_cap": null,
+      "affordability_requirement": "None for the general program; affordable projects may also get case-by-case Council deferrals.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling, no deadline as of November 8, 2026. Apply through Community Development, (530) 661-5820.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Deferral improves construction-period cash flow but is not a subsidy; combine with the density bonus fee waiver incentive and Fund 1327 loans. Woodland was designated Prohousing by HCD in 2025 (application March 21, 2025), which adds Prohousing points in state programs. Spring Lake has its own financing plan; Spring Lake Infrastructure Fees cannot be deferred.",
+      "source_url": "https://cityofwoodland.gov/DocumentCenter/View/907/Development-Impact-Fee-Deferral-Program-Guidelines-PDF",
+      "record_id": "f054a12029",
+      "cycle_notes": "Ongoing program; apply to Community Development before permit issuance. Ordinance 1690 has no sunset (replaced the 2008 program that ran through June 30, 2022).",
+      "eligible_project_detail": [
+        "new construction",
+        "residential infill (single-family or multifamily)",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Woodland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Woodland Housing Successor Agency (former Redevelopment Agency) Low and Moderate Income Housing Asset Fund (SB 341 reporting)",
+      "administering_agency": "City of Woodland as Housing Successor to the former Woodland Redevelopment Agency (Community Services and Community Development Departments)",
+      "funding_type": "loan",
+      "typical_award_size": "Small. The FY 2021/22 SB 341 report (dated August 1, 2022, the latest posted) shows a Housing Asset Fund ending balance of $51,025 cash (one loan payoff), no real property, five rental loans outstanding totaling $4,123,722 and seven first-time homebuyer loans totaling $674,693 (principal and interest through June 30, 2022). Unencumbered funds were under $1 million, so no excess surplus. Any future money comes only from loan repayments.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Health and Safety Code 34176.1 targets: at least 30% of LMIHAF expenditures for rental housing at or below 30% AMI, remainder at or below 60% AMI, with 55-year covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No open round as of November 8, 2026. No later SB 341 report is posted; ask Housing staff for the current balance.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Useful negative information: Woodland's post-RDA housing money is the inclusionary Fund 1327, not the successor fund, which held about $51,000 in cash at June 30, 2022. Rental loan repayments could add a small extremely low income layer over time. The SB 341 report is a scanned PDF; it was read page by page as images.",
+      "source_url": "https://www.cityofwoodland.gov/DocumentCenter/View/9562",
+      "record_id": "9ffaf0810c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of West Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "Permanent Local Housing Allocation (PLHA) formula funds, Resolution 25-15 five-year plan",
+      "administering_agency": "City of West Sacramento Economic Development and Housing Department, Housing Division (Housing Manager Raul Huerta)",
+      "funding_type": "grant",
+      "typical_award_size": "Council adopted Resolution 25-15 on February 19, 2025 (5 to 0) authorizing the PLHA application and a five-year plan for $763,253 of 2021, 2022 and 2023 formula allocations: 55% ($419,789) for the affordable housing component of the Grand Gateway Master Plan, specifically a proposed 114-unit affordable project serving households at 30%, 50%, 60% and up to 80% AMI; 40% ($305,301) for owner-occupied rehabilitation grants up to $30,000 through existing nonprofit contracts; 5% administration. HCD's 2024-2028 PLHA NOFA lists West Sacramento at about $1.04 million over the next five years. The City filed a CEQA notice of exemption for the plan on February 19, 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Rental component at or below 80% AMI with deeper targeting (30% to 60% AMI) at the Grand Gateway site; owner rehabilitation for low income owners in qualifying neighborhoods.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "The Grand Gateway affordable project has no published developer selection or construction date; later PLHA years (2024 onward) need a plan amendment. Verify with the Housing Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small but useful: about $420,000 earmarked to one City-sponsored project in the Grand Gateway District (City-owned land, see successor agency record). Any developer of that site should expect PLHA plus Housing Trust Fund plus land, then compete for MHP or AHSC. State funds trigger prevailing wage. Yolo County's own PLHA is unincorporated only. Source is the state CEQA notice of exemption filed by the City; the resolution and staff report on cityofwestsacramento.org returned 403, and dollar figures are from local press coverage of the February 19, 2025 meeting.",
+      "source_url": "https://ceqanet.lci.ca.gov/2025020729",
+      "record_id": "625620b784",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: CEQAnet notice of exemption (signed February 19, 2025, filed February 21, 2025) confirms the PLHA application and five-year plan for affordable housing projects and owner rehabilitation, contact David Tilley; the $763,253 amount, 55/40/5 split and Grand Gateway 114-unit project are not in it and come from press. City resolution and staff report still 403.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of West Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "Redevelopment Successor Agency housing assets, Enhanced Infrastructure Financing District and City-owned land (Grand Gateway Master Plan area, Bridge District, Washington Specific Plan)",
+      "administering_agency": "City of West Sacramento as Housing Successor and Redevelopment Successor Agency (Economic Development and Housing Department; Yolo Countywide Successor Agency Oversight Board)",
+      "funding_type": "land",
+      "typical_award_size": "Land and tax increment tools rather than a cash fund. With the loss of redevelopment the City repealed Chapter 15.10 and formed an Enhanced Infrastructure Financing District with 14 project areas that, with Measure G sales tax, funds infrastructure for infill, high-density, transit-oriented housing in the riverfront districts (Community Investment Program HE-PR-1.4). The City owns the Grand Gateway Master Plan area (former West Capitol Avenue redevelopment parcels; the Oversight Board approved sale of three Successor Agency parcels at 485 Lighthouse Drive and 2400 and 2600 West Capitol Avenue to the City for $1,310,000 in 2024) where a 114-unit affordable project is planned, and has contributed land to West Gateway Place I and II in the Bridge District. Housing successor Low and Moderate Income Housing Asset Fund balance and SB 341 reports were not accessible this pass.",
+      "per_unit_cap": null,
+      "affordability_requirement": "LMIHAF uses follow Health and Safety Code 34176.1 (30% of spending at or below 30% AMI, remainder at or below 60% AMI, 55-year covenants); City land deals carry negotiated covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency. Watch for a developer solicitation for the Grand Gateway affordable site and for the annual SB 341 housing successor report (due by April 1 with the APR).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "West Sacramento is the only Yolo County city with an active successor agency land program and an EIFD; the brief's note that it has active successor programs is confirmed in the Housing Element but current LMIHAF numbers could not be read. Developers should ask the Housing Division about (1) City-owned sites in Grand Gateway, Washington and Bridge District, (2) EIFD or Measure G infrastructure contributions that reduce off-site costs, and (3) any LMIHAF balance for extremely low income units. Layer with the Housing Trust Fund, PLHA and state AHSC (the 2016 to 2021 cycle brought $4.13 million AHSC infrastructure plus $2.6 million for West Gateway Place). Blocked: cityofwestsacramento.org and yolocounty.gov (403); the Oversight Board facts come from search snippets of Yolo County documents, so confirm.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-adopted071521.pdf",
+      "record_id": "c16f784225",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: Housing Element confirms repeal of Chapter 15.10, EIFD No. 1 (adopted June 2017, 14 subareas, about 4,144 acres), the Measure G and EIFD infrastructure strategy and the City-owned Grand Gateway area, but the 2024 Oversight Board sale ($1,310,000) and the 114-unit Grand Gateway project come from search snippets; no LMIHAF balance found. City and yolocounty.gov pages still 403.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

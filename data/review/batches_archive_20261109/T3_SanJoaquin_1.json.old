@@ -1,0 +1,40 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Lodi",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "City-owned sites for affordable housing (Housing Element Program 1.16 Surplus Land Act; Salas Park right-of-way with HACSJ; 130 West Century Boulevard)",
+      "administering_agency": "City of Lodi Community Development Department and City Council",
+      "funding_type": "land",
+      "typical_award_size": "Land contribution, not cash. Salas Park former right-of-way (about 3 acres rezoned to High Density Residential by Ordinance 2026, August 2024): City agreement with the Housing Authority of the County of San Joaquin for up to 110 affordable units, first phase Lodi Commons (DCDC Senior Housing at Salas Park, 54 senior units plus manager) funded with County HOME, HOME-ARP, HHAP, Congressional Community Project funds and $115,000 City CDBG. 130 West Century Boulevard (about 2.5 acres, Housing Element capacity 53 lower income units) under Council discussion January 27, 2026 with no decision. Program 1.16 targets 101 lower income units on four City sites, with RFP or sale by 2026, ENA 2026, entitlements 2027-2028, permits 2029.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Lower income units counted toward RHNA; Surplus Land Act priority to affordable housing developers (25% affordable minimum under Government Code 54233 when sold for housing).",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Housing Element Program 1.16 calls for an action plan to sell or RFP City-owned land for affordable housing by 2026 and incentives for affordable housing on City sites by 2026; watch Council agendas for a Surplus Land Act declaration on 130 West Century Boulevard and the remaining Salas Park phase (56 units).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Lodi's only material local contribution to multifamily deals is land; the City budget has no housing fund and no RDA housing successor fund appears in the Housing Element or in Council items since 2024. The HACSJ partnership shows the working model: City land plus County HOME and HOME-ARP, HHAP, HACSJ PBVs and tax credits (county records). A developer other than HACSJ would need a Surplus Land Act process. Read from the City 2026-27 Annual Action Plan PDF (Salas Park partnership) and the Legistar staff reports for the January 27, 2026 Century Boulevard item.",
+      "source_url": "https://www.lodi.gov/DocumentCenter/View/10072/26-27-AAP-Final-Draft-Public-Review-050226-060326-PDF",
+      "record_id": "e1113697bd",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "senior housing",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

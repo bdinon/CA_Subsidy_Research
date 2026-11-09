@@ -1,0 +1,83 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "needs_confirmation",
+      "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, Monterey County Assessor",
+      "administering_agency": "Monterey County Assessor-County Clerk-Recorder (168 W. Alisal Street, Salinas)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Standard state welfare exemption for low-income housing owned by nonprofits or limited partnerships with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement; exemption prorated to qualifying units.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 and supplemental affidavits with the Assessor by February 15, 2027 for the 2027-28 roll.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. Confirmation needed: the Assessor's page on countyofmonterey.gov blocks automated access; the exemption itself is state law.",
+      "source_url": "https://www.countyofmonterey.gov/government/departments-a-h/assessor",
+      "record_id": "7f69b5f898",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC rental housing with nonprofit managing general partner",
+        "nonprofit-owned affordable rental housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date",
+      "link_status": "blocked",
+      "audit_note": "Audit 2026-11-08: countyofmonterey.gov Assessor pages return 403 (Akamai Access Denied) to curl and WebFetch. BOE Publication 149 (boe.ca.gov/proptaxes/pdf/pub149.pdf) confirms the state rules in the record: BOE-267 or BOE-267-A plus BOE-267-L or L1 affidavits filed with the county assessor by February 15 each year, Organizational Clearance Certificate and Supplemental Clearance Certificate for limited partnerships. County-specific page still unread.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Marina",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Below Market Rate housing program and project affordable housing agreements (Lightfighter Village, The Dunes BMR, Sea Haven BMR; BMR Administrative Policies adopted March 1, 2021)",
+      "administering_agency": "City of Marina City Manager's Office, Housing Program Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Program, not a cash subsidy. The City records affordable housing agreements under Section 17.48.080 for each project: Lightfighter Village (Veterans Transition Center and EAH Housing, 229-239 Hayes Circle, 71 permanent supportive units, Resolution 2023-34 of April 4, 2023) must keep 40% of units affordable with at least 15% very low income; the agreement restricts 11 units to 30% AMI and 18 units to 50% AMI at TCAC rents for 55 years and the project is securing 17 project-based vouchers. The Dunes BMR site 1 delivered 93 affordable units (occupancy May 1, 2024) and Sea Haven BMR for-sale homes were sold through a 2023 lottery. Housing Element Program 2.5 reserves 30% of BMR units for Marina workers and residents under the BMR Administrative Policies and Procedures (2021).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Project-specific: Lightfighter 30% and 50% AMI for 55 years; BMR ownership units resale-restricted 45 years; rental inclusionary units 55 years or perpetual.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Agreements are approved by Council before building permit on each project. Housing Element objective: assist 60 lower income Marina households through the BMR program and facilitate 200 affordable units by 2031.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Marina's role is regulatory and site-based; the money for Lightfighter Village came from County Housing Trust Fund ($500,115), HHAP, state and tax credit sources (county records), and the City contributed entitlements, the AHO process and the 40% affordability agreement. Marina also submitted a draft Prohousing Designation application in August 2025 (draft read on cityofmarina.org) which, if approved, adds state scoring points for Marina sites; designation status not confirmed. The Housing Element APR for 2024 is posted only as a SharePoint link that could not be opened. Documents read: Resolution 2023-34 with the Lightfighter agreement (Archive ADID 13198), Resolution 2025-18 (ADID 14723), the certified Sixth Cycle Housing Element (DocumentCenter View 13793) and the Housing page (cityofmarina.org/190/Housing).",
+      "source_url": "https://cityofmarina.org/Archive.aspx?ADID=13198",
+      "record_id": "cbab845a1c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "mixed-income projects",
+        "homeownership (BMR resale)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

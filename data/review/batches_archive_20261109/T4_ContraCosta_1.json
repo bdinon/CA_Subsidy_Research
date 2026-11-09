@@ -1,0 +1,86 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Concord",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Concord Inclusionary Housing Ordinance (Concord Development Code Chapter 18.185.040, Ord. 24-1) and in-lieu fee (Fees and Charges Schedule, Res. 26-6042.1)",
+      "administering_agency": "City of Concord Housing and Community Services Division (Sophia Huckabay, Housing Manager, 925-671-3387) with the Planning Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Projects of 5 or more units: ownership projects 15% inclusionary (7.5% low, 7.5% moderate); rental projects 6% inclusionary (1% very low, 1% low, 4% moderate), with a fixed rotation order for each inclusionary unit. In-lieu fee effective July 1, 2026 (adjusted annually by a construction cost index): $20.13 per gross square foot of market-rate development for ownership projects and $15.10 per gross square foot for rental projects of 10 or more units; fractional-unit fee $256,497 x fractional unit (ownership) and $174,160 x fractional unit (rental). Rental projects may pay the fee for the whole obligation; ownership projects may pay only for fractional units or for 5 to 9 unit projects. In the five years before the 2023 Housing Element the City collected only about $170,000 in in-lieu fees.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Rental inclusionary units restricted 55 years and ownership units 45 years under a recorded Affordable Housing Agreement; density bonus units meeting the table income levels count toward the inclusionary requirement; projects of 1 to 4 units, replacement of units lost to natural disaster, and office-to-residential conversions of buildings commercial for at least 5 years are exempt.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "mixed-income",
+        "homeownership",
+        "predevelopment",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; fee rate in effect at building permit. Fee schedule last adopted April 28, 2026 (Res. 26-6042.1) effective July 1, 2026; the schedule is readopted each spring. Housing Element Program 12.4 called for a fee update by July 2024, which produced the March 14, 2024 fee basis now indexed annually.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Low rental percentage (6%) and a relatively low rental in-lieu fee ($15.10 per square foot) mean most Concord apartment projects either build a handful of moderate-income units or pay the fee; this is why the City's inclusionary fund is small relative to Walnut Creek's. In-lieu revenue goes to a restricted fund alongside the Concord Housing Fund (see the Concord Affordable Housing Fund record). Chapter 18.185.040(G) also lets the City grant development incentives, including deferral of development fees until first occupancy (approved by the City Manager) and expedited processing, when an affordable housing agreement is signed. County Chapter 822-4 inclusionary ordinance does not apply inside Concord. codepublishing.com (the City's code host) returns 403 to automated access; chapter text was read on the zoneomics mirror (https://www.zoneomics.com/code/concord-CA/chapter_4) and the City's 2024 Inclusionary Housing Ordinance Summary Sheet (https://www.cityofconcord.org/DocumentCenter/View/13659). Fee amounts were read from the adopted July 1, 2026 fee schedule (source_url).",
+      "source_url": "https://www.cityofconcord.org/DocumentCenter/View/15683/Fees-and-Charges-ScheduleJuly-1-2026Res-No-26-60421",
+      "record_id": "95a366a5b1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental and ownership projects of 5 or more units (compliance)",
+        "mixed-income projects",
+        "off-site acquisition-rehab (2 rehabilitated units per required unit)"
+      ],
+      "next_deadline_date": "2026-07-01",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Antioch",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Antioch Community Grants: CDBG, Housing Successor (LMIHAF) and PLHA funds (FY 2027/28 to 2029/30 cycle via the Contra Costa Consortium NOFA)",
+      "administering_agency": "City of Antioch Community Services Department, Housing and Homelessness Division (housing@antiochca.gov, cdbg@antiochca.gov, 925-779-7082, 4703 Lone Tree Way)",
+      "funding_type": "grant",
+      "typical_award_size": "Antioch anticipates about $850,000 CDBG, $350,000 PLHA and $500,000 Housing Successor funds per year for the FY 2027-2030 cycle (about 30 programs funded annually; the City notes that funding for affordable housing development is limited and directs developers to County HOME). 2025-2030 Consolidated Plan anticipated resources: CDBG $911,040 annual allocation plus $272,888 program income and $1,174,496 prior-year resources in year 1 (prior-year includes $1,257,347 returned by Hope Solutions after a project did not proceed); PLHA $509,164 year 1 and $1,416,898 remainder; Housing Successor $600,000 year 1 and $1,750,000 remainder, of which $350,000 per year funds homeless shelter, services and prevention. Five-year goals include PLHA $150,000 for 10 new rental units, CDBG $850,000 for 65 homeless housing units, CDBG $1,367,157 plus PLHA $609,164 for 50 owner rehabs, and Housing Successor and PLHA loans for ADUs (25 ADUs). Antioch's HOME share is administered by the County through the HOME Consortium.",
+      "per_unit_cap": "None published; the 2025-30 plan assumes about $15,000 per unit for new rental units and about $13,000 per homeless housing unit.",
+      "affordability_requirement": "CDBG 80% AMI national objective; Housing Successor funds follow Health and Safety Code 34176.1 (at least 30% to rental housing at or below 30% AMI); PLHA eligible activities for households at or below 60% AMI for rental; City priority on 30% and 50% AMI households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Applications due Monday, December 7, 2026 at 5:00 PM through City Data Services (one joint application for Antioch, Concord, Pittsburg, Walnut Creek and the County); the Antioch CDBG Grant Committee (two councilmembers) hears presentations February to March 2027; Council adopts the FY 2027/28 Action Plan April to May 2027; funds effective July 1, 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Antioch's local layer is thin (about $500,000 per year of Housing Successor money, much of it committed to homeless services) and there is no inclusionary trust fund, so Antioch deals depend on County HOME, CDBG-Housing and Measure X (county records), HACCC project-based vouchers, the County conduit bond program and State programs; the $2 million Housing Successor goal for 30 permanent supportive housing units in the prior Consolidated Plan went unspent after the Hope Solutions project fell through, so staff are motivated to place successor funds in a viable PSH or ELI project. Housing Successor compliance reporting (AB 987 and SB 341) is posted at https://ca-antioch.civicplus.com/1005/Housing-Successor-Reporting-Compliance. antiochca.gov returns 403; the civicplus mirror (source_url) and the 2026-27 Action Plan PDF (https://ca-antioch.civicplus.com/DocumentCenter/View/5073/2026-27-Antioch-Action-Plan) were read this pass.",
+      "source_url": "https://ca-antioch.civicplus.com/993/Community-Grants",
+      "record_id": "cb26dce451",
+      "cycle_notes": "three-year cycle; released October 15, 2026",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "next_deadline_date": "2026-12-07",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  }
+]

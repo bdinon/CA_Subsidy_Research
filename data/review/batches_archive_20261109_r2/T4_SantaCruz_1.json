@@ -1,0 +1,285 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Measure J inclusionary housing program (County Code Chapter 17.10)",
+      "administering_agency": "Santa Cruz County Community Development and Infrastructure, Planning Division, Housing Section",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement dating from the 1978 Measure J initiative: ownership projects of seven or more units provide 15% of units as affordable for-sale homes (Section 17.10.030); alternatives are payment of the Affordable Housing Impact Fee at the unified fee schedule rate (17.10.034), the existing unit conversion program (17.10.037), a financial contribution to a nonprofit off-site project that yields more units than required (17.10.036), or 15% on-site rental units affordable to low income households for the life of the units (17.10.039). Rental projects pay the impact fee unless they provide the 15% rental units. Fees are deposited in the Measure J trust fund (17.10.087). The 2026 Affordable Housing Guidelines (August 2026) govern pricing, resale and eligibility.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "For-sale units priced for moderate and lower income buyers under County guidelines with resale restrictions in perpetuity; rental alternative units at low income rents in perpetuity under a recorded rent regulatory agreement.",
+      "eligible_project_types": [
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies with each entitlement. The County released a Keyser Marston residential nexus study on September 1, 2026 and an inclusionary feasibility study; the Housing Advisory Commission's 2026-27 work program includes recommendations on the Affordable Housing Impact Fee, so fee or percentage changes may come to the Board in 2027.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. For an affordable developer, Section 17.10.036 is the useful piece: market-rate builders may discharge their obligation by funding a nonprofit project that produces more affordable units than their own requirement, which is a potential local gap source on larger subdivisions. Source is Chapter 17.10 text on gocodebook.com (2026-07 edition); program narrative from the County's 2026 Affordable Housing Guidelines.",
+      "source_url": "https://gocodebook.com/library/us/ca/santa-cruz-county-planning/title-17/chapter-17.10-affordable-housing-requirements",
+      "record_id": "fd6479193c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate ownership projects of 7 or more units",
+        "market-rate rental projects (fee or 15% rental units)",
+        "nonprofit off-site affordable projects receiving developer contributions"
+      ],
+      "next_deadline_date": "2026-09-01",
+      "deadline_check": "past_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Impact Fee (AHIF): exemption for deed-restricted affordable units and fee fund",
+      "administering_agency": "Santa Cruz County Community Development and Infrastructure, Planning Division, Housing Section",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Current rates (2026 Affordable Housing Guidelines, Chapter V): market-rate rental units $2 per habitable square foot (ADUs of 750 square feet or less exempt); ownership projects of fewer than seven units $2 to $15 per square foot scaled by unit size and project size (5 or more homes $15 per square foot at all sizes); non-residential $3 per net new square foot ($1 for agricultural barns). Deed-restricted affordable rental units, Measure J units and subsidized housing are exempt, and density bonus projects that include affordable rental units may qualify for a waiver of the fee on the market-rate units. Fees fund the AHIF account used in the County housing NOFA. The September 1, 2026 KMA nexus study supports maximum fees of $17.30 to $24.50 per square foot, far above current rates.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Exemption applies to units deed-restricted to lower income households; waiver on mixed-income projects negotiated with Housing staff in exchange for a set number of affordable rental units.",
+      "eligible_project_types": [
+        "mixed-income",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fees are due at building permit (Planning Director may defer to occupancy for hardship). Watch for a Board fee update in 2027 following the 2026 nexus and feasibility studies.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. The AHIF is both a cost the affordable developer avoids (exempt units) and the source of part of the County NOFA money; at $2 per square foot on rentals it raises little, which is why the NOFA is capped at $500,000 per award. Other County development fees (roadside, parks, drainage) are not waived for affordable projects in the guidelines. Source is the 2026 Affordable Housing Guidelines PDF (August 2026 revision).",
+      "source_url": "https://cdi.santacruzcountyca.gov/Portals/35/CDI/Planning/Housing/2026%20AFH%208_10_26_1.pdf",
+      "record_id": "95043c3f5b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "100% affordable rental projects (exempt)",
+        "density bonus and mixed-income rental projects (waiver available)",
+        "ADUs"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County five-year plan",
+      "administering_agency": "Santa Cruz County Community Development and Infrastructure (plan and LMIHAF match) and Human Services Department, Housing for Health Division (homeless activities)",
+      "funding_type": "grant",
+      "typical_award_size": "2019-2023 allocations: $565,952, $895,101, $916,102, $480,214 and $332,575 (estimated five-year total $3,395,700); amended 2023 plan spends 75% on Activity 6 homeless assistance through Housing for Health (rapid rehousing, rental assistance, navigation center and shelter operating and capital costs, PSH development or preservation), 20% on Activity 4 as a match deposited to the County LMIHAF for lower-income rental development and predevelopment, and 5% administration. HCD formula allocations for 2024-2028: $457,140 (2024), $467,923 (2025), estimated $2,857,125 five-year. PLHA predevelopment loans were offered through the March 2026 County NOFA.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "PLHA eligible activities; development uses limited to lower-income rental housing with 55-year affordability.",
+      "eligible_project_types": [
+        "supportive housing",
+        "predevelopment",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Development dollars reach projects only through the County housing NOFA (next expected early 2027). The 2024-2028 PLHA plan activities were not located online; confirm with CDI Housing whether the LMIHAF match share continues.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. Three quarters of County PLHA goes to homeless response, so the development share is roughly $90,000 a year plus whatever LMIHAF holds; it is a predevelopment source, not gap financing. Source is the CDI State and Federal Grants page with the amended 2023 five-year plan; 2024-2028 figures from HCD's PLHA NOFA tables.",
+      "source_url": "https://cdi.santacruzcountyca.gov/Planning/Housing/StateandFederalGrants.aspx",
+      "record_id": "7f23adacc1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "homeless services and shelter operations (Activity 6)",
+        "predevelopment loans for lower-income rental housing (via LMIHAF match)",
+        "permanent supportive housing development (eligible under Activity 6)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Project Homekey permanent supportive housing sponsored by the County (Veterans Village, Park Haven Plaza, Casa Azul, Freedom House)",
+      "administering_agency": "Santa Cruz County Human Services Department, Housing for Health Division, with nonprofit and private development partners",
+      "funding_type": "grant",
+      "typical_award_size": "Veterans Village, 8705 Highway 9, Ben Lomond (DANCO Group with the Veterans Memorial Building Board of Trustees): 20 PSH units for veterans, Homekey award $6.4 million (County page; $6.2 million per March 2026 coverage), completed financing in March 2026 with about $13.3 million of 9% tax credits, CDLAC bond allocation and 15 HACSC project-based vouchers, completion expected early 2027. Park Haven Plaza, 2838 Park Avenue, Soquel (Novin Development affiliate): 36 units, $10.6 million Homekey accepted September 2022 of a $20 million cost. Casa Azul, 801 River Street, Santa Cruz (Housing Matters). Freedom House youth transitional housing near Watsonville: $3.58 million Homekey Round 3 (February 2024). No Homekey+ award to the County was found as of November 2026.",
+      "per_unit_cap": "Homekey per-unit limits set by HCD.",
+      "affordability_requirement": "Extremely low and very low income households experiencing or at risk of homelessness, 55-year Homekey regulatory agreements, Coordinated Entry referrals.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Homekey+ is open at HCD over the counter; a developer seeking County co-sponsorship should approach Housing for Health with a site and an operating plan. The County's Homekey page notes two of four projects are in the unincorporated area by design.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. The County acts as applicant and services partner; capital comes from the state award plus tax credits, bonds and HACSC PBVs, with no County cash beyond staff and services. Veterans Village shows the long tail: a 2021 award closed its tax credits only in 2026. Source is the Housing for Health Partnership Project Homekey page; financing details from Patch (March 16, 2026) and the Pajaronian (September 2022).",
+      "source_url": "https://housingforhealthpartnership.org/Home/OurPlan/ProjectHomekey.aspx",
+      "record_id": "ea45fe437f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "motel and site conversions to PSH",
+        "modular PSH on County or partner land",
+        "youth transitional housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Cruz",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Santa Cruz Affordable Housing Trust Fund (AHTF), Resolution NS-26,410, guidelines revised September 10, 2024",
+      "administering_agency": "City of Santa Cruz Community Development Department, Housing and Community Development Division (affordablehousing@santacruzca.gov, (831) 420-5150)",
+      "funding_type": "loan",
+      "typical_award_size": "Construction and deferred-payment permanent loans at simple interest of no more than 3% per year, plus gifts, grants, loan guarantees and credit enhancement. Revenue: Chapter 24.16.030 inclusionary in-lieu fees, the City's PLHA formula allocation (HCD estimate about $1.5 million over five years, deposited directly to the AHTF) and donations. Pipeline list dated September 2024 of 100% affordable rental projects eligible after the first-phase funding review: 136 River Street (For the Future Housing) $1,800,000 loan commitment, predevelopment; 119 Lincoln Street (Eden Housing with For the Future Housing) ground lease plus $5,555,000 loan commitment, predevelopment. Income targets: 30% of funds for extremely low income, up to 70% for lower income, maximum 20% for moderate income, 15% contingency; administrative costs capped at 5%. Fund balance is not published; the 2026 AB 2663 in-lieu fee report (opened) lists fee descriptions but no balance.",
+      "per_unit_cap": "None published; underwritten by sources and uses and subsidy layering review (Attachment I), with at least 10% equity after completion and promissory-note predevelopment loans limited to 15% of estimated project cost.",
+      "affordability_requirement": "Rental housing for low (80% AMI) and very low (50% AMI) income households; for-sale housing for moderate, low and very low income; priority first to projects guaranteeing perpetual affordability and second to at least 55 years with recapture; extra points for lowest rents, highest share of affordable units, committed other sources, leverage of tax credits and state and federal programs, and sponsor track record.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "adu",
+        "homeownership",
+        "predevelopment",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; requests are reviewed on a rolling basis through a first-phase funding review that places eligible 100% affordable rental projects on the AHTF pipeline list, followed by Council approval of loan commitments. Contact the Housing Division before submitting; the pipeline list was last updated September 2024.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The City's primary local gap source and the usual local match for TCAC, HCD and AHSC applications (the Downtown Library and Affordable Housing Project secured $33.5M AHSC, $55.1M of tax credits and $55.6M of CDLAC bond authority). Separate from the County of Santa Cruz Housing Funds NOFA (LMIHAF, County PLHA and County AHIF), which covers unincorporated projects only, and from the County's Chapter 17.10 Measure J program; city projects stack AHTF with Housing Authority of the County of Santa Cruz PBVs, City HOME and CDBG (record below) and Prohousing scoring bonuses. In-lieu fee revenue depends on how many Measure O projects pay fees rather than build units, so balances fluctuate; the City also takes land dedications (Anton Pacific dedicated land for the Pacific Station expansion). cityofsantacruz.com now redirects to santacruzca.gov, which returns 403 to scripted fetches; the AHTF page, guidelines PDF, pipeline list and in-lieu report were opened through the WebFetch tool.",
+      "source_url": "https://www.santacruzca.gov/Government/City-Departments/Community-Development/Housing-Assistance-Information-and-Resources/Affordable-Housing-Trust-Fund",
+      "record_id": "ddf951a9c2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "preservation",
+        "acquisition-rehab",
+        "conversion of market-rate units to affordable",
+        "adu",
+        "limited equity cooperatives",
+        "predevelopment loans and grants",
+        "first-time homebuyer loans"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Watsonville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Ordinance (Municipal Code Chapter 14-46, Ordinance 1480-25 effective October 9, 2025) with in-lieu and commercial fees",
+      "administering_agency": "City of Watsonville Community Development Department, Housing Division (275 Main Street, Suite 400, (831) 768-3080)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Projects of 7 to 50 units: for-sale 15% (5% above moderate, 5% median, 5% moderate), rental 20% (5% low, 5% median, 10% very low or Housing Choice Voucher and other subsidy recipients). Projects over 50 units: 20% for both tenures (for-sale 10% above moderate, 5% moderate, 5% median). In-lieu fees are required from projects of six or fewer units or lots, from new commercial and industrial development over 1,000 square feet (a commercial linkage fee) and from condominium conversions; fee amounts are set by Council resolution and indexed annually at 50% of the Santa Cruz-Watsonville House Price Index increase, paid at building permit or final map (14-46.070). Income categories use the Watsonville median household income, defined as 70% of the Santa Cruz County median. Federal, state or City-assisted affordable projects meeting the percentages satisfy the chapter in full (14-46.040(c)). Projects with 50% or more affordable units receive priority processing (14-46.080). Release fees for de-restricting units are paid into the affordable housing fund.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Rental units 55 years, ownership units 45 years, deed restricted; very low means the lower of 80% of Watsonville median or 50% of county AMI, low up to 100% of Watsonville median or 50% to 80% county AMI, median up to 120% of Watsonville median or 80% county AMI, moderate up to 150% of Watsonville median, above moderate up to 170%; preference for households living or working in Watsonville at least one year; minimum unit sizes and amenity standards in 14-46.060; affordable units built concurrently with market units.",
+      "eligible_project_types": [
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; affordable housing agreement approved by Council and recorded before final map or construction. Ordinances 1480-25 and 1481-25 (density bonus) took effect October 9, 2025 and removed the prior exemption for unsubsidized rental projects, so all rental projects of seven or more units now owe 20%. Current in-lieu fee resolution amounts were not located; request the fee schedule from the Housing Division.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The deepest city inclusionary requirement in Santa Cruz County (20% of rental units with half at very low income or voucher holders) and the only city program with a commercial linkage component; it exceeds the County's Measure J (for-sale only) and Capitola's and Scotts Valley's 15% standards. Because 100% affordable projects satisfy the chapter automatically and get priority processing, tax credit developers face no added inclusionary cost, while mixed-income developers can satisfy the very low tier with Housing Authority of the County of Santa Cruz PBV units. Fees flow to the City's Affordable Housing fund (record below). The 2025 code text was read on the zoneomics mirror because codepublishing.com and gocodebook.com returned 403; the City's Affordable Housing page (watsonville.gov/172) was also opened.",
+      "source_url": "https://www.zoneomics.com/code/watsonville-CA/chapter_35",
+      "record_id": "b594d259ab",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental and for-sale projects of seven or more units (compliance)",
+        "small residential projects and commercial or industrial development (fee payers)",
+        "condominium conversions",
+        "subsidized affordable projects (automatic compliance)"
+      ],
+      "next_deadline_date": "2025-10-09",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Watsonville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Density Bonus Ordinance (Municipal Code Chapter 14-47, Ordinance 1481-25 effective October 9, 2025) with impact fee deferral concession",
+      "administering_agency": "City of Watsonville Community Development Department, Planning Division (Director approves ministerial projects; Council approves discretionary projects)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Adopts Government Code 65915 by reference for all housing developments; bonus calculated under 65915(f) for very low, lower, moderate for-sale, senior, foster youth, student and 100% affordable projects, with land donation, child care and condominium conversion bonuses. Local concession menu (14-47.120) adds deferral of development impact fees (park, fire, sanitary sewer, storm drain and traffic fees) until immediately before occupancy, plus other cost-reducing incentives proposed by the applicant or City. Parking capped at 1 space for 0 to 1 bedroom, 1.5 for 2 to 3 bedrooms and 2.5 for 4 or more bedrooms, tandem and uncovered allowed. Density bonus units do not count toward Chapter 14-46 inclusionary units.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Rental target units 55 years at affordable rent as defined in Chapter 14-46; for-sale target units 45 years with equity sharing under 65915(c)(2); occupancy as principal residence; density bonus housing agreement recorded.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "senior housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Submitted with the first project approval as a density bonus housing plan; projects with 30 or more affordable bonus units must identify a monitoring funding mechanism. Processing and monitoring fees are set by Council resolution.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The fee deferral concession is the only codified fee relief in Watsonville (no waiver program); 100% affordable projects can also use Chapter 14-46 priority processing. Watsonville's bonus mirrors state law with no local enhancement, unlike the County's enhanced bonus in Chapter 17.12.065. Watsonville was certified for its 2023-2031 Housing Element and offers Downtown Watsonville Specific Plan densities; the Specific Plan (Chapter 14-47 of Part 26 on some mirrors) was not opened. Code read on the zoneomics mirror; codepublishing and gocodebook returned 403.",
+      "source_url": "https://www.zoneomics.com/code/watsonville-CA/chapter_36",
+      "record_id": "b590f9fc7c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental and for-sale",
+        "senior housing",
+        "student housing",
+        "100% affordable developments"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Homekey+ and Behavioral Health Bridge Housing, County-sponsored projects",
+      "administering_agency": "San Joaquin County Behavioral Health Services (Homekey+, BHBH) and Veterans Services Office",
+      "funding_type": "grant",
+      "typical_award_size": "Bridge to Home (Central Valley Low Income Housing Corporation): Homekey+ agreement for $15,900,896, January 13, 2026 through March 31, 2027, with a $12,785,399 appropriation in the FY 2025-26 Behavioral Health budget. Behavioral Health Bridge Housing Round 3: fourth amendment with CVLIHC (August 1, 2024 to June 30, 2027), $281,000 to the City of Manteca (March 1, 2026 to June 30, 2036) and $1,500,000 to Mahogany and Oak Consultancy (June 2, 2026 to June 30, 2027). HHAP-5 $1,000,000 for the SJ BeWell Tiny Home Village. HACSJ's Edison House (33 PSH units, 14 for veterans) is a state Homekey+ awardee. News reports describe a February 2026 Board consent action authorizing Veterans Services to apply for up to $38,500,000 of Homekey+ for a campus-style veterans housing village in French Camp near San Joaquin General Hospital; that item was not located in the Board files opened this pass.",
+      "per_unit_cap": "State Homekey+ per-unit limits apply; no County cap.",
+      "affordability_requirement": "Homekey+ and BHBH serve people experiencing homelessness with behavioral health conditions and veterans; PSH with 55-year restrictions for Homekey+ capital.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "State Homekey+ applications are by state NOFA; the County sponsors applications case by case with Behavioral Health Services or Veterans Services as co-applicant. No County solicitation is open.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). The County's role is co-applicant and contract manager rather than lender; developers bring the site and the County brings match, operating funds (BHSA, BHBH, HHAP) and services. CVLIHC is the County's primary operator and Mahogany and Oak and HACSJ are the other repeat partners. Confirm the French Camp veterans village application status with the Veterans Services Office; the figure comes from a news summary of the February 2026 agenda rather than an opened Board file.",
+      "source_url": "https://sanjoaquincountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=12929",
+      "record_id": "0c988884a5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing (acquisition, conversion, new construction)",
+        "interim bridge housing",
+        "tiny home villages",
+        "veterans housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Density Bonus, Development Title Chapter 9-401 (unincorporated county)",
+      "administering_agency": "San Joaquin County Community Development Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "State-law density bonus codified in Chapter 9-401 (2026-10 code edition): 20% base bonus for 10% low-income, 5% very low-income or senior projects; 5% for 10% moderate-income for-sale units; 20% for 10% very low-income units for veterans, transition-age youth or homeless households; 35% for qualifying student housing; sliding scale up to 50% (2.5% per 1% very low-income above 5%, 1.5% per 1% low-income above 10%); land donation bonus 15% to 35%; floor area ratio bonus in the R-H zone for infill near transit with 20% of units at or below 50% AMI; 100% lower-income projects per Government Code 65915. One to four incentives or concessions by affordability tier plus parking reductions; the County may exceed these amounts (9-401.060).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "55-year rental affordability (longer if required by financing); for-sale units sold to qualifying buyers with equity sharing; affordable units integrated with and indistinguishable from market-rate units; replacement of existing affordable units required.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "By application; pre-application response within 90 days; streamlined ministerial approval under 9-401.120 for eligible infill projects with at least 10% of units at or below 80% AMI (60 or 90 day review, deemed approved if missed).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). The unincorporated county has no inclusionary ordinance and no in-lieu fee, so the density bonus and concessions are the only land-use subsidy; the 2023-2031 Housing Element (HCD submittal revised January 2025, adopted and revised June 30, 2026 to transfer RHNA to the new City of Mountain House, 8,808 to 5,113 units) sets a quantified objective of 100 lower-income units through the bonus and commits to fee deferrals for affordable subdivisions. The ministerial pathway in 9-401.120 carries state prevailing wage and skilled workforce requirements for larger projects under Government Code 65913.4, so model labor costs before electing it. Most multifamily sites in the unincorporated county (French Camp, Garden Acres, Lodi and Stockton fringe) are constrained by water and sewer service, which the Housing Element names as the largest constraint. Source is the published Development Title chapter on gocodebook.com (County code host); confirm current text with Community Development at (209) 468-3144.",
+      "source_url": "https://gocodebook.com/library/us/ca/san-joaquin-county/development-title/series-400-additional-use-and-development-regulations/chapter-9-401-affordable-housing-density-bonus",
+      "record_id": "44d4f15ff4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily new construction",
+        "senior housing",
+        "student housing",
+        "100% affordable infill",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption (property tax), San Joaquin County Assessor",
+      "administering_agency": "San Joaquin County Assessor-Recorder-County Clerk, Office of the Assessor, 44 North San Joaquin Street, Second Floor Suite 230, Stockton, (209) 468-2630",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Full exemption of the ad valorem property tax on qualifying low-income rental housing (about 1% of assessed value plus voter-approved debt each year), applied by unit share for LIHTC and other restricted projects under Revenue and Taxation Code 214(g).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Property owned and operated by a qualifying nonprofit or a limited partnership with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate; units restricted to lower-income households by regulatory agreement or tax credits; BOE-267 series claim forms filed with the Assessor.",
+      "eligible_project_types": [
+        "senior housing",
+        "interim housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "February 15, 2027 for the 2027-28 roll; claims filed February 16 through December 31 receive a partial exemption; late deadlines roll to the next business day.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). Standard California process: the Assessor page lists rental housing for lower-income households and HUD-financed elderly or disabled housing among eligible uses and requires a new claim every year. Budget the first-year supplemental and the partial-exemption rule when closing late in the year. Assessor name is on the office leadership page, not the exemption page.",
+      "source_url": "https://www.sjgov.org/department/assessor/tax-savings-exemptions/welfare-exemption",
+      "record_id": "6ddb5c3e48",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC multifamily",
+        "nonprofit-owned affordable rental",
+        "HUD-financed senior and disabled housing",
+        "emergency and transitional shelter"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  }
+]

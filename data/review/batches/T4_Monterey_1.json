@@ -1,0 +1,79 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Round 6 expenditure plan, County and CoC CA-506",
+      "administering_agency": "Monterey County Administrative Office, Homelessness Strategies and Initiatives Division (Roxanne Wilson, Homeless Services Director); Coalition of Homeless Services Providers for the CoC share",
+      "funding_type": "grant",
+      "typical_award_size": "County HHAP-6 allocation $2,779,695.60 (application approved August 4, 2025; award announced March 2, 2026): sustain navigation centers $1,500,000, sustain non-congregate interim housing $379,147.35, develop a permanent supportive housing project with a city partner (youth set-aside, operating subsidies) $277,969.56, sustain PSH beds $228,000, HMIS $200,000, administration $194,578.69. CoC allocation $3,725,577.82 (shared with San Benito through CHSP, which runs its own RFPs). HHAP-7 preliminary County allocation $3,102,894.23. HHAP rounds 1 to 5 brought $27.5 million to the Monterey region.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; Coordinated Entry; regional MOU with San Benito County and CHSP.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "County funds are programmed in the Board-approved expenditure plan; CHSP issues competitive RFPs for the CoC share (HHAP-5 RFP March 2025; watch chsp.org for the HHAP-6 RFP). HHAP-7 planning runs through 2027.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. The County set aside about $278,000 of HHAP-6 as operating subsidy for a new PSH project with a city partner, the only HHAP capital-adjacent commitment in the region; CoC-side money is competitive through CHSP. Source is the August 4, 2025 Board resolution item (Legistar file RES 25-129) with the funding plan attached.",
+      "source_url": "https://monterey.legistar.com/LegislationDetail.aspx?ID=62851&GUID=AB494293-2BA0-4507-AB57-EA71802FC6D2",
+      "record_id": "bdd9100579",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "navigation center and interim housing operations",
+        "permanent supportive housing operating subsidies",
+        "HMIS and system support"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Density bonus and incentives (Chapter 21.65) and Sixth Cycle Housing Element implementation (by-right approvals, objective design standards)",
+      "administering_agency": "Monterey County Housing and Community Development Department, Planning Services",
+      "funding_type": "density bonus",
+      "typical_award_size": "Chapter 21.65 (Ordinance 5177, 2011) implements state density bonus law up to a 35% bonus (5% very low income units earn 20%, rising by 2.5 points per additional percent) with incentives, parking reductions, child care and land donation bonuses; Section 21.65.110 states the bonus does not satisfy the Inclusionary Housing Ordinance and inclusionary units are computed on base plus bonus units. The Sixth Cycle (2023-2031) Housing Element Update and implementation package went to the Board on October 23, 2026 (ORD 26-021) after the Planning Commission on October 7, 2026, adding Chapter 18.20 objective design standards, a coastal by-right approval chapter (20.59), rezoning of housing sites and amendments to Titles 18, 20 and 21; HCD had found the third submittal (April 2026) still needing revisions.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 thresholds with recorded qualifying unit agreements (Section 21.65.120); inclusionary obligations remain.",
+      "eligible_project_types": [
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested with the land use application; confirm Housing Element adoption and HCD certification status (late 2026) because HHAP second disbursements and state program eligibility depend on it.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. Monterey's land use incentives are modest and layered on an inclusionary mandate; the 2026 Housing Element package is the main change, opening by-right paths for affordable projects on rezoned sites in Castroville, Boronda, Pajaro and Carmel Valley (Rancho Canada, September Ranch inclusionary units). Source is Chapter 21.65 on zoneomics.com; Housing Element status from Legistar files ORD 26-021 and PC 26-098.",
+      "source_url": "https://www.zoneomics.com/code/monterey-county-unincorporated-CA/chapter_41",
+      "record_id": "3d28466135",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily and mixed-income housing in unincorporated zones",
+        "senior housing",
+        "projects on Housing Element rezoned sites (by-right where 20% affordable)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

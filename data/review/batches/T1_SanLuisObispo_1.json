@@ -1,0 +1,119 @@
+[
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Paso Robles",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Inclusionary housing ordinance and local affordable housing fund (none adopted; Housing Element finding)",
+      "administering_agency": "City of El Paso de Robles Community Development Department, Housing Programs Division",
+      "funding_type": "other",
+      "typical_award_size": "None. The 2020-2028 Housing Element states the City of Paso Robles does not have an inclusionary ordinance, and the City holds no inclusionary in-lieu fund, local housing trust fund or RDA successor housing fund for development. The Housing Programs Division's development support is limited to CDBG (about $165,000 per year through the Urban County), applying for County-administered HOME funds, fee deferrals and liaison with the Paso Robles Housing Authority. A November 2025 townhouse proposal offered a voluntary in-lieu payment tied to the County's Title 22 point system for use in a future tax-credit project, which indicates ad hoc negotiated contributions rather than a program.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable; no program exists as of November 8, 2026. Watch the 7th cycle Housing Element update for any inclusionary or local housing fund program.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Negative finding recorded so the gap is visible: Paso Robles is the largest North County city and offers no local gap funding beyond fee deferrals. Developers must rely on County Title 29 and the new Regional Housing Fund (county records), HASLO and Paso Robles Housing Authority vouchers, SLO County Housing Trust Fund and state programs. The 2020 Housing Element workshops listed a possible local housing fund (General Fund, TOT, in-lieu fees) as an option but none was adopted. prcity.com pages and the HCD-hosted Housing Element were opened; the 2025 Annual Progress Report could not be located on prcity.com.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-adopted120920.pdf",
+      "record_id": "9ee24b94ff",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Kept funding_type other: this is a negative finding with no deployable fund; the Housing Element states the City has no inclusionary ordinance and lists only General Fund fee deferral loans, Urban County CDBG and HOME, and the private SLO County Housing Trust Fund as resources.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Arroyo Grande",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "needs_confirmation",
+      "program_name": "Inclusionary Affordable Housing Requirements (Municipal Code Chapter 16.80; Ord. 595, 2007) and in-lieu fee",
+      "administering_agency": "City of Arroyo Grande Community Development Department (City Council decides units, fee or land on each project)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Applies to new residential projects of two or more units, substantial rehabilitation of two or more units and condo conversions. Options: 5% very low income units, or 10% lower income units, or 15% moderate income units (rental or non-common-interest projects), or an equivalent combination; or an in-lieu fee set by Council resolution (the Housing Element reports the fee was raised from 1% to 5%, applied to construction valuation); or land dedication. Projects of two to four units may always pay the fee. Fees go to the Inclusionary Affordable Housing Trust Fund (Sections 16.80.070 and 16.80.080). Through 2020 only two very low income units had been entitled; nearly all applicants paid the fee.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Rental units restricted at least 55 years, ownership units at least 45 years, at affordable housing cost per Health and Safety Code 50052.5 and 50053; units dispersed and comparable to market-rate units; affordable housing agreement required before map approval or building permit.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; fee paid before the first ministerial permit (grading, demolition or building). Housing Element Program E.1-1 called for amending the requirements and fee within two years of the January 26, 2021 adoption; the fee methodology was still preliminary when the element was adopted.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Low threshold (two units) means almost every multifamily project pays into the trust fund, which is the City's only local gap source (separate record). Chapter 16.80.110 coordinates with the density bonus chapter; inclusionary units can count toward density bonus thresholds. Incentives listed in the Housing Element for inclusionary projects include density bonuses, fee waivers or reductions and modified development standards, but no standing fee waiver ordinance was found. County inclusionary ordinance was repealed in 2022, so this is one of only two active inclusionary programs in the county (with the City of SLO). Read on the zoneomics mirror; arroyogrande.org opens but its housing pages are thin and the eScribe agenda host renders in JavaScript.",
+      "source_url": "https://www.zoneomics.com/code/arroyo-grande-CA/chapter_21",
+      "record_id": "44f0f7c2a8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "mixed-use"
+      ],
+      "next_deadline_date": "2021-01-26",
+      "deadline_check": "past_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4: only the Zoneomics mirror of Chapter 16.80 could be read (Arroyo Grande code on codepublishing is blocked); text matches on applicability (two or more units, substantial rehab, conversions), 5% very low, 10% lower or 15% moderate options, fee by Council resolution paid before the first ministerial permit, two to four unit fee option, land dedication, trust fund and 55 and 45 year terms. Mirror-only source does not by itself support verified; current fee resolution not re-read. prevailing_wage_trigger false is uncited. Confidence held at needs_confirmation: mirror-only source.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Arroyo Grande",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "needs_confirmation",
+      "program_name": "Density Bonuses (Municipal Code Chapter 16.82; Ord. 596, 2007)",
+      "administering_agency": "City of Arroyo Grande Community Development Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement-based entitlement, not a subsidy. Local codification of state density bonus law: one density bonus per project for 10% lower income, 5% very low income, senior housing, qualified mobilehome park or 10% moderate income for-sale units, with specified bonus percentages, incentives and concessions, waivers of development standards, parking incentives and land donation provisions. Section 16.82.130 defers to state law amendments, so the larger bonuses and lower thresholds in current Government Code 65915 apply even though the chapter text dates to 2007.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Chapter text requires 30-year affordability for low and very low income bonus units (state law now requires 55 years, which governs); equity sharing for moderate income for-sale units.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; requested with the planning application.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement beyond state law; the chapter has not been comprehensively updated since 2007 and relies on its state-law amendment clause. Inclusionary units under Chapter 16.80 can be used to qualify for the bonus (Section 16.80.110), which is the main local layering point. Arroyo Grande has no fee waiver ordinance, RDA successor housing fund or NOFA; its tools are the inclusionary trust fund and this chapter, plus County and HASLO resources. Read on the zoneomics mirror.",
+      "source_url": "https://www.zoneomics.com/code/arroyo-grande-CA/chapter_22",
+      "record_id": "8e382c7245",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4: only the Zoneomics mirror of Chapter 16.82 could be read; text matches on qualifying categories, 30-year affordability language, equity sharing for moderate for-sale units and Section 16.82.130 deferring to amended state law. Mirror-only source does not by itself support verified. prevailing_wage_trigger false is uncited; a density bonus is not a payment of public funds. Confidence held at needs_confirmation: mirror-only source.",
+      "last_audited": "2026-11-09"
+    }
+  }
+]

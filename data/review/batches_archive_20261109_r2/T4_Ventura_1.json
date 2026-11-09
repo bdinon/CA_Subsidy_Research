@@ -1,0 +1,193 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "County General Fund and ARPA affordable housing NOFA and direct allocations",
+      "administering_agency": "Ventura County Executive Office, Community Development",
+      "funding_type": "loan",
+      "typical_award_size": "October 2022: $30.5 million of ARPA and General Fund committed to housing and homelessness, including $19,390,000 of direct allocations (Mesa Ojai $1,200,000; Casa Pacifica Stepping Stones $640,000; Vanguard and Knoll PSH, Oxnard and Ventura, $7,500,000; Ventura College student housing $3,000,000; Housing Trust Fund Ventura County $1,500,000; La Quinta Homekey match $5,550,000) and $11,110,000 released through a NOFA in 2023. A further General Fund NOFA released in fall 2025 produced April 2026 recommendations of $5.2 million for Topa Vista Villas (Santa Paula, 112 units), Fillmore Terrace (Fillmore) and Santa Clara Apartments (Ventura). The FY 2025-26 budget carried $11.7 million for affordable housing in unincorporated areas. Earlier General Fund rounds: $1,000,000 for farmworker housing (Rancho Verde $240,000, Peoples Place $380,000, Dolores Huerta Gardens $380,000) and $300,000 to HTFVC (2020).",
+      "per_unit_cap": "Not published; recent awards of roughly $1 million to $3 million per project.",
+      "affordability_requirement": "Lower income rental housing with long-term County regulatory agreements (55 years typical); PSH and farmworker priority.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "farmworker housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "NOFAs are issued when the Board appropriates funds (summer or fall 2023, fall 2025); the FY 2026-27 adopted budget lists housing and homelessness as a key investment area but no new NOFA was found by November 2026. Join the Community Development distribution list (vcportal.venturacounty.gov/CEO/community-dev) for the next notice.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. This is the County's real gap source: $1 million to $7.5 million commitments drawn from ARPA and General Fund, awarded through periodic NOFAs run alongside the HUD cycle and used as local match for Homekey, tax credit and state applications. Source is the May 2023 Community Development summary of funded projects and sources; the fall 2025 NOFA results are reported in the FY 2026-27 Annual Action Plan.",
+      "source_url": "https://vcportal.venturacounty.gov/CEO/community-dev/docs/Affordable%20Housing%20Projects%20%26%20Funding%20Sources%20%28May%202023%29.pdf",
+      "record_id": "18e304b2be",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental new construction",
+        "permanent supportive housing",
+        "farmworker housing",
+        "student housing (one-time)",
+        "Homekey local match"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Density bonus (Non-Coastal Zoning Ordinance Article 16) and Residential High Density zone ministerial approvals with affordability requirement",
+      "administering_agency": "Ventura County Resource Management Agency, Planning Division (plan.counter@venturacounty.gov, (805) 654-2488)",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus and incentives implemented in NCZO Article 16 (Housing Element program HE-M update completed) and Coastal Zoning Ordinance Section 8175-6. Residential High Density (RHD) zone: seven parcels (four in El Rio/Del Norte, two in Santa Susana, one in the Thousand Oaks area) allow 20 to 22 units per acre by ministerial RHD Zoning Clearance with no hearing; standards updated September 16, 2025 (program HE-H). Each RHD project must choose 20% lower income, 10% very low income, 5% extremely low income, or 30% lower income through alternative compliance (land donation, acquisition assistance to an affordable developer in a same-or-higher resource area, or an equivalent action). Piru expansion area projects must keep 10.5% of units affordable to low income households.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 thresholds for the bonus; RHD affordability options as listed with recorded affordable housing agreements.",
+      "eligible_project_types": [
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested with the zoning clearance or permit application; RHD Zoning Clearance checklist on the RMA RHD page.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. The RHD zone is the County's one locally designed incentive: by-right density in exchange for a modest inclusionary share, with an alternative compliance path that lets market-rate builders fund an affordable developer's land purchase. Source is the RMA Affordable Housing in the RHD Zone page; the density bonus article is in the NCZO PDF on rmadocs.venturacounty.gov.",
+      "source_url": "https://rma.venturacounty.gov/divisions/planning/affordable-housing-in-residential-high-density-zone/",
+      "record_id": "55982dbbcf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily on RHD-zoned parcels (ministerial)",
+        "density bonus projects in residential zones",
+        "farmworker housing complexes (Somis Ranch model)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oxnard",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Oxnard CDBG, HOME, ESG and HOME-ARP entitlement funds (FY 2026-27 Annual Action Plan)",
+      "administering_agency": "City of Oxnard Housing Department, Grants Management Division",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2026-27: CDBG $2,064,353 plus $445,685.51 carryover ($2,510,038.51); HOME $610,559.44 (less $61,055.94 admin) plus $1,446,538.38 carryover, $1,996,041.88 available for affordable housing development; ESG about $182,351. HOME-ARP conditional loan awards issued to Cypress Place at Garden City Phase II (People's Self-Help Housing, 60 units) and Aspire Apartments (Many Mansions, 88 units, with HOME and CDBG loans).",
+      "per_unit_cap": "HOME per-unit subsidy limits (24 CFR 92.250) apply.",
+      "affordability_requirement": "HOME rental units at HOME rents and incomes (80% AMI cap, 20% of units at Low HOME rent in 5+ unit projects); HOME-ARP qualifying populations. City conditions awards on securing all other funding and Council approval.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Annual Action Plan adopted each May; FY 2027-28 HUD funding NOFA expected late 2026 or early 2027, unknown, verify with agency.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Oxnard is a direct HUD entitlement for CDBG, HOME and ESG and is outside the Ventura County HOME Consortium, so county HOME is generally not available inside Oxnard. HOME triggers federal Davis-Bacon at 12+ HOME units and CDBG at 8+ units; state prevailing wage may also apply. HOME-ARP is one-time money. Pair with in-lieu fund loans and the Housing Authority of the City of Oxnard (budgeted $36.6 million for HCV in FY 2026-27) for project-based vouchers. Policy H-4.2 allows fee waivers for affordable projects consistent with state law; no standing fee waiver schedule was found.",
+      "source_url": "https://www.oxnard.gov/wp-content/uploads/pdfs/departments/housing/final-fy-2026-27-annual-action-plan.pdf",
+      "record_id": "19cf45dc12",
+      "cycle_notes": "HUD grant cycle, fall to winter",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Thousand Oaks",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Thousand Oaks Affordable Housing Trust Fund (Municipal Code Title 9, Chapter 10, Article 2, Ord. 1506-NS as amended by 1719-NS)",
+      "administering_agency": "City of Thousand Oaks Community Development Department",
+      "funding_type": "loan",
+      "typical_award_size": "Special revenue fund for very low, lower and moderate income housing, funded by inclusionary in-lieu fees, loan repayments, grants and Council appropriations. Nonresidential linkage fee proceeds go to a separate subaccount, but the linkage fee is set at $0 per square foot (Council direction 2023). Fund balance not published in the documents opened.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units assisted are subject to an Affordable Housing Agreement under Article 6; funds may only be spent within city limits.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No City NOFA found; the 2024 APR says the County administers the City's HOME and PLHA and that developers were expected to request funding in 2025. Contact Community Development (Senior Planner Iain Holt).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Revenue has been thin because the in-lieu fee was set at zero from 2009 until the November 2023 update. The City has used land instead: it donated Hillcrest area land to the Housing Land Trust Ventura County for a 78-unit for-sale townhome project with People's Self-Help Housing, provided City land for a 50-bed navigation center, and partnered with the County on Step Up (77 extremely low income PSH units). A PLHA grant went to HTFVC as Local Housing Trust Fund match in FY 2021-22. For rental gap, look first to the County PLHA plan (which covers Thousand Oaks), the County HOME Consortium and HTFVC.",
+      "source_url": "https://www.zoneomics.com/code/thousand-oaks-CA/chapter_10",
+      "record_id": "c39bce1dcb",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Thousand Oaks",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Thousand Oaks Density Bonus Program plus Incentives for Small and Underutilized Parcels and Lot Consolidation (TOMC 9-10 Articles 5, 7 and 8)",
+      "administering_agency": "City of Thousand Oaks Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus with local add-ons: small and underutilized parcel projects at 20+ units per acre may request any two extra incentives beyond density bonus incentives (Art. 7); lot consolidation projects get a pre-application with no Planning Division fees and waivers of listed Mixed-Use standards such as ground floor height, retail depth and some setbacks (Art. 8).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Density bonus per Gov. Code 65915 with 55-year rental covenants; lot consolidation incentives on MU, MUOZ or R-3 sites outside the sites inventory require 20% of rental units affordable to lower income households.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applied with the entitlement application.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Council may grant more density than state law (9-10.502(b)), but the code states the City need not provide financial participation such as fee waivers or land. November 2024 zoning amendments (Housing Element Program 8) updated density bonus, lot merger and SB 35 streamlining provisions. Stack with inclusionary compliance and the impact fee deferral program.",
+      "source_url": "https://www.zoneomics.com/code/thousand-oaks-CA/chapter_10",
+      "record_id": "8c520e2130",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

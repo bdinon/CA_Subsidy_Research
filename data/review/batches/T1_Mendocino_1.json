@@ -1,0 +1,77 @@
+[
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "County Affordable Housing Trust Fund (Section 20.234.010), established but uncapitalized",
+      "administering_agency": "Mendocino County Board of Supervisors; to be administered by a nonprofit designated by the Board",
+      "funding_type": "other",
+      "typical_award_size": "Section 20.234.010 (Ord. No. 4538, September 10, 2024) establishes an Affordable Housing Trust Fund to receive all funds collected under Chapter 20.234 (equity-sharing payments on density bonus for-sale units) and monies from other sources, administered by a Board-designated nonprofit and spent per the Housing Element to construct, rehabilitate or subsidize housing for extremely low through moderate income households, with an annual Board accounting. No deposits, designated administrator or awards were found in Board records.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Extremely low, very low, low and moderate income households; renter or owner housing.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No funding; watch the annual Board review required by the chapter and the 2027-2035 Housing Element for a capitalization source.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. Confirmation needed on whether any balance exists; the 2024 code created the vehicle without a revenue stream, so treat it as a future possibility only. Source is Ordinance No. 4538 (Inland Zoning Code Update, adopted September 10, 2024, Legistar item 24-0848), Section 20.234.010; zoneomics carries the same text. A Legistar title search found no item designating an administrator or depositing funds.",
+      "source_url": "https://mendocino.legistar1.com/mendocino/attachments/e38e6ee8-fa1a-4fe6-9d3d-166d489237ad.pdf",
+      "record_id": "6b8eda0373",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "construct, rehabilitate or subsidize affordable renter or owner housing for extremely low to moderate income households (when funded)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "funding_type kept as other: the fund has no revenue stream, no balance and no designated administrator, so nothing is deployable; reclassify to loan or grant if the Board capitalizes it and sets terms. Source moved from the zoneomics mirror to the official ordinance on Legistar.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Ukiah",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Mendocino",
+      "confidence": "needs_confirmation",
+      "program_name": "Ukiah density bonus (Zoning Code Section 9253) and development fee deferral for affordable housing",
+      "administering_agency": "City of Ukiah Community Development Department, Planning Services",
+      "funding_type": "density bonus",
+      "typical_award_size": "Incentive, not a subsidy. Section 9253 (Ord. 945, 1993) grants at least the bonus and incentives in Government Code 65915 and lets the City deliver them through Planned Development zoning regardless of parcel size or a Council variance waiving development standards. The 2019 Housing Element reports a fee deferral program for housing developers (water and sewer hookups are the largest fees; typical multifamily fees about $12,500 per unit, 9.5% of development cost) and that affordable developers may receive funding and fee deferrals for infrastructure.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus thresholds (Gov. Code 65915); deed restriction per state law (55 years for rental).",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; requested with the project application.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Ukiah has no inclusionary ordinance or in-lieu fee; the 2019 Housing Element removed the inclusionary program and the nexus study, relying on the trust fund and by-right zoning instead. The 1993 code text predates recent state amendments, and the zoneomics mirror may lag the current Ukiah City Code (codepublishing.com is blocked to scripts); state law controls where it is more generous. Fee deferral terms were not found in a current resolution, so confirm amounts and timing with Planning (707-463-6268). A deferral of City fees is likely a public subsidy under Labor Code 1720(b)(4) unless repaid at market terms. The County density bonus ordinance (Chapter 20.234) does not apply inside city limits.",
+      "source_url": "https://www.zoneomics.com/code/ukiah-CA/chapter_27",
+      "record_id": "4ff9e36e74",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Nov 9, 2026 spot check: Section 9253 (Ord. 945, 1993; at least 65915 bonuses, PD zoning regardless of parcel size, Council variance) matches the zoneomics mirror only; the fee deferral statement from the 2019 Housing Element was not re-found on an official page. Mirror-only source does not support verified.",
+      "last_audited": "2026-11-09"
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Multifamily Housing Revenue Bonds, County of Alameda conduit issuer",
+      "administering_agency": "Alameda County Housing and Community Development Department (issuer staff) with the Board of Supervisors",
+      "funding_type": "bond",
+      "typical_award_size": "The County issues tax-exempt multifamily housing revenue bonds on request: example, up to $24,000,000 for SAHA's 51-unit 3268 San Pablo Apartments in Oakland (inducement Oct 9, 2018, bond resolution April 23, 2019, CDLAC Resolution 19-011). Issuer fees per that regulatory agreement: an issuance fee at closing and an annual fee of the greater of 0.125% of outstanding principal or $7,500 for the qualified project period. No 2025 or 2026 County bond issuances were located; CMFA issued for Eden Housing in Dublin, RCD in Berkeley and the Housing Authority of the City of Alameda in that period.",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDLAC and Section 142(d) minimums (20% at 50% AMI or 40% at 60% AMI) under a County regulatory agreement; County-financed projects typically carry deeper restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Tied to CDLAC rounds: TEFRA hearing and inducement resolution by the Board before the CDLAC application, then a bond resolution before closing. Ask HCD whether it will issue; most recent East Bay deals used CMFA or CSCDA.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The County will act as issuer for projects it also funds, which keeps monitoring under one regulatory agreement, but it is not an active conduit shop. Bonds alone do not trigger state prevailing wage; County A1, Measure W or HOME loans in the deal do. Terms read from the April 23, 2019 Board letter and regulatory agreement (opened); confirm current fees with HCD.",
+      "source_url": "https://www.acgov.org/board/bos_calendar/documents/DocsAgendaReg_05_07_19/GENERAL%20ADMINISTRATION/Regular%20Calendar/CDA_279192.pdf",
+      "record_id": "f40ae37fff",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oakland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Impact Fee, OMC Chapter 15.72 (2025 amendments, Ordinance 13853 C.M.S.), with exemption for affordable housing projects and Fund 1872",
+      "administering_agency": "City of Oakland Planning and Building Department (collection, impactfees@oaklandca.gov) and HCD (expenditure through NOFAs)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Requirement on market-rate housing and a funding source for affordable housing. July 15, 2025 amendments converted the fee from per unit to per square foot (AB 602): multifamily Zone 1 $36.17 per sq ft (was $29,658 per unit), Zone 2 $29.18 (was $23,929), Zone 3 $19.73 but set at 0% through FY 2027-28; townhome $14.98 / $10.97 / $5.99 (Zone 3 at 0%); single family $12.66 / $9.08 / $4.40 (Zone 3 at 0%). Annual Marshall and Swift inflation adjustment each July 1. Exempt: 100% affordable projects, projects providing the on-site or off-site affordable units specified in 15.72.100-110, ADUs, 2 to 4 unit projects, single-family homes under 1,750 sq ft, SB 684 projects, and the first four smallest units in larger projects. All impact fee payments deferred to certificate of occupancy for 100% affordable and density bonus projects (SB 937 alignment). FY 2024-25 AHIF fund: start $18,162,106, end $10,737,051, $6,577,455 spent, $5,893,752 committed, $4,843,299 being committed to NOFA pipeline projects.",
+      "per_unit_cap": "Not applicable (exemption). Mixed-income option: provide on-site affordable units at the percentages in 15.72.100 to zero out the fee.",
+      "affordability_requirement": "Exemption requires 100% affordable (manager units excepted) or the on-site mix in 15.72.100 (chosen to align with state density bonus thresholds); fee revenue funds 100% affordable developments for extremely low to moderate income households through the NC NOFA.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fee due at building permit (installments) or deferred to certificate of occupancy for affordable and density bonus projects; rates adjust each July 1. Zone 3 zero rate expires June 30, 2028 unless extended.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Oakland has no general permit or impact fee waiver program; the AHIF exemption plus SB 937 deferral of transportation and capital improvement fees is the relevant relief. Affordable projects still pay the Transportation Impact Fee (Ch. 15.74) but are exempt from the Capital Improvements Impact Fee. AHIF revenue (Fund 1872) is one of the non-bond sources commingled with Measure U in the NC NOFA, so this record both reduces developer cost and feeds the Oakland NOFA record. No county impact fee exists for comparison. Fee rate schedule read in the July 2025 Master Fee Schedule exhibit on Legistar; the annual report FY 2024-25 (November 2025) supplied balances.",
+      "source_url": "https://oakland.legistar1.com/oakland/attachments/b2194064-f7d7-4deb-b57e-d33d286c32be.pdf",
+      "record_id": "38f951c61a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income (on-site compliance)",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": "2028-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oakland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation (renewed 2025, Resolution 90836 C.M.S.) and Prohousing Incentive Pilot Program grants",
+      "administering_agency": "City of Oakland HCD, Housing Policy Unit",
+      "funding_type": "grant",
+      "typical_award_size": "Oakland was the first Bay Area jurisdiction designated Prohousing (December 2022); renewal for a 3-year term authorized September 16, 2025. Prohousing Incentive Program awards: $2,390,000 (Round 1, 2023) dedicated to capitalized service reserves for deeply affordable housing; Rounds 2 and 3 unsuccessful ($1,390,000 requests); Round 4 application for up to $1,600,000 authorized March 2026 for capitalized service reserves for PSH units in R2H2 or NC NOFA projects.",
+      "per_unit_cap": "None; grants are sub-awarded to projects by HCD as grants or loans.",
+      "affordability_requirement": "Capitalized service reserves for permanent supportive housing and deeply affordable units identified through City NOFAs.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Round 4 results pending as of March 2026; next state PIP round unknown, verify with HCD.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Developers benefit indirectly: Oakland projects receive Prohousing scoring points in AHSC, IIG, TCC and other state programs, and PIP dollars are routed to service reserves that make PSH projects feasible. Hayward and San Leandro also hold or expect Prohousing status. No county equivalent.",
+      "source_url": "https://oakland.legistar1.com/oakland/attachments/7517a614-abf5-43fa-bad4-4cf1bc78d82f.pdf",
+      "record_id": "bb65553d29",
+      "cycle_notes": "state PIP rounds, when issued",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

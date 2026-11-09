@@ -1,0 +1,77 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "HOME-ARP rental housing development and supportive services (Allocation Plan amended October 20, 2026)",
+      "administering_agency": "Fresno County Department of Public Works and Planning, Community Development Division",
+      "funding_type": "loan",
+      "typical_award_size": "Total HOME-ARP allocation $4,960,751 (available through September 30, 2030). Amended plan: rental housing development $2,500,000 (reserved to Sendero Commons, Sanger, 87 PSH units at 30% AMI), supportive services $1,717,851, administration $742,900; the original 100% developer match requirement and the $450,000 operating reserve were removed. Housing production goal reduced to 10 qualifying-population units.",
+      "per_unit_cap": "HUD HOME per-unit subsidy limits.",
+      "affordability_requirement": "HOME-ARP qualifying populations (homeless, at risk, fleeing violence or trafficking, other at-risk) with preferences added in the amendment for Sendero Commons; 15-year minimum HOME-ARP affordability, County typically records longer.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Funds may be requested through the annual Affordable Housing Development NOFO or by direct approach to ComDev; the County reported that no developer had taken on HOME-ARP in the three years before Sendero Commons, so the remaining balance is effectively available to the next PSH project that can navigate the federal requirements.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. HOME-ARP is being used as the County's capital piece in the Sendero Commons stack (Homekey+, NPLH, HHIP and PLHA). Staff flagged the program's complexity and a hard 2030 expenditure deadline, so a shovel-ready PSH project in a JPA city or unincorporated area could pick up any unspent balance quickly. Source is the October 20, 2026 Board item (file 26-0945) with the draft amended Allocation Plan.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=78134&GUID=73F4D8DA-1838-4C3B-A26C-1A0C1C4DB880",
+      "record_id": "45a36d35a9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing new construction",
+        "affordable rental development serving qualifying populations",
+        "supportive services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Office of Housing and Homelessness: Transitional Rent, Housing Flex Pool and Continuum of Care administration",
+      "administering_agency": "Fresno County Administrative Office, Office of Housing and Homelessness (Dylan McCully, Division Manager)",
+      "funding_type": "rental assistance",
+      "typical_award_size": "OHH administers more than $12 million a year of homelessness grants (HHAP, ESG, CalWORKs housing, state Transitional Housing and Housing Navigation programs) and is the Collaborative Applicant and Management Entity for the Fresno Madera CoC (HUD CoC program and Coordinated Entry) and the county lead for the CalAIM Transitional Rent benefit; Phase 2 (approved November 3, 2026) moves Behavioral Health housing programs and ComDev housing programs under OHH with a budget and salary resolution to follow.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households referred through Coordinated Entry; Transitional Rent covers up to six months of rent for eligible Medi-Cal members.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. OHH is to return to the Board within 12 months (by November 2027) with an update; the Housing Flex Pool operator RFP is planned under the BHSA Integrated Plan. Developers seeking referrals or operating subsidy for PSH units should contact OHH.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. OHH is now the single door for County operating money (HHAP, Transitional Rent, BHSA subsidies routed through the flex pool) and for CoC letters of support, which the County's own NOFO requires for projects with homeless set-asides or HOME-ARP requests. Capital lending stays with ComDev for now. Source is the November 3, 2026 Board item (file 26-1099) with the Phase 2 organization chart.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=78288&GUID=4C74CAC9-E2D6-490E-8C5A-CC99327C7BE9",
+      "record_id": "d1873ee910",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "operating and rental subsidy for PSH units",
+        "master leasing and flex pool units",
+        "coordinated entry referrals for set-aside units"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

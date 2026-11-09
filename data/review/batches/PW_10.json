@@ -1,0 +1,1064 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County formula allocation",
+      "administering_agency": "San Joaquin County Human Services Agency, Neighborhood Preservation Division",
+      "funding_type": "grant",
+      "typical_award_size": "HCD formula allocation to the County: $919,667 (2024 allocation year), $985,099 (2025), estimated $5,747,919 for the 2024-2028 five-year plan; for 2019-2023 the County was eligible for an estimated $7,571,813 and had received $5,587,686 by early 2026. The County directs its PLHA to Activity 6 (emergency shelter and navigation center operations). 2026 NOFA: $1,884,922 from the 2022 and 2023 allocations; seven grant agreements approved June 30, 2026 (City of Manteca $206,324, City of Tracy $206,324, Gospel Center Rescue Mission $206,324, St. Mary's Community Services $206,324, Haven of Peace $400,000, HOPE Ministries $280,000, McHenry House of Tracy $379,626) running through June 30, 2030.",
+      "per_unit_cap": "Not applicable; the County PLHA plan funds operations, not capital.",
+      "affordability_requirement": "PLHA Activity 6 serves persons experiencing or at risk of homelessness; applicants must show site control for a navigation center. County retains 5% for administration.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. No new County PLHA NOFA is posted on the Neighborhood Preservation page and the County has not announced timing. Contact fiscalneighborhood@sjgov.org.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). The County's PLHA five-year plan does not fund multifamily capital, so PLHA is not a County gap source for tax credit deals here; it sustains shelter operations that otherwise compete with HHAP. Stockton, Lodi, Tracy and Manteca receive their own PLHA formula allocations and may use them differently (Pass 3). County allocation figures are from the HCD 2024-2028 PLHA NOFA allocation tables; the 2019-2023 figures and the Activity 6 plan are from the County PLHA public notice (source).",
+      "source_url": "https://www.sjchsa.org/Portals/0/resources/neighborhood-preservation/home/PLHA---PUBLIC-NOTICE.pdf",
+      "record_id": "5da19cf3d0",
+      "cycle_notes": "Last County PLHA NOFA ($1,884,922 from the 2022 and 2023 allocations for navigation center operations) opened January 16, 2026 and closed February 20, 2026 at 4:00 pm; grant agreements approved June 30, 2026. Future rounds would use the 2024-2028 allocations; timing not announced.",
+      "eligible_project_detail": [
+        "emergency shelter and navigation center operations",
+        "supportive and case management services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "HHAP Round 6 local NOFA and Continuum of Care CA-511 (County and SJCoC allocations)",
+      "administering_agency": "San Joaquin County Human Services Agency, Neighborhood Preservation Division, with the San Joaquin Continuum of Care",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 allocations: County of San Joaquin $5,399,638.58 and San Joaquin Continuum of Care $5,766,906.84 (City of Stockton runs its own separate process; the regional HHAP-6 plan totals $22,698,332.21). Local NOFA funds available (October 19, 2026): County $4,967,667.49 total, of which permanent housing operating/services $485,967.47, rental assistance and rapid rehousing $485,967.47, interim housing operating/services $2,483,833.74, prevention and diversion $971,934.95, youth set-aside $539,963.86 ($404,972.90 interim, $134,990.97 rapid rehousing); CoC $5,305,554.30 total, of which permanent housing operating/services $519,021.62, rental assistance and rapid rehousing $519,021.62, interim housing operating/services $2,652,777.14, prevention and diversion $1,038,043.23, youth set-aside $576,690.69 ($432,518.01 interim, $144,172.67 rapid rehousing). Remainder is administration. Applicants may request up to the maximum in each category. County funds are only for projects outside the City of Stockton or countywide; Stockton-only projects may apply only to the CoC allocation. Regional plan context: permanent housing about 18% of the regional budget, capital $0. HHAP-5 local awards: 30 agreements totaling $6,430,416.36 approved March 3, 2026, plus $1,000,000 HHAP-5 to the SJ BeWell Tiny Home Village.",
+      "per_unit_cap": "Not applicable; no capital line in HHAP-6.",
+      "affordability_requirement": "Housing First compliant projects serving people experiencing homelessness; HHAP-6 priorities are sustaining existing permanent and interim housing investments. Applicants must be 501(c)(3) nonprofits, tribes or public agencies.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 local NOFA released October 19, 2026; applications due 2:00 pm Friday, November 20, 2026 by email to fiscalneighborhood@sjgov.org or in person at 400 E. Main Street, Stockton.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). HHAP has been used as a small capital and operating piece in County-area PSH (for example $1,000,000 in Lodi Commons and $1,000,000 HHAP-5 for the BeWell tiny home village), but the HHAP-6 regional plan budgets $0 for capital and shifts money to sustaining operations, so developers should treat HHAP as an operating or services source for existing PSH rather than a construction source. The 2025 Regional Homeless Action Plan reports 240 PSH units built in the past five years and 200 plus in the pipeline, and a shelter inventory growing from 1,346 to 1,934 beds by the end of 2026. HHAP rounds 1 through 6 brought roughly $82.7 million to the region. HUD CoC Program funds flow through the SJCoC annual competition (2024 announcement posted on sjchsa.org); Stockton, the County and the CoC file a joint HHAP action plan.",
+      "source_url": "https://www.sjchsa.org/Portals/0/resources/neighborhood-preservation/home/HHAP6%20Application%20FINAL%2010.27.26.pdf",
+      "record_id": "247db77da2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent housing rental subsidies and services",
+        "rapid rehousing",
+        "interim housing and navigation center operations",
+        "homeless prevention",
+        "operating support for existing supportive housing"
+      ],
+      "next_deadline_date": "2026-11-20",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4: the earlier text gave $2,042,849.90 each for permanent housing rapid rehousing and services on the County and CoC lines; the local NOFA shows $485,967.47 (County) and $519,021.62 (CoC) per permanent housing category, so the $2.04M figure appears to be a regional total. Deadline, eligibility and Housing First terms match. prevailing_wage_trigger false is uncited; HHAP-6 local NOFA funds operations, services, rental assistance and prevention only, with no capital.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Housing Authority of the County of San Joaquin (HACSJ)",
+      "administering_agency": "Housing Authority of the County of San Joaquin (PHA code CA024), 2575 Grand Canal Boulevard, Suite 100, Stockton",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HACSJ administers 5,380 Housing Choice Vouchers and 910 public housing units (FY 2026-27 Annual Plan). PBVs are awarded through Requests for Proposals for existing, new construction or substantially rehabilitated housing serving persons with disabilities, veterans and families; a past RFP offered up to 130 PBVs for existing units. FY 2026-27 project-basing: Tracy Apartments Phase I 32 PBVs plus 22 RAD and tenant protection vouchers (54 units), Lodi Commons 32 PBVs plus 22 ACC units (estimated PBV subsidy $152,172 a year), Edison House 19 PBVs plus 14 HUD-VASH (33 units), Grant Street Apartments 24 PBVs.",
+      "per_unit_cap": "Payment standards set annually by HACSJ; PBV rents capped at the lower of reasonable rent or 110% of FMR per 24 CFR 983.",
+      "affordability_requirement": "HUD PBV rules: households at or below 50% AMI at admission with 75% at or below 30% AMI; 15 to 20 year HAP contracts; HACSJ is not a Moving to Work agency so the 20% program cap and PBV competitive selection rules apply (exception for projects selected through a prior competitive public process).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026. No PBV Request for Proposals is posted on hacsj.org; HACSJ issues PBV RFPs periodically through Public Purchase and its FY 2026-27 Annual Plan reports it cannot apply for additional vouchers because of funding shortfalls. Monitor hacsj.org/resources/procurement and Public Purchase.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). PBVs are the main operating subsidy for PSH and senior deals in the county and underwrite debt on Measure-K and Regional Housing Fund projects; HACSJ attaches PBVs to its own Delta Community Developers Corp. projects and to partner projects. Davis-Bacon applies to PBV new construction and rehabilitation of nine or more units. HACSJ also runs HUD-VASH, Family Unification and Emergency Housing Vouchers (EHV sunset noted in 2026) and launched CASH SJC in August 2026, a $4.75 million CDSS-funded direct cash program for about 250 seniors on its waitlists. The 2026-27 Annual Plan (effective October 1, 2026) is the source; PBV program description is on hacsj.org/portfolio-item/project-based-voucher.",
+      "source_url": "https://hacsj.org/wp-content/uploads/2026/09/26-27-Annual-Plan.pdf",
+      "record_id": "6d68d56e51",
+      "cycle_notes": "PBVs are awarded through periodic Requests for Proposals (existing, new construction or substantial rehabilitation) rather than a fixed annual cycle; no announced schedule.",
+      "eligible_project_detail": [
+        "new construction",
+        "substantial rehabilitation",
+        "existing housing",
+        "permanent supportive housing",
+        "senior housing",
+        "veterans housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "error",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "HACSJ public housing repositioning and co-development (Delta Community Developers Corp.)",
+      "administering_agency": "Housing Authority of the County of San Joaquin and Delta Community Developers Corp. (DCDC), its nonprofit instrumentality",
+      "funding_type": "land",
+      "typical_award_size": "HACSJ is repositioning its 910-unit public housing portfolio through RAD, Section 18 and mixed-finance deals and is itself the county's most active supportive housing developer. Pipeline from the FY 2026-27 Annual Plan and development page: Tracy Apartments Phases I and II (55 units each, replacing 17 demolished Tracy Homes units; sources include Health Plan of San Joaquin, HOME, Capital Fund loan, Freddie Mac permanent loan, U.S. Bank, LIHTC); Lodi Commons and Danny Drive (110 senior units each in two phases); Edison House (33 PSH units, Homekey+, Stockton PIP, HHAP); Grant Street Apartments (24 behavioral health units, MHSA, HHAP, ARPA); Sierra Vista Phase III (106 units, Section 18 disposition of 26 units in process, up to 80 approved vacancies); Conway Homes phased redevelopment. Sierra Vista Phase I was co-developed with CCHC, and HACSJ has sought a development partner for Sonora Square.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Public housing and PBV income limits with long-term use restrictions under RAD or Section 18 conversion; LIHTC restrictions on mixed-finance phases.",
+      "eligible_project_types": [
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026; HACSJ procurement page lists no open solicitations and directs bidders to Public Purchase. Partner solicitations are issued project by project.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). For outside developers HACSJ matters in three ways: as a PBV source, as a co-developer or ground lessor on repositioned public housing sites in Stockton, Tracy and Lodi, and as a competitor for the same County HOME, HHAP, Health Net and Regional Housing Fund dollars (Lodi Commons took $3 million of the $11.85 million Round 1 fund). Davis-Bacon and state prevailing wage apply to mixed-finance public housing work. HACSJ also operates farm labor housing in Lodi, French Camp and Thornton. Source is the HACSJ development page, supplemented by the 2026-27 Annual Plan and the 2025-2029 5-Year Plan (hacsj.org/wp-content/uploads/2026/05/10.1.25-5-Year-Plan.pdf).",
+      "source_url": "https://hacsj.org/development/",
+      "record_id": "ab0e64f2f1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "public housing redevelopment (RAD, Section 18, mixed finance)",
+        "co-development with private or nonprofit partners",
+        "permanent supportive housing",
+        "senior housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "error",
+      "audit_note": "Reclassified from other to land: the deployable value of HACSJ and DCDC to outside developers is site control (ground leases on repositioned public housing sites) and co-development, plus agency funds placed in its own deals (Lodi Commons FONSI shows $5,400,000 HACSJ funds and $360,000 land lease financing). PBVs are covered separately. Development page lists 17 DCDC projects but no unit counts or funding detail; pipeline figures come from the Annual Plan and were not re-read in this audit.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) Integrated Plan FY 2026-29, housing interventions",
+      "administering_agency": "San Joaquin County Behavioral Health Services (Health Care Services Agency)",
+      "funding_type": "grant",
+      "typical_award_size": "Three-year plan totaling $295,750,706 approved June 2, 2026 (5-0). The County requested a transfer of 7% from the housing component to Behavioral Health Services and Supports, leaving housing interventions at 23% of BHSA funds. Estimated housing intervention expenditures: $18,790,266 in year one and $42,013,536 in year two; the continuum table shows housing services of $37.0 million, $41.6 million and $37.8 million across the three years. Planned uses: project-based rental subsidies for about 150 people a year (64 permanent, 86 interim; 350 units), operating subsidies for about 116 people (228 units, property management staffing for SRO and transitional-to-permanent apartments), landlord outreach and mitigation for about 100, and two capital projects (a 50-unit tiny home project and the 33-unit Edison House, both braided with other funds, unit availability June 30, 2027, BHSA share capped at $450,000 per unit).",
+      "per_unit_cap": "BHSA capital share capped at $450,000 per unit by DHCS policy; counties may spend up to 25% of housing interventions on capital.",
+      "affordability_requirement": "Individuals with serious behavioral health conditions who are homeless or at risk; at least 50% of housing intervention funds for chronically homeless households; PSH setting types and Housing First.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Plan effective July 1, 2026 through June 30, 2029 with annual updates each June. Behavioral Health Services completed a request for qualifications for housing developers in 2025-26 (RFQ 25107) and will work with the pre-qualified pool: Central Valley Low Income Housing Corporation, Delta Community Developers Corporation, Domus Development LLC, Mahogany and Oak Real Estate, Mutual Housing California, RHCB Development LP, Self-Help Enterprises and Visionary Home Builders of California.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). Classified as grant because the BHSA Integrated Plan funds housing capital (two capital development projects, the Tiny Homes project and Edison House, BHSA share at or below $450,000 per unit) and project-based rental and operating subsidies for housing. BHSA is the County's largest discretionary housing stream and the realistic source of project-based operating subsidy for PSH units in the unincorporated county and Stockton; capital is limited to the two named projects, so new deals should pitch rental or operating subsidies for behavioral health set-aside units rather than construction money. Behavioral Health Services also carries Homekey+ (Bridge to Home, $15,900,896 agreement with CVLIHC approved January 13, 2026) and Behavioral Health Bridge Housing Round 3 contracts, and is building the SJ BeWell campus with a $38.2 million BHCIP Round 2 award (March 2026). Pre-qualification through the BHS RFQ is the entry point for developers. The Board file (source) links the board order, the 490-page DHCS Integrated Plan submission (FileOpen.aspx?Type=4&ID=45761) and the June 2, 2026 presentation.",
+      "source_url": "https://sanjoaquincountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=13401",
+      "record_id": "435b7b6616",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing rental subsidies (project-based)",
+        "operating subsidies for interim and permanent settings",
+        "capital development (limited, two named projects)",
+        "shared and family housing"
+      ],
+      "next_deadline_date": "2029-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Homekey+ and Behavioral Health Bridge Housing, County-sponsored projects",
+      "administering_agency": "San Joaquin County Behavioral Health Services (Homekey+, BHBH) and Veterans Services Office",
+      "funding_type": "grant",
+      "typical_award_size": "Bridge to Home (Central Valley Low Income Housing Corporation): Homekey+ agreement for $15,900,896, January 13, 2026 through March 31, 2027, with a $12,785,399 appropriation in the FY 2025-26 Behavioral Health budget. Behavioral Health Bridge Housing Round 3: fourth amendment with CVLIHC (August 1, 2024 to June 30, 2027), $281,000 to the City of Manteca (March 1, 2026 to June 30, 2036) and $1,500,000 to Mahogany and Oak Consultancy (June 2, 2026 to June 30, 2027). HHAP-5 $1,000,000 for the SJ BeWell Tiny Home Village. HACSJ's Edison House (33 PSH units, 14 for veterans) is a state Homekey+ awardee. News reports describe a February 2026 Board consent action authorizing Veterans Services to apply for up to $38,500,000 of Homekey+ for a campus-style veterans housing village in French Camp near San Joaquin General Hospital; that item was not located in the Board files opened this pass.",
+      "per_unit_cap": "State Homekey+ per-unit limits apply; no County cap.",
+      "affordability_requirement": "Homekey+ and BHBH serve people experiencing homelessness with behavioral health conditions and veterans; PSH with 55-year restrictions for Homekey+ capital.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "State Homekey+ applications are by state NOFA; the County sponsors applications case by case with Behavioral Health Services or Veterans Services as co-applicant. No County solicitation is open.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). The County's role is co-applicant and contract manager rather than lender; developers bring the site and the County brings match, operating funds (BHSA, BHBH, HHAP) and services. CVLIHC is the County's primary operator and Mahogany and Oak and HACSJ are the other repeat partners. Confirm the French Camp veterans village application status with the Veterans Services Office; the figure comes from a news summary of the February 2026 agenda rather than an opened Board file.",
+      "source_url": "https://sanjoaquincountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=12929",
+      "record_id": "0c988884a5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing (acquisition, conversion, new construction)",
+        "interim bridge housing",
+        "tiny home villages",
+        "veterans housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Spot check Nov 9, 2026: Board order B-26-21 (January 13, 2026) confirms the $15,900,896 CVLIHC Homekey+ agreement for January 13, 2026 to March 31, 2027 and the $12,785,399 FY 2025-26 Behavioral Health appropriation. BHBH amendments and HHAP-5 tiny home figures were not re-opened in this check; the French Camp veterans village figure remains news-sourced as the record says.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Housing Density Bonus, Development Title Chapter 9-401 (unincorporated county)",
+      "administering_agency": "San Joaquin County Community Development Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "State-law density bonus codified in Chapter 9-401 (2026-10 code edition): 20% base bonus for 10% low-income, 5% very low-income or senior projects; 5% for 10% moderate-income for-sale units; 20% for 10% very low-income units for veterans, transition-age youth or homeless households; 35% for qualifying student housing; sliding scale up to 50% (2.5% per 1% very low-income above 5%, 1.5% per 1% low-income above 10%); land donation bonus 15% to 35%; floor area ratio bonus in the R-H zone for infill near transit with 20% of units at or below 50% AMI; 100% lower-income projects per Government Code 65915. One to four incentives or concessions by affordability tier plus parking reductions; the County may exceed these amounts (9-401.060).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "55-year rental affordability (longer if required by financing); for-sale units sold to qualifying buyers with equity sharing; affordable units integrated with and indistinguishable from market-rate units; replacement of existing affordable units required.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "By application; pre-application response within 90 days; streamlined ministerial approval under 9-401.120 for eligible infill projects with at least 10% of units at or below 80% AMI (60 or 90 day review, deemed approved if missed).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). The unincorporated county has no inclusionary ordinance and no in-lieu fee, so the density bonus and concessions are the only land-use subsidy; the 2023-2031 Housing Element (HCD submittal revised January 2025, adopted and revised June 30, 2026 to transfer RHNA to the new City of Mountain House, 8,808 to 5,113 units) sets a quantified objective of 100 lower-income units through the bonus and commits to fee deferrals for affordable subdivisions. The ministerial pathway in 9-401.120 carries state prevailing wage and skilled workforce requirements for larger projects under Government Code 65913.4, so model labor costs before electing it. Most multifamily sites in the unincorporated county (French Camp, Garden Acres, Lodi and Stockton fringe) are constrained by water and sewer service, which the Housing Element names as the largest constraint. Source is the published Development Title chapter on gocodebook.com (County code host); confirm current text with Community Development at (209) 468-3144.",
+      "source_url": "https://gocodebook.com/library/us/ca/san-joaquin-county/development-title/series-400-additional-use-and-development-regulations/chapter-9-401-affordable-housing-density-bonus",
+      "record_id": "44d4f15ff4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily new construction",
+        "senior housing",
+        "student housing",
+        "100% affordable infill",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "Spot check Nov 9, 2026: gocodebook.com Chapter 9-401 (2026-10 edition) matches the record on bonus percentages, sliding scales, student, special needs and land donation bonuses, R-H floor area ratio bonus, incentives, 9-401.060, 90-day pre-application response and 9-401.120 streamlined approval. The County's official code host (library.municode.com, linked from sjgov.org Planning) returns 403, so the only readable source is a third-party mirror; confidence set to needs_confirmation under the mirror rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Development impact fee deferral for affordable housing (Housing Element program, unincorporated county)",
+      "administering_agency": "San Joaquin County Community Development Department and Public Works",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Typical planning and development impact fees for a multifamily unit in the unincorporated county were about $20,000 to $20,500 per unit in 2023 (County fees of roughly $9,200 to $9,650 plus County facilities $1,564, regional transportation $2,664, habitat mitigation $1,929, school $4,041 and fire $620). The 2023-2031 Housing Element commits the County to process fee deferrals for projects affordable to lower-income households and to study fee waivers or reductions for affordable projects; no fee waiver fund or standing deferral ordinance was found.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Projects affordable to lower-income households as defined in the Housing Element programs; terms set case by case.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No adopted deferral or waiver policy found as of November 8, 2026. Request deferral with the entitlement application. The Housing Element committed the County to evaluate by December 2025 waiving public facilities and County facilities fees for 100 percent affordable projects and to implement within three months if feasible; no Board action implementing it was found.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). Impact fees in the unincorporated county are low compared with Bay Area counties, so deferral is worth less than $20,000 per unit of carry; the larger cost issue is extending water and sewer to sites. Habitat mitigation (SJMSCP) and regional transportation fees are set by other agencies and are not waived by the County. Marked needs_confirmation because the Housing Element (opened) describes the policy as a commitment to study and implement, and no adopted deferral ordinance or fee schedule page was opened this pass; confirm with Community Development.",
+      "source_url": "https://www.sjgov.org/Commdev/cgi-bin/cdyn.exe/file/Planning/Draft%20Documents%20for%20CDD%20Projects/2023-2031%20SJC%20Housing%20Element%20HCD%20Submittal%20Revised%20January%202025.pdf",
+      "record_id": "fc545466d8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "affordable multifamily new construction",
+        "affordable subdivisions"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Housing Element text supports the record: Policy 2-2 and Program 2-5 incentives include deferred payment of fees and fee waivers or deferrals as appropriate, the program commits to process fee deferrals for lower-income subdivisions, and typical multifamily fees average about $20,014 per unit. The source PDF is the HCD submittal revised January 2025 (pages labeled Public Review Draft); the final adopted version was not separately checked.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "needs_confirmation",
+      "program_name": "County-owned and surplus land for affordable housing",
+      "administering_agency": "San Joaquin County General Services (real property), with Behavioral Health Services and Veterans Services for sponsored projects",
+      "funding_type": "negative finding",
+      "typical_award_size": "No standing County land program. Known actions: a Surplus Land Act notice of availability for about four acres of County-owned land adjacent to Gianone Park in Stockton for deed-restricted affordable housing by sale or long-term ground lease (posted November 20, 2025, offers due January 30, 2026, Board approval required); Victory Gardens, 49 veteran PSH units built on 2.5 acres of County land in French Camp; a proposed campus-style veterans housing village in French Camp near San Joaquin General Hospital pursued with a Homekey+ application in 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Surplus Land Act priority for affordable housing developers with at least 25% of units at or below 80% AMI (Government Code 54222.5) or deeper restrictions negotiated with the County.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026. The Gianone Park offering closed January 30, 2026; outcome not posted. Watch the County Purchasing bid page (sjgov.org/department/pss/bids, Public Purchase) and the HCD surplus land notices map for future notices.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). County land has been the basis for the county's veteran PSH projects and is the most likely form of County contribution to a new deal because the County has no capital fund. Marked needs_confirmation because the Gianone Park notice was read on a third-party procurement aggregator (source) and the County's own bid posting (sjgov.org/gems bidView bidId=206984) returned 404 on November 7, 2026; confirm with County General Services.",
+      "source_url": "https://www.governmentcontracts.us/government-contracts/opportunity-details/52706281552814954.htm",
+      "record_id": "ca36da736a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction on County land",
+        "ground lease",
+        "veterans and supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "County bid page (sjgov.org/department/pss/bids) opened but does not list the notice; the gems bidView link returns 404 and the Public Purchase bid detail requires login (401). Only aggregator listings (governmentcontracts.us, samsearch.co) describe the notice. Consider funding_type land rather than negative finding once a County source confirms.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "County General Fund one-time affordable housing contributions (no standing County housing trust fund)",
+      "administering_agency": "San Joaquin County Board of Supervisors",
+      "funding_type": "grant",
+      "typical_award_size": "One-time allocations by Board action rather than a program: $1,500,000 approved August 8, 2023 to Visionary Home Builders for a 94-unit senior and family development in Downtown Stockton (TDC $60,518,336, leveraging about $34 million in state tax credits with HCD Infill Infrastructure Grant, City of Stockton HOME and a City impact fee waiver). The County has no housing trust fund, no housing bond and no dedicated housing revenue; the 2023-2031 Housing Element and the SJCOG feasibility study point to the regional fund as the vehicle instead.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Set project by project; the 2023 award prioritized occupancy for people living or working in the County.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No application process. Requests are taken to the Board through Human Services Agency or Behavioral Health Services sponsorship.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). Recorded so the gap is explicit: County General Fund money for multifamily has been rare and discretionary, and the County's 2026 posture is to route capital through the SJCOG Regional Housing Fund (which the County helped capitalize through Measure K) and operating dollars through BHSA, HHAP and PLHA. Mountain House, incorporated in 2024, holds an $8.19 million affordable housing fund from its community services district era (Housing Element), now a city program for Pass 3.",
+      "source_url": "https://www.sjgov.org/department/bos/board-news/board-news-detail/2023/08/09/san-joaquin-county-approves-1.5-million-to-help-build-94-unit-affordable-housing-development",
+      "record_id": "aec9659c68",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily new construction (case by case)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4: county news release re-read; $1.5 million one-time allocation to Visionary Home Builders, 94 units, $60,518,336 TDC, $34 million tax credits, IIG, City HOME and fee waiver, and live-or-work priority all match. prevailing_wage_trigger true is uncited; it rests on the public funds definition and project sources (HOME, IIG), not a stated County rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Health Net and Health Plan of San Joaquin housing investments (Medi-Cal plan capital grants)",
+      "administering_agency": "Health Net (Centene) and Health Plan of San Joaquin, in partnership with HACSJ and the San Joaquin Regional Housing Fund",
+      "funding_type": "grant",
+      "typical_award_size": "Health Net granted $3,000,000 to the San Joaquin Regional Housing Fund (2026, $2,850,000 net available for loans) and $2,000,000 directly to Lodi Commons; Health Plan of San Joaquin is listed as a source for Tracy Apartments Phase I. Awards have been $2 million to $3 million per commitment.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Low-income and Medi-Cal member households; Health Net funds in the regional fund are flexible but prioritize low-income units.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No public application; commitments negotiated with the plans and routed through the Regional Housing Fund or directly to HACSJ projects.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). Managed care plan money is the newest soft source in the county and has shown up in every 2026 capital stack (Lodi Commons, Tracy Apartments, the Regional Housing Fund). It is grant money and does not by itself trigger prevailing wage, but it is always paired with public funds that do. Recorded at county level because the plans are county Medi-Cal plans and the money flows through countywide vehicles; figures are from the SJCOG March 11, 2026 announcement (source), the June 18, 2026 fund packet and the Lodi Commons FONSI.",
+      "source_url": "https://sjcog.org/CivicAlerts.asp?AID=688",
+      "record_id": "1c2e244cd5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "permanent supportive housing",
+        "senior housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Stockton",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Low and Moderate Income Housing Fund (LMIHF), Successor Agency to the Stockton Redevelopment Agency (housing successor)",
+      "administering_agency": "City of Stockton as Housing Successor; administered by the Housing Division through the Housing NOFA",
+      "funding_type": "loan",
+      "typical_award_size": "Fund balance not published in the 2026 NOFA documents; the Housing Source Funds Description lists LMIHF as a NOFA source for acquisition, new construction and conversion or rehabilitation for households up to 120% AMI. Recent uses: part of $1,614,000 HOME and LMIHF allocated to Sierra Vista III in 2019 and 2020 (de-obligated March 2026 and returned to the NOFA pool); part of $1,126,893 PLHA and LMIHF to Kentfield Apartments rehab (2024).",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Housing successor rules (Health and Safety Code 34176.1): 55-year rental covenants, income targeting by statute with at least 30% of expenditures for extremely low income households over each five-year period; City NOFA applies a 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Deployed only through the Housing NOFA (next expected about October 2026); no standalone LMIHF application. Check the annual housing successor report filed with the City's HCD Annual Progress Report for the current balance.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Stockton is one of the few San Joaquin County cities with legacy redevelopment housing money; Tracy, Manteca and Lodi records show none in active use. LMIHF is the most flexible source in the Stockton pool (local money, up to 120% AMI, no federal cross-cutting rules) and is usually paired with HOME to cover costs HOME cannot. Treat as a small, lumpy source: the only recent LMIHF commitments were under $1.7 million each. Combine with HACSJ PBVs and SJRHF gap loans (county records). Fund description opened from the Stockton Legistar attachment for the April 2026 award item; the Successor Agency meets concurrently with Council.",
+      "source_url": "https://legistar1.granicus.com/stockton/attachments/540653fd-9f3a-493b-85ca-5810bff4fdb1.docx",
+      "record_id": "7c3dbf2c54",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Stockton",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation and Prohousing Incentive Pilot (PIP) funds, City of Stockton (2023 designation, 2026 renewal application, PIP Rounds 1 to 4)",
+      "administering_agency": "City of Stockton Housing, Homelessness, Events and Parking Department with HCD",
+      "funding_type": "grant",
+      "typical_award_size": "Stockton received $2.37 million in PIP funds after its 2023 designation (one of 22 jurisdictions then designated) and applied by March 31, 2026 for PIP Round 4 ($1,000,000 base plus up to $500,000 bonus, $1.5 million total, no match). PIP funds are placed in the Housing NOFA for predevelopment, construction, acquisition, rehabilitation or capitalized operating subsidies for households up to 120% AMI, and PIP was part of the $4.55 million 2024 property acquisition NOFA. The 2026 renewal application is out for public comment November 2 to December 8, 2026 (Council hearing December 8, 2026, 1:00 PM) and would keep the City eligible for PIP and HHAP preferences through 2029.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "PIP: affordable to extremely low through moderate income households, or workforce housing up to 120% AMI (150% in high-cost areas); City NOFA covenants apply.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PIP money reaches developers only through the City Housing NOFA (next expected about October 2026). Prohousing renewal hearing December 8, 2026; PIP Round 4 award decision pending from HCD.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Designation also gives Stockton projects scoring preference in state competitive programs (AHSC, IIG, MHP, HHAP), which helps the local stack indirectly. Stockton Measure M (Strong Communities sales tax) funds libraries and recreation, not housing, and Measure W funds public safety; neither is a housing source despite appearing in the brief. Read from the City housing page, which also lists the 2025-2029 Consolidated Plan and 2026-27 AAP documents.",
+      "source_url": "https://www.stocktonca.gov/business/economic_development/housing_index.php",
+      "record_id": "019fa873d8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "site acquisition",
+        "preservation",
+        "capitalized operating reserves"
+      ],
+      "next_deadline_date": "2026-12-08",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Title 29 Affordable Housing Fund (residual inclusionary in-lieu and housing impact fees)",
+      "administering_agency": "San Luis Obispo County Department of Social Services, Homeless Services Division (fund created under County Code Title 29)",
+      "funding_type": "grant",
+      "typical_award_size": "Fund balance $558,321.03 at July 1, 2025; $108,775.83 disbursed and $205,734 in unspent prior allocations in FY 2025/26. The 2027 Action Plan NOFA lists Open to All $56,199.01, Central County $13,251.59 and South County $124,427.55 (total $193,878.15); the FY 2025/26 Title 29 report recommends only $154,616.15, holding back $39,262 of Open to All for refunds (Open to All $16,937.01). North County and North Coast are exhausted. Recent allocations: Rolling Hills III $89,978, Monterey Family Apartments $69,448, Cambria Pines $46,308, Arroyo Terrace $254,972, Balay Ko $228,641.",
+      "per_unit_cap": "Not published; awards have run $46,000 to $255,000 per project.",
+      "affordability_requirement": "Households at or below 80% AMI under County Affordable Housing Standards; 55-year rental and 45-year ownership covenants. Awards are grants, except TCAC projects must take a loan (typically 3% simple interest). Funds must be spent in the market area where fees were collected.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The County runs one combined Action Plan NOFA each fall; the next round (2028 Action Plan) is expected to open in late September 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. Title 29 is a shrinking residual pot restricted by market area (South County has the largest remaining balance). Use it as a small TCAC local contribution alongside HOME and PLHA. The County's July 2026 risk analysis holds back $110,148 for possible permit refunds and $39,262 for Open to All refunds.",
+      "source_url": "https://www.slocounty.ca.gov/departments/social-services/forms-documents/homeless-services/homepage/2026/title-29-report-for-fy-2025-26",
+      "record_id": "f5f8c71a7c",
+      "cycle_notes": "Offered through the County's combined annual Action Plan NOFA on Neighborly. The 2027 Action Plan NOFA was issued September 28, 2026 and closed October 30, 2026 at 5:00 p.m.; Board draft affordable housing recommendations February 2027, Action Plan hearing April 2027, program year July 1, 2027 to June 30, 2028. No new revenue since the inclusionary ordinance repeal on June 7, 2022, so remaining balances will be exhausted within one or two cycles.",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "rehabilitation",
+        "ownership affordable housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "prevailing_wage_trigger is true but prevailing_wage_basis is empty; the 2027 NOFA cites only federal Davis-Bacon for HUD funds, so this state or local source needs a prevailing_wage_unclear review.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Regional Housing Fund and Regional Housing Grant (County Code Title 31, adopted October 21, 2025)",
+      "administering_agency": "San Luis Obispo County Department of Social Services (grant) with Department of Planning and Building (fee collection)",
+      "funding_type": "grant",
+      "typical_award_size": "New fund capitalized by Regional Housing Incentive in-lieu fees ($30,000 per Incentive Point initially, range $30,000 to $50,000, ENR-indexed from July 1, 2026 and adjusted 5% up or down from July 1, 2029 based on program use), plus any General Fund, grants or private contributions. 75% goes to the Guaranteed Affordable Housing Account for the Regional Housing Grant and 25% to a Public Transportation Support Account. The County said the program is meant to fill the funding gap for roughly 280 already-approved affordable units. No awards yet and no balance published.",
+      "per_unit_cap": "Not set; selection criteria to be developed jointly by Social Services and Planning and Building.",
+      "affordability_requirement": "New guaranteed affordable units for very low, low or moderate income households (rental or ownership) in unincorporated urban areas consistent with Housing Element Policy HE 1.01; covenants per Section 22.12.030.",
+      "eligible_project_types": [
+        "new construction",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Annual awards recommended by Social Services to the Board; the first Regional Housing Grant round depends on fee receipts and had not been announced as of November 8, 2026. Watch the Action Plan NOFA each September.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. This is the County's replacement for inclusionary revenue, but it is voluntary and fee-driven, so capitalization will be slow. Developers with entitled but unfunded unincorporated projects (the 280-unit backlog) should register interest with HSD so they are in line for the first round. Likely to be administered through the same Neighborly NOFA as HOME and Title 29.",
+      "source_url": "https://www.slocounty.ca.gov/departments/planning-building/forms-documents/housing-forms-and-documents/2020-2028-housing-element-documents/action-2-incentive/action-02-t31-regional-housing-fund",
+      "record_id": "6d2efc5e6b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "conversion of existing structures to affordable units",
+        "ownership affordable housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Spot check Nov 9, 2026: Title 31 text confirms $30,000 per Incentive Point (range $30,000 to $50,000), Construction Cost Index adjustment from July 1, 2026, program-use adjustment, 75% Guaranteed Affordable Housing Account administered by the Director of Social Services and 25% Public Transportation Support Account, for very low, low and moderate income units. Title 31 states no prevailing wage rule, so the true value is uncited; flag for the PW citation pass.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA) loans under the County 5-Year Plan",
+      "administering_agency": "San Luis Obispo County Department of Social Services, Homeless Services Division",
+      "funding_type": "loan",
+      "typical_award_size": "$149,238.80 of 2021 PLHA offered in the 2027 Action Plan NOFA under Plan Activity 2 (predevelopment, development, acquisition, rehabilitation and preservation of affordable rental and ownership housing including ADUs for workforce households up to 120% AMI). The NOFA states multifamily rental projects are not eligible under Activity 2 in this round. HCD formula allocations to the County: $612,437 (2024) and $656,010 (2025); five-year 2019-2023 total about $3.83 million. Past PLHA went to Arroyo Terrace and Cambria Pines.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Households at or below 120% AMI (150% in high-cost areas) for Activity 2; rental projects require 55-year covenants and a deferred loan under PLHA guidelines. Awards are loans.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "adu",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The County runs one combined Action Plan NOFA each fall; the next round (2028 Action Plan) is expected to open in late September 2027. Ask HSD whether rental development returns as an eligible PLHA activity under the amended Plan.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. PLHA in San Luis Obispo County is modest and in the current round is steered to ownership and ADU work, so do not underwrite it for a rental project without written confirmation. The annual report notes some pipeline projects are being pursued under Homekey+, CoC or Cycle 2 PLHA.",
+      "source_url": "https://www.slocounty.ca.gov/departments/social-services/forms-documents/homeless-services/funding-availability/2027/2027-action-plan-nofa",
+      "record_id": "a2046b2a19",
+      "cycle_notes": "Offered through the County's combined annual Action Plan NOFA on Neighborly. The 2027 Action Plan NOFA was issued September 28, 2026 and closed October 30, 2026 at 5:00 p.m., offering $149,238.80 of 2021 PLHA under Activity 2 (multifamily rental not eligible); awards via Board hearings February to April 2027. Future rounds (2024-2028 allocations) follow the amended County PLHA Plan.",
+      "eligible_project_detail": [
+        "ownership affordable housing",
+        "ADUs (30-day minimum occupancy)",
+        "preservation and rehabilitation",
+        "multifamily rental (prior rounds; excluded in 2027 NOFA Activity 2)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "prevailing_wage_trigger is true but prevailing_wage_basis is empty; the 2027 NOFA cites only federal Davis-Bacon for HUD funds, so this state or local source needs a prevailing_wage_unclear review.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "SB 1090 Diablo Canyon settlement funds for affordable housing",
+      "administering_agency": "San Luis Obispo County Board of Supervisors with Department of Social Services, Homeless Services Division",
+      "funding_type": "grant",
+      "typical_award_size": "SB 1090 (2018) directed Diablo Canyon closure mitigation funds to the County with a stipulation to support affordable housing in the region. Awards by Board action: $1.3 million to Cambria Pines Apartments (Peoples' Self-Help Housing, 33 units, $28 million total) approved June 17, 2025; $2.6 million to the City of San Luis Obispo's Calle Joaquin Homekey motel conversion (76 units) in 2024. The County's 2025 annual report also cites a $2.5 million CDBG-DR mitigation award.",
+      "per_unit_cap": "Not set; about $39,000 per unit at Cambria Pines.",
+      "affordability_requirement": "Set by project; used for affordable and supportive housing in communities affected by the plant closure.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; awards are negotiated with HSD and approved by the Board. Remaining SB 1090 housing balance not published.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. SB 1090 is the County's only large discretionary gap source and has gone to shovel-ready projects with TCAC awards or Homekey grants. Approach HSD and the District Supervisor early; pair with Housing Trust Fund and HOME. Confirm remaining balance with the County Administrative Office.",
+      "source_url": "https://www.slocounty.ca.gov/departments/social-services/forms-documents/homeless-services/homepage/2026/2025-year-end-report",
+      "record_id": "6721e2b6d9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "motel conversion to PSH",
+        "capital and operating support"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-09",
+      "audit_note": "Tier 4: 2025 year-end report re-read; it confirms the $1.3 million SB 1090 award to Cambria Pines by Board action, SB 1090 proceeds as a Homeless Services funding source, and the additional $2.5 million CDBG-DR award (managed by Public Works, for infrastructure support). The $2.6 million Calle Joaquin SB 1090 commitment (Board May 21, 2024, disbursed to Peoples' Self-Help Housing per search results) could not be re-read: the County news page returned 404. Cambria Pines unit count and total cost not on this source. prevailing_wage_trigger true is uncited."
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) Housing Interventions and capital development RFP, 2026-2029 Integrated Plan",
+      "administering_agency": "San Luis Obispo County Behavioral Health Department",
+      "funding_type": "grant",
+      "typical_award_size": "Housing Interventions budget $6,930,885 (FY 2026/27), $6,792,267 (FY 2027/28), $6,656,422 (FY 2028/29), 30% of BHSA. Funds about 107 PSH beds, 86 assisted living and board and care beds, 10 time-limited beds, FSP housing, landlord mitigation and participant assistance. Capital development: yes, one project in Year 1 via an RFP for a minimum of two units at up to $450,000 of BHSA per unit, braided with other funds, available by June 30, 2027, with by-right provisions required. Behavioral Health Bridge Housing beds start Year 2.",
+      "per_unit_cap": "$450,000 BHSA capital per unit (state cap); 25% of housing funds maximum for capital.",
+      "affordability_requirement": "BHSA-eligible adults with serious mental illness or substance use disorder experiencing or at risk of homelessness; half of housing funds for chronic homelessness.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Capital development RFP expected in FY 2026/27 (units by June 30, 2027). Plan submitted to DHCS March 2026, final June 30, 2026; annual updates follow.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. The capital set-aside is tiny (two units), so BHSA matters mainly as an operating and rental subsidy source for PSH units in a larger project. Transitions-Mental Health Association is the County's main housing partner. Contact Behavioral Health about committing operating subsidies to units in a Homekey+ or LIHTC project.",
+      "source_url": "https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/behavioral-health-projects/integrated-plan-behavioral-health-services-act/integrated-plan-documents/slobhd-integrated-plan-and-bos-certification",
+      "record_id": "6051ec123f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing operating and rental subsidies",
+        "small-scale PSH capital (RFP)",
+        "board and care and assisted living beds"
+      ],
+      "next_deadline_date": "2027-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: Integrated Plan (pp. 126-127) confirms one capital project via RFP, minimum 2 units, $450,000 BHSA per unit, available by June 30, 2027, by-right required in RFP; BHBH beds move to BHSA July 1, 2027. Budget template page confirms Housing Interventions $6,930,885 / $6,792,267 / $6,656,422 at 30% and $900,000 capital in Year 1. Bed counts (107 PSH, 86 board and care) not located in these documents; plan states 205 permanent and 10 interim rental subsidy slots per year. prevailing_wage_trigger true has no cited rule in prevailing_wage_basis.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Homekey+ application and Welcome Home Village permanent supportive housing",
+      "administering_agency": "San Luis Obispo County Department of Social Services, Homeless Services Division",
+      "funding_type": "grant",
+      "typical_award_size": "The County applied for Homekey+ in 2025 with Restorative Partners for the Healing and Restoration Campus (HARC) on Los Osos Valley Road, permanent supportive housing for justice-involved people at risk of homelessness; the County's 2025 year-end report (dated March 10, 2026) says no Homekey+ award notice had been received, and no San Luis Obispo County project appears on HCD's Homekey+ awardee list as of October 13, 2026 (statewide total awarded about $1.03 billion of the $2.2 billion Proposition 1 allocation). Separately the County is advancing Welcome Home Village (40 permanent supportive housing units and 14 interim shelter units, anticipated opening spring 2026). The County's FY 2025/26 contracts for services, affordable housing and public facilities totaled $13,646,539.60. Earlier Homekey: City of San Luis Obispo Calle Joaquin (76 units, $19.4 million Homekey plus $2.6 million County SB 1090; not re-verified in the audit).",
+      "per_unit_cap": "Homekey+ caps apply if awarded.",
+      "affordability_requirement": "Permanent supportive housing for people experiencing homelessness with behavioral health needs or veterans.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling until Homekey+ funds are exhausted; HCD shows the application portal open as of November 8, 2026. Welcome Home Village financing is County-led; contact HSD for partnership opportunities.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. The County has not yet landed a Homekey+ award for HARC; Welcome Home Village is a County-led interim and PSH campus funded with HHAP, General Fund and state homelessness grants. A developer or operator with PSH experience could partner on this or on a future scattered-site application.",
+      "source_url": "https://www.slocounty.ca.gov/departments/social-services/forms-documents/homeless-services/homepage/2026/2025-year-end-report",
+      "record_id": "d56094870b",
+      "cycle_notes": "HCD Homekey+ accepts applications for all project types continuously until funds are exhausted (NOFA November 26, 2024, amended January 31, 2025, August 7, 2025 and March 27, 2026); a pre-application consultation with HCD is required. The County's HARC application had no award on the October 13, 2026 awardee list.",
+      "eligible_project_detail": [
+        "permanent supportive housing",
+        "interim housing",
+        "motel conversion"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Prior text said Homekey+ funds were fully committed statewide; HCD's Homekey+ and Timeline pages show continuous applications and an open portal, so cycle changed from closed/inactive to rolling. Calle Joaquin figures not re-verified.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Housing Authority of San Luis Obispo (HASLO) Project-Based Vouchers and development partnerships",
+      "administering_agency": "Housing Authority of San Luis Obispo and San Luis Obispo Nonprofit Housing Corporation (affiliate)",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HASLO administers more than 2,000 Housing Choice Vouchers countywide and converted its public housing to tax credit and PBV units under RAD; there is no public housing in the county. Its nonprofit affiliate develops affordable housing countywide (Monterey Family Apartments 50 units, Balay Ko on Monterey 56 senior units, Arroyo Terrace 63 units, a 34-unit mixed-use project with Transitions-Mental Health Association). The CoC and HASLO run homeless admission preferences (up to 12 mainstream vouchers) and apply jointly for FUP and Emergency Housing Vouchers.",
+      "per_unit_cap": "HUD payment standards; HAP contracts up to 20 years.",
+      "affordability_requirement": "Households at or below 50% AMI at admission (75% at or below 30% AMI); PBV units meet Housing Quality Standards.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No PBV owner RFP posted on haslo.org as of November 8, 2026; HASLO attaches PBVs mainly to its own and partner projects. Paso Robles Housing Authority serves that city.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. HASLO is both the voucher agency and the dominant developer, so outside developers should approach it as a joint venture or PBV partner rather than expect a competitive PBV round. Davis-Bacon applies to PBV new construction or rehab of nine or more contract units.",
+      "source_url": "https://www.haslo.org/development-and-construction",
+      "record_id": "8128165f44",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "acquisition/rehab",
+        "permanent supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Spot check Nov 9, 2026: haslo.org development page lists HASLO affiliate projects (for example Iron Works, 46 units at 50% and 60% AMI) and the sitemap shows no PBV owner RFP page, consistent with closed/inactive. HASLO's housing programs page says the voucher program serves over 2,200 households and still describes a 168-unit public housing program in the City of San Luis Obispo, which conflicts with the record's statement that no public housing remains; the page may be stale. Project names Monterey Family, Balay Ko and Arroyo Terrace are not on these pages.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Luis Obispo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "City Affordable Housing Fund (AHF) grants and loans (in-lieu fee fund; award criteria Resolution 9263, 2001 Series; Housing Element Program 2.5)",
+      "administering_agency": "City of San Luis Obispo Community Development Department, Housing Programs (Council awards)",
+      "funding_type": "loan",
+      "typical_award_size": "Gap grants and below-market loans at Council discretion under adopted criteria (Resolution 9263, 2001 Series). Housing Element history: $10,450,954 of in-lieu funds granted, loaned or committed to 464 deed-restricted units since the 1999 inclusionary ordinance; Bishop Street Studios (34 units) received $1,595,500 combined AHF loan, impact fee deferral loan and CDBG loan; $330,000 grant to TMHA for a 6-unit acquisition-rehab. Not confirmed on an agency source in the audit: a $2 million January 2020 approval for a 108-unit project; a 2023 Council resolution approving $3.2 million to HASLO for 736 Orcutt Road ($2.0 million) and 279 Bridge Street ($1.2 million); and $750,000 of 2024 Prohousing Incentive funds routed through the AHF. Housing Element target: support at least 4 new affordable developments during the planning period.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Extremely low, very low, low and moderate income; deed restrictions of 55 years rental and 45 years ownership under City Affordable Housing Standards. Housing Element Program 2.5 directs the fund to projects that would not be feasible without AHF support and to production efficiency.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. No formal NOFA; developers request awards through the Housing Programs Coordinator (housing@slocity.org) and awards go to Council by resolution, usually timed to TCAC or CDLAC rounds.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Largest city-controlled housing fund in the county. Revenue is the Chapter 17.138 in-lieu fee and Chapter 4.60 commercial linkage fee plus shared-equity recapture; the City also receives its own CDBG share through the Urban County (county record: Urban County Action Plan NOFA, due October 30, 2026 for the 2027 program year) and has layered CDBG loans with AHF awards. Typical stack for a City of SLO LIHTC deal: AHF grant or loan, City impact fee deferral loan (separate record), County Title 29 or Regional Housing Fund, HASLO project-based vouchers, SLO County Housing Trust Fund predevelopment loan, then state sources. HCD-hosted Housing Element was the only agency document that could be opened; slocity.org (403) and the City eScribe agenda host pub-slocity.escribemeetings.com (filestream 403, JS-only listings) could not be read, so current fund balance and 2025-2026 awards are unconfirmed.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-6th-adopted072321.pdf",
+      "record_id": "94afa63537",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Core program facts (Program 2.5, Res. 9263 criteria, grant and below-market loan use, ELI through moderate income, 55/45 year terms, $10.45M history) confirmed in the HCD-hosted Housing Element; post-2020 award figures could not be confirmed because slocity.org returns 403.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Luis Obispo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Development services fee waiver and citywide development impact fee deferral loans for affordable units (Housing Element incentives table; Chapter 4.56 impact fee deferral)",
+      "administering_agency": "City of San Luis Obispo Community Development Department and Finance Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Residential projects meeting City affordable housing standards for extremely low, very low and low income households are exempt from all planning, engineering and building review, processing and permit fees and water and sewer meter hook-up fees; mixed-income projects receive the waiver per affordable unit. Citywide development impact fees are deferred (as a deferral loan) for affordable units that exceed the inclusionary minimum or are built, owned and managed by HASLO, other public agencies or nonprofit housing agencies. Example: Bishop Street Studios received an impact fee deferral loan as part of $1,595,500 in City assistance; 2023 HASLO awards for 736 Orcutt and 279 Bridge Street each included a fee deferral loan. HCD's Prohousing release describes the impact fee relief as a waiver for qualifying affordable housing.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Deed-restricted affordable units at City Affordable Housing Standards (extremely low, very low, low for the fee exemption; any inclusionary-exceeding or nonprofit or public agency affordable unit for impact fee deferral).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; requested with the building permit or through the AHF award resolution.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Local cost-reduction layer that stacks with AHF awards; the City routinely packages an AHF loan plus an impact fee deferral loan in one resolution. Fee exemptions and deferrals are public subsidies and may trigger Labor Code 1720 prevailing wage unless the project already pays it under LIHTC or state funding. The Chapter 4.56 ordinance text and current deferral terms (interest, repayment at permanent loan closing versus residual receipts) could not be opened because slocity.org, codepublishing and the City eScribe agenda host all block automated access; the HCD-hosted 2020 Housing Element incentives table is the source. No comparable county program exists for unincorporated land beyond the Title 22 incentive program.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-6th-adopted072321.pdf",
+      "record_id": "975ec5606f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Paso Robles",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Affordable housing fee deferral loans (deferral of development impact, water and sewer connection and building permit fees; Housing Element Programs 8 and 9)",
+      "administering_agency": "City of El Paso de Robles Community Development Department and City Council (case-by-case resolution)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Case-by-case Council approval of long-term deferral of City water connection, sewer connection, development impact and building permit fees, structured as General Fund loans repaid several years beyond occupancy. Oak Park Public Housing (Paso Robles Housing Authority) phases one through four received fee deferral loans of $1.018 million (Resolution 12-031), $889,000 (14-019), $999,423 (17-019) and $1,438,160.71 (Resolution 18-020, 2018). Resolution 18-020 terms: promissory note repaid over up to 30 years from building permit at 3.75% simple interest from residual receipts, secured by a deed of trust. News reports (not agency sources) describe a March 2026 Council resolution deferring water, sewer, development impact and building permit fees for affordable housing, a 30-year deferral of about $1.2 million for Highland's Senior Affordable Apartments (298 Niblick Road), a 30-year deferral of about $1.8 million for Sunrise Villas Apartments, a roughly 50% impact fee waiver for a nine-unit Habitat for Humanity project on Vine Street, and February 2021 deferrals for a 79-unit senior project at Woodland Plaza II.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units affordable to lower-income households (Health and Safety Code 50079.5), including extremely low income; City practice requires a recorded affordability covenant for the longest feasible time and not less than 30 years (Resolution 18-020).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; no open round or deadline as of November 8, 2026. Requests go to Council with the entitlement or before building permit; contact Community Development at (805) 237-3970 or planning@prcity.com.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "This is the only City-controlled financial tool in Paso Robles; it substitutes for a housing trust fund. City fee deferrals have been the local match for Paso Robles Housing Authority tax credit deals (Oak Park) and are expected to pair with County Title 29 or Regional Housing Fund awards, HASLO or Paso Robles Housing Authority vouchers, SLO County Housing Trust Fund loans and the Urban County HOME NOFA (county record). The City receives about $165,000 per year of CDBG through the Urban County, which cannot fund new construction or impact fees. The 2026 resolution and project-specific deferrals were found only in local news; the City's eScribe agenda host (pub-pasorobles.escribemeetings.com) renders listings in JavaScript and returns 403 on document downloads, so the HCD-hosted 2020-2028 Housing Element is the agency source. Paso Robles is now preparing its 7th cycle Housing Element (consultant RFP due September 8, 2026).",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-adopted120920.pdf",
+      "record_id": "bad1e3bae2",
+      "cycle_notes": "No NOFA. Housing Element Program 7 (Affordable Housing Support) commits the City to offer impact fee deferrals for lower-income units and allow deferral of fees several years beyond occupancy; each deferral is approved by Council resolution.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Program number corrected to Housing Element Program 7 (Programs 8 and 9 are Uptown/Town Centre and Homelessness). Past February 12, 2026 committee date removed from next_deadline. 2026 project deferrals remain news-sourced.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Paso Robles",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Inclusionary housing ordinance and local affordable housing fund (none adopted; Housing Element finding)",
+      "administering_agency": "City of El Paso de Robles Community Development Department, Housing Programs Division",
+      "funding_type": "other",
+      "typical_award_size": "None. The 2020-2028 Housing Element states the City of Paso Robles does not have an inclusionary ordinance, and the City holds no inclusionary in-lieu fund, local housing trust fund or RDA successor housing fund for development. The Housing Programs Division's development support is limited to CDBG (about $165,000 per year through the Urban County), applying for County-administered HOME funds, fee deferrals and liaison with the Paso Robles Housing Authority. A November 2025 townhouse proposal offered a voluntary in-lieu payment tied to the County's Title 22 point system for use in a future tax-credit project, which indicates ad hoc negotiated contributions rather than a program.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable; no program exists as of November 8, 2026. Watch the 7th cycle Housing Element update for any inclusionary or local housing fund program.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Negative finding recorded so the gap is visible: Paso Robles is the largest North County city and offers no local gap funding beyond fee deferrals. Developers must rely on County Title 29 and the new Regional Housing Fund (county records), HASLO and Paso Robles Housing Authority vouchers, SLO County Housing Trust Fund and state programs. The 2020 Housing Element workshops listed a possible local housing fund (General Fund, TOT, in-lieu fees) as an option but none was adopted. prcity.com pages and the HCD-hosted Housing Element were opened; the 2025 Annual Progress Report could not be located on prcity.com.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-adopted120920.pdf",
+      "record_id": "9ee24b94ff",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Kept funding_type other: this is a negative finding with no deployable fund; the Housing Element states the City has no inclusionary ordinance and lists only General Fund fee deferral loans, Urban County CDBG and HOME, and the private SLO County Housing Trust Fund as resources.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Atascadero",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Impact Fee Deferral Program (Municipal Code Section 3-14.070 as amended by Ord. 666, September 26, 2023, and Council deferral resolution)",
+      "administering_agency": "City of Atascadero Community Development Department and Administrative Services",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Development impact fees and wastewater capacity charges, normally due at final inspection, may be deferred under a Council-approved agreement for residential units affordable to low, very low or extremely low income households. Staff reports and local coverage describe the program as a 17-year interest-bearing deferral loan for projects with five or more affordable rental units, with up to about $3 million in fees eligible; the City cites multifamily impact fees of roughly $12,000 to $15,000 per unit. Intended to improve TCAC competitiveness by lowering upfront cost.",
+      "per_unit_cap": "About $12,000 to $15,000 per high-density multifamily unit in impact fees is deferrable, not waived.",
+      "affordability_requirement": "Units affordable to low, very low and extremely low income households under a recorded agreement; deferral terms set in the agreement approved by Council.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; request with the entitlement or before building permit issuance. Contact Community Development at (805) 461-5000.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Deferral, not forgiveness: fees are a City loan repaid over the term, so underwrite as soft debt. Implements Housing Element Program 2.E. EPS advised the City against outright impact fee waivers for fiscal reasons, so a waiver is unlikely. Stacks with state density bonus (Article 30), the inclusionary in-lieu fund, County Title 29 or Regional Housing Fund, HASLO vouchers and Urban County HOME. The ordinance text was read on the ecode360 code mirror (atascadero.org links to the September 26, 2023 resolution on records.atascadero.org, which returned a scanned PDF with no extractable text).",
+      "source_url": "https://ecode360.com/43091640",
+      "record_id": "750900cfb0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Arroyo Grande",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Inclusionary Affordable Housing Trust Fund (In-Lieu Affordable Housing Fund) grants to affordable developments (Housing Element Program C.1-1)",
+      "administering_agency": "City of Arroyo Grande Community Development Department and City Manager; awards by City Council",
+      "funding_type": "grant",
+      "typical_award_size": "Small fund, awarded by Council to specific projects. Balance of $928,000 as of 2020 per the Housing Element. News reports (not agency sources) state the Council granted $448,370 in July 2023 and a further $630,000 on October 22, 2024 from the Affordable Housing Trust Fund to HASLO's Arroyo Terrace, a 63-unit (reported as 63 to 65 units) 100% affordable project at 700 North Oak Park Boulevard that also received a 2024 TCAC 9% reservation of about $2.2 million in annual federal credits and County Title 29 funds. Housing Element quantified objective: assist three extremely low, three very low and twenty low income units during 2020-2028.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Extremely low, very low and low income units with long-term covenants (55 years rental under Chapter 16.80); criteria for allocating the fund were to be adopted under Housing Element Policy C.1.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. No NOFA; requests are made to Community Development and the City Manager during the budget cycle or when a project needs gap funding. Contact (805) 473-5420.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The fund is likely close to depleted after the two HASLO grants (about $1.08 million against a $928,000 2020 balance plus later fees), so treat it as a small top-off source replenished by in-lieu fees. Arroyo Terrace shows the local stack: City trust fund grant, County Title 29 and Urban County HOME or PLHA (county records), HASLO vouchers, SLO County Housing Trust Fund and 9% LIHTC. The City also controls a small CDBG share through the Urban County. The Council staff reports for the 2023 and 2024 grants could not be opened (pub-arroyogrande.escribemeetings.com listings are JavaScript-rendered and documents return 403), so the HCD-hosted 2020-2028 Housing Element is the agency source; confirm the current balance and award history with the City.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/arroyo-grande-6th-adopted021121.pdf",
+      "record_id": "e0e0447caf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

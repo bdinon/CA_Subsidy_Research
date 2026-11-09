@@ -1,0 +1,41 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Roseville, Rocklin/Placer County Continuum of Care (CA-515, Homeless Resource Council of the Sierras) and HHAP, Placer County share",
+      "administering_agency": "Homeless Resource Council of the Sierras (HRCS, CoC lead and HMIS lead for CA-515 and Nevada County CA-531); Placer County Health and Human Services (County HHAP administrative entity; homeless outreach with the City of Roseville)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 6 allocations (HCD, 2024 count): Placer County $801,045.28 and the Roseville, Rocklin/Placer County CoC $855,530.14. HHAP rounds 1 to 5 brought $7.8 million to the Placer area, $2.0 million of it to the County ($1.8 million obligated, $892,207 spent by mid-2025). The County's HHAP-6 is planned for housing subsidies. 2024 point-in-time count: 702 people, 366 unsheltered, 640 year-round beds. The County and City of Roseville co-fund homeless outreach workers ($160,000 through June 2027).",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness; HHAP-6 requires a regionally coordinated action plan, a 10% youth set-aside and allows permanent housing capital, operating subsidies and rental assistance.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 funds are being contracted for FY 2026-27 through 2028-29; HRCS runs the CoC and HHAP sub-award processes and formed a Local Government Advisory Committee in 2025 to coordinate regional responses. HHAP Round 7 allocations follow the 2026-27 state budget ($900 million statewide).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. Placer's HHAP is under $1 million a year each to the County and the CoC and is used for subsidies and services, not capital. For a PSH project the value is HRCS Coordinated Entry referrals and possible CoC or HHAP operating support for a few units; pair with PCHA PBVs and County in-lieu fee loans. Roseville, the largest city, has its own housing authority and homelessness programs (Pass 3).",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-6-allocations.pdf",
+      "record_id": "98dc9dc315",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

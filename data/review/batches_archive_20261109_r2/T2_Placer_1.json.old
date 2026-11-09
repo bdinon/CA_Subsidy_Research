@@ -1,0 +1,203 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Launchpad workforce housing incentive, eastern Placer County (Transient Occupancy Tax through the TOT-TBID Dollars at Work program)",
+      "administering_agency": "Placer County Executive Office, Economic Development and Housing (Timothy Cussen, Housing Specialist); Tahoe City office 775 North Lake Boulevard; funding recommended by the North Tahoe Community Alliance (NTCA) TOT-TBID Dollars at Work program",
+      "funding_type": "grant",
+      "typical_award_size": "$200,000 per new multifamily or single-family unit created (category one), $125,000 per ADU and $50,000 per SRO unit, paid at completion once the workforce deed restriction is recorded. Funding: $1,000,000 inaugural NOFA (April 2025; $600,000 reserved for Steelhead Cottage Court in Kings Beach, 3 tiny-home units, and $125,000 for an accessible ADU) and $3,000,000 of new TOT approved February 3, 2026, for a 2026 NOFA pool of $3,275,000. The February 25 to March 18, 2026 round drew 12 applications (5 multifamily, 6 ADUs, 1 conversion; 55 units; $10,550,000 requested), with a lottery expected to reserve funds from mid-May 2026.",
+      "per_unit_cap": "$200,000 per unit (new construction or conversion of non-residential or non-code-compliant space), $125,000 per ADU, $50,000 per SRO.",
+      "affordability_requirement": "Units must be in unincorporated eastern Placer County within the Tahoe Truckee Unified School District boundary (outside avalanche hazard areas) and deed-restricted for occupancy by households with at least one full-time local worker (or equivalent) employed within the TTUSD area; no income limit, the restriction is workforce occupancy. The deed restriction follows the Workforce Housing Preservation Program form with an option to purchase.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "mixed-use"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026 round closed March 18, 2026; awards by lottery from mid-May 2026. Staff will revise the guidelines with community input (survey August 2026) and return to the Board later in 2026; the next NOFA depends on NTCA recommending TOT for FY 2026-27 and later. Lease to Locals (homeowner incentives, $500,000 of TOT in FY 2025-26, administered by Placemate) continues alongside.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. Launchpad is a per-unit grant rather than a loan and is sized for small infill projects in Kings Beach, Tahoe City and the North Shore; a 10-unit workforce project could draw $2 million, which is meaningful against TRPA coverage and construction costs in the Basin. It pays only at completion, so it is bridge-financed. The workforce (not income) restriction means it does not fit LIHTC deals directly but can fund unrestricted middle-income units in a mixed-income project. TOT funds are County funds, so prevailing wage status is unclear under Labor Code 1720; confirm with the County. North Lake Tahoe TOT also funds the Workforce Housing Preservation Program and the Dollar Creek Crossing effort.",
+      "source_url": "https://content.govdelivery.com/attachments/CAPLACER/2026/05/08/file_attachments/3645300/03A.pdf",
+      "record_id": "1d1bc18543",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "mixed-use"
+      ],
+      "next_deadline_date": "2026-03-18",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers and special-purpose vouchers, Placer County Housing Authority (PCHA)",
+      "administering_agency": "Placer County Housing Authority, operated by Health and Human Services, Human Services Division (Robert Oldham, Director; Alexis Madera, Staff Services Manager); Board of Supervisors sits as the Board of Commissioners",
+      "funding_type": "rental assistance",
+      "typical_award_size": "PCHA assists 435 very low and low income households through Housing Choice, Mainstream, VASH, Family Unification and Foster Youth to Independence vouchers; it owns no public housing. PBVs are awarded from the existing inventory through periodic RFQs (RFQ 20387 closed May 30, 2023 for new construction, rehabilitated and existing units) and project agreements: 8 PBVs to The Frances (formerly University Avenue Apartments, 2160 University Avenue, Rocklin, USA Properties Fund, occupancy expected 2029; HAP agreement approved July 28, 2026) and 16 PBVs committed to two Pacific Street partnerships in Rocklin (November 2025). The HCV waiting list is closed.",
+      "per_unit_cap": "PBV contract rents at reasonable rent up to PCHA payment standards (110% of FMR); HUD cap of 20% of authorized vouchers (about 87) plus exceptions for PSH and other eligible units.",
+      "affordability_requirement": "Very low and low income households (at or below 50% AMI at admission); PBV HAP contracts up to 20 years with extensions. PCHA's jurisdiction is all of Placer County except the City of Roseville, which has its own housing authority.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No PBV RFQ open on November 6, 2026; the last competitive round was 2023 and recent awards have gone to projects already in the County's pipeline. Contact PCHA (Human Services Division, Auburn) to request vouchers for a new project; new VASH and Family Unification awards (20 vouchers in 2025) expand the pool slowly.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. With only 435 vouchers, PCHA can project-base perhaps 8 to 16 units per project, which is the pattern in Rocklin. Treat PBVs as a small PSH set-aside subsidy rather than a project-wide operating source, and plan on a transition reserve. Nine or more PBV units trigger Davis-Bacon; PBVs alone do not trigger state prevailing wage. Roseville Housing Authority (City of Roseville) is covered in Pass 3. Coordinated Entry runs through the Homeless Resource Council of the Sierras (CoC CA-515).",
+      "source_url": "https://placerca.legistar.com/LegislationDetail.aspx?ID=1355&GUID=70165223-B693-4381-9451-81977B042CE4&Options=&Search=&FullText=1",
+      "record_id": "b5d87769bb",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "County-owned land for affordable housing: Dollar Creek Crossing (3205 North Lake Boulevard, Tahoe City)",
+      "administering_agency": "Placer County Executive Office, Economic Development and Housing, with the Community Development Resource Agency; developer Related California (Related Norcal Development, LLC) under a preliminary agreement",
+      "funding_type": "land",
+      "typical_award_size": "County-owned parcels bought in 2019 across from the 7-Eleven on North Lake Boulevard. After seven years of mixed-use and mixed-income concepts, the Board directed an affordable-only project of at least 80 lower income units in April 2025; the developer's June 2026 financial report says the County would need to contribute about $18,500,000 (land plus gap) for feasibility, and the County has not identified a funding source. The preliminary agreement was set to expire at the end of June 2026; if it lapses the County must issue a new RFP no later than July 2027.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Low income (at or below 80% AMI) rental housing, 80 units, with the County's Affordable Housing Priority Applicant Policy for local workers and residents.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Watch for a new RFP by July 2027 if the Related agreement expired; the County's Ad Hoc Committee for Housing Funding and Fee Implementation is tasked with finding the $18.5 million (supervisors have floated a bond or other borrowing). A community open house was held April 2, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. Dollar Creek is the County's only land contribution in the Tahoe Basin and shows the limit of its resources: the land is in hand but the County has no fund large enough for an $18.5 million gap, so the deal will depend on state money (MHP, IIG, AHSC, TRPA bonus units) plus TOT programs. A developer answering a future RFP should price the TRPA coverage and allocation process and the County's requirement for workforce preference. County land plus County funds will trigger prevailing wage.",
+      "source_url": "https://sierrasun.com/news/tahoe-city-affordable-housing-development-meets-funding-challenges",
+      "record_id": "544ff6f08c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-04-02",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption (property tax), Placer County Assessor",
+      "administering_agency": "Placer County Assessor, Matt Maynard; (530) 889-4300; with the State Board of Equalization (Organizational Clearance Certificate)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Exemption of property taxes on units restricted to lower income households under Revenue and Taxation Code 214(g): full exemption for qualifying units in LIHTC or publicly financed projects and partial exemption for the qualifying share in mixed projects. In Placer County the 1% base rate plus voter-approved debt and direct assessments applies to the exempt value.",
+      "per_unit_cap": "Statewide $20 million assessed-value cap on the 214(g) exemption for non-LIHTC projects relying only on a regulatory agreement; no cap for LIHTC projects. AB 84 (2024) allows a share of units occupied by households up to 100% AMI to remain exempt.",
+      "affordability_requirement": "Nonprofit owner or limited partnership with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate; recorded regulatory agreement (tax credits, bonds, County Use Deed Restriction with income limits, PLHA) restricting rents to lower income households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 (first year) or BOE-267-A (annual) with the Assessor by February 15 each year with BOE-267-L, L1, L2 and L-A supplements as applicable; late filings through December 31 receive a partial exemption. The Assessor's web pages were not reachable on November 6, 2026; call the office for filing instructions.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. Standard underwriting item for Hope Way, Placer Creek and similar LIHTC deals. Note that the County's eastern Placer workforce deed restrictions (Launchpad, WHPP) restrict occupancy to local workers without income limits and do not by themselves qualify a property for the welfare exemption.",
+      "source_url": "https://www.boe.ca.gov/proptaxes/countycontacts.htm",
+      "record_id": "a236c72baf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Roseville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Roseville CDBG entitlement and HOME funds (annual Action Plan) and Permanent Local Housing Allocation (PLHA) Plan adopted September 2, 2026",
+      "administering_agency": "City of Roseville Housing Division (Dani Calli, Housing Analyst, 916-774-5277, dcalli@roseville.ca.gov)",
+      "funding_type": "grant",
+      "typical_award_size": "Roseville is a HUD entitlement city; the 2026-27 CDBG award was expected at roughly $700,000 with about $730,000 of prior-year carryover and about $50,000 program income (2026 Action Plan hearing May 6, 2026; 2025-26 CAPER public comment August 29 to September 16, 2026). CDBG is mostly used for owner rehabilitation loans (deferred loans up to $100,000, $5,000 grants for elderly and disabled owners), accessibility work (over $1 million earmarked in 2026 for Sierra Gardens accessibility upgrades) and public services, but it has funded affordable housing land acquisition: a $571,850 CDBG loan to Greek Orthodox Housing Corporation on September 4, 2024 for parcel JM-30 (192-unit Sierra Vista Apartments). HOME funds (state-administered) support first-time homebuyer and rehabilitation programs. PLHA: Roseville's formula allocation under HCD's July 2026 NOFA (about $285 million statewide, five-year term) is programmed in the City's PLHA Plan (Resolution 26-327) for Homeless Prevention and Rapid Rehousing, not development; $1,374,763 of PLHA was budgeted for HPRR in FY2026-27.",
+      "per_unit_cap": "None; the CDBG acquisition loan example is about $3,000 per unit.",
+      "affordability_requirement": "CDBG national objective (low and moderate income benefit; 2026 Sacramento PMSA limits: 1 person $73,600, 4 persons $105,100); HOME and PLHA income rules per program.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "supportive housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026 round: applications were due February 2, 2026, with the hearing May 6, 2026. Expect the 2027 CDBG and HPRR NOFA in December 2026 or January 2027 with applications due about early February 2027 and Council action in May 2027; confirm with the Housing Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Roseville runs its own CDBG and PLHA; Placer County's PLHA allocation (county record, needs_confirmation) covers the unincorporated area and non-entitlement cities such as Auburn, while Lincoln became its own CDBG entitlement in 2026 and Rocklin receives its own PLHA formula share. CDBG land loans trigger federal cross-cutting rules (Davis-Bacon for 8 or more units, environmental review, Section 3). PLHA is currently committed to HPRR, so do not count on PLHA for development in Roseville. The CDBG page, PLHA notice and the September 2, 2026 agenda were opened; the PLHA Plan PDF link itself was not fetched.",
+      "source_url": "https://www.roseville.ca.gov/departments/affordable_housing/community_development_block_grant_cdbg.php",
+      "record_id": "b074861f50",
+      "cycle_notes": "winter",
+      "eligible_project_detail": [
+        "acquisition",
+        "acquisition-rehab",
+        "public facilities serving affordable housing",
+        "homeless prevention and rapid rehousing"
+      ],
+      "next_deadline_date": "2026-05-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

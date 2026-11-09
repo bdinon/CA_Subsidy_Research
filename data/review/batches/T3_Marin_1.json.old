@@ -1,0 +1,46 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Rafael",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "San Rafael Affordable Housing Trust Fund (Affordable Housing In-Lieu Fee Fund 243), Resolution 14760 guidelines, periodic NOFA and rolling acquisition process",
+      "administering_agency": "City of San Rafael Community and Economic Development Department, Housing Division (Alexis Captanian, Housing Manager, (415) 485-3383, housing@sanrafael.gov)",
+      "funding_type": "loan",
+      "typical_award_size": "Small gap fund capitalized by residential in-lieu fees and commercial linkage fees. Balance was $2,034,226 in July 2023 and about $1,000,000 unencumbered on August 15, 2024. 2023 NOFA offered $1,400,000 and awarded $1,450,000 across three projects (BRIDGE Housing rehabilitation of 125 units at Nova Albion and Las Gallinas $1,000,000; Eden Housing 3301 Kerner Blvd 40-unit PSH adaptive reuse $250,000 on top of $2,101,663 prior awards; Canal Alliance Marin Villa Estates renovation $200,000). The June 2025 round awarded $600,000 across three projects (an acquisition, a rehabilitation and new construction) and was issued jointly with Marin County. Rolling acquisition process approved September 3, 2024: up to $250,000 per year total, unawarded amounts do not roll over. Awards are grants or loans at Council discretion.",
+      "per_unit_cap": "No fixed cap; guidelines score per-unit subsidy for reasonableness. Rolling acquisition requests are limited by the $250,000 annual pool.",
+      "affordability_requirement": "Rental units income and rent restricted for not less than 55 years. 100% affordable rental or ownership projects serving seniors, families and special needs, including formerly homeless households. Scoring favors transit proximity (within a quarter mile), units for larger families (Resolution 15438) and very low income service.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No City NOFA planned for 2026 (City statement on its funding page). Acquisition requests accepted any time after a pre-application meeting with staff. Watch the County NOFA in January 2027 for the next joint round.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "San Rafael is the only Marin city with a recurring NOFA practice, but the pool is thin: in-lieu revenue has fallen because most projects now use State Density Bonus with on-site units instead of paying the fee (Oct 5, 2026 staff report). Typical use is last-mile gap money of $200,000 to $1,000,000 that unlocks the Marin County Affordable Housing Fund (County guidelines require a city contribution for projects inside city limits) and County PLHA (2023 example: $250,000 City plus $250,000 County Trust Fund plus $250,000 PLHA for 3301 Kerner). CDBG and HOME for San Rafael flow through the Marin Urban County; the City received $508,032 in CDBG in 2026 and the 2026-27 County cycle offered $1,500,000 CDBG, $700,000 HOME and $900,000 PLHA. Pair with CMFA bonds and 4% credits; LIHTC deals in the City pipeline include 88 Vivian (124 units) and 1100 Los Gamos (192 units, Community Development Partners). City funds are public funds, so assume Labor Code 1720 prevailing wage unless the award is structured as an exempt grant. Resolution 14760 itself (Jan 21, 2020) was not opened; terms come from the Sept 3, 2024 staff report, the July 2023 NOFA award report, the April 2024 Marin Villa amendment and the 2025 Annual Progress Report, all opened. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://sanrafael.gov/funding-opportunities-for-affordable-housing-developers/",
+      "record_id": "19f8bbe646",
+      "cycle_notes": "(acquisitions, up to $250,000 a year); NOFA issued only when the balance supports it, aligned with the County January cycle",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program rule found. The City funding page, the 2020, 2021 and 2023 NOFAs and staff reports, and the Sept 2024 application process report do not state a prevailing wage requirement for Trust Fund awards. The April 2024 Marin Villa Estates staff report notes prevailing wage applied to that project through multiple layered funding sources, not through the City fund itself. Coverage of a City-only award rests on the general Labor Code 1720(b) public-funds definition and depends on 1720(c) exemptions and project facts.",
+      "audit_note": "Tier 3: prevailing wage left unclear. Resolution 14760 guideline text was not found online; only the general Labor Code 1720(b) basis exists, so the outcome depends on 1720(c) exemptions and other funding layered on the project.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

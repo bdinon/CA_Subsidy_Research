@@ -1,0 +1,83 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Mixed-Income Program (MIP)",
+      "administering_agency": "California Housing Finance Agency (CalHFA); transitioning to Housing Development and Finance Committee (HDFC) under the California Housing and Homelessness Agency",
+      "funding_type": "loan",
+      "typical_award_size": "2026 round: $63M in subsidy loans to 13 developments (1,768 units); funded by 15% of SB 2 Building Homes and Jobs Act revenue. Per project: lesser of $6M, $50,000 per MIP-regulated unit ($60,000 in High or Highest Resource areas), or 50% of the CalHFA permanent loan. Sponsor limited to one award per year; no county may receive more than 25% of annual funds; age-restricted projects capped at 25%.",
+      "per_unit_cap": "$50,000 per MIP-regulated unit; $60,000 in High/Highest Resource areas",
+      "affordability_requirement": "New construction, 4% credits with income averaging; at least 51% LIHTC units. MIP regulatory agreement (55 years): 30% of units at or below 50% AMI (including 10% at or below 30% AMI), 10% of units at 60% to 80% AMI averaging 70%, remaining units at or below 120% AMI; spread between lowest and highest targets at least 40 points; average affordability no more than 60% AMI. Rents at least 10% below market.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. 2027 MIP term sheet and key dates not yet posted; check the CalHFA Key Program Dates page.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Must use CalHFA Conduit Issuer Program for construction bonds and CalHFA Tax-Exempt Permanent Loan (minimum $5M perm loan, 1.15x DSCR). Draws on the $100M enhanced state credit MIP set-aside at CTCAC and the $310M State-funded Mixed Income bond set-aside at CDLAC, so MIP projects compete for bonds outside the geographic pools. Cannot be combined with 9% credits. 3% simple interest, residual receipts (50% of surplus cash), coterminous with perm loan, 1% loan fee. Term sheet is silent on prevailing wage; a 3% subordinate loan may fit the Labor Code 1720(c)(6)(E) below-market-loan exemption if 40% of units are restricted at 80% AMI for 20 years, but confirm with counsel. Governor's reorganization moves MIP into HDFC with HCD programs for a unified application.",
+      "source_url": "https://www.calhfa.ca.gov/multifamily/mixedincome/index.htm",
+      "record_id": "a31ffd041a",
+      "cycle_notes": "2026 round: MIP loan application workbook due March 2, 2026 and due diligence due March 9, 2026, tied to CDLAC Round 2 (application May 19, 2026; allocation meeting August 18, 2026). CalHFA reported May 5, 2026 that preliminary assessments were complete: 13 eligible developments, $63M in subsidy loans.",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Prevailing wage left unclear: the 2026 MIP Term Sheet, 2026 Application Guide and program page contain no prevailing wage provision; confirm with CalHFA Multifamily staff.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "CalHFA Tax-Exempt Permanent Loan Program",
+      "administering_agency": "California Housing Finance Agency (CalHFA)",
+      "funding_type": "loan",
+      "typical_award_size": "Minimum $5M permanent loan; sized to 1.15x DSCR (max 1.20x year 1 when paired with a CalHFA subsidy loan), lesser of 90% of restricted appraised value or 100% of development cost; combined LTV up to 120% with CalHFA subordinate debt. Rate: 15- or 30-year AAA MMD plus CalHFA spread (estimated 2.20% to 3.75%). Up to 40-year amortization; fully amortizing or 17- or 30-year balloon. Fees: $10,000 application, 1.50% funding fee, $7,500 annual monitoring. HUD/FHA Risk Share credit enhancement.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Greater of existing restrictions or 20% at 50% AMI or 40% at 60% AMI (with 10% at 50% AMI); rents at least 10% below market.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; CalHFA publishes application milestones keyed to each CDLAC round (2026: borrower submittals due Jan 13, April 28, Aug 18 for conduit-only; MIP workbook March 2).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "CalHFA must be the bond issuer when it provides the perm loan. Works with or without 4% credits. Required first lien for MIP projects. All other soft financing must be subordinate and coterminous. Term sheet last revised January 2026.",
+      "source_url": "https://www.calhfa.ca.gov/multifamily/programs/forms/termsheet-perm-tax-exempt.pdf",
+      "record_id": "73d3b9b5d1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No stated rule found. CalHFA perm term sheet (https://www.calhfa.ca.gov/multifamily/programs/forms/termsheet-perm-tax-exempt.pdf) and application and closing documents state no prevailing wage requirement. Federal: the loan is credit enhanced by HUD/FHA Risk Sharing, but 24 CFR 266.225(a) (https://www.law.cornell.edu/cfr/text/24/266.225) applies Davis-Bacon only when construction advances are insured, the work is new construction or substantial rehab, and there are 12 or more units; this is a permanent loan, so Risk Share alone does not trigger Davis-Bacon. State: CalHFA is a public lender, so coverage turns on Labor Code 1720(b)(4) below-market terms and 1720(c) exemptions for the specific deal.",
+      "audit_note": "Prevailing wage left unclear: state outcome depends on Labor Code 1720(b)(4) and 1720(c) facts; Davis-Bacon not triggered by Risk Share on a perm-only loan per 24 CFR 266.225(a).",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

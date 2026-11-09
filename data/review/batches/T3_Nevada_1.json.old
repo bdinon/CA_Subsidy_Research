@@ -1,0 +1,127 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA) regional program (County, Grass Valley and Nevada City)",
+      "administering_agency": "Nevada County Housing and Community Services Department",
+      "funding_type": "loan",
+      "typical_award_size": "$3,074,180 in PLHA for 2020 through 2024 across the County, Grass Valley and Nevada City; Rounds 1 to 3 funded affordable housing development (Lone Oak II and Habitat Ventana Sierra through the trust fund), owner-occupied construction and homeless services; Rounds 4 and 5 total $808,089 and will be awarded directly under the plan amended June 16, 2026 (Resolution 26-317). Per HCD's 2024-2028 formula NOFA the County's own annual allocation is $207,009 (2024) and $238,910 (2025) and Nevada City's is $53,734 and $57,661; Grass Valley's is delegated to the County under the MOU extended August 11, 2026.",
+      "per_unit_cap": "Not published. Rental awards must be low-interest deferred loans secured by a deed of trust with a 55-year regulatory agreement (resolution certification 9).",
+      "affordability_requirement": "PLHA guidelines: households at or below 60% AMI for rental development, with 55-year covenants; owner-occupied units deed-restricted per Guidelines 302(c)(6).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA published as of November 8, 2026. Staff report (August 11, 2026) says the County will score proposals for Rounds 4 and 5 jointly with the two cities once the MOU extension is executed by both city councils.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. PLHA is small (roughly $200,000 to $300,000 a year countywide) and has historically been bundled into trust fund loans. A developer with a site in the unincorporated area, Grass Valley or Nevada City should contact HCS early to be placed in the Round 4 and 5 pipeline; awards will be 55-year deferred loans suitable as TCAC local contribution. Round 3 money is committed to Lone Oak II and Habitat.",
+      "source_url": "https://nevco.legistar.com/LegislationDetail.aspx?ID=49657&GUID=75673352-4F30-44D4-8EC5-795532A21A21",
+      "record_id": "dbfc894af3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "acquisition/rehab",
+        "owner-occupied affordable housing",
+        "homeless services and interim housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No stated rule: the 2024-2028 PLHA Formula Guidelines (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-guidelines.pdf) contain no prevailing wage provision, and the County's PLHA amendment staff report and Resolution 26-317 certifications (https://legistar.granicus.com/nevco/attachments/7d500d37-79a8-450c-820d-b92b30542adf.pdf) are silent. Coverage of a County PLHA loan is a general Labor Code 1720(b) question that turns on 1720(c) exemptions, including the 1720(c)(6)(E) affordable housing exemption applied in DIR PW 2006-020, and on any HOME or CDBG layered in the trust fund loan.",
+      "audit_note": "Prevailing wage left unclear: only basis is general Labor Code 1720(b) public funds; outcome depends on 1720(c) exemptions and project facts.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) via Nevada County Continuum of Care CA-531",
+      "administering_agency": "Homeless Resource Council of the Sierras (CoC CA-531 administrative entity) with Nevada County Health and Human Services Agency",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 allocations: Nevada County $588,802.52 and Nevada County CoC $628,851.21; HHAP-7 preliminary: County $594,795.85 and CoC $637,281.27. Total HHAP investment in the Nevada County area since 2019 about $5.4 million. Under the MOU approved September 8, 2026 (Resolution 26-438) the CoC administers Rounds 4, 5, 6 and future rounds and passes 25% of each joint award to the County for homeless operational services and extreme weather shelters.",
+      "per_unit_cap": "Not applicable; no capital set-aside identified.",
+      "affordability_requirement": "People experiencing or at risk of homelessness per the Regionally Coordinated Homeless Action Plan.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-7 applications follow the state 2026 schedule; local funding decisions run through the CoC's Joint Homeless Action Plan process. Contact the Homeless Resource Council of the Sierras.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. HHAP in Nevada County is small and spent on operations (HOME Team outreach, shelters, the Truckee Navigation Center pilot), not capital. A PSH developer should treat it as a possible services or operating match for Homekey+ or BHSA units, negotiated with the CoC rather than the County.",
+      "source_url": "https://nevco.legistar.com/LegislationDetail.aspx?ID=49886&GUID=92998DE0-296D-4971-8EFB-34D3B8CB58DC",
+      "record_id": "c4945d3cdf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing operating and services",
+        "interim housing and shelter operations",
+        "rapid rehousing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No stated rule: the HHAP statute (Health and Safety Code 50220.8, https://california.public.law/codes/health_and_safety_code_section_50220.8) lists eligible uses without any prevailing wage or Labor Code provision, and the County-CoC HHAP MOU and staff report approved by Resolution 26-438 are silent. Locally HHAP funds operations and services, not construction; any capital use would be a general Labor Code 1720(b) question depending on 1720(c) exemptions and project facts.",
+      "audit_note": "Prevailing wage left unclear: no HHAP rule found; only basis would be general Labor Code 1720(b), and current local uses are operating and services.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) Housing Interventions, 2026-2029 Integrated Plan",
+      "administering_agency": "Nevada County Behavioral Health Department",
+      "funding_type": "grant",
+      "typical_award_size": "Three-year BHSA Integrated Plan (FY 2026/27 to 2028/29), approved by the Board of Supervisors June 2, 2026 (Resolution 26-231); staff report estimates BHSA expenditures of $27,502,891 over three years. Housing Interventions base allocation is 30 percent: $2,460,099 (FY 26/27), $2,596,276 (FY 27/28) and $2,752,206 (FY 28/29), half for chronic homelessness. The County will use housing funds for rental subsidies (about 200 people a year, 103 in permanent supportive housing and 97 in interim hotel or motel stays), project-based and tenant-based, plus outreach and engagement; it will not use BHSA for capital development (0 of the allowed 25 percent). BHSA-funded PSH beds grew from 20 (2019) to 94 (2026), with about 24 Homekey+ units coming.",
+      "per_unit_cap": "Not applicable; no capital or per-unit awards.",
+      "affordability_requirement": "BHSA-eligible adults with serious mental illness or substance use disorder experiencing or at risk of homelessness; BHSA is the funding source of last resort for PSH.",
+      "eligible_project_types": [
+        "supportive housing",
+        "rental assistance"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Integrated Plan runs through FY 2028/29 with annual updates; contact Nevada County Behavioral Health (530-265-1437) about operating subsidies for PSH units.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Classified grant: the BHSA plan funds rental subsidies for permanent supportive housing (project-based and tenant-based), not capital. Nevada County's Housing and Community Services Department (HCS) administers the Western Nevada County Regional Housing Trust Fund, PLHA, state HOME and CDBG awards and the Down Payment Assistance Program; the Behavioral Health Department holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras (CoC CA-531); the Regional Housing Authority supplies vouchers. BHSA rental assistance is used where a voucher is not available, so a PSH developer should plan on BHSA as an operating or rental subsidy source for a handful of units, not as gap capital. Capital has come from BHBH, BHCIP, ERF and Homekey+ instead. Staff report and resolution are on Legistar (nevco matter SR 26-0325).",
+      "source_url": "https://www.nevadacountyca.gov/DocumentCenter/View/64394/Nevada-County-2026-2029-BHSA-Integrated-Plan",
+      "record_id": "2ee11c454e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing operating and rental subsidies",
+        "outreach and engagement"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "Reclassified from other to grant (rental subsidy for housing). Award text updated to plan allocation figures; source_url updated to the redirect target of the same PDF.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

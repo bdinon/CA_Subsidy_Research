@@ -1,0 +1,248 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Affordable housing on County-owned excess land (ground leases through Disposition and Development Agreements)",
+      "administering_agency": "County of San Diego Department of General Services, Real Estate Services (RFP issuance and DDA), with HCDS (regulatory agreement and IHTF capital); Board of Supervisors approval",
+      "funding_type": "land",
+      "typical_award_size": "12 County-owned surplus sites are in the pipeline for 100% affordable housing totaling about 1,762 homes (595 completed, 126 under construction, 1,043 upcoming), with $51.8 million of County capital committed to the sites. Nine sites are in the City of San Diego, plus Fallbrook, Ramona and Escondido. Terms are long-term ground leases (99 years at 620 E. Valley Parkway, Escondido, 134 senior units; 3177 Ocean View Boulevard, San Diego, 122 units with BRIDGE Housing and a San Ysidro Health clinic, about $500,000 initial rent then $300 a year escalating 3.5%). Next starts: 6255 Mission Gorge Road (337 units) and 5001 73rd Street (120 units) in early 2027, 4588 Market Street (138) in 2027, Ramona 12th and Main (100) and 5202 University Avenue (90, via SDHC) in 2028.",
+      "per_unit_cap": null,
+      "affordability_requirement": "100% affordable at or below 80% AMI under a County regulatory agreement (55 years or longer); specific populations (seniors, families, PSH) set in each RFP. Developer must comply with the County Working Families Ordinance (prevailing wage, skilled and trained workforce, paid sick leave) on County property.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Site-by-site RFPs posted on the General Services Development Opportunities page when the Board declares a property surplus; no housing RFP was open on November 6, 2026 (the open RFP is a Behavioral Health Wellness Campus). Upcoming: RFP for ground lease and renovation of the four Chula Vista public housing sites after HUD RAD/Section 18 approval, and the Fallbrook North Orange and East Ivy site (acquired June 2025, program TBD). The County and City of San Diego share a goal of 10,000 affordable units on public land by 2030 (6,917 opened, under construction or planned as of March 2026).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County land deals come packaged: nominal ground lease, IHTF or other County capital (County sites had their own $12 million IHTF NOFA in July 2026 and get a location preference in every HCDS NOFA), PBVs where HACSD has jurisdiction, and Board support for state applications. In exchange the County requires 100% affordability, Working Families Ordinance labor terms (prevailing wage plus skilled and trained workforce on work over $1 million), ground lease payments to the IHTF, and a County regulatory agreement senior to other restrictions. Mission Gorge (337 units) and Ramona are the largest unincorporated or near-term opportunities; Ramona and Fallbrook sites test rural feasibility. Faith-based land partnerships (three developments, 220 units) are a parallel track.",
+      "source_url": "https://sdcounty.legistar.com/LegislationDetail.aspx?ID=8704&GUID=2E56B0B2-5171-4711-9A3B-0DAF1260AC97&Options=&Search=&FullText=1",
+      "record_id": "199583368a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption (property tax), San Diego County Assessor",
+      "administering_agency": "San Diego County Assessor/Recorder/County Clerk, Jordan Z. Marks; Institutional Exemptions unit, 1600 Pacific Highway, Suite 103, San Diego, CA 92101; (619) 531-5772; with the State Board of Equalization (Organizational Clearance Certificate)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Exemption of property taxes on units restricted to lower income households under Revenue and Taxation Code 214(g): full exemption for qualifying units in LIHTC or publicly financed projects and partial exemption for the qualifying share in mixed projects. In San Diego County the 1% base rate plus voter-approved debt applies to the exempt value, typically worth 1.1% to 1.25% of assessed value a year.",
+      "per_unit_cap": "Statewide $20 million assessed-value cap on the 214(g) exemption for non-LIHTC projects relying only on a regulatory agreement; no cap for LIHTC projects. AB 84 (2024) added the 100% AMI over-income category reported on BOE-267-L4.",
+      "affordability_requirement": "Nonprofit owner or limited partnership with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate; recorded regulatory agreement (tax credits, bonds, HOME, PLHA, IHTF or County regulatory agreement) restricting rents to lower income households; BOE-267-L2 tenant data for projects without government financing or tax credits.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Annual filing due February 15 each year (the Assessor's current instruction sheet, revised December 2025, states February 15, 2026); first-year claims on BOE-267 with BOE-267-L, L1, L2 and L-A supplements as applicable; late filings through December 31 receive a partial exemption.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard underwriting item for every LIHTC or County-financed deal in the region. The County's 55-year regulatory agreement and the inclusionary affordable housing agreements qualify as recorded restrictions. File the Organizational Clearance Certificate copy with the first claim and use the San Diego forms posted at sdarcc.gov. Mixed-income inclusionary projects owned by for-profits do not qualify and should instead seek a restricted assessed value under Revenue and Taxation Code 402.1.",
+      "source_url": "https://www.sdarcc.gov/content/dam/arcc/assessor/forms/property-tax-exemption-and-exclusion-forms/267WELFIRST.pdf",
+      "record_id": "75bf5955af",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-02-15",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Diego",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "City of San Diego Affordable Housing Fund (Housing Trust Fund and Inclusionary Housing Fund, SDMC Chapter 9, Article 8, Division 5) and SDHC Affordable Housing and Permanent Supportive Housing NOFA (FY27 NOFA-27-01)",
+      "administering_agency": "San Diego Housing Commission (SDHC), Real Estate Division, 1122 Broadway, Suite 300, San Diego 92101; NOFA contact Morgan Patterson, morganp@sdhc.org; NOFAs posted on the SDHC PlanetBids vendor portal",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2027 Annual Plan: about $42.5 million available July 1, 2026 to June 30, 2027 ($5.4M new fees and loan repayments plus $37.1M fund balances, of which $22.4M is already committed to projects and prior NOFAs). Rental Housing Production allocation $30.39M: $11.09M prior Board commitments, $9.8M FY26 NOFA earmark, $0.5M FY24 NOFA earmark, and a $9.0M FY27 NOFA ($6.5M Inclusionary Housing Fund plus $2.5M Housing Trust Fund linkage fees). FY27 production goal 183 units closing plus 348 units in development. FY 2025: $18.08M committed, each AHF dollar leveraged about $9; two closings (Kindred 125 units, Rose Creek 59 units) took $3.85M. Recent per project awards $1.0M to $2.85M (The Iris at San Ysidro, 99 units, $2.3M).",
+      "per_unit_cap": "None published; SDHC underwrites to gap. Code caps: no more than 25 percent of a loan or grant to a single development in some HTF categories (SDMC 98.0504), 60 percent of HTF to very low income, no more than 10 percent to median income.",
+      "affordability_requirement": "Minimum 55 years. HTF: at least 60 percent of funds for very low income (up to 50 percent AMI), no more than 20 percent for low income, no more than 10 percent for median income. IHF: priority to new construction of units for very low and low income households; rents at or below 30 percent of income, generally at least 10 percent below market.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY27 NOFA-27-01 draft guidelines public comment closed October 29, 2026 (stakeholder meeting October 22, 2026); final guidelines and release expected after SDHC Board approval, likely late 2026 or early 2027. Register on the SDHC PlanetBids portal to receive the release. FY28 Annual Plan comment period typically February to March.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Largest city-controlled gap source in the county. Stacks under 4 percent and 9 percent LIHTC, SDHC bonds (separate record), SDHC project-based vouchers through the same NOFA, and County HCDS NOFA 2026-03 money only where a project sits in the City but County IHTF rarely funds City of San Diego sites. The City's Bridge to Home LMIHAF and PLHA NOFA (separate record) is run by the Economic Development Department, not SDHC, and projects commonly take both. HOME funds awarded to the City are administered by SDHC and folded into the same NOFA. AHF also funds ADU construction loans up to $250,000 at 3 percent for low income homeowners (7 year affordability) and homeless programs. FY27 plan and FY25 annual report read on sdhc.org.",
+      "source_url": "https://sdhc.org/wp-content/uploads/2026/06/FY27-AHF-Plan.pdf",
+      "record_id": "d33fac6365",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "next_deadline_date": "2026-10-29",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Diego",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Bridge to Home Program NOFA (Low and Moderate Income Housing Asset Fund, PLHA and CDBG gap loans), Round 8 (2026)",
+      "administering_agency": "City of San Diego Economic Development Department, Community Development Division, 1200 Third Ave., 14th Floor, San Diego 92101; Kristian Castro, KCastro@sandiego.gov, (619) 236-6700",
+      "funding_type": "loan",
+      "typical_award_size": "Round 8 (opened August 31, 2026, due October 19, 2026) offered $15 million: $10M LMIHAF for new construction of rental housing at 30 to 60 percent AMI and $5M PLHA restricted to units at or below 30 percent AMI for households experiencing or at risk of homelessness. Round 7 (February 3 to April 6, 2026) offered $16.5M and recommended three projects (430 homes). Round 6 (July 2025) about $16.65M for three projects (391 homes). Round 5 (2025) used $18.38M CDBG for acquisition (Mercado Apartments $15.275M for 222 units; Navajo Family $3.1M for 44 units). Seven rounds have recommended about $141.4M; typical awards $3.0M to $6.65M per project. LMIHAF cash balance $100.5M at June 30, 2025 (SB 341 report), FY25 deposits $8.19M and expenditures $13.37M.",
+      "per_unit_cap": "No fixed cap. The City scores lower funding per unit higher and may set a per project or per unit cap in a given round. Monitoring fee $157.50 per affordable unit per year.",
+      "affordability_requirement": "55 year covenants. LMIHAF: all assisted units at or below 80 percent AMI with at least 30 percent of units at or below 30 percent AMI and no more than 20 percent between 60 and 80 percent AMI (Health and Safety Code 34176.1). PLHA share only for 30 percent AMI units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Round 8 closed October 19, 2026; funding recommendations expected at the Economic Development and Intergovernmental Relations Committee in December 2026 and Council OPAs in early 2027. Round 9 not yet announced; developers must pre-qualify through the rolling RFQ at least two weeks before a NOFA deadline.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Two-step process: developer RFQ pre-qualification (Pre-Qualified Developer List updated October 7, 2026; small and emerging developers may partner), then NOFA. NOFA requires state prevailing wage on the whole project and 55 year covenants recorded senior to foreclosable liens. Pairs with SDHC AHF NOFA and SDHC bonds (separate records); the City prioritizes transit priority areas and Communities of Concern. The Affordable Housing Master Plan (2023 update) governs use of former redevelopment housing assets; since 2012, $233M has gone to over 4,000 units. Successor Agency surplus sites are offered by RFP (808 West Cedar RFP closed December 8, 2025; none open as of December 2025). County HCDS NOFAs normally exclude City of San Diego projects, so this and the SDHC AHF are the local layers. Prohousing: City designation (November 2022) lapsed January 2026 and renewal is pending (separate record).",
+      "source_url": "https://www.sandiego.gov/economic-development/bridge-to-home",
+      "record_id": "bd68bd411c",
+      "cycle_notes": "one to two rounds per year; Round 8 closed October 19, 2026",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-10-19",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Chula Vista",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Chula Vista Housing Authority housing successor loans (Low and Moderate Income Housing Asset Fund) and Local Housing Trust Fund gap financing; 2025-2026 affordable housing NOFA",
+      "administering_agency": "City of Chula Vista Housing and Homeless Services Department (Housing Manager Brian Warwick) acting for the Chula Vista Housing Authority as Housing Successor to the former Redevelopment Agency",
+      "funding_type": "loan",
+      "typical_award_size": "Residual receipts style gap loans of $3M to $4M per project. June 16, 2026: Housing Authority Resolution 2026-006 and Council Resolution 2026-130 approved up to $4,000,000 (recommended as $3,000,000 Low-Mod plus $975,000 Local Housing Trust Fund) to Wakeland Housing for the 68-unit Park Hill UMC project at 545 East Naples Street, conditioned on reducing density to 62 units; Bayview Family Apartments was the alternate. June 10, 2025: up to $4.0M Low-Mod loan to Community HousingWorks for 201 Third Avenue (HA Resolution 2025-004); March 2025: $3.0M Low-Mod for the Palomar Motel permanent supportive housing conversion with Homekey+. The 2024-2025 NOFA offered about $4,000,000 for new multifamily construction (applications due January 15, 2026). Local Housing Trust Fund seeded in 2024 with a $500,000 City match (Resolution 2024-102) and a $500,000 HCD LHTF matching grant (Resolution 2024-163, awarded January 2026). FY 2026-27 Low-Mod administration and homeless prevention appropriation $800,000.",
+      "per_unit_cap": "None published; awards have run about $44,000 to $59,000 per unit.",
+      "affordability_requirement": "55 year covenants; LMIHAF rules (Health and Safety Code 34176.1: 80 percent AMI maximum, 30 percent of funds to 30 percent AMI units); LHTF units for lower income households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Next NOFA not announced; the Housing and Homelessness Advisory Commission received an affordable housing projects update on October 28, 2026. Contact the Housing and Homeless Services Department for the next round.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Chula Vista's only city gap source beyond fee waivers. Stacks with Chula Vista Housing Authority conduit bonds (separate record), County HCDS NOFA 2026-03 (Chula Vista projects are eligible for County IHTF and HOME Consortium funds because the City is in the Urban County for HOME), HACSD project-based vouchers and 4 percent LIHTC. Housing Element (2021) noted the Balanced Communities in-lieu fund held only about $1.1M in 2020 and was inadequate for gap financing; the new Housing Inclusionary Fund (CVMC 19.91.070) will add in-lieu fees. Palomar Motel used Homekey+. chulavistaca.gov blocks automated access (403); agendas, minutes and item summaries were read on the City's eSCRIBE agenda portal, but staff report PDFs (filestream.ashx) return 403, so loan terms come from the agenda item text.",
+      "source_url": "https://pub-chulavista.escribemeetings.com/Meeting.aspx?Id=649164e7-178d-414f-8b0b-bc0719b127d3&Agenda=Agenda&lang=English",
+      "record_id": "2bd374af89",
+      "cycle_notes": "as funds accumulate; 2025-2026 round due January 15, 2026",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-10-28",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Carlsbad",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Carlsbad Housing Trust Fund gap loans (Inclusionary Housing in-lieu fees, housing credit purchases and housing impact fees; CMC 21.85.110 and 21.85.120)",
+      "administering_agency": "City of Carlsbad Housing and Homeless Services Department (Mandy Mills, Director); recommendations by the Housing Commission, approvals by City Council",
+      "funding_type": "loan",
+      "typical_award_size": "Residual receipts gap loans typically $500,000 to $4.25M per project. June 9, 2026: Council Resolutions 2026-107 and 2026-108 authorized sale of the City-owned 945 Chestnut Avenue (Chestnut Apartments) to The Chestnut Apartments, LP (Kingdom Development) through a carryback loan at appraised value plus a Housing Trust Fund loan not to exceed $850,000 for rehabilitation gap financing (Housing Commission Resolution 2026-004, May 14, 2026). Earlier: $4.25M residual receipts loan to Affirmed Housing (Windsor Pointe, about $8.3M total City assistance) and a 2025 $500,000 recommendation for West Oaks. Fund balance about $12.4M at October 30, 2020 (Housing Element); the FY 2025-26 Housing Trust Fund Annual Report was accepted by the Housing Commission October 8, 2026 (Resolution 2026-006). Fund sources: in-lieu fees ($4,515 per market rate unit as of 2020, fee study pending), sale of affordable housing credits, housing impact fees, loan interest and fund interest. The fund has helped produce about 2,300 affordable homes and leverages City money up to five times.",
+      "per_unit_cap": "None published; sized by pro forma review.",
+      "affordability_requirement": "55 year affordability for lower income households (up to 80 percent AMI; rents no more than 90 percent of the lower income limit rent per 21.85.040). Trust fund dollars may not be used to satisfy a project's own inclusionary requirement, only to exceed it.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; requests go to the Housing Commission (meets second Thursday) then Council. Next regular Housing Commission meetings follow the 2027 schedule adopted in late 2026; the FY 2025-26 Housing Trust Fund Annual Report went to Council after October 8, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Carlsbad's trust fund is the best capitalized city fund in North County relative to deal flow, but Council has been selective (Chestnut, Windsor Pointe, West Oaks). Stacks with County HCDS NOFA 2026-03 IHTF and HOME Consortium funds (Carlsbad is in the County HOME Consortium and received County HOME for Vista Las Flores), HACSD or Carlsbad Housing Agency project-based vouchers, CMFA or CSCDA bonds and LIHTC. The CDBG-funded Housing Reserve Fund (separate record) can add acquisition money. carlsbadca.gov and its govaccess document host return 403 or time out; agendas were read on the City's Laserfiche WebLink (records.carlsbadca.gov) and the Housing Element on hcd.ca.gov. The annual report figures should be pulled from the October 2026 Housing Commission packet.",
+      "source_url": "https://records.carlsbadca.gov/WebLink/ElectronicFile.aspx?docid=10879105&dbid=0&repo=CityOfCarlsbad",
+      "record_id": "5530c0dd0e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-10-08",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

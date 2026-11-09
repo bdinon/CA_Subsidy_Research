@@ -1,0 +1,607 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Alameda County Urban County entitlement",
+      "administering_agency": "Alameda County Housing and Community Development Department (HCD entitlement grantee for the Urban County)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD 2024-2028 Formula Allocation NOFA: Alameda County CY 2024 $655,510, CY 2025 $702,148, five-year estimate $4,096,938; the 2020 entitlement formula amount was $933,865. The County's PLHA Five-Year Plan and the uses of its formula funds were not located on achcd.org.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA statute: rental development for households at or below 80% AMI (workforce up to 120% allowed) with 55-year covenants; 2024 NOFA requires 40% of new funds for affordable owner-occupied workforce housing unless the plan is amended.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD formula allocations arrive annually; ask Alameda County HCD how PLHA is programmed and whether it is folded into the fall development RFP. Oakland, Berkeley, Fremont, Hayward and the other entitlement cities receive their own PLHA (Pass 3).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Under $1,000,000 a year for the Urban County and not visible as a separate developer source; treat as a possible add-on inside the HCD RFP. State funds, so prevailing wage applies. Amounts from the HCD 2024-2028 PLHA formula NOFA (opened this pass); County plan not found.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "7ec03c43d6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: CY 2024 $655,510, CY 2025 $702,148 and five-year estimate $4,096,938 match the 2024-2028 NOFA appendices; the 40% owner-occupied workforce rule is in the amended 2024 (CY 2023) PLHA formula NOFA; 80% AMI rental and 120% AMI ownership limits match the 2024-2028 Guidelines. prevailing_wage_trigger true is uncited: neither the PLHA Guidelines nor the NOFA states a prevailing wage requirement, so a later PW pass should revisit it.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "needs_confirmation",
+      "program_name": "County boomerang funds for housing and homelessness (former redevelopment residual property tax)",
+      "administering_agency": "Alameda County Board of Supervisors through Housing and Community Development and Health, Housing and Homelessness Services",
+      "funding_type": "grant",
+      "typical_award_size": "2017 policy: 20% of the prior year's boomerang receipts, $5,000,000 minimum and $7,500,000 maximum a year, as a five-year commitment starting FY 2016-17 ($5,000,000 in FY 2016-17 and FY 2017-18) for housing resource centers and coordinated entry ($2,000,000 a year), anti-displacement crisis services ($3,500,000 initial) and other Home Together system costs; a one-time $9,800,000 boomerang allocation seeded Measure A1 implementation. HCD still lists boomerang funds among its development sources and recent HCD project commitments cite boomerang dollars, but no current annual amount or policy was located and the 2025 Housing Plan does not list it as a revenue source.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Follows the program funded; development uses carry County loan terms (3% simple, 55 to 59 years, at or below 80% AMI).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "services/operations"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Unknown; ask HCD whether boomerang funds remain in the fall development RFP or were absorbed into Measure W planning.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Recorded as needs_confirmation because the only document opened is the 2017 EveryOne Home implementation deck describing the five-year commitment; the acgov HCD page that listed boomerang funds now redirects to achcd.org without that text. Public funds, so prevailing wage applies. Housing successor (LMIHAF) reporting for the former Alameda County Redevelopment Agency was not found.",
+      "source_url": "https://everyonehome.org/wp-content/uploads/2017/05/EOH-GO-Bond-Implementation-and-Boomerang-5-3-17.pdf",
+      "record_id": "777c6b9680",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08",
+      "audit_note": "The source is a 2017 EveryOne Home deck that confirms only the 2017 five-year policy (20% of prior-year receipts, $5 million minimum, $7.5 million maximum), and no current County page stating a boomerang housing allocation, cycle or amount could be found."
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oakland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Measure U Affordable Housing Bond: New Construction Notice of Funding Availability (NC NOFA), Resolutions 90419, 90552, 90894 and 91377 C.M.S.",
+      "administering_agency": "City of Oakland Housing and Community Development Department (HCD), Housing Development Division, 250 Frank H. Ogawa Plaza, Suite 5313; Fay Darmawi, Deputy Director, fdarmawi@oaklandca.gov, (510) 238-3714",
+      "funding_type": "loan",
+      "typical_award_size": "Measure U (Nov 2022, $850,000,000 bond, $350,000,000 for affordable housing in three tranches). Tranches 1 and 2 committed $248,000,000 to 32 projects (New Construction 15 projects, 1,172 units, $167,035,412; R2H2/Homekey 6 projects, $31,564,588; ACAH 11 projects, $37,000,000; 5% admin $12,400,000), leveraging about $5 outside per $1 City. 2024 NC NOFA: 24 applications requesting $424,000,000; January 2025 awards $80,500,000 to 5 projects (583 units); November 2025 pipeline awards $63,500,000; 13 unfunded pipeline applications (919 units, $246,000,000 requested) remain. Tranche 3: $50,000,000 appropriated in the FY 2026-27 midcycle budget and authorized by Resolution 91377 C.M.S. (October 2026), about $35,000,000 of it for the NC NOFA. Typical City loans run roughly $8,000,000 to $20,000,000 per project, 55-year residual receipts.",
+      "per_unit_cap": "No fixed cap published; awards sized by gap underwriting, cost per unit and leverage. Oakland Housing Authority has indicated up to $8,000,000 in operating, predevelopment or capital assistance for NC NOFA and R2H2 projects with PSH or deeply affordable units (OHA Board action pending).",
+      "affordability_requirement": "At least 20% of units targeted to homeless exits or extremely low income (0-30% AMI) households with supportive services plan; 55-year regulatory agreement; scoring favors public land, ministerial approvals, readiness for tax credits, emerging developer joint ventures, displacement-risk neighborhoods.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "biennial",
+      "next_deadline": "Next NC NOFA planned for late 2026 or early 2027 after state HDFC rules settle; awards timed to the spring 2027 tax credit round. Existing pipeline applicants may be advanced ahead of a full round. Confirm release date with HCD (NOFA mailing list).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Oakland is the largest city funder in the county (42% of Alameda County affordable permits 2024-25). Stacks with Alameda County Measure A1 Oakland base allocation and Measure W Home Together New Construction RFP (five Oakland projects won Measure W in March 2026: Liberation Park, 500 Lake Park, 3135 San Pablo, East 12th Circle, Brighter Bancroft), county PBVs via OHA, and state HDFC/TCAC. City commitment is intended as the first local layer so projects can show match for county and state rounds. Measure U loans carry Oakland local hire, First Source and prevailing wage requirements; a Project Labor Agreement debate for Measure U projects occurred in 2024. Measure KK (2016, $100,000,000 housing) is fully committed and reported with Measure U. Non-bond sources commingled in the same NOFA: Affordable Housing Impact Fee Fund 1872, Jobs/Housing Impact Fee Fund 1871, boomerang Fund 1870, LMIHAF 2830, HOME 2109, PLHA 2145, excess redevelopment bond funds. oaklandca.gov returns 403 to scripts; all material read from Oakland Legistar attachments and the City's OpenCities prelive host.",
+      "source_url": "https://oakland.legistar1.com/oakland/attachments/6fffddd8-44d0-4cb6-9f7a-bd7e5972ecb2.pdf",
+      "record_id": "2b0b12697f",
+      "cycle_notes": "pipeline NOFA with supplemental awards as funds arrive",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "mixed-income rental with PSH set-aside"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oakland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Acquisition and Conversion to Affordable Housing (ACAH) Program and Housing Accelerator Fund partnership (rolling ACAH NOFA, Resolutions 90308 and 90118 C.M.S.)",
+      "administering_agency": "City of Oakland HCD, Housing Preservation Services, with the San Francisco Housing Accelerator Fund (HAF) as program administrator; applications go to HAF",
+      "funding_type": "loan",
+      "typical_award_size": "Since 2017 ACAH has awarded $59,800,000 to preserve 339 units, with set-aside pools for community land trusts and cooperatives. Current structure (June 2024): $10,000,000 unsecured City loan to HAF pooled with private capital (HAF targets 2.5 to 1 leverage, $25,000,000) for short-term bridge acquisition loans, plus $20,000,000 to $30,000,000 of Measure U committed for City take-out permanent loans that revolve the pool. Rolling ACAH NOFA of $22,000,000 released December 2025. 2025 preserved 48 units (1432 12th Avenue co-op with St. Mary's Center, 1534 29th Avenue with Bay Area Community Land Trust).",
+      "per_unit_cap": "None published; bridge loans sized to acquisition price, permanent take-out sized to residual receipts capacity.",
+      "affordability_requirement": "55-year regulatory agreement; all units rented to households averaging 80% AMI and below; priority to naturally occurring affordable housing in displacement-risk neighborhoods, CLTs and co-ops.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; the December 2025 $22,000,000 NOFA remains open through HAF until funds are committed. Confirm balance with HAF or Oakland HCD.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Oakland's preservation layer. Comparable to Berkeley's Small Sites Program but much larger. Pairs with Measure W acquisition-rehab RFP planned by the County (about $10,000,000) and county boomerang funds. Rehab scopes over bridge period are modest; larger rehabs can later use 4% credits and bonds. Measure U is the primary capital source so City labor standards apply. Source documents are the October 2026 HCD funding authorization report (Legistar) and the 2025 HCD Annual Impact Report (OpenCities prelive host); the ACAH NOFA itself sits on the 403-blocked oaklandca.gov site.",
+      "source_url": "https://oakland.legistar1.com/oakland/attachments/6fffddd8-44d0-4cb6-9f7a-bd7e5972ecb2.pdf",
+      "record_id": "0a57b3bd65",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "small sites (single family to mid-size apartments)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oakland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Rapid Response Homeless Housing (R2H2) and local Homekey program (Resolutions 89977 and 90419 C.M.S.)",
+      "administering_agency": "City of Oakland HCD, Homeless Housing Development unit",
+      "funding_type": "grant",
+      "typical_award_size": "Program capitalized in 2023 with boomerang Fund 1870 and LMIHAF: $10,400,000 capital plus $19,600,000 operating subsidy; $21,000,000 Measure U Tranche 2 capital added September 2024 for $31,400,000 total capital. Four awards to date (Mandela House, Friendly Manor, Covenant House, the Holland), leveraging over $87,000,000 outside funds (about $4 to $1). About $7,000,000 of Measure U Tranche 2 remained available for new applications as of September 2026; Tranche 3 may add more. City also co-applies for state Homekey+: 2025 awards $7,100,000 The Maya (23 units), $33,000,000 Mark Twain Homes (109 units), $6,500,000 34th and San Pablo (15 PSH units).",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Permanent supportive housing or permanent transitional housing for people experiencing homelessness; quick-build, ready to house residents within 12 months of award and fully operational within 15 months; Housing First.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling RFP since November 2023; apply any time while capital remains. Confirm remaining balance with HCD.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Oakland analog to state Homekey; projects typically combine R2H2 capital with Homekey+, county Measure W Housing dollars, HHAP and county BHSA. Operating subsidy is the binding constraint; the Prohousing Incentive Program award ($2,390,000 in 2023, up to $1,600,000 requested in Round 4, 2026) is dedicated to capitalized service reserves for R2H2 and NC NOFA PSH units. OHA may add project-based vouchers or operating subsidy.",
+      "source_url": "https://oakland.legistar1.com/oakland/attachments/6fffddd8-44d0-4cb6-9f7a-bd7e5972ecb2.pdf",
+      "record_id": "5593dd693f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab",
+        "motel or office conversion",
+        "modular new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oakland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Density Bonus and Incentive Procedure, Oakland Planning Code Chapter 17.107 (Ordinance 13684 C.M.S., 2022), and S-13 Affordable Housing Combining Zone",
+      "administering_agency": "City of Oakland Planning and Building Department, Bureau of Planning",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement and entitlement, not a subsidy. Implements Government Code 65915 with the state tables (20% to 50% bonus for 10% to 24% low income; 20% to 50% for 5% to 15% very low; 80% bonus for 100% affordable projects). Local additions: 100% affordable projects within one-half mile of a major transit stop may waive all density maximums and receive up to three additional stories or 33 feet; condominium conversions with 33% moderate or 15% lower income units get a 25% unit bonus or equivalent incentive; incentive counts of one, two, three or four follow state tiers; parking ratio reductions per 65915(p) and no parking required for qualifying transit-adjacent 100% affordable projects; incentives expressly exclude fee waivers and City land.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State thresholds (10% low, 5% very low, 10% moderate for sale, 100% affordable with up to 20% moderate); 55-year restriction for rental.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "senior housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Submitted concurrently with the planning application; no deadline.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Oakland does not offer a local bonus above state law except the transit-adjacent height add for 100% affordable projects. Fee relief comes separately through the AHIF on-site exemption (Ch. 15.72), which was deliberately keyed to density bonus thresholds so a mixed-income project can satisfy both with one affordability mix. Code read on the zoneomics mirror because the City's codepublishing site blocks scripts.",
+      "source_url": "https://www.zoneomics.com/code/oakland-CA/chapter_84",
+      "record_id": "4f15d3817f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income",
+        "condominium conversion",
+        "student housing",
+        "senior housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oakland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Rehabilitation of Existing Affordable Housing NOFA (Rehab NOFA, planned 2027) and Health and Safety Rehabilitation Loan Program (Resolutions 86126, 86366, 89605 C.M.S.)",
+      "administering_agency": "City of Oakland HCD, Asset Management Services unit",
+      "funding_type": "loan",
+      "typical_award_size": "Rehab NOFA: last issued FY 2019-20; $7,000,000 of Measure U Tranche 2 earmarked in 2024 and a competitive round planned for 2027 using already authorized Tranche 2 funds plus Tranche 3. Health and Safety Loan Program: over-the-counter emergency loans to owners of City-subsidized multifamily housing, generally up to $250,000 per project, 0% interest, 55-year term; balance fully committed ($250,000 Christian Church Homes, $100,000 Coliseum Connections) and a $2,000,000 recapitalization was recommended in October 2026.",
+      "per_unit_cap": "Health and Safety loans generally limited to $250,000 per project.",
+      "affordability_requirement": "Existing City-regulated affordable portfolio properties; affordability restrictions extended or maintained for 55 years.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "biennial",
+      "next_deadline": "Rehab NOFA expected 2027; Health and Safety Program accepting requests once the $2,000,000 recapitalization is funded. Verify with HCD Asset Management.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Covers Oakland's aging City-funded portfolio, the same need Berkeley addressed with its 2024 HTF rehab RFP. Larger recapitalizations pair with 4% credits and tax-exempt bonds (City of Oakland or CMFA conduit). Not a source for third-party acquisition; see ACAH.",
+      "source_url": "https://oakland.legistar1.com/oakland/attachments/6fffddd8-44d0-4cb6-9f7a-bd7e5972ecb2.pdf",
+      "record_id": "83047d37ef",
+      "cycle_notes": "Rehab NOFA irregular; Health and Safety loans rolling when funded",
+      "eligible_project_detail": [
+        "preservation",
+        "acquisition-rehab (portfolio recapitalization)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Berkeley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Measure O Affordable Housing General Obligation Bond (November 2018, $135,000,000)",
+      "administering_agency": "City of Berkeley HHCS with the Measure O Bond Oversight Committee and Housing Advisory Commission",
+      "funding_type": "bond",
+      "typical_award_size": "Voter-approved $135,000,000 GO bond for development, rehabilitation and preservation of affordable housing for extremely low through middle income households. First issuance about $30,000,000 (2019-20) funded Berkeley Way ($23,500,000 reservation less operating reserve) and 1601 Oxford ($6,000,000) and a 2019 HTF RFP of about $14,500,000. Later issuances fund the current HTF reservations: BUSD educator housing $26,500,000, 1740 San Pablo $11,996,669, North Berkeley BART projects $21,500,000 (with AHMF and HTF), Supportive Housing in People's Park and Ephesian Legacy Court (with AHMF and U1). Measure O cannot fund predevelopment or capitalized operating reserves, which the City covers with U1 or fee revenue.",
+      "per_unit_cap": "None published; awards made through HTF RFPs.",
+      "affordability_requirement": "HTF Guidelines (60% of units at or below 30% to 60% AMI) with Council-approved exceptions up to 120% AMI for BUSD educator housing; 55-year restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No open Measure O round; most remaining proceeds are reserved for NBB, SHiPP, Ephesian and BUSD projects with reservations extended to January 2028. Verify unreserved balance with HHCS or the Measure O Bond Oversight Committee.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Measure O is Berkeley's counterpart to Oakland Measure U and County Measure A1; it is permanent capital only, so projects pair it with AHMF or in-lieu funds and U1 for predevelopment and reserves, Berkeley Housing Authority PBVs for operating support, and Measure A1 or Measure W for the balance. Oversight by the Measure O committee acts in place of the HAC for bond-funded RFPs. The 2019 Council report and the November 2025 HAC packet were the documents opened; a current bond balance statement was not found on berkeleyca.gov.",
+      "source_url": "https://berkeleyca.gov/sites/default/files/documents/2019-06-11%20Item%2031%20Measure%20O%20Affordable%20Housing%20Bonds.pdf",
+      "record_id": "4f6f662085",
+      "cycle_notes": "remaining authorization reserved to named projects; new rounds only if reservations lapse",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Berkeley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Measure U1 general fund allocation to the Housing Trust Fund (2016 rental housing business license tax increase) and CHDO operating support",
+      "administering_agency": "City of Berkeley HHCS; allocation set by City Council in the biennial budget",
+      "funding_type": "grant",
+      "typical_award_size": "Measure U1 raised the business license tax on rental property owners (2016) with the stated intent of funding affordable housing and homelessness programs; Council allocates a share to the HTF each budget. Recent U1 uses: California Street Apartments $3,599,948 (BALCT, with HTF), University Homes Homekey $8,500,000, 2321-2323 10th Street $3,324,225, MLK House $2,000,988, Ephesian Legacy Court (with Measure O and AHMF), capitalized operating reserves and predevelopment loans that Measure O cannot fund, and CHDO operating grants of up to $30,000 per organization per year FY 2026 to FY 2030 (with HOME). The HAC recommendation in 2025 to add U1 to the rehab RFP was withdrawn because the FY 2026 budget projected a deficit with limited U1 available.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Follows HTF Guidelines when loaned through the HTF (60% of units at or below 30% to 60% AMI); flexible general fund otherwise.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Dependent on the FY 2027-28 biennial budget; no set-aside guaranteed. Verify with HHCS.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "U1 is the only Berkeley source usable for operating reserves and predevelopment, which makes it the critical complement to Measure O and county capital for PSH deals (Berkeley Way needed up to $14,000,000 in operating reserve until BHA project-based vouchers reduced it). Competes with homelessness services for the same general fund. Documented in the 2021 HTF Guidelines, the June 2025 RFP reservations report and the November 2025 HAC packet.",
+      "source_url": "https://berkeleyca.gov/sites/default/files/2021%20HTF-Approved-Guidelines%20for%20website_0.pdf",
+      "record_id": "2893ffc8c9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment",
+        "operating reserves"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fremont",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Fremont Affordable Housing Fund NOFA (Affordable Housing In-Lieu Fee Fund 196, Low and Moderate Income Housing Asset Fund 111, commercial linkage fees)",
+      "administering_agency": "City of Fremont Community Development Department, Housing Division, 39550 Liberty Street; housing@fremont.gov, (510) 494-4500",
+      "funding_type": "loan",
+      "typical_award_size": "Periodic NOFAs: November 2021 round awarded $14,000,000 to MidPen (Osgood, with up to $11,500,000 more), $6,000,000 to TPC/Maracor (Osgood South) and $7,600,000 to RCD (3900 Thornton, with up to $9,700,000 more). August 2023 NOFA (about $30,000,000 estimated, $35,000,000 available) awarded $34,850,000 on March 19, 2024: $12,850,000 USA Properties Centerville Station Phase 1 (150 units; $8,850,000 Fund 196 plus $4,000,000 Fund 111), $12,000,000 TPC/Maracor Warm Springs (240 units, $50,000 per unit; $9,500,000 redirected to acquisition in March 2025), $10,000,000 Community Development Partners 39340 Fremont Blvd (96 units, $104,000 per unit). Loans are 55 years at 3% simple interest, capital and predevelopment only (no operating subsidy or services). City contributed $30,700,000 of restricted funds to the 560 units opened in 2025 and funded four of the six developments (918 units) breaking ground in fall 2026.",
+      "per_unit_cap": "No formal cap; staff benchmark recent City subsidy at about $110,000 per unit and favored requests of $50,000 to $104,000 per unit.",
+      "affordability_requirement": "Households at or below 80% AMI with a target mix including extremely low (under 30% AMI), very low (under 50% AMI) and low income units; all-electric construction; site control required at application; 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "biennial",
+      "next_deadline": "No NOFA open as of 2026-11-08; prior rounds were 2021 and August 2023 (due October 31, 2023). Next round expected when Fund 196 rebuilds; verify with the Housing Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Second largest city pool in the county after Oakland and Berkeley, funded almost entirely by developer fees (for-sale in-lieu fee, rental AHO fee, commercial linkage) plus LMIHAF program income. Awards are timed so projects can apply to CDLAC/TCAC (Warm Springs waited for enhanced credits in a Small DDA). Stacks with Alameda County Measure A1 Fremont base allocation and regional pool, Measure W, and HACA project-based vouchers (Fremont is in the HACA jurisdiction and the County HOME Consortium). fremont.gov returns 403 to scripts, so the NOFA page could not be opened; terms were read from the March 19, 2024 and March 18, 2025 Council staff reports on the City's IQM2 agenda host and City GovDelivery bulletins.",
+      "source_url": "https://fremontcityca.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=1963&MediaPosition=&ID=5091&CssClass=",
+      "record_id": "0c6bd9786f",
+      "cycle_notes": "NOFA issued roughly every two years as fund balance allows",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fremont",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Fremont Affordable Housing Ordinance, FMC Chapter 18.155 (2021 update, effective 2022) with in-lieu fees and live/work preference (2022)",
+      "administering_agency": "City of Fremont Community Development Department, Housing Division and Planning Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. October 12, 2021 update: for-sale projects 15% inclusionary (5% moderate, 10% low) or in-lieu fee phased to $44 per sq ft by January 2024 (stacked flat rates unchanged); rental projects 10% low income or an alternative of 7.5% low plus 7.5% very low (15%); hybrid option of on-site moderate units plus partial fee; mixed for-sale and rental projects may satisfy the obligation with affordable rental units. Rental in-lieu fee and the separate commercial linkage (jobs-housing) fee remained unchanged. Fee revenue goes to Fund 196 and funds the Affordable Housing Fund NOFA. New affordable housing processing fees for BMP resales, refinances and loan modifications were adopted January 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "For-sale 15% (5% moderate, 10% low); rental 10% low or 15% split low and very low; long-term affordability agreements with the City.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; fee set by the Master Fee Schedule (updated January 5, 2026). Verify current per-square-foot amounts with the Housing Division.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fremont is the only priority city in the county besides Oakland with both a residential inclusionary fee and a commercial linkage fee, which is why Fund 196 could support $34,850,000 of awards in 2024. The ordinance text (FMC 18.155) on fremont.gov and the code publisher are script-blocked; summary read from the City's 2021 GovDelivery notice and the November 2025 Master Fee Schedule staff report on IQM2. 2021 fee increase phasing and any 2024 to 2026 indexing should be confirmed.",
+      "source_url": "https://content.govdelivery.com/landing_pages/30261/dadc244b30f6d455eb04d824d8ea6d5f",
+      "record_id": "97a5919831",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate for-sale and rental projects (compliance)",
+        "mixed-income"
+      ],
+      "next_deadline_date": "2026-01-05",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hayward",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Hayward Affordable Housing Ordinance (HMC Chapter 10, Article 17; Ordinance 17-20, amended April 11, 2023), in-lieu fees (Resolution 17-167 as amended 2023) and Affordable Housing Trust Fund",
+      "administering_agency": "City of Hayward Development Services Department, Housing Division, 777 B Street, Hayward; housing@hayward-ca.gov, (510) 583-4454",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Applies to all projects of two or more net new units: on-site units, in-lieu fee, off-site units or alternatives. In-lieu fees (10 or more units, per sq ft of habitable space, 2023 schedule): high-density condominiums 35 units per acre or more $19.35; lower-density ownership under 35 units per acre $26.00; all other dwelling types including rental $23.46; plus 10% if paid at occupancy; projects of 2 to 9 units pay 50% to 89% of the calculated fee. Fees fund the Affordable Housing Trust Fund, used solely to increase and preserve housing for extremely low to moderate income households (land acquisition and development subsidies). Collections 2020 to mid-2026 total $8,926,851: $3,599,171 (2020), $2,193,532 (2021), $2,013,770 (2022), $199,507 (2023), $489,948 (2024), $378,237 (2025), $52,687 (2026 YTD).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "2023 amended AHO (Ordinance adopted April 11, 2023): on-site ownership units 7.5% of units at moderate income for high-density condominiums (35 units per acre or more) and 12% for other ownership projects (half moderate, half low income; 10% moderate for plans pending before the amendment); on-site rental units 6% of units, half low income and half very low income, first unit very low income; affordable units restricted in perpetuity; local tenant preference policy in 10-17.805.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; fee per the annual Master Fee Schedule (FY 2027 schedule adopted June 2026). Verify current indexed amounts with the Housing Division.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Hayward's trust fund is small and shrinking because most recent developments provided on-site units rather than paying fees (City's December 2024 competitiveness analysis), so the City lacks local match for state applications. The AHO text on municode is script-blocked; requirements were read from the City's affordable housing page, Resolution 17-167 and the 2023 in-lieu fee resolution on Hayward Legistar. Compare Fremont ($44 per sq ft for-sale) and Berkeley ($62.83).",
+      "source_url": "https://hayward-ca.gov/your-government/programs/affordable-housing",
+      "record_id": "fb5bbcac16",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate for-sale and rental projects (compliance)",
+        "mixed-income"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: on-site percentages and term taken from the AHO text attached to the March 2023 introduction (PH 23-016, Attachment III), adopted April 11, 2023 per Legistar CONS 23-186 and the City page. In-lieu rates ($19.35, $26.00, $23.46 per sq ft, plus 10% at occupancy) and 2020 to 2026 collections match. The 2 to 9 unit fee reduction was not re-read.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hayward",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Hayward Affordable Housing NOFA (local housing funds with Alameda County Measure A1 base allocation; last round 2018)",
+      "administering_agency": "City of Hayward Development Services Department, Housing Division, 777 B Street, Hayward; housing@hayward-ca.gov, (510) 583-4454",
+      "funding_type": "loan",
+      "typical_award_size": "2018 NOFA: about $7,000,000 in local housing funds plus recommendations for Hayward's Measure A1 base allocation ($18,200,000 available at the time) and local match to position projects for the A1 regional pool. Maximum City loan 10% of total residential development cost of the affordable units; HOME per-unit limits for HOME-assisted units ($144,050 studio to $285,149 four bedroom in 2018); 24-month commitment with one-year extension. CDBG available for predevelopment or acquisition by request. No NOFA has been issued since; the City reports only one City-supported project remaining in the pipeline and limited general fund for housing.",
+      "per_unit_cap": "City loan capped at 10% of the affordable units' total development cost (2018 terms).",
+      "affordability_requirement": "Rental and supportive housing for lower income households; Measure A1 policies require at least 20% of units at 20% AMI for A1-funded projects; scoring favors special needs, homeless, larger units and deeper targeting.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No open NOFA as of 2026-11-08. The December 2024 Housing Policy and Resource Committee report floated an annual general fund allocation for a regular NOFA but no funding was identified. Watch the Doing Business with Hayward page and the Housing Division mailing list.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Hayward's role is mainly as pass-through for its Measure A1 base allocation (county record) and HOME Consortium share; local dollars are limited to the Affordable Housing Trust Fund balance and CDBG. Developers should expect to rely on Measure A1, Measure W, HACA project-based vouchers and state sources with the City providing land (surplus sites), entitlements under the Streamlined Affordable Housing Overlay, and its Prohousing designation points. NOFA page and 2018 program description were opened on hayward-ca.gov.",
+      "source_url": "https://hayward-ca.gov/content/notice-funding-availability-new-construction-affordable-rental-housing",
+      "record_id": "3febadbf74",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hayward",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Streamlined Affordable Housing Overlay District, HMC Section 10-1.2650 (Ordinance 24-04, April 2, 2024)",
+      "administering_agency": "City of Hayward Development Services Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Entitlement streamlining, not a subsidy. Ministerial site plan and tentative map approval for housing on sites carried over from prior housing element cycles and listed in the 6th Cycle Housing Element lower-income inventory, provided the project meets the Housing Element minimum density assumptions and at least 20% of units are deed restricted for extremely low, very low or low income households for 55 years (rental) or 45 years (ownership); site must not meet Gov Code 65913.4(a)(6) exclusion criteria; objective standards and standard conditions apply.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "At least 20% of units at low income or below, 55-year rental or 45-year ownership restriction.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Ministerial application any time; approval lapses per 10-1.2690.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Hayward has no local density bonus chapter; state density bonus requests are processed with site plan review (recent approvals include townhome projects with 10% to 11% affordable units). The overlay lowers entitlement risk on the inventory sites and pairs with state SB 35/SB 423 streamlining. Fee relief for affordable projects is not offered by the City. Code read on the zoneomics mirror because municode is blocked.",
+      "source_url": "https://hayward.legistar1.com/hayward/attachments/4a92c096-b443-470a-ac44-ae7420d726b6.docx",
+      "record_id": "ee11437fa0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: source_url moved from the Zoneomics mirror to the official Ordinance 24-04 Exhibit A on Hayward Legistar (PH 24-014), which matches on the 20% lower-income set-aside, 55/45-year terms, 65913.4(a)(6) exclusions and ministerial review. prevailing_wage_trigger false is uncited (no funding is provided).",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Leandro",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance, San Leandro Zoning Code Chapter 6.04 (Ordinance 2004-023, amended 2020-002), in-lieu fee and Affordable Housing Trust Fund (6.04.156)",
+      "administering_agency": "City of San Leandro Community Development Department, Housing Services Division, 835 East 14th Street; housing@sanleandro.org, (510) 577-6006",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. At least 15% of units in residential developments must be inclusionary units for moderate, low or very low income households (density bonus units excluded from the base); for-sale projects of 2 to 6 units may pay an in-lieu fee equal to (median San Leandro sales price minus affordable ownership cost) times a fractional unit of 0.30 to 0.90; larger projects may combine fees with off-site alternatives only with approval. Exempt: for-sale projects and condo conversions under 2 units and rental projects under 4 units. Fees, condo conversion fees and loan repayments go to the Affordable Housing Trust Fund. FY 2025 AHTF revenue $24,682 (no in-lieu fees), balance $336,166 at June 30, 2025 (FY 2024 restated to $311,484 after audit). Recent BMR production: Centro Callan (10 BMR rental units), Poppy Lane (3 BMR homes).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "15% of units for moderate, low or very low income households; rental inclusionary units subject to recorded covenants administered under the BMR Procedural Manual (SLMC 19.172.030).",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at map or planning approval; the 2023-2031 Housing Element commits to an economic feasibility study and ordinance amendments during the cycle (not yet scheduled).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The AHTF is too small to fund projects on its own; it has covered predevelopment grants and a site acquisition contribution. The ordinance predates AB 1505 and still exempts small rental projects; developers of rental projects with 4 or more units owe 15% on-site, which is above Hayward's and Fremont's rental percentages and a cost consideration for mixed-income deals. Ordinance text read on the zoneomics mirror (qcode is blocked); fund figures from the FY 2025 AHTF report adopted by Resolution 2025-163 (December 15, 2025).",
+      "source_url": "https://www.sanleandro.org/DocumentCenter/View/10247",
+      "record_id": "453e0e5d72",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate for-sale and rental projects (compliance)",
+        "mixed-income",
+        "condominium conversion"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: sanleandro.org DocumentCenter/View/10247 returns 403. The official FY 2025 AHTF report (Legistar 25-434) matches revenue $24,682, balance $336,166, restated FY 2024 $311,484, 2 to 6 unit in-lieu option, Centro Callan and Poppy Lane. The 15% requirement, exemptions and fractional fee formula were checked only on the Zoneomics mirror of Chapter 6.04 (consistent).",
+      "last_audited": "2026-11-09"
+    }
+  }
+]

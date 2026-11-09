@@ -1,0 +1,120 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Round 6, County allocation and CoC CA-506 share",
+      "administering_agency": "San Benito County Health and Human Services Agency, Community Services and Workforce Development (Enrique Arreola, Deputy Director); Coalition of Homeless Services Providers (Salinas/Monterey, San Benito Counties CoC)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 County application $708,617 (Resolution 2025-67, August 26, 2025; HCD allocation $708,616.98), used for the County homeless shelter (over 100 beds), hotel vouchers for about 40 people and rapid rehousing for about five youth. The CoC allocation of $3,725,577.82 is shared with Monterey County through the Coalition of Homeless Services Providers. Prior rounds: HHAP-1 $308,848.53, HHAP-2 $141,188, HHAP-3 $547,468 (plus a $294,330 CoC HHAP-1 pass-through for rapid rehousing). HHAP-7 preliminary allocations: County $786,253.74, CoC $4,166,944.25.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; 7% administration.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 application was due to HCD August 29, 2025; HHAP-7 allocations are preliminary for FY 2026-27. No local competitive process: HHSA programs the County share itself and the CoC programs the regional share.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. HHAP is the County's only recurring homelessness money and it is fully committed to shelter operations, so it is not a capital or operating source for new PSH; a developer would need to negotiate with the Coalition of Homeless Services Providers for CoC-level funds or PBV referrals. Source is the August 26, 2025 Board packet; HHAP-6 and HHAP-7 figures from HCD allocation tables.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/0e92b0ede73c87f72e1933f2cc13368d0.pdf",
+      "record_id": "2392835390",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "shelter operations",
+        "hotel vouchers and interim housing",
+        "rapid rehousing and rental assistance",
+        "permanent housing operating support (eligible but not used locally)"
+      ],
+      "next_deadline_date": "2025-08-29",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "State CDBG (non-entitlement) and CDBG-DR applications by the County",
+      "administering_agency": "San Benito County Executive Office (Esperanza Colio Warren) and Resource Management Agency, Public Works",
+      "funding_type": "grant",
+      "typical_award_size": "2025 State CDBG NOFA application of $3,600,000 approved March 31, 2026 (Resolution 2026-41): $3,000,000 San Benito County Free Library renovation, $300,000 senior and homeless food assistance, $300,000 youth enrichment; the NOFA allowed up to $1,500,000 for housing programs and $3,000,000 for housing projects but the Board chose non-housing uses. CDBG-DR Infrastructure $1,911,246 plus Mitigation Resilient Infrastructure and Planning $9,563,290 (total $11,474,536, applications due February 28, 2026, projects complete by Q2 2030) programmed for roads.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "CDBG national objective (low and moderate income benefit).",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "homeownership",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD's 2025 CDBG application window ran February 2 to April 3, 2026; the 2026 NOFA is expected in early 2027 with a $3.6 million jurisdiction cap and a three-application limit.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. The County is eligible for state CDBG and HOME as a non-entitlement jurisdiction but has not used either for multifamily housing; a developer could ask the County to sponsor a state HOME or CDBG housing application, as nonprofit developers suggested at the August 20, 2025 Board workshop on affordable and farmworker housing. Source is the March 31, 2026 Board packet.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/d5b7628ed110e59cddad869a7009059b0.pdf",
+      "record_id": "826a41a1c8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "public facilities",
+        "public services",
+        "housing rehabilitation and homeownership programs (eligible, not pursued)",
+        "infrastructure (CDBG-DR)"
+      ],
+      "next_deadline_date": "2026-04-03",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "County surplus land under the Surplus Land Act (5292 Fairview Road, Hollister)",
+      "administering_agency": "San Benito County Executive Office (Esperanza Colio Warren)",
+      "funding_type": "land",
+      "typical_award_size": "Resolution 2026-87 (June 30, 2026) declared the 2.85-acre Rosa Morada property at 5292 Fairview Road (APN 017-130-004) surplus and directed a Surplus Land Act Notice of Availability; April 2026 appraisal $592,000 as is; former preschool, Agricultural Productive zoning, FEMA Zone A, airport influence area, well and septic. Affordable housing sponsors get the statutory 60-day notice and 90-day negotiation priority.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Surplus Land Act: a housing developer taking the site must restrict at least 25% of units to lower-income households for 55 years, or 100% if the agency negotiates with a single affordable sponsor.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Notice of Availability to follow the June 30, 2026 resolution; respond within 60 days of the HCD-posted notice. Staff will return to the Board with recommendations after the statutory process.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. This is the only County land disposition in the 2026 agendas; the site's agricultural zoning, flood zone and airport constraints make it marginal for multifamily, but it is a signal that the County will run SLA processes rather than direct sales. Source is the June 30, 2026 Board packet.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/ed121051c161985bb6b34360a288ad980.pdf",
+      "record_id": "8669fbe63e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "small affordable or farmworker housing site",
+        "rehabilitation of the existing residence"
+      ],
+      "next_deadline_date": "2026-06-30",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

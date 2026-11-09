@@ -1,0 +1,43 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "needs_confirmation",
+      "program_name": "Local Government Special Needs Housing Program (SNHP)",
+      "administering_agency": "California Housing Finance Agency (CalHFA), with county MHSA funds",
+      "funding_type": "loan",
+      "typical_award_size": "Historically county-funded MHSA capital loans and capitalized operating subsidies administered by CalHFA (16 participating counties as of 2019).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Permanent supportive housing units for persons with serious mental illness eligible for MHSA services.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Program discontinued effective January 3, 2020 per DHCS Information Notice 19-047; no new rounds.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "No live CalHFA program page exists; the CalHFA multifamily programs page (source) no longer lists SNHP, and a DHCS notice (BH-IN-19-047) states CalHFA discontinued the program effective Jan 3, 2020 with county MHSA funds reverting to county control. Marked needs_confirmation because the DHCS notice could not be opened this pass. Successor supportive housing capital now comes from Homekey+, HCD MHP supportive units, and county Behavioral Health Services Act (Prop 1) housing allocations (research in Pass 2). CTCAC still lists SNHP commitments as qualifying homeless-assistance funding in the nonprofit set-aside.",
+      "source_url": "https://www.calhfa.ca.gov/multifamily/programs/index.htm",
+      "record_id": "80011286ab",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2020-01-03",
+      "deadline_check": "past_date",
+      "link_status": "ok",
+      "audit_note": "T1 audit 2026-11-08: CalHFA multifamily programs page opened and no longer lists SNHP. DHCS notice BH-IN-19-047 (https://www.dhcs.ca.gov/Documents/CSD_KS/IN%2019-047/BH-IN-19-047-Special-Needs-Housing-Program-SNHP.pdf) is behind Incapsula bot protection and could not be read by curl, WebFetch or the browser, so the January 3, 2020 discontinuation date remains unconfirmed from the primary source.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

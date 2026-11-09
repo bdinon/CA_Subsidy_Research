@@ -1,0 +1,186 @@
+[
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) Integrated Plan FY 2026-29, housing interventions",
+      "administering_agency": "Riverside University Health System, Behavioral Health (RUHS-BH)",
+      "funding_type": "other",
+      "typical_award_size": "BHSA component allocations of $195,334,844 a year; housing interventions set at 23% in year one ($44,927,014) and 27% in years two and three ($52,740,408) after a transfer to other components, with estimated year one housing expenditures of $44,225,982. Plan adopted by the Board June 2, 2026. Uses are tenant-based rental subsidies for about 6,015 people a year (1,015 permanent, 5,000 interim) and operating subsidies for about 725 people in PSH, assisted living and interim settings; no BHSA capital development (the County reports housing funds fully subscribed and points to 399 new interim and recuperative care units at the Mead Valley Wellness Village opening 2027). RUHS-BH housing vendor purchase orders were raised to $15,000,000 a year through FY 2030-31.",
+      "per_unit_cap": "Not applicable; no capital program.",
+      "affordability_requirement": "BHSA-eligible adults with serious behavioral health conditions who are homeless or at risk, at least 50% chronically homeless, Housing First.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Three-year plan effective July 1, 2026 with annual updates each spring; RUHS-BH contracts with housing vendors through purchase orders rather than a developer NOFA.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. Unlike several Bay Area counties, Riverside chose tenant-based subsidies and operating support over project-based commitments and zero capital, so BHSA is not a construction source here; developers of PSH should seek RUHS-BH operating subsidy or master lease vendor agreements for behavioral health units and pair them with HACR PBVs. Source is the DHCS Integrated Plan submission (RUHS media 5601); executive brief at ruhealth.org/media/5971; Board adoption file Detail_LegiFile.aspx?ID=30512.",
+      "source_url": "https://www.ruhealth.org/media/5601",
+      "record_id": "b9c5d9af17",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "tenant-based rental subsidies (not project-based)",
+        "operating subsidies for PSH and licensed settings",
+        "interim housing operations"
+      ],
+      "next_deadline_date": "2026-07-01",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Palm Springs",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "needs_confirmation",
+      "program_name": "Palm Springs city affordable housing gap loans (housing successor LMIHAF and City housing funds)",
+      "administering_agency": "City of Palm Springs Community and Economic Development, Housing Division (Housing Successor)",
+      "funding_type": "loan",
+      "typical_award_size": "Reported 2026 commitments (from secondary summaries, not opened on the City site): $3,800,000 loan for the 82-unit Redtail project (3% simple interest, 57-year term, residual receipts), a $2,250,000 acquisition loan plus up to $2,500,000 subordinated fee loan for a 110-unit project at McCarthy and San Rafael (January 14, 2026), and a $3,000,000 commitment for a Wakeland senior project (March 2026). Earlier: Monarch Apartments (60 units) received a City loan, fee waivers and a land grant; a prior LMIHAF loan of about $5.97M to WHCHC.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Lower income; terms set per project agreement (55-year or longer covenants typical).",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found; commitments go to Council project by project. Confirm current fund balances in the FY 2024-25 housing successor report.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Palm Springs is a CDBG-only entitlement (FY 2026-27 CDBG about $337,285 for rehab and legal services), so City and successor funds are the local gap layer, stacked with HACR PBVs and the Coachella Valley Housing Catalyst Fund (county records). palmspringsca.gov returns 403 (Akamai) to scripts and WebFetch, and no working Granicus or Legistar host was found; source_url is the 6th cycle Housing Element draft on HCD, which documents the Monarch loan, fee waivers and land grant but not the 2026 loans.",
+      "source_url": "https://hcd.ca.gov/housing-elements/docs/palm-springs-6th-draft080221.pdf",
+      "record_id": "651cb6ed89",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Palm Springs",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "needs_confirmation",
+      "program_name": "Palm Springs Affordable and Multi-Family Housing Incentive Program (Resolution No. 24654), impact fee reduction and deferral",
+      "administering_agency": "City of Palm Springs (Planning and Building)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Sliding scale reduction of developer fees and development impact fees from 100% to 1% based on the number and share of affordable units; deferral of fee payment to certificate of occupancy; 50% reduction for market-rate apartments; ADU fee reductions.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "New housing restricted to lower income households for the affordable tier.",
+      "eligible_project_types": [
+        "new construction",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Ongoing per the Housing Element; current resolution status and fee schedule not confirmed.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Unusually generous for the Coachella Valley; stack with the City gap loans and the 93.23.17 density bonus. Fee reductions are public funds for prevailing wage. Program described in the 2021 Housing Element draft on the HCD site; the City resolution and current fee schedule could not be opened (palmspringsca.gov 403).",
+      "source_url": "https://hcd.ca.gov/housing-elements/docs/palm-springs-6th-draft080221.pdf",
+      "record_id": "f31b6672ca",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Indio",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "needs_confirmation",
+      "program_name": "Indio Housing Authority housing successor LMIHAF and City or Housing Authority owned downtown sites",
+      "administering_agency": "Indio Housing Authority (Housing Successor) and City of Indio Housing and Neighborhood Services Division",
+      "funding_type": "other",
+      "typical_award_size": "Older SB 341 reports (FY 2019-20 and FY 2020-21, seen only in search snippets) put the housing successor portfolio at about $7.2M, mostly loans such as Horizons at Indio senior housing (about $3.7M) and a SERAF loan from the Successor Agency. The Housing Element sites inventory includes 32 downtown parcels owned by the City or the Housing Authority, available for development agreements, land write-downs and fee deferrals.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "LMIHAF rules; project-specific covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found. Contact Housing and Neighborhood Services about the current LMIHAF balance and downtown parcels.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Recent Indio affordable deals (Arroyo Crossing I, Avenue 44) lean on County PLHA loans ($500K and $2M per County CEQA notices) and the Coachella Valley Housing Catalyst Fund (county records). indio.org returns 403 to scripts and WebFetch, the Legistar site has no data, and no Granicus host was found; source_url is the 6th cycle Housing Element draft on HCD, which describes the land and incentives.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/indio-6th-draft081321.pdf",
+      "record_id": "e4edfdf1dd",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Indio",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "needs_confirmation",
+      "program_name": "Indio Local Housing Trust Fund and inclusionary housing ordinance (Housing Element Programs 11 and 21, not established)",
+      "administering_agency": "City of Indio Community Development Department and Finance",
+      "funding_type": "other",
+      "typical_award_size": "No funds. The Housing Element committed to explore a Local Housing Trust Fund and dedicated revenue (commercial linkage fee, inclusionary in-lieu fee or a tax) in year 2 and to evaluate an inclusionary ordinance in year 3.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction",
+        "preservation"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No evidence the trust fund or inclusionary ordinance was adopted as of 2026-11-08; confirm with Community Development.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Recorded as negative information: Indio relies on CDBG (minor home repair), County funds, LIHTC and land write-downs rather than a local trust fund. Status could not be checked against current City documents because indio.org blocks automated access.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/indio-6th-draft081321.pdf",
+      "record_id": "4d4909317a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-11-08",
+      "deadline_check": "future_date"
+    }
+  }
+]

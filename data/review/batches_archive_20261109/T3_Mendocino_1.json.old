@@ -1,0 +1,36 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Willits",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "Willits Owner-Occupied Housing Rehabilitation Program (PLHA and CDBG funded)",
+      "administering_agency": "City of Willits Community Development Department",
+      "funding_type": "loan",
+      "typical_award_size": "0% interest deferred loans of $25,000 to $50,000 per home (current application packet), with the program page citing up to $100,000, funded by the City's PLHA allocation; Council authorized a CDBG application in November 2022 for about $554,000 to seed a revolving housing rehabilitation loan program. The City also holds CDBG business loan program income.",
+      "per_unit_cap": "$50,000 to $100,000 per home depending on source.",
+      "affordability_requirement": "Owner-occupants at or below 120% AMI (household of four $108,500).",
+      "eligible_project_types": [
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Open intake by appointment with Community Development (707-459-7112); subject to funding availability.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Shows that Willits commits its PLHA formula share to single-family rehab rather than multifamily gap financing, so no city PLHA is available for affordable rental projects. Recorded as negative information for multifamily layering. Developers should look to Mendocino County HOME program income and the Community Development Commission of Mendocino County for project-based vouchers.",
+      "source_url": "https://www.cityofwillits.org/319/Owner-Occupied-Housing-Rehabilitation-Pr",
+      "record_id": "c9cb7995b6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "owner-occupied rehabilitation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

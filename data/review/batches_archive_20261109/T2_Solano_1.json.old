@@ -1,0 +1,158 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Solano County non-entitlement formula share",
+      "administering_agency": "Solano County Administrator's Office (HCD formula grantee)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD CY 2024-2028 Formula Allocation NOFA: Solano County CY 2024 $569,130 and CY 2025 $596,313; five-year estimate 2024-2028 $3,557,063. Earlier: 2020 award $128,234; 2023 allocation $560,188 (Five-Year Plan amendment affirmed by the Board July 23, 2024). Cities of Fairfield ($390,910 in 2021), Vacaville and Vallejo ($505,369 in 2021) receive their own entitlement shares (Pass 3).",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA statute: rental assistance at or below 60% AMI unless the plan targets up to 120% AMI (150% in high-cost areas); 55-year covenant for rental development. County five-year plan governs uses.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD releases formula allocations annually; the County files a plan amendment and resolution each round (last affirmed July 23, 2024). No County NOFA to developers found. The 2020 Housing Authority MTW plan proposed using about $25,000 a year of County PLHA for down payment assistance to FSS graduates.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "About $570,000 to $600,000 a year, more than Napa or Sonoma's county share, but the County has not published how it programs the money. Ask the County Administrator's Office whether the 2024-2028 plan funds multifamily gap loans, ADUs or homeless services before counting it. State funds, so prevailing wage applies to construction.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "31e1cc94ed",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "ADU"
+      ],
+      "next_deadline_date": "2024-07-23",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Housing First Solano Continuum of Care (CA-518) and HHAP homelessness funding",
+      "administering_agency": "Solano County Health and Social Services, Behavioral Health Division (County HHAP grantee); CAP Solano JPA (CoC collaborative applicant, HMIS lead and CoC HHAP administrator)",
+      "funding_type": "grant",
+      "typical_award_size": "County HHAP: Round 1 $1,256,129 (board and care beds), Round 2 $574,231 and Round 3 $1,607,846 (Fair Haven Commons and rental subsidies), Round 4 $1,470,396 ($873,703 to Abode Services for mental health rental subsidies), Round 5 $1,655,549 (accepted April 8, 2025, tenancy supports through June 30, 2029), Round 6 allocation $1,968,380.51 (awarded in the April 2026 batch with the CoC's $2,102,264.22, about $4,100,000 combined, for interim housing operations). CoC HHAP Round 5 $1,725,588.34. The 2026-27 state budget HHAP allocation gives the same pair about $4,070,000. CoC HHAP Round 4 permanent housing RFP offered $470,167.50 (2024). HUD CoC awards: $2,247,299 (FY 2024); FY 2025 round 1 $642,829 for STOP Plus. State dashboard: $13,600,000 HHAP rounds 1-5 to the Solano area, $6,500,000 direct to the County. State ESG 2024 via CA-518: $186,481 to Vacaville Solano Services Corporation.",
+      "per_unit_cap": null,
+      "affordability_requirement": "HUD CoC and HHAP target people experiencing homelessness; HHAP allows PSH capital, operating subsidies and rental assistance (no cap on permanent housing uses per HCD's Dec 2025 memo), but Solano has programmed its rounds to rental subsidies, tenancy supports and interim housing.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "CAP Solano JPA runs the HUD CoC local competition each summer and periodic HHAP RFPs; its site (capsolanojpa.gov) and housingfirstsolano.org blocked automated access, so check them directly for the 2026 CoC listing and any HHAP Round 6 or 7 RFP. HHAP Round 5 funds must be 75% obligated by June 30, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "For PSH underwriting the usable pieces are County Behavioral Health rental subsidies and tenancy services (Abode Services contract, $26,142,891 for Dec 2023 to June 2026) and HHAP operating commitments, not capital. Solano has no housing sales tax measure. The 2026 PIT count was Jan 29, 2026. HHAP capital is state money and triggers prevailing wage.",
+      "source_url": "https://solano.legistar.com/LegislationDetail.aspx?ID=7291491&GUID=A415697E-4FE2-46DB-929C-E21AE8EAA9B3&Options=&Search=&FullText=1",
+      "record_id": "155974291b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-06-30",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Solano County Behavioral Health Services Act (BHSA) housing interventions",
+      "administering_agency": "Solano County Health and Social Services, Behavioral Health Division (BH Housing and Homelessness 707-553-5525, bhhousing@solanocounty.gov)",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-29 Integrated Plan approved by the Board June 9, 2026. Year one (FY 2026-27) Housing Interventions component allocation $9,636,071 (30% of $32,120,235) plus $1,415,984 carryover, $11,052,055 available. Solano's population exceeds 200,000, so it cannot claim the small-county exemption; up to 25% of housing funds may go to capital development, half must serve chronically homeless people. Current delivery is through Abode Services (outreach, navigation, rental subsidy administration, rapid rehousing, PSH services at Blue Oak Landing and Fair Haven Commons) and the BHSA-funded ARCH program; an interim housing placement RFP closed July 9, 2026.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Adults and transition-age youth with serious mental illness or substance use disorder who are homeless or at risk; County BH client eligibility required.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Integrated Plan in effect July 1, 2026 with annual updates; the Abode contract term ended June 30, 2026 and its successor was not located. Ask BH Housing whether capital development (up to about $2,400,000 a year at the 25% cap) or project-based operating subsidies will be offered to PSH sponsors.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Roughly $9,600,000 a year makes Solano's BHSA housing pot the largest county-controlled housing source after HHAP; most of it will fund rental subsidies and services, which is what a PSH operating budget needs. Pair with Homekey+ or HHAP capital and SCHA or city PBVs. Public funds, so capital triggers prevailing wage. Budget figures from Appendix A of the adopted plan (content.solanocounty.gov).",
+      "source_url": "https://www.solanocounty.gov/government/health-social-services-hss/behavioral-health/behavioral-health-services-act-bhsa/bhsa-integrated-plan",
+      "record_id": "a4e3ed5aee",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-07-01",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Vallejo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Vallejo CDBG and HOME entitlement funds (FY 2025-2030 Consolidated Plan, FY 2026-27 Annual Action Plan)",
+      "administering_agency": "City of Vallejo Housing and Community Development Department (HUD CDBG entitlement and HOME participating jurisdiction), 200 Georgia Street, 707-553-7204 (Chari Francisco)",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27: CDBG allocation $1,049,400 plus $380,000 prior-year resources; HOME $420,114.54 (the draft plan's resource table also shows $1,554,400 CDBG and $1,049,400 HOME, an internal inconsistency). Activities: program administration, HOME TBRA, first-time homebuyer assistance, microenterprise, housing rehabilitation loans and grants, social services, permanent supportive housing (Broadway Village and Blue Oak Landing), Homeless Navigation Center, street and sidewalk repairs, housing counseling. CDBG program menu includes Affordable Rental Housing Development. HOME-ARP allocation $2,213,960 (2022). The Broadway Project, a 47-unit PSH conversion at 2441 Broadway, received a $12,000,000 Homekey grant, $3,500,000 Solano County ARPA and about $643,000 in City opioid settlement funds, and opened in late 2025.",
+      "per_unit_cap": "HOME per-unit subsidy limits (24 CFR 92.250).",
+      "affordability_requirement": "CDBG: 51% of units at or below 80% AMI. HOME: 20% of HOME units at 50% AMI, balance at 60% AMI (rental), 55-year City covenant on larger awards.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Consolidated Plan adopted July 8, 2025 (FY 2025-26 through 2029-30). The FY 2026-27 plan had a needs hearing February 5, 2026 and public hearing April 23, 2026, with Council action June 23, 2026. Expect the FY 2027-28 application cycle to open in late 2026 through the HCD Commission; contact the department by January 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Vallejo is the only HOME participating jurisdiction in Solano County, so it is the one city where HOME development loans are a city decision. Recent HOME money has gone to TBRA, homebuyer and rehab programs rather than multifamily; a developer must ask for a HOME or CDBG set-aside during the Action Plan process. Stack with the Housing Successor LMIHAF, Vallejo Housing Authority PBVs, CMFA bonds and TCAC. Davis-Bacon applies to CDBG 8+ units and HOME 12+ units; state prevailing wage applies to any City loan. Draft Action Plan opened from the City's Housing News page.",
+      "source_url": "https://vallejoca.hosted.civiclive.com/common/pages/GetFile.ashx?key=8U5EAUqw",
+      "record_id": "2040174601",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-06-23",
+      "deadline_check": "past_date"
+    }
+  }
+]

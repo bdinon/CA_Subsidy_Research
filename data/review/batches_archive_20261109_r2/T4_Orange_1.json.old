@@ -1,0 +1,83 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "MHSA/BHSA permanent supportive housing capital and Capitalized Operating Subsidy Reserve (Orange County Health Care Agency through OC Community Resources)",
+      "administering_agency": "OC Health Care Agency, Behavioral Health Services (MHSA/BHSA Housing Program), with OC Housing and Community Development administering loans",
+      "funding_type": "loan",
+      "typical_award_size": "BHSA Integrated Plan FY 2026-29 (Board May 19, 2026): Housing Interventions component $73,500,000 a year; planned capital development $18,375,000 a year (the 25% statutory maximum) plus about $990,508 from other sources; rental subsidies $14,000,000 a year; operating subsidies $6,787,829 a year; $36,750,000 a year reserved for chronically homeless people. Named capital pipeline: Mercury Senior Apartments (Brea), Lampson Workforce Housing (Los Alamitos) and projects to be determined in San Juan Capistrano, Anaheim Hills, Buena Park and Fountain Valley, 56 BHSA units of 416 at about $208,000 per BHSA unit. Since June 2018 the County has completed 476 MHSA units with 196 in the pipeline toward a goal of 2,396 PSH units by 2029; each MHSA dollar leveraged about $5.50. HCA also granted $20,500,000 of MHSA and General Fund to the Orange County Housing Finance Trust. Loan limit $207,235 per regulated unit for capital and another $207,235 for COSR under the 2026 NOFA.",
+      "per_unit_cap": "$207,235 per MHSA/BHSA regulated unit (capital) plus up to $207,235 per unit COSR; BHSA statute caps the housing intervention share at $450,000 per unit.",
+      "affordability_requirement": "Extremely low income (30% AMI) adults experiencing homelessness with a serious mental disorder (WIC 5600.3(b), BHSA eligibility under WIC 5830(a)), certified by HCA and referred through CES; rents at 30% of the 30% AMI limit or 30% of SSI; no minimum income where PBVs or COSR are provided; MHSA/BHSA units at most 49% of the project; units at least 450 square feet with full kitchens and furnishings; 55-year covenant.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Apply through the 2026 Supportive Housing NOFA (open since March 6, 2026) with an HCA review meeting before submission. The three-year plan runs July 1, 2026 to June 30, 2029 with annual updates; HCA moves money to OCCR under a three-year spending plan, so NOFA amounts rise when new BHSA allocations post.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Orange County's BHSA program is the deepest county PSH source in the 13 counties researched: $18,400,000 a year in planned capital plus a COSR that replaces PBVs when none are available (zero interest, forgivable over 15 to 20 years, sized to cover MHSA unit operating deficits). Pair the capital with 4% credits and OCHA or city PBVs; use COSR when PBVs are refused. MHSA capital alone can avoid Davis-Bacon but state prevailing wage still applies. Terms are in Attachment D of the 2026 NOFA (opened); budget figures from the Integrated Plan PDF on ochealthinfo.com (opened). HCA does not run its own developer NOFA.",
+      "source_url": "https://housing.oc.gov/sites/hcd/files/2026-03/Attachment%20D%20-%20MHSA%20BHSA%20Term%20Sheet.pdf",
+      "record_id": "59e9773f4c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab",
+        "adaptive reuse"
+      ],
+      "next_deadline_date": "2029-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Anaheim",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Affordable Housing chapter: density bonus, by-right review of Housing Element sites, replacement housing and affordable parking ratios (Anaheim Municipal Code Chapter 18.52, Ord. 6627, August 11, 2026)",
+      "administering_agency": "City of Anaheim Planning and Building Department, Planning Services Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement and entitlement, not a subsidy. Sec. 18.52.020 adopts Government Code 65915 density bonuses and incentives by reference; sites in the Sixth Cycle Housing Element candidate inventory for low and very low income units are reviewed by right (no discretionary hearing) when at least 20% of units are restricted to lower income households. Sec. 18.52.030 implements Housing Crisis Act replacement housing with exemptions for 100% lower income projects. Sec. 18.52.100 sets reduced parking ratios for affordable projects, which the Platinum Triangle Mixed Use Overlay (Chapter 18.20) cross-references for its residential parking.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus thresholds (5% very low, 10% low, 10% moderate for-sale, 100% affordable) with 55-year rental covenants; by-right review requires 20% lower income units on inventory sites.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at project application; code last amended August 11, 2026.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Anaheim has no inclusionary ordinance of general application and no affordable housing fee waiver ordinance was located; the A-LHTF Guidelines mention in-lieu fees under an Affordable Housing Ordinance but that ordinance text could not be opened (anaheim.gov code pages blocked), so verify whether a citywide inclusionary requirement exists. The Platinum Triangle and Beach Boulevard specific plans offer density, not money. Density bonus and by-right approval do not trigger prevailing wage. Chapter 18.52 and Chapter 18.20 read on the zoneomics mirror.",
+      "source_url": "https://www.zoneomics.com/code/anaheim-CA/chapter_25",
+      "record_id": "2db1a1727f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income",
+        "100% affordable",
+        "mixed-use"
+      ],
+      "next_deadline_date": "2026-08-11",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

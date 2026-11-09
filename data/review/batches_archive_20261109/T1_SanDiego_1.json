@@ -1,0 +1,318 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Diego",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "needs_confirmation",
+      "program_name": "State Prohousing Designation, City of San Diego (2022 designation and 2025 renewal application)",
+      "administering_agency": "City of San Diego City Planning Department, Prohousing@sandiego.gov",
+      "funding_type": "policy/designation",
+      "typical_award_size": "Not a direct subsidy. Prohousing status gives bonus points or set-asides in state AHSC, IIG, MHP and PLHA competitive rounds and eligibility for Prohousing Incentive Program grants. The City was designated in November 2022; the designation was valid until January 2026 and the City circulated a draft renewal application in November 2025. HCD's designated jurisdictions list as of August 10, 2026 shows Chula Vista and San Diego County but not the City of San Diego, so renewal appears still pending.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "unknown, verify with agency; check HCD's Prohousing Designation Application Tracker for the City's renewal status before claiming points in a 2027 state application.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Matters for layering state funds onto SDHC and Bridge to Home awards: without the designation, City projects lose Prohousing points in AHSC and MHP scoring that Chula Vista and unincorporated County projects receive. Read the City Planning Prohousing page and HCD's designated list this pass; the renewal decision itself could not be confirmed.",
+      "source_url": "https://www.sandiego.gov/planning/prohousing-designation",
+      "record_id": "8cb8310896",
+      "cycle_notes": "pending renewal",
+      "eligible_project_detail": [
+        "new construction",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oceanside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "needs_confirmation",
+      "program_name": "Inclusionary Housing Ordinance, Oceanside City Code Chapter 14C (Ordinance 24-OR0004-1, 2024) and Inclusionary Housing In-Lieu Fee",
+      "administering_agency": "City of Oceanside Housing and Neighborhood Services Department (Housing Division) and Development Services Department (Planning)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Applies to residential projects of three or more units (rental projects included since the September 9, 2020 Phase 1 amendment). Ordinance 24-OR0004-1 (approved by Council February 10, 2024) raised the set-aside for low and moderate income households from 10 percent to 15 percent, raised the applicability threshold and added requirements for reserved units within multifamily projects; it was folded into Local Coastal Program amendment LCPA23-00002, which Coastal Commission staff recommended certifying with modifications at the February 2026 hearing (acutely low income definition, 15 percent of base units). In-lieu fee calculated per square foot under a 2022 nexus study (Development Impact Fee schedule effective July 1, 2025 lists a per development, per unit and per square foot structure, adjusted annually); deferral of the in-lieu fee allowed on the same terms as impact fee deferral. Fees must be used exclusively for low and moderate income housing in the City; the Housing Element reports $360,000 of in-lieu fees used for homebuyer assistance and in-lieu fees as a source for preservation (Program 19). A further Chapter 14C revision was noticed for a Community Development Commission hearing on May 6, 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "15 percent of base units for low and moderate income households (rental units for low income); 55 year terms under the 2024 ordinance; density bonus units excluded.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; coastal zone projects remain under the previously certified 10 percent rule until the Coastal Commission certifies LCPA23-00002 (hearing February 5, 2026, outcome not confirmed). Confirm the current in-lieu fee rate on the City's FY 2025-26 impact fee schedule and whether the May 6, 2026 revisions were adopted.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "In-lieu fee revenue is Oceanside's only recurring local housing fund; the Housing Element lists inclusionary fees with HOME, Housing Asset Funds, project-based vouchers and PLHA as sources for the Affordable Housing Strategy NOFAs (separate record). Compare Carlsbad (15 percent at 7 or more units) and the unincorporated County ordinance (county record). ci.oceanside.ca.us returns 403 and the oceanside.prod-as.govaccess.org document hosts time out, and the Legistar web API has no Oceanside client, so the ordinance text was read in the California Coastal Commission's February 2026 staff report (Exhibit 2 contains the strikeout ordinance) and the City's 2021-2029 Housing Element on hcd.ca.gov. The City's Legistar calendar (oceanside.legistar.com) opens for current agendas only.",
+      "source_url": "https://documents.coastal.ca.gov/reports/2026/2/Th16b/Th16b-2-2026-report.pdf",
+      "record_id": "7de4d4240b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental and for-sale projects of 3 or more units (compliance)",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": "2026-05-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "reclass_ambiguous"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oceanside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "needs_confirmation",
+      "program_name": "Oceanside Affordable Housing Strategy RFP/NOFA (Housing Element Program 4): HOME, Housing Successor Agency asset funds, inclusionary in-lieu fees, PLHA and project-based vouchers",
+      "administering_agency": "City of Oceanside Housing and Neighborhood Services Department, Housing Division, and the Housing Successor Agency to the Oceanside Community Development Commission; recommendations through the Housing Commission",
+      "funding_type": "loan",
+      "typical_award_size": "Amounts vary by round; no standing allocation. The Council on September 9, 2020 directed an RFP/NOFA implementing the Affordable Housing Strategy with priority to homelessness and extremely low income housing (temporary shelters, bridge housing, vouchers, permanent supportive housing). Funding sources named: HOME entitlement (City is a HOME participating jurisdiction), remaining Housing Asset Funds (former redevelopment), inclusionary in-lieu fees, project-based vouchers from the Oceanside Housing Authority (Housing Choice Voucher program) and PLHA (PLHA earmarked for emergency shelter operations). Program 19 (preservation) and Program 15 (acquisition and rehabilitation) use CDBG, HOME and in-lieu fees. The Housing Element set an objective of 634 extremely low income units and 1,268 lower income units for 2021-2029 and a 2024-2025 reassessment of incentives.",
+      "per_unit_cap": "HOME per-unit subsidy limits apply to HOME units; no City cap published.",
+      "affordability_requirement": "Lower income and extremely low income households; 55 years for HOME and in-lieu assisted rental units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "unknown, verify with agency; no open NOFA found. The November 10, 2026 City Council agenda had no housing funding item. Contact the Housing Division for the FY 2026-27 Annual Action Plan HOME development set-aside and any Housing Commission funding recommendations.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Oceanside projects also compete in the County HCDS NOFA 2026-03 only for IHTF (the City is its own HOME participating jurisdiction and CDBG entitlement, outside the County consortium), and can use HACSD or Oceanside Housing Authority project-based vouchers. The City last issued its own multifamily revenue bonds in 2016 (Villa Storia, 38 units; Program 1) and otherwise relies on CMFA or CSCDA. Fee deferrals for affordable units are offered on the same terms as impact fee deferrals. Program text read in the 2021-2029 Housing Element (October 2022 revision, HCD-hosted); the certified September 2023 re-adoption and current Annual Action Plan could not be opened because City document hosts block or time out.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-adopted120622.pdf",
+      "record_id": "f14fc9d3b5",
+      "cycle_notes": "irregular, as funds accumulate",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-10",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oceanside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "needs_confirmation",
+      "program_name": "Oceanside Density Bonus Ordinance (Zoning Ordinance, Housing Element Program 2) and development impact fee deferral for affordable units",
+      "administering_agency": "City of Oceanside Development Services Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. The Housing Element committed to amend the density bonus ordinance within one year of adoption to conform to AB 1763, SB 1227 and AB 2345 (up to 50 percent bonus; 80 percent or unlimited for 100 percent affordable projects); Coastal Commission staff describe the City's 2024 inclusionary amendments as paired with a density bonus for projects reserving at least 15 percent of base units for very low income, 24 percent for lower income or 44 percent for moderate income households. The City's density bonus application notes that inclusionary income tiers may not be modified or combined with bonus units. Impact fee deferral is available to residential projects and extends to the inclusionary in-lieu fee.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 tiers; 55 year rental affordability.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement. Confirm the current Zoning Ordinance density bonus article and any 2026 amendments with Planning; City code hosts were not reachable this pass.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancements beyond state law were found; the practical local tools are the inclusionary in-lieu fund and the Affordable Housing Strategy NOFA (separate records). Smart and Sustainable Corridors Plan (Program 9) adds capacity along transit corridors. Read in the 2021-2029 Housing Element (HCD-hosted) and the Coastal Commission February 2026 staff report.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-adopted120622.pdf",
+      "record_id": "04ff5fbbd4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oceanside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "needs_confirmation",
+      "program_name": "Oceanside Housing Revenue Bonds (Multi-Family), Housing Element Program 1",
+      "administering_agency": "City of Oceanside Housing and Neighborhood Services Department, Housing Division (City as conduit issuer)",
+      "funding_type": "bond",
+      "typical_award_size": "Conduit tax-exempt private activity bonds issued by the City when appropriate; last used in 2016 for Villa Storia (38 units) with a CDLAC award. The City commits to issue bonds in conjunction with other financing as needed.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Federal 20 percent at 50 percent AMI or 40 percent at 60 percent AMI minimum; City regulatory agreement terms set per project.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; no issuance policy or fee schedule was located. Most recent Oceanside deals have used JPA issuers with City TEFRA approval.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Low volume issuer; expect to use CMFA or CSCDA with a City TEFRA hearing instead, as the County does (county record). Pairs with 4 percent LIHTC and the Affordable Housing Strategy sources (separate record). Read in the 2021-2029 Housing Element (HCD-hosted); City pages blocked.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-adopted120622.pdf",
+      "record_id": "94c74add7b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Escondido",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "needs_confirmation",
+      "program_name": "Escondido Successor Housing Agency (Resolution 2012-16) recycled redevelopment housing funds and affordable housing development assistance (Housing Element Program 2.8)",
+      "administering_agency": "City of Escondido Housing and Neighborhood Services Division acting for the Successor Housing Agency to the former Community Development Commission; City Council sits as the Successor Agency",
+      "funding_type": "loan",
+      "typical_award_size": "Case by case gap loans from recycled Low and Moderate Income Housing Asset Fund money and loan repayments; no NOFA. Recent uses: Valley Senior Village (completed 2023, 50 units, 24 homeless and 25 units at 30 to 60 percent AMI) used recycled RDA funds; 10 affordable homeownership units at 245 East El Norte Parkway (2024). Housing Element Program 2.8 lists Recycled RDA Funds with LIHTC, CalCHA bonds, CalHFA, CalHome, PLHA and HOME as sources the City will pursue, and commits to pre-application consultation, expedited review and City-owned sites (Program 1.4; one City-owned site under review). SB 341 annual reports are posted under Policy and Regulatory Documents on escondido.gov (page not reachable this pass).",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "LMIHAF rules (80 percent AMI maximum, 30 percent of expenditures to 30 percent AMI units over five year periods); 55 year covenants typical.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; no competitive round. Approach the Housing and Neighborhood Services Division before County HCDS or TCAC deadlines; Council approves loans individually.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small pool (balance not confirmed; SB 341 report link on the City page was broken). Stacks with City HOME (separate record), County HCDS NOFA 2026-03 (Escondido projects are eligible for County IHTF), HACSD project-based vouchers and state density bonus. Escondido has no inclusionary ordinance (Program 2.9 feasibility study triggered by the 2023 APR) and no housing trust fund. Read the Housing and Neighborhood Services page on escondido.gov, the 2023 Annual Progress Report staff report and the draft 2021-2029 Housing Element on escondido.gov.",
+      "source_url": "https://escondido.gov/214/Housing-Neighborhood-Services",
+      "record_id": "aeb284c098",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Escondido",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "needs_confirmation",
+      "program_name": "Essential Middle Income Rental Housing Program (California Community Housing Agency JPA membership, January 13, 2021; Housing Element Program 2.3)",
+      "administering_agency": "City of Escondido Housing and Neighborhood Services Division with the California Community Housing Agency (CalCHA)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Not a direct subsidy. As a CalCHA member, the City allows CalCHA to acquire existing market rate apartment communities with governmental purpose bonds; CalCHA's property tax exemption converts the complexes to rent restricted units for low, median and moderate income households up to 120 percent AMI with rents capped at 35 percent of the applicable AMI and annual increases capped at 4 percent; no displacement of existing tenants. Program 2.3 commits the City to identify properties for acquisition; no Escondido acquisition was confirmed this pass.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Low, median and moderate income households (up to 120 percent AMI); rent caps at 35 percent of AMI tier; terms per CalCHA regulatory agreement.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; CalCHA transactions depend on bond market conditions and City host approval of each acquisition.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Middle income JPA structure, not stackable with LIHTC. Useful only for workforce housing acquisitions; the City forgoes its share of property tax. The welfare exemption for nonprofit LIHTC owners (county record) remains the tax tool for deed restricted projects. Read in the draft 2021-2029 Housing Element on escondido.gov; program status not confirmed.",
+      "source_url": "https://www.escondido.gov/DocumentCenter/View/1826/Draft-Sixth-Cycle-of-the-Housing-Element-PDF",
+      "record_id": "ed6e6eeab9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Carlsbad",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "needs_confirmation",
+      "program_name": "Carlsbad Housing Reserve Fund (CDBG set-aside for affordable housing acquisition) and CDBG entitlement; Section 108 and County HOME Consortium access",
+      "administering_agency": "City of Carlsbad Housing and Homeless Services Department; CDBG Advisory Committee recommends allocations",
+      "funding_type": "grant",
+      "typical_award_size": "The City reserves part of its annual CDBG entitlement (about $535,000 in FY 2025-26 per the Annual Action Plan; figure not confirmed on a City page) in a Housing Reserve Fund that accumulates for acquisition or development of affordable units; once a property is identified the reserve is reallocated to that project. Carlsbad used a $1.2M CDBG Section 108 loan in the 1990s for the Villa Loma site and may pursue Section 108 again. Carlsbad is in the San Diego Urban County HOME Consortium, so HOME development funds come through the County HCDS NOFA (over $675,000 awarded to Vista Las Flores rehabilitation).",
+      "per_unit_cap": "CDBG and HOME per-unit rules apply.",
+      "affordability_requirement": "CDBG low and moderate income benefit (80 percent AMI); HOME rents and terms for County-awarded HOME.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2027-28 CDBG application period expected winter 2026-27 with the CDBG Advisory Committee; Council adopts the Annual Action Plan in spring 2027. Confirm the current Housing Reserve Fund balance with the Housing and Homeless Services Department.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Minor source next to the Housing Trust Fund (separate record) but useful for site acquisition because CDBG can buy land. HOME must be sought from County HCDS NOFA 2026-03 (county record), which also offers IHTF and PLHA for Carlsbad sites. Read in the 2021-2029 Housing Element on hcd.ca.gov; carlsbadca.gov pages blocked (403).",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/carlsbad-6th-adopted041521.pdf",
+      "record_id": "7e7b594050",
+      "cycle_notes": "CDBG action plan each spring; reserve deployed by Council action",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "new construction (site acquisition)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

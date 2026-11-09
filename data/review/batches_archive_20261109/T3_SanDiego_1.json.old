@@ -1,0 +1,198 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers and HUD-VASH PBVs, Housing Authority of the County of San Diego (HACSD)",
+      "administering_agency": "Housing Authority of the County of San Diego, administered by HCDS Rental Assistance Division (Board of Supervisors sits as the Board of Commissioners); 3989 Ruffin Road, San Diego",
+      "funding_type": "rental assistance",
+      "typical_award_size": "Since the Board's September 1, 2021 direction to expand PBVs, HACSD has awarded 768 PBVs (HCV PBVs plus VASH PBVs); 479 PBV units are operating and 327 more open within one to four years. The FY 2026 Agency Plan lists 387 PBV units in 13 developments operating, 119 units in four developments opening in 2026 (Union Tower 24 VASH, Villa Serena II 15, Alvarado Senior Village 53, Palomar Point 27) and 333 units in eight developments opening 2027 or later. PBVs are awarded through HCDS NOFAs (NOFA 2024-01 offered 100 PBVs and 25 VASH PBVs; 65 additional VASH vouchers were secured in 2025). HACSD assists over 11,000 households and pays about $21 million a month to about 4,000 landlords.",
+      "per_unit_cap": "PBV contract rents at reasonable rent up to 110% of FMR (HACSD payment standards); HUD program cap of 20% of authorized vouchers with exceptions for PSH and other eligible units. Minimum 10% of PBV units in a project must be VASH when VASH PBVs are requested.",
+      "affordability_requirement": "PBV units at or below 50% AMI (30% to 50% AMI homeless or special needs populations in recent awards); VASH PBVs for veterans up to 80% AMI. Initial HAP contract of 20 years renewable for up to 20 more at HACSD's discretion. HACSD jurisdiction: unincorporated area plus Chula Vista, Coronado, Del Mar, El Cajon, Escondido, Imperial Beach, La Mesa, Lemon Grove, Poway, San Marcos, Santee, Solana Beach and Vista (not the cities of San Diego, Carlsbad, Encinitas, National City or Oceanside).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No PBVs are offered in NOFA 2026-03 (due November 19, 2026). The HCV program closed to new applicants February 20, 2026 because of federal funding levels, so a PBV round depends on HUD appropriations; HACSD's 121 public housing units in Chula Vista are converting to PBVs through RAD/Section 18 with a developer RFP for ground lease and renovation expected after HUD approval (18-month process started November 2025).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "PBVs are the County's operating subsidy for PSH and are usually requested in the same HCDS NOFA as the capital loan, with Coordinated Entry referrals through the Regional Task Force on Homelessness. HCDS requires a transition reserve sufficient to hold rents for one year if PBV assistance is not renewed. Nine or more PBVs in a project trigger Davis-Bacon under HCDS rules; PBVs alone do not trigger state prevailing wage. Projects inside the City of San Diego use San Diego Housing Commission vouchers instead (Pass 3). Watch the Chula Vista public housing repositioning: four sites (Dorothy Street, L Street, Melrose, Town Center Manor, 121 units) will be offered to an affordable developer under a ground lease with PBVs attached.",
+      "source_url": "https://www.sandiegocounty.gov/content/dam/sdc/sdhcd/new-docs/2026_Annual_Agency_Plan-Final.pdf",
+      "record_id": "e72e35e00b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-11-19",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Tax-exempt multifamily bonds: County TEFRA approvals for CMFA, CSCDA and other JPA issuances (County not an issuer)",
+      "administering_agency": "County of San Diego Board of Supervisors (TEFRA host approval through the Finance and General Government Group, Debt Advisory Committee concurrence); issuers California Municipal Finance Authority, California Statewide Communities Development Authority, California Public Finance Authority, California Enterprise Development Authority",
+      "funding_type": "bond",
+      "typical_award_size": "Project-sized conduit issuances approved as consent items roughly monthly. 2026 approvals include CMFA bonds for 2581 Commercial Street Apartments (70 units, up to $13 million, March 24 and August 18, 2026), four CMFA issuances on March 24, 2026 (up to $20M, $13M, $40M and $72M), Island Family Housing (CSCDA, August 18, 2026), Fallbrook Trails, Promenade and Seaward Affordable Apartments (CMFA, September 2026), Vista Lane Family Apartments reissuance (165 units, up to $55 million, December 9, 2025) and Fallbrook Senior Apartments (up to $26 million, November 4, 2025). The County collects about $991 per approval to recover staff costs and takes on no debt.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Federal bond and 4% LIHTC rules: at least 20% of units at 50% AMI or 40% at 60% AMI (or income averaging), 55-year CDLAC regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request the County TEFRA approval through the issuer (CMFA or CSCDA handle the notice and hearing); allow six to eight weeks before the CDLAC application deadline. Approvals appear on regular Board agendas; the Board also reapproves when terms change (reissuance on conversion to permanent, address corrections).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Neither the County nor the Housing Authority of the County of San Diego issues multifamily bonds; CMFA is the usual issuer, with County Board approval for projects in the unincorporated area and, in practice, for several City of San Diego addresses as well. Inside the City of San Diego the Housing Authority of the City of San Diego (through SDHC) is an active issuer and will be covered in Pass 3. Bonds alone do not trigger state prevailing wage, but County IHTF, HOME or PLHA in the same deal does. Pair the TEFRA timeline with the HCDS NOFA award (March 2027) and the 2027 second CDLAC/TCAC round that the NOFA rewards.",
+      "source_url": "https://sdcounty.legistar.com/LegislationDetail.aspx?ID=8683&GUID=197FFBBE-5A88-4EB6-A06C-A6255DD07117&Options=&Search=&FullText=1",
+      "record_id": "380dd94812",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Diego",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "SDHC Multifamily Housing Revenue Bond Program (Housing Authority of the City of San Diego conduit bonds, Policy 300.301)",
+      "administering_agency": "San Diego Housing Commission, Real Estate Division, Multifamily Housing Bond Program, 1122 Broadway, Suite 300, San Diego 92101; Colin Miller, (619) 578-7429, colinm@sdhc.org; MultifamilyBondProgram@sdhc.org",
+      "funding_type": "bond",
+      "typical_award_size": "Conduit tax-exempt private activity bonds sized to project debt; no City or SDHC liability. Application: Bond Inducement Application (DocuSign), $3,000 application fee and $10,000 deposit (refunded at closing, when issuer and ongoing administrative fees apply), plus notarized Developer Disclosure Statement. Issuances since 1982; program policy enacted 1989.",
+      "per_unit_cap": null,
+      "affordability_requirement": "At least 20 percent of units at or below 50 percent AMI or 40 percent at or below 60 percent AMI; 55 year affordability; 95 percent of proceeds to capital costs.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; inducement must precede the CDLAC application rounds (CDLAC calendar sets the practical deadlines). Housing Authority (City Council) approval required for issuance.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "SDHC is the issuer of choice inside the City; CMFA and CSCDA issuances are also used with City TEFRA approval (County TEFRA practice is a separate county record). Pairs with 4 percent LIHTC and the SDHC AHF NOFA and Bridge to Home loans. Chula Vista's Housing Authority now acts as issuer in most cases within that city (separate record); Oceanside has issued only occasionally (last 2016); Escondido and Carlsbad rely on JPAs.",
+      "source_url": "https://sdhc.org/doing-business-with-us/developers/multifamily-housing-revenue-bonds/",
+      "record_id": "3218444c24",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Chula Vista",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Parkland Acquisition and Development fee exemption for affordable units (Ordinance 3573 amending CVMC 17.10, 2024) and project fee waivers and deferrals for affordable housing",
+      "administering_agency": "City of Chula Vista Development Services Department and Housing and Homeless Services Department; waivers by City Council resolution",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Ordinance 3573 (second reading May 28, 2024) exempts affordable units from Parkland Acquisition and Development (PAD) fees. Council also waives parkland dedication and in-lieu requirements case by case: Resolution 2026-087 (May 19, 2026) for the 96-unit Sol Vista (Enclave Montecito) affordable rental project in Otay Ranch Village 2 and Resolution 2024-060 (April 9, 2024) for the 100 percent affordable Chula Vista Seniors project at 178 Third Avenue. The Housing Element (Program 4.5) describes Council waivers or deferrals of development impact fees for projects with affordable units and a development fee deferral program for infill rental housing west of I-805. PAD fees in Chula Vista run tens of thousands of dollars per unit, so the exemption is a material subsidy.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Deed restricted affordable units; 100 percent affordable projects have received full parkland waivers.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Exemption applies at permit; discretionary waivers go to Council with the project's financing approvals. Confirm the current CVMC 17.10 text and whether other DIFs (transportation, public facilities) can be deferred for a specific project.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Fee relief is the second city layer after Low-Mod and LHTF loans (separate record). Waived City fees may be public funds under Labor Code 1720, so projects usually assume prevailing wage once they also take City or bond financing. County HCDS impact fee waivers (county records) do not apply inside the city. Read on the City's eSCRIBE agenda portal (May 19, 2026 and May 2024 agendas); chulavistaca.gov is blocked to scripts.",
+      "source_url": "https://pub-chulavista.escribemeetings.com/Meeting.aspx?Id=662715ac-708c-4c6b-b604-1a87172b0989&Agenda=Agenda&lang=English",
+      "record_id": "faba720c8d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "mixed-income projects (affordable units only)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Chula Vista",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Chula Vista Housing Authority tax-exempt multifamily housing revenue bonds (conduit issuer; 2024 bond policies)",
+      "administering_agency": "Chula Vista Housing Authority (City Council acting as Authority), staffed by the Housing and Homeless Services Department",
+      "funding_type": "bond",
+      "typical_award_size": "Conduit private activity bonds sized to project debt. Enclave Montecito / Sol Vista (96 units, Otay Ranch Village 2): inducement up to $25 million (HA Resolution 2025-006, August 5, 2025), TEFRA hearing and bond issuance approval April 21, 2026 with an issuance amount not to exceed $14,000,000; TEFRA for the Otay Ranch II project May 19, 2026. Resolution 2024-103 (May 21, 2024) updated the Authority's conduit bond policies so the City is the issuer in most instances rather than JPAs; Master Fee Schedule Chapter 19 sets Housing Authority application, issuance and monitoring fees.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Federal 20 percent at 50 percent AMI or 40 percent at 60 percent AMI minimum; City regulatory agreements typically mirror the inclusionary and Low-Mod covenants (55 years).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; inducement needed before CDLAC application rounds. Contact the Housing and Homeless Services Department for the bond policy and fee schedule.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Replaces CMFA or CSCDA issuance for most Chula Vista deals, which keeps issuer fees local; the County TEFRA practice (county record) is not needed when the City issues. Pairs with 4 percent LIHTC, City Low-Mod and LHTF loans and parkland fee waivers (separate records). Read on the City's eSCRIBE agenda portal; bond policy PDF not downloadable (403).",
+      "source_url": "https://pub-chulavista.escribemeetings.com/Meeting.aspx?Id=ca35a0b7-10ab-4b86-9229-4b7694290704&Agenda=Agenda&lang=English",
+      "record_id": "183596192c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

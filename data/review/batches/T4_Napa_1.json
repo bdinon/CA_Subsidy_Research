@@ -1,0 +1,41 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "County conduit multifamily housing revenue bonds (none; CMFA used in Napa County)",
+      "administering_agency": "Napa County (not an active conduit issuer); California Municipal Finance Authority used instead",
+      "funding_type": "bond",
+      "typical_award_size": "No county issuance program found. Recent Napa County deals used CMFA: Napa Park Homes, City of Napa, 140 units acquisition-rehab, $43,575,000 (2026); St. Anton Partners refinancing, City of Napa, $20,135,000; BRIDGE Housing, Calistoga and St. Helena, $20,544,520.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per CDLAC: at least 20% of units at 50% AMI or 40% at 60% AMI, 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Use CMFA, CSCDA or CalHFA as issuer; the Board of Supervisors or city council holds the TEFRA hearing for sites in its jurisdiction.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding recorded so later passes do not search again. 4% deals in Napa pair CMFA bonds with CTCAC credits, County Affordable Housing Fund or City of Napa funds, and HCD programs (Manzanita used AHSC, NHTF and HOME). Conduit bonds alone do not trigger state prevailing wage; the deal's public subordinate loans usually do.",
+      "source_url": "https://www.cmfa-ca.com/cmfa-issues-43575000-tax-exempt-financing-napa-park-homes/",
+      "record_id": "ae0bacfc24",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

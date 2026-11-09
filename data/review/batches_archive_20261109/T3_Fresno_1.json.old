@@ -1,0 +1,112 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers and RAD conversions, Fresno Housing (Housing Authority of the County of Fresno CA028)",
+      "administering_agency": "Fresno Housing (Housing Authorities of the City and County of Fresno); PBV program contact Aurora Ibarra (559) 443-8459, real estate Michael Duarte (559) 443-8492",
+      "funding_type": "rental assistance",
+      "typical_award_size": "The 2027 County Annual Plan lists PBV and RAD assistance proposed for 2025-2026 at County public housing sites: Pinedale I and II (57 units), DeSoto Gardens (40), Marcelli Terrace (24), Del Rey Complex (30), Laton Apartments (20), Sunset Terrace I (20), Mendoza Terrace (44) and II (29), Firebaugh Elderly (30), Cardella Courts (32), Helsem Terrace (40), Biola Apartments (12), Taylor Terrace (27), San Joaquin Apartments (20) and Cazares Terrace I (24). Pipeline with PBVs: Firebaugh La Joya Commons Phase II (40 units, up to 39 PBVs), Orange Cove Senior Housing (60 units, up to 50 PBVs or RAD transfer), Caruthers Commons (60), Kingsburg (80), Selma (80), Del Rey Family Housing (up to 127 multifamily and 45 single-family), Cordillera Commons Phase I, San Joaquin (50), Firebaugh RAD (152). Past competitive awards to third parties ran 15 to 50 PBVs per project.",
+      "per_unit_cap": "Not applicable; HAP contracts up to 20 years with extensions.",
+      "affordability_requirement": "PBV households generally at 30% to 40% AMI selected through Fresno Housing waiting lists and Coordinated Entry for PSH; RAD conversions preserve public housing affordability.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "senior housing",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fresno Housing attaches PBVs to its own and affiliate-owned projects without competition (Administrative Plan exception for PHA-owned units, typically with $40,000 per unit minimum hard costs); third-party owners must respond to a published RFP advertised in newspapers and on fresnohousing.org for three consecutive weeks. No RFP was open on fresnohousing.org this pass; past public notices (Avalon Commons, Crossroads Village, Sun Lodge, Step Up at 99) show awards of 15 to 50 PBVs. Watch the Boards of Commissioners meeting books for RFP authorizations.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. Fresno Housing is both the PHA and the county's most prolific developer (over 2,100 units since 2010, $600 million of development), so most County PBVs flow to its own tax credit and RAD deals; a third-party developer's realistic path is a joint venture with Fresno Housing as co-general partner, as at Sendero Commons' sister project Davu Village, or a competitive RFP when one is published. Davis-Bacon applies to PBV new construction of nine or more units. Source is the 2027 Annual Plan for the Housing Authority of the County of Fresno (draft) on fresnohousing.org; selection rules from the 2027 County Administrative Plan chapter 17.",
+      "source_url": "https://fresnohousing.org/wp-content/uploads/2025/01/Attachement-A2-2027-Annual-Plan-Housing-Authority-of-the-County-of-Fresno-Draft.pdf",
+      "record_id": "a3459c90d0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily with PBVs",
+        "RAD conversion and transfer of assistance",
+        "permanent supportive housing",
+        "senior and farmworker housing in rural cities"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Downtown and Chinatown Housing Development NOFA, City Revolving Loan Fund (RLF) construction loans",
+      "administering_agency": "City of Fresno Planning and Development Department",
+      "funding_type": "loan",
+      "typical_award_size": "Construction gap loans of up to $8,000,000 per project from the City Revolving Loan Fund (Round 2 awards: Helm Lofts $8M, Uptown Apartments $8M, The Park at South Stadium $8M). 60-month term, variable rate estimated at 4.81%, secured by deed of trust.",
+      "per_unit_cap": "None published; awards to date have been a flat $8M regardless of unit count (48 to 174 units).",
+      "affordability_requirement": "None required for RLF dollars; market-rate projects are eligible (Uptown is 48 market-rate units). Affordability comes from layered sources or Surplus Land Act terms (South Stadium 70 of 174 units restricted to very low and low income for 55 years).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Round 2 NOFA (PlanetBids No. 12601560) opened February 13, 2026 and closed April 14, 2026; conditional commitments expire December 31, 2026 unless financing closes. No Round 3 announced as of 2026-11-08.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Short-term construction money, not permanent soft debt: it must be taken out at conversion, so it suits 4% LIHTC or mixed-income deals with a permanent loan sized to repay. Pairs with City PLHA, LHTF and FHS land in the Downtown/Chinatown area, and with the TOD height and density bonus. Source of the RLF capital was not stated in the staff reports reviewed; confirm before relying on it for federal cross-cutters.",
+      "source_url": "https://agendas.fresno.gov/en/legislation/id-26-145-20842",
+      "record_id": "3af88382e6",
+      "cycle_notes": "round-based NOFA, awards on a rolling basis",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-11-08",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Affordable housing development impact fee deferral to certificate of occupancy (uncodified Ordinance 2008-51)",
+      "administering_agency": "City of Fresno Planning and Development Department and Public Works Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Defers payment of all adopted City development impact fees (street, water, sewer and others) on qualifying affordable units from building permit to certificate of occupancy. Deferral only, no reduction.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Inside the Central Area (bounded by SR 180, 99 and 41): any unit in a development with at least 15% of units restricted; outside the Central Area: restricted units only. Covenants of at least 55 years for rental and 30 years for ownership.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Ongoing; request at building permit.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Construction-period carry savings only; fees are still due before occupancy. Stacks with the Infill Incentive waiver where both apply and with density bonus concessions. Ordinance dates from 2008; confirm current implementation with Public Works since it is uncodified.",
+      "source_url": "https://www.fresno.gov/wp-content/uploads/2023/04/AFFORDABLE-HOUSING-WAIVER.pdf",
+      "record_id": "e3f913d8e0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

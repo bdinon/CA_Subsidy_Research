@@ -1,0 +1,43 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "SHRA Multifamily Lending Program (City of Sacramento gap financing: HOME, Housing Trust Fund, Mixed Income Housing fund, PLHA)",
+      "administering_agency": "Sacramento Housing and Redevelopment Agency (SHRA) on behalf of the City of Sacramento and the Housing Authority of the City of Sacramento",
+      "funding_type": "loan",
+      "typical_award_size": "Gap loans sized to the gap after all other sources, no stated per-project cap. City funds posted June 1, 2026: HOME $5,000,000, Housing Trust Fund/Workforce Housing $1,000,000, Mixed Income Housing/Workforce Housing $2,500,000, PLHA $680,000 (about $9.2M). Applicants request gap funds without naming a source. January 2026 City pre-applications: Hotel Berry (Jamboree, preservation, $5.1M) invited; Florin Family Apartments (CCH, $5.1M) and Q Street Apartments (Community HousingWorks, $2.0M) invited; requests of $6.5M to $12M (Mercy 2601 5th Street, Danco 6779 Q Street, TWG 1220 H Street, Dos Rios) declined for insufficient funds. Projects must have 12 or more units.",
+      "per_unit_cap": "No published cap; subsidy per restricted unit cannot exceed HUD Section 234 limits for the Sacramento area; HOME units capped by 24 CFR 92.250. Annual SHRA monitoring fee charged per assisted unit.",
+      "affordability_requirement": "55-year regulatory agreement (HOME units per federal rules). SHRA minimum: at least 15% of units at or below 50% AMI and 5% at or below 30% AMI based on feasibility; regulated share at least proportional to SHRA share of total development cost; restricted rents at least 10% below market. Housing Trust Fund and Mixed Income fund money is limited to workforce households (up to 80% AMI, jobs-housing nexus). Priorities: preservation at risk, then new construction and nonresidential conversion (PSH and homeless housing, veterans, workforce 30% to 60% AMI, other), then rehab of regulated stock, then market-rate to affordable conversion.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Two rounds a year aligned to CTCAC 9% rounds. 2026: pre-applications Jan 2 and July 1 (Builder's Patch), full applications March 2 and Sept 1, Council approvals June 16, 2026 and Jan 19, 2027. SHRA was not accepting pre-applications as of 2026-11-08; the 2027 schedule and a new funds-available notice are expected on the SHRA multifamily page at least 30 days before the next pre-application deadline, likely early January 2027. Phone (916) 440-1393.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "This is the City-side pool parallel to the County SHRA record (Pass 2); a project uses one or the other based on location, both run on the same schedule and policies (2026 City Multifamily Lending and Mortgage Revenue Bond Policies, amended July 29, 2026). Terms: up to 3% simple interest or the AFR, term up to 40 years from conversion or 55 years when senior public lenders require, 1.10x to 1.20x combined DSCR, payments deferred during construction and deferred developer fee repayment, residual receipts allowed; nonprofit managing general partner required; developer fee limited to $25,000/$15,000/$12,000 per unit tiers for non-tax-credit deals and deferred maximum fee for LIHTC deals. Federal HOME (12 or more units) and CDBG (8 or more units) trigger Davis-Bacon; SHRA treats state prevailing wage as applying unless the below-market loan exemption (40% of units at 80% AMI for 20 years) fits. Stack with the City Zero-Dollar Rate impact fee reduction, Housing Impact Fee exemption at 40 du/acre, SacSewer fee waivers (County record) and Housing Authority of the City of Sacramento bonds. SHRA does not expect a project-based voucher RFP in 2026. SB 802 moves SHRA into the Sacramento Area Housing and Homelessness Agency by Jan 1, 2028, so confirm the lender entity on 2027 and later commitments.",
+      "source_url": "https://www.shra.org/multi-family-housing-financing-lending-resources/",
+      "record_id": "dc4482720d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-06-16",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

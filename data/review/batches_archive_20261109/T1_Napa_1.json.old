@@ -1,0 +1,296 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Housing Impact Fee and Inclusionary Requirements (County Code Chapter 18.107)",
+      "administering_agency": "Napa County Housing and Community Services; Planning, Building and Environmental Services",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Not a subsidy; it capitalizes the Affordable Housing Fund. Fees adopted Oct 21, 2025 (3-2 vote), effective Jan 16, 2026, phased 50% in 2026, 75% in 2027, 100% in 2028: residential per sq ft $0 up to 2,500 sq ft, $43 for 2,501-3,500 sq ft (was $10.75), $86 above 3,500 sq ft (was $12.25); ADUs under 751 sq ft exempt. Nonresidential per sq ft: hotel $100 (was $9), retail and restaurant $58.40 (was $7.50), office $14.68 (was $5.25), industrial $7.70 (was $4.50), warehouse $7.50 (was $3.60).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Ownership projects: 20% of single-family detached units or 17% of attached units for moderate income (120% AMI) households, 40-year restrictions. Rental projects pay housing fees or elect the alternative of 12% of units at low income rents under a rent regulatory agreement. Exempt: farmworker units of 1,200 sq ft or less, 100% affordable projects, certain multifamily and SRO projects, projects of four or fewer units may pay a per-unit fee. Equivalency proposals (off-site units, land dedication) allowed with Planning Commission approval.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fees apply to applications filed after Jan 15, 2026 at 50% of the new schedule; 75% in 2027; full schedule in 2028. The Board also directed staff to create a fee deferral program for owners who rent units as affordable housing; terms not yet published.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Relevant to developers two ways: 100% affordable multifamily is exempt from the fee, and the fee stream funds the County Affordable Housing Fund. A fee exemption or waiver can count as public funds under Labor Code 1720(b)(4), so confirm prevailing wage exposure with counsel. Applies only in unincorporated Napa County; each city has its own inclusionary and linkage rules (Pass 3). Code text was read from the Zoneomics mirror (Ordinances 1334 of 2010, 1386 of 2013, 1491 of June 4, 2024 and 1495 of Sept 24, 2024); fee amounts come from Sonoma Index-Tribune and CBS Bay Area coverage of the Oct 21, 2025 vote. napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; the official FAQ is https://www.napacounty.gov/3951/Affordable-Housing-Impact-Fee-Housing-Co.",
+      "source_url": "https://www.zoneomics.com/code/napa-county-unincorporated-CA/chapter_36",
+      "record_id": "a222ce7fbf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "Napa County Density Bonus and Incentives (County Code 18.107.170-18.107.190)",
+      "administering_agency": "Napa County Planning, Building and Environmental Services",
+      "funding_type": "density bonus",
+      "typical_award_size": "Density bonus, incentives and concessions, parking reductions and development standard waivers per Government Code 65915; the chapter defers to state law where they conflict.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus thresholds; County requires 55-year affordability for rental bonus units and 45 years for for-sale units. Requests must be filed with the first discretionary permit with detailed submittals; denial of incentives or waivers requires specified written findings.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": null,
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Unincorporated Napa County is mostly Agricultural Preserve and Agricultural Watershed zoning, so multifamily sites are scarce; the 2023-2031 Housing Element (adopted Dec 19, 2023, HCD compliance letter Feb 22, 2024) relies on a 106-unit RHNA and RHNA transfers to the City of Napa. Inclusionary units count toward the state bonus (Latinos Unidos del Valle de Napa y Solano v. County of Napa, 2013). Ordinance 1495 (Sept 24, 2024) updated the incentives and density bonus sections. Code text read from the Zoneomics mirror; napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; confirm against the official code at library.municode.com or the County.",
+      "source_url": "https://www.zoneomics.com/code/napa-county-unincorporated-CA/chapter_36",
+      "record_id": "81a55918dc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Unit Permit Fee Waiver and Expedited Processing (County Code 18.107.120)",
+      "administering_agency": "Napa County Planning, Building and Environmental Services",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Building permit application fee waivers for compliant affordable units, flexibility in unit size and finishes, attached units allowed in single-family projects, and expedited processing. Housing impact fees are also refundable if a project does not proceed and a refund is requested within 90 days.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units must satisfy Chapter 18.107 affordability (40-year minimum; 55 years for density bonus rentals).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "The Oct 21, 2025 fee action also directed staff to design a fee deferral program for owners renting units as affordable housing; watch for the ordinance in 2026.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Modest value for multifamily since the chapter is written around inclusionary units in small unincorporated projects. Waived fees count as public funds under Labor Code 1720(b)(4) and can trigger state prevailing wage, so confirm with counsel. Code text read from the Zoneomics mirror; napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; confirm with the County.",
+      "source_url": "https://www.zoneomics.com/code/napa-county-unincorporated-CA/chapter_36",
+      "record_id": "1dc55ae94f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "HOME and CDBG, Napa County (state non-entitlement status)",
+      "administering_agency": "California HCD state HOME and CDBG programs; Napa County Housing and Community Services as applicant",
+      "funding_type": "grant",
+      "typical_award_size": "None directly. Napa County is not a HUD CDBG entitlement urban county or a HOME participating jurisdiction. The City of Napa is the only CDBG entitlement in the county (FY 2024-25 entitlement $583,519) and draws HOME and ESG through State HCD grants. No County of Napa state HOME or CDBG award for 2024 or 2025 surfaced in HCD award lists.",
+      "per_unit_cap": "HOME per-unit subsidy limits (24 CFR 92.250) apply to any state HOME award.",
+      "affordability_requirement": "State HOME: 20% of HOME units at 50% AMI, rest at 60% AMI, 55-year HCD covenant. State CDBG: 51% of units for households at or below 80% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Follow HCD state HOME and CDBG NOFAs (state records). A developer in unincorporated Napa or the four small cities needs the County or city to apply as the state HOME or CDBG grantee.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "There is no county-level HOME or CDBG pipeline to layer in Napa; this is a negative finding. The City of Napa CDBG and HOME programs are Pass 3. Napa County received $207,965 of State ESG for CA-517 in the 2024 NOFA, usable for shelter and rapid rehousing, not capital. HOME and CDBG carry federal Davis-Bacon (CDBG at 8+ units, HOME at 12+ units) and state prevailing wage. Status inferred from the City of Napa 2025-2030 Consolidated Plan, the City FY 2024-25 CAPER and HCD award lists; confirm with the County.",
+      "source_url": "https://www.cityofnapa.org/DocumentCenter/View/14570/DRAFT-City-of-Napa-2025-2030-Consolidated-Plan",
+      "record_id": "88123f77f8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa County Housing Authority Farmworker Centers (CSA No. 4 assessment and HCD matching funds)",
+      "administering_agency": "Napa County Housing Authority (Board of Supervisors sitting as the Authority)",
+      "funding_type": "other",
+      "typical_award_size": "Operating support for three county-owned dormitory centers (180 beds, about 400 farmworkers a year): County Service Area No. 4 vineyard assessment at $14 per planted acre raises about $650,000 a year (about 30% of operating cost); HCD Napa County Farmworker Centers Account match up to $250,000 a year (Health and Safety Code 50711.5, funded by SB 2); AB 1890 (Chapter 905, Statutes of 2026, signed Sept 30, 2026) raises the match to $500,000 a year once the Legislature appropriates it; AB 317 (2017) $200,000 General Fund support expires FY 2028-29. The County Affordable Housing Fund also subsidizes operations.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Centers serve migrant and seasonal farmworkers; AB 1890 bars use of the state funds to house H-2A workers.",
+      "eligible_project_types": [
+        "farmworker housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not available to outside developers; funds flow only to the County-owned centers. CSA 4 assessment is reauthorized by growers every five years.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Negative finding for private sponsors: Napa's only county housing authority is a farmworker-center operator with no Housing Choice Vouchers or development lending; the public housing agency for the county is the Housing Authority of the City of Napa. Farmworker rental projects in Napa instead layer the state Joe Serna Jr. Farmworker Housing Grant, the State Farmworker Housing Tax Credit (Pass 1) and the County Affordable Housing Fund, which once reserved $2,000,000 for farmworker projects and whose fees exempt farmworker units of 1,200 sq ft or less. The 2024 Napa County Farmworker Housing Needs and Impacts Assessment found 16% of year-round and 26% of seasonal workers in overcrowded housing. napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; the Authority page is https://www.napacounty.gov/467/Housing-Authority (707-253-4112).",
+      "source_url": "https://california.public.law/codes/health_and_safety_code_section_50711.5",
+      "record_id": "df78dd6211",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "farmworker housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "Napa County Behavioral Health Services Act (BHSA) housing interventions",
+      "administering_agency": "Napa County Health and Human Services Agency, Behavioral Health Division",
+      "funding_type": "grant",
+      "typical_award_size": "Unknown. Under Proposition 1, 30% of each county's BHSA allocation must fund housing interventions beginning FY 2026-27, with up to 25% of that for capital; counties under 200,000 population (Napa qualifies) may request exemptions from the housing requirements in the FY 2026-29 Integrated Plan. Napa's draft Integrated Plan (FY 2026-27 through 2028-29) was out for comment April 1 to May 1, 2026 with a Behavioral Health Board hearing May 13, 2026; whether Napa requested the exemption or budgeted capital is not confirmed.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing interventions serve people with serious mental illness or substance use disorder who are homeless or at risk, with half of housing funds for chronically homeless individuals unless exempted.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Integrated Plan took effect July 1, 2026; annual updates follow. Ask Napa HHSA Behavioral Health whether capital or operating subsidies will be offered to PSH sponsors.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Napa's small BHSA allocation makes operating subsidies or rental assistance for a handful of PSH units the realistic ask; pair with Homekey+ or HHAP. Public funds, so capital triggers prevailing wage. No Napa-specific document could be opened: napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; the BHSA page is https://www.napacounty.gov/338 and the Integrated Plan Executive Summary is DocumentCenter/View/41683. Facts above come from the DHCS BHSA policy manual and Integrated Plan template plus search excerpts.",
+      "source_url": "https://www.napacounty.gov/338",
+      "record_id": "6f7ba2a4f3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-07-01",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Napa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "Napa fee deferral and reduced building permit fees for affordable and workforce housing (Housing Element Programs H2-2.8 and H2-1.1)",
+      "administering_agency": "City of Napa Community Development Department (Building Division) and Housing Division",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Documented practice of deferring impact fees to occupancy for any qualifying affordable project (Prohousing matrix item 3C; Housing Element constraint analysis). Housing Element Program H2-2.8 commits to fees deferred, reduced or waived plus fast tracking for 100% affordable projects by 2025 (reported as not initiated in the 2023 APR). Napa Valley Register coverage of a 2021 council vote (3-2) reports a 50% reduction in building permit, plan check and inspection fees for housing at or below 120% AMI and for ADUs of 500 square feet or less; that fee resolution was not located on cityofnapa.org this pass.",
+      "per_unit_cap": "Not applicable; percentage reduction of permit fees, no dollar cap published.",
+      "affordability_requirement": "Affordable and workforce housing at or below 120% AMI per the reported 2021 action; impact fee deferral applies to affordable units as defined in NMC 15.94 (80% AMI or below).",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applied at permit issuance on request. Confirm the current master fee schedule discount and the status of the H2-2.8 fast track program with the Building Division (NapaON permit portal) before underwriting; Housing Element fee realignment is due by 2028.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Fee relief is modest relative to the impact fee and TOT loans but is routinely combined with them. Napa Valley Unified School District and Napa Sanitation District fees are outside the City's control. Waived or reduced fees can count as public funds under Labor Code 1720(b)(4), so confirm with counsel. The Prohousing matrix (source_url) and the Housing Element were opened; the 50% figure comes from news coverage and is marked needs_confirmation.",
+      "source_url": "https://www.cityofnapa.org/DocumentCenter/View/12551/Final-Prohousing-Designation-Matrix-PDF",
+      "record_id": "3ae88136e6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "100% affordable projects",
+        "adu",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Napa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "needs_confirmation",
+      "program_name": "Napa Successor Agency housing funds: 20% Low and Moderate Income Housing Fund (Fund 229) and Local Housing Fund (Fund 230)",
+      "administering_agency": "Housing Authority of the City of Napa as housing successor to the Napa Community Redevelopment Agency; City Housing Division staff",
+      "funding_type": "loan",
+      "typical_award_size": "Residual redevelopment housing assets (Low and Moderate Income Housing Asset Fund under Health and Safety Code 34176) administered by the Housing Authority, plus a Local Housing Fund. The Prohousing matrix (item 4H) states the City created the Low/Mod Fund from residual redevelopment funds and uses it for affordable housing. Current balances were not found online this pass; the AB 987 database of RDA assisted units is posted at cityofnapa.org/DocumentCenter/View/101.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Health and Safety Code 34176.1 rules for housing successors: funds for households at or below 80% AMI with at least 30% of expenditures for 30% AMI households over each five year period, 55-year rental covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No separate NOFA; deployed through the Housing Authority Board (the City Council plus two resident commissioners) with the rolling impact fee and TOT NOFA. Confirm balances with the Housing Division (707-257-9543) and the latest SB 341 housing successor annual report.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Likely small relative to the impact fee ($8.7 million) and TOT ($10.2 million) funds but adds flexibility for loan repayments and land. The funds are described in the City's FY 2017-18 and 2018-19 adopted budget (source_url, Successor Agency and Housing Authority sections) and the Prohousing matrix; the current biennial budget PDF was not opened this pass, so balances are unconfirmed. State prevailing wage applies to housing successor funds.",
+      "source_url": "https://www.cityofnapa.org/Archive.aspx?ADID=47",
+      "record_id": "ccc5cf314f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

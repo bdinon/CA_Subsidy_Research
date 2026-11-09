@@ -1,0 +1,333 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "Project-Based Vouchers, Area Housing Authority of the County of Ventura",
+      "administering_agency": "Area Housing Authority of the County of Ventura (serves Camarillo, Fillmore, Moorpark, Ojai, Simi Valley, Thousand Oaks and unincorporated areas)",
+      "funding_type": "rental assistance",
+      "typical_award_size": "AHACV operates PBV units at multiple properties (site-based waiting lists for Oak Creek Senior Villas in Thousand Oaks and others; most PBV lists closed) and has committed PBVs to new developments (8 PBVs at Citrus Flats per the County Action Plan; 15-plus at Mountain View Apartments, Fillmore). No current PBV request for proposals was posted on ahacv.org as of November 2026 and the agency's Section 8 Administrative Plan chapter on PBV selection was not opened this pass.",
+      "per_unit_cap": "Program cap 20% of ACC units plus excepted units per 24 CFR 983.",
+      "affordability_requirement": "PBV households at or below 50% AMI (75% extremely low income) selected from AHACV waiting lists or Coordinated Entry.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Contact AHACV about PBV availability before CTCAC applications; the Oxnard, Ventura, Port Hueneme and Santa Paula housing authorities handle their own cities.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. Confirmation needed: AHACV's PBV allocation process, number of vouchers and any RFP schedule were not found on its website (news posts cover waiting lists only). Source is the AHACV project-based voucher waiting list notice.",
+      "source_url": "https://www.ahacv.org/project-based-voucher-waiting-lists-are-now-closed/",
+      "record_id": "816bc44f6e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction and rehabilitation LIHTC projects in AHACV's jurisdiction",
+        "senior and supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "reclass_ambiguous"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Streamlined ministerial approvals for affordable, supportive and farmworker housing (SB 35, AB 2162, AB 1783, SB 330) and Prohousing Designation",
+      "administering_agency": "Ventura County Resource Management Agency, Planning Division",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Because the County has not met its above-moderate RHNA progress, qualifying multifamily projects with the required affordability are approved ministerially under SB 35 using the County's Streamlined Multifamily Zoning Clearance application; supportive housing is by right where multifamily is allowed (AB 2162); farmworker housing on agricultural land qualifies under AB 1783 and the County's Agricultural Worker Housing regulations (Somis Ranch farmworker complex, AMCAL). The County applied for the state Prohousing Designation in 2026 (public comment through May 29, 2026; Board resolution April 28, 2026), which adds points in state funding programs, and is completing a countywide Farmworker Housing Study and Action Plan (approved September 22, 2026).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "SB 35: 10% or 50% affordable depending on RHNA shortfall category; AB 2162 supportive housing thresholds; AB 1783 farmworker housing requirements.",
+      "eligible_project_types": [
+        "supportive housing",
+        "mixed-income",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Submit the Streamlined Multifamily Zoning Clearance application with objective standards compliance; SB 330 preliminary applications lock in standards.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. No County fee waiver or deferral for affordable housing was found; the County's incentives are procedural (ministerial approval, no CEQA) and locational (RHD sites, farmworker housing on agricultural land). SB 35 projects of 10 or more units require prevailing wage. Source is the RMA Streamlined Affordable Housing Development page.",
+      "source_url": "https://rma.venturacounty.gov/divisions/planning/streamlined-multifamily-housing/",
+      "record_id": "47f57cdedf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "100% affordable and mixed-income multifamily on eligible sites",
+        "permanent supportive housing",
+        "farmworker housing complexes"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29 (Housing Interventions component)",
+      "administering_agency": "Ventura County Health Care Agency, Behavioral Health Department",
+      "funding_type": "other",
+      "typical_award_size": "Public comment on the FY 2026-27 to 2028-29 Integrated Plan closed in spring 2026 and the plan was due to DHCS June 30, 2026; 30% of the County's BHSA allocation is reserved for housing interventions (rental and operating subsidies, outreach, up to 25% capital). Dollar amounts, any capital projects and the flexible housing subsidy pool details were not read because hca.venturacounty.gov blocks automated access; the County issued RFP 226001 for a Flexible Housing Subsidy Pool operator (closed April 8, 2026) and partners with Lewis Road PSH on services.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder; at least half of housing funds for chronically homeless people.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Contact Behavioral Health housing staff; the Lewis Road project (88 PSH units) is the first large BHSA-era PSH site with County services.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. Confirmation needed: the plan PDF and budget could not be opened (site blocked); figures should be pulled from the Integrated Plan on the Health Care Agency BHSA page when accessible.",
+      "source_url": "https://hca.venturacounty.gov/behavioral-health/bhsa/community-planning-process/",
+      "record_id": "78377eb6d0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "rental and operating subsidies for PSH",
+        "flexible housing subsidy pool",
+        "possible capital development"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, Ventura County Assessor",
+      "administering_agency": "Ventura County Assessor (800 S. Victoria Avenue, Ventura)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Standard state welfare exemption for low-income housing owned by nonprofits or limited partnerships with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement; exemption prorated to qualifying units.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 and supplemental affidavits with the Assessor by February 15, 2027 for the 2027-28 roll.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. Confirmation needed: assessor.venturacounty.gov blocked automated access, so local contacts and filing notes were not read; the exemption itself is state law.",
+      "source_url": "https://assessor.venturacounty.gov/exemptions/",
+      "record_id": "4cc3fe8d4c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC rental housing with nonprofit managing general partner",
+        "nonprofit-owned affordable rental housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Simi Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "Simi Valley Affordable Housing Agreements and Local Housing Fund development loans (Housing Element Program 6)",
+      "administering_agency": "City of Simi Valley Environmental Services Department, Housing Division; Affordable Housing Subcommittee of the City Council",
+      "funding_type": "loan",
+      "typical_award_size": "Negotiated case by case. Track record: $500,000 City development loan to Camino Esperanza (31 senior units, 2015) alongside a $500,000 HTFVC loan; 25 existing Affordable Housing Agreements. Current Local Housing Fund balance not found.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Set by Affordable Housing Agreement; priority for projects with extremely low income and disability set-asides. Objective: 200 lower income units in 2021-2029.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found. Nonprofit developers get up to two rounds of Affordable Housing Subcommittee review at no fee. Contact the Housing Division; unknown, verify with agency.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "No inclusionary ordinance; the Housing Element says the City is exploring one (Program 6). Affordability is negotiated through density bonus and Affordable Housing Agreements. A development agreement amendment for Runkel Canyon (adopted October 2025) reportedly includes an in-lieu affordable housing fee; seen only in a news aggregator, not confirmed. HOME comes through the Ventura County HOME Consortium. Marked needs_confirmation because simivalley.org (pages and showpublisheddocument PDFs) returns 403 and the only City source opened is the 2021 Housing Element on the HCD site.",
+      "source_url": "https://hcd.ca.gov/housing-elements/docs/simi-valley-6th-adopted102821.pdf",
+      "record_id": "cab45f31fc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Simi Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "Simi Valley CDBG entitlement and Home Rehabilitation Program (HOME through Ventura County Consortium; PLHA)",
+      "administering_agency": "City of Simi Valley Environmental Services Department, Housing Division",
+      "funding_type": "grant",
+      "typical_award_size": "CDBG entitlement about $640,000 per year (Housing Element); FY 2026-27 estimated at about $650,000 per a March 11, 2026 advisory committee item seen in search results only. PLHA award $290,357 (2020 allocation) for homelessness and PSH uses. Home Rehabilitation Program: deferred 2% loans to income-qualified owners of detached homes (CalHome and HOME).",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDBG 80% AMI; PLHA per state guidelines.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2027-28 CDBG application window not confirmed; unknown, verify with agency.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Limited value for multifamily new construction; CDBG goes mainly to public services and rehab. HOME for Simi Valley projects is allocated by the County HOME Consortium (see County CDBG/HOME record). Section 8 is run by the Area Housing Authority of the County of Ventura (676 Simi households in 2019-20). Needs confirmation because City documents could not be opened (403).",
+      "source_url": "https://hcd.ca.gov/housing-elements/docs/simi-valley-6th-adopted102821.pdf",
+      "record_id": "4a09564896",
+      "cycle_notes": "CDBG applications, winter",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Ventura",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "City of Ventura affordable housing fee deferral and partial fee waiver program (Housing Element Program 29)",
+      "administering_agency": "City of Ventura Community Development Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Program called for a fee deferral program and a Director-granted partial fee waiver for 100% affordable projects by the FY 2022-23 budget, plus expedited plan check. Implementation status and amounts not confirmed.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Partial waiver limited to all-affordable projects; deferral for affordable housing projects.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Before this program, fee waivers required City Council approval case by case, which was hard to use because housing projects do not otherwise go to Council. Fee waivers are local public funds and can trigger state prevailing wage. Needs confirmation because the city site (Cloudflare) blocked budget and Council documents; only the 2021-2029 Housing Element on the HCD site was opened.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf",
+      "record_id": "fc3dd4f637",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "reclass_ambiguous"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Ventura",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "City of Ventura City-Owned and Publicly Owned Land for Housing and Affordable Housing Overlay (Housing Element Programs 23 and 24)",
+      "administering_agency": "City of Ventura Community Development Department",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Land disposition or long-term lease of City sites (e.g., parking lots) via development agreements; no dollar figures.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per disposition terms and the Surplus Land Act.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Housing Element targets: identify properties by end of 2023 and study disposition or lease by 2025. Current status unknown, verify with agency.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Ventura is near build-out, so public land is a main site source. The Housing Element also commits to continued funding of Housing Trust Fund Ventura County (Program 13; see County HTFVC record) and to exploring a business or parcel tax for housing. Needs confirmation because the city site blocked access.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf",
+      "record_id": "0ec610234d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Ventura",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "City of Ventura CDBG entitlement and Successor Housing Agency (former San Buenaventura Redevelopment Agency) housing funds",
+      "administering_agency": "City of Ventura Community Development Department; Successor Housing Agency of the City of San Buenaventura; Housing Authority of the City of San Buenaventura",
+      "funding_type": "grant",
+      "typical_award_size": "CDBG entitlement (FY 2026-27 amount not confirmed; a search snippet of an April 14, 2026 supplemental report cited $722,425 plus $235,182 carryover, not opened). Successor Housing Agency set-aside funds may support preservation of at-risk units; balance not found (SB 341 reports are posted on the blocked city site).",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDBG 80% AMI; LMIHAF per SB 341 income proportionality.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Unknown, verify with agency.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ventura is a CDBG entitlement within the regional Consolidated Plan but is not a member of the County HOME Consortium (Camarillo, Simi Valley, Thousand Oaks), so confirm HOME eligibility with the County. CDBG uses include the Mobile Home Rehabilitation program run by the Housing Authority. The Housing Authority of the City of San Buenaventura (about 1,550 Section 8 households) is the PBV source. Needs confirmation because city documents were blocked; sources opened were the Housing Element and the County FY 2026-27 draft Action Plan.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf",
+      "record_id": "b70972c6bc",
+      "cycle_notes": "CDBG",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

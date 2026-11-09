@@ -1,0 +1,939 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa County Affordable Housing Fund",
+      "administering_agency": "Napa County Housing and Community Services (County Executive Office)",
+      "funding_type": "loan",
+      "typical_award_size": "Gap loans historically $500,000 to $2,000,000 per project: $2,000,000 requested for Burbank Housing Stoddard West (51 units, 2017), $650,000 plus $148,000 for Turley Flats in St. Helena (8 units, 2017-2018), $500,000 for SAHA Manzanita Family Apartments (51 units, 2019, with $750,000 HEAP), $200,000 for 963 Pope Street in St. Helena (5 units, 2025). The 2010 NOFA offered $5,000,000 plus $2,000,000 reserved for farmworker housing. By 2017 the fund had loaned $22,000,000 for more than 1,000 units since 1992; fee revenue runs about $2,000,000 a year and the fund also pays for farmworker centers, homeless services and fair housing.",
+      "per_unit_cap": "No fixed cap. The joint City and County Multi Family Transaction Underwriting Guidelines (Jan 21, 2020) size the subsidy by gap analysis against comparable projects; developer fee for small projects capped at $25,000 per unit for units 1-10, $15,000 for units 11-30, $12,000 above 30.",
+      "affordability_requirement": "55-year affordability covenant for rental projects (40 years for County-assisted ownership). County preference for projects in the unincorporated area, deeper affordability, permanent affordability and local workers where allowed by law. Loans may be forgiven after 40 to 55 years by Board action.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling since the 2010 NOFA; the County accepts applications year-round under the 2010 application and the 2020 joint underwriting guidelines. Requests go to the Napa County Housing Commission and then the Board of Supervisors; time them to the CTCAC round.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Capitalized by residential inclusionary in-lieu and impact fees and nonresidential housing impact fees under County Code Chapter 18.107 (Ordinance 1026, 1992); the October 21, 2025 fee overhaul (phased in from Jan 16, 2026) should raise annual revenue. Terms per the joint guidelines: 3.0% simple interest (lower if needed for feasibility), 55-year term from permanent loan conversion, 50/50 split of residual receipts between the City/County and developer, balance due at maturity, subordinate to senior debt, 90% maximum LTV on senior debt, monitoring fee $100 per unit for the first 40 units. Deferred developer fee may be repaid from cash flow within 15 years before residual receipts split. Most funded projects are inside the cities; the County obtains RHNA transfer credits in exchange (80% of County RHNA goes to the City of Napa under the Napa Pipe agreement through 2058), which limits funds for other jurisdictions. County loan is public money, so state prevailing wage applies under Labor Code 1720 unless an exemption fits. napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; the program page is https://www.napacounty.gov/443/Affordable-Housing-Projects and the source given is the joint underwriting guidelines hosted by the City of Napa.",
+      "source_url": "https://www.cityofnapa.org/DocumentCenter/View/8030/2020-Napa-City-County-UW-Guidelines-PDF",
+      "record_id": "ca9f6e58ce",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "farmworker housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Napa County non-entitlement formula share",
+      "administering_agency": "Napa County Housing and Community Services (HCD formula grantee)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD CY 2024-2028 Formula Allocation NOFA: Napa County CY 2024 $219,600 and CY 2025 $241,967; five-year estimate 2024-2028 $1,372,500. By comparison the City of Napa (entitlement) is $223,362 and $239,253 for the same years. Earlier rounds: 2020 formula awards to the City of Napa only; the City also administers PLHA for American Canyon, Calistoga, St. Helena and Yountville under delegation agreements, not for the County.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA statute: rental assistance at or below 60% AMI unless the plan targets up to 120% AMI (150% in high-cost areas); 55-year covenant for rental development; County five-year plan governs local uses.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD releases the annual formula allocation each year; the County must hold a resolution and five-year plan for 2024-2028. No County NOFA to developers was found; the County's plan and uses could not be read because its site blocks automated access.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small dollars (about $220,000 to $240,000 a year) better suited to ADU loans, predevelopment or operating subsidy than to a construction gap. State funds, so prevailing wage applies to construction. Confirm with Housing and Community Services (707-253-4112) whether the County's five-year plan directs PLHA to multifamily or to its ADU forgivable loan program ($105,000 maximum per ADU as of April 2026).",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "d72332f890",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "ADU"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Spot check Nov 9, 2026: HCD 2024-2028 PLHA NOFA Appendix A lists Napa County (non-entitlement) CY 2024 $219,600 and CY 2025 $241,967, five-year estimate $1,372,500, and City of Napa $223,362 and $239,253. NOFA application deadlines are February 2028 for CY 2024 and February 2029 for CY 2025 funds; plans must prioritize households at or below 60% AMI. prevailing_wage_trigger true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa County Housing Authority Farmworker Centers (CSA No. 4 assessment and HCD matching funds)",
+      "administering_agency": "Napa County Housing Authority (Board of Supervisors sitting as the Authority)",
+      "funding_type": "negative finding",
+      "typical_award_size": "Operating support for three county-owned dormitory centers (180 beds, about 400 farmworkers a year): County Service Area No. 4 vineyard assessment at $14 per planted acre raises about $650,000 a year (about 30% of operating cost); HCD Napa County Farmworker Centers Account match up to $250,000 a year (Health and Safety Code 50711.5, funded by SB 2); AB 1890 (Chapter 905, Statutes of 2026, signed Sept 30, 2026) raises the match to $500,000 a year once the Legislature appropriates it; AB 317 (2017) $200,000 General Fund support expires FY 2028-29. The County Affordable Housing Fund also subsidizes operations.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Centers serve migrant and seasonal farmworkers; AB 1890 bars use of the state funds to house H-2A workers.",
+      "eligible_project_types": [
+        "farmworker housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not available to outside developers; funds flow only to the County-owned centers. CSA 4 assessment is reauthorized by growers every five years.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Reclassified from other to negative finding in the 5_audit pass: the HCD Napa County Farmworker Centers Account (Health and Safety Code 50711.5) is an annual state match of up to $250,000 paid only to the Napa County Housing Authority for operating its own three farmworker centers, funded from the SB 2 Building Homes and Jobs Trust Fund, with an equal local match required; nothing is deployable to outside developers. Napa's only county housing authority is a farmworker-center operator with no Housing Choice Vouchers or development lending; the public housing agency for the county is the Housing Authority of the City of Napa. Farmworker rental projects in Napa instead layer the state Joe Serna Jr. Farmworker Housing Grant, the State Farmworker Housing Tax Credit (Pass 1) and the County Affordable Housing Fund, which once reserved $2,000,000 for farmworker projects and whose fees exempt farmworker units of 1,200 sq ft or less. The 2024 Napa County Farmworker Housing Needs and Impacts Assessment found 16% of year-round and 26% of seasonal workers in overcrowded housing. napacounty.gov is Cloudflare-blocked; the Authority page is https://www.napacounty.gov/467/Housing-Authority (707-253-4112). AB 1890 figures were not re-checked in this audit.",
+      "source_url": "https://california.public.law/codes/health_and_safety_code_section_50711.5",
+      "record_id": "df78dd6211",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "farmworker housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa City and County Continuum of Care (CA-517) and HHAP homelessness funding",
+      "administering_agency": "Napa County Housing and Community Services (CoC collaborative applicant and HHAP administrative entity) with the Napa City and County CoC board",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 7 preliminary allocations (HCD, 2026): Napa City & County CoC $511,466.08 and Napa County $477,368.34, delivered as third and fourth disbursements of HHAP 6 under the Amended HHAP 6 NOFA dated August 7, 2026 ($829,350,000 statewide). HHAP Round 5: Napa County $698,089.89 and Napa City & County CoC $727,623.09 (regional total $1,425,712.98, awarded individually). HHAP Round 6: nearly $1,000,000 awarded March 2, 2026 for rapid rehousing and rental subsidies, permanent housing services, coordination and the City of Napa prevention and diversion program. HHAP Round 2: County $160,645 plus CoC redirect $250,000. State dashboard: $4,900,000 HHAP rounds 1-5 to the Napa area 2019-2025 ($3,000,000 direct to the County) and $15,000,000 Encampment Resolution Funding rounds 1-3. HUD FY 2025 CoC awards to CA-517 were small: $21,564 coordinated assessment, $40,874 HMIS, $50,000 planning; the 2026 local priority listing (July 23, 2026) ranks about $300,000 County engagement and housing navigation, $400,000 City of Napa outreach, $214,000 HACN Shelter Plus Care PSH renewal, $108,000 DV bonus and $500,000 CoC bonus. State ESG via CA-517: $207,965 (2024 NOFA).",
+      "per_unit_cap": null,
+      "affordability_requirement": "HUD CoC and HHAP target people experiencing homelessness; HHAP permanent housing uses include operating subsidies, rental assistance and capital for PSH. Homekey Round 2 funded Burbank Housing's Wine Valley Lodge conversion (54 PSH units, $18,113,600 with the City of Napa).",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. HUD FY 2026 CoC applications were due August 26, 2026 under the modified NOFO; HHAP 7 needs no new application.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "For PSH underwriting the usable pieces are HHAP operating or rental subsidy commitments and HACN Shelter Plus Care or PBVs, not capital; the CoC is small (Point-in-Time 2024 found 494 people). Napa County has no Measure-type housing sales tax and no NPLH balance surfaced. HHAP capital is state money and triggers prevailing wage. Sources opened: HCD HHAP Round 5 awardee list, HCD HHAP Round 6 award release, HUD FY 2025 CoC award report, HCD 2024 ESG award list, the County's HHAP Round 2 application and the state accountability dashboard. napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; the CoC page is https://www.napacounty.gov/1036/Napa-Continuum-of-Care and the 2026 priority listing figures come from search excerpts of a County PDF that could not be opened.",
+      "source_url": "https://hcd.ca.gov/about-hcd/newsroom/hhap6-batch2-awards",
+      "record_id": "2d83617837",
+      "cycle_notes": "HUD CoC: FY 2026 NOFO (CPD-2600-DC-0025) released June 1, 2026 and modified July 24, 2026, applications due in e-snaps August 26, 2026, anticipated award date December 1, 2026; search results report a court-related vacatur and a reopened window to September 30, 2026, not confirmed on HUD pages. HHAP 7: administered as an amendment to the HHAP 6 NOFA (amended August 7, 2026); grantees receive funds after meeting initial disbursement criteria (HHAP 5 second disbursement met, 50% of HHAP 6 obligated, reporting in good standing, housing element compliance and encampment policy for cities and counties) and submitting an HHAP 7 funding plan. Expenditure deadlines: initial disbursement by December 31, 2032, second by December 31, 2033. HHAP 6 must be fully obligated by June 30, 2027.",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa County Behavioral Health Services Act (BHSA) housing interventions",
+      "administering_agency": "Napa County Health and Human Services Agency, Behavioral Health Division",
+      "funding_type": "grant",
+      "typical_award_size": "No developer awards. Napa's BHSA Integrated Plan FY 2026-27 through 2028-29 (provisionally approved by DHCS, approved by the Board of Supervisors) allocates 45% BHSS, 38% FSP and 17% Housing Interventions; DHCS approved Napa's request to use 17% instead of the 30% Housing Interventions target. Housing Interventions fund tenant-based rental assistance through Abode Services (18 units a year), possibly one 17-unit shared-housing PBRA project, interim housing operating subsidies (27 people a year), and two small capital repair projects at existing properties: Carolina Room Repairs (5 units, about $75,000 per unit) and the Skyline Apartment staircase renovation (19-unit HUD 811 property on state land leased by the County, about $400,000 per unit). No capital NOFA for new PSH.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing Interventions serve BHSA-eligible people with serious mental illness or substance use disorder who are homeless or at risk. Napa requested an exemption from the requirement to spend 50% of Housing Interventions on chronically homeless individuals.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026. No developer solicitation; funds are committed through the FY 2026-29 Integrated Plan, with annual updates.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "funding_type stays grant: the Plan funds housing capital (two repair projects) and rental subsidies. For a PSH sponsor the realistic ask is referral of BHSA-eligible tenants with Abode-administered TBRA or a small operating subsidy, paired with Homekey+, HHAP or HUD CoC; Napa shifted part of its 30% housing target to FSP (3 points) and BHSS (10 points). Public funds, so capital triggers prevailing wage. napacounty.gov is Cloudflare-blocked; the Plan and staff report were read on the County's Legistar (matter 14224).",
+      "source_url": "https://napa.legistar1.com/napa/attachments/aa498217-d13c-48db-87f3-efd182191a9b.pdf",
+      "record_id": "6f7ba2a4f3",
+      "cycle_notes": "BHSA took effect July 1, 2026. The Integrated Plan was posted for comment April 1 to May 1, 2026, heard by the Behavioral Health Board May 13, 2026 and approved by the Board of Supervisors June 2, 2026 (Legistar 26-850). Capital and rental subsidy uses are named in the Plan; a new PSH sponsor would need a plan amendment or annual update.",
+      "eligible_project_detail": [
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Napa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa Affordable Housing Impact Fee Fund (Affordable Housing Trust Fund) development loans, rolling NOFA",
+      "administering_agency": "City of Napa Housing Division (Housing Manager Stephanie Gaul, 707-257-9628)",
+      "funding_type": "loan",
+      "typical_award_size": "Gap loans sized by the joint City and County Multi Family Transaction Underwriting Guidelines (Jan 21, 2020). Minimum award $100,000, no set maximum. Fund balance at June 30, 2025 was $8.7 million unaudited, of which $5 million was formally reserved for specific projects; FY 2024-25 fee collections were about $1.7 million. Track record: $2.2 million general fund plus trust fund money each to Heritage House (90 units, 40 PSH) and Valley Lodge (54 units PSH) in 2022; four projects held reservations from the impact fee and TOT funds at the time of the 2023 Prohousing application. Application fee 1% of the loan request, minimum $10,000 ($5,000 cashier's check at pre-application, $5,000 at award).",
+      "per_unit_cap": "No fixed per unit cap. Joint underwriting guidelines limit developer fee for small projects ($25,000 per unit for units 1-10, $15,000 for units 11-30, $12,000 above 30) and size the loan by gap analysis.",
+      "affordability_requirement": "Units must serve households at or below 80% AMI (rents at 30% of 30%, 50% or 60% AMI by tier). 55-year regulatory agreement for rental, 45 years for ownership, recorded under NMC Chapter 15.94. Mixed income projects are funded only for the proportional share of affordable units. Units must count toward the City RHNA (new construction, adaptive reuse, or qualifying rehab); transitional housing and shelters not eligible. Scoring gives 15 points for at least 20% PSH units and 10 points for 100% affordable.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "adu",
+        "homeownership",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling, first come first served through the Neighborly portal (portal.neighborlysoftware.com/NAPACA/Participant). The 2023 NOFA accepted applications until June 30, 2024 or until funds were allocated; the City states funds are released at least once every two years by NOFA. No 2025 or 2026 NOFA document was found on cityofnapa.org as of 2026-11-08; contact the Housing Division before preparing an application.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The largest city controlled pool in Napa County and the normal local gap layer for 4% and 9% deals inside Napa city limits (Heritage House, Valley Lodge, Jamboree Silverado Trail PSH). Terms mirror the Napa County Affordable Housing Fund record: 3.0% simple interest, 55-year term, 50/50 residual receipts split, subordinate to senior debt, 90% maximum senior LTV, $100 per unit monitoring fee. Stack order: CTCAC credits and CMFA or CalHFA conduit bonds first, then HCD programs (MHP, AHSC, NPLH, Homekey), then City impact fee loan, then City 1% TOT loan for moderate income or missing middle units, with HACN project based vouchers for PSH units. County Affordable Housing Fund money is usually not available for sites inside the city (County preference for unincorporated projects) but the two agencies share underwriting guidelines and have co-funded projects. City loans are public funds, so state prevailing wage applies. Sources opened: 2023 NOFA (source_url), FY 2024-25 CAPER for fund balances, Prohousing Designation matrix, 2023 Housing Element APR.",
+      "source_url": "https://www.cityofnapa.org/DocumentCenter/View/9332/Notice-of-Funding-Availability-2023-PDF",
+      "record_id": "41776ea34e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adaptive reuse",
+        "supportive housing",
+        "affordable ownership",
+        "adu"
+      ],
+      "next_deadline_date": "2024-06-30",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Napa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa 1% Transient Occupancy Tax for Affordable and Workforce Housing Fund (Measure F, November 2018)",
+      "administering_agency": "City of Napa Housing Division",
+      "funding_type": "loan",
+      "typical_award_size": "Special tax of 1% on hotel and short term rental stays (TOT raised from 12% to 13%), effective January 1, 2019, dedicated solely to affordable and workforce housing projects, programs and services in the City of Napa. FY 2024-25 revenue about $2.8 million; fund balance at June 30, 2025 about $10.2 million unaudited, of which $4 million was formally reserved for specific projects. Measure F campaign estimate was $2.1 million a year. Awards are low or no interest deferred loans under the same rolling NOFA as the impact fee fund.",
+      "per_unit_cap": "No fixed per unit cap. No separately adopted underwriting guidelines for the TOT fund; the City applies the joint City and County guidelines by analogy.",
+      "affordability_requirement": "Households at or below 120% AMI. Under the NOFA the TOT fund is targeted primarily to the missing middle (81% to 120% AMI, rents at 30% of 110% AMI) and applications serving that band receive automatic full leverage points. 55-year rental and 45-year ownership regulatory agreements.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "adu",
+        "homeownership",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling through the Neighborly portal under the combined Affordable Housing and TOT NOFA; City commits to a NOFA at least every two years. No 2025 or 2026 NOFA document found online as of 2026-11-08; confirm availability with the Housing Division (707-257-9628).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The only sizable local source in Napa County for moderate income and workforce rental or ownership units, which state programs rarely fund. Pairs with the impact fee loan (80% AMI units) in a mixed income project: impact fee dollars on the low income units, TOT dollars on the 81% to 120% AMI units. The County (Measure I) and the other four cities adopted parallel 1% TOT measures in 2018; each is a separate fund with its own geography, so a Napa city project cannot draw on the County or St. Helena funds. Sources opened: FY 2024-25 CAPER (source_url, fund balance and revenue), 2023 NOFA, Measure F argument in favor, HCD Prohousing designation release (Napa designated 2024) and Prohousing matrix.",
+      "source_url": "https://www.cityofnapa.org/DocumentCenter/View/14760/CAPER-FY2024-25",
+      "record_id": "60e91ba283",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adaptive reuse",
+        "affordable ownership",
+        "preservation",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Napa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa Density Bonus (NMC 17.52.130) with Supplemental Density Bonus up to 100%, and :AH Affordable Housing Overlay District incentives (NMC Chapter 17.36)",
+      "administering_agency": "City of Napa Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement and entitlement incentive, not a direct subsidy. State density bonus law implemented through 17.52.130 (O2010-3, O2011-2). Local enhancement: a Supplemental Density Bonus allows the decision making body to grant bonuses, incentives or concessions above the state maximum up to a total of 100% for projects that exceed the state affordability tables or provide amenities and public benefits (underground parking, superior design, common space). Small project bonus lets duplexes and triplexes exceed pod density if the extra units are very low or lower income (30-year restriction). :AH overlay sites (over 2.5 acres, under 10% slope, within one half mile of transit or services) must deliver 10% very low plus 10% low income units in RM, MU or MP districts and receive priority processing, fee deferral to occupancy for all affordable units, access to local affordable housing funds, Housing Authority marketing and density flexibility under 17.52.140.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus thresholds (5% very low, 10% lower income, 10% moderate for sale, senior, etc.) with 55-year restrictions; supplemental bonus requires affordability above the state tables or public benefits. :AH overlay requires 20% affordable (10% very low and 10% low) or an approved alternative equivalent proposal.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; large project density bonus decisions are made by the City Council. The 2023-2031 Housing Element (adopted October 17, 2023, certified December 5, 2023) found 17.52.130 out of date with AB 682, AB 1551, AB 2334, AB 571 and SB 290 and committed to update it (Program H2-2.1) in the comprehensive zoning ordinance update that was underway in 2024-2025; check the current code before relying on local terms.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Napa is one of the few California cities with a codified local bonus above the state maximum (to 100% total), which matters for small infill sites downtown and along the four General Plan corridor focus areas. AB 2334 (unlimited density and three extra stories for 100% affordable projects in Napa County, a very low vehicle travel area) applies by state law even before the local text is updated. :AH overlay sites in the Housing Element site inventory (including City owned sites under Program H2.F) carry the fee deferral and local fund incentives, which pair with the impact fee and TOT loans above. Density bonus alone does not trigger prevailing wage; City funds do. Code text read on the Zoneomics mirror (source_url for 17.52; chapter_18 for 17.36); the Housing Element PDF and 2023 APR were opened on cityofnapa.org.",
+      "source_url": "https://www.zoneomics.com/code/napa-CA/chapter_27",
+      "record_id": "d09a3c4ecd",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "100% affordable projects",
+        "land donation projects"
+      ],
+      "next_deadline_date": "2023-12-05",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Napa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa Land Banking Program and City sponsored affordable housing sites (Jefferson/Trower, The Crescent at Old Sonoma Road, Harvest Middle School Program H2-3.3)",
+      "administering_agency": "City of Napa Housing Division and Housing Authority of the City of Napa",
+      "funding_type": "land",
+      "typical_award_size": "City acquires or controls land for affordable development and selects developers by RFP. Current pipeline: the 2.75-acre Jefferson/Trower site at 3875 Jefferson Street (bought 2023; 19 affordable ownership units on a housing land trust model for low and moderate income buyers; developer selected, development phase expected to begin early 2026); The Crescent, 77 deed restricted units on the former County HHSA campus on Old Sonoma Road (first 40 units for low and moderate income households, financing expected to close January 2026 with construction in 2026; AHSC application was not funded). Housing Element Program H2-3.3 had targeted at least 53 low income units on the former Harvest Middle School site (2447 Old Sonoma Road), but the City bought the 26.6-acre site from Napa Valley Unified for $25 million and now lists it as a Future Public Recreation Complex (interim operations since December 13, 2025, long-term vision still to be set), so housing on that site is unconfirmed.",
+      "per_unit_cap": "Not applicable; land contribution plus City loans sized by gap.",
+      "affordability_requirement": "Deed restrictions of 55 years (rental) or 45 years (ownership) for City assisted units; Crescent first phase targets low and moderate income; Jefferson/Trower targets low and moderate income first time buyers.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "homeownership",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Developer RFPs issued as sites become available (Jefferson site RFP released 2024). Watch items: Crescent financing close and 2026 construction start, later Crescent phases seeking state grants, and the City's long-term plan for the City-owned former Harvest Middle School site. Monitor City Council agendas (Legistar client napacity) for RFP notices.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "City land plus impact fee and TOT loans is the model Napa uses to make 100% affordable projects pencil; the Crescent is a joint City and County effort on a County campus, so both the County Affordable Housing Fund and City funds are in the stack. A City land contribution and City loans are public funds, so prevailing wage applies. Source: Council Focus Areas FY 2025-2027 page (opened); the 2023 Housing Element APR and Housing Element Program H2-2.6 were also opened.",
+      "source_url": "https://www.cityofnapa.org/1358/Council-Focus-Areas-for-FY-2025-2027",
+      "record_id": "35f10d20db",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "affordable ownership",
+        "mixed-income projects",
+        "adaptive reuse"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Spot check Nov 9, 2026: Council Focus Areas page now shows the City purchased the Harvest Middle School site for a public recreation complex, replacing the owner-negotiation framing. prevailing_wage_trigger true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Napa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa Successor Agency housing funds: 20% Low and Moderate Income Housing Fund (Fund 229) and Local Housing Fund (Fund 230)",
+      "administering_agency": "Housing Authority of the City of Napa as housing successor to the Napa Community Redevelopment Agency; City Housing Division staff",
+      "funding_type": "loan",
+      "typical_award_size": "Small and declining. Housing Authority FY 2026-27 mid-cycle budget: 20% Low/Mod fund beginning balance $1,458,803 (July 1, 2025), projected $1,173,898 at June 30, 2026 and $812,439 at June 30, 2027 after a $221,984 increase for the Continuity rental assistance program; revenue is limited to loan repayments and interest (about $175,500 to $205,611 a year). Local Housing Fund beginning balance $941,673, projected $906,414 at June 30, 2026 and $825,959 at June 30, 2027; it pays Housing Authority administration and services to the smaller cities. The FY 2025-27 budget notes the Successor Agency Low-Mod fund that formerly supplemented the Local Housing Fund has closed. Current uses are loan monitoring, home sharing, landlord mitigation and rental assistance rather than new development loans.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Health and Safety Code 34176.1 rules for housing successors: funds for households at or below 80% AMI with at least 30% of expenditures for 30% AMI households over each five year period, 55-year rental covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No separate NOFA. Any development use would go to the Housing Authority Board (City Council plus two resident commissioners), usually alongside the rolling impact fee and TOT NOFA; confirm with the Housing Division (707-257-9543).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Unlikely to fund new construction at current balances and uses; treat as a possible small gap or predevelopment add-on next to the impact fee and TOT funds. Balances from the Housing Authority FY 2026-27 mid-cycle budget (source_url, Legistar 239-2026) and the FY 2025-26 and 2026-27 adopted budget (Legistar 184-2025); the FY 2017-19 City budget describes the original Fund 229 and 230 structure. State prevailing wage applies to housing successor funds.",
+      "source_url": "https://napacity.legistar1.com/napacity/attachments/dba5b382-4249-4ff2-91c7-16c0ad351d61.pdf",
+      "record_id": "ccc5cf314f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of American Canyon",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "American Canyon Density Bonus Ordinance (ACMC Chapter 19.27, repealed and replaced by Ordinance 2026-04)",
+      "administering_agency": "City of American Canyon Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement and entitlement incentive, not a subsidy. Restates Government Code 65915 as of 2026: base bonuses up to 50%, the 65915(v) additional bonus for projects that first reach 50%, 80% bonus (or unlimited density plus three stories or 33 feet within one half mile of a major transit stop) for 100% affordable projects, one to five concessions by affordability tier (four for 16% very low or 45% moderate for sale), land donation bonus of 15% up to a combined 35%, child care facility bonus, and parking maximums with zero parking for qualifying transit adjacent or 100% affordable projects. Equity sharing required on for sale moderate income units. The chapter states it does not require direct financial incentives or fee waivers.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State thresholds: 10% lower income, 5% very low, 10% moderate for sale, senior, student, or special needs units with 55-year restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; Ordinance 2026-04 adopted September 15, 2026 and effective 30 days later. The 2025 Housing Element APR (Planning Commission February 26, 2026, Council March 17, 2026) reports Crawford Way used a 15% state bonus (87 to 100 units).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement beyond state law, so American Canyon offers nothing more than Government Code 65915; the chapter is recorded to show that the City's density bonus and inclusionary rules were brought current in 2026. Inclusionary units count toward the bonus thresholds. The City has no local housing trust fund NOFA, no HOME or CDBG entitlement (it is in the state non-entitlement pool, see Pass 2 record), and its PLHA share is programmed to ADUs through the City of Napa, so the local layer for an American Canyon deal is the state density bonus, HACN project based vouchers, CMFA bonds and state programs. Sun Square (30 units, 100% affordable revision pending) and Domaine (291 market rate units) are the active multifamily projects. Ordinance text read on the City law library (source_url) and the Planning Commission staff reports on the City's agenda host.",
+      "source_url": "https://law.cityofamericancanyon.org/us/ca/cities/american-canyon/ordinances/2026/4",
+      "record_id": "3e4fbb5393",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "100% affordable projects",
+        "land donation projects"
+      ],
+      "next_deadline_date": "2026-09-15",
+      "deadline_check": "past_date",
+      "link_status": "ok",
+      "audit_note": "Spot check Nov 9, 2026: Ordinance 2026-04 on the City's law library confirms introduction September 1 and adoption September 15, 2026, effective 30 days after passage; 80% bonus and no density cap or three stories/33 feet near major transit for 100% affordable; 65915(v) additional bonus; four incentives at 16% very low or 45% moderate for sale; 15% land donation bonus up to 35% combined; child care bonus; equity sharing on for-sale units; 55-year rental affordability; no required direct financial incentives or fee waivers. The ordinance also amends Chapter 19.28 (inclusionary) and 19.39 (ADUs). prevailing_wage_trigger false is uncited (no public funds).",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of St. Helena",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "St. Helena Affordable Housing Trust Fund (Fund 751, SHMC 17.30.050) development loans and project commitments",
+      "administering_agency": "City of St. Helena Community Development Department and Administrative Services Director (fund administrator); City Council approves commitments",
+      "funding_type": "loan",
+      "typical_award_size": "Fund 751 beginning balance July 1, 2025 of $2,404,218, projected $2,448,125 at June 30, 2026 and $2,492,032 at June 30, 2027 before new commitments, but the budget states the fund balance includes unavailable long-term receivables of $1,249,684 in loans and interest, so cash available is roughly $1.2 million before the Fountain Street pledge. Recurring revenue is small (about $62,400 a year of housing fees plus about $7,200 interest; $583,991 of fees in FY 2023-24). Track record: about $2,450,000 committed to Turley Flats (8 units, $700,000 incl. deferred fees), Brenkle Court (8 units) and 963 Pope Street (5 units) through 2021, and the Housing Element states the City has funded every developer request since 2015. Press reports (not confirmed on the City site) describe a $1.4 million loan to Our Town St. Helena for the Christine Apartments and a March 2026 commitment of $2.2 million ($1.5 million early, $700,000 later) to the 40 unit Fountain Street project by Our Town St. Helena and Burbank Housing (about $27 million total cost, land donated).",
+      "per_unit_cap": "None published; recent commitments equal roughly $55,000 to $90,000 per unit.",
+      "affordability_requirement": "Fund must be used solely to increase and improve housing affordable to moderate, low and very low income households, with priority for extremely low income households and the western part of the city (Programs H-DD and H-MM). Rental affordability agreements recorded; the City targets 55-year terms on assisted rental projects.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; developers request funds directly and the City Council acts by resolution (typically one to two actions a year). Remaining uncommitted balance after the Fountain Street pledge should be confirmed with Community Development (707-968-2740, Director Leza Mikhail). The biennial review of fees and inclusionary requirements under 17.30.050(B) is due in 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small but reliable: St. Helena has funded every request since 2015 and pairs trust fund loans with reduced or deferred City fees (Program H-CC) and Measure E money (separate record). Stack order for a St. Helena deal: CTCAC credits, HCD programs, County Affordable Housing Fund (the County funded Turley Flats $798,000 and 963 Pope $200,000, see Pass 2 record), then City trust fund and Measure E, with HACN project based vouchers. City loans are public funds, so prevailing wage applies. Figures from the adopted FY 2025-26 and 2026-27 budget (source_url, Fund 751 worksheet); the 2023-2031 Housing Element draft on hcd.ca.gov and the code mirror were also opened. The City AgendaCenter search returned no results to scripts, so 2026 council actions rest on press coverage and are marked as such.",
+      "source_url": "https://www.cityofsthelena.gov/ArchiveCenter/ViewFile/Item/625",
+      "record_id": "c29f9bcbc4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "affordable ownership",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of St. Helena",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "St. Helena Measure E 1% Transient Occupancy Tax for affordable and workforce housing (Fund 752)",
+      "administering_agency": "City of St. Helena Administrative Services and Community Development Departments; City Council",
+      "funding_type": "grant",
+      "typical_award_size": "Special tax of 1% on hotel stays (TOT 12% to 13%) effective January 1, 2019, restricted to programs and services for affordable and workforce housing. Revenue about $300,000 to $315,000 a year (FY 2024-25 estimate $287,718 including interest; FY 2025-26 budget $322,504; FY 2026-27 $328,684). Fund balance $636,312 at July 1, 2025, projected $858,816 at June 30, 2026 and $1,187,500 at June 30, 2027 (includes a $160,000 long term receivable for an affordable housing loan). Only $100,000 of Planning and Building services is budgeted against it, in FY 2025-26, and nothing in FY 2026-27, so most of the balance is available for projects.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Households earning up to 120% AMI (rental and for sale), per the fund description; the City prioritizes extremely low and very low income units in its Housing Element programs.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; City Council allocates by resolution. Press coverage indicates Measure E money is part of the two fund total (about $1.5 million) the Council pledged to Fountain Street in March 2026; confirm the uncommitted balance with the City.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Measure E is the City's only source for moderate income (81% to 120% AMI) units, which neither the trust fund's nexus based dollars nor state programs cover well; use it on workforce units in a mixed income project while the trust fund covers lower income units. Parallel to Napa's Measure F, Calistoga's Measure D and the County's Measure I, each a separate fund with its own geography. Figures from the adopted FY 2025-26 and 2026-27 budget (source_url, Fund 752 worksheet); the Housing Element estimate of $280,000 a year was also read.",
+      "source_url": "https://www.cityofsthelena.gov/ArchiveCenter/ViewFile/Item/625",
+      "record_id": "1b1c93e510",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "affordable ownership",
+        "housing services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Calistoga",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Calistoga Affordable Housing Fund (CMC 17.08.050), capitalized by the Housing Linkage Fee (17.08.040) and inclusionary in-lieu fees",
+      "administering_agency": "City of Calistoga Planning and Building Department (Senior Planner Andrew Amelung) and Administrative Services; City Council",
+      "funding_type": "loan",
+      "typical_award_size": "Special purpose fund for construction, acquisition, rehabilitation and subsidy of very low, low and moderate income housing. Balance about $2.1 million per the 2023-2031 Housing Element; the FY 2024-25 AB 1600 report shows $247,238 in the linkage fee account at June 30, 2025 to be lent to a future project once enough accumulates (the in-lieu fee account balance is shown only in an image table). Linkage fee (Resolution 2014-110, CPI adjusted): retail and restaurant $4.11, office $2.85, industrial $2.09 per square foot and $1,897.17 per guest room for tourist accommodation; inclusionary in-lieu fee $12,000 per unit (Housing Element figure). Uses to date: $650,000 for the 611 Washington site (2015), $472,000 (2017) and $500,000 (2018) for housing sites, several million dollars of in-lieu fees that funded the 30 unit Calistoga Senior Apartments (2017), and a reported $2 million impact fee loan for the 78 unit Lincoln Avenue Apartments (For the Future Housing), backfilled by future fees and Measure D.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Very low, low and moderate income households (up to 120% AMI); 55-year affordability agreements under 17.08.020. Council reviews fund programs and distribution annually.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; City Council acts on developer requests and reviews the fund with the annual budget (FY 2026-27 budget adopted June 2026). The Housing Advisory Committee (meets monthly) previews housing proposals; two new housing project applications were under conceptual review in June 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Calistoga's fund is the second largest city pool in the county after Napa's and is paired with Measure D TOT money (separate record) and County Affordable Housing Fund loans. Hotel and resort development drives linkage fee revenue, so the fund grows with the visitor economy; the per guest room linkage fee is Calistoga's hotel related housing mitigation (no separate hotel housing fee exists). Stack: CTCAC, HCD, County fund, then City fund and Measure D, HACN project based vouchers for lower income units. City loans are public funds (prevailing wage). Sources opened: FY 2024-25 AB 1600 report on the City's CivicWeb agenda host (source_url), CMC Chapter 17.08 on ecode360, the 2023-2031 Housing Element on hcd.ca.gov. calistogaca.gov pages and PDFs return 403 to scripts; CivicWeb (calistoga.civicweb.net/filepro/documents) is the working route to staff reports.",
+      "source_url": "https://calistoga.civicweb.net/document/112479/",
+      "record_id": "0b5ea3f08e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "land acquisition",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Calistoga",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Calistoga Inclusionary Housing Requirements (CMC 17.08.020, Ordinances 709, 733 and 780)",
+      "administering_agency": "City of Calistoga Planning and Building Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Applies to subdivisions of five or more parcels or condominiums and rental projects of five or more units. Ownership projects of 5 to 19 units pay the in-lieu fee ($12,000 per unit per the Housing Element, set by resolution) for every unit. Ownership projects of 20 or more units and rental projects of five or more units provide either 20% of units affordable to moderate income households (120% AMI) or 10% affordable to low income households (80% AMI), restricted 55 years; projects with 10 or more inclusionary units must make 10% of them three bedroom. Alternatives with a Commission or Council infeasibility finding: in-lieu fee, land dedication, off site units, or equivalent methods; the Council may waive or reduce the obligation for economic hardship and may assist developers with subsidies or design flexibility (17.08.020(H)).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "20% moderate or 10% low income, 55-year recorded affordable housing agreement; ADUs do not count toward the requirement; off site units do not count toward a receiving site's density bonus.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at the first approval through an affordable housing plan; agreement recorded with the final map or before building permit. Ordinance 780 (adopted December 9, 2025 as the Housing Element implementation package) amended 17.08.010 to add special needs groups and set a citywide minimum density of 50% of the maximum (17.03.110).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The 20% moderate option is the loosest inclusionary standard in the county and lets market rate rental projects avoid low income units entirely; a developer wanting state density bonus concessions must instead hit the 65915 thresholds, and inclusionary units count toward the bonus. 100% affordable projects satisfy the requirement and generate no fee. In-lieu revenue flows to the Affordable Housing Fund record above. Code text read on ecode360 (source_url); the December 9, 2025 second reading staff report and ordinance were opened on the City's CivicWeb host.",
+      "source_url": "https://ecode360.com/47985322",
+      "record_id": "e0cb52973b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental projects of 5 or more units (compliance)",
+        "for-sale subdivisions (compliance)",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": "2025-12-09",
+      "deadline_check": "past_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check 2026-11-08: ecode360 source_url returned 403 to WebFetch and curl. Checked against official City ordinances on calistoga.civicweb.net (Ord 733 and Ord 780) plus a code copy on zoneomics: 5+ unit applicability, 5 to 19 unit ownership in-lieu fee, 20% moderate (120% AMI) or 10% low (80% AMI), 10% three-bedroom rule at 10+ inclusionary units, 55-year term, ADU exclusion, Council waiver and assistance, agreement recorded with the final map, and Ord 780 adopted December 9, 2025 with 17.03.110 50% minimum density all match. The $12,000 in-lieu fee was not confirmed; the code says the fee is set by Council resolution. The December 9, 2025 date in next_deadline is an adoption date, not a deadline; next_deadline_date past_date is a parsing artifact.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Calistoga",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Calistoga Affordable Housing Incentives and Density Bonus (CMC 17.08.030) with Missing Middle Housing Combining District (2026)",
+      "administering_agency": "City of Calistoga Planning and Building Department; Planning Commission and City Council",
+      "funding_type": "density bonus",
+      "typical_award_size": "Entitlement incentive, not a direct subsidy. 17.08.030 implements Government Code 65915 and adds local enhancements: the City may grant an additional density bonus beyond state law, and the Council may grant financial incentives or concessions that produce identifiable cost reductions, including City subsidies for infrastructure improvements or development fees and City sponsorship of mortgage bond financing. The Planning Commission may waive lot size, setback, coverage and height standards; incentives involving City funds, public land, mixed use zoning or Public Works modifications go to the Council. Example: Calistoga Senior Apartments (30 units, 23 very low) approved in 2016 with a 58% bonus; Lincoln Avenue Apartments also used a bonus. In 2026 the Council initiated General Plan, zoning map and code amendments for a Missing Middle Housing Combining District (Opticos Design proposal received October 2026) to allow small multiplex and workforce housing near downtown.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus thresholds; inclusionary units under 17.08.020 count toward qualification; recorded agreement guaranteeing the targeted units for the period set by the Council consistent with state law.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Filed with the development application; Planning Commission hearing concurrent with entitlements, Council hearing where City funds or land are involved. Missing Middle Housing ordinance work (RFP for outreach and CEQA in mid 2026, recommended proposal October 2026) should produce code amendments in 2027; check the CivicWeb staff report folder for hearing dates.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Calistoga's code expressly authorizes fee subsidies and bond sponsorship as density bonus concessions, which is the hook for asking the Council to pay impact or connection fees from the Affordable Housing Fund or Measure D. AB 2334 unlimited density for 100% affordable projects applies in Napa County. Pair with the inclusionary record (units count toward the bonus) and the funds records. Density bonus alone does not trigger prevailing wage; City funded fee subsidies do. Code text read on ecode360 (source_url); the May 2026 Missing Middle resolution staff report and the October 2026 Opticos proposal were opened on the City's CivicWeb host (documents 114701 and 118222).",
+      "source_url": "https://ecode360.com/47985322",
+      "record_id": "53c819db8d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "100% affordable projects",
+        "missing-middle multiplex"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Calistoga",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Calistoga Measure D 1% Transient Occupancy Tax for affordable and workforce housing (Resolution 2018-072, effective January 1, 2019)",
+      "administering_agency": "City of Calistoga Administrative Services Department; City Council allocates",
+      "funding_type": "grant",
+      "typical_award_size": "Special tax of 1% on hotel stays (TOT 12% to 13%) held in a separate account and restricted to affordable and workforce housing programs and services, including land acquisition and donation, building acquisition, rehabilitation and demolition, housing construction, mobile home preservation, housing subsidies and preservation of expiring subsidies. Campaign estimate about $512,325 a year; an annual Government Code 50075.3 report is required. Uses: backfill of deferred fees for the Lincoln Avenue Apartments (78 units) and the proposed ADU Fee Assistance Program (annual transfer subject to appropriation). Council members questioned slow disbursement in 2024, so unspent balance is likely several million dollars; the balance was not found in a text document this pass.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Affordable and workforce housing; the City applies it to households up to 120% AMI for development and, for the ADU program, rentals at or below 160% AMI with a 10-year deed restriction.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "adu",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; allocated by City Council with the annual budget (FY 2026-27 budget adopted June 2026) and by resolution for specific projects. Confirm the fund balance with Administrative Services (707-942-2807).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Measure D is Calistoga's most flexible housing money (no nexus limits) and the natural source for moderate income units, fee backfill and land purchase (Council FY 2025-26 priorities include developing the City owned Earl and Eddy parcels). Combine with the Affordable Housing Fund for lower income units and the County fund. Parallel measures exist in Napa (F), St. Helena (E) and the County (I), each separate. Sources opened: October 6, 2026 ADU Fee Assistance staff report on CivicWeb (source_url, cites Resolution 2018-072 and the Measure D use restriction) and the Measure D City Attorney impartial analysis PDF (retrieved from calistogaca.gov via WebFetch because the site blocks scripts).",
+      "source_url": "https://calistoga.civicweb.net/document/117944/",
+      "record_id": "ccd8d03974",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "land acquisition",
+        "adu",
+        "housing services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Spot check Nov 9, 2026: October 6, 2026 Council staff report on the ADU Fee Assistance Program confirms Measure D (Resolution 2018-072) is restricted to affordable and workforce housing and would fund connection and impact fees for the first three ADUs a year with a 10-year deed restriction at or below 160% AMI, subject to annual appropriation. The report implies Measure D revenue of about $1.03 million a year ($85,500 is 8.3% of annual revenue), roughly double the campaign estimate in the record; proposed annual transfer $85,500 to $217,000. Adoption outcome not confirmed. prevailing_wage_trigger true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Regional Housing Authority Project-Based Vouchers (PBV) and Housing Choice Vouchers",
+      "administering_agency": "Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake Counties), 1455 Butte House Road, Yuba City, 530-671-0220",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HUD Section 8 PBVs attached to specific units under HAP contracts with private owners; Nevada County PBV properties include Courtyard at Penn Valley (re-syndicated LIHTC project) and Grass Valley Terrace Apartments (PBV waitlist opened January 2024). Tenants pay about 30% of income. The JPA was amended and restated to add Lake County (approved May 13, 2026). The County's BHSA plan reports the authority will not open or expand vouchers in calendar 2026.",
+      "per_unit_cap": "HUD payment standards for Nevada County; HAP contracts up to 20 years.",
+      "affordability_requirement": "Households at or below 50% AMI at admission (75% at or below 30% AMI) per HUD; PBV units must meet Housing Quality Standards.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No PBV owner solicitation posted on regionalha.org as of November 8, 2026. Contact the authority about future PBV competitions; existing property waitlists are managed through the Applicant Portal.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. The authority serves five counties from Yuba City and has a small PBV portfolio in Nevada County. With no new vouchers in 2026, underwriting should not assume PBV rents unless the authority commits in writing. Davis-Bacon applies to PBV new construction or rehab of nine or more contract units.",
+      "source_url": "https://www.regionalha.org/programs/project-based-vouchers",
+      "record_id": "7eede8d9b7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "acquisition/rehab",
+        "permanent supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: regionalha.org PBV page confirms unit-tied subsidy, about 30% of income rent, HQS and Applicant Portal waitlists; the RFP and PBV notice pages list no open PBV solicitation (only janitorial and labor negotiator RFPs). Prevailing wage true is uncited; Davis-Bacon applies to PBV development under an AHAP with 9 or more contract units (24 CFR 983.153(c)).",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "7th Cycle Housing Element (2027-2035) RH rezone program and lower income site inventory",
+      "administering_agency": "Nevada County Community Development Agency, Planning Department",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Draft 7th Cycle Housing Element released for 30-day review October 5, 2026 and directed to HCD on October 20, 2026. RHNA 3,712 units (1,703 lower, 730 moderate, 1,279 above moderate). Site inventory shows a 677-unit lower income shortfall, so the County must rezone about 42 acres to the RH (Residential High) zone at a minimum 16 units per acre by May 15, 2030 (if adopted and certified within 120 days of the May 15, 2027 deadline). Candidate sites are near community regions and rural centers with services.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Rezoned sites must accommodate lower income units; state law requires by-right approval for projects with at least 20% lower income units on shortfall rezone sites.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "HCD review November 2026 to early 2027; adoption hearings spring 2027; certification deadline May 15, 2027; rezoning complete by May 15, 2030.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. The rezone list is the pipeline of multifamily sites in unincorporated Nevada County for the next decade. Developers should comment on candidate sites now and pair a rezone site with the Prohousing Designation, density bonus and PLHA Round 4 and 5 funds. The 2025 Housing Element Annual Progress Report was accepted January 27, 2026.",
+      "source_url": "https://nevco.legistar.com/LegislationDetail.aspx?ID=49989&GUID=C0E8A145-FAF4-411A-AAA0-CE1D7EA5B50E",
+      "record_id": "8f21b7ae16",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental on RH rezone sites",
+        "by-right affordable projects (20% lower income)"
+      ],
+      "next_deadline_date": "2027-05-15",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Reclassified from other to zoning incentive: the program rezones about 42 acres to RH at 16 units per acre with by-right approval for 20 percent lower income projects. Staff memo of October 20, 2026 confirms RHNA, the 677-unit shortfall and the May 15, 2027 and May 15, 2030 dates.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "Town of Truckee",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Truckee existing-stock deed restriction programs: Truckee Home Access Program (THAP), Lease to Locals, Rooted Renters and Short-Term Rental Workforce Housing Token pilot",
+      "administering_agency": "Town of Truckee Housing Division",
+      "funding_type": "grant",
+      "typical_award_size": "THAP pays buyers up to $150,000 (maximum $937,500 purchase price), sellers and local businesses for permanent workforce deed restrictions on homes (cap 245% AMI). Lease to Locals pays owners up to $18,000 to convert homes to long-term local rentals; Rooted Renters pays up to $26,000 to lock in below-market rents. The STR Token pilot gives short-term rental certificates in exchange for 15-year workforce deed restrictions (150% AMI average per adult; applications closed June 20, 2024). Results to date: 871 deed-restricted units (6.2% of stock), 33 THAP homes, 276 Lease to Locals conversions, 76 Rooted Renters units, 37 ADUs created through grants and loans.",
+      "per_unit_cap": "THAP $150,000 per home; Lease to Locals $18,000; Rooted Renters $26,000.",
+      "affordability_requirement": "Occupants must work locally; income caps vary by program (THAP 245% AMI; Token 150% AMI per adult).",
+      "eligible_project_types": [
+        "preservation",
+        "adu",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Open; THAP parameters under review with revisions targeted for Q4 2026.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Not a source for new affordable multifamily, but signals the Town's local revenue priorities: its housing dollars go mainly to deed restrictions of existing stock and middle-income production. The Town's goal is 10% of housing stock deed restricted by 2032. The Council work plan lists a potential housing revenue measure and draft Program H-2.F targets at least $300,000 per year of added local funding (additional TOT, business, sales or transfer tax). Mountain Housing Council of Tahoe Truckee (Tahoe Truckee Community Foundation) is the regional partner for AMI tiers above 120%.",
+      "source_url": "https://www.townoftruckee.gov/225/Housing",
+      "record_id": "e830d08995",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation",
+        "homeownership",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Spot check Nov 9, 2026: Town pages and THAP Guidelines confirm THAP up to $150,000 with $937,500 maximum price and 245% AMI cap, Lease to Locals up to $18,000, Rooted Renters up to $26,000, and the STR Token pilot (applications closed June 20, 2024; 15-year deed restriction; 150% AMI average per adult). Program result counts (871 units and others) were not on the pages read. prevailing_wage_trigger false is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "Town of Truckee",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Truckee Town-owned land public-private partnerships (Edmunds Lofts) and Railyard Master Plan affordable housing obligations",
+      "administering_agency": "Town of Truckee Planning Division and Town Manager",
+      "funding_type": "land",
+      "typical_award_size": "Edmunds Lofts: Town-owned 0.5-acre site (APN 018-580-052, dedicated by High Altitude Fitness) to be conveyed to Paradigm8 / Sagemodern under a Development and Disposition Agreement for 12 deed-restricted workforce units; entitlements granted in 2025 and building permits under review (75% complete at December 31, 2025). Railyard: Council work plan item 6.3 will move inclusionary and workforce housing obligations from the Railyard Development Agreement into the Railyard Master Plan (late 2026 to early 2027); the Town made a significant financial contribution to the earlier 66-unit Truckee Artist Lofts in the Railyard. Draft 7th cycle Program H-2.H directs annual review of all Town-owned and partner-agency land (TTUSD, Caltrans, Tahoe Forest Hospital, Truckee Donner PUD) for housing.",
+      "per_unit_cap": "Land contribution; no cash figure published.",
+      "affordability_requirement": "Deed-restricted workforce units per the DDA; Railyard units per the Development Agreement.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No open RFIQ as of 2026-11-08. Council removed the pilot to find another site from the 2025-2027 work plan on September 9, 2025. Watch the Railyard Master Plan amendment (late 2026 to early 2027).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Land write-downs of public land are public subsidy for prevailing wage purposes and trigger Surplus Land Act review. Coldstream Commons (48 units at 60% AMI, nine HUD 811 units) is an existing affordable project in the Coldstream Specific Plan area; no new Coldstream affordable commitment was found this pass. Prohousing Designation status for Truckee was not confirmed.",
+      "source_url": "https://townoftruckee.gov/303/Housing-Our-Workforce",
+      "record_id": "78c6f42eaa",
+      "cycle_notes": "no open solicitation; RFIQ issued October 16, 2024",
+      "eligible_project_detail": [
+        "new construction",
+        "land disposition"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: work plan page confirms Edmunds Lofts 12 WFH units, entitlements 2025, building permits under review at 75%, item 6.2 removed September 9, 2025, and Railyard item 6.3 late 2026 to early 2027. APN, developer and Artist Lofts details are not on this page but are not contradicted. prevailing_wage_trigger true has no prevailing_wage_basis; the only stated basis is the general public-land subsidy concept (Labor Code 1720(b)), which under Tier 3 rules would support unclear rather than true; flag for review.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Grass Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Grass Valley Housing Element affordable housing programs: fee deferral on request (Program 28), state and federal funding support (Program 13), tax-exempt bonds (Program 14)",
+      "administering_agency": "City of Grass Valley Community Development Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Fee deferral for affordable housing is available on request, but the City reports it has received no requests. Program 13 commits the City to apply for grants and support developers seeking funding (objective 25 very low and 40 to 60 low income new units in 2019-2027); Program 14 supports tax-exempt bonds and mortgage credit certificates. The City won a $2 million DTSC Equitable Community Revitalization Grant in 2024 to clean up a brownfield site of interest to affordable developers, and expedited a Habitat for Humanity SB 9 lot split for three deed-restricted homes.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Lower income units per the funding source; Program 28 targets units at or below 30% AMI with Nevada County and the Regional Housing Authority.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. The 7th cycle Housing Element is due in 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Deferral terms are not codified in a published resolution; negotiate case by case. City sites have historically attracted County-sponsored supportive housing (Brunswick Commons, 41 units) and RHA projects. The City joined the October 30, 2025 regional housing workshop with the County, Nevada City, Truckee and HCD. Source is the 2024 General Plan Annual Progress Report (March 2025) on the City's meeting host; a 2025 APR was not located this pass.",
+      "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/grassvalca-meet-5c5ce93ed0824b79a101ec1314e65ee9/ITEM-Attachment-001-a14d952e40f44151a2a312e8d4e022e5.pdf",
+      "record_id": "6a0a41a7c4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Nevada City",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Nevada City fee waiver for deed-restricted low income ADUs and reduced ADU impact fees (Municipal Code 17.72.026)",
+      "administering_agency": "City of Nevada City Planning Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Waiver of mitigation fees and utility hook-up fees for deed-restricted low income accessory dwelling units; reduced AB 1600 impact fees for all ADUs and none for ADUs under 750 square feet. Pre-approved ADU plans available. Objective of 8 affordable second units in the cycle.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Low income deed restriction on the ADU.",
+      "eligible_project_types": [
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small-scale tool only; no equivalent waiver is codified for multifamily. Recorded so the market's lack of multifamily fee relief is visible.",
+      "source_url": "https://nevadacityca.gov/DocumentCenter/View/2515/2025-Housing-Element-Annual-Progress-Report?bidId=",
+      "record_id": "2c8f5d1e7e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

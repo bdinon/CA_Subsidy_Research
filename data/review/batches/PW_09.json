@@ -1,0 +1,706 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Innovative Housing Trust Fund (IHTF), County of San Diego",
+      "administering_agency": "County of San Diego HHSA, Housing and Community Development Services (HCDS); established by the Board of Supervisors October 10, 2017 (Administrative Code Article XV, Sections 230.8 and 232.5)",
+      "funding_type": "loan",
+      "typical_award_size": "Board allocations total over $129 million through seven allocations since 2017 (General Fund one-time money, plus redirected grant balances such as $2 million of Capital ESG in June 2025). $112 million has been awarded to 36 developments with 3,054 units in 22 communities, leveraging $1.6 billion. The newest $22 million allocation is being awarded through NOFAs in FY 2026-27: a $12 million IHTF NOFA for County-owned sites ran July 6 to August 10, 2026, and $9 million is in NOFA 2026-03 (due November 19, 2026). Loans to date range from $200,000 (Vista Lane) to $7.25 million (Terrasini, 95 units); most are $3 million to $7 million.",
+      "per_unit_cap": "None stated in the ordinance or NOFAs. Awards have ranged from about $2,000 to $112,000 per unit, typically $30,000 to $75,000 per unit.",
+      "affordability_requirement": "Households at or below 80% AMI (extremely low, very low and low income). NOFA 2024-01 required 99-year affordability for IHTF-funded units; NOFA 2026-03 states a 55-year minimum for all sources. Eligible anywhere in San Diego County, including all 18 cities.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Through NOFA 2026-03, due November 19, 2026. The Board's October 7, 2026 five-year report directs staff to identify a dedicated ongoing revenue source for the IHTF; no ballot measure or fee is adopted yet, so future rounds depend on one-time Board allocations.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "IHTF is the only County money usable inside the City of San Diego and the larger cities, which makes it the typical County piece of a City of San Diego deal alongside SDHC funds and Housing Authority of the City of San Diego bonds. It is a 3% simple, 55-year residual receipts loan under HCDS standard terms. HCDS also deposits ground lease revenue from County land deals (for example about $500,000 of initial rent from 3177 Ocean View Boulevard) and will deposit inclusionary in-lieu fees from the unincorporated ordinance into HCDS trust funds, so the fund will grow modestly from those streams. County-owned sites get a scoring preference and had their own $12 million round in summer 2026. Expect state prevailing wage on any IHTF-funded construction.",
+      "source_url": "https://sdcounty.legistar.com/LegislationDetail.aspx?ID=8806&GUID=5FC31D6F-DC1F-407F-A2D9-2AA8C5F0F812&Options=&Search=&FullText=1",
+      "record_id": "c6334d3f5e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-19",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Nov 9, 2026 spot check: Attachment C shows Genesis (9 units, $1,350,000 IHTF) at about $150,000 per unit, above the $112,000 top of the per-unit range in per_unit_cap, and Vista Lane at about $1,300 per unit; about 15 of 36 loans are under $3 million. Not material to screening.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County of San Diego formula allocation",
+      "administering_agency": "County of San Diego HHSA, Housing and Community Development Services (HCDS)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD's 2024-2028 formula NOFA lists San Diego County at $1,389,802 (2024), $1,488,682 (2025) and an estimated $8,686,263 over five years (the City of San Diego is separate at about $4.1 to $4.4 million a year). HCDS puts PLHA into its capital NOFAs ($1.2 million in NOFA 2026-03, $1.5 million in NOFA 2024-01) and into a moderate-income down payment assistance program.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Rental housing at or below 60% AMI with 55-year affordability under HCDS's NOFA; PLHA guidelines allow up to 80% AMI rental and 120% to 150% AMI ownership. Eligible only in the Urban County (unincorporated plus Coronado, Del Mar, Imperial Beach, Lemon Grove, Poway, Solana Beach).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Through NOFA 2026-03, due November 19, 2026. HCDS is preparing the County's new five-year PLHA plan and application for the 2024-2028 allocations (Board action expected in the coming months), which sets how much goes to development versus down payment assistance.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small relative to the IHTF but it is the one County source that can be used for moderate-income ownership. For rental projects it rides along with IHTF and HOME in the same application, same 3% 55-year loan terms. State funds trigger prevailing wage. Cities with their own PLHA (San Diego, Chula Vista, Oceanside, Escondido and others) are Pass 3.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "e52ac0a3fc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": "2026-11-19",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Spot check Nov 9, 2026: HCD 2024-2028 PLHA NOFA lists San Diego County $1,389,802 and $1,488,682 and $8,686,263 five-year estimate (City of San Diego $4,064,317 and $4,353,481). NOFA 2026-03 lists $1.2M PLHA, due November 19, 2026. Prevailing wage true is uncited (no PLHA or NOFA rule named); add a basis in a PW citation pass.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Affordable housing on County-owned excess land (ground leases through Disposition and Development Agreements)",
+      "administering_agency": "County of San Diego Department of General Services, Real Estate Services (RFP issuance and DDA), with HCDS (regulatory agreement and IHTF capital); Board of Supervisors approval",
+      "funding_type": "land",
+      "typical_award_size": "12 County-owned surplus sites are in the pipeline for 100% affordable housing totaling about 1,762 homes (595 completed, 126 under construction, 1,043 upcoming), with $51.8 million of County capital committed to the sites. Nine sites are in the City of San Diego, plus Fallbrook, Ramona and Escondido. Terms are long-term ground leases (99 years at 620 E. Valley Parkway, Escondido, 134 senior units; 3177 Ocean View Boulevard, San Diego, 122 units with BRIDGE Housing and a San Ysidro Health clinic, about $500,000 initial rent then $300 a year escalating 3.5%). Next starts: 6255 Mission Gorge Road (337 units) and 5001 73rd Street (120 units) in early 2027, 4588 Market Street (138) in 2027, Ramona 12th and Main (100) and 5202 University Avenue (90, via SDHC) in 2028.",
+      "per_unit_cap": null,
+      "affordability_requirement": "100% affordable at or below 80% AMI under a County regulatory agreement (55 years or longer); specific populations (seniors, families, PSH) set in each RFP. Developer must comply with the County Working Families Ordinance (prevailing wage, skilled and trained workforce, paid sick leave) on County property.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026; the County General Services Development Opportunities page lists only an RFP for a Behavioral Health Wellness Campus. Housing site RFPs are issued site by site after the Board declares a property surplus; expected next solicitations are the ground lease and renovation of the four Chula Vista public housing sites after HUD RAD/Section 18 approval and the Fallbrook North Orange and East Ivy site (program TBD).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County land deals come packaged: nominal ground lease, IHTF or other County capital (County sites had their own $12 million IHTF NOFA in July 2026 and get a location preference in every HCDS NOFA), PBVs where HACSD has jurisdiction, and Board support for state applications. In exchange the County requires 100% affordability, Working Families Ordinance labor terms (prevailing wage plus skilled and trained workforce on work over $1 million), ground lease payments to the IHTF, and a County regulatory agreement senior to other restrictions. Mission Gorge (337 units) and Ramona are the largest unincorporated or near-term opportunities; Ramona and Fallbrook sites test rural feasibility. Faith-based land partnerships (three developments, 220 units) are a parallel track.",
+      "source_url": "https://sdcounty.legistar.com/LegislationDetail.aspx?ID=8704&GUID=2E56B0B2-5171-4711-9A3B-0DAF1260AC97&Options=&Search=&FullText=1",
+      "record_id": "199583368a",
+      "cycle_notes": "Site-by-site RFPs posted on the County DGS Real Estate Development Opportunities page; no housing RFP open as of November 8, 2026.",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance, In-Lieu Fee and expanded density bonus, unincorporated San Diego County (Zoning Ordinance Sections 6341 and 7430)",
+      "administering_agency": "County of San Diego Planning and Development Services (ordinance and affordable housing plans) with HCDS (in-lieu fee trust fund and affordable housing agreements)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Adopted June 24, 2026 (Ordinance 11009), effective October 22, 2026; projects with a complete or SB 330 preliminary application submitted by October 21, 2026 are exempt. Applies to residential and mixed-use projects of 10 or more primary units in the unincorporated area. Incentives: density bonus doubled relative to state law up to a 50% maximum (10% low income units earns 40% instead of 20%) plus two extra concessions, and 30-day priority discretionary review for projects providing 50% more low income units than required. In-lieu fees: $18.69 per interior square foot (rental, 95% market share assumed, effective $17.76), $21.37 (for-sale, effective $19.23), $41.82 (General Plan Amendment projects, effective $33.46), paid at building permit and deposited to an HCDS trust fund for affordable housing anywhere in the county including cities. Staff estimate 15 to 60 deed-restricted units a year.",
+      "per_unit_cap": null,
+      "affordability_requirement": "For-rent: 5% extremely low (30% AMI) or 5% very low (50% AMI) or 10% low (80% AMI). For-sale: 5% very low or 10% low or 15% moderate (120% AMI). General Plan Amendment projects: 20% low. Units calculated on base density before bonus, rounded up at 0.5. Alternative compliance in Board priority order: land donation, affordable for-sale ADUs (up to 50% of requirement or 5 units), in-lieu fee for 50%, in-lieu fee for 100%, off-site units in the same community plan area, a village, a TCAC High or Highest Resource area or a VMT-efficient area (cities allowed). 100% affordable projects are exempt but record an affordable housing agreement. Market-rate permits are held until affordable units are permitted (50% rule) and finaled (75% rule).",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "In effect for applications submitted on or after October 22, 2026. Senior Housing and Small Lot zoning updates and Housing Unlocked zoning amendments are scheduled for the Board in fall 2026 and 2027; a programmatic EIR for low-VMT housing streamlining comes in 2027.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "For a 100% affordable deal the ordinance is a zero-cost exemption plus access to the doubled density bonus if the project also meets a set-aside; for mixed-income workforce deals in the unincorporated area it adds a 5% to 10% affordable obligation or roughly $18 to $19 per square foot in fees. The in-lieu fee revenue becomes new County gap money administered by HCDS (the Board asked staff for a dedicated IHTF revenue source and this is the first one). Land donation sites must be suitable for multifamily at the displaced density with utilities, outside slopes, floodplains, farmland and habitat; donations over $1 million go to the Board. Density bonus and inclusionary agreements do not trigger prevailing wage; the Working Families Ordinance applies only on County-owned land. 2026 San Diego County AMI is $130,900.",
+      "source_url": "https://www.sandiegocounty.gov/content/dam/sdc/pds/advance/HousingStudy/San%20Diego%20County%20Inclusionary%20Housing%20Ordinance%20Applicant%20Guide_10_22_26.pdf",
+      "record_id": "7134a911a3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use",
+        "homeownership"
+      ],
+      "next_deadline_date": "2026-10-22",
+      "deadline_check": "past_date",
+      "link_status": "ok",
+      "audit_note": "Nov 9, 2026 spot check: next_deadline holds the October 22, 2026 effective date, not an application deadline, so the computed past date is not a missed round.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "San Diego City and County Continuum of Care (CA-601, Regional Task Force on Homelessness) and HHAP, County of San Diego share",
+      "administering_agency": "Regional Task Force on Homelessness (RTFH, CoC lead and HMIS lead); County of San Diego HHSA, HCDS Office of Homeless Solutions (County HHAP administrative entity); City of San Diego (large city allocation)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 6 (FY 2026-27 through 2028-29): County $12.1 million (accepted December 9, 2025), RTFH CoC $12.9 million, City of San Diego $25.8 million, from a joint regional application filed August 29, 2025. County HHAP rounds 1 to 6 total about $64 million ($9.99M, $4.57M, $12.79M, $10.5M, $14.1M, $12.1M); the region received $220.6 million in rounds 1 to 5 plus $46.2 million of Encampment Resolution Funds. County HHAP pays for Housing Our Youth, the Local Rental Subsidy Program ($6.6 million in Round 5), shallow rent subsidies, housing stability case management and harm reduction contracts, not capital. 2025 point-in-time count: 9,905 people, 5,714 unsheltered.",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness; HHAP-6 requires a regionally coordinated action plan, 10% youth set-aside, and allows Category 1 permanent housing uses including housing development and capital funding, rental assistance and operating support.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 9, 2026. County HHAP-6 is programmed to existing contracts; the next HUD CoC NOFO and any HHAP Round 7 depend on HUD and the state budget.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County HHAP is operating money, not a capital source, and the County's BHSA plan says it will spend all of it on existing youth, regional housing assistance and local rental subsidy programs as ARPA expires. A PSH developer should look to RTFH for CoC PSH or Rapid Rehousing operating funds and to the City of San Diego's much larger HHAP allocation for capital or operating subsidies inside the city (Pass 3). Coordinated Entry through RTFH is the referral source required by HCDS for homeless units in County-funded projects, and RTFH's CES is the official front door for BHSA housing interventions tied to homelessness.",
+      "source_url": "https://sdcounty.legistar.com/LegislationDetail.aspx?ID=8186&GUID=BA2487AB-80B3-4A8B-88EB-EF4A4D6D05FC&Options=&Search=&FullText=1",
+      "record_id": "8f9b3e1c2f",
+      "cycle_notes": "FY 2026 HUD CoC NOFO: RTFH local project application deadline July 13, 2026; HUD paused the NOFO in August 2026 and reopened it with a September 30, 2026 deadline. HHAP-6 joint regional application filed August 29, 2025 (amended October 29, 2025); County accepted $12.1M on December 9, 2025. RTFH's HHAP page lists no open solicitation.",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Spot check Nov 9, 2026: Board letter 25-661 confirms $12.1M HHAP-6 (FY 2026-27 to 2028-29), rounds 1 to 5 amounts and the 2025 PIT count (9,905; 5,714 unsheltered); RTFH page shows HHAP-6 about $12.9M. County HHAP-6 budget is $6.9M emergency housing (RHAP motel shelter in unincorporated areas), $3.4M time-limited rental subsidies, $0.8M housing stability case management and about $1M admin and HMIS, so the largest share is interim shelter. Prevailing wage true is uncited for an operating grant; flag for the PW citation pass.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) housing interventions and Flexible Housing Pool, County of San Diego Behavioral Health Services",
+      "administering_agency": "County of San Diego HHSA, Behavioral Health Services (Integrated Plan FY 2026-2029 approved June 9, 2026); Flexible Housing Pool Pilot administered by Brilliant Corners under a single-source contract approved November 18, 2025",
+      "funding_type": "grant",
+      "typical_award_size": "BHSA budget about $329.5 million in FY 2026-27, with the housing component at 27% of the local allocation (roughly $89 million a year by that percentage; the plan does not publish a single housing dollar total). Rental subsidies for about 2,672 people a year: 290 permanent slots (250 Flexible Housing Pool subsidies for ACT clients plus 40 operating subsidies at Starling Place, a Homekey+ site in the City of San Diego) and about 2,382 interim placements from a $23.6 million interim housing budget; 4,305 units a year funded in total. Flex Pool Pilot costs $3.45 to $5.35 million in FY 2026-27 (Behavioral Health Bridge Housing and BHSA). Capital development: none in FY 2026-27.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Medi-Cal eligible adults with serious mental illness or substance use disorder who are chronically homeless, homeless or at risk; at least half of housing funds for chronically homeless people; permanent settings include supportive housing, master-leased apartments, shared housing, board and care and recovery residences; Transitional Rent (six months, Medi-Cal managed care) feeds into BHSA subsidies.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No developer NOFA. The plan states the County will not fund capital development with BHSA in year one (to sustain treatment services) and will reassess in future years; operating subsidies are limited to the 40 Homekey+ units. Annual plan updates start FY 2027-28 (draft due to DHCS each March 31), and BHSA will absorb Behavioral Health Bridge Housing programs when that grant ends in FY 2028-29.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Unlike Orange or Contra Costa, San Diego County is spending its BHSA housing money on subsidies and a Flex Pool rather than capital, so do not underwrite County BHSA capital for PSH in 2026-27. The realistic asks are: Flex Pool tenant-based subsidies for units set aside for ACT clients (Brilliant Corners master-leasing or direct placements), a Homekey+ style operating subsidy agreement if the County co-applies (it has co-applied with Wakeland in Chula Vista and Casa de Amparo in Vista), and Medi-Cal Transitional Rent through the managed care plans for move-in. Community input asked the County to dedicate the full 25% to capital, so the FY 2027-28 update is the moment to request a capital line. BHSA funds in a project are state funds and trigger prevailing wage.",
+      "source_url": "https://sdcounty.legistar.com/LegislationDetail.aspx?ID=8563&GUID=EC9C8789-7E53-4306-94B1-1A8D3B0F1733&Options=&Search=&FullText=1",
+      "record_id": "822faa4614",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Nov 9, 2026 spot check: prevailing_wage_trigger true rests only on BHSA being state money; the plan funds no capital in FY 2026-27, and Tier 3 rules treat a general Labor Code 1720(b) basis as unclear, so review this value. Flex Pool cost, Brilliant Corners contract and 4,305-unit figures were not in the documents reopened.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Diego",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "City of San Diego Affordable Housing Fund (Housing Trust Fund and Inclusionary Housing Fund, SDMC Chapter 9, Article 8, Division 5) and SDHC Affordable Housing and Permanent Supportive Housing NOFA (FY27 NOFA-27-01)",
+      "administering_agency": "San Diego Housing Commission (SDHC), Real Estate Division, 1122 Broadway, Suite 300, San Diego 92101; NOFA contact Morgan Patterson, morganp@sdhc.org; NOFAs posted on the SDHC PlanetBids vendor portal",
+      "funding_type": "loan",
+      "typical_award_size": "FY27 NOFA-27-01 (released November 6, 2026) makes up to $22 million available (HOME plus Affordable Housing Fund) as residual receipts loans for new construction rental housing. FY 2027 Annual Plan: about $42.5 million AHF available July 1, 2026 to June 30, 2027 ($5.4M new fees and loan repayments plus $37.1M fund balances, of which $22.4M is already committed); Rental Housing Production allocation $30.39M including a $9.0M AHF share for the FY27 NOFA. Since 2018 SDHC has awarded more than $131 million to over 3,100 new affordable rental homes. Recent per project awards $1.0M to $2.85M (The Iris at San Ysidro, 99 units, $2.3M).",
+      "per_unit_cap": "None published; SDHC underwrites to gap. Code caps: no more than 25 percent of a loan or grant to a single development in some HTF categories (SDMC 98.0504), 60 percent of HTF to very low income, no more than 10 percent to median income.",
+      "affordability_requirement": "Minimum 55 years. HTF: at least 60 percent of funds for very low income (up to 50 percent AMI), no more than 20 percent for low income, no more than 10 percent for median income. IHF: priority to new construction of units for very low and low income households; rents at or below 30 percent of income, generally at least 10 percent below market.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY27 NOFA-27-01 is open (released by SDHC in November 2026); the application due date is set in the NOFA on the SDHC PlanetBids vendor portal (SDHC-specific registration required) and is not stated in the public release.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Largest city-controlled gap source in the county. Stacks under 4 percent and 9 percent LIHTC, SDHC bonds (separate record), SDHC project-based vouchers through the same NOFA, and County HCDS NOFA 2026-03 money only where a project sits in the City but County IHTF rarely funds City of San Diego sites. The City's Bridge to Home LMIHAF and PLHA NOFA (separate record) is run by the Economic Development Department, not SDHC, and projects commonly take both. HOME funds awarded to the City are administered by SDHC and folded into the same NOFA. AHF also funds ADU construction loans up to $250,000 at 3 percent for low income homeowners (7 year affordability) and homeless programs. FY27 plan and FY25 annual report read on sdhc.org.",
+      "source_url": "https://sdhc.org/wp-content/uploads/2026/06/FY27-AHF-Plan.pdf",
+      "record_id": "d33fac6365",
+      "cycle_notes": "Annual NOFA subject to SDHC budget approval. FY27 NOFA-27-01 draft guidelines public comment closed October 29, 2026; NOFA released November 6, 2026 with up to $22 million (HUD HOME awarded to the City plus the City Affordable Housing Fund) for new construction of affordable rental homes, rents affordable at or below 60 percent AMI for at least 55 years, awarded as low-interest residual receipts loans.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Diego",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Affordable, In-Fill Housing and Sustainable Buildings Expedite Program (Information Bulletin 538, Council Policy 600-27, SDMC 143.0915) and Affordable Housing Permit Now (Executive Order 2023-1)",
+      "administering_agency": "City of San Diego Development Services Department, Expedite Team (DSD-ExpediteProgram@sandiego.gov) and Ministerial Project Managers (DSDMinisterialPM@sandiego.gov)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Expedite program fees are waived for 100 percent affordable projects (otherwise fees per IB-503, capped at 40 percent of staff hourly billings). Discretionary review cycles cut to about half of standard (20 business day first review, 10 day subsequent reviews, completeness check in 5 days); ministerial expedite goal 25 percent faster. Permit Now: first review of 100 percent affordable and shelter building and engineering permits within 30 business days, dedicated project managers, collaborative review meetings; 26 projects completed by July 2026 and 3,094 homes permitted 2023 to 2024. Expedite program 2018 to 2024: 435 projects, 3,490 homes. Section 143.0920 allows deviations through a Process Two Neighborhood Development Permit.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Eligibility: 10 or more units with at least 10 percent at or below 60 percent AMI (rental) or 100 percent AMI (for-sale, or 15 percent at 120 percent AMI); SDHC-funded projects with 15 percent at 120 percent AMI; projects restricted at or below 80 percent AMI by public agreement; infill projects in Transit Priority Areas with all units at or below 150 percent AMI; Promise Zone projects. Projects paying the inclusionary fee are not eligible.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; request eligibility confirmation by email before submittal. IB 538 dated March 2023; Permit Now 3-year progress report issued March 2026.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Processing benefit rather than cash, but the fee waiver and timeline savings matter for TCAC readiness deadlines. Stack with the SDHC AHF NOFA, Bridge to Home and Complete Communities. Mandatory Initial Review is required for discretionary expedite projects. No comparable formal expedite program was found for Chula Vista, Oceanside or Carlsbad; Escondido offers pre-application consultation and expedited review under Housing Element Program 2.8.",
+      "source_url": "https://www.sandiego.gov/development-services/forms-publications/information-bulletins/538",
+      "record_id": "0efcc39e93",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Diego",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "State Prohousing Designation, City of San Diego (2022 designation and 2025 renewal application)",
+      "administering_agency": "City of San Diego City Planning Department, Prohousing@sandiego.gov",
+      "funding_type": "policy/designation",
+      "typical_award_size": "Not a direct subsidy. Prohousing status gives bonus points or set-asides in state AHSC, IIG, MHP and PLHA competitive rounds and eligibility for Prohousing Incentive Program grants. The City was designated in November 2022 and the designation was valid until January 2026; the City circulated a draft renewal application in November 2025 (public review now closed). HCD's Prohousing Application Tracker lists the City's renewal application as received June 12, 2026 with status Pending Revisions, and HCD's designated jurisdictions list as of August 10, 2026 shows San Diego County and Chula Vista but not the City of San Diego.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No deadline; renewal application pending at HCD (status Pending Revisions as of November 8, 2026). Check the HCD designated jurisdictions list before claiming Prohousing points in a 2027 state application.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Matters for layering state funds onto SDHC and Bridge to Home awards: without the designation, City projects lose Prohousing points in AHSC and MHP scoring that Chula Vista and unincorporated County projects receive. Read the City Planning Prohousing page and HCD's designated list this pass; the renewal decision itself could not be confirmed.",
+      "source_url": "https://www.sandiego.gov/planning/prohousing-designation",
+      "record_id": "8cb8310896",
+      "cycle_notes": "Renewal application received by HCD June 12, 2026; status Pending Revisions on the HCD tracker. Designation lapsed January 2026 pending renewal.",
+      "eligible_project_detail": [
+        "new construction",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Chula Vista",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Chula Vista Housing Authority housing successor loans (Low and Moderate Income Housing Asset Fund) and Local Housing Trust Fund gap financing; 2025-2026 affordable housing NOFA",
+      "administering_agency": "City of Chula Vista Housing and Homeless Services Department (Housing Manager Brian Warwick) acting for the Chula Vista Housing Authority as Housing Successor to the former Redevelopment Agency",
+      "funding_type": "loan",
+      "typical_award_size": "Residual receipts style gap loans of $3M to $4M per project. June 16, 2026: Housing Authority Resolution 2026-006 and Council Resolution 2026-130 approved up to $4,000,000 (recommended as $3,000,000 Low-Mod plus $975,000 Local Housing Trust Fund) to Wakeland Housing for the 68-unit Park Hill UMC project at 545 East Naples Street, conditioned on reducing density to 62 units; Bayview Family Apartments was the alternate. June 10, 2025: up to $4.0M Low-Mod loan to Community HousingWorks for 201 Third Avenue (HA Resolution 2025-004); March 2025: $3.0M Low-Mod for the Palomar Motel permanent supportive housing conversion with Homekey+. The 2024-2025 NOFA offered about $4,000,000 for new multifamily construction (applications due January 15, 2026). Local Housing Trust Fund seeded in 2024 with a $500,000 City match (Resolution 2024-102) and a $500,000 HCD LHTF matching grant (Resolution 2024-163, awarded January 2026). FY 2026-27 Low-Mod administration and homeless prevention appropriation $800,000.",
+      "per_unit_cap": "None published; awards have run about $44,000 to $59,000 per unit.",
+      "affordability_requirement": "55 year covenants; LMIHAF rules (Health and Safety Code 34176.1: 80 percent AMI maximum, 30 percent of funds to 30 percent AMI units); LHTF units for lower income households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026; no new Housing Authority or LHTF NOFA has been posted since the 2025-2026 round, and the Housing and Homelessness Advisory Commission next meets January 27, 2027. Contact the Housing and Homeless Services Department for the next round.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Chula Vista's only city gap source beyond fee waivers. Stacks with Chula Vista Housing Authority conduit bonds (separate record), County HCDS NOFA 2026-03 (Chula Vista projects are eligible for County IHTF and HOME Consortium funds because the City is in the Urban County for HOME), HACSD project-based vouchers and 4 percent LIHTC. Housing Element (2021) noted the Balanced Communities in-lieu fund held only about $1.1M in 2020 and was inadequate for gap financing; the new Housing Inclusionary Fund (CVMC 19.91.070) will add in-lieu fees. Palomar Motel used Homekey+. chulavistaca.gov blocks automated access (403); agendas, minutes and item summaries were read on the City's eSCRIBE agenda portal, but staff report PDFs (filestream.ashx) return 403, so loan terms come from the agenda item text.",
+      "source_url": "https://pub-chulavista.escribemeetings.com/Meeting.aspx?Id=649164e7-178d-414f-8b0b-bc0719b127d3&Agenda=Agenda&lang=English",
+      "record_id": "2bd374af89",
+      "cycle_notes": "NOFA issued as Low-Mod and LHTF funds accumulate; the 2025-2026 round ($4M) closed January 15, 2026 and funds were committed to Park Hill UMC in June 2026.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "preservation"
+      ],
+      "next_deadline_date": "2027-01-27",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oceanside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "needs_confirmation",
+      "program_name": "Oceanside Density Bonus Ordinance (Zoning Ordinance, Housing Element Program 2) and development impact fee deferral for affordable units",
+      "administering_agency": "City of Oceanside Development Services Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Housing Element Program 2 commits the City to amend its density bonus ordinance (Zoning Ordinance Article 30) within one year of adoption to conform to AB 1763, SB 1227 and AB 2345. State law (as amended by AB 1287, effective January 1, 2024) allows up to a 100 percent bonus for projects reserving at least 15 percent of base units for very low income, 24 percent for lower income or 44 percent for moderate income households. In the coastal zone, Coastal Commission staff note that the certified Article 30 density bonus provisions do not apply to the Downtown District; the City's Downtown amendment (Ordinance 23-OR0749-1, LCP-6-OCN-25-0029-2) sets an 86 units per acre base density and staff recommended allowing State density bonuses there and requiring the City to submit updated density bonus regulations by January 1, 2029. In-lieu fee deferral on the same terms as impact fee deferral is available for inclusionary obligations.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 tiers; 55 year rental affordability.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement. Confirm the current Zoning Ordinance Article 30 text, whether the Coastal Commission certified the Downtown density amendment, and any 2026 amendments with Planning.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancements beyond state law were found; the practical local tools are the inclusionary in-lieu fund and the Affordable Housing Strategy NOFA (separate records). Smart and Sustainable Corridors Plan (Program 9) adds capacity along transit corridors. Read in the 2021-2029 Housing Element (HCD-hosted) and the Coastal Commission February 2026 staff report.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-adopted120622.pdf",
+      "record_id": "04ff5fbbd4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Removed unverified claim about the City's density bonus application form; Coastal staff tie the 15/24/44 percent tiers to State law and the Downtown amendment, not to the inclusionary ordinance.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Escondido",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Escondido Successor Housing Agency (Resolution 2012-16) recycled redevelopment housing funds and affordable housing development assistance (Housing Element Program 2.8)",
+      "administering_agency": "City of Escondido Housing and Neighborhood Services Division acting for the Successor Housing Agency to the former Community Development Commission; City Council sits as the Successor Agency",
+      "funding_type": "loan",
+      "typical_award_size": "Gap loans from the Low and Moderate Income Housing Asset Fund (former CDC loans, rents, note repayments and interest; $1,203,205 deposited in FY 2023-24). Available funds were $9,709,773 as of July 1, 2023 (after $38.9M loans receivable and $0.9M land), and the SB 341 report shows an excess surplus of $4,375,086. Recent commitments: $1,000,000 to Veterans Village (54 units, 2019 RFP) and $4,000,000 to Valley Senior Village (50 units, 25 for homeless households, loan agreement December 6, 2021, complete). Funds are awarded through periodic City RFPs; the FY 2023-24 report says the City intended to release an RFP in FY 2025 pairing SHA funds with $1.5 million of HOME-ARP. Housing Element Program 2.8 lists Recycled RDA Funds with LIHTC, CalCHA bonds, CalHFA, CalHome, PLHA and HOME.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "LMIHAF rules (80 percent AMI maximum, 30 percent of expenditures to 30 percent AMI units over five year periods); 55 year covenants typical.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. Watch for the next Housing and Neighborhood Services RFP; a HOME substantial amendment for Valley Creek Apartments (136 senior units) was noticed for March 25, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small pool (balance not confirmed; SB 341 report link on the City page was broken). Stacks with City HOME (separate record), County HCDS NOFA 2026-03 (Escondido projects are eligible for County IHTF), HACSD project-based vouchers and state density bonus. Escondido has no inclusionary ordinance (Program 2.9 feasibility study triggered by the 2023 APR) and no housing trust fund. Read the Housing and Neighborhood Services page on escondido.gov, the 2023 Annual Progress Report staff report and the draft 2021-2029 Housing Element on escondido.gov.",
+      "source_url": "https://escondido.gov/214/Housing-Neighborhood-Services",
+      "record_id": "aeb284c098",
+      "cycle_notes": "Periodic RFPs rather than a fixed annual round (March 2019, March 2020; RFP planned for FY 2024-25 with HOME-ARP). The City's HOME page says development funds are released through periodic RFPs.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "SB 341 report link on the City page returns 404; the FY 2023-24 report was opened directly at DocumentCenter/View/7844.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Escondido",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Density Bonus and Residential Incentives Ordinance (Escondido Zoning Code Article 67, Sections 33-1410 to 33-1421) and Development Fee Deferral Policy",
+      "administering_agency": "City of Escondido Development Services Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Article 67 grants state law density bonuses (up to 50 percent; 80 percent or unlimited for 100 percent affordable projects) and incentives and concessions to projects of five or more units (three or more in some areas), including student housing and child care provisions, in-lieu incentives of equivalent land value, land donation bonuses and a sliding scale (one percent bonus per one percent increase above the 10 percent very low income minimum); amended in 2020, 2021 and 2022 for AB 2345. Agreement processing and administrative fee apply (33-1421). The 2012 Development Fee Deferral Policy lets residential projects of five or more units defer development fees to occupancy (up to one year from permit). Density transfer programs exist in the Downtown and East Valley Specific Plan areas (Resolution 2019-69; Ordinance 2023-10).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 tiers; affordability tenure per 33-1418 (55 years rental).",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; density bonus request form on escondido.gov. A zoning ordinance update with lot consolidation incentives was planned for 2025; confirm current Article 67 text with Planning.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "State conforming with no local fee waiver: a 2024 staff report noted neither state law nor the Municipal Code requires the City to give direct financial assistance to density bonus projects. The fee deferral is the only fee relief. Escondido is not on HCD's Prohousing list (as of August 10, 2026). Pair with City HOME and recycled RDA funds (separate records) and County HCDS NOFA. Article text read on the zoneomics code mirror; Housing Element and APR read on escondido.gov.",
+      "source_url": "https://www.zoneomics.com/code/escondido-CA/chapter_67",
+      "record_id": "5e12280e1f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "supportive housing",
+        "condominium conversions"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: Article 67 confirms 5 unit applicability (3 in South Centre City Specific Plan), 50 percent cap, 80 percent and no density maximum near transit for 100 percent affordable, student and child care provisions, 55 year tenure (33-1418) and administrative fee (33-1421). Sliding scale wording in the record is imprecise: per state tables it is 2.5 percent per 1 percent above 5 percent very low, 1.5 percent per 1 percent above 10 percent low, and 1 percent per 1 percent above 10 percent moderate. Article also amended by Ord. 2023-06 and Ord. 2025-01 (May 7, 2025). Prevailing wage false is uncited; density bonus is not public funding.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Escondido",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Essential Middle Income Rental Housing Program (California Community Housing Agency JPA membership, January 13, 2021; Housing Element Program 2.3)",
+      "administering_agency": "City of Escondido Housing and Neighborhood Services Division with the California Community Housing Agency (CalCHA)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Not a direct subsidy. As a CalCHA member, the City allows CalCHA to acquire existing market rate apartment communities with governmental purpose bonds; CalCHA's property tax exemption converts the complexes to rent restricted units for low, median and moderate income households up to 120 percent AMI with rents capped at 35 percent of the applicable AMI and annual increases capped at 4 percent; no displacement of existing tenants. Program 2.3 commits the City to identify properties for acquisition; no Escondido acquisition was confirmed this pass.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Low, median and moderate income households (up to 120 percent AMI); rent caps at 35 percent of AMI tier; terms per CalCHA regulatory agreement.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; CalCHA transactions depend on bond market conditions and City host approval of each acquisition.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Middle income JPA structure, not stackable with LIHTC. Useful only for workforce housing acquisitions; the City forgoes its share of property tax. The welfare exemption for nonprofit LIHTC owners (county record) remains the tax tool for deed restricted projects. Read in the draft 2021-2029 Housing Element on escondido.gov; program status not confirmed.",
+      "source_url": "https://www.escondido.gov/DocumentCenter/View/1826/Draft-Sixth-Cycle-of-the-Housing-Element-PDF",
+      "record_id": "ed6e6eeab9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Housing Element Program 2.3 matches the record. No CalCHA acquisition in Escondido was found; trade press reports 2021 middle income acquisitions in Escondido through CSCDA (Waterford, 314 units) and CMFA (Latitude33, 198 units), not CalCHA (not confirmed on an official page).",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Carlsbad",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Carlsbad Housing Trust Fund gap loans (Inclusionary Housing in-lieu fees, housing credit purchases and housing impact fees; CMC 21.85.110 and 21.85.120)",
+      "administering_agency": "City of Carlsbad Housing and Homeless Services Department (Mandy Mills, Director); recommendations by the Housing Commission, approvals by City Council",
+      "funding_type": "loan",
+      "typical_award_size": "Residual receipts gap loans typically $500,000 to $4.25M per project. June 9, 2026: Council Resolutions 2026-107 and 2026-108 authorized sale of the City-owned 945 Chestnut Avenue (Chestnut Apartments) to The Chestnut Apartments, LP (Kingdom Development) through a carryback loan at appraised value plus a Housing Trust Fund loan not to exceed $850,000 for rehabilitation gap financing (Housing Commission Resolution 2026-004, May 14, 2026). Earlier: $4.25M residual receipts loan to Affirmed Housing (Windsor Pointe, about $8.3M total City assistance) and a 2025 $500,000 recommendation for West Oaks. Fund balance about $12.4M at October 30, 2020 (Housing Element); the FY 2025-26 Housing Trust Fund Annual Report was accepted by the Housing Commission October 8, 2026 (Resolution 2026-006). Fund sources: in-lieu fees ($4,515 per market rate unit as of 2020, fee study pending), sale of affordable housing credits, housing impact fees, loan interest and fund interest. The fund has helped produce about 2,300 affordable homes and leverages City money up to five times.",
+      "per_unit_cap": "None published; sized by pro forma review.",
+      "affordability_requirement": "55 year affordability for lower income households (up to 80 percent AMI; rents no more than 90 percent of the lower income limit rent per 21.85.040). Trust fund dollars may not be used to satisfy a project's own inclusionary requirement, only to exceed it.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026; there is no NOFA or deadline. Requests are taken on a rolling basis through Housing and Homeless Services staff, reviewed by the Housing Commission (meets second Thursday) and approved by City Council.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Carlsbad's trust fund is the best capitalized city fund in North County relative to deal flow, but Council has been selective (Chestnut, Windsor Pointe, West Oaks). Stacks with County HCDS NOFA 2026-03 IHTF and HOME Consortium funds (Carlsbad is in the County HOME Consortium and received County HOME for Vista Las Flores), HACSD or Carlsbad Housing Agency project-based vouchers, CMFA or CSCDA bonds and LIHTC. The CDBG-funded Housing Reserve Fund (separate record) can add acquisition money. carlsbadca.gov and its govaccess document host return 403 or time out; agendas were read on the City's Laserfiche WebLink (records.carlsbadca.gov) and the Housing Element on hcd.ca.gov. The annual report figures should be pulled from the October 2026 Housing Commission packet.",
+      "source_url": "https://records.carlsbadca.gov/WebLink/ElectronicFile.aspx?docid=10879105&dbid=0&repo=CityOfCarlsbad",
+      "record_id": "5530c0dd0e",
+      "cycle_notes": "Rolling, project-by-project requests; no NOFA.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Carlsbad",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance, Carlsbad Municipal Code Chapter 21.85 (Ordinance NS-535 as amended through CS-474, 2024), in-lieu fees and inclusionary housing credits",
+      "administering_agency": "City of Carlsbad Housing and Homeless Services Department and Community Development Department (Planning)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Residential developments of seven or more units must build and restrict at least 15 percent of total approved units (including density bonus units) for lower income households; off-site combined projects are allowed with Council approval and the percentage is computed on total units (market units divided by 0.85). Projects of fewer than seven units pay an in-lieu fee per market rate unit equal to 15 percent of the subsidy needed to make a typical new attached unit affordable to a lower income household ($4,515 as of 2020; schedule set by Council resolution; fee study authorized). Alternatives: off-site units, land dedication, contribution to special needs housing, purchase of surplus affordable housing credits from Villa Loma and other combined projects, and inclusionary credit schedules for units serving lower tiers. Offsets (21.85.100): the City may grant density increases, standards modifications, fee waivers and subsidies at its discretion. Rental inclusionary units required since 2017 (CS-324) after the 2010 Palmer suspension. The ordinance has produced 1,708 affordable units.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Lower income households (up to 80 percent AMI); rental units restricted 55 years with rents no more than 90 percent of the lower income limit; for-sale units resale restricted.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement through an Affordable Housing Agreement (21.85.140) before final map or building permit; in-lieu fee per Council resolution schedule, assessed on market rate units at building permit.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fees and credit sales fund the Housing Trust Fund (separate record). Density bonus units count in the 15 percent base, which makes Carlsbad's requirement stricter than the state density bonus tiers; the inclusionary units themselves qualify the project for state density bonus incentives (CMC 21.86, separate record). Master and specific plans must carry inclusionary provisions (21.85.035). Code read on the zoneomics mirror; Housing Element Program 2.1 on hcd.ca.gov.",
+      "source_url": "https://www.zoneomics.com/code/carlsbad-CA/chapter_56",
+      "record_id": "6e038192a3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental and for-sale projects of 7 or more units (compliance)",
+        "mixed-income projects",
+        "land dedication sites"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Carlsbad",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Carlsbad Density Bonus Ordinance, Carlsbad Municipal Code Chapter 21.86 (Ordinance CS-382, 2020; CS-426, 2022)",
+      "administering_agency": "City of Carlsbad Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Implements Government Code 65915 (bonus, incentives, concessions, waivers, parking ratios) with a density bonus plan submittal, staff review fee set by Council resolution, Local Coastal Program consistency findings and an affordable housing or senior housing agreement. Section 21.86.060 states nothing requires direct financial incentives (subsidies, public land, fee waivers or dedication waivers); the City may grant them at its sole discretion.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 tiers; 55 year rental affordability; applicant may accept a smaller bonus but not reduce required affordable percentages.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; coastal zone projects need Coastal Development Permit consistency.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement; Carlsbad's binding tool is the 15 percent inclusionary requirement (separate record), with the density bonus layered on top (inclusionary units qualify for state incentives). Housing Element Program 1.1 rezoned sites to R-35 and R-40 for RHNA. Carlsbad is not on HCD's Prohousing list (as of August 10, 2026). Code read on the zoneomics mirror.",
+      "source_url": "https://www.zoneomics.com/code/carlsbad-CA/chapter_57",
+      "record_id": "dc1c48d7b4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

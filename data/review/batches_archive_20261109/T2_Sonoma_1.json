@@ -1,0 +1,353 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "County Fund for Housing (CFH)",
+      "administering_agency": "Sonoma County Community Development Commission (CDC)",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2026-27 NOFA: $8,000,000 available (up from $1,500,000 in FY 2025-26 and $1.5M in FY 2024-25). FY 2025-26 awards: Freebird Development, Healdsburg, 42 units, $1,340,417; Burbank Housing, Guerneville, 21 units, $159,583. Minimum loan $100,000; maximum limited to one program year's funds unless the Board commits future years. Since 2003 the fund has invested over $24M in more than 550 homes.",
+      "per_unit_cap": "No fixed cap; CFH-assisted unit count is set using the HOME per-unit subsidy limits (0-bdrm $153,314 to 4-bdrm $303,490 as of Sept 2021).",
+      "affordability_requirement": "Rental: all assisted units affordable 55 years, initially to very low income (50% AMI), may float up to low income (80% AMI) on turnover. Priorities: most units at lowest incomes, geographic distribution across cities and unincorporated area, Housing Opportunity Sites, integration with health and human services, PSH and special needs. Homeownership: first-time buyers at or below 120% AMI with 20% of units at 80% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2026-27 NOFA issued Feb 21, 2026, applications due April 3, 2026 (mandatory TA workshop March 4 or 5), CD Committee recommendations May 13, Board adoption July 7, 2026. Next NOFA expected late February 2027 with an early April deadline; projects ready to proceed to construction get preference.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Sonoma's main local gap source, capitalized by County General Fund, Reinvestment and Revitalization Funds (former RDA), developer in-lieu fees from the residential Affordable Housing Program, non-residential Workforce Housing fees, countywide transient occupancy tax, and loan repayments. Residual receipts loans structured to be compatible with LIHTC investor requirements; interest set by the Commission. Awarded in one annual NOFA together with HOME, CDBG, ESG and LMIHAF so applicants file once. Funds may go to projects inside cities only where the city has a RHNA Sharing Agreement with the County (shelters and congregate facilities exempt). Sponsors must comply with the County Living Wage Ordinance; the policy is silent on prevailing wage, so the Labor Code 1720(c)(6)(E) below-market-loan exemption may apply unless HOME or CDBG is also used. The County does not act as a conduit bond issuer; recent Sonoma deals used CMFA (Burbank Housing $8.12M) and CalHFA. CFH awards are typically $1M to $3M and are counted as local leverage for CTCAC tiebreaker and CDLAC readiness.",
+      "source_url": "https://sonomacounty.gov/development-services/community-development-commission/divisions/community-development/funding-opportunities/county-fund-for-housing",
+      "record_id": "ff3f1c176b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-07-07",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "HOME Investment Partnerships Program, Sonoma Urban County",
+      "administering_agency": "Sonoma County Community Development Commission (CDC) for the Urban County",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2026-27 estimate: HOME $743,322 plus CHDO set-aside $99,090 (Consolidated Plan expects about $660,693 per year plus $60,000 program income). FY 2025-26: $495,519 HOME (George's Hideaway, Burbank Housing, $185,519; tenant-based rental assistance $310,000) plus $99,103 CHDO to George's Hideaway.",
+      "per_unit_cap": "HUD HOME per-unit subsidy limits (24 CFR 92.250).",
+      "affordability_requirement": "HOME rules: 20% of HOME units at 50% AMI (Low HOME rent), remainder at or below 60% AMI; affordability period 5 to 20 years by subsidy, CDC loan policies extend to 55 years. Ready-to-proceed projects preferred.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2026-27 round closed April 3, 2026. Next NOFA expected late February 2027, applications early April 2027; Board adopts the Action Plan in July. NEPA review and Section 3 and Build America Buy America compliance required before agreement.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Urban County entitlement area = unincorporated county plus Cloverdale, Cotati, Healdsburg, Rohnert Park, Sebastopol, Sonoma and Windsor; Santa Rosa and Petaluma are separate HUD entitlements (Pass 3). Small allocation (well under $1M a year), so HOME is usually a minor layer on one project per year alongside CFH and PLHA. Davis-Bacon applies at 12 or more HOME-assisted units. The County routinely uses HOME for TBRA, leaving even less for development. Programs are awarded in the single CDC NOFA with CFH and CDBG.",
+      "source_url": "https://sonomacounty.gov/notice-of-funding-availability-(nofa)-fiscal-year-(fy)-2026-2027",
+      "record_id": "00a65c3a30",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-04-03",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Community Development Block Grant (CDBG), Sonoma Urban County",
+      "administering_agency": "Sonoma County Community Development Commission (CDC) for the Urban County",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27 estimate: $3,145,583 for affordable housing projects, non-housing capital projects and microenterprise assistance, plus $247,872 for fair housing public services (the FY 2026-27 figure includes reprogrammed prior-year funds; the Consolidated Plan expects about $1.66M annual allocation). FY 2025-26: $1.88M total, with $941,605 to the countywide housing rehabilitation program and the rest to infrastructure and child care.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units for households at or below 80% AMI (51% of units in assisted rental projects); affordable housing projects ready to proceed to construction preferred.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2026-27 round closed April 3, 2026; next NOFA expected February 2027 (applications early April 2027).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Urban County entitlement area = unincorporated county plus Cloverdale, Cotati, Healdsburg, Rohnert Park, Sebastopol, Sonoma and Windsor; Santa Rosa and Petaluma are separate HUD entitlements (Pass 3). CDC lists affordable housing projects as a CDBG eligible use, but new construction remains limited by federal rules (CBDO carve-out) and most housing CDBG goes to the CDC's rehabilitation program and off-site infrastructure. Davis-Bacon applies at 8 or more units. Useful for site infrastructure or acquisition-rehab tied to a 4% deal.",
+      "source_url": "https://sonomacounty.gov/notice-of-funding-availability-(nofa)-fiscal-year-(fy)-2026-2027",
+      "record_id": "ca896eef59",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "new construction"
+      ],
+      "next_deadline_date": "2026-04-03",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Low and Moderate Income Housing Asset Fund (LMIHAF), Sonoma County Housing Successor",
+      "administering_agency": "Sonoma County Community Development Commission as housing successor to the former County redevelopment agency",
+      "funding_type": "grant",
+      "typical_award_size": "Up to $250,000 per year for homeless prevention and rapid rehousing services (FY 2025-26 and FY 2026-27 NOFAs). Fund balance available for all uses $2,509,338 at June 30, 2025; loans receivable $31.2M; FY 2024-25 expenditures $3.84M. Not currently offered for development.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Community Redevelopment Law housing provisions (very low and low income); current awards are homeless services, not capital.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Awarded in the CDC annual NOFA (FY 2026-27 closed April 3, 2026; next February 2027). Capital use would require a Commission decision; monitor the housing successor annual report.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Included so the fund is not mistaken for a development source: the County keeps LMIHAF for services and the former RDA Reinvestment and Revitalization money flows into CFH instead. Loan repayments from legacy RDA projects replenish the fund and could be redirected to capital in future years.",
+      "source_url": "https://sonomacounty.gov/Main%20County%20Site/Development%20Services/CDC/Documents/Successor%20Agency/Housing%20Successor%20Agency%20Annual%20Reports/Remediated_FY%2024-25%20Housing%20Successor%20Agency%20Annual%20Report.pdf",
+      "record_id": "8b40a193d2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-04-03",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers for Permanent Supportive Housing, Sonoma County Housing Authority",
+      "administering_agency": "Sonoma County Housing Authority (division of the CDC); jurisdiction is all of Sonoma County except the City of Santa Rosa",
+      "funding_type": "rental assistance",
+      "typical_award_size": "2025 PSH RFP: up to 100 project-based vouchers for studio, one- and two-bedroom PSH units in new construction or substantial rehab; applications were due June 24, 2025; 20-year HAP contract with automatic 20-year renewal; one-time $500 per voucher administrative fee plus billed-back environmental and legal review. Board of Commissioners committed 150 future PBVs to PSH (Nov 20, 2024) to support Homekey+ applicants. The authority administers about 2,988 vouchers and roughly $45M a year.",
+      "per_unit_cap": "HUD limits: 20% of voucher funding may be project-based plus 10% more for units serving homeless or other special populations; per-project cap of 25 units or 25% unless units serve elderly, disabled or supportive-services households.",
+      "affordability_requirement": "PSH for chronically homeless households referred through the Sonoma County Coordinated Entry System under its PSH prioritization policy; HCV income limits.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2025 RFP closed June 24, 2025. A further RFP for the 150 committed PSH vouchers is to be released 'when funding is available'; no 2026 RFP was posted as of 2026-11-06. Watch the CDC Doing Business page and HUD's 2026 pause on new PBV commitments.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "PBV HAP revenue is the operating subsidy that makes Homekey+, MHP supportive units and CFH-funded PSH underwritable in Sonoma; the 150-voucher commitment was adopted specifically to strengthen Homekey+ applications. Santa Rosa projects must use the Santa Rosa Housing Authority (Pass 3). Prior RFPs: 2018 and 2023 general rounds (up to 100 vouchers, $1,000 fee), 2022 existing-housing round (110 vouchers to 8 projects).",
+      "source_url": "https://sonomacounty.gov/Main%20County%20Site/Development%20Services/CDC/Documents/2025%20RFP%20for%20PSH%20PBV.pdf",
+      "record_id": "ea57d73b0b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Sonoma County Homeless Coalition (CoC CA-504) funding: HUD CoC competition and Homeless Services Consolidated NOFA (HHAP, ESG, HHIP)",
+      "administering_agency": "Sonoma County Department of Health Services, Homelessness Services Division, as CoC collaborative applicant",
+      "funding_type": "rental assistance",
+      "typical_award_size": "2026 HUD CoC competition: about $4.9M in renewal funding; HUD had not announced CoC Bonus or DV Bonus amounts; local applications due July 21, 2026. Annual Homeless Services Consolidated NOFA (state ESG, one-time HHAP, DHCS HHIP and local sources): about $5.5M expected in the 2025-26 cycle (applications due Feb 7, 2025). HHAP rounds 1 to 5 brought $32.2M to the Sonoma area; HHAP Round 5 allowed one CoC Builds PSH construction project.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Homeless households via Coordinated Entry; CoC PSH rental assistance and services; HHAP permits permanent housing capital as an eligible use.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026 CoC round closed July 21, 2026 (new project categories offered were TH, SSO and DV Bonus only; no new PSH). Next Consolidated NOFA expected January 2027 with a February deadline, based on the 2025 cycle. HHAP Round 6 and 7 disbursements flow through the County.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Operating-side partner for PSH: CoC rental assistance or HHAP operating subsidy can replace or supplement PBVs on supportive units. HHAP capital for permanent housing is allowed but Sonoma has directed most HHAP to shelter, outreach and rehousing. Developers should engage the Homelessness Services Division early so a PSH project appears in the CoC's regional action plan and Coordinated Entry referral agreements.",
+      "source_url": "https://sonomacounty.gov/2026-notice-of-funding-opportunity-coc-program-competition-and-sonoma-county-coc-request-for-proposals-(rfp)",
+      "record_id": "27dc1095a8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-07-21",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "RED Housing Fund (Renewal Enterprise District, PG&E wildfire settlement capital)",
+      "administering_agency": "RED Housing Fund, a nonprofit capitalized with $10M each from the County of Sonoma and the City of Santa Rosa (PG&E 2017 fire settlement), affiliated with the Renewal Enterprise District JPA",
+      "funding_type": "loan",
+      "typical_award_size": "Round 1 (Jan 2022 NOFA): about $20,000,000 in subordinate gap loans, designed to cover roughly 10% of cost on four or five higher-density projects and leverage $180M to $220M (known award: $2.4M to Aviara in Santa Rosa). Round 2 (NOFA issued March 4, 2026, applications due April 1, 2026): up to $5,000,000 in loans, recommendations expected by May 18, 2026. Interest rate, term and per-project maximum are in the NOFA PDF, not on the site.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Infill, mid- to high-density residential or mixed-use projects in transit-rich or planned areas meeting RED criteria; income mix may be affordable (up to 80% AMI), middle income (80% to 120% AMI), market rate, or mixed.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026 round closed April 1, 2026 (recommendations by May 18, 2026). Rounds have run in 2022 and 2026 as capital is repaid; no 2027 date announced. Email apply@redhousingfund.org for a secure upload link when a NOFA is open.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Lender of last resort (recycling repaid settlement capital) for projects the County and Santa Rosa want built in downtown Santa Rosa and other priority development areas; it accepts market-rate and middle-income deals that cannot use CFH or LIHTC. Capital is public settlement money, so prevailing wage exposure depends on loan terms. The separate private Sonoma County Housing Fund ($10M, Housing Trust Silicon Valley with the Santa Rosa Metro Chamber, predevelopment and acquisition loans up to five years) belongs in Pass 4.",
+      "source_url": "https://redhousingfund.org/notice-of-funding-availability/",
+      "record_id": "640605a12a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": "2026-05-18",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Rosa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Santa Rosa Housing Trust annual Notice of Funding Availability (Housing Authority affordable housing loans: local Housing Trust, CDBG, PLHA and Prohousing Incentive Program funds)",
+      "administering_agency": "Housing Authority of the City of Santa Rosa, Housing and Community Services Department (Santa Rosa Housing Trust)",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2026-27 NOFA (issued May 1, 2026, due June 5, 2026): about $3.6 million, made up of about $1,399,000 local Housing Trust funds, $1,056,071 CDBG and $1,187,500 state Prohousing Incentive Program (PIP) funds; two applications received for $4 million and 93 units; August 24, 2026 awards: $2,000,000 to Ponderosa Village Phase II (CRDC and Danco, 30 units, 250 Roseland Ave) and $1,642,571 to Caritas Homes Phase II (360 Seventh St). FY 2025-26 NOFA: about $3.5 million (about $2,210,500 local, $1,082,310 CDBG); awards Sept 2025: $489,228 Zane-Wolff Veterans Village rehab, $1,238,310 Apple Valley Scattered Sites rehab, $2,000,000 Ridley Family Apartments (50 units). FY 2024-25: about $3.1 million for 170 units. Local Housing Trust revenue is one half of the City's real property transfer tax allocation ($2.275 million total in FY 2026-27, split equally with Homeless Services) plus housing impact fees and commercial linkage fees (about $1.44 million collected in 2025). Application fee $2,203.",
+      "per_unit_cap": "No published per-unit cap; awards sized by gap and scored on a 100-point system (affordability 20, developer experience 15, special needs 12, readiness 10, leveraging 10, TCAC/CDLAC competitiveness 10, bedrooms 8, services 7, other 5, amenities 3). Requests have run $0.5 million to $2 million per project.",
+      "affordability_requirement": "Units restricted to extremely low, very low and low income households up to 60% AMI (unless another source restricts further) for 55 years from initial occupancy under a recorded Regulatory Agreement. Standard loan: 3% simple interest, principal and interest deferred 55 years, residual receipts split 75% to the Authority and 25% to the developer.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2026-27 round closed June 5, 2026 and was awarded August 24, 2026. Next NOFA expected about May 2027 with an early June 2027 deadline, after a Housing Authority priorities study session in April 2027. Projects must start construction within 12 months of award or funds are rescinded. Contact housingtrust@srcity.org, Rebecca Lane (707) 543-3300.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "This is the primary local gap source inside Santa Rosa city limits and is separate from the County CFH, County HOME/CDBG (Santa Rosa is its own CDBG entitlement and is not in the Urban County) and County PLHA records. Santa Rosa is also a HOME participating jurisdiction and has run a continuous HOME NOFA in the past (2020); HOME TBRA guidelines were revised September 2026. The City's own PLHA 2024-2028 allocation (separate record) and the $1.25 million PIP grant (accepted April 7, 2026, must be spent by June 30, 2028) are folded into this NOFA, so a single application reaches all City sources; applicants cannot pick the source. Typical stack: City NOFA loan plus RED Housing Fund (county record) plus County CFH or PBVs, then 4% or 9% LIHTC. The FY 2026-27 round had a five-point preference for rehabilitation and a five-point deduction for applicants that previously declined or failed to close an award. Prevailing wage: the NOFA requires compliance with California prevailing wage and, for federal funds, Davis-Bacon. Note the City's Capital Facilities Fee pilot waiver (separate record) is not available to units receiving City or Housing Authority loan funds, so developers must choose between the fee waiver and NOFA funds. Access notes: srcity.org returns 403 to scripts; records were read from the Legistar web API (client santa-rosa) and legistar.granicus.com attachments, and the ca-santarosa.civicplus.com mirror for some pages.",
+      "source_url": "https://legistar.granicus.com/santarosa/attachments/b3d1890e-abad-405d-b6fe-7256e122c83c.pdf",
+      "record_id": "7eb171a8ae",
+      "cycle_notes": "spring",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-08-24",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Rosa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), City of Santa Rosa formula allocation and 2024-2028 PLHA Plan",
+      "administering_agency": "City of Santa Rosa Housing and Community Services Department; loans awarded by the Housing Authority through its NOFA",
+      "funding_type": "loan",
+      "typical_award_size": "Five-year 2024-2028 formula allocation of up to $3,046,056 ($487,369 for 2024 and $522,044 for 2025 applied for after an October 13, 2026 public hearing); up to 5% ($152,303) for administration. The prior 2019-2023 allocation of $4,012,612 was committed to four projects totaling 196 units. Funds are loaned at 3% simple interest, deferred, repaid from surplus cash, secured by deed of trust and regulatory agreement.",
+      "per_unit_cap": "None published; sized within the annual NOFA.",
+      "affordability_requirement": "Priority for multifamily rental housing affordable to households at or below 60% AMI (predevelopment, development, acquisition, rehabilitation and preservation); PLHA statute allows up to 120% AMI for some activities. Preference for the most units at the deepest affordability.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PLHA dollars are released through the Housing Authority's annual NOFA (next expected May 2027). HCD standard agreement for the 2024 and 2025 allocations was pending after the October 13, 2026 Council action; later years require annual HCD applications.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Santa Rosa is a direct PLHA entitlement recipient, so its allocation is separate from the County PLHA record (which covers the unincorporated area and non-entitlement cities such as Sonoma and Rohnert Park). Petaluma also receives its own PLHA (see Petaluma record). Because PLHA, CDBG, PIP, HOME and local Housing Trust money all flow through the same NOFA, one application reaches all City sources. Read from the Council staff report and Exhibit A PLHA Plan on the City's Legistar agenda host (matter 26-0770).",
+      "source_url": "https://legistar.granicus.com/santarosa/attachments/cbff409c-b8cf-4067-89f2-f12cfe721295.docx",
+      "record_id": "77adf4c320",
+      "cycle_notes": "spring",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-10-13",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

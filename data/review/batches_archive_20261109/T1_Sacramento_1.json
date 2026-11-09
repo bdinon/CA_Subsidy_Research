@@ -1,0 +1,240 @@
+[
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption processing, Sacramento County Assessor",
+      "administering_agency": "Sacramento County Assessor, Institutional Exemptions Section (BOE issues the Organizational Clearance Certificate)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Exemption of the qualifying low-income share of assessed value from the roughly 1.1% to 1.2% total property tax rate in Sacramento County (plus any direct levies that remain). Annual filing with the Assessor.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per state law: lower-income units (80% AMI, 140% continuation rule) under LIHTC or a recorded regulatory agreement; limited partnerships need a nonprofit or eligible LLC managing general partner with an OCC and a Supplemental Clearance Certificate.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Annual claims due February 15 (next Feb 15, 2027; postmark next business day if a weekend or holiday). First-time filers submit BOE-267 with the BOE-277 OCC and the low-income supplemental affidavit (BOE-267-L or 267-L1 for partnerships). Contact (916) 875-0720 or ASR-InstitutionalExemptions@saccounty.gov.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Sacramento assessor applies the statewide rules (see Pass 1 BOE record); no county-specific abatement JPA exists. SHRA bond policy 9.1.11 additionally requires the nonprofit owner to have material day-to-day involvement (services, management or maintenance) for bond-financed projects claiming the exemption, which aligns with BOE managing-GP scrutiny. File the construction-period claim as soon as the OCC is issued and the site is under development to avoid a year of taxes.",
+      "source_url": "https://assessor.saccounty.gov/content/assessor/us/en/exemptions/nonprofit-exemptions.html",
+      "record_id": "74e5c6e1ab",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Elk Grove",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "needs_confirmation",
+      "program_name": "Elk Grove Permanent Local Housing Allocation (PLHA) and CDBG entitlement funds for affordable housing",
+      "administering_agency": "City of Elk Grove Housing and Public Services Division",
+      "funding_type": "grant",
+      "typical_award_size": "Not verified this pass. Elk Grove is believed to receive its own CDBG entitlement and a PLHA formula allocation (a December 2024 Council resolution referencing the 2024 PLHA NOFA appeared in search results) and is not in the Sacramento County HOME Consortium (members per the Citrus Heights 2024 Action Plan: County, City of Sacramento, Citrus Heights, Rancho Cordova). Amounts and multifamily eligibility unknown.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA: per the City's HCD-approved five-year plan; CDBG: HUD rules.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "unknown, verify with agency",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Recorded so the Elk Grove layer is complete; the City's housing pages (elkgrove.gov/affordable-housing) return 403 to automated access and the Council resolution PDFs moved off the old elkgrovecity.org paths. Confirm with Housing and Public Services, (916) 683-7111, whether PLHA is pooled with Affordable Housing Fund RFPs.",
+      "source_url": "https://elkgrove.gov/affordable-housing/developers",
+      "record_id": "e322986dfe",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rancho Cordova",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "needs_confirmation",
+      "program_name": "Rancho Cordova Housing Trust Development Impact Fee (Municipal Code Chapter 16.89) and city affordable housing gap financing",
+      "administering_agency": "City of Rancho Cordova Housing Division (Community Development)",
+      "funding_type": "loan",
+      "typical_award_size": "Not verified this pass. Rancho Cordova levies a housing trust development impact fee on nonresidential development (Chapter 16.89, confirmed by title in search results and by Sacramento County's Housing Trust Fund page listing Rancho Cordova among five cities with similar fees). Current rates, fund balance and loan terms unknown. The City's PLHA plan directs 100% of its PLHA allocation to gap financing for new affordable and permanent supportive housing (search snippet, document not opened).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Unknown; expected low and very low income per nexus.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "cityofranchocordova.org and codepublishing.com return 403 to automated access and the City's Legistar instance has no public API, so this record is a placeholder. Rancho Cordova is in the Sacramento County HOME Consortium (SHRA-administered) and is a CDBG entitlement city that runs an annual CDBG NOFA (a 2026 CDBG NOFA workshop was listed on the City's housing page per search results). Recent City-supported deals include Mather Veterans Village Phase 4 and The Liora (ministerial design review 2026). Confirm fee schedule, fund balance and any NOFA with the Housing Division via the City's main line (916) 851-8700.",
+      "source_url": "https://planning.saccounty.gov/Programs/Pages/HousingTrustFundProgram.aspx",
+      "record_id": "f0fe655a96",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rancho Cordova",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Housing Plan requirement for new growth areas (Housing Element policy, south of Highway 50)",
+      "administering_agency": "City of Rancho Cordova Planning Department and Housing Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Per the May 6, 2026 Keyser Marston survey prepared for Sacramento County, Rancho Cordova has no formal inclusionary ordinance but its Housing Element requires new residential projects in newly developing areas (generally south of Highway 50, mostly high-resource areas) to include an Affordable Housing Plan showing how the project contributes to affordable housing production; compliance options are on-site units, land dedication, rehabilitation of existing affordable units, or in-lieu fees negotiated through development agreements for master plans and specific plans.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Set project by project in development agreements; no fixed percentage.",
+      "eligible_project_types": [
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at specific plan or development agreement approval.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "For affordable developers the practical effect is land: master plan developers (Rio del Oro, Suncreek, Arboretum, Westborough, etc.) often satisfy the plan by dedicating sites or paying negotiated fees, which creates site opportunities and sometimes developer contributions for 9% and 4% deals. Source is a county consultant memo; the City's Housing Element text was not opened because the City site blocks automated access.",
+      "source_url": "https://development.saccounty.gov/content/dam/cd/planning/docs/projects/long-range/SACOG-Region-Comparison-Memo_5-6-26.pdf",
+      "record_id": "27aad75ad0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate master plans (compliance)",
+        "mixed-income projects",
+        "land dedication sites"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Citrus Heights",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Citrus Heights Affordable Housing Fee on commercial development (Resolution 2022-048) and City Housing Trust Fund",
+      "administering_agency": "City of Citrus Heights Housing and Grants Division (fund); Building Division (fee collection)",
+      "funding_type": "other",
+      "typical_award_size": "Fee source, not a subsidy program with published terms. Per the July 9, 2026 development impact fee sheet: office (including medical and assisted living) $1.95, hotel $2.35, commercial and retail $1.77, industrial (flex and R&D) $1.67 per square foot on new commercial construction of 5,000 square feet or more or added commercial square footage; residential is exempt. Rates were raised in June 2022 to the regional average after no update since 1992. Revenue goes to the City Housing Trust Fund administered by the Housing and Grants Division; fund balance and any lending terms not published.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Unknown; linkage fee funds are for very low income housing per the original 1992 ordinance title (Nonresidential Construction Fees for Funding Very Low Income Housing).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found; projects should approach the Housing and Grants Division directly, (916) 727-4830, housing@citrusheights.net.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Citrus Heights has no inclusionary ordinance and no residential affordable housing fee, and no city fee waiver program for affordable units was found; the fee sheet also lists multimodal ($1,591 per multifamily unit), park, Measure A transportation, drainage, sewer, school and fire fees that apply to apartments. The trust fund is small because the city is built out with little new commercial construction; the realistic city layer is the CDBG, HOME Consortium and PLHA record below plus SHRA bonds under a cooperation agreement.",
+      "source_url": "https://www.citrusheights.net/DocumentCenter/View/21440",
+      "record_id": "46a69bde4c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Citrus Heights",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Citrus Heights CDBG entitlement, Sacramento County HOME Consortium share, and Permanent Local Housing Allocation (PLHA)",
+      "administering_agency": "City of Citrus Heights Housing and Grants Division (CDBG and PLHA); SHRA administers the HOME Consortium",
+      "funding_type": "grant",
+      "typical_award_size": "CDBG: about $600,000 a year in entitlement funds plus about $50,000 program income (2024 Action Plan), used mostly for public improvements, public services (15% cap, competitive round each summer) and a housing rehabilitation revolving loan fund. HOME: the City is a member of the Sacramento County HOME Consortium with the County, City of Sacramento and Rancho Cordova; its consortium share funded $3,580,000 to the 47-unit Sunrise Pointe permanent supportive housing project (approved 2018, completed August 2023). PLHA: $1,876,554 five-year allocation from HCD, partly for the Sayonara Drive redevelopment project and a navigator program.",
+      "per_unit_cap": "HOME units capped by 24 CFR 92.250.",
+      "affordability_requirement": "Per federal and PLHA rules; HOME at or below 60% AMI with 20% of HOME units at 50% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "CDBG public service applications are due in early August each year (2027 round announced); capital and housing allocations are negotiated through the Annual Action Plan (public hearing each October for the following calendar year). Multifamily HOME requests go through SHRA's two-round schedule with a Citrus Heights consortium set-aside, confirm with SHRA (916) 440-1393.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The HOME Consortium share is the only meaningful city-level capital source: Citrus Heights directed its share to Sunrise Pointe via SHRA rather than running its own NOFA. CDBG is largely spent on infrastructure and services. Federal funds trigger Davis-Bacon (HOME at 12 or more units, CDBG at 8 or more) and NEPA. Sayonara Drive is a City-led acquisition and redevelopment site that may seek a development partner.",
+      "source_url": "https://www.citrusheights.net/DocumentCenter/View/20610",
+      "record_id": "ce25a9e63c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  }
+]

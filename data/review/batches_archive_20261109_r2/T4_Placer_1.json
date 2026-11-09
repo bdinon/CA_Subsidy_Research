@@ -1,0 +1,120 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "County affordable housing gap loans funded by Affordable Housing in-lieu fees (Hope Way and Destination at Placer One commitments)",
+      "administering_agency": "Placer County Executive Office, Economic Development and Housing Division (Gloria Stearns, Director; Nikki Streegan, Housing Manager); 145 Fulweiler Avenue #100, Auburn; (530) 886-2642; housing@placer.ca.gov",
+      "funding_type": "loan",
+      "typical_award_size": "Project-by-project Board commitments, no NOFA. On August 25, 2026 the Board approved a Funding Commitment Letter for Hope Way Apartments Phase 1 (Penryn 721, L.P., an affiliate of USA Properties Fund; 132 units of a 240-unit entitlement at 3130 Penryn Road) for a loan of up to $7,260,000 at 3% simple interest over 55 years, funded by affordable housing in-lieu fees (reported as Bickford Ranch in-lieu fees), and a Preliminary Funding Letter for Destination at Placer One (360 units north of Roseville) framing a potential $8,900,000 loan at 3% simple interest for which no funding source has been identified. Earlier County loans include Sabre City (Parkside at Sabre City, 44 homes with ADUs, Housing Trust Placer) and $500,000 in 2025 to a North Lake Tahoe housing trust.",
+      "per_unit_cap": "None stated. Hope Way works out to about $55,000 per Phase 1 unit; Destination at Placer One to about $24,700 per unit.",
+      "affordability_requirement": "Set in each Funding Agreement and Use Deed Restriction: tax credit income tiers (30% to 80% AMI), 55-year term, and the Placer County Affordable Housing Priority Applicant Policy (adopted May 12, 2026, effective July 1, 2026) giving preference to current residents, local workers and past residents of Placer County or the Tahoe Truckee Unified School District area for new deed-restricted units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Developers request a commitment letter through the Economic Development and Housing Division and the Board acts on each project; Hope Way's Funding Agreement, Deed of Trust and deed restriction follow the commitment letter, and both 2026 projects still must win tax credits. The Board's Ad Hoc Committee for Housing Funding and Fee Implementation is working on new funding sources, and the nexus study update that would raise the in-lieu fee was due to the Board in 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. Placer County's only gap money is the pool of in-lieu fees collected under its 2020 Affordable Housing and Employee Accommodation Ordinance, and the Board has committed most of it: Hope Way Phase 1 ($7.26 million) exhausted the identified balance, and Destination at Placer One is waiting on a source (a supervisor noted the County has never used General Fund for affordable housing loans). Terms are 3% simple, 55 years, residual receipts style repayment. Expect Board politics: Hope Way needed appeals, a 3-2 vote in December 2025 and a lawsuit settlement cutting it to 132 units with a four-year pause on the rest. The County's 2025-2029 Housing Action Plan targets 1,300 units by mid-2029, and the Prohousing Designation (reapplying fall 2026) gives projects state scoring advantages. Cities (Roseville, Rocklin, Lincoln, Auburn) run their own funds and are Pass 3.",
+      "source_url": "https://ceqanet.lci.ca.gov/2026090089",
+      "record_id": "aa83f4b203",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Roseville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Roseville 10% Affordable Housing Goal in Specific Plan Areas (General Plan Policy LU5.5, Housing Element Programs 6 and 9) with Affordable Housing Regulatory Agreements and case-by-case in-lieu fees",
+      "administering_agency": "City of Roseville Housing Division (compliance) and Development Services Department, Planning Division (specific plans)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Every specific plan area must designate 10% of total units as affordable (General Plan goal since 1989: 20% of the affordable units at middle income up to 100% AMI, 40% low income up to 80% AMI, 40% very low income up to 50% AMI), allocated to specific medium and high density parcels and secured by Development Agreements and Affordable Housing Regulatory Agreements recorded before building permits or final small-lot maps. Since 1989 the policy has produced 5,167 affordable units (1,357 very low rental, 2,271 low rental, 427 middle rental, 325 moderate rental, plus 787 purchase units), about 140 per year. The City has no formal in-lieu fee ordinance; in-lieu fees are negotiated case by case ($1,036,410 collected 2013 to 2021). A 2025 Housing Tools Inclusionary Housing Policy Analysis recommended standard fee levels, for example $150,000 per required affordable for-sale unit in projects under 20 units, applied in the East Street Subdivision amendment approved November 4, 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Rental units restricted by Affordable Rental Housing Agreements (about 2,700 units under agreement in the 2021 to 2029 period); density bonus (Chapter 19.28) may be assigned by the Regulatory Agreement as part of the subsidy. Sierra Vista Specific Plan: 10% of 8,679 units (about 868) allocated to MDR and HDR parcels, with transfers and credits between parcels allowed by Housing Division approval.",
+      "eligible_project_types": [
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at specific plan and Development Agreement approval; the in-lieu fee option is considered case by case at agreement amendment. The 2021 Housing Element also directs work on a commercial linkage fee (nexus study November 2021, draft ordinance posted, not adopted as of this pass).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The reason Roseville has a steady supply of affordable parcels and developers: specific plan landowners (Sierra Vista, West Roseville, Amoruso Ranch, Villages West and others) carry a 10% obligation and typically deliver dedicated HDR parcels or partner with USA Properties, Mercy Housing, St. Anton, Eden Housing and others. Hope Way and the County in-lieu fee program (County Code Chapter 15.65) apply only in unincorporated Placer; inside Roseville this goal and the Regulatory Agreements govern. In-lieu fees collected flow to the Local Housing Trust Fund (record above). Density bonus units are excluded from the 10% base. Verified from the adopted 2021 Housing Element PDF, the Sierra Vista Specific Plan Affordable Housing chapter and the November 4, 2026 Council packet.",
+      "source_url": "https://www.roseville.ca.gov/Documents/Development%20Services/Planning/Housing%20Element/Housing%20Element.pdf",
+      "record_id": "66ee68fed2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate specific plan builders (compliance)",
+        "mixed-income projects",
+        "affordable parcels dedicated inside specific plans"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Roseville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Roseville Housing Successor Low and Moderate Income Housing Asset Fund (SB 341 reports; Housing Element Program 12)",
+      "administering_agency": "City of Roseville acting as Housing Successor to the former Redevelopment Agency; Housing Division",
+      "funding_type": "loan",
+      "typical_award_size": "Small gap loans and Homeless Prevention and Rapid Rehousing grants. Fund balance $2,379,350 at June 30, 2025 (FY2024-25 deposits $1,032,069, including $737,249 from the 20% share of City loan payoffs; FY2024-25 expenditures $434,196 with $0 for development). Past development loans: $5,760,000 to Mercy Housing for 623 Vernon Street (58 units, 2016 to 2018), $600,000 deferred loan to Junction Crossing (80 units, approved October 20, 2021), $500,000 to Hampstead's Prospera at Fiddyment workforce housing (104 units, approved April 3, 2024). HPRR spending is capped at $250,000 per year; on September 2, 2026 Council budgeted $1,250,000 from the fund for FY2026-27 together with $1,374,763 of PLHA.",
+      "per_unit_cap": "None stated; past loans ranged from about $4,800 to $99,000 per unit.",
+      "affordability_requirement": "Health and Safety Code 34176.1 targeting: development money must serve households at or below 80% AMI, with at least 30% spent on 30% AMI households and no more than 20% on 60% to 80% AMI; 55-year covenants used; no senior-only restriction issue (0% of assisted units senior-restricted in the last 10 years).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "rental assistance"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; developers approach the Housing Division. Revenue is only loan repayments (projected through 2036), so expect commitments of a few hundred thousand dollars per project. The FY2025-26 SB 341 report is due by December 31, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Roseville is the only Placer jurisdiction with a Housing Successor fund actively lending (Lincoln has a Redevelopment Successor Agency but no housing fund activity was found; Rocklin's Low/Mod Housing Fund is described under its Affordable Housing Incentive Program). Stacks with LHTF and PIP money (record above), PLHA, county in-lieu fee loans and LIHTC. Excess surplus test: the balance must stay under the greater of $1,000,000 or four years of deposits, which pushes the City to commit funds. Read from the FY2024-25 SB 341 Report of Required Information posted on the Affordable Housing Funds page.",
+      "source_url": "https://www.roseville.ca.gov/24-25%20Report%20of%20Required%20Information.pdf",
+      "record_id": "b05d6694e4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeless prevention and rapid rehousing"
+      ],
+      "next_deadline_date": "2026-12-31",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  }
+]

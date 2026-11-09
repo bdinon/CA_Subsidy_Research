@@ -1,0 +1,781 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County formula allocation and PLHA development loans",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (HWS)",
+      "funding_type": "loan",
+      "typical_award_size": "HCD formula allocation to the County: $2,805,041 (2024 allocation year), $3,004,612 (2025), estimated $17,531,506 for the 2024-2028 five-year plan. Uses in 2026: PLHA loan of $500,000 to Arroyo Crossing Phase I, Indio (184 units; February 10, 2026), PLHA loans to Villa Verde Apartments, Coachella (March 3, 2026) and Palm Villas at State Phase I, Hemet (October 6, 2026), about $1.8 million for Shady Lane Mobile Home Park in Thermal, and a PLHA down payment program (up to $100,000 or 20% of price, combinable with HOME to $200,000, households to 120% AMI).",
+      "per_unit_cap": "Not published; PLHA loans have been $500,000 per project.",
+      "affordability_requirement": "Arroyo Crossing terms: 49% of non-manager units (89) restricted to very low and low income with at least 20% of PLHA units (17) at very low income, 55-year covenant to at least July 1, 2080, 3% simple interest, annual payments from 25% of residual receipts shared with other public lenders.",
+      "eligible_project_types": [
+        "new construction",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standing PLHA NOFA; HWS commits PLHA to projects in the HACR PBV pipeline by Board action. Contact HWS Community and Housing Development.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. PLHA is the County's most flexible recurring source but is spread thin across homebuyer assistance, mobile home parks and $500,000 loans to tax credit deals; it is typically the smallest piece of a stack led by 4% credits, HACR PBVs and a HOME or HOME-ARP loan. Source is the Arroyo Crossing PLHA loan Board file (loan agreement FileOpen ID 85874); allocation figures from the HCD 2024-2028 PLHA NOFA tables.",
+      "source_url": "https://riversidecountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=29098",
+      "record_id": "1f1d943711",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "mobile home park preservation",
+        "down payment assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: IQM2 file 29098 and Form 11 confirm the $500,000 PLHA loan to Arroyo Crossing I (184 units, 89 PLHA units at or below 80% AMI, 17 at or below 50% AMI, 55 years). Allocation amounts and other 2026 loans not re-checked. Prevailing wage true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "HHAP Rounds 5 and 6, County of Riverside and Riverside City and County CoC (CA-608)",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (HWS), Office of Homeless Services, as CoC lead and administrative entity",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 allocations accepted September 15, 2026 (period ending June 30, 2030): County of Riverside $4,848,492.04 and Riverside City and County CoC $5,178,272.86; the City of Riverside receives its own $10,354,725.71. HHAP-5: CoC $5,356,513.81 (accepted July 29, 2025, through June 30, 2029) plus the County allocation, passed through in part to HACR for operating subsidies ($893,121.16), rapid rehousing ($2,479,211.10) and prevention through June 30, 2028; HHAP rounds 1 to 3 totaled $9,630,587 for the CoC and County and were redistributed in December 2024.",
+      "per_unit_cap": "Not applicable; operating subsidies for PSH are contracted through HACR.",
+      "affordability_requirement": "Housing First and HHAP eligible uses; regional action plan priorities set by the CoC.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open local HHAP round as of November 8, 2026. HHAP Round 7 is distributed as additional Round 6 disbursements to the County and CoC, with no new state application; local subrecipient selection follows the County HHAP templates.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. HHAP in Riverside County is an operating and services source: the County routes it through HACR as operating subsidies on PBV projects rather than funding capital, so developers should ask HACR for an HHAP operating subsidy commitment alongside PBVs. The CoC also distributes HUD CoC Program funds (2025 ESG awards of $738,124 accepted October 6, 2026) and the County runs Encampment Resolution Funding through RUHS Behavioral Health. Source is the September 15, 2026 Board file accepting the County HHAP-6 allocation (standard agreement 25-HHAP-10051).",
+      "source_url": "https://riversidecountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=31013",
+      "record_id": "64d5246fb2",
+      "cycle_notes": "State formula allocation to the County and CoC, then local subrecipient selection by HWS. HHAP-6 accepted and subrecipient agreement and MOU templates approved by the Board on September 15, 2026 (period ending June 30, 2030). HUD CoC subrecipient agreements for 2025 awards approved June 23, 2026. Per CSAC (August 20, 2026), HCD released the HHAP Round 7 NOFA as an amendment to the Round 6 NOFA ($829.4 million, 2026-27 Budget Act); recipients get Round 7 as additional Round 6 disbursements subject to AB 179 conditions (Round 6 50% obligation, Round 5 second disbursement requirements, housing element compliance, prohousing designation within 12 months for large cities and their counties).",
+      "eligible_project_detail": [
+        "operating subsidies for permanent supportive housing",
+        "rapid rehousing",
+        "prevention and diversion",
+        "interim housing operations",
+        "street outreach"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Housing Authority of the County of Riverside (HACR)",
+      "administering_agency": "Housing Authority of the County of Riverside (Board of Supervisors sitting as Commissioners), 5555 Arlington Avenue, Riverside",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HACR administers 10,187 Housing Choice Vouchers. The FY 2026-27 Streamlined Annual PHA Plan (adopted March 24, 2026) programs about 684 PBVs across 24 new developments, including Desert Marigold, Cathedral City (96 of 97 units), Villa Verde, Coachella (87 of 152), Summit View, Beaumont (47 of 48), Palm Villas Phases I and II, Palm Desert (45 each of 88), Camino Terrace, Jurupa Valley (42 of 80), Bell Ranch, Wildomar (32 of 129), Murrieta Phase II and Oakview II (32 each of 81), Viscar Terrace, Murrieta (31 of 151), JFM Villas I and II, Indio (25 each), Cambern, Lake Elsinore (19 of 76), Mary McDonald Riley Street, Lake Elsinore (15 of 16), Sparrow at Mulberry Gardens, Riverside (14 of 59), 5th Street, Corona (11 of 11), Sunrise at Bogart (11 of 23), Thomas Village, Palm Desert (8 of 40) and Murrieta Phase I (8 of 119). PBVs are awarded through competitive RFPs (most recent reported round July 27 to August 22, 2025) and AHAP and HAP contract forms are approved by the Board (2026 approvals for 5th Street, Linwood Rose, Villa Verde I and II, 6th Street Seniors, Palm Desert Housing, Jefferson Family and Palm Villas).",
+      "per_unit_cap": "Payment standards set by HACR; PBV rents capped at reasonable rent or 110% of FMR.",
+      "affordability_requirement": "HUD PBV rules (not an MTW agency): 20% program cap plus exceptions, 75% of admissions at or below 30% AMI, 20-year HAP contracts with HACR, CoC coordinated entry referrals for PSH set-asides.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No PBV RFP open as of November 8, 2026; HACR has issued a competitive PBV RFP roughly annually. Monitor harivco.org procurement and Board agendas.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. PBVs are the County's primary contribution to 4% and 9% deals and nearly every County loan, PLHA commitment, Homekey+ sponsorship and HHAP operating subsidy attaches to a PBV project; developers should treat the annual HACR PBV RFP as the entry point to the County system. Davis-Bacon applies to PBV new construction and rehabilitation of nine or more units. Source is the HUD-50075 Streamlined Annual Plan attached to the March 24, 2026 Board file (Detail_LegiFile.aspx?ID=29959); voucher count from the FY 2025-26 SEMAP CEQA notice (ceqanet 2026071100).",
+      "source_url": "https://riversidecountyca.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=86677&Inline=True",
+      "record_id": "23d2f2c56a",
+      "cycle_notes": "Competitive PBV RFPs roughly annually (RFP 2023-110 issued July 10, 2023; last confirmed round July 27 to August 22, 2025). AHAP and HAP contract forms continue to go to the Board, most recently September 22, 2026 for Jefferson Affordable Family Apartments, Murrieta, and Palm Villas at State I, Hemet. No new PBV solicitation appeared on Board agendas September to November 2026; harivco.org returns 403.",
+      "eligible_project_detail": [
+        "new construction",
+        "substantial rehabilitation",
+        "existing housing",
+        "permanent supportive housing",
+        "senior housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "HACR housing successor funds and land dispositions (Low and Moderate Income Housing Asset Fund, DDLAs)",
+      "administering_agency": "Housing Authority of the County of Riverside as housing successor to the former County and Coachella redevelopment agencies",
+      "funding_type": "loan",
+      "typical_award_size": "Villa Verde Apartments, Coachella (152 units in two phases, Abode Communities): amended and restated Disposition, Development and Loan Agreement (February 3, 2026) conveys HACR land with a Low and Moderate Income Housing Asset Fund loan of $4,404,640. Rubidoux Gateway Villas, Jurupa Valley (57 family units, National Housing Development Corporation): DDLA with a seller carryback loan equal to the purchase price (September 1, 2026). Camino Terrace, Jurupa Valley (80 units, Wakeland): DDLA and land sale (September 1, 2026). Tres Lagos Apartments Phase III, Wildomar: up to $1,200,000 and tax credit support (July 14, 2026). Housing successor balances at June 30, 2025: County successor (HASA) $460,089 and Coachella successor (CSA) $1,894,430, the latter pending release to Villa Verde in 2026.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Housing successor rules (80% AMI and below, 30% extremely low income minimum over five years); DDLAs restrict 49% of non-manager units with HACR covenants, with PBVs on the balance.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Sites are offered through exclusive negotiation agreements and DDLAs on a project basis; no open solicitation found. HACR files Section 33433 reports before each land sale.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. HACR behaves as a land bank: it holds former redevelopment parcels in Coachella, Jurupa Valley, Rubidoux and elsewhere and conveys them with a seller loan, PBVs and sometimes a Homekey+ sponsorship, which is how Villa Verde and Camino Terrace were assembled. Successor funds are small and mostly committed. Source is the February 3, 2026 Board of Commissioners file for the Villa Verde DDLA; successor balances from the FY 2024-25 Annual Housing Successor Report (Detail_LegiFile.aspx?ID=29600).",
+      "source_url": "https://riversidecountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=29134",
+      "record_id": "27b8a4bdfc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction on HACR-owned land",
+        "ground lease or land sale with seller loan",
+        "tax credit projects needing local land and soft debt"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: Board file 29134 (Form 11 and amended DDLA) confirms Villa Verde, 152 units, 49% of non-manager units restricted at 60% AMI, seller loans of $1,411,842 and $438,158 on $1,850,000 land, $450,000 predevelopment loan and $2,104,640.22 development loan for about $4,404,640 total (the item title and Form 11 cost line say $4,454,640), plus County PLHA $6,115,252 and HACR PBVs for 87 units. Board file 29600 (FY 2024-25 Housing Successor report) confirms balances of $460,089 and $1,894,430. Rubidoux, Camino Terrace and Tres Lagos items were not rechecked. Prevailing wage true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "County-owned land for affordable housing (Park Lane Homes, Desert Hot Springs, and surplus land process)",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (HWS) and Facilities Management Real Estate",
+      "funding_type": "land",
+      "typical_award_size": "Park Lane Homes: about 9.7 acres of County land in Desert Hot Springs (APN 656-040-061) under an exclusive negotiation agreement with Abode Communities since February 27, 2024 (extended January 31, 2026); on May 12, 2026 the Board declared the site exempt surplus land (Resolution 2026-073) and approved a Disposition and Development Agreement for an affordable rental project. The Housing Element commits the County to work with nonprofits on County-owned sites and Facilities Management runs the surplus land process (Flood Control, Parks and Waste Resources declared several exempt surplus parcels in 2026).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Surplus Land Act affordability (at least 25% lower income or 100% affordable) plus County covenant terms negotiated in the DDA.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open notice of availability for a County housing site as of November 8, 2026; watch Board agendas for exempt surplus land resolutions and HWS exclusive negotiation agreements.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. County land contributions are rare and concentrated in the Coachella Valley and Desert Hot Springs; the Park Lane Homes deal shows the sequence (ENA, DDA, exempt surplus declaration, then Homekey+ or tax credit application). Source is the May 12, 2026 Board file for Resolution 2026-073 and the Park Lane Homes DDA.",
+      "source_url": "https://riversidecountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=30256",
+      "record_id": "9cb00bd542",
+      "cycle_notes": "Site by site, no fixed cycle. Park Lane Homes, Desert Hot Springs: exclusive negotiation agreement with Abode Communities from February 27, 2024 (extended January 31, 2026); exempt surplus declaration (Resolution 2026-073) and DDA approved May 12, 2026. Board items September to November 2026 included exempt surplus declarations by Flood Control, Parks and Facilities Management (one to the City of Corona on October 27, 2026), none offered for affordable housing.",
+      "eligible_project_detail": [
+        "new construction on County land",
+        "ground lease or discounted sale"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) Integrated Plan FY 2026-29, housing interventions",
+      "administering_agency": "Riverside University Health System, Behavioral Health (RUHS-BH)",
+      "funding_type": "grant",
+      "typical_award_size": "BHSA component allocations of $195,334,844 a year; housing interventions set at 23% in year one ($44,927,014) and 27% in years two and three ($52,740,408) after a transfer to other components, with estimated year one housing expenditures of $44,225,982. Plan adopted by the Board June 2, 2026. Uses are tenant-based rental subsidies for about 6,015 people a year (1,015 permanent, 5,000 interim) and operating subsidies for about 725 people in PSH, assisted living and interim settings; no BHSA capital development (the County reports housing funds fully subscribed and points to 399 new interim and recuperative care units at the Mead Valley Wellness Village opening 2027). RUHS-BH housing vendor purchase orders were raised to $15,000,000 a year through FY 2030-31.",
+      "per_unit_cap": "Not applicable; no capital program.",
+      "affordability_requirement": "BHSA-eligible adults with serious behavioral health conditions who are homeless or at risk, at least 50% chronically homeless, Housing First.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Three-year plan effective July 1, 2026 with annual updates each spring; RUHS-BH contracts with housing vendors through purchase orders rather than a developer NOFA.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. Unlike several Bay Area counties, Riverside chose tenant-based subsidies and operating support over project-based commitments and zero capital, so BHSA is not a construction source here; developers of PSH should seek RUHS-BH operating subsidy or master lease vendor agreements for behavioral health units and pair them with HACR PBVs. Source is the DHCS Integrated Plan submission (RUHS media 5601); executive brief at ruhealth.org/media/5971; Board adoption file Detail_LegiFile.aspx?ID=30512. Audit 2026-11-08: classified as grant because the BHSA Housing Interventions plan funds rental subsidies (6,015 people a year) and operating subsidies (725 people) for housing; the plan answers No to capital development, so it is a rental and operating subsidy grant source, not a capital source.",
+      "source_url": "https://www.ruhealth.org/media/5601",
+      "record_id": "b9c5d9af17",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "tenant-based rental subsidies (not project-based)",
+        "operating subsidies for PSH and licensed settings",
+        "interim housing operations"
+      ],
+      "next_deadline_date": "2026-07-01",
+      "deadline_check": "past_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Tax-exempt multifamily bonds: County TEFRA approvals for CMFA, CSCDA and CalPFA issuances",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (public hearings) and Office of Economic Development; Board of Supervisors adopts the approving resolution",
+      "funding_type": "bond",
+      "typical_award_size": "The County is not an active issuer; it approves conduit issuances under Section 147(f) for projects in the unincorporated area or where a joint powers authority needs host approval. Examples: Resolution 2025-22 (February 4, 2025) approving up to $20,000,000 of CMFA multifamily housing revenue bonds for Rancho Las Bolsas Apartments, Temecula area (Jamboree, 55 units, 26 PSH); Resolution 2025-15 (January 28, 2025) approving up to $80,000,000 of bonds for mobile home park acquisitions including Oasis Villas; CSCDA bonds for a Wildomar project (October 2023); CalPFA educational facility bonds (June 9, 2026).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Bond regulatory agreements (20% at 50% AMI or 40% at 60% AMI) under CDLAC rules.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request a TEFRA hearing through HWS at least six weeks before the CDLAC application; no County fee was stated in the Board file.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. HACR does not issue multifamily bonds; CMFA and CSCDA are the usual issuers with the County or the host city holding the TEFRA hearing. Source is the February 4, 2025 Board item on media.rivcocob.org.",
+      "source_url": "https://media.rivcocob.org/proceeds/2025/p2025_02_04_files/21.01001.pdf",
+      "record_id": "8271459e14",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "4% LIHTC new construction",
+        "acquisition-rehab",
+        "mobile home park acquisition"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: February 4, 2025 Board item 21.1 confirms Resolution 2025-22 approving up to $20,000,000 of CMFA bonds for Rancho Las Bolsas Apartments (Ynez Road Housing Partners LP, Jamboree, 55 units with 26 PSH). Other examples not rechecked. Prevailing wage false is uncited; conduit bond approval alone is not a stated exemption rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Coachella Valley Regional Housing Catalyst Fund (Lift to Rise) with County capital",
+      "administering_agency": "Lift to Rise (nonprofit fund manager) with County of Riverside contributions through the Board and Supervisorial District 4",
+      "funding_type": "loan",
+      "typical_award_size": "Revolving predevelopment loan fund for affordable housing in the Coachella Valley, managed by Lift to Rise. The County contributed $2,000,000 of District 4 ARPA funds on May 24, 2022, and the Board added $1,500,000 for Lift to Rise to advance affordable housing throughout Riverside County in the FY 2026-27 budget adjustments approved June 9, 2026 (the release does not say the $1.5M goes to the Catalyst Fund itself). Lift to Rise's action plan targets 10,000 affordable homes in ten years with more than 50 regional partners.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Affordable housing projects in the Coachella Valley; loan terms set by Lift to Rise.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Apply to Lift to Rise directly; County funds are capital contributions, not a County application process.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. The Catalyst Fund is the only revolving predevelopment source in the eastern county and is often the first money into Coachella and Indio tax credit deals before County PLHA, HOME and HACR PBVs; the fund itself and CVAG's housing programs belong in Pass 4 and Pass 3. Source is the County news release on the 2022 contribution (rivco.gov/node/589 now redirects to the news URL); FY 2026-27 budget action at rivco.gov/node/7036.",
+      "source_url": "https://rivco.gov/news/riverside-county-approves-2-million-boost-coachella-valley-housing",
+      "record_id": "2dbb020071",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment loans for affordable multifamily",
+        "acquisition bridge financing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Riverside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Housing Authority of the City of Riverside, Housing Successor Low and Moderate Income Housing Asset Fund (LMIHAF)",
+      "administering_agency": "Housing Authority of the City of Riverside (Housing Successor to the former Redevelopment Agency)",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2023-24 (latest report found, dated April 1, 2025): $9,403,323 deposited, $2,899,271 spent ($1,597,196 on housing development across ELI, VLI and low income units), ending cash balance $2,547,069. Portfolio $35.6M ($34.9M loans receivable, $685K real property). The Housing Authority also owns 104 units managed by RHDC under a 2024 operating agreement.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "LMIHAF rules (HSC 34176.1): at least 30% of spending for ELI (30% AMI) and no more than 20% for 60 to 80% AMI over each five-year period; 55-year rental covenants typical.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standing NOFA. Funds and Housing Authority land are committed project by project through Council and Housing Authority actions; contact Housing and Human Services.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Separate from the County housing successor (HACR) record; only for projects inside city limits. Used alongside City HOME/PLHA and land write-downs (see Housing Authority land record). Ending balance is modest, so treat as a supplemental source. A FY 2024-25 report was not found on the City site (404) and should be requested.",
+      "source_url": "https://riversideca.gov/hhs/sites/riversideca.gov.hhs/files/Housing%20Successor%20LMIHF%20FY%202023-24.pdf",
+      "record_id": "363de1179f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: FY 2023-24 report (dated April 1, 2025) matches $9,403,323 deposited, $2,899,271 spent including $1,597,196 on ELI, VLI and low income development, $2,547,069 ending balance and the $35.6 million portfolio with $685,444 real property. The 104-unit RHDC operating agreement was not rechecked. Prevailing wage true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Riverside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Housing Authority and Successor Agency land write-downs and surplus land dispositions (e.g., 2882 Mission Inn Avenue DDA, 11049 Bogart, 8733 Indiana)",
+      "administering_agency": "Housing Authority of the City of Riverside; Successor Agency to the Redevelopment Agency of the City of Riverside",
+      "funding_type": "land",
+      "typical_award_size": "Land conveyed at or near $1. Example: September 1, 2026 DDA conveys 2882 Mission Inn Ave (0.22 acre) to Grapevine Development for $1, a $245,861 write-down counted as HOME match, for 10 affordable units in a 64-unit mixed-use project; that project also pairs $900,000 City HOME and $250,000 City PLHA with LIHTC. Other Housing Authority sites: 11049 Bogart (DDA with NPHS, 22 PSH units), 8733 Indiana (RFP with adjacent Successor Agency parcel), 2348 University (duplex redevelopment).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Surplus Land Act: at least 25% lower income on the notice of availability, 55-year covenants; Grapevine DDA requires 2 units at 50% AMI and 8 at 60% AMI for 55 years.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Sites are offered through SLA notices and RFPs as they come up; watch Housing Authority agendas. The University Avenue Density Transfer Pilot (separate record) also targets City surplus parcels.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Land write-downs count as HOME match (City reports excess HOME match of $16.4M). Successor Agency parcels need Countywide Oversight Board approval and HCD SLA sign-off, which adds months. The County land program (county record) is separate.",
+      "source_url": "https://riversideca.legistar1.com/riversideca/attachments/b93e9147-b9ff-49dd-836f-73b65f7a2d6f.docx",
+      "record_id": "abdeea04e6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Riverside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "University Avenue Density Transfer Pilot Program (Housing Element Program HE-EJ-7-2)",
+      "administering_agency": "City of Riverside Community and Economic Development Department, Planning Division",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Not a cash subsidy. Creates a unit bank seeded with residential capacity from City-owned surplus parcels in the University Avenue Specific Plan; receiver sites (City surplus and Housing Element sites) can withdraw extra units first-come first-served, with priority to City surplus sites, and may combine withdrawals with Chapter 19.545 density bonuses.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "None specific to the transfer; affordability comes from density bonus, SLA covenants or funding sources used on the receiver site.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Land Use Committee recommended approval; the Council item (Legistar 52587, March 2026) showed status Agenda Ready with no recorded vote in the API. Verify adoption with Planning before relying on it.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Most useful when paired with a City surplus parcel disposition (see land write-down record). Pilot limited to the University Avenue Specific Plan area; may expand if successful.",
+      "source_url": "https://riversideca.legistar1.com/riversideca/attachments/ea6aa9ef-342c-4b16-9ef9-01f2ded9ee62.pdf",
+      "record_id": "fd2591cba2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "T4 spot check 2026-11-08: staff report matches on bank seeding, receiver eligibility, first-come priority and density bonus stacking; program also allows a Direct Transfer method. Council hearing was April 21, 2026 (Legistar 52587, intro March 24, 2026); API still shows Agenda Ready with no recorded action, so adoption remains unconfirmed. Prevailing wage false is uncited; zoning tool with no public funds.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Moreno Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Moreno Valley Housing Authority, Housing Successor Low and Moderate Income Housing Asset Fund (LMIHAF) and housing successor land",
+      "administering_agency": "Moreno Valley Housing Authority (Housing Successor to the Community Redevelopment Agency), Financial and Management Services",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2024-25: cash $6,494,846; total fund balance $38,030,093 (mostly loans and interest receivable); deposits $595,276. Excess surplus of $3,238,065 in FY 2024-25 must be spent or encumbered within three fiscal years or transferred to HCD; the prior FY 2023-24 excess was to be spent by June 30, 2026. Land: Fir/Heacock site going to the Linwood Rose 36-unit special needs apartments; Eucalyptus/Heacock to Lantana Court (7 ownership homes); JFK/Elm and Sheila/Perris dispositions starting; the Action Plan also lists Day/Alessandro (8.15 acres) as available.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "LMIHAF income and ELI spending tests (HSC 34176.1); 55-year rental covenants typical.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA posted. The excess surplus creates a spend-down deadline (FY 2024-25 excess by about June 30, 2028), so the Authority has a strong incentive to commit funds to a ready project. Contact the Financial and Management Services Grants Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Best near-term local cash in Moreno Valley. The City has no Section 8 authority (HACR administers about 1,100 vouchers and 66 RAD PBV units in the City), so HACR PBVs (county record) are the rental subsidy layer. Stack with City HOME (separate record) and County PLHA/HOME-ARP. moval.org and moval.gov both served documents without blocking.",
+      "source_url": "https://moval.gov/departments/financial-mgmt-svcs/pdf/MorenoValleyHousingSuccessorReportFiscalYear2024-25.pdf",
+      "record_id": "4de0dd149e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2028-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Corona",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Corona Housing Authority Housing Fund (Fund 291) loans and Housing Authority land (Corona 2nd Street Family Apartments DDA)",
+      "administering_agency": "Corona Housing Authority (Housing Successor), Community Services Department, Housing Services",
+      "funding_type": "loan",
+      "typical_award_size": "Example August 21, 2024 DDA for 115 family units: Authority cash loan $7,535,280 (Housing Fund 291) plus a land loan at the higher of appraisal or $2.8M; City loans of $529,875 HOME-ARP, land at the higher of appraisal or $1.2M, and up to $2,000,000 in deferred development impact fees. Local subsidy about $99,731 per unit, 18.5% of a $62.0M total cost ($539,301 per unit). Loans amortized and repaid over 55 years.",
+      "per_unit_cap": "None published; about $100K per unit local subsidy on the 2nd Street deal.",
+      "affordability_requirement": "All units except the manager unit affordable in perpetuity at 30%, 50% and 80% of median income (rents at 30 to 60% with caps to 70% under tax credits); 20-unit preference for homeless families.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA cycle; the Authority uses RFQ/RFP for its sites. A second phase of about 25 PSH units on the same site is planned. Housing Fund balance was not found; request the latest SB 341 housing successor report from Housing Services.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Corona's main local gap source. Layered with 4% LIHTC, City CDBG and HOME-ARP and a DIF deferral note. Land was bought from RCTC under the SLA with $600K CDBG and $1.4M Housing Fund; repayment splits 30% to CDBG program income and 70% to the Housing Fund. Corona's Legistar (client corona) has no matters after August 2024, so newer Council items were not reachable through the API.",
+      "source_url": "https://corona.legistar1.com/corona/attachments/cbbd729a-34c2-4517-8702-9180b2fd9be5.pdf",
+      "record_id": "b56ac00662",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: staff report matches the 115-unit 2nd Street DDA, Authority cash loan $7,535,280 from Housing Fund 291, land at the higher of appraisal or $2,800,000 (Authority) and $1,200,000 (City), $529,875 HOME-ARP, up to $2,000,000 DIF deferral, $99,731 per unit local subsidy (18.5% of cost, $539,301 per unit), 55-year amortized repayment, perpetual affordability at 30%, 50% and 80% MFI and the 20-unit homeless preference. Prevailing wage true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Corona",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Corona development impact fee waiver or deferral for affordable housing",
+      "administering_agency": "City of Corona (City Council; Housing Services and Planning)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Case by case. On the 2nd Street Family project the City deferred up to $2,000,000 in development impact fees into a promissory note repaid over 55 years.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Tied to the affordability terms of the project's DDA or density bonus agreement.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested at predevelopment and approved by Council resolution with the project agreement. The FY 2026-27 Action Plan commits staff to educate affordable developers on how to request a waiver or deferral.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "No standing fee deferral ordinance was found; treat as negotiable. Deferred fees held as a City loan count as public funds for prevailing wage. Useful to reduce the gap at construction closing.",
+      "source_url": "https://cdn.prod.website-files.com/65799af8ef225180fdf1ba2e/69cd88593e905eafa153a5f7_Corona%20Annual%20Action%20Plan%2026-27.pdf",
+      "record_id": "0f72af08b1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Temecula",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Temecula housing successor assets and remaining former RDA Tax Allocation Bond proceeds for affordable housing",
+      "administering_agency": "City of Temecula Community Development Department (Housing Successor to the Temecula Redevelopment Agency)",
+      "funding_type": "loan",
+      "typical_award_size": "Remaining Tax Allocation Bond proceeds are available for affordable housing (balance not published in the documents read). Recent local deals: Las Haciendas (132 units, certificates of occupancy 2024) and Rancho Las Bolsas (26 NPLH units).",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Lower income; bond covenants and LMIHAF rules apply; the City inspects RDA/SARDA-funded projects annually.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. The City makes bond proceed information available to developers through the development application process; contact Community Development (Housing and Real Estate Analyst).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Temecula is a CDBG-only entitlement ($606,465 in FY 2026-27, used for public services and capital projects, not new rental construction) and receives no HOME, so these bond proceeds plus City land are its only cash layer. County HOME and PLHA (county records) are the other local options. A housing successor annual report with the bond balance was not found; request it.",
+      "source_url": "https://temeculaca.legistar1.com/temeculaca/attachments/01f0643f-4dae-46ac-aa6c-ff8cd2968734.pdf",
+      "record_id": "0967d1946b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Temecula",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Temecula Uptown city-owned parcel affordable housing RFP (APN 910-262-061, 1.83 acres)",
+      "administering_agency": "City of Temecula Community Development Department",
+      "funding_type": "land",
+      "typical_award_size": "City may donate the 1.83-acre parcel in the Uptown Temecula Sports District as its contribution. A June 2025 RFP drew 6 proposals; the City plans to add adjacent City land and reissue in 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Intended as 100% affordable (SLA exemption requested), with interest in short to medium term housing for families at risk of homelessness and a mix of unit types and incomes; 55-year covenants expected.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Reissue expected in 2026 per the 2025 Annual Progress Report; not yet seen in Legistar as of 2026-11-08. Watch Council agendas and the City bid portal.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Site sits in the Uptown Temecula Specific Plan (amended July 2026) and can pair with the AHO and density bonus. A land donation counts as a local public contribution in TCAC scoring and tie-breakers.",
+      "source_url": "https://temeculaca.legistar1.com/temeculaca/attachments/f62eac50-0962-4a7a-9224-782cffc996f9.docx",
+      "record_id": "8724e5aeb5",
+      "cycle_notes": "RFP to be reissued",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Temecula",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Temecula development fee deferral and reimbursement through development agreements",
+      "administering_agency": "City of Temecula Community Development Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Case by case deferral or reimbursement of City development fees for qualifying senior and affordable projects; Las Haciendas and Rancho Las Bolsas received fee deferrals and new reimbursement agreements were entered in 2025. Amounts not published.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Tied to the project's affordability agreement.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Negotiated through a development agreement; contact Community Development early in entitlement.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Housing Element programs commit the City to continue fee deferral and reimbursement and expedited review. Fee reimbursement is a public subsidy for prevailing wage purposes.",
+      "source_url": "https://temeculaca.legistar1.com/temeculaca/attachments/01f0643f-4dae-46ac-aa6c-ff8cd2968734.pdf",
+      "record_id": "9669a486bc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Palm Springs",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "needs_confirmation",
+      "program_name": "Palm Springs city affordable housing gap loans (housing successor LMIHAF and City housing funds)",
+      "administering_agency": "City of Palm Springs Community and Economic Development, Housing Division (Housing Successor)",
+      "funding_type": "loan",
+      "typical_award_size": "Reported 2026 commitments (from secondary summaries, not opened on the City site): $3,800,000 loan for the 82-unit Redtail project (3% simple interest, 57-year term, residual receipts), a $2,250,000 acquisition loan plus up to $2,500,000 subordinated fee loan for a 110-unit project at McCarthy and San Rafael (January 14, 2026), and a $3,000,000 commitment for a Wakeland senior project (March 2026). Earlier: Monarch Apartments (60 units) received a City loan, fee waivers and a land grant; a prior LMIHAF loan of about $5.97M to WHCHC.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Lower income; terms set per project agreement (55-year or longer covenants typical).",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found; commitments go to Council project by project. Confirm current fund balances in the FY 2024-25 housing successor report.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Palm Springs is a CDBG-only entitlement (FY 2026-27 CDBG about $337,285 for rehab and legal services), so City and successor funds are the local gap layer, stacked with HACR PBVs and the Coachella Valley Housing Catalyst Fund (county records). palmspringsca.gov returns 403 (Akamai) to scripts and WebFetch, and no working Granicus or Legistar host was found; source_url is the 6th cycle Housing Element draft on HCD, which documents the Monarch loan, fee waivers and land grant but not the 2026 loans.",
+      "source_url": "https://hcd.ca.gov/housing-elements/docs/palm-springs-6th-draft080221.pdf",
+      "record_id": "651cb6ed89",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: the HCD-hosted Housing Element draft confirms only the Monarch Apartments City loan, fee waivers and land grant; the 2026 loan figures (Redtail $3.8M, McCarthy and San Rafael $2.25M plus $2.5M, Wakeland $3.0M) come from secondary sources. palmspringsca.gov returns 403 to curl and WebFetch, and the Palm Springs Legistar API has no matters or events.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Palm Springs",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Palm Springs Affordable and Multi-Family Housing Incentive Program (Resolution No. 24654), impact fee reduction and deferral",
+      "administering_agency": "City of Palm Springs (Planning and Building)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Sliding scale reduction of developer fees and development impact fees from 100% to 1% based on the number and share of affordable units; deferral of fee payment to certificate of occupancy; 50% reduction for market-rate apartments; ADU fee reductions.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "New housing restricted to lower income households for the affordable tier.",
+      "eligible_project_types": [
+        "new construction",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; no application deadline. Program adopted 2019 (Resolution No. 24654) and slated for continued implementation through 2021-2029 per the Housing Element.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Unusually generous for the Coachella Valley; stack with the City gap loans and the 93.23.17 density bonus. Fee reductions are public funds for prevailing wage. Program described in the 2021 Housing Element draft on the HCD site; the City resolution and current fee schedule could not be opened (palmspringsca.gov 403).",
+      "source_url": "https://hcd.ca.gov/housing-elements/docs/palm-springs-6th-draft080221.pdf",
+      "record_id": "f31b6672ca",
+      "cycle_notes": "Fee relief applied per project at entitlement; fees deferred to certificate of occupancy.",
+      "eligible_project_detail": [
+        "new construction",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: terms verified against the HCD-hosted 6th cycle Housing Element draft (fee reductions section and program table); the resolution text and current fee schedule on palmspringsca.gov could not be opened (403).",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Indio",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "needs_confirmation",
+      "program_name": "Indio Housing Authority housing successor LMIHAF and City or Housing Authority owned downtown sites",
+      "administering_agency": "Indio Housing Authority (Housing Successor) and City of Indio Housing and Neighborhood Services Division",
+      "funding_type": "loan",
+      "typical_award_size": "Older SB 341 reports (FY 2019-20 and FY 2020-21, seen only in search snippets) put the housing successor portfolio at about $7.2M, mostly loans such as Horizons at Indio senior housing (about $3.7M) and a SERAF loan from the Successor Agency. The Housing Element sites inventory includes 32 downtown parcels owned by the City or the Housing Authority, available for development agreements, land write-downs and fee deferrals.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "LMIHAF rules; project-specific covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found. Contact Housing and Neighborhood Services about the current LMIHAF balance and downtown parcels.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Recent Indio affordable deals (Arroyo Crossing I, Avenue 44) lean on County PLHA loans ($500K and $2M per County CEQA notices) and the Coachella Valley Housing Catalyst Fund (county records). indio.org returns 403 to scripts and WebFetch, the Legistar site has no data, and no Granicus host was found; source_url is the 6th cycle Housing Element draft on HCD, which describes the land and incentives.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/indio-6th-draft081321.pdf",
+      "record_id": "e4edfdf1dd",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: reclassified from other to loan because the housing successor LMIHAF deploys loans (the stated portfolio is mostly loans); the City or Housing Authority land is a secondary component. The Housing Element confirms 32 downtown sites inventory parcels owned by the City or the Housing Authority and use of development agreements, land write-downs and fee deferrals, but the LMIHAF balance and loan figures come from search snippets of SB 341 reports; indio.org returns 403 and the Indio Legistar and Granicus hosts return errors.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

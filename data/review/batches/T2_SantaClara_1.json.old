@@ -1,0 +1,42 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Density Bonus Ordinance (2008) update and affordable housing fee deferrals and waivers, Housing Element 2023-2031 Programs 16, 20 and 21",
+      "administering_agency": "City of Milpitas Planning Division and Office of Housing",
+      "funding_type": "fee waiver",
+      "typical_award_size": "The 2008 Density Bonus Ordinance was replaced by Chapter C.12 (Density Bonus for Affordable Housing Developments) of the new Zoning Ordinance, Title XIII, adopted September 2, 2025 and effective October 2, 2025. It grants density bonuses, incentives, waivers and parking ratios per state law, and allowed incentives include waived, reduced or deferred City fees (plan check, permit and development impact fees), direct financial aid by loan or grant, and density beyond state law, with additional incentives decided case by case; eligibility requires full on-site compliance with the 15 percent Affordable Housing Ordinance. The Housing Element also states the City provides fee deferrals for projects with on-site affordable units and commits to explore fee deferrals, reductions or waivers for 100 percent affordable projects in the Metro and Gateway-Main Street specific plan areas (Program 20). No standalone fee waiver schedule or dollar amount is published.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "On-site affordable units per the AHO or 100 percent affordable projects, depending on the incentive.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Chapter C.12 in effect since October 2, 2025. No published fee waiver schedule; incentives are negotiated per project through the density bonus agreement. Confirm with Planning whether specific plan fee relief (Program 20) has been adopted.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Milpitas has no local housing trust fund NOFA. Fee relief is available only as a negotiated density bonus incentive under Chapter C.12 or case-by-case deferral, not as a by-right program. Density bonus agreements record 55-year affordability. The HOD rezoning is the other adopted local enhancement. milpitas.gov opened with curl over IPv4; municode code pages are blocked to scripts.",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/8585/Updated-Zoning-Ordinance-Final",
+      "record_id": "cfceb765e9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "100 percent affordable in specific plan areas"
+      ],
+      "next_deadline_date": "2025-10-02",
+      "deadline_check": "past_date",
+      "audit_note": "Audit 2026-11-08: verified against the adopted Zoning Ordinance and Housing Element; corrected the claim that no updated density bonus chapter exists. Prevailing wage left unclear: neither Chapter C.12 nor the Housing Element states a prevailing wage rule for fee waivers or deferrals, and no City policy on point was found.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Rounds 1 to 7, County and Mendocino County Homeless Services CoC CA-509",
+      "administering_agency": "Mendocino County Social Services (administrative entity for CA-509; Veronica Wilson, (707) 468-7071)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 joint regional application for $1,826,480.60 (County $883,203.78 plus CoC $943,276.82), resolution adopted April 7, 2026, agreement through June 30, 2029; prior rounds: HHAP-1 $924,734.12 (CoC) and $856,699.99 (County), HHAP-2 $437,551 and $391,634, HHAP-3 $567,869.71 initial plus $1,703,609.13 remainder. HHAP-7 preliminary: County $811,781.46, CoC $869,765.85. Key Action 1 of the regional plan is to fully fund existing interim housing (Ford Street Project, Mendocino Coast Hospitality Center, Redwood Community Services, Project Sanctuary) through June 30, 2029; RFP 004-26 (due February 17, 2026) solicited shelter operators to obligate HHAP-6 and prior-round balances.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; Coordinated Entry referrals.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No local capital NOFA; the CoC states it will provide letters of support and may allocate future HHAP to new interim or affordable units. HHAP-7 allocations are preliminary for FY 2026-27.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. HHAP is fully absorbed by shelter operations; its relevance to a developer is a CoC letter of support and possible operating subsidy for PSH units referred through Coordinated Entry. Source is the April 7, 2026 Board item on Granicus Ideas with the HHAP-6 regional application attached.",
+      "source_url": "https://mendocino.granicusideas.com/meetings/573-board-of-supervisors-on-2026-04-07-9-00-am-regular-meeting/agenda_items/69d00f0e7d7965b4f40004f9-c26-retroactive-adoption-of-resolution-authorizing",
+      "record_id": "94cc1f1843",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "interim housing operating subsidies",
+        "coordinated entry and system supports",
+        "rapid rehousing",
+        "permanent housing operating support (eligible; not funded locally)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "Density bonus (Chapter 20.234, Inland Zoning Code) after repeal of the inclusionary ordinance; 2027-2035 Housing Element",
+      "administering_agency": "Mendocino County Planning and Building Services (Julia Krog, Director, (707) 234-6650)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Ordinance 4538 (September 10, 2024) rewrote the Inland Zoning Code: Chapter 20.234 grants density bonuses, incentives and concessions exactly as provided in Government Code 65915-65918 in all residential zones, requires a recorded density bonus agreement, and repealed the former Chapter 20.238 inclusionary housing ordinance so the County now defers entirely to state law (2025 Housing Element APR, Action 3.1d). The one large subdivision, Bella Vista near Ukiah (166 lots, modified February 3, 2026), keeps 36 moderate-income for-sale units and 42 senior lots under a development agreement and inclusionary housing plan approved before the repeal. The County hired PlaceWorks ($334,925, March 24, 2026) to prepare the 2027-2035 Housing Element (regional RHNA 6,456 units, adoption due August 2027) and the Ukiah Valley Area Plan mixed-use rezone of 192 parcels is expected in 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 thresholds with recorded restrictions; equity-sharing payments on for-sale bonus units go to the County Affordable Housing Trust Fund.",
+      "eligible_project_types": [
+        "mixed-income",
+        "senior housing",
+        "mixed-use",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested with the land use application; expect new Housing Element programs and possible incentive changes in 2027.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. With the inclusionary ordinance gone there is no local affordability requirement or in-lieu fee outside the coastal zone; the County's land use posture is permissive but offers no local financial incentive. Source is the County's clean Inland Zoning Code PDF (Chapter 20.234); repeal confirmed in the 2025 Housing Element APR.",
+      "source_url": "https://www.mendocinocounty.gov/files/assets/public/v/1/pbs/documents/planning/final-clean-entire-code.pdf",
+      "record_id": "f1d1330d9c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily and mixed-income housing in residential and mixed-use zones",
+        "senior housing",
+        "motel conversions (Golden Rule approved with a water concession)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Ukiah",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "Ukiah density bonus (Zoning Code Section 9253) and development fee deferral for affordable housing",
+      "administering_agency": "City of Ukiah Community Development Department, Planning Services",
+      "funding_type": "density bonus",
+      "typical_award_size": "Incentive, not a subsidy. Section 9253 (Ord. 945, 1993) grants at least the bonus and incentives in Government Code 65915 and lets the City deliver them through Planned Development zoning regardless of parcel size or a Council variance waiving development standards. The 2019 Housing Element reports a fee deferral program for housing developers (water and sewer hookups are the largest fees; typical multifamily fees about $12,500 per unit, 9.5% of development cost) and that affordable developers may receive funding and fee deferrals for infrastructure.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus thresholds (Gov. Code 65915); deed restriction per state law (55 years for rental).",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; requested with the project application.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Ukiah has no inclusionary ordinance or in-lieu fee; the 2019 Housing Element removed the inclusionary program and the nexus study, relying on the trust fund and by-right zoning instead. The 1993 code text predates recent state amendments, and the zoneomics mirror may lag the current Ukiah City Code (codepublishing.com is blocked to scripts); state law controls where it is more generous. Fee deferral terms were not found in a current resolution, so confirm amounts and timing with Planning (707-463-6268). A deferral of City fees is likely a public subsidy under Labor Code 1720(b)(4) unless repaid at market terms. The County density bonus ordinance (Chapter 20.234) does not apply inside city limits.",
+      "source_url": "https://www.zoneomics.com/code/ukiah-CA/chapter_27",
+      "record_id": "4ff9e36e74",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fort Bragg",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "Fort Bragg Density Bonuses and Affordable Housing Incentives (CLUDC Chapter 17.31, ILUDC 18.31) and Council preliminary pre-approval of inclusionary incentives (17.32.070)",
+      "administering_agency": "City of Fort Bragg City Council and Community Development Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "Incentive, not a cash subsidy. State density bonus implemented locally, with a voluntary pre-application step: a developer can ask Council to pre-approve density bonus, incentives and waivers at a public hearing within 90 days, before filing entitlements. Examples: Hazelwood Senior Apartments (49 units, 30 to 60% AMI) received pre-approval on February 24, 2025 for a height incentive (7 feet 8 inches over the 35-foot limit), reduced parking (75 stalls versus 114) and a 9% density bonus; Fort Bragg Apartments (1151 South Main, 83 units with 8 very low income) received pre-approval in November 2024.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Per Government Code 65915; regulatory agreement under 17.31.060.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; letter of request may be filed any time before the entitlement application.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "In the coastal zone every bonus or incentive must also be consistent with the certified LCP and avoid adverse impacts on coastal resources, a constraint beyond state law; Ordinance 1029-2026 updates 17.31 to current state law pending Coastal Commission certification. Pre-approval is non-binding but de-risks tax credit applications. Hazelwood was approved May 2025 but missed 2025 tax credits and planned to reapply in 2026. 1151 South Main is in CEQA litigation after the Coastal Commission denied an appeal.",
+      "source_url": "https://legistar1.granicus.com/cityfortbragg/attachments/c478bcc4-ee12-40fc-bd92-23be244be642.pdf",
+      "record_id": "795616b313",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

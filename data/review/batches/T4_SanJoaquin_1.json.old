@@ -1,0 +1,162 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "San Joaquin Regional Housing Fund (SJRHF) gap loans, SJCOG",
+      "administering_agency": "San Joaquin Regional Housing Fund Inc. (501(c)(3) subsidiary of the San Joaquin Council of Governments), fund manager Harris and Associates",
+      "funding_type": "loan",
+      "typical_award_size": "Round 1 (June 2026) committed $11,850,000 in gap loans to four projects: Airport Way Apartments, Manteca (TPC Housing) $2,850,000; The Junction, Tracy (CRP Affordable Housing and Community Development) $3,000,000; Lodi Commons at Salas Park, Lodi (San Joaquin Housing Authority) $3,000,000; The Don Shalvey Apartments, Stockton (Visionary Home Builders) $3,000,000. Alternates: Countrywood Cottages, Escalon; Casa De Mariposa and The View at Channel, Stockton. $750,000 held in reserve. Capitalization net of administration: $4,750,000 HCD Local Housing Trust Fund grant, $5,000,000 SJCOG Measure K smart growth local match, $2,850,000 Health Net grant ($12.6 million total; $13 million plus gross including $75,000 from the San Joaquin Community Foundation). Enterprise reports the round supports 421 affordable homes.",
+      "per_unit_cap": "Underwriting guidelines adopted April 23, 2026: maximum $5 million per project; per-unit maximums for FY 2026-27 of $200,000 (0 and 1 bedroom) and $210,000 (2 or more bedrooms) for new construction and $240,000 and $250,000 for acquisition-rehab, CPI-adjusted each July; loans up to 70% of total development cost.",
+      "affordability_requirement": "55-year regulatory agreement minimum; LHTF dollars prioritize extremely low and very low income units in new construction and permanent rental housing; Measure K match requires infill and smart growth locations; Health Net dollars are flexible but prioritize low-income units. Preference for sites near transit and services.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Round 1 closed; funding commitment letters carry a one-year term with a one-year extension option tied to tax credit outcomes. No Round 2 date is set; SJCOG is seeking new capital and the Advisory Committee meets quarterly (March 4, June 3, September 2 and December 2, 2027). An ADU pilot of about $300,000 in REAP 2.0 funds is in design. Contact Joann Martinez, SJCOG, (209) 235-0582.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). This is the only countywide gap lender and the first new local soft money in the county in years; awards of $2.85 million to $3 million were sized to close 4% bond and LIHTC deals already in the pipeline, and funds disburse only after all other financing is secured. Loan terms: 3% simple interest or the Freddie Mac 30-year rate, 55-year term extendable 25 years, annual payments from 50% of residual receipts shared pro rata with other public lenders, 1% origination fee, debt service coverage of 1.15 or better in year one (TCAC minimum operating expenses per Title 4 Section 10327 unless justified). Public money from the fund is treated as a public subsidy for prevailing wage. The SJRHF board is the SJCOG board (Escalon, Lathrop, Lodi, Manteca, Mountain House, Ripon, San Joaquin County, Stockton, Tracy). Source is the June 18, 2026 Advisory Committee agenda packet with the award table and underwriting summaries; guidelines are in the April 13, 2026 packet (sjcog.org/AgendaCenter/ViewFile/Agenda/_04132026-1710).",
+      "source_url": "https://www.sjcog.org/AgendaCenter/ViewFile/Agenda/_06182026-1726",
+      "record_id": "c22d557eb3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "acquisition-rehab and preservation",
+        "predevelopment and acquisition loans (36-month term)",
+        "permanent supportive housing",
+        "workforce housing infrastructure"
+      ],
+      "next_deadline_date": "2027-12-02",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "County General Fund one-time affordable housing contributions (no standing County housing trust fund)",
+      "administering_agency": "San Joaquin County Board of Supervisors",
+      "funding_type": "grant",
+      "typical_award_size": "One-time allocations by Board action rather than a program: $1,500,000 approved August 8, 2023 to Visionary Home Builders for a 94-unit senior and family development in Downtown Stockton (TDC $60,518,336, leveraging about $34 million in state tax credits with HCD Infill Infrastructure Grant, City of Stockton HOME and a City impact fee waiver). The County has no housing trust fund, no housing bond and no dedicated housing revenue; the 2023-2031 Housing Element and the SJCOG feasibility study point to the regional fund as the vehicle instead.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Set project by project; the 2023 award prioritized occupancy for people living or working in the County.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No application process. Requests are taken to the Board through Human Services Agency or Behavioral Health Services sponsorship.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). Recorded so the gap is explicit: County General Fund money for multifamily has been rare and discretionary, and the County's 2026 posture is to route capital through the SJCOG Regional Housing Fund (which the County helped capitalize through Measure K) and operating dollars through BHSA, HHAP and PLHA. Mountain House, incorporated in 2024, holds an $8.19 million affordable housing fund from its community services district era (Housing Element), now a city program for Pass 3.",
+      "source_url": "https://www.sjgov.org/department/bos/board-news/board-news-detail/2023/08/09/san-joaquin-county-approves-1.5-million-to-help-build-94-unit-affordable-housing-development",
+      "record_id": "aec9659c68",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily new construction (case by case)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Stockton",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "CDBG, HOME and ESG entitlements, City of Stockton (2026-27 Annual Action Plan, CDBG/ESG NOFA and Real Property Acquisition NOFA)",
+      "administering_agency": "City of Stockton Housing, Homelessness, Events and Parking Department (formerly Economic Development Department Housing Division)",
+      "funding_type": "grant",
+      "typical_award_size": "2026-27 allocations: CDBG $3,229,216 plus about $350,000 program income, HOME $1,382,561, ESG $284,821. HOME budget: $1,324,906 HOME Housing Loans for multifamily rehab or new construction, $207,384 CHDO set-aside, $150,000 program delivery, $138,256 admin. CDBG largely to public infrastructure ($4,914,998 with carryover) and public services; 2026-27 CDBG/ESG public service NOFA awarded $498,509 CDBG and $262,528 ESG to nonprofits. 2024 Real Property Acquisition NOFA offered about $4,551,524 of CDBG and PIP for nonprofit site acquisition (5 applications, $10.0 million requested; awards included $1,500,000 to Parents by Choice for transitional youth housing at 523 E. Main and up to $800,000 CDBG to STAND for scattered-site acquisition).",
+      "per_unit_cap": "HOME per-unit subsidy limits (24 CFR 92.250); no local cap.",
+      "affordability_requirement": "HOME rents and incomes (at or below 60% AMI for rental, 15% CHDO set-aside), CDBG national objective, ESG homeless eligibility. HOME preference policy (2024, in 2025-2029 Consolidated Plan) favors projects serving targeted populations named in the Consolidated Plan.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "predevelopment",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HOME and other housing capital are awarded through the annual Housing NOFA (see NOFA record). CDBG/ESG public service NOFA runs each winter for awards in April (2026-27 awards approved April 2026). Substantial Amendments to the 2025-2029 Consolidated Plan and 2026-27 AAP were out for comment October 9 to November 10, 2026 with a Council hearing November 10, 2026. 2027-28 AAP draft expected spring 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Stockton is its own HUD entitlement and HOME participating jurisdiction, so it is outside the San Joaquin Urban County CDBG/HOME program (county record) and County HOME cannot be used inside Stockton city limits. HOME match is currently 100% waived by HUD. HOME money is the backbone of the City Housing NOFA and has been combined with PLHA, LMIHF, HHAP and PIP in every recent award. CDBG has been used for land acquisition NOFAs for nonprofits, which is unusual in the region. HACSJ has secured City NOFA funds for its DCDC projects (Danny Drive, Sierra Vista). Draft 2026-27 AAP read from the Stockton Legistar attachment; the City housing page lists the same plans.",
+      "source_url": "https://legistar1.granicus.com/stockton/attachments/b79ff976-94f8-4817-ad9f-c36ef89e48dc.pdf",
+      "record_id": "aa68f3b18e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "site acquisition",
+        "public facilities",
+        "public services",
+        "homeless services"
+      ],
+      "next_deadline_date": "2026-11-10",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Lodi",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Residential Density Bonus, Lodi Municipal Code Section 17.36.050 (Development Code; Housing Element Program 1.1 update pending)",
+      "administering_agency": "City of Lodi Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement and entitlement incentive, not a subsidy. Bonus of 20% to 35% for 10% low income or 5% very low income units, 5% to 35% for 10% moderate income common interest units, 20% for senior projects, additional child care bonus; maximum 35% in the code text, with the code deferring to state law where it conflicts. At least one incentive for qualifying projects of five or more units.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus thresholds; affordability covenants per Government Code 65915 (55 years rental).",
+      "eligible_project_types": [
+        "new construction",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement. Housing Element Program 1.1 commits the City to update 17.36.050 to the current state tier framework (up to 50% and 100% bonuses); the 2025 Development Code amendments (Ordinances 2030 and 2034) addressed other sections, so the density bonus update is still pending as of 2026-11-08.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Lodi has no inclusionary ordinance (Housing Element confirms) and no local in-lieu fee, so the density bonus is the only land-use subsidy. Because the code defers to state law, developers can claim the full state bonus despite the outdated 35% text. Pair with County HOME, SJRHF, HACSJ PBVs and the City surplus land program (next record). Read from the zoneomics mirror of Title 17 Article 3 because municode blocks scripts.",
+      "source_url": "https://www.zoneomics.com/code/lodi-CA/chapter_3",
+      "record_id": "199a7def2d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "senior housing",
+        "common interest development (moderate income)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

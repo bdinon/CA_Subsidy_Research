@@ -1,0 +1,86 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption (property tax), Yolo County Assessor",
+      "administering_agency": "Yolo County Assessor/Clerk-Recorder/Elections (ACE), Jesse Salinas, 625 Court Street, Woodland, CA 95695; (530) 666-8135; ace.yolocounty.gov; with the State Board of Equalization (Organizational Clearance Certificate)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Exemption of property taxes on units restricted to lower income households under Revenue and Taxation Code 214(g): full exemption for qualifying units in LIHTC or publicly financed projects and partial exemption for the qualifying share in mixed projects. In Yolo County the 1% base rate plus voter-approved debt applies to the exempt value.",
+      "per_unit_cap": "Statewide $20 million assessed-value cap on the 214(g) exemption for non-LIHTC projects relying only on a regulatory agreement; no cap for LIHTC projects. AB 84 (2024) allows a share of units occupied by households up to 100% AMI to remain exempt, reported on BOE-267-L4.",
+      "affordability_requirement": "Nonprofit owner or limited partnership with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate; recorded regulatory agreement (tax credits, bonds, HOME, PLHA, housing authority or County agreement) restricting rents to lower income households; BOE-267-L2 tenant data where there is no government financing or tax credits.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 (first year) or BOE-267-A (annual) with the Assessor by February 15 each year with BOE-267-L, L1, L2 and L-A supplements as applicable; late filings through December 31 receive a partial exemption. The Yolo ACE website does not post exemption instructions; call the Assessor's office.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard underwriting item. Yolo County Housing is actively using the exemption as a financing tool: its FY 2026 plan commits to working with private investors to build affordable workforce housing 'utilizing the benefits of the welfare exemption,' and the December 2025 KIND West Sacramento deal deed-restricted 30 units for moderate income households with a YCH operating loan structured to meet exemption requirements. Check carefully that moderate income (above 80% AMI) units qualify only within the AB 84 over-income allowance; the core exemption is for lower income units.",
+      "source_url": "https://www.boe.ca.gov/proptaxes/countycontacts.htm",
+      "record_id": "2e605a49b8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) housing interventions and capital set-aside, Yolo County HHSA Behavioral Health",
+      "administering_agency": "Yolo County Health and Human Services Agency, Behavioral Health (Director Tony Kildare); Integrated Plan FY 2026-2029 approved by the Board of Supervisors June 23, 2026",
+      "funding_type": "grant",
+      "typical_award_size": "Projected BHSA funding $19.4 million in FY 2026-27 with Housing Interventions at 30% ($5,834,453); the Board's March 3, 2026 budget approach (Scenario 3) transfers 7% of housing interventions to Behavioral Health Services and Supports, leaving about $4.4 million for housing in FY 2026-27. The adopted plan commits to a procurement to allocate 25% of Housing Interventions funds (roughly $1.1 to $1.5 million a year) to capital development: property acquisition, new construction, and rehabilitation or renovation of existing units. Remaining funds pay rental subsidies after Transitional Rent ends, landlord damage mitigation, participant assistance and a new Housing Interventions Team. The Board also added 8 behavioral health case managers ($1 million a year) for permanent supportive housing sites.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Medi-Cal eligible adults with serious mental illness or substance use disorder who are chronically homeless, homeless or at risk; at least half of housing funds for chronically homeless people. BHSA housing interventions are available only after CalAIM Community Supports and the six-month Medi-Cal Transitional Rent benefit (provider Turning Point Community Programs) are exhausted.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "The capital procurement (25% of housing interventions) has not been released as of November 6, 2026; the plan says it will be conducted during FY 2026-27. Behavioral Health Bridge Housing funding expires June 30, 2027, after which BHSA absorbs those costs. Annual plan updates begin FY 2027-28 (draft due to DHCS March 31).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Yolo is one of the few small counties committing the full 25% capital share, but at about $1.1 to $1.5 million a year it buys a handful of units: realistic uses are acquisition of small existing properties, a capital contribution to a PSH project with a BHSA referral agreement, or rehab of existing supportive housing (the Board asked staff whether capital can go to existing facility needs). Pair with YCH PBVs and the County's PSH case management staffing (8 FTE) to make a small PSH deal pencil. BHSA money is state funding and triggers prevailing wage. Behavioral Health is also the County's lead on Homekey+ interest and on the Encampment Resolution Fund application.",
+      "source_url": "https://public.destinyhosted.com/yolocdocs/2026/BOS/20260623_3937/16572_Final_Yolo_County_BHSA_Integrated_Plan_FY_2026-2029.pdf",
+      "record_id": "3c1a274fb6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab",
+        "new construction",
+        "interim housing",
+        "services"
+      ],
+      "next_deadline_date": "2027-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  }
+]

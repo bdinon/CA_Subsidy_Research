@@ -1,0 +1,201 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "San Mateo County Affordable Housing Fund (AHF) annual NOFA (Measure K, County impact fees, MHSA/BHSA, PLHA, HOME)",
+      "administering_agency": "San Mateo County Department of Housing (DOH), Housing and Community Development division, 264 Harbor Blvd, Building A, Belmont; Raymond Hodges, Director; applications through OpenGov (procurement.opengov.com/portal/smcgov)",
+      "funding_type": "loan",
+      "typical_award_size": "AHF 14.0 (released April 20, 2026, pre-application meeting by April 30, applications due May 20, 2026): $29,347,311 offered, made up of $24,247,311 Measure K ($19,000,000 new FY 2026-27 plus $5,247,311 recaptured), $100,000 County impact fees (unincorporated projects only) and $5,000,000 MHSA/BHSA. Ten applications sought more than $70,000,000 for 810 units. Board awards Aug 25, 2026: $24,347,311 to six projects totaling 459 units: Sand Hill Rise City, Redwood City $9,389,000 (94 units); Mercy Housing 555 Kelly, Half Moon Bay $6,575,000 (40); Related 1051 Mission, South San Francisco $3,545,414 (158, plus $9,495,420 from AHF 11); MidPen 626 Walnut, San Carlos $3,000,000 (95, County-owned site); Novin 3051 Edison, North Fair Oaks $1,537,897 Measure K and impact fees (70); Habitat Ladera, Portola Valley $300,000 (2 ownership units). AHF 13.0 (NOFA June 2, 2025, due July 3, 2025): $41,146,470 to nine projects on Oct 7, 2025 from $19,000,000 new Measure K, $18,022,198 recaptured Measure K, $824,272 PLHA, $100,000 impact fees, MHSA and HHAP. Since 2013 the AHF has awarded more than $400,000,000 to 63 projects and 4,522 units (2,339 occupied, 588 under construction, 1,595 in predevelopment).",
+      "per_unit_cap": "No general per-unit cap. MHSA/BHSA units capped at $200,000 per restricted unit; minimum award $100,000 per project; projects in incorporated cities that are not supportive housing are capped at 15% of total development cost in cumulative County funds; first-time homeownership projects share a $1,000,000 cap and rehabilitation projects a $2,000,000 cap per round.",
+      "affordability_requirement": "Units typically 30% to 60% AMI with a 55-year County regulatory agreement from completion (57 years from recording of the deed of trust); at least 5% of low-income units (or two units) reserved with a preference for people experiencing homelessness at 30% AMI with tenant-based subsidies and referrals held open 60 days; MHSA/BHSA units for behavioral health referrals at 30% AMI with PBVs or 20% AMI without; studio and one-bedroom rents assumed at no more than 50% AMI and larger units at 60% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "The DOH funding page lists the next Affordable Housing Development NOFA for fall 2027; AHF 14 closed in May 2026 and its awards were approved Aug 25, 2026. Recaptured funds are offered between rounds through an over-the-counter process (NOFA Appendix C). Pre-application meetings are mandatory and applications require third-party commitments of at least the lesser of $1,000,000 or $20,000 per unit.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The Peninsula's main gap source: about $19,000,000 of new Measure K sales tax a year plus recaptured funds, MHSA/BHSA capital, HACSM Moving to Work money and whatever HOME and PLHA the County holds, all run through one annual NOFA. Terms (Appendix D): 3% simple interest from certificate of occupancy, 55-year term, annual payments of at least 50% of residual receipts to the County (two-thirds pooled pro rata when other public soft lenders share), deferred developer fee paid only from the borrower share, DOH will not cut its rate unless the host city and state lenders do the same. Measure K and impact fees do not trigger Davis-Bacon, but the application requires a state prevailing wage determination and all projects must comply with the County Living Wage Ordinance, so budget prevailing wage. Awards are explicitly sized to make 4% and 9% tax credit, AHSC and Homekey+ applications competitive and ranked on readiness. The NOFA does not award PBVs; HACSM must issue its own commitment letter. Documents opened: AHF 14 NOFA PDF and Appendix D underwriting guidelines, the July 29, 2026 HCDC hearing deck, and Board items 25-838 and 26-679 via the Legistar API.",
+      "source_url": "https://www.smcgov.org/housing/ahf14-nofa",
+      "record_id": "b3f98627f2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Winter NOFA: HOME Consortium, Urban County CDBG, ESG and PLHA (annual federal and state funds round)",
+      "administering_agency": "San Mateo County Department of Housing, Housing and Community Development division, as HOME Consortium lead and Urban County CDBG grantee",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2026-27 Winter NOFA (issued Dec 2, 2025, applications due Jan 15, 2026, HCDC hearing March 12, Board April 21, 2026) sources: CDBG $2,315,528 plus $347,644 program income and returned funds; HOME $1,485,482 plus $1,428,857 program income and returned funds; federal ESG $208,430; state ESG $165,356; PLHA $0 (held pending housing element compliance); City of East Palo Alto minor home repair $125,000; total $6,076,297. Uses: $2,000,000 HOME for new affordable housing and preservation, $717,035 HOME CHDO set-aside left unallocated for an over-the-counter award, $620,815 CDBG rehab and public facilities, $493,716 Section 108 loan repayment (Trestle Glen). The December 2025 notice estimated about $5,000,000 in total CDBG, HOME and related funds; a separate capital projects guideline listed about $3,317,010 CDBG for capital and $1,738,713 for community development based on FY 2025-26 levels.",
+      "per_unit_cap": "HOME maximum per-unit subsidy limits (HUD bulletin effective Feb 13, 2024) apply to HOME-assisted units.",
+      "affordability_requirement": "HOME: households at or below 80% AMI at HOME rents, 55-year County regulatory agreement (HOME units become AHF-restricted units for the balance of the 55 years when the HOME period is shorter); CDBG: low and moderate income benefit; County loan terms as in the AHF underwriting guidelines.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2027-28 Winter NOFA to be released Dec 1, 2026 after the HCDC needs hearing on Oct 22, 2026; applications are typically due mid-January with Board approval in April. Housing capital applicants should also watch the fall AHF round.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Urban County: unincorporated area plus Atherton, Belmont, Brisbane, Burlingame, Colma, East Palo Alto, Foster City, Half Moon Bay, Hillsborough, Menlo Park, Millbrae, Pacifica, Portola Valley, San Bruno, San Carlos and Woodside. HOME Consortium: the Urban County plus Redwood City, San Mateo and South San Francisco (Daly City is its own entitlement, Pass 3). Federal money is small next to Measure K, so HOME usually appears as a $1,000,000 to $2,000,000 piece inside an AHF-funded project. Davis-Bacon applies to HOME projects with 12 or more assisted units and CDBG projects with eight or more; County loans also carry state prevailing wage and the County Living Wage Ordinance. Sources opened: Winter NOFA page, FY 2026-27 Action Plan sources and uses PDF, FY 2027-28 hearing notice.",
+      "source_url": "https://www.smcgov.org/housing/fy-2026-27-winter-federalstate-funds-nofa",
+      "record_id": "809905f873",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "public facilities"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "HACSM Moving to Work funds for affordable housing development (through the Affordable Housing Fund)",
+      "administering_agency": "Housing Authority of the County of San Mateo (MTW Activity 2011-16 and development activity) with the Department of Housing",
+      "funding_type": "loan",
+      "typical_award_size": "HUD has approved HACSM's use of unspent HAP reserves (MTW funds) for affordable housing development in steps: $4,000,000 originally, $8,000,000 (FY 2013), $10,000,000 (FY 2016), $25,000,000 (FY 2020), $35,000,000 (FY 2024) and $65,000,000 (FY 2025). The FY 2027 MTW Plan reports $65,000,000 of MTW funds approved for the Affordable Housing Fund, including $7,900,000 for Ridge at Ralston in Belmont and $8,600,000 for 493 Eastmoor in Daly City.",
+      "per_unit_cap": "None published; awards are sized with the AHF underwriting.",
+      "affordability_requirement": "Low, very low and extremely low income rental housing in San Mateo County; HACSM loans are typically zero interest with principal repaid from residual receipts under the AHF loan documents, 55-year covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Allocated through the AHF NOFA when HACSM has reserves to contribute; next AHF round expected fall 2027. Ask DOH whether HACSM funds are in the pool before applying.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Unusual source: HUD lets this MTW agency lend its unspent voucher money as capital, and the County has pushed the ceiling to $65,000,000. It arrives inside an AHF award as a zero-interest residual receipts loan, which helps cash flow versus the County's 3% Measure K loan. Federal HAP money carries Davis-Bacon and Section 3; state prevailing wage applies through the County loan. Read from the FY 2027 MTW Annual Plan PDF (opened).",
+      "source_url": "https://www.smcgov.org/media/161447/download",
+      "record_id": "d65d39c7f5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Development fee waiver for affordable housing (no countywide program)",
+      "administering_agency": "San Mateo County Planning and Building Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "None adopted. The County charges affordable housing impact fees and planning and building fees on unincorporated projects; no waiver or deferral program for affordable housing was found. The AHF NOFA scores local contributions such as land, fee waivers or inclusionary contributions from host cities as leverage toward its $1,000,000 or $20,000 per unit third-party commitment threshold.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Ask the host city for fee waivers; in the unincorporated area budget full County fees.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding. Labor Code 1720(b)(4) counts waived fees as public funds for prevailing wage purposes. Planning fees page is linked from the County inclusionary ordinance page (opened).",
+      "source_url": "https://smcgov.org/planning/inclusionary-affordable-housing-ordinance",
+      "record_id": "cbe5e8636d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption (property tax), San Mateo County Assessor-County Clerk-Recorder",
+      "administering_agency": "San Mateo County Assessor-County Clerk-Recorder and Elections (ACRE), Mark Church, Assessor; 555 County Center, Redwood City; 650-363-4500; institutional exemptions unit via smcacre.gov contact page",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Full or partial exemption of property tax on units occupied by households at or below 80% AMI under Revenue and Taxation Code 214(g); worth roughly 1.1% or more of assessed value a year depending on the tax rate area. ACRE posts the full BOE-267 series (267, 267-L, L1, L2, L3, L4, H, O, R and income worksheets) and notes the annual BOE-267-A is issued by the office rather than downloaded.",
+      "per_unit_cap": "Statewide $20,000,000 aggregate cap on exempted assessed value for limited partnership projects that qualify only through the managing general partner test without government financing (Rev. and Tax. Code 214(g)); projects with tax credits, bonds or government loans are outside the cap.",
+      "affordability_requirement": "Nonprofit or LP with eligible nonprofit managing general partner holding a BOE Organizational Clearance Certificate (plus a Supplemental Clearance Certificate for LP low-income housing); units restricted by recorded regulatory agreement or occupied by households at or below 80% AMI; BOE-267 first filing and annual supplemental affidavits by Feb 15 (late claims receive a reduced exemption under Rev. and Tax. Code 270).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "2027-02-15 (annual claim deadline for the 2027-28 roll). File the first claim on acquisition so the construction period is covered.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard in every tax credit operating budget; San Mateo's high assessed values make this the largest operating subsidy most projects receive. ACRE's institutional exemptions and forms pages (opened) list forms and the OCC and SCC requirements but no local deadline text or direct phone; the BOE county contacts page gives the main number.",
+      "source_url": "https://smcacre.gov/assessor/institutional-exemptions-forms",
+      "record_id": "1b43d3c87b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,365 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_redirected",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "needs_confirmation",
+      "program_name": "Marin County Affordable Housing Fund (Housing Trust Fund) and the annual federal and state housing NOFA",
+      "administering_agency": "Marin County Community Development Agency, Housing and Federal Grants Division, 3501 Civic Center Drive, San Rafael; affordablehousing@marincounty.gov",
+      "funding_type": "loan",
+      "typical_award_size": "The Affordable Housing Fund (also called the Housing Trust Fund) is capitalized by inclusionary in-lieu fees, the single-family Affordable Housing Impact Fee, commercial linkage fees, County general fund appropriations and Measure W housing dollars, and is used both as the local match for PLHA and as standalone loans and grants. Guidelines adopted Dec 12, 2023 run through 2027: awards generally $50,000 per unit, up to $100,000 per unit depending on funds, project type, location and bedrooms, as loans with terms set project by project; projects in cities need a contribution from that city. Recent actions read in Board agendas: $5,239,098 Housing Trust Fund loan to Habitat for Humanity Greater San Francisco for predevelopment and construction (April 15, 2025); $500,000 grant to capitalize a Marin Housing Authority preservation loan pool (June 10, 2025); $300,000 Housing Trust and $210,000 Measure W to the Community Land Trust Association of West Marin for 55/65 Second Street, Point Reyes Station, plus $300,000 for the Sacred Heart rectory in Olema (April 7, 2026); Housing Trust Fund loan documents for Marinwood Plaza (125 units, April 2026); $3,000,000 predevelopment loan to Marin Housing Authority for Golden Gate Village (Dec 5, 2023) restructured April 14, 2026 into a 30-year deferred, interest-free loan. The 2026-27 NOFA (open Jan 19 to Feb 19, 2026) offered about $700,000 HOME and $900,000 PLHA matched by the Affordable Housing Fund; the Board approved FY 2026-27 CDBG, HOME, Housing Trust Fund and PLHA recommendations on June 23, 2026 (Resolution 2026-060), with about $477,000 PLHA to be matched 1:1 by the Trust Fund once the state agreement is signed.",
+      "per_unit_cap": "Guidelines: generally $50,000 per unit, up to $100,000 per unit in some circumstances (figures from County pages indexed by search; the pages themselves were blocked).",
+      "affordability_requirement": "Priority to projects in unincorporated Marin and to households at or below 60% AMI when paired with PLHA; County loan documents carry long-term affordability covenants (County inclusionary units are restricted in perpetuity). Projects in cities require a local government contribution.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "The 2027-28 cycle should open in January 2027 with applications due in February, a Countywide Priority Setting Committee hearing in May and Board approval in June, matching the 2026-27 schedule (open Jan 19, 2026, closed Feb 19, 2026, PSC May 19, Board June 23, 2026). Trust Fund requests outside the NOFA have gone to the Board on their own (Habitat, CLAM, Golden Gate Village).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "marincounty.gov, marincounty.org, assets.marincounty.gov, marinhhs.org and arcc.marincounty.gov sit behind Cloudflare and refused automated access on 2026-11-06, so County program pages could not be opened; Board agendas were read on marin.granicus.com and staff reports through its MetaViewer links where available. Marin's county money is small and project-specific: the Trust Fund mostly supplies PLHA match (about $500,000 a year) and five- to six-figure gap grants, with occasional larger loans for County-priority sites (Habitat in Novato, Oak Hill workforce housing next to San Quentin, Golden Gate Village). The County also weighed joining an Affordable Housing Guarantor Financing Program for Oak Hill in April 2025. Public funds trigger state prevailing wage; HOME and CDBG in the same award add Davis-Bacon. Sources opened: Board agendas for April 15, 2025, June 10, 2025, Dec 5 and 12, 2023, April 7 and 14, 2026 and June 23, 2026 on Granicus, the April 14, 2026 Golden Gate Village loan staff report, and the Local News Matters reports of April 6 and June 24, 2026. NOFA amounts and dates come from search engine excerpts of the County NOFA page, which is why this record is needs_confirmation.",
+      "source_url": "https://marin.granicus.com/AgendaViewer.php?view_id=33&clip_id=13163",
+      "record_id": "73e3755543",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership",
+        "predevelopment"
+      ],
+      "next_deadline_date": "2026-06-23",
+      "deadline_check": "past_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "needs_confirmation",
+      "program_name": "Measure W West Marin transient occupancy tax, community housing share",
+      "administering_agency": "Marin County Community Development Agency (community housing share) with the Measure W West Marin TOT Oversight Committee and Working Group",
+      "funding_type": "grant",
+      "typical_award_size": "Measure W (Nov 2018) added 4 percentage points to the hotel and short-term rental tax in unincorporated West Marin, raising about $1,200,000 to $1,300,000 a year, split half to fire and emergency services and half to community housing. County guidelines in force through June 30, 2026 allocate $100,000 a year to direct housing assistance and the remainder to community housing projects. Awards include $210,000 to the Community Land Trust Association of West Marin for 55/65 Second Street in Point Reyes Station (April 7, 2026, alongside $300,000 from the Affordable Housing Fund); the County's stated practice is about $50,000 per affordable unit. The 2024-25 compliance audit was accepted June 9, 2026.",
+      "per_unit_cap": "About $50,000 per unit by County practice; not a formal cap.",
+      "affordability_requirement": "Housing in the West Marin tax area (Point Reyes Station, Inverness, Olema, Bolinas, Stinson Beach, Tomales, Marshall, Dillon Beach) for local residents and workers; grants and loans carry affordability covenants set by the County.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Priorities are set annually by the Board on the Working Group's recommendation; the guidelines through June 30, 2026 were due for renewal for FY 2026-27. Requests have gone to the Board as individual items (April 7, 2026).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "marincounty.gov, marincounty.org, assets.marincounty.gov, marinhhs.org and arcc.marincounty.gov sit behind Cloudflare and refused automated access on 2026-11-06, so County program pages could not be opened; Board agendas were read on marin.granicus.com and staff reports through its MetaViewer links where available. About $600,000 a year for a coastal area where land trusts, not tax credit developers, do most deals; useful for small acquisition and rehab projects (two to eight units) paired with the Affordable Housing Fund. Public funds trigger state prevailing wage. Measure W guidelines and ordinance pages are on the blocked County site; figures come from the Local News Matters report of April 6, 2026 (opened), the Board agendas of Dec 12, 2023 and June 9, 2026 (opened) and search excerpts, so the record is needs_confirmation.",
+      "source_url": "https://localnewsmatters.org/2026/04/06/marin-810k-west-marin-affordable-housing-measure-w/",
+      "record_id": "18410ee3ec",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "new construction",
+        "ADU"
+      ],
+      "next_deadline_date": "2026-06-30",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Tax-exempt multifamily bonds: County TEFRA approvals for CMFA issuances (County not an issuer)",
+      "administering_agency": "Marin County Board of Supervisors (TEFRA hearings) with the County Executive and Community Development Agency; bonds issued by the California Municipal Finance Authority",
+      "funding_type": "bond",
+      "typical_award_size": "The County holds TEFRA hearings as the CMFA member jurisdiction but does not issue bonds or take on liability: Golden Gate Village Phase 1, up to $50,000,000 (hearing and resolution Oct 14, 2025; CDLAC allocation $41,748,341); Golden Gate Village Phase 2, up to $160,000,000 (hearing Oct 20, 2026). Other Marin deals through CMFA include Centertown II in San Rafael ($18,442,396) and a $30,075,000 acquisition issue; a 2023 Marin City bond approval drew a lawsuit against the County and CMFA. Marinwood Plaza (125 units, 124 restricted) used CalHFA's Mixed-Income Program (April 2026).",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDLAC and Section 142(d) minimums under the issuer's regulatory agreement; County loans in the same project add County covenants (Golden Gate Village units stay public housing or PBV-assisted under RAD).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Schedule the TEFRA hearing on a Board agenda with 7-day newspaper notice before the CDLAC application; for projects inside cities the city council holds the hearing (Daly City-style). No County issuer fee.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Plan on CMFA or CSCDA as issuer in Marin. Bonds alone do not trigger state prevailing wage; County Trust Fund, HOME or MHA money in the deal does. Sources opened: Board agendas of Oct 14, 2025 and Oct 20, 2026 on Granicus (the Oct 2025 staff report is image-only), Patch and Local News Matters coverage, and the CalHFA Marinwood Plaza listing in search results.",
+      "source_url": "https://marin.granicus.com/AgendaViewer.php?view_id=33&clip_id=13344",
+      "record_id": "85be12eea1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "needs_confirmation",
+      "program_name": "Behavioral Health Services Act (BHSA) housing interventions, Marin County Behavioral Health and Recovery Services",
+      "administering_agency": "Marin County Health and Human Services, Behavioral Health and Recovery Services (BHRS)",
+      "funding_type": "grant",
+      "typical_award_size": "The Board approved and certified the BHSA FY 2026-27 through FY 2028-29 Three-Year Integrated Plan on Dec 9, 2025 (consent item CA-6l). The plan's housing intervention totals were not obtained because the County and HHS sites are blocked; a 2025 County transition estimate put the housing component near 30% of a roughly $19,000,000 BHSA allocation, about $5,700,000 a year. Known commitments: up to $1,931,918 in MHSA/BHSA capital match for the nine-unit Carmelita House Homekey+ project (April 14, 2026) plus $321,425 in BHSA operating subsidies and services; a scattered-site assisted independent housing and rental subsidy RFP for BHSA-eligible adults with serious mental illness (RFP HHS-2026-02, due April 17, 2026); and an early intervention RFP (HHS-2026-05).",
+      "per_unit_cap": "BHSA statute: capital development up to 25% of the housing component and at most $450,000 per unit.",
+      "affordability_requirement": "Adults and youth with serious mental illness or substance use disorder who are chronically homeless, homeless or at risk; Housing First; BHRS referral. Capital grants are forgivable if the project completes and keeps units for the target population (Carmelita: nine PSH units).",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "supportive housing",
+        "rental assistance"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Plan in effect July 1, 2026 with annual updates each spring; capital has been awarded project by project (Homekey+ match) rather than through a NOFA. Ask BHRS about operating subsidies and capital match for PSH units in the 2027 update.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "marincounty.gov, marincounty.org, assets.marincounty.gov, marinhhs.org and arcc.marincounty.gov sit behind Cloudflare and refused automated access on 2026-11-06, so County program pages could not be opened; Board agendas were read on marin.granicus.com and staff reports through its MetaViewer links where available. Marin's BHSA housing money is a few million dollars a year and is being used as the local match that makes Homekey+ and small PSH conversions work, plus scattered-site rental subsidies. State funds trigger prevailing wage. The Dec 9, 2025 plan approval and the Carmelita capital grant were read in Board agendas and the April 14, 2026 staff report on Granicus (opened); the plan PDF itself was not reachable, so allocation figures are needs_confirmation.",
+      "source_url": "https://marin.granicus.com/MetaViewer.php?view_id=33&clip_id=13050&meta_id=1429397",
+      "record_id": "4c5ee477f3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab",
+        "rental assistance"
+      ],
+      "next_deadline_date": "2026-07-01",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Novato",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "needs_confirmation",
+      "program_name": "Novato Affordable Housing Fund (inclusionary in-lieu fee fund) gap financing and development fee waivers for affordable projects",
+      "administering_agency": "City of Novato Community Development Department, 922 Machin Avenue, Novato, (415) 899-8989",
+      "funding_type": "loan",
+      "typical_award_size": "No published guidelines or NOFA located. The City's housing page (not openable this pass) states that developers of affordable housing may request City gap financing to complete a project's funding, and Council actions have used the Affordable Housing Fund for loans and fee relief: Homeward Bound and Habitat for Humanity loans historically; $1,000,000 allocated in 2023 and about $1,000,000 more in reductions and waivers of City permitting fees approved March 2025 for Habitat's 80-unit Redwood Boulevard project (construction expected 2026). Fund balance was about $1,200,000 in 2019; current balance unknown.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Set per agreement; Division 19.24 requires in-lieu funds be spent on very low, low and moderate income housing. Habitat project is ownership housing for low and moderate income buyers.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. No NOFA found; requests go to Council through the Community Development Department.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Treat as a small, negotiated gap source of roughly $1,000,000 per project at most, used mainly to unlock Marin County Affordable Housing Fund loans (County guidelines require a city contribution) and County PLHA; CDBG and HOME for Novato flow through the Marin Urban County planning area. Fee waivers and City loans are public funds for Labor Code 1720 purposes. No commercial linkage fee exists in the Novato Zoning Ordinance as mirrored. Figures for the Habitat project and gap financing language come from search result snippets of novato.gov pages and a Marin County news release that could not be opened; the source_url is the code mirror establishing the fund (19.24.040). novato.gov and novato.org returned 403 to every request this pass (HTML pages, showpublisheddocument PDFs and the news module); Novato has no Legistar API client and no Granicus or IQM2 host was found, so City pages, the 2023-2031 Housing Element, the 2025 Annual Progress Report and Council staff reports could not be opened. The Zoning Ordinance was read on the Zoneomics mirror and HCD's April 12, 2023 review letter was opened on hcd.ca.gov. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://www.zoneomics.com/code/novato-CA/chapter_3",
+      "record_id": "2b8daf48cf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mill Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Mill Valley Affordable Housing Requirements: inclusionary units and affordable housing impact fee, MVMC Chapter 20.80 (Ordinance 1295 of 2017, inclusionary update adopted 2026 under Housing Element Programs 7 and 11)",
+      "administering_agency": "City of Mill Valley Planning and Building Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Impact fee: 1% of construction valuation on single-family and small multifamily residential work at or above the valuation threshold ($100,000 in 2018, $105,000 in 2020, $130,000 in 2023, $142,000 from May 1, 2024, indexed to the California Construction Cost Index), paid at building permit into the Affordable Housing Trust Fund; collection was extended five years by Council resolution on March 20, 2023. The 2026 update lowered the inclusionary requirement from 25% to 15%, exempted 2 to 6 unit projects from building affordable units and waived their impact fee when units stay under 850 square feet (one bedroom), 1,000 (two bedrooms) or 1,200 (three bedrooms), and eliminated micro-unit caps. Fractional units of 0.50 or more may be met by an in-lieu payment calculated by applying the fraction to the impact fee formula.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Projects of 7 to 9 units: 15% affordable with at least one unit for moderate income households. Projects of 10 or more units: 15% affordable, at least half of the affordable units for low income households and the rest moderate income. Rental affordable units restricted in perpetuity or the maximum term allowed by law (20.80.060). Exempt: ADUs, micro units, projects below the valuation threshold, projects vested before November 1, 2018. Off-site units, land dedication or acquisition-rehabilitation alternatives at the City's sole discretion; Chapter 20.80.080 allows reducing moderate income unit counts when units are instead restricted to very low or low income.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Threshold adjusts each calendar year. Housing Element Program 11 requires a further look at inclusionary ratios at the 2028 RHNA mid-point; Program 12 calls for considering a commercial linkage fee and single-family impact fee changes with other Marin jurisdictions.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The 2026 drop from 25% to 15% (half low, half moderate) brings Mill Valley below Novato (20%) and the County (20%) and closer to San Rafael's 5% to 10%; combined with the Housing Overlay Districts (17 to 40 units per acre) it is meant to make 7-plus unit infill feasible on commercial corridors. The impact fee is the engine of the Trust Fund record above; no commercial linkage fee exists yet. The 2026 ordinance PDF (Attachment 1, as adopted per the City zoning updates page), the Zoneomics mirror of Chapter 20.80, the 2024 APR and the Housing Element were opened; the City's eCode360 host was not needed.",
+      "source_url": "https://www.cityofmillvalley.gov/DocumentCenter/View/12336",
+      "record_id": "4af9d9ce01",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mill Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Mill Valley development fee waivers for affordable housing (MVMC 5.32 as amended October 3, 2022, Housing Element Programs 14 and 23) and lot merger fee waiver in the Opportunity Site Housing Overlay",
+      "administering_agency": "City of Mill Valley Planning and Building Department; City Council resolution for waivers",
+      "funding_type": "fee waiver",
+      "typical_award_size": "100% waiver of City application processing fees for projects managed and operated by affordable housing organizations when at least 10% of units serve very low income households (Housing Element Program 14 text) or extremely low income households (Program 23 and 2024 APR wording), adopted by ordinance and resolution in October 2022. Lot merger fees are waived for projects using the Opportunity Site Housing Overlay (Ordinance establishing the overlays, 2024). Affordable projects are also exempt from the Chapter 20.80 impact fee. Dollar value depends on the City fee schedule; a handout on incentives was a 2024 work plan item.",
+      "per_unit_cap": null,
+      "affordability_requirement": "At least 10% of units for very low or extremely low income households and operation by an affordable housing organization; the City also may consider a fee waiver program for ADUs under Program 30.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request at application. Confirm the exact MVMC 5.32 threshold (very low versus extremely low) with Planning before underwriting; the two City documents read describe it differently.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A processing-fee waiver is worth tens of thousands of dollars on a Mill Valley project, not a gap closer, but it counts as public funds under Labor Code 1720(b)(4). Stack with the Trust Fund, the housing overlays and State Density Bonus. Mill Valley's title 5 code text was not opened (eCode360 not attempted); terms come from the certified 2023-2031 Housing Element Chapter 4 (opened), the 2024 Annual Progress Report (opened) and the overlay ordinance (opened). marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://www.cityofmillvalley.gov/DocumentCenter/View/7984",
+      "record_id": "0d0535d663",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mill Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Mill Valley Density Bonus (MVMC Chapter 20.81) and Housing Overlay Zoning Districts (Small Lot, Office Conversion and Opportunity Site overlays, 2024 ordinance)",
+      "administering_agency": "City of Mill Valley Planning and Building Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement framework, not a cash subsidy. Chapter 20.81 applies Government Code 65915 by reference (bonus, incentives, waivers, parking ratios; senior projects get no concessions unless state law requires). The 2024 Housing Overlay Districts, applied on top of base zoning to Housing Element sites, allow 17 to 40 units per acre (20 to 40 in the Opportunity Site overlay), 40-foot height, one parking space for units of 1,000 square feet or less, waived lot merger fees, and let projects also use State Density Bonus to modify standards; projects reserving 20% of units for lower income households get streamlined review. Affordable units in overlay projects follow Chapter 20.80 deed restriction rules. Bayfront Terrace (45 units) was rezoned to RM-B and approved as a 100% affordable project using density bonus incentives but not the density increase.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State thresholds for Chapter 20.81; overlay projects must meet Chapter 20.80 inclusionary (15% since 2026) or provide 20% lower income units for the streamlined path. Density bonus affordability covenants recorded before building permit (20.81.050).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "None. The 2026 inclusionary ordinance also updated the Opportunity Site overlay to the 15% standard and removed micro-unit restrictions; parking standards were updated November 3, 2025.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mill Valley's overlays are the practical density path because base multifamily zoning is scarce; combine overlay density with the State bonus, the 15% inclusionary rule and the Trust Fund. No local bonus exceeds state law. Overlay ordinance (DocumentCenter 7829) and the Zoneomics mirror of Chapter 20.81 were opened; the City's eCode360 host was not attempted.",
+      "source_url": "https://www.cityofmillvalley.gov/DocumentCenter/View/7829",
+      "record_id": "1945fdaa55",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2025-11-03",
+      "deadline_check": "past_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mill Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "City-owned land for affordable housing: Bayfront Terrace at 1 Hamilton Drive (EAH Housing, 45 units, Lease, Development and Loan Agreement) under Housing Element Program 10",
+      "administering_agency": "City of Mill Valley (City Manager and Planning and Building Department) with EAH Housing as developer",
+      "funding_type": "land",
+      "typical_award_size": "Land plus local loan. The City declared the northern 1.60 acres of 1 Hamilton Drive exempt surplus land (Sept 20, 2021), selected EAH Housing through an RFQ and ENA, approved the project, EIR and a Lease, Development and Loan Agreement with a 99-year ground lease on February 5, 2024, and reapproved it with a 0.15-acre smaller footprint on January 12 and 20, 2026 to use a 2025 CEQA statutory exemption. City money committed: $1,000,000 from the Affordable Housing Trust Fund ($500,000 City match plus $500,000 requested HCD LHTF grant) toward the extremely low income units, after Trust Fund payment of predevelopment and environmental costs. Marin County Trust Fund awards of $500,000 (2022) and a reported $1,000,000 total appear in County documents cited in search results (not opened).",
+      "per_unit_cap": null,
+      "affordability_requirement": "44 restricted units plus one manager unit: 9 at or below 50% AMI, 9 at or below 60% AMI, 26 at or below 80% AMI, with at least 40% of units at or below 60% AMI and half of those at or below 50% AMI (Surplus Land Act), all subject to a TCAC regulatory agreement.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "EAH is assembling tax credit and other financing; leasing interest sign-ups were anticipated for early 2026 and construction timing depends on credit awards. No other City-owned site is in process.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Mill Valley's first affordable development in about three decades and the model for how the City layers: surplus land under a 99-year lease, Trust Fund match, County Trust Fund, HOME through the Marin Urban County, and 4% or 9% credits with CMFA bonds. For a third-party developer the record shows that City resources are already concentrated here through at least 2027. Hamilton Drive project page, Jan 12, 2026 Council agenda and staff report (270 pages, Granicus) and Resolution 24-60 opened. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://ca-millvalley.civicplus.com/931/Hamilton-Drive",
+      "record_id": "4672918415",
+      "cycle_notes": "site committed to EAH Housing",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  }
+]

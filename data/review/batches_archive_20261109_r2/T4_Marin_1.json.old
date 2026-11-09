@@ -1,0 +1,114 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Inclusionary housing, affordable housing impact fee and commercial linkage fee (Development Code Chapter 22.22) with state density bonus (Chapter 22.24)",
+      "administering_agency": "Marin County Community Development Agency, Planning Division (unincorporated area); fees deposited to the Affordable Housing Fund",
+      "funding_type": "density bonus",
+      "typical_award_size": "Chapter 22.22: 20% of units or lots in new residential projects must be affordable (projects of four or fewer units round up only above 0.70 of a unit), restricted in perpetuity unless shortened to match financing; income tiers very low (30% to 50% AMI), low (50% to 80%), moderate (80% to 120%) and middle (120% to 150%); alternatives in priority order are off-site units, land dedication and an in-lieu fee set at 125% of the requirement when a waiver is granted; single-family homes over 2,000 square feet pay an Affordable Housing Impact Fee (Ordinance 3500, 2008); non-residential projects pay a jobs-housing linkage fee by floor area and use (Ordinance 3798 and Resolution 2023-102 of Sept 19, 2023; Resolution 2016-122 for residential care and skilled nursing). Fees are indexed annually to the California Construction Cost Index; the June 23, 2026 adjustment was 3.9% and the FY 2026-27 in-lieu fee is $421,886.99 per required unit per the County fee page (2023-24 fee was $399,654). Chapter 22.24 implements Government Code 65915: base 20% bonus at 10% low or 5% very low income units, one to five concessions by affordability level, unlimited waivers of standards that physically preclude the project, height increases up to three stories near major transit for 80% lower income projects; the County may offer incentives to deed-restricted projects without a bonus but is not required to give fee waivers.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Inclusionary units restricted in perpetuity (or the maximum financing allows); density bonus rental units 30 years minimum under 22.24, moderate-income for-sale units in perpetuity. Rents capped at 50%, 65% and 100% of AMI levels for very low, low and moderate tiers.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; fees adjust each June (next adjustment June 2027). A multi-jurisdictional Affordable Housing Impact Fee Study by Strategic Economics for the cities and towns was authorized April 15, 2025, and the County is also studying development impact fees for infrastructure (public hearing March 10, 2026).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Marin's unincorporated inclusionary rule is one of the strictest in the state (20% in perpetuity, in-lieu fee only after off-site and land dedication are shown infeasible), and fee receipts flow to the Affordable Housing Fund that this database records separately. Fee revenue is modest because unincorporated development is small. A 100% affordable project satisfies the chapter automatically and uses the state density bonus. Density bonus alone does not trigger prevailing wage; Labor Code 1720(b)(4) would treat any fee waiver as public funds. Sources opened: Zoneomics mirror of Development Code Article III (Chapters 22.22 and 22.24) and the June 23, 2026 fee adjustment staff report on Granicus; the County fee calculator page was blocked.",
+      "source_url": "https://marin.granicus.com/MetaViewer.php?view_id=33&clip_id=13163&meta_id=1442466",
+      "record_id": "02b451fc33",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income"
+      ],
+      "next_deadline_date": "2026-03-10",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Rafael",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Commercial linkage fee for nonresidential development, SRMC 14.16.030(D) and (E), Ordinance 1990, rates updated December 2023",
+      "administering_agency": "City of San Rafael Community and Economic Development Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Rates effective July 1, 2024: office or research and development $13.33 per square foot; retail, restaurant or personal service $10.00 per square foot; hotel or motel $5.00 per square foot. Applies to new nonresidential construction of 5,000 square feet or more, additions and residential-to-commercial conversions. Underlying nexus in Table 14.16.030-3: office 0.03 affordable units per 1,000 square feet, retail 0.0225, manufacturing 0.01625, warehouse 0.00875, hotel 0.0075, with 20% of employee housing need assigned to the project. Receipts go to the segregated housing in-lieu fee fund.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Fee may be satisfied instead by on-site or off-site units or land dedication at Planning Commission or Council discretion; mixed-use projects whose residential component meets the nonresidential requirement are exempt from the fee.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rates are not indexed by the ordinance text read; the City says fees are subject to change and the last update was December 2023 (effective July 1, 2024). Confirm before application.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "One of only two active commercial linkage fees among the three Marin priority cities (Novato's code mirror shows no linkage fee and Mill Valley committed only to study one by 2025 under Housing Element Program 12); Marin County's Chapter 22.22 linkage fee applies in unincorporated areas only. Low commercial construction volume means this is a minor revenue line for the Trust Fund. Ordinance 1990 PDF opened on the City fees page.",
+      "source_url": "https://storage.googleapis.com/proudcity/sanrafael/2026/07/Housing-Ordinance_1990_Final-approved-2-16-21.pdf",
+      "record_id": "ddf1af9b8d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": "2024-07-01",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Marin Community Foundation CommunityFirst Loan Fund (nonprofit site acquisition and affordable housing loans)",
+      "administering_agency": "Marin Community Foundation, 5 Hamilton Landing Suite 200, Novato; director for community investment performs due diligence; Finance Committee approves loans under $5 million, board approves larger",
+      "funding_type": "loan",
+      "typical_award_size": "Loans to Marin nonprofits generally $500,000 to $5 million; short or long term; uses include site acquisition, construction and rehabilitation for Marin County affordable housing and capacity-building bridges; 0% default rate over 20 years; repayments revolve. Example: $1.35 million loan plus $500,000 grant for Stinson Beach affordable housing. Rates not posted (a 2017 fund report cited 4.0% fixed).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Marin County nonprofits that cannot access or afford commercial debt, including affordable housing projects.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Marin County only, nonprofit borrowers only. MCF has co-funded the Marin Workforce Housing Trust with the County and named homelessness and affordable housing a strategic priority in 2024. Pair with the Marin County Affordable Housing Fund and city in-lieu funds (San Rafael, Novato, Mill Valley); MCF money can close acquisition gaps ahead of County awards.",
+      "source_url": "https://www.marincf.org/marin-community/how-we-support-nonprofits/community-first-loan-fund",
+      "record_id": "ee16eba9f7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition",
+        "construction",
+        "acquisition-rehab",
+        "preservation",
+        "capacity-building bridge loans"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

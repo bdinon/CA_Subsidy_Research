@@ -1,0 +1,165 @@
+[
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Northern California (12 counties)",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Public Lands Unlocking Sites (PLUS) predevelopment guaranty program, LISC Bay Area",
+      "administering_agency": "LISC Bay Area with a Chan Zuckerberg Initiative-backed guaranty",
+      "funding_type": "other",
+      "typical_award_size": "$10 million guaranty that lets LISC provide predevelopment funding for affordable housing on surplus public land without borrower collateral; goal of over 800 affordable units by 2029 across 12 Northern California counties. Loan sizes and pricing are not posted.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Multifamily housing for households earning up to 80% AMI on surplus or public land.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; contact LISC Bay Area lending (no public application posted).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Designed for Surplus Land Act and other public-site dispositions where developers cannot pledge collateral before site control. Example cited: a 127-unit project on a 2-acre city and transit district site in Santa Cruz. Combine with BAHFA Priority Sites predevelopment loans and county or city surplus land programs. Public land involvement makes prevailing wage status project-specific.",
+      "source_url": "https://www.lisc.org/bay-area/how-we-work/lending-products/",
+      "record_id": "2f6c4e5f09",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment",
+        "new construction on public land",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Nine-county San Francisco Bay Area",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Ready to Build technical assistance program for nonprofit affordable housing developers, Community Vision",
+      "administering_agency": "Community Vision; Leslie Palaroan, Senior Program Manager, lpalaroan@communityvisionca.org",
+      "funding_type": "other",
+      "typical_award_size": "Intensive one-on-one technical assistance (feasibility, pro forma and capital stacking, development roadmap, partner matchmaking, asset management training) for nonprofits with a project positioned to reach site acquisition, construction start or completion by December 1, 2028. No direct capital.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing affordable to households at or below 120% AMI with an identified site; preference for site control.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Applications due November 13, 2026 at 5pm (rolling if needed); selections first week of December 2026.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Open to nonprofits in the nine Bay Area counties (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, Sonoma), including emerging developers, CLTs, faith-based entities, tribal organizations and service providers. Pairs with LISC Faith and Housing and with Community Vision or Housing Trust predevelopment loans.",
+      "source_url": "https://communityvisionca.org/advising/ready-to-build/",
+      "record_id": "4c38ec9433",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment technical assistance",
+        "new construction",
+        "acquisition-rehab",
+        "community land trust projects"
+      ],
+      "next_deadline_date": "2026-11-13",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "National (California deals confirmed in Southern California)",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "needs_confirmation",
+      "program_name": "Mercy Community Capital (formerly Mercy Loan Fund) acquisition, construction, bridge and predevelopment loans",
+      "administering_agency": "Mercy Community Capital, the CDFI affiliate of Mercy Housing (Denver headquarters; lends in California under a California Financing Law license)",
+      "funding_type": "loan",
+      "typical_award_size": "Revolving loan fund offering acquisition, construction or rehabilitation loans, bridge loans to tax credit projects covering the equity pay-in period, secured predevelopment loans and lines of credit to national developers; applications accepted year-round and reviewed monthly. Loan sizes and rates are not posted.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Quality affordable housing for low and very low income households and special needs populations with guaranteed long-term affordability.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; monthly loan review.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "National lender affiliated with Mercy Housing California (Sacramento and Bay Area portfolios). Search results cite a participation loan with Community HousingWorks in San Diego and a $4.9 million acquisition and predevelopment loan to the Cesar Chavez Foundation in South Gate (January 2025), but no Northern California deal page was opened this pass, so regional activity needs confirmation before relying on it. Borrowers include nonprofits, LPs with nonprofit GPs, cooperatives, mission-driven for-profits and public agencies.",
+      "source_url": "https://www.mercyhousing.org/partner-with-us/mercy-community-capital/borrower-information/",
+      "record_id": "e4ba5d86b4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition",
+        "new construction",
+        "acquisition-rehab",
+        "LIHTC equity bridge",
+        "predevelopment",
+        "mobile home park cooperative gap loans"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Kaiser Permanente Northern California service area (Bay Area, Sacramento, Central Valley)",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "needs_confirmation",
+      "program_name": "Kaiser Permanente Thriving Communities Fund (RxHome loan fund with Enterprise and Housing for Health Fund preservation equity)",
+      "administering_agency": "Kaiser Permanente National Community Health (impact investing) with Enterprise Community Loan Fund and Enterprise Community Partners as fund partners",
+      "funding_type": "other",
+      "typical_award_size": "Kaiser reports $400 million committed toward housing stability and affordability with a goal of 30,000 units created or preserved by 2030; the Thriving Communities Fund provides capital and long-term loans to acquire, develop and maintain multiunit properties. Components reported elsewhere: a $100 million RxHome Fund ($50 million Kaiser loan to Enterprise Community Loan Fund plus $50 million ECLF capital) for affordable and supportive housing loans in Kaiser service areas, and the Housing for Health Fund, an $85 million preservation equity fund with Enterprise and JPMorgan Chase operating in the Bay Area and Sacramento that had invested $26 million in 637 homes by 2020. Current terms and availability were not posted on the page opened.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable and supportive housing in Kaiser Permanente service areas; preservation of unsubsidized affordable rentals (Housing for Health Fund).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with Enterprise Community Loan Fund (RxHome) or Enterprise's Northern California office (Housing for Health Fund).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Kaiser's Northern California service area covers the Bay Area, Sacramento, Stockton, Fresno and Santa Cruz. Capital reaches developers through Enterprise (loans) and the Housing for Health Fund (joint-venture equity for preservation buys, often with EBALDC or similar owners). Kaiser also contributed to the Bay's Future Fund and committed $32 million to Sacramento homelessness and housing efforts. Marked needs_confirmation because fund-level term sheets and 2025 to 2026 deployment figures were not available on Kaiser's housing page; the RxHome and Housing for Health figures come from 2019 to 2020 releases.",
+      "source_url": "https://about.kaiserpermanente.org/expertise-and-impact/healthy-communities/our-programs-and-partnerships/housing-security",
+      "record_id": "bb14780743",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation (equity)",
+        "acquisition",
+        "new construction loans",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

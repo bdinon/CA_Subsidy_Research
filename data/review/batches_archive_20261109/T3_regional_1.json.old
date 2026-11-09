@@ -1,0 +1,78 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Nine-county San Francisco Bay Area",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Bay Area Preservation Pilot (BAPP) acquisition and mini-permanent loans",
+      "administering_agency": "Enterprise Community Loan Fund and Low Income Investment Fund (originating CDFIs and fund managers) with the Metropolitan Transportation Commission and Bay Area Housing Finance Authority; MTC contact Somaya Abdelgany, 415-778-5217",
+      "funding_type": "loan",
+      "typical_award_size": "$49 million revolving fund ($10 million MTC plus $39 million CDFI capital). Note A senior up to 85% LTV at lender rate; Note B subordinate (MTC capital) fixed at no more than 2% with a minimum 3:1 leverage; Note C first-loss at 0% with no payments and possible forgiveness if affordability is maintained; maximum program exposure $2,500,000 per borrower outstanding for Notes B and C; maximum 10-year term, no prepayment penalty; origination the greater of $30,000 or 1% of total loans. Two Oakland loans closed preserving 71 homes.",
+      "per_unit_cap": "$2,500,000 maximum Notes B and C exposure per borrower",
+      "affordability_requirement": "Occupied properties of 4 or more units, at least 80% occupied at acquisition, with rents affordable at or below 80% AMI, located in Transit Priority Areas or Priority Development Areas.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling, first come first served through Enterprise or LIIF.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Nine-county Bay Area after the 2021 revisions (lower leverage requirement, up to $6 million convertible to forgivable debt, fund term extended to 20 years). Borrowers need 5 years of experience and 4 completed comparable projects (or a qualifying JV partner). Repayment at sale or refinance; pairs with county preservation funds, the City of Oakland and San Francisco small sites programs and BAHFA's separate Housing Preservation Loan Pilot ($17.8 million REAP 2). MTC public capital in Notes B and C, so prevailing wage is marked unclear.",
+      "source_url": "https://mtc.ca.gov/funding/investment-strategies-commitments/housing-solutions/bay-area-preservation-pilot-fund-bapp",
+      "record_id": "b34bca7783",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation",
+        "acquisition of unsubsidized occupied multifamily",
+        "mini-permanent"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Nine-county San Francisco Bay Area",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Bay Area Transit Oriented Affordable Housing (TOAH) Fund predevelopment and acquisition loans",
+      "administering_agency": "Low Income Investment Fund (fund manager) with the Metropolitan Transportation Commission; originating CDFIs Community Vision, Corporation for Supportive Housing, Enterprise Community Loan Fund, LISC and the San Francisco Foundation",
+      "funding_type": "loan",
+      "typical_award_size": "$40 million fund active since 2011 providing predevelopment and acquisition financing for transit-oriented affordable housing and community facilities; loan terms are set by the originating CDFI and are not posted on LIIF's fund page.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable housing and neighborhood assets near transit in the San Francisco Bay Area.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling through the originating CDFIs.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Oldest of the MTC-seeded regional funds and the model for GSAF and BAPP. Confirm remaining capacity and current terms with LIIF or an originator before relying on it; terms were not available on the page opened this pass. MTC seed capital may be public funds for Labor Code 1720 purposes.",
+      "source_url": "https://www.liifund.org/strategic-priorities/lending-tools/national-funds/",
+      "record_id": "a476996354",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment",
+        "acquisition",
+        "new construction sites near transit",
+        "community facilities"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

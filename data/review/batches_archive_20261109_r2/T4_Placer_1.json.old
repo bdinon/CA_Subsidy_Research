@@ -1,0 +1,84 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Workforce Housing Preservation Program (WHPP), eastern Placer County deed-restriction purchases",
+      "administering_agency": "Placer County Executive Office, Economic Development and Housing; down payment assistance component administered by Housing Trust Placer",
+      "funding_type": "grant",
+      "typical_award_size": "$4,100,000 allocated since 2021 ($500,000 General Fund and TOT in 2021, $600,000 TOT in 2023, $3,000,000 TOT in April 2024 through the NTCA TOT-TBID program); 17 deed restrictions purchased for $1,852,400 (average $108,965 per property; three in FY 2025-26 for $329,600). $2,247,500 remained through FY 2025-26, with staff seeking to extend it into FY 2026-27. May 12, 2026 amendments opened the program to multifamily properties of more than four units: maximum aggregate disbursement 16% of fair market value with a $75,000 per-unit cap (single-family cap $150,000), local businesses eligible as buyers, and a termination fee that declines over time.",
+      "per_unit_cap": "$75,000 per unit for multifamily properties (and 16% of fair market value aggregate); $150,000 per single-family property.",
+      "affordability_requirement": "Permanent deed restriction requiring occupancy by a household with at least one member of the local workforce (employed within the Tahoe Truckee Unified School District area); no income limit. Applies to existing homes, condos, duplexes and now multifamily rental properties in eastern Placer County.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applications accepted while funds last; $2,247,500 available as of May 2026, subject to NTCA extension into FY 2026-27. Multifamily eligibility is new as of May 2026, so no multifamily transaction had closed when the guidelines were amended.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. The 2026 change makes WHPP a small acquisition subsidy for buying existing North Shore apartment buildings and restricting them to local workers: a four-unit building worth $2 million could draw $300,000. It fills the preservation gap the County identified as redevelopment pressure on long-term rentals. The restriction is workforce occupancy rather than income, so it does not combine with LIHTC or state programs that require income limits, but it can pair with Launchpad for added units and with the welfare exemption only if a nonprofit owner also records income restrictions. No construction, so no prevailing wage.",
+      "source_url": "https://content.govdelivery.com/attachments/CAPLACER/2026/05/08/file_attachments/3645292/02A.pdf",
+      "record_id": "a4c3f3dfd7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation",
+        "acquisition-rehab",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Roseville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Roseville Local Housing Trust Fund (LHTF) gap loans, including Prohousing Incentive Program (PIP) program income NOFA (Resolution 26-404, November 4, 2026)",
+      "administering_agency": "City of Roseville Economic Development Department, Housing Division (316 Vernon Street, Suite 150; 916-774-5270; housing@roseville.ca.gov)",
+      "funding_type": "loan",
+      "typical_award_size": "Project-by-project gap loans from the City's Local Housing Trust Fund, which receives in-lieu fees, affordable purchase loan payoffs and state grant program income. Most recent round: a NOFA released August 31, 2026 offered $1,000,000 of PIP program income (from a $1,050,000 developer loan payoff on the City's 2023 PIP Round 1 award of $1,610,000) for predevelopment of lower-income rental housing; two applications were received (Eden Housing, 505 Royer, 58 senior units; Mercy Housing, Pleasant Grove Apartments Phase II, 49 units) and staff recommended reserving the full $1,000,000 for Pleasant Grove Phase II on November 4, 2026. Earlier LHTF and in-lieu commitments include $4.36M reserved for Junction Crossing (80 units, St. Anton) and, per the City's pipeline report, $6,000,000 for Pleasant Grove Apartments (pipeline PDF returned 502 this pass). The 2021 Housing Element commits the City to re-apply for state LHTF matching funds as rounds open.",
+      "per_unit_cap": "None published. The PIP award of $1,000,000 for 49 units is about $20,400 per unit.",
+      "affordability_requirement": "Set by loan documents and an Affordable Rental Housing Agreement; PIP money is limited to lower-income (at or below 80% AMI) rental housing, and the 2026 NOFA targeted 30% to 60% AMI projects with preference for units for persons with disabilities and supportive services. Projects in high opportunity areas or areas at risk of displacement are prioritized (Housing Element Programs 9, 10 and 12).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open NOFA as of 2026-11-08; the August 31, 2026 PIP NOFA closed and funds were reserved November 4, 2026. Loan documents for Pleasant Grove Phase II return to Council at a future meeting; construction expected 2027. Watch for the next LHTF or PIP program-income NOFA from the Housing Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "This is the city layer that stacks under 9% or 4% LIHTC and tax-exempt bonds (county TEFRA via CalPFA, CMFA or CSCDA; the County is not an issuer). Roseville's LHTF is separate from Placer County's in-lieu fee gap loans (Hope Way, Destination at Placer One) and from Housing Trust Placer; a Roseville project can seek all three plus Roseville Housing Authority project-based vouchers. Gap order: LIHTC and bonds first, then City LHTF or PIP reservation, then County or Housing Trust Placer money. Roseville's municipal website (roseville.ca.us, now roseville.ca.gov) opens, but the pipeline PDF and script-rendered agenda pages do not; staff reports were read from the City's CivicClerk API file streams (rosevilleca.api.civicclerk.com).",
+      "source_url": "https://rosevilleca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11813,plainText=false)",
+      "record_id": "4d95f0f843",
+      "cycle_notes": "as program income is received",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "next_deadline_date": "2026-11-08",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  }
+]

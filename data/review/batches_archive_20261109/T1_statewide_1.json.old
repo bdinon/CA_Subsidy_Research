@@ -1,0 +1,78 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "needs_confirmation",
+      "program_name": "Local Government Special Needs Housing Program (SNHP)",
+      "administering_agency": "California Housing Finance Agency (CalHFA), with county MHSA funds",
+      "funding_type": "loan",
+      "typical_award_size": "Historically county-funded MHSA capital loans and capitalized operating subsidies administered by CalHFA (16 participating counties as of 2019).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Permanent supportive housing units for persons with serious mental illness eligible for MHSA services.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Program discontinued effective January 3, 2020 per DHCS Information Notice 19-047; no new rounds.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "No live CalHFA program page exists; the CalHFA multifamily programs page (source) no longer lists SNHP, and a DHCS notice (BH-IN-19-047) states CalHFA discontinued the program effective Jan 3, 2020 with county MHSA funds reverting to county control. Marked needs_confirmation because the DHCS notice could not be opened this pass. Successor supportive housing capital now comes from Homekey+, HCD MHP supportive units, and county Behavioral Health Services Act (Prop 1) housing allocations (research in Pass 2). CTCAC still lists SNHP commitments as qualifying homeless-assistance funding in the nonprofit set-aside.",
+      "source_url": "https://www.calhfa.ca.gov/multifamily/programs/index.htm",
+      "record_id": "80011286ab",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2020-01-03",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "needs_confirmation",
+      "program_name": "Golden State Acquisition Fund (GSAF)",
+      "administering_agency": "HCD seed capital; Low Income Investment Fund is administrative agent and fund manager; originators are LIIF, Century Housing, Community Vision, Corporation for Supportive Housing, Enterprise Community Loan Fund, Housing Trust Silicon Valley, LISC and RCAC",
+      "funding_type": "loan",
+      "typical_award_size": "$292 million revolving fund (LIIF, 2026) making short-term acquisition and predevelopment loans through eight CDFI originators; terms set by each originator (Century reports GSAF participation can lift acquisition loan-to-value toward 100%).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Sites to be developed or preserved as affordable housing; terms per fund manager.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling through fund managers listed at goldenstate-fund.com.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Listed on HCD's grants and funding page with an external link; the fund's own site was not opened this pass, so terms need confirmation. Bridge financing only; repaid at construction closing from LIHTC/bond sources. Pass 4 (2026-11-08): LIIF's national funds page confirms GSAF is a $292 million fund active since 2013 with LIIF as administrative agent, fund manager and originator and eight CDFI originators (LIIF, Century Housing, Community Vision, CSH, Enterprise Community Partners, Housing Trust Silicon Valley, LISC, RCAC); Century's acquisition term sheet references GSAF as a leverage source. The fund's own site (gsafund.org) did not respond this pass, so terms still need confirmation with an originator.",
+      "source_url": "https://www.hcd.ca.gov/grants-and-funding",
+      "record_id": "2a293a3fe3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

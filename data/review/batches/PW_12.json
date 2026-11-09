@@ -1,0 +1,1037 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "2016 Measure A Affordable Housing Bond (Housing Bond)",
+      "administering_agency": "County of Santa Clara Office of Supportive Housing (OSH), Housing and Community Development Division",
+      "funding_type": "loan",
+      "typical_award_size": "$950 million general obligation bond approved November 8, 2016. As of October 2026 the Board had committed $879.2 million; 65 multifamily rental developments in 12 cities received about $747 million ($714.3 million in Supportive Housing Development Program rounds 1 through 14 and off-cycle awards plus $11.9 million acquisition loans and $90.5 million County acquisitions). Individual commitments range from $1.0 million (The Veranda, Cupertino, 19 units) to $42.3 million (Mosaic Court, Milpitas, 134 units); Gateway Tower (220 units, San Jose) revised January 13, 2026 to $25,560,000, about $116,182 per unit.",
+      "per_unit_cap": "No published cap. Awards have averaged roughly $100,000 to $200,000 per unit in recent rounds; $116,182 per unit at Gateway Tower (2026).",
+      "affordability_requirement": "Board goals by category: PSH for persons with disabling conditions, rapid rehousing units, ELI (30% AMI) and VLI (50% AMI) units, plus 300 mixed-income units and homeownership. 4,800 rental unit goal exceeded (5,255 goal units approved, 109%). Long-term County regulatory agreement recorded on each project.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "mixed-income",
+        "homeownership"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No new application round. As of October 2026 the remaining $67.8 million is reserved for three developments on County-owned land and one affordable homeownership development (Branham Station, VTA TOD). About $6.4 million of program-generated income is available to recommit to multifamily rental projects.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. The County's November 3, 2026 implementation report (first annual report, year 10 of a 10-year plan) states the bond is nearly fully deployed: 65 approved rental developments with 6,846 units (2,693 supportive), 38 in operation, 17 under construction, four fully financed and six in predevelopment; $30.5 million in program-generated income received, $23.5 million recommitted. Measure A averaged about $6 of outside funding per $1 of County bond money and has been the standard local soft source behind 4% and 9% tax credit deals in Santa Clara County; in 2025, 11 County-funded projects won tax credit awards. Awards are made through the over-the-counter Supportive Housing Development Fund NOFA (see separate record) and paired with SCCHA project-based vouchers (3,000 plus PBVs deployed). Do not confuse with the November 4, 2025 Measure A, a five-eighths cent County sales tax for safety-net services that is not a housing fund. The Board is studying a future housing fund (June 2, 2026 report) but no successor measure is on the November 2026 ballot; the statewide $10 billion housing bond (AB 736/SB 417) is the near-term pipeline source. County loans require state prevailing wage as public funds.",
+      "source_url": "https://sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=130214",
+      "record_id": "b9423ec8a0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "acquisition and rehabilitation",
+        "permanent supportive housing",
+        "mixed-income rental (County-owned sites)",
+        "affordable homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 Nov 9, 2026: core figures match the November 2026 implementation report ($950M bond, $879.2M committed, about $747M to 65 rental developments, $714.3M multifamily commitments, $67.8M remaining for three County-owned sites and Branham Station, $6,375,672 program income available for multifamily). Project-level figures (Veranda, Mosaic Court, Gateway Tower, acquisition loans) are not in this file but are not contradicted. prevailing_wage_trigger is uncited (no prevailing_wage_basis); the value rests on the general Labor Code 1720(b) public funds definition, not a program rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Supportive Housing Development Fund NOFA (SHDF NOFA)",
+      "administering_agency": "County of Santa Clara Office of Supportive Housing (OSH)",
+      "funding_type": "loan",
+      "typical_award_size": "Single over-the-counter solicitation that consolidates all County-controlled housing production funds since 2017 (current NOFA issued August 16, 2021). Sources: 2016 Measure A bond, No Place Like Home (County is an alternative county with a direct allocation of $106,085,749 over four rounds; $102.9 million committed), the $40 million I/DD Housing Fund, Stanford Affordable Housing Fund, HOME (about $1 million a year; $3,269,475 programmed for FY 2026-27), CDBG (site acquisition), PLHA, Local Housing Trust Fund match and Homekey+ (over $40 million awarded in 2025-26 for Algarve Apartments with Abode). Measure A acquisition and predevelopment loans were capped at $8 million.",
+      "per_unit_cap": "Not published. Underwriting guidelines are reviewed annually against state and federal capital sources.",
+      "affordability_requirement": "Priority on extremely low-income and special needs households: homeless and chronically homeless, seniors, transition-age youth, agricultural workers, persons with disabilities. Since 2015 the County has funded 7,183 units, 2,997 set aside for homeless households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "predevelopment",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Over the counter, no fixed deadline. With Measure A nearly committed, new awards depend on program income, NPLH interest, HOME, PLHA and state awards; the County Housing Element lists the SHDF NOFA as ongoing through 2031.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. The NOFA is the single door for County capital in Santa Clara County; applications are underwritten by OSH and taken to the Board in numbered rounds (Round 14 on May 20, 2025) or as off-cycle items. SCCHA project-based vouchers are awarded alongside County capital, and MTW Activity 2016-2 lets SCCHA attach PBVs without a separate competition to projects selected through the County NOFA within the last 15 years. OSH also manages a County Managed Housing Production Pipeline with the 15 cities and SCCHA, supports applications to CTCAC, CDLAC and HCD, and funded 11 tax credit awards in 2025. The County loan portfolio exceeds $1 billion across more than 12,000 units. Source is the County 2023-2031 Housing Element Program 1.01, supplemented by the March 17, 2026 HLUET annual report (sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=127742) and the October 20, 2026 funding commitments item (ID=130362).",
+      "source_url": "https://stgenpln.blob.core.windows.net/document/HousingElementUpdate_Draft_R4_Ch4.pdf",
+      "record_id": "bb49c3e13d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "acquisition and rehabilitation",
+        "permanent supportive housing",
+        "predevelopment and site acquisition loans",
+        "farmworker housing",
+        "housing for persons with intellectual and developmental disabilities"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: Housing Element Chapter 4 Program 1.01 confirms the over-the-counter SHDF NOFA, the source list (Measure A, NPLH $106,085,749 over four rounds, $40M I/DD fund, Stanford fund, HOME about $1M a year, CDBG, PLHA at 60% AMI) and 7,183 units with 2,997 for homeless households. The Aug 16, 2021 NOFA date, $102.9M NPLH committed, $3,269,475 HOME FY 2026-27, Homekey+ Algarve award and $8M Measure A cap are not on this page and were not rechecked (santaclaracounty.gov 403). Prevailing wage true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "County Affordable Housing Fund (AHF) and loan portfolio preservation",
+      "administering_agency": "County of Santa Clara Office of Supportive Housing (OSH), asset management",
+      "funding_type": "loan",
+      "typical_award_size": "Special fund established 2003; initial capitalization fully expended, now replenished by loan repayments, interest and administration fees. Recent uses: $626,294 toward Bella Vista Inn interim housing rehabilitation (October 2026); Administration plans to request up to $2,500,000 for preservation of First Community Housing properties that carry $48,128,560 in County loans (six developments, 548 units).",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Follows the recorded County regulatory agreement on the assisted property; preservation uses retain existing covenants.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026. No application process; AHF uses are approved by the Board case by case as loan modifications or preservation proposals are presented.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. Small and opportunistic. The AHF matters mostly for sponsors acquiring distressed County-financed assets (FCH announced it will transfer all or part of its portfolio) and for sponsors needing County consent to subordinate, restructure or extend an existing County loan. OSH coordinates workouts with SCCHA and other lenders. Also the vehicle through which program income from closed sources (HOME repayments, Homekey and NPLH interest) is recycled.",
+      "source_url": "https://sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=130132",
+      "record_id": "45a29b9c03",
+      "cycle_notes": "Rolling, Board-driven. The November 3, 2026 FCH portfolio report was informational; Administration has set aside up to $2,500,000 of AHF fund balance for possible hard cost improvements or senior loan reductions at Leigh Avenue Senior Apartments and Iamesi Village and will return with project-specific recommendations and a budget modification. FCH intends to transfer at least five of its six County-funded properties to new sponsors, subject to County and lender approval.",
+      "eligible_project_detail": [
+        "preservation and recapitalization of County-financed developments",
+        "rehabilitation",
+        "gap loans to projects in the County portfolio"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Stanford Affordable Housing Fund (SAHF)",
+      "administering_agency": "County of Santa Clara Office of Supportive Housing (OSH); allocations approved by the Board of Supervisors",
+      "funding_type": "loan",
+      "typical_award_size": "Special revenue fund of in-lieu fees paid by Stanford University under the 2000 General Use Permit ($20 to $80 per square foot of academic floor area). $55.9 million collected since 2000; $61.3 million with interest; $1.7 million uncommitted as of June 30, 2026. Fees partially funded 423 new units in seven projects and preserved 237 units in two projects (660 units), with 250 more planned; awards have also gone to San Mateo County projects ($1.5 million, 965 Weeks Street, East Palo Alto).",
+      "per_unit_cap": "None published. GUP fees have covered about 8.8 percent of total development cost in assisted projects.",
+      "affordability_requirement": "Lower-income affordable housing within a six-mile radius of the Stanford campus; County regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "None. Apply through the SHDF NOFA; only $1.7 million remains uncommitted and the 2023 Stanford Community Plan removed the in-lieu fee pathway, so no new revenue is expected unless the Board restores it in the 2026 GUP.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. Historically the local gap source for Palo Alto area deals (Alta Torre, Stevenson House, 801 Alma, Buena Vista Mobile Home Park, 3001 El Camino Real). The June 30, 2026 HLUET report found the fund produced about 36 units a year and that Stanford's share averaged nearly a third of the typical 30 percent local funding needed for tax credit projects. Stanford has asked that an in-lieu option be restored in the pending 2026 GUP; the Board has not decided. Treat as exhausted for underwriting until that decision.",
+      "source_url": "https://sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=128212",
+      "record_id": "a5cbf8c30d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "preservation of existing affordable housing",
+        "projects within six miles of Stanford including Palo Alto, Mountain View, Los Altos and East Palo Alto"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 Nov 9, 2026: HLUET report matches ($20 to $80 per sq ft fee, six-mile radius, $55.9M collected, $61.3M with interest, $1.7M uncommitted, 423 new and 237 preserved units, 8.8 percent of cost, 2023 SCP on-campus housing policy). The report does not state the June 30, 2026 as-of date. prevailing_wage_trigger is uncited (no prevailing_wage_basis); the value rests on the general Labor Code 1720(b) public funds definition, not a program rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County formula allocation and consortium",
+      "administering_agency": "County of Santa Clara Office of Supportive Housing (OSH), lead for the County PLHA Consortium",
+      "funding_type": "grant",
+      "typical_award_size": "HCD 2024-2028 formula NOFA: Santa Clara County $517,137 (2024), $553,929 (2025), $3,232,106 estimated five-year total. For comparison San Jose receives $3.05 million to $3.27 million a year and the City of Santa Clara $336,570 to $360,516. The County also leads a PLHA consortium with small cities that defer their allocations.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Housing Element Program 1.01 states County PLHA is used for development of new affordable housing for households earning up to 60 percent AMI.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Awarded through the SHDF NOFA; no separate deadline.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. Small relative to Measure A but one of the few recurring County capital sources after the bond. PLHA is state money and carries state prevailing wage when used for construction. The HCD allocation table was opened; the County's PLHA five-year plan itself sits on the blocked county site. The March 17, 2026 HLUET annual report confirms OSH administers the PLHA Consortium alongside the Urban County CDBG and HOME Consortium.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "100099ea1b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "affordable housing development up to 60 percent AMI"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 Nov 9, 2026: HCD 2024-2028 PLHA NOFA table matches (Santa Clara County $517,137 and $553,929, $3,232,106 five-year; San Jose $3,052,455 and $3,269,628; City of Santa Clara $336,570 and $360,516); Housing Element confirms PLHA for new housing up to 60 percent AMI and County consortium lead role. The PLHA NOFA has no prevailing wage clause. prevailing_wage_trigger is uncited (no prevailing_wage_basis); the value rests on the general Labor Code 1720(b) public funds definition, not a program rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Santa Clara County Housing Authority (Moving to Work agency)",
+      "administering_agency": "Santa Clara County Housing Authority (SCCHA)",
+      "funding_type": "rental assistance",
+      "typical_award_size": "SCCHA assists over 22,000 households and has deployed more than 3,000 project-based vouchers to Measure A developments, leveraging about $415 million and anticipating over $3 billion in HAP payments over 20-year contracts. FY 2027 MTW Annual Plan lists 495 vouchers to be newly project-based at 10 properties: 1510 N. First St (57, RAD rehab), 245 Weddell (60), Clara Gardens (30), East Santa Clara Senior (20), Gateway Tower (65), Mountain View Lot 12 (35), Rincon de los Esteros (120, SCCHA acquisition), Trillium (36), Terra Bella (23) and VTA Berryessa (49). Typical award is 20 to 65 PBVs per development, 25 to 50 percent of units.",
+      "per_unit_cap": "MTW modified PBV contract rents; payment standards up to SCCHA exception levels. PBV program cap raised to 40 percent of baseline vouchers under MTW Activity 2020-1.",
+      "affordability_requirement": "PBV units serve households referred through coordinated entry (chronically homeless), families, seniors, veterans (HUD-VASH) and persons with disabilities; 20-year HAP contracts with County and SCCHA covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open PBV RFP. PBVs are awarded with County SHDF NOFA capital; MTW Activity 2016-2 allows non-competitive PBV selection for projects chosen through a federal, state or local government solicitation within the last 15 years. SCCHA procurement moved to PlanetBids (portal 66280) in 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. PBVs are the operating backbone of Santa Clara County deals: Measure A capital plus SCCHA PBVs plus 4% credits is the standard stack, and the PBV HAP supports permanent debt sized to contract rents. Owners must certify that prevailing wages were paid for any work before HAP execution and that NEPA (24 CFR 50/58) was cleared before site work; HUD Davis-Bacon applies to PBV new construction or rehabilitation of nine or more contract units. SCCHA owns and acquires properties directly (Activity 2010-4, non-competitive PBVs for SCCHA-owned projects) and partners with the County on County-owned sites. The HCV interest list opened December 2020; SCCHA jurisdiction covers the whole county including San Jose (the former Housing Authority of the City of San Jose is administered by SCCHA).",
+      "source_url": "https://www.scchousingauthority.org/wp-content/uploads/2026/03/FY2027-MTW-Annual-Plan-Public-Review.pdf",
+      "record_id": "2e798dae92",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction supportive housing",
+        "rehabilitation and RAD conversions",
+        "SCCHA-owned acquisitions",
+        "senior and special needs housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: FY2027 MTW Annual Plan confirms 22,000 households, 3,000+ PBVs, $415M leveraged, $3B HAP, the 10-property 495 PBV table, Activity 2016-2 (non-competitive selection within 15 years) and Activity 2020-1 (40% PBV cap). The plan table marks 1510 N. First as not RAD (a separate RAD conversion is discussed). Prevailing wage true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Continuum of Care CA-500 (San Jose/Santa Clara City and County) and HHAP funding",
+      "administering_agency": "County of Santa Clara Office of Supportive Housing (OSH) as CoC lead and collaborative applicant; City of San Jose and the CoC are co-applicants for HHAP",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 6 allocations (HCD, based on the 2024 PIT count): Santa Clara County $11,860,491.01; San Jose/Santa Clara City and County CoC $12,667,208.31; City of San Jose $25,329,964.46. The County's delegated HHAP-6 authority is $24,528,000 (County plus CoC shares); the state notified the region of its award March 17, 2026. The County is also administering about $10 million HHAP-2, $28 million HHAP-3, $25.8 million HHAP-4 and $27.9 million HHAP-5. HUD CoC program grants to the County total about $35.1 million for 23 renewals (2026-27) and the region receives roughly $48 million a year; the 2026 CoC competition application authority is up to $38.1 million for 24 grants.",
+      "per_unit_cap": "Not applicable; operating and services funding.",
+      "affordability_requirement": "Households experiencing homelessness referred through coordinated entry; Housing First required by the regional MOU; at least 10 percent of HHAP for youth.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 obligation and expenditure deadlines run through June 30, 2030 under the amended agreement. HUD vacated its 2026 CoC NOFO after federal litigation; the County delegated authority to apply for up to 24 CoC grants when the competition reopens.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. The County uses HHAP for the Homelessness Prevention System, interim housing operations and supportive services for permanent housing, not capital. For a PSH deal the practical asks are a CoC or County services contract and PBVs; the County has committed to fund supportive services at every Measure A development. HUD's proposed 30 percent cap on permanent housing in the 2026 CoC round puts about 1,600 PSH households at risk per OSH (October 2025 coverage). The 2026-2030 Community Plan to End Homelessness (endorsed September 15, 2026) sets a goal of housing 15,000 people. HHAP-6 allocation table opened at hcd.ca.gov (hhap-6-allocations.pdf).",
+      "source_url": "https://sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=129202",
+      "record_id": "4ca927f020",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing operating and services",
+        "rapid rehousing",
+        "interim housing operations",
+        "homelessness prevention (Countywide Homelessness Prevention System)"
+      ],
+      "next_deadline_date": "2030-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: IQM2 file 129202 confirms the $24,528,000 HHAP-6 delegation, March 17, 2026 award notice, term through June 30, 2030, HHAP-2 to HHAP-5 balances, Housing First MOU and 10% youth set-aside. HCD allocation figures and CoC figures are from other items and were not rechecked. Prevailing wage false is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) Integrated Plan FY 2026-27 through FY 2028-29, housing interventions",
+      "administering_agency": "County of Santa Clara Behavioral Health Services Department (BHSD)",
+      "funding_type": "grant",
+      "typical_award_size": "Total BHSA expenditure budget about $160 million a year; Housing Interventions component at the statutory 30 percent, $48 million a year (no transfer or exemption requested). Uses: tenant-based rental assistance for up to 700 individuals a year (500 permanent, 200 interim), continuation of the Casa de Novo interim housing program, Transitional Rent and Housing Deposits as a Medi-Cal managed care plan contracted provider from January 1, 2026, and licensed residential care facility support through a separate $8,038,653 CCE Preservation grant ($4,578,568 capital, $3,460,085 operating).",
+      "per_unit_cap": "Not applicable. The plan funds no project-based units (units funded per year reported as 0).",
+      "affordability_requirement": "BHSA-eligible adults with serious mental illness or substance use disorder who are homeless or at risk; 50 percent of housing funds targeted to chronically homeless individuals, with a focus on encampments.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Draft Integrated Plan adopted by the Board June 2, 2026 and submitted to DHCS by June 30, 2026; plan period July 1, 2026 to June 30, 2029. Annual updates each spring.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. Santa Clara County elected not to use BHSA for capital development (the plan says MHSA housing funds go to interventions that provide more immediate access) and not to fund operating subsidies with BHSA, so unlike San Diego or Sacramento there is no BHSA capital or PSH operating line to underwrite here. BHSD contracts with two providers for on-site specialty mental health services at PSH developments and will refer BHSA clients to County and SCCHA project-based units through coordinated entry. The Casa de Novo site (Homekey) continues as interim housing. Plan PDF: sccgov.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=270066 (Attachment B). Audit 2026-11-08 funding_type: classed as grant because the Housing Interventions component funds tenant-based rental subsidies for housing (up to 700 individuals a year); there is no capital line and 0 project-based units, so it is not a development source.",
+      "source_url": "https://sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=128128",
+      "record_id": "bb40cf6127",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "tenant-based rental subsidies",
+        "interim housing operations",
+        "licensed residential care facility placements",
+        "supportive services at PSH developments"
+      ],
+      "next_deadline_date": "2029-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Conduit multifamily and nonprofit housing bonds, County TEFRA approvals (CSCDA, CMFA)",
+      "administering_agency": "County of Santa Clara Board of Supervisors; TEFRA hearings delegated to the Director of Finance",
+      "funding_type": "bond",
+      "typical_award_size": "The County does not issue its own multifamily housing bonds; it is a member of CSCDA (joined July 13, 1993) and approves conduit issues for projects in unincorporated territory or multi-site plans. 2026 example: CSCDA plan of finance up to $125,000,000 for Odd Fellows Home of California (Saratoga Retirement Community, $110 million, plus a Napa facility), approved February 24, 2026 after a February 4, 2026 teleconference TEFRA hearing. Affordable projects inside cities obtain TEFRA approval from the city council (for example CMFA issues for Sunnyvale Block 15, Sango Court in Milpitas, Santa Clara Apartments $33.5 million CDLAC allocation in 2026). SCCHA itself used CMFA for the Laurel Grove Lane acquisition.",
+      "per_unit_cap": "Not applicable; sized by CDLAC allocation and the 50 percent test.",
+      "affordability_requirement": "Federal 20 percent at 50 percent AMI or 40 percent at 60 percent AMI plus CDLAC requirements; County approval carries no additional covenant.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "None. TEFRA hearings are held by Administration before the Board meeting at which the approval resolution is placed on the consent calendar; allow four to six weeks.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. Expect to go to CMFA, CSCDA or CalHFA for bonds and to the host city for TEFRA. The County's role is procedural and fee-free (the County incurs no cost or liability). SCCHA historically issued its own housing bonds (Blossom River 1998A still outstanding) but now acts as borrower through CMFA. Conduit bonds alone do not trigger state prevailing wage; County, state or federal subsidy in the same deal does.",
+      "source_url": "https://sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=127492",
+      "record_id": "1704dc3a68",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "4 percent LIHTC new construction",
+        "acquisition and rehabilitation",
+        "senior and continuing care facilities",
+        "nonprofit-owned housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: IQM2 file 127492 (BOS-2026-25) confirms the CSCDA plan of finance up to $125,000,000 for Odd Fellows Home of California, adopted Feb 24, 2026 after a Feb 4, 2026 teleconference TEFRA hearing, County CSCDA membership since July 13, 1993, and the 2020 delegation to hold TEFRA hearings before the Board meeting. Prevailing wage false is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Intellectual and Developmental Disabilities (I/DD) Housing Fund",
+      "administering_agency": "County of Santa Clara Office of Supportive Housing (OSH)",
+      "funding_type": "loan",
+      "typical_award_size": "$40 million County General Fund commitment for extremely low and very low income housing for persons with intellectual and developmental disabilities and their families; awarded through the SHDF NOFA. Board approved I/DD project delegations April 20, 2021 and February 10, 2026; $2,000,000 of I/DD funds replaced Measure A at La Bella (Mountain View, 2026) and $401,287 of bond program income was added to the FY 2022 I/DD fund. The County has also committed $10 million rounds for I/DD housing in prior years and supported an I/DD project in San Mateo County.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Units set aside for ELI and VLI households that include a person with an intellectual or developmental disability, typically with San Andreas Regional Center referral and services.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No published round or deadline as of November 8, 2026. I/DD funds are committed project by project by Board action; contact OSH for remaining balance.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. A set-aside of 10 to 20 I/DD units can unlock County I/DD money on top of Measure A or in place of it, and pairs with SCCHA PBVs for special needs households and Regional Center services. County General Fund loans trigger state prevailing wage. Described in the County Housing Element Program 1.01 funding source list; 2026 delegations in the October 6, 2026 DOA item (sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=130354).",
+      "source_url": "https://stgenpln.blob.core.windows.net/document/HousingElementUpdate_Draft_R4_Ch4.pdf",
+      "record_id": "9248240ed5",
+      "cycle_notes": "Rolling, project-by-project. The Board approved initial delegations for I/DD projects on April 20, 2021 and February 10, 2026, and on October 6, 2026 extended delegations for previously approved Housing Bond and I/DD projects to December 31, 2031. The Housing Element lists $40 million of County General Fund for ELI and VLI I/DD housing. Remaining uncommitted balance not published.",
+      "eligible_project_detail": [
+        "new construction multifamily rental with I/DD set-aside units",
+        "integrated supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Jose",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Gap Financing Program, rolling Request for Proposals with Notice of Funding Availability addenda (new construction and preservation)",
+      "administering_agency": "City of San Jose Housing Department, Residential Development, Production and Preservation",
+      "funding_type": "loan",
+      "typical_award_size": "Construction-permanent and acquisition loans from the Low and Moderate Income Housing Asset Fund, Inclusionary Fee Fund, Measure E Real Property Transfer Tax Fund and impact fee funds. The April 14, 2025 joint New Construction/Preservation RFP was backed by a $50 million commitment; the June 2025 Round 1 NOFA addendum has produced three awards so far. 2025 awards: $48.3 million for Berryessa TOD and Gateway Tower (415 units); Gateway Tower $38.44 million total ($174,727 per unit on 220 units, later revised to $25.56 million after CalHFA MIP and state credits); 1510 North 1st Street hotel conversion $5.7 million (58 units, October 2026); Capitol Station $8.4 million LMIHAF. Since January 2023 the City has provided $222.7 million to 16 developments producing 1,639 units.",
+      "per_unit_cap": "No published cap. Recent per-unit City subsidy ranged from about $100,000 (1510 North 1st, with project-based vouchers) to $174,727 (Gateway Tower before state awards).",
+      "affordability_requirement": "City affordability covenant of at least 55 years, senior to any deed of trust. Rolling RFP prioritizes construction-ready developments, extremely low and very low income units, permanent supportive housing with County vouchers, and preservation of at-risk units. Preservation NOFA target is $5 million average per year (Housing Element Program R-2).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Second NOFA addendum to the rolling RFP was planned for Q2 2026 and waitlisted applications refreshed; confirm the current addendum and submission window with the Housing Department (Banu San, Deputy Director, 408-975-4489). The RFP document is hosted on Biddingo and requires registration.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The primary local gap lender in the county alongside County Measure A (now fully committed, see county record). Staff align awards with County OSH funds and Santa Clara County Housing Authority project-based vouchers ($47.4 million County funds and 298 PBVs leveraged in 2025). Typical stack: 4 percent credits and bonds (City can be issuer under Policy 1-16 or CMFA/CSCDA), CalHFA MIP, AHSC, County SHDF, then City gap loan. The City's August 2026 alternative financing frameworks (see separate record) let staff combine gap financing with inclusionary projects and master-lease structures. Measure E dollars for new development were sharply reduced in the FY 2025-26 budget, so LMIHAF program income ($22.5 million deposited in FY 2024-25) and inclusionary in-lieu fees are the main recurring sources. sanjoseca.gov returns 403 to automated access; all documents were read from the Legistar attachment host.",
+      "source_url": "https://legistar.granicus.com/sanjose/attachments/c6d4b946-ec56-4d6d-8066-ab9d0f78106c.pdf",
+      "record_id": "1b47e67212",
+      "cycle_notes": "NOFA addenda to a rolling RFP, roughly annual",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Jose",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Measure E Real Property Transfer Tax (Municipal Code Chapter 4.59) and Council Policy 1-18 Section 22 spending allocations",
+      "administering_agency": "City of San Jose Housing Department and City Manager's Budget Office; Real Property Transfer Tax Fund",
+      "funding_type": "loan",
+      "typical_award_size": "Transfer tax on sales above $2.3 million (threshold indexed from $2 million as of July 1, 2025): 0.75 percent from $2 million to $5 million, 1.0 percent from $5 million to $10 million, 1.5 percent above $10 million. About $225 million collected July 2020 through mid 2023. FY 2025-26 revenue estimate $55.0 million, FY 2026-27 $60.0 million. Original policy (April 2022) directed 40 percent to extremely low income housing, 30 percent low income, 5 percent moderate income, 10 percent homelessness prevention, 15 percent homeless support. The June 10, 2025 revision allows up to 90 percent of revenue after 5 percent administration for homeless sheltering and interim housing, with only the remainder for new or preserved affordable housing; the FY 2025-26 plan puts $0 of new revenue into affordable housing development. Prior-year Measure E reserves are still being drawn for development, for example $14 million for the Gateway Tower land acquisition (September 2025).",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "When used for development: new or preserved rental housing for extremely low (30 percent AMI) and low income households under City regulatory agreements; previously set by AMI category in Policy 1-18 Section 22.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standalone Measure E NOFA. Future allocations for affordable housing depend on the FY 2026-27 budget (June 2026) and later budgets; shifts between 15 and 90 percent for shelter can be made without the 60-day notice and two-thirds vote. Verify remaining Measure E reserve balances with the Housing Department.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Measure E was the City's largest discretionary housing source from 2020 to 2024 and funded many Gap Financing Program awards. Expect limited new Measure E development money through at least FY 2026-27 because the General Fund shortfall shifted $39.2 million (rising to $42.8 million) of homelessness costs into this fund. Developers should underwrite LMIHAF and inclusionary fee funds first and treat Measure E as upside. A Measure E transfer tax refund pilot for qualifying nonprofit purchases (Section 4.59.230) ran July 2021 through June 30, 2024 with one application; it is now expired. Documents read via Legistar attachments because sanjoseca.gov is blocked. Audit 2026-11-08 funding_type: classed as loan because the development share reaches projects as Gap Financing Program loans (the June 2025 memo cites about $60 million of prior-year Measure E and other housing funds for a Gap Financing NOFA); the shelter share is City-operated spending, not a developer source.",
+      "source_url": "https://legistar.granicus.com/sanjose/attachments/e6f03e54-fdbc-4a08-9773-0599d109f955.pdf",
+      "record_id": "ca49d3841f",
+      "cycle_notes": "appropriated through the annual budget and project-specific Council actions",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "interim housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Jose",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Low and Moderate Income Housing Asset Fund (LMIHAF), Housing Successor to the San Jose Redevelopment Agency",
+      "administering_agency": "City of San Jose Housing Department as Housing Successor",
+      "funding_type": "loan",
+      "typical_award_size": "Ending balance June 30, 2025: $95,884,306. Deposits in FY 2024-25: $22,478,762 (loan repayments and interest). FY 2024-25 expenditures $24.1 million, of which $12.5 million housing development (mostly extremely low income units) and $11.4 million monitoring and administration. Gross value of Housing Successor assets $721 million (loan portfolio and land). Recent LMIHAF commitments: $17.97 million construction-permanent plus $2.17 million acquisition for Gateway Tower, $8.4 million Capitol Station, $5.7 million 1510 North 1st Street.",
+      "per_unit_cap": "None published; sized through the Gap Financing Program underwriting.",
+      "affordability_requirement": "Dissolution Law targets: at least 30 percent of expenditures for rental housing at or below 30 percent AMI and no more than 20 percent for 60 to 80 percent AMI, measured over five-year periods; City covenants of 55 years or longer.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Funds are awarded through the rolling RFP and NOFA addenda described in the Gap Financing Program record; next addendum expected 2026. Annual Housing Successor report is presented each March with the Housing Element APR.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The largest and most stable local pool in the county at about $96 million, replenished by about $20 million per year of loan repayments as older RDA loans mature. Draws require a Council appropriation from the Housing Project Reserve. Stacks with County Measure A, SCCHA project-based vouchers, 4 percent credits and CalHFA MIP. Program income rules make it less flexible than inclusionary fee funds for moderate income units. sanjoseca.gov blocked; the Housing Successor Annual Report was read as an attachment to the March 2026 APR Council item.",
+      "source_url": "https://legistar.granicus.com/sanjose/attachments/bf61b93a-83e5-4077-86b6-28ed119b2b14.pdf",
+      "record_id": "fec72906aa",
+      "cycle_notes": "through the Gap Financing Program rolling RFP",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 Nov 9, 2026: Attachment E (FY 2024-25 Housing Successor report) matches: ending balance $95,884,306, deposits $22,478,762, expenditures $24,070,939 ($12,535,098 housing development, $11,413,400 monitoring and administration), assets $721,057,682. APR notes the NOFA addendum to the rolling RFP planned for Q2 2026. Gateway Tower, Capitol Station and 1510 North 1st LMIHAF amounts are not in this file. prevailing_wage_trigger is uncited (no prevailing_wage_basis); the value rests on the general Labor Code 1720(b) public funds definition, not a program rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Jose",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Impact Fee (Chapter 17.14, suspended 2021) and Commercial Linkage Fee (Chapter 5.11)",
+      "administering_agency": "City of San Jose Housing Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. AHIF: $17.00 per livable square foot on market-rate rental projects at adoption (2014), escalating 2.4 percent a year to $20.08 when suspended for projects first approved on or after June 29, 2021 (Resolution 80149). Cumulative AHIF revenue and interest $25.6 million; fund balance $11.4 million at June 30, 2025, all to be committed through the Gap Financing Program. CLF (Ordinance 30475, September 22, 2020): FY 2025-26 rates are $17.86 per square foot for office at or above 100,000 square feet downtown and nearby (lower tiers for smaller office), hotel $5.95, industrial over 100,000 square feet $3.57, warehouse $5.95, residential care $7.15, with reduced rates outside downtown. Cumulative CLF revenue $6.1 million, to be allocated through the Gap Financing Program.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Fee revenue funds housing for extremely low, very low, low and moderate income households under City regulatory agreements (55 years or longer).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No direct application; the funds are awarded through the Gap Financing Program rolling RFP. Next Mitigation Fee Act annual report due to Council in late 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Both funds are small relative to LMIHAF and are blended into Gap Financing awards. The CLF was adopted at well below the Keyser Marston nexus maximum and office construction has been weak, so expect only a few million dollars a year. The AHIF was replaced by extending the Inclusionary Housing Ordinance to rental projects of 10 or more units. Compare with Mountain View and Sunnyvale, whose commercial linkage fees have generated far larger balances. sanjoseca.gov blocked; the FY 2024-25 annual report memo was read from Legistar.",
+      "source_url": "https://legistar.granicus.com/sanjose/attachments/5bbe39a5-b2bc-491d-9b06-b793343e5044.pdf",
+      "record_id": "db5b08d680",
+      "cycle_notes": "AHIF suspended for new projects; CLF continues to accrue and is deployed through the Gap Financing Program",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Jose",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Alternative financing frameworks for affordable housing (Gap Financing plus IHO, PAB plus master-lease, production incentives plus master-lease)",
+      "administering_agency": "City of San Jose Housing Department",
+      "funding_type": "loan",
+      "typical_award_size": "Council resolution of September 1, 2026 authorizing the Housing Director to implement four mixed-financing models: (1) Gap Financing Program loans in exchange for deeper inclusionary set-asides (example: 10 percent of units at 50 percent AMI instead of 5 percent at 60 and 5 percent at 80); (2) private activity bonds combined with master-lease financing; (3) production incentive programs (MHIP) combined with master-lease financing; (4) master-lease financing combined with the Inclusionary Housing Ordinance. Target rents 40 to 110 percent AMI. No new dollars; uses existing Gap Financing, bond and incentive tools.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Varies by model; 40 percent AMI up to 110 percent AMI with recorded restrictions; Model 1 limited to tower and wrap projects already paying prevailing wage.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Housing Director may implement without further Council action subject to funding approvals; individual loan or master-lease commitments still return to Council. No deadline.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Relevant to developers of mixed-income towers (prevailing wage already assumed) and to nonprofit or public master lessees. Models borrow from the Bay Area Housing Finance Authority and CalHFA middle-income work; they will compete with the Multifamily Housing Incentive Program pipeline for the same market-rate projects. Prohousing: San Jose applied for HCD Prohousing Designation in June 2023 (memo read); current designation status was not confirmed this pass, verify on HCD's designated jurisdictions list. sanjoseca.gov blocked; memo read from Legistar. Audit 2026-11-08 funding_type: classed as loan because Model 1 is a Gap Financing loan and the master-lease models use City funding expected to be repaid on exit; no new grant dollars.",
+      "source_url": "https://legistar.granicus.com/sanjose/attachments/4501c16f-6229-4c5f-a3f4-040f4e430b6b.pdf",
+      "record_id": "255c97f008",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "master-lease acquisition of market-rate units",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Jose",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), City of San Jose formula entitlement (Rounds 4 and 5)",
+      "administering_agency": "City of San Jose Housing Department",
+      "funding_type": "grant",
+      "typical_award_size": "$6,585,489 for PLHA Rounds 4 and 5 (grant agreement authorized March 24, 2026), part of the City's 2019 to 2023 five-year allocation plan. The Round 4 and 5 allocation is designated for emergency shelter operations, not development. Earlier rounds supported housing programs under the 2020 plan.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA statute allows households up to 120 percent AMI (150 percent in high-cost areas); San Jose's current plan uses the funds for shelter operations.",
+      "eligible_project_types": [
+        "new construction",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "The 2024-2028 PLHA formula cycle will require a new five-year plan; watch for a Council action in 2026 or 2027 that could redirect future rounds to development.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Not a developer-facing source in San Jose today. Contrast with Mountain View, which routes PLHA to specific developments. The County's PLHA record covers the Urban County allocation. sanjoseca.gov blocked; memo read from Legistar.",
+      "source_url": "https://legistar.granicus.com/sanjose/attachments/38b08055-9acf-453a-a35d-3fb2004df548.pdf",
+      "record_id": "dad182fcb2",
+      "cycle_notes": "allocated to shelter operations under the five-year plan",
+      "eligible_project_detail": [
+        "emergency shelter operations (current plan)",
+        "new construction (eligible but not currently funded)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mountain View",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Affordable housing over-the-counter Notice of Funding Availability (Housing Impact Fund, BMR In-Lieu Fees Fund, Local Housing Trust Fund grant)",
+      "administering_agency": "City of Mountain View Housing Department and Council NOFA Review Committee",
+      "funding_type": "loan",
+      "typical_award_size": "Over-the-counter (first come, first served) NOFA since 2014 funded by the Housing Impact Fee on office, high-tech, hotel and retail development, BMR in-lieu fees, and state Local Housing Trust Fund matching grants. Since 2014 the City has invested $119 million in affordable housing. Examples: Lot 12 (120 units, Alta Housing and Related California) $23.45 million total City commitment including $6.3 million BMR in-lieu, $5.95 million Housing Impact Fees, $3.2 million LHTF, $1.86 million HOME and $0.78 million HOME-ARP; 96 West El Camino Real (79 units, Danco) Housing Impact Fund $6.73 million plus $1.27 million PLHA; 1012 Linda Vista $10 million reservation (2023) returned to the funds in October 2025 pending a new NOFA application for a 53-unit version. City funding is targeted to 20 percent of total development cost (a $1 City to $4 other leverage ratio). Housing Element Program 4.3 commits about $40 million over the cycle; the pipeline gap was estimated at $50 million in 2024.",
+      "per_unit_cap": "No fixed cap; City target is 20 percent of total development cost. Recent commitments equal roughly $85,000 to $195,000 per unit.",
+      "affordability_requirement": "Multi-Family Rental Underwriting Guidelines (2022); deed restrictions for extremely low, very low and low income households; priority to projects that leverage County Measure A, PBVs and state funds and that serve unhoused and special needs households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applications accepted at any time; City-owned sites (Lot 12, 87 East Evelyn) are awarded by RFQ/RFP instead. An online application portal was targeted for late 2025. The Housing Impact Fee update is underway through a County collaborative nexus study; watch for a 2026 or 2027 fee action.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Mountain View has the strongest city housing fund in the county outside San Jose thanks to office linkage fees. Stack order used by staff: County Measure A or SHDF, SCCHA PBVs, 4 percent credits and CMFA bonds, state LHTF, PLHA and PIP pass-throughs, then City Housing Impact Fund and BMR funds last. The 2019 City-County MOU allocates Measure A to the City pipeline. The City also committed $4 million toward a $20 million acquisition and preservation pool for CSFRA rent-stabilized units (March 2024), contingent on $16 million in outside partners. mountainview.gov blocked; memos read from Legistar.",
+      "source_url": "https://legistar1.granicus.com/mountainview/attachments/59337e23-d963-4029-afeb-8a082ca97da0.pdf",
+      "record_id": "a2f37d7465",
+      "cycle_notes": "over-the-counter, five-step review to NOFA Review Committee then Council",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mountain View",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "State pass-through allocations controlled by the City: Permanent Local Housing Allocation (PLHA) and Prohousing Incentive Program (PIP)",
+      "administering_agency": "City of Mountain View Housing Department",
+      "funding_type": "grant",
+      "typical_award_size": "PLHA five-year award $1,482,651 (2019-2023 cycle): $930,000 plus $336,483 to 96 West El Camino Real (replacing Housing Impact Fund dollars), $142,036 to a Homeownership Assistance Pilot Program, $74,132 administration. PIP: Round 2 award $870,000 (2024) allocated to Alta Housing's 1020 Terra Bella Avenue; Round 4 application for up to $890,000 (base $500,000 plus $10,000 per Prohousing point, 39 points) authorized March 24, 2026, awards expected June 2026, funds to be spent by June 30, 2029. The City received HCD Prohousing Designation on January 31, 2024.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA and PIP: households up to 120 percent AMI, with Mountain View directing funds to 30 to 60 percent AMI pipeline projects.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "PIP Round 4 award decision expected June 2026 and the next PLHA cycle (2024-2028) plan will need Council approval; confirm which pipeline project receives the Round 4 award.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "These are modest amounts but the City uses them to free up its own Housing Impact Fund dollars for other projects, so a developer in the NOFA queue may see its City loan re-sourced among PLHA, PIP, LHTF, HOME and local funds. Prohousing Designation also gives City-sponsored applicants scoring preference in AHSC, IIG and MHP (Alta's 1020 Terra Bella and Affirmed's 87 East Evelyn have used this). mountainview.gov blocked; reports read from Legistar.",
+      "source_url": "https://legistar1.granicus.com/mountainview/attachments/8a1f90a1-fbb0-4301-988e-1e17d678d33b.pdf",
+      "record_id": "9933275457",
+      "cycle_notes": "City appropriates to pipeline projects as state rounds are awarded",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homebuyer assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sunnyvale",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Non-Residential Housing Mitigation Fee (Housing Impact Fee), Municipal Code Chapter 19.75",
+      "administering_agency": "City of Sunnyvale Community Development Department, Housing Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Fee on new office, R&D, industrial, retail and lodging square footage in any zone since 2015; over $47 million collected 2015 to 2022. January 24, 2023 action (BAE nexus study) raised office and R&D to $11 per square foot for the first 25,000 square feet and $22 per square foot above that, left retail, lodging and industrial unchanged, and kept CPI indexing; one legacy project pays $13 per square foot versus the prior $19.50 standard rate. Revenue funds the Housing Mitigation Fund, which supplies the biennial NOFA ($16 million in 2022, $29.5 million awarded in 2024, $18 million offered in 2026).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Projects funded from the Housing Mitigation Fund are restricted to lower income households for at least 55 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Current FY 2026-27 rates are in the City's Master Fee Schedule (not opened this pass); confirm with the Housing Division. No fee update is pending beyond annual indexing.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Sunnyvale's linkage fee, driven by Moffett Park and Peery Park office growth, is the engine behind one of the county's largest city housing funds. Fee revenue will slow with the office downturn, so the 2026 NOFA ($18 million) is smaller than 2024. Compare with San Jose's CLF ($6.1 million cumulative) and Mountain View's Housing Impact Fee. sunnyvale.ca.gov blocked; staff report read from Legistar.",
+      "source_url": "https://legistar.granicus.com/Sunnyvale/attachments/83f62a94-dd53-4b67-8342-03f26dc3a394.pdf",
+      "record_id": "0a7ecf1844",
+      "cycle_notes": "fee paid at building permit; funds deployed through the NOFA",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check: January 9, 2023 staff report confirms 2015 expansion, over $47 million collected, $11 and $22 per square foot office/R&D recommendation, CPI indexing, and the $13 legacy versus $19.50 rate; January 24, 2023 Council minutes confirm adoption of $11 and $22 (7-0) after a failed $11.50/$23 amendment. 2024 HHSC report confirms 55-year lower income restriction and the $16 million 2022 NOFA; Council matter 24-0863 confirms $29,533,000 in 2024. The $18 million 2026 NOFA figure was not found in Legistar titles. prevailing_wage_trigger true has no cited rule; no Sunnyvale NOFA prevailing wage requirement was found, so the only apparent basis is Labor Code 1720(b) for funded projects, which under Tier 3 rules would be unclear.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sunnyvale",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Housing Mitigation Fund and BMR In-Lieu Fund biennial Notice of Funding Availability",
+      "administering_agency": "City of Sunnyvale Community Development Department, Housing Division (Housing and Human Services Commission advisory)",
+      "funding_type": "loan",
+      "typical_award_size": "Biennial NOFA. 2022: $16 million to four developments. 2024 (issued May 2, 2024, due June 6, 2024): $29,533,000 awarded August 13, 2024, including $14.03 million to MidPen's 1171 Sonora Court (172 units; $12.5 million City acquisition of the site plus $1.53 million predevelopment, about $84,500 per unit with earlier PLHA), $1.5 million predevelopment to MidPen's 295 South Mathilda (126 units, City-owned site bought for $7.3 million in 2023), and $14 million to Pacific Companies and Miramar's 352 East Java Drive (308 units, about $45,000 per unit). 2026 NOFA released January 2026 for $18 million with awards announced spring 2026; priorities include senior and age-friendly projects and units for people experiencing homelessness. Minimum award $500,000; FY 2024-25 budget appropriated $32.5 million.",
+      "per_unit_cap": "No fixed cap; 2024 awards ranged from about $45,000 to $85,000 per unit (excluding land).",
+      "affordability_requirement": "Deed restricted to lower income households for a minimum of 55 years; scoring favors deep affordability, homeless-serving units (at least 20 to 25 percent in recent awards), high resource locations, readiness and leverage. Funding agreement must be executed within two years of award.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "biennial",
+      "next_deadline": "2026 round awards were expected spring 2026; next NOFA expected in FY 2027-28 (about early 2028), when 295 South Mathilda is expected to seek about $7.5 million in construction funds and 1171 Sonora about $12 million. Confirm award results and the next release with the Housing Division (NOFA documents are posted on the City housing page, which is blocked to scripts).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The best-funded city NOFA in the county after San Jose. Awards are structured as predevelopment, acquisition (with the City taking title and ground leasing, which locked in TCAC High Resource status for 1171 Sonora) and construction loans, and are meant to leverage County Measure A or SHDF, AHSC, IIG, BAHFA and 4 percent credits. Sunnyvale's HHSC scoring sheet is public. Also uses PLHA for predevelopment ($500,000 to 1171 Sonora in 2022). sunnyvale.ca.gov blocked; APR and award reports read from Legistar.",
+      "source_url": "https://legistar.granicus.com/Sunnyvale/attachments/d5ab8b14-34d8-439e-99c0-2db362a22f77.pdf",
+      "record_id": "64b4ab6cd1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "predevelopment",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sunnyvale",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Low and Moderate Income Housing Asset Fund (LMIHAF), Sunnyvale Housing Successor Agency",
+      "administering_agency": "City of Sunnyvale Housing Successor Agency (Community Development Department)",
+      "funding_type": "loan",
+      "typical_award_size": "Ending balance June 30, 2025: $2,383,850 (some encumbered). FY 2024-25 deposits $82,591 (interest only); expenditures $61,703 administration. No ROPS property tax receipts. Small former redevelopment area, so this fund is minor compared with the Housing Mitigation Fund.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Dissolution Law income targets (at least 30 percent to households at or below 30 percent AMI over five-year periods).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No separate NOFA; funds may be combined with Housing Mitigation Fund awards. Annual report presented each March with the Housing Element APR.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Minor supplemental source (about $2.4 million). Useful only as a small gap filler in a NOFA award. sunnyvale.ca.gov blocked; report read from Legistar.",
+      "source_url": "https://legistar.granicus.com/Sunnyvale/attachments/3b153c2b-82e1-4c88-a3fa-6d08b6f8ab8b.pdf",
+      "record_id": "a6364c3718",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sunnyvale",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation, Prohousing Incentive Program applications and City-owned sites for affordable housing (295 South Mathilda Avenue)",
+      "administering_agency": "City of Sunnyvale Community Development Department, Housing Division",
+      "funding_type": "policy/designation",
+      "typical_award_size": "HCD issued Sunnyvale a Prohousing Designation award letter on May 27, 2025 after a December 9, 2024 application (Housing Element Program H41); the City planned a PIP Round 4 application (due March 31, 2026) for homeless services, outreach, shelter and transitional housing activities (award depends on population base and points; Mountain View's comparable request was $890,000). City-owned site: 295 South Mathilda Avenue purchased September 2023 for $7,325,000 and held under an Exclusive Negotiating Agreement (August 30, 2023) and short-term ground lease with MidPen Housing for a 126-unit project with at least 25 percent of units for families experiencing homelessness; the 2024 NOFA awarded $1.5 million for predevelopment; cumulative City support including land about $13.3 million ($105,000 per unit) before construction funds. The City also adopted a water and sewer priority ordinance for affordable developments and received $1.84 million in MTC Housing Incentive Pool funds in 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "295 South Mathilda: 100 percent affordable with 25 percent homeless set-aside; PIP funds for households up to 120 percent AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "PIP Round 4 award expected mid 2026; 295 South Mathilda ENA extended November 2025 with construction targeted 2027 after a tax credit application in 2026. Future City-owned sites would be offered by ENA or RFP.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Prohousing status improves scores for AHSC, IIG and MHP applications by Sunnyvale projects. The City's land contribution model (buy the site, ground lease to the nonprofit, then fund through the NOFA) mirrors Mountain View and San Jose practice and locks in TCAC opportunity-area status. sunnyvale.ca.gov blocked; information taken from the 2025 Housing Element APR read on Legistar.",
+      "source_url": "https://legistar.granicus.com/Sunnyvale/attachments/d5ab8b14-34d8-439e-99c0-2db362a22f77.pdf",
+      "record_id": "219772d0f7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: kept policy/designation because the record is anchored on the Prohousing Designation; the 295 South Mathilda land is already committed to MidPen, so it is not an open land offering. Designation date corrected from 2024 to May 27, 2025 per the 2025 APR.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Clara",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Fee (Ordinance 1974, December 5, 2017) and City Affordable Housing Fund gap loans",
+      "administering_agency": "City of Santa Clara Community Development Department, Housing and Community Services Division",
+      "funding_type": "loan",
+      "typical_award_size": "Fee on new market-rate for-sale and rental housing and on non-residential development, indexed annually to the ENR San Francisco Building Cost Index; rates were set well below the nexus maximum to encourage rental and smaller units (current per square foot rates are in the City fee schedule, not opened this pass). Fund 565 balance June 30, 2025: $10,408,762 (FY 2024-25 receipts $3,479,128 fees and $394,430 interest; no expenditures to date). Committed use: $4,944,484 loan (RTC 23-952, November 14, 2023) to Charities Housing for 106 affordable units at 1601 Civic Center Drive (30 to 50 percent AMI), alongside a County loan of up to $12.1 million and $1.6 million of housing impact fees moved into the City Affordable Housing Capital Fund. The City Affordable Housing Fund also carries about $223,677 a year of ongoing appropriations for services in the Annual Action Plan.",
+      "per_unit_cap": "None published; the Charities loan equals about $46,600 per unit.",
+      "affordability_requirement": "City Affordable Housing Agreement and Regulatory Agreement; 1601 Civic Center restricted to 30 to 50 percent AMI households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA and no open round as of November 9, 2026. Fund 565 held $10,408,762 at June 30, 2025, but that balance still includes the $4,944,484 Charities Housing loan for 1601 Civic Center Drive (the transfer to Fund 165 was restated to zero because the project had not commenced), so roughly $5.5 million is uncommitted. Approach the Housing and Community Services Division directly. Watch the Related Santa Clara project (5155 Stars and Stripes Drive), whose affordable housing obligations and 2026 litigation could change fee or unit delivery.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Santa Clara has not run a competitive round; awards have been negotiated per project (Charities Housing 2023, Klamath and Bracher loan extensions 2024). Stack with County Measure A or SHDF (1601 Civic Center has a $12.1 million County commitment), SCCHA PBVs and CMFA bonds. The City's housing successor fund (see separate record) is a second small source. santaclaraca.gov returns 403 to automated access; the AB 1600 report and resolutions were read from the Legistar attachment host.",
+      "source_url": "https://santaclara.legistar1.com/santaclara/attachments/29fa4b1a-2021-4cb4-a173-41300b18d555.pdf",
+      "record_id": "a9c75707f5",
+      "cycle_notes": "project-specific Council actions; no NOFA has been issued",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 Nov 9, 2026: AB 1600 report matches on Fund 565 balance, FY 2024-25 receipts and interest, and the RTC 23-952 loan, but it states the $4,944,484 transfer was restated to zero, so the $10.4M balance includes the committed loan; the record said $10.4M was uncommitted beyond the Charities loan. prevailing_wage_trigger is uncited (no prevailing_wage_basis); the value rests on the general Labor Code 1720(b) public funds definition, not a program rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Clara",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Density Bonus and Affordable Housing, Santa Clara City Code Chapter 18.64 (updated by Ordinance 2077, 2025) and Density Bonus Housing Agreements",
+      "administering_agency": "City of Santa Clara Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement and entitlement, not a cash subsidy. Ordinance 2077 (adopted May 2025) rewrote the City's density bonus chapter to match current Government Code 65915, including Table 4-7 to 4-10 bonus schedules, the AB 1287 (2023) additional bonus for projects already earning 50 percent, student housing bonuses, land donation bonuses, parking limits (Section 18.64.050) and continued affordability (Section 18.64.070). Resolution 23-9238 (May 2023) delegates execution of routine Density Bonus Housing Agreements to the City Manager. Example: 80 Saratoga Avenue, 198 affordable rental units (2023).",
+      "per_unit_cap": null,
+      "affordability_requirement": "State law minimums (for example 5 percent very low income or 10 percent lower income for the base bonus) with recorded 55-year covenants; 100 percent affordable projects receive the state law height and density concessions.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Ordinance in effect; agreements processed with building permits. A Council written request (September to October 2026) to revisit parking requirements for affordable housing projects is pending scheduling.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement beyond state law was found; the City relies on state density bonus, AB 1397 use-by-right rezoning (2024) and Housing Element sites rather than a local housing trust fund or fee waiver program. Combine with the Affordable Housing Fee fund for gap loans. santaclaraca.gov blocked; Ordinance 2077 read from Legistar.",
+      "source_url": "https://santaclara.legistar1.com/santaclara/attachments/75b09cc7-c56d-4b5e-8466-9259e671a626.pdf",
+      "record_id": "59ea528dc3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "for-sale",
+        "student housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Clara",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Low and Moderate Income Housing Asset Fund (LMIHAF, Fund 169) and City Housing Successor Fund, Santa Clara Housing Successor",
+      "administering_agency": "City of Santa Clara as Housing Successor (Community Development Department)",
+      "funding_type": "loan",
+      "typical_award_size": "Ending balance June 30, 2025: $5,154,665. FY 2024-25 deposits $1,542,552 (development loan repayments $1,189,170, first-time homebuyer repayments $166,142, interest and other $187,240). Expenditures $553,186 (administration $303,197; homeless prevention, TBRA case management and rapid rehousing $249,989). Assets: 30 development loans with statutory value $103.2 million, 20 homebuyer loans, and land including 3575 De La Cruz Boulevard ($1.7 million, held for a Habitat for Humanity development under an ENA extended to December 2025). The Annual Action Plan budgets about $250,000 a year from the City Housing Successor Fund for services.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Dissolution Law income targets; next five-year income test reported FY 2028-29.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; funds have been used for services and homebuyer activities. The De La Cruz ENA status after December 2025 should be confirmed with the Housing and Community Services Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "About $5 million available plus steady loan repayments; a candidate second layer behind the Affordable Housing Fee fund for a Santa Clara project. santaclaraca.gov blocked; the FY 2024-25 Housing Successor Annual Report (docx) was read from the Legistar attachment host.",
+      "source_url": "https://santaclara.legistar1.com/santaclara/attachments/6618d25f-ca03-4a48-ab8f-25480ea5ab5d.docx",
+      "record_id": "d44511f005",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homebuyer assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

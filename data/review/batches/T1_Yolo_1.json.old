@@ -1,0 +1,386 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "Tax-exempt multifamily bonds: no County or YCH conduit program; CMFA and CSCDA issuances with local TEFRA approval",
+      "administering_agency": "Issuers California Municipal Finance Authority and California Statewide Communities Development Authority; TEFRA approval by the host city council or, in the unincorporated area, the Yolo County Board of Supervisors",
+      "funding_type": "bond",
+      "typical_award_size": "Project-sized conduit issuances. Example: CMFA issued $6,668,698 of tax-exempt bonds for Esperanza Crossing Apartments (Mercy Housing, 40 units on Woodland Avenue, 39 units at or below 55% AMI). No County of Yolo or Yolo County Housing bond issuance and no County TEFRA resolution appeared in the 2026 Board minutes reviewed (January 27, March 3 and March 24, 2026).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Federal bond and 4% LIHTC rules: at least 20% of units at 50% AMI or 40% at 60% AMI (or income averaging), 55-year CDLAC regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request the TEFRA hearing through the issuer; allow six to eight weeks before the CDLAC application. For unincorporated sites the hearing goes on a Board of Supervisors consent agenda; for Davis, Woodland and West Sacramento sites the city council holds it (Pass 3).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Neither the County nor YCH runs a bond program, so budget issuer fees for CMFA or CSCDA. Bonds alone do not trigger state prevailing wage, but tax credits plus state or County funds in the same deal usually do. The County's TEFRA practice in the unincorporated area could not be confirmed from opened documents because no recent unincorporated bond-financed project was found.",
+      "source_url": "https://www.cmfa-ca.com/mercy-housing-preserves-affordable-housing-using-tax-exempt-financing-issued-cmfa/",
+      "record_id": "2ba05e89db",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "Audit 2026-11-08: old CMFA ?p=2377 link redirects to the Esperanza Crossing news page, which confirms $6,668,698 CMFA tax-exempt financing, 40 units on Woodland Avenue in Yolo County, 39 units at or below 55% AMI for 55 years. The County Board minutes claims were not re-opened and no stated prevailing wage rule for conduit bonds alone was found, so prevailing_wage_trigger stays unclear.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Davis",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "City of Davis Housing Trust Fund (in-lieu fees and negotiated developer contributions, Article 18.05)",
+      "administering_agency": "City of Davis Social Services and Housing Department (Housing Trust Fund administered by the Affordable Housing Manager; Social Services Commission reviews affordable housing plans)",
+      "funding_type": "loan",
+      "typical_award_size": "Project-specific gap contributions sized by Council; no published NOFA or guidelines found. Revenue is in-lieu fees under Resolution 25-002 ($250,000 per unit) plus negotiated contributions from peripheral Measure J/R/D projects: Village Farms Exhibit E (approved December 16, 2025, revised January 13, 2026) commits $6,000,000 to the Housing Trust Fund ($2 million with dedication of the first land site, $1 million at the first building permit, $3 million before any Phase 3 building permit); Willowgrove's plan reportedly adds $1.8 million. Earlier years the fund was small (the 2023 single-family in-lieu fee was about $82,000 per unit) and the City has historically funded projects such as Paul's Place and Creekside from it. Current balance not published in any document opened this pass.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Low and very low income units with long-term covenants; Council direction prioritizes very low and extremely low income and deed-restricted ownership.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Contributions arrive with Village Farms and Willowgrove milestones only if voters approved the projects (Village Farms was placed on the June 2026 ballot and Willowgrove on the November 2026 ballot); verify election outcomes and timing with the Affordable Housing Manager, (530) 757-5602.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The only local soft money in Davis. Sized to projects on the dedicated land sites first (the Village Farms plan says the money should support affordable housing on the dedication sites but may be used elsewhere consistent with the plan). Layer as the last gap after 9% or 4% credits, HCD MHP or AHSC, Yolo County Housing project-based vouchers and the Davis CDBG and HOME allocations; City money is public funds and triggers prevailing wage. Councilmembers raised formalizing the fund into a structured trust (April 2026). Davis has no RDA successor housing fund. Blocked: cityofdavis.org pages and the Village Farms Exhibit E staff reports (403); facts are from the December 16, 2025 and January 13, 2026 Council minutes on documents.cityofdavis.org, which did open.",
+      "source_url": "https://documents.cityofdavis.org/Media/CityCouncil/Documents/PDF/CityCouncil/CouncilMeetings/Minutes/2025/Minutes-2025-12-16-City-Council-Meeting.pdf",
+      "record_id": "286b3332af",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: December 16, 2025 and January 13, 2026 minutes confirm the $6 million Village Farms Housing Trust Fund commitment and payment schedule, but the Resolution 25-002 in-lieu fee, Willowgrove $1.8 million and fund balance are not in any opened source. Measure V (Village Farms) failed at the June 2, 2026 election per press reports of the certified count (11,414 yes, 11,690 no; Davis Enterprise and Davis Vanguard); no official Yolo County statement of vote was opened, so confirm. The $6 million Village Farms contribution will therefore not arrive unless the project returns with a new approval. Willowgrove (Measure W, November 3, 2026) result not found.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Davis",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable housing land dedication sites under Article 18.05 (Village Farms 16-acre dedication, Project Individualized Plan Exhibit E)",
+      "administering_agency": "City of Davis Community Development Department and Social Services and Housing Department (Council subcommittee negotiates development agreements)",
+      "funding_type": "land",
+      "typical_award_size": "Land, not cash. Village Farms Davis (Development Agreement Exhibit E, approved December 16, 2025 and revised January 13, 2026) dedicates 16 acres to the City for 280 low and very low income units on fully improved sites (no more than 4 parcels, none under 2.5 acres), to be developed with a qualified affordable housing developer selected by the City, with the City to endeavor to add 80 moderate income units. Baseline features now require construction to commence on 100 affordable units before Phase 3 and no permits beyond the first 150 until that starts; the City holds an option after 150 units. Together with the $6 million Housing Trust Fund payment the package is valued by the applicant at over $6 million plus land.",
+      "per_unit_cap": null,
+      "affordability_requirement": "280 low and very low income units (plus up to 80 moderate) on dedicated land; affordability covenants set in the City's developer agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No open round as of November 8, 2026. Village Farms dedication will not proceed after the reported Measure V defeat; watch for a revised application or other Article 18.05 dedications.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "This is how 100% affordable developers get sites in Davis: the inclusionary ordinance's land dedication option plus Housing Trust Fund money, then compete for 9% credits, MHP, AHSC or HCD Super NOFA money. Vice Mayor Vaitla's December 2025 direction to amend the land dedication option (so dedicators also provide resources) led to a March 2026 ordinance introduction, so later projects should carry cash with the land. Earlier dedications (Cannery, Chiles Ranch, Bretton Woods) produced sites now built or in pipeline. Davis has no city-owned surplus land program beyond these dedications. Pair with Yolo County Housing PBVs and the CoC HHAP money for supportive units.",
+      "source_url": "https://documents.cityofdavis.org/Media/CityCouncil/Documents/PDF/CityCouncil/CouncilMeetings/Minutes/2026/Minutes-2026-01-13-City-Council-Meeting.pdf",
+      "record_id": "d3c111e44a",
+      "cycle_notes": "Village Farms land dedication approved by Council December 16, 2025 (revised January 13, 2026) depended on voter approval under Measure J/R/D; press reports say Measure V failed June 2, 2026, so the dedication will not occur unless the project returns. The general Article 18.05 land dedication option still exists.",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: reclassified other to land (dedicated land is the value to the project). Minutes facts re-confirmed. Measure V (Village Farms) failed at the June 2, 2026 election per press reports of the certified count (11,414 yes, 11,690 no; Davis Enterprise and Davis Vanguard); no official Yolo County statement of vote was opened, so confirm.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Davis",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "CDBG and HOME entitlement allocations (2025-2029 Consolidated Plan, Resolution 25-061) and PLHA formula allocation",
+      "administering_agency": "City of Davis Social Services and Housing Department, Housing and Grants Management (Director Dana Bailey)",
+      "funding_type": "grant",
+      "typical_award_size": "Davis is a CDBG entitlement city and a HOME participating jurisdiction. Council adopted the 2025-2029 Consolidated Plan and the Program Year One (2025) Annual Action Plan on April 15, 2025 (Resolution 25-061). Local coverage puts year one CDBG plus HOME at about $1.06 million; HOME has historically funded first-time homebuyer loans and rental project gap loans, CDBG funds public services, facilities and the Pathways to Employment and homelessness programs. HCD's 2024-2028 PLHA NOFA lists Davis at about $1.33 million over five years; staff told Council on February 18, 2025 that PLHA would be used for homeownership opportunities.",
+      "per_unit_cap": "HOME per-unit subsidy limits apply (HUD 221(d)(3) limits for Yolo County).",
+      "affordability_requirement": "CDBG at or below 80% AMI; HOME at or below 80% AMI with at least 90% of rental assistance at 60% AMI and 20% of units at 50% AMI in projects with 5 or more HOME units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Program Year 2026-27 Action Plan process runs winter to spring 2027 (public hearing typically April). Confirm amounts and the HOME set-aside with the Grants Management office, (530) 757-5602.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Federal money is the only recurring Davis source for rental projects, but the annual HOME amount is small (hundreds of thousands) and competes with homebuyer uses; combine with Housing Trust Fund gap money and state credits. HOME triggers federal Davis-Bacon only at 12 or more HOME-assisted units; state prevailing wage applies when City funds are added. Davis also receives HHAP through the Davis, Woodland/Yolo County CoC (see county record) for supportive housing operations. Yolo County's own CDBG and HOME (state non-entitlement) cover only unincorporated areas, so there is no overlap. Blocked: the Grants Management page and the Consolidated Plan PDF on cityofdavis.org (403); the April 15, 2025 minutes on documents.cityofdavis.org were opened and record the adoption.",
+      "source_url": "https://documents.cityofdavis.org/Media/CityCouncil/Documents/PDF/CityCouncil/CouncilMeetings/Minutes/2025/Minutes-2025-04-15-City-Council-Meeting.pdf",
+      "record_id": "e6598129af",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "public services",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: April 15, 2025 minutes confirm Resolution 25-061 adopting the 2025-2029 Consolidated Plan and Year One CDBG and HOME Action Plan, but the $1.06 million year one amount and $1.33 million PLHA figure come from press and the HCD NOFA, not an opened source; cityofdavis.org still 403. Next action plan cycle label should read Program Year 2027 (hearing expected spring 2027).",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of West Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "West Sacramento Housing Trust Fund (Fund 261-9385) gap financing loans, HOME program income and City land contributions",
+      "administering_agency": "City of West Sacramento Economic Development and Housing Department, Housing Division (Housing Manager Raul Huerta; Community Investment Principal Planner David Tilley, (916) 617-4661)",
+      "funding_type": "loan",
+      "typical_award_size": "Project-sized gap loans from Chapter 15.40 in-lieu receipts, used for gap financing to projects with affordable units, infrastructure supporting affordable housing and predevelopment. Most recent example (developer fact sheet, not a City document): The Bridge at West Gateway / West Gateway Place II (60 units, 20% to 60% AMI, six PSH units at 20% AMI, opened June 2025) received $5,194,626 from the City Housing Trust Fund, $2,000,000 of City HOME program income and City land valued at $3,344,500 alongside $11.17 million HCD MHP and $24.76 million California Housing Accelerator. Earlier: $1,191,428 of CDBG program income for West Gateway Place Phase 1 infrastructure and $2.6 million AHSC. Fund balance not published in documents opened this pass.",
+      "per_unit_cap": "None published; West Gateway Place II implies roughly $87,000 per unit of trust fund money plus land.",
+      "affordability_requirement": "Very low and low income rental units with 55-year covenants; Housing Element priority for extremely low income and large family units in the Bridge District, Washington and Grand Gateway areas.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; the City negotiates commitments with its development partners (Jamboree with the West Sacramento Housing Development Corporation, Mercy Housing, New Hope CDC) ahead of state rounds. Ask the Housing Division for the current Fund 261 balance and the Grand Gateway affordable site schedule.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "West Sacramento is the most active city funder in Yolo County: City land plus trust fund plus HOME program income have repeatedly made 100% affordable Bridge District projects competitive for MHP, Accelerator and AHSC (MOSA won $43 million AHSC in December 2025). The structure is a subordinate residual receipts loan plus ground lease or land conveyance. Layer order: AHSC or MHP, 4% bonds and credits (CMFA or CSCDA conduit with City TEFRA), Yolo County Housing PBVs, City trust fund, PLHA, CDBG for infrastructure. Successor agency land and EIFD financing are separate records. Blocked: cityofwestsacramento.org Housing Division pages, the Housing Policies and Studies page and the SB 341 report (403); the Legistar API only holds 2019 to 2022 matters and the Granicus feed is empty; the City now posts agendas on its own site. Facts are from the HCD-hosted 2021-2029 Housing Element plus the Jamboree fact sheet.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-adopted071521.pdf",
+      "record_id": "2261473680",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: Housing Element confirms the Housing Trust Fund (Fund 261-9385) and its uses (gap loans, infrastructure for affordable housing, predevelopment) and the WSHDC, Mercy and Jamboree partnerships, but the West Gateway Place II dollar figures come only from the Jamboree fact sheet; cityofwestsacramento.org still returns 403 and the Granicus archive is empty.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of West Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "Permanent Local Housing Allocation (PLHA) formula funds, Resolution 25-15 five-year plan",
+      "administering_agency": "City of West Sacramento Economic Development and Housing Department, Housing Division (Housing Manager Raul Huerta)",
+      "funding_type": "grant",
+      "typical_award_size": "Council adopted Resolution 25-15 on February 19, 2025 (5 to 0) authorizing the PLHA application and a five-year plan for $763,253 of 2021, 2022 and 2023 formula allocations: 55% ($419,789) for the affordable housing component of the Grand Gateway Master Plan, specifically a proposed 114-unit affordable project serving households at 30%, 50%, 60% and up to 80% AMI; 40% ($305,301) for owner-occupied rehabilitation grants up to $30,000 through existing nonprofit contracts; 5% administration. HCD's 2024-2028 PLHA NOFA lists West Sacramento at about $1.04 million over the next five years. The City filed a CEQA notice of exemption for the plan on February 19, 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Rental component at or below 80% AMI with deeper targeting (30% to 60% AMI) at the Grand Gateway site; owner rehabilitation for low income owners in qualifying neighborhoods.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "The Grand Gateway affordable project has no published developer selection or construction date; later PLHA years (2024 onward) need a plan amendment. Verify with the Housing Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small but useful: about $420,000 earmarked to one City-sponsored project in the Grand Gateway District (City-owned land, see successor agency record). Any developer of that site should expect PLHA plus Housing Trust Fund plus land, then compete for MHP or AHSC. State funds trigger prevailing wage. Yolo County's own PLHA is unincorporated only. Source is the state CEQA notice of exemption filed by the City; the resolution and staff report on cityofwestsacramento.org returned 403, and dollar figures are from local press coverage of the February 19, 2025 meeting.",
+      "source_url": "https://ceqanet.lci.ca.gov/2025020729",
+      "record_id": "625620b784",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: CEQAnet notice of exemption (signed February 19, 2025, filed February 21, 2025) confirms the PLHA application and five-year plan for affordable housing projects and owner rehabilitation, contact David Tilley; the $763,253 amount, 55/40/5 split and Grand Gateway 114-unit project are not in it and come from press. City resolution and staff report still 403.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of West Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "Redevelopment Successor Agency housing assets, Enhanced Infrastructure Financing District and City-owned land (Grand Gateway Master Plan area, Bridge District, Washington Specific Plan)",
+      "administering_agency": "City of West Sacramento as Housing Successor and Redevelopment Successor Agency (Economic Development and Housing Department; Yolo Countywide Successor Agency Oversight Board)",
+      "funding_type": "land",
+      "typical_award_size": "Land and tax increment tools rather than a cash fund. With the loss of redevelopment the City repealed Chapter 15.10 and formed an Enhanced Infrastructure Financing District with 14 project areas that, with Measure G sales tax, funds infrastructure for infill, high-density, transit-oriented housing in the riverfront districts (Community Investment Program HE-PR-1.4). The City owns the Grand Gateway Master Plan area (former West Capitol Avenue redevelopment parcels; the Oversight Board approved sale of three Successor Agency parcels at 485 Lighthouse Drive and 2400 and 2600 West Capitol Avenue to the City for $1,310,000 in 2024) where a 114-unit affordable project is planned, and has contributed land to West Gateway Place I and II in the Bridge District. Housing successor Low and Moderate Income Housing Asset Fund balance and SB 341 reports were not accessible this pass.",
+      "per_unit_cap": null,
+      "affordability_requirement": "LMIHAF uses follow Health and Safety Code 34176.1 (30% of spending at or below 30% AMI, remainder at or below 60% AMI, 55-year covenants); City land deals carry negotiated covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency. Watch for a developer solicitation for the Grand Gateway affordable site and for the annual SB 341 housing successor report (due by April 1 with the APR).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "West Sacramento is the only Yolo County city with an active successor agency land program and an EIFD; the brief's note that it has active successor programs is confirmed in the Housing Element but current LMIHAF numbers could not be read. Developers should ask the Housing Division about (1) City-owned sites in Grand Gateway, Washington and Bridge District, (2) EIFD or Measure G infrastructure contributions that reduce off-site costs, and (3) any LMIHAF balance for extremely low income units. Layer with the Housing Trust Fund, PLHA and state AHSC (the 2016 to 2021 cycle brought $4.13 million AHSC infrastructure plus $2.6 million for West Gateway Place). Blocked: cityofwestsacramento.org and yolocounty.gov (403); the Oversight Board facts come from search snippets of Yolo County documents, so confirm.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-adopted071521.pdf",
+      "record_id": "c16f784225",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: Housing Element confirms repeal of Chapter 15.10, EIFD No. 1 (adopted June 2017, 14 subareas, about 4,144 acres), the Measure G and EIFD infrastructure strategy and the City-owned Grand Gateway area, but the 2024 Oversight Board sale ($1,310,000) and the 114-unit Grand Gateway project come from search snippets; no LMIHAF balance found. City and yolocounty.gov pages still 403.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of West Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "needs_confirmation",
+      "program_name": "CDBG entitlement program (2026-2030 Consolidated Plan) and HOME program income",
+      "administering_agency": "City of West Sacramento Economic Development and Housing Department, Housing Division",
+      "funding_type": "grant",
+      "typical_award_size": "West Sacramento became a CDBG entitlement city in FY 2016/17 and receives about $546,000 a year (the City's March 2026 notice anticipated an amount similar to the prior year's $546,333). The draft 2026-2030 Consolidated Plan and FY 2026-27 Annual Action Plan were out for comment March 6 to April 7, 2026. Housing uses have been infrastructure for affordable projects ($1,191,428 of CDBG program income for West Gateway Place Phase 1), fair housing services, homeless coordinator staffing, first-time homebuyer help and owner rehabilitation. The City is not a HOME participating jurisdiction but holds HOME program income from earlier state HOME awards ($2,000,000 went into West Gateway Place II). State LHTF applications ($1,000,000) were not awarded.",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDBG at or below 80% AMI or area benefit; HOME program income at or below 80% AMI with HOME rent limits.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2027-28 Action Plan comment period expected March to April 2027; subrecipient applications typically open in winter. Confirm with the Housing Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Use for off-site infrastructure and public improvements around a Bridge District or Washington project rather than vertical construction; HOME program income is the more flexible pot and has gone straight into City-sponsored projects. Yolo County's state CDBG and HOME cover only unincorporated areas. Facts come from the HCD-hosted Housing Element and search snippets of the City's 2026 notices; the CDBG page and Consolidated Plan PDFs on cityofwestsacramento.org returned 403.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-adopted071521.pdf",
+      "record_id": "981e7c0cbf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "public facilities",
+        "public services",
+        "acquisition-rehab",
+        "homeownership",
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: Housing Element confirms CDBG entitlement status from FY 2016/17 and that a $1,000,000 state LHTF application was not awarded; the $546,333 allocation and 2026-2030 Consolidated Plan comment dates come from search snippets. City CDBG pages still 403 and HUD allocation tables could not be opened.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of West Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "West Sacramento Housing Development Corporation (City-affiliated nonprofit co-developer and property owner)",
+      "administering_agency": "West Sacramento Housing Development Corporation (501(c)(3), EIN 94-3184534, 2950 Beacon Boulevard) working with the City Housing Division",
+      "funding_type": "other",
+      "typical_award_size": "Partnership capacity rather than a funding program. The Housing Element names the West Sacramento Housing Development Corporation (WSHDC) alongside Yolo County Housing as the City's standing nonprofit partners for pursuing state and federal funds (Programs HE-PR-1.6 and 1.9). WSHDC co-developed West Gateway Place (77 units, 2017, $29.8 million) and West Gateway Place II / The Bridge at West Gateway (60 units, 2025) with Jamboree Housing on City-contributed land, and owns scattered rental properties managed by a third-party manager.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Projects to date serve 20% to 60% AMI families with permanent supportive units; terms set by the City and state funding.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "None; WSHDC has no NOFA. Approach through the City Housing Division when proposing a joint venture on City or successor agency land.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "For an outside developer WSHDC is the local partner that unlocks City land, Housing Trust Fund and HOME program income commitments and local-nonprofit scoring; Jamboree has been its repeat co-developer. Mercy Housing (Esperanza Crossing, CMFA bonds) and New Hope CDC (9% award for a West Sacramento project) have also worked in the city without WSHDC. Pair with Yolo County Housing PBVs and the welfare exemption (county records). WSHDC has no website; corporate facts are from nonprofit registries and the Jamboree fact sheet.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-adopted071521.pdf",
+      "record_id": "0778e05461",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: funding_type stays other. WSHDC is a City-affiliated nonprofit partner with no deployable funds or NOFA, so no money enum fits; Housing Element Programs HE-PR-1.6 and 1.9 confirm its partner role and its work with Jamboree on West Gateway Place I and II.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

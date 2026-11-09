@@ -1,0 +1,47 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Napa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa Affordable Housing Impact Fee Fund (Affordable Housing Trust Fund) development loans, rolling NOFA",
+      "administering_agency": "City of Napa Housing Division (Housing Manager Stephanie Gaul, 707-257-9628)",
+      "funding_type": "loan",
+      "typical_award_size": "Gap loans sized by the joint City and County Multi Family Transaction Underwriting Guidelines (Jan 21, 2020). Minimum award $100,000, no set maximum. Fund balance at June 30, 2025 was $8.7 million unaudited, of which $5 million was formally reserved for specific projects; FY 2024-25 fee collections were about $1.7 million. Track record: $2.2 million general fund plus trust fund money each to Heritage House (90 units, 40 PSH) and Valley Lodge (54 units PSH) in 2022; four projects held reservations from the impact fee and TOT funds at the time of the 2023 Prohousing application. Application fee 1% of the loan request, minimum $10,000 ($5,000 cashier's check at pre-application, $5,000 at award).",
+      "per_unit_cap": "No fixed per unit cap. Joint underwriting guidelines limit developer fee for small projects ($25,000 per unit for units 1-10, $15,000 for units 11-30, $12,000 above 30) and size the loan by gap analysis.",
+      "affordability_requirement": "Units must serve households at or below 80% AMI (rents at 30% of 30%, 50% or 60% AMI by tier). 55-year regulatory agreement for rental, 45 years for ownership, recorded under NMC Chapter 15.94. Mixed income projects are funded only for the proportional share of affordable units. Units must count toward the City RHNA (new construction, adaptive reuse, or qualifying rehab); transitional housing and shelters not eligible. Scoring gives 15 points for at least 20% PSH units and 10 points for 100% affordable.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "adu",
+        "homeownership",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling, first come first served through the Neighborly portal (portal.neighborlysoftware.com/NAPACA/Participant). The 2023 NOFA accepted applications until June 30, 2024 or until funds were allocated; the City states funds are released at least once every two years by NOFA. No 2025 or 2026 NOFA document was found on cityofnapa.org as of 2026-11-08; contact the Housing Division before preparing an application.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The largest city controlled pool in Napa County and the normal local gap layer for 4% and 9% deals inside Napa city limits (Heritage House, Valley Lodge, Jamboree Silverado Trail PSH). Terms mirror the Napa County Affordable Housing Fund record: 3.0% simple interest, 55-year term, 50/50 residual receipts split, subordinate to senior debt, 90% maximum senior LTV, $100 per unit monitoring fee. Stack order: CTCAC credits and CMFA or CalHFA conduit bonds first, then HCD programs (MHP, AHSC, NPLH, Homekey), then City impact fee loan, then City 1% TOT loan for moderate income or missing middle units, with HACN project based vouchers for PSH units. County Affordable Housing Fund money is usually not available for sites inside the city (County preference for unincorporated projects) but the two agencies share underwriting guidelines and have co-funded projects. City loans are public funds, so state prevailing wage applies. Sources opened: 2023 NOFA (source_url), FY 2024-25 CAPER for fund balances, Prohousing Designation matrix, 2023 Housing Element APR.",
+      "source_url": "https://www.cityofnapa.org/DocumentCenter/View/9332/Notice-of-Funding-Availability-2023-PDF",
+      "record_id": "41776ea34e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adaptive reuse",
+        "supportive housing",
+        "affordable ownership",
+        "adu"
+      ],
+      "next_deadline_date": "2024-06-30",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

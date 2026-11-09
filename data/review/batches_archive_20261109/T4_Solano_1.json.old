@@ -1,0 +1,80 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "County conduit multifamily housing revenue bonds (none; CMFA used in Solano County)",
+      "administering_agency": "Solano County (not an active conduit issuer); California Municipal Finance Authority used instead",
+      "funding_type": "bond",
+      "typical_award_size": "No county issuance program found. Recent Solano deals used CMFA: $75,750,000 for Step Up Housing / Align Finance, Vallejo (Nov 18, 2025); $32,131,176 for Sacramento Street Apartments, Vallejo (74 units, 55-year restriction, 2026).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per CDLAC: at least 20% of units at 50% AMI or 40% at 60% AMI, 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Use CMFA, CSCDA or CalHFA; the Board of Supervisors or city council holds the TEFRA hearing.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding recorded so later passes do not search again. Solano 4% deals pair CMFA bonds with CTCAC credits, city HOME or inclusionary funds and the County Housing Trust Fund. Conduit bonds alone do not trigger state prevailing wage.",
+      "source_url": "https://www.cmfa-ca.com/2025/11/",
+      "record_id": "2358a94de8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption processing, Solano County Assessor",
+      "administering_agency": "Solano County Assessor/Recorder, Exemptions Division, 675 Texas Street Suite 2700, Fairfield, 707-784-6210, exemptions@solanocounty.gov",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Full exemption of property tax on qualifying low-income rental units under Revenue and Taxation Code 214(g) once the BOE issues an Organizational Clearance Certificate (BOE-277); the Assessor rules on property use.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units occupied by households at or below 80% AMI (140% AMI over-income allowance on BOE-267-L3); regulatory agreement, LIHTC or public financing required; managing general partner a qualifying nonprofit or qualifying LLC.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "File BOE-267 (first filing) or BOE-267-A (annual) with BOE-267-L, L1 and L2 supplements by February 15 each year; late claims through December 31 receive a partial exemption.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard statewide exemption (Pass 1 BOE record), recorded per county because the assessor administers it. Solano has no local property tax abatement JPA. The Assessor's page points to BOE Publication 149; office hours Monday to Friday 9 a.m. to 4 p.m.",
+      "source_url": "https://www.solanocounty.gov/government/assessorrecorder/assessor-division/property-tax-savings/nonprofit-property-tax-exemptions",
+      "record_id": "3a5f382faf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

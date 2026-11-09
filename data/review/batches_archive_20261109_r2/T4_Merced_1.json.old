@@ -1,0 +1,78 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Merced",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "City of Merced HOME and CDBG entitlement gap financing (Housing Division, Annual Action Plan and conditional commitment reservations)",
+      "administering_agency": "City of Merced Development Services Department, Housing Division (Housing Program Supervisor Kimberly Nutt), 678 W. 18th Street, (209) 385-6863",
+      "funding_type": "loan",
+      "typical_award_size": "HOME is about $350,000 per year, with 15% set aside for CHDOs. On April 6, 2026 the City reserved up to $1,756,934 of pooled 2021-2023 HOME (2021 $378,634; 2022 $557,068; 2023 $821,233) for Linc Housing's 54-unit I Street project. PY 2024-2025 HOME of about $886,000 remains. The PY 2026 Annual Action Plan shows $800,355.66 HOME and $1,360,072.38 CDBG available, including $287,991 of HOME carryover.",
+      "per_unit_cap": "HOME federal per-unit subsidy limits (24 CFR 92.250); no local cap published.",
+      "affordability_requirement": "HOME rental rules: HOME rents for households at or below 60% AMI, with 20% of HOME units at 50% AMI in projects with 5 or more units. City regulatory agreements run 55 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "The PY 2027 cycle should open in winter 2026-27, with the first public hearing about March 2027; verify dates with the Housing Division. Developers have also been pre-qualified through the City's April 2021 affordable housing developer RFQ.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "This is the City's main federal gap source and is usually saved over several years for one tax credit project. The I Street commitment was made to raise Linc's 9% TCAC tiebreaker for the April 7, 2026 round. Linc declined the 2024-2025 HOME because Build America Buy America would have added about $700,000 in material costs. Expect BABA on any new HOME award. Caution: HUD's 2021 environmental monitoring found $700,507 of ineligible CDBG and HOME costs on Gateway Terrace II. In late 2024 the Council weighed voluntary grant reductions of future allocations against repayment from local funds; the outcome was not confirmed this pass. HUD compliance corrections in 2024-2025 also delayed access to grant funds, so allow time for NEPA (AUGF) clearance. Stack with PLHA, Housing Successor land and funds, Fund 1020 (separate records) and Housing Authority of the County of Merced PBVs (county record). Legistar client is 'cityofmerced'; cityofmerced.gov and cityofmerced.org returned Access Denied.",
+      "source_url": "https://cityofmerced.legistar.com/LegislationDetail.aspx?ID=7967614&GUID=F3894523-526C-4BC7-848F-4D2A70BA5D0D",
+      "record_id": "90d19ba098",
+      "cycle_notes": "funding applications in winter, scoring and first public hearing in March, Annual Action Plan adopted May; large rental awards by conditional commitment letter",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Los Banos",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "Density Bonuses and Other Affordable Housing Incentives (Los Banos Municipal Code Title 9, Chapter 3, Article 34, Sections 9-3.3401 to 9-3.3415) with Housing Element Program 7 fee deferrals",
+      "administering_agency": "City of Los Banos Community and Economic Development Department, Planning",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Article 34 implements Gov. Code 65915-65918 and adds a commercial development density bonus (9-3.3415), parking modifications and a required density bonus housing agreement. Program 7 offers possible fee waivers, reductions or deferrals until final occupancy, reduced parking, expedited review and city-built off-site improvements as capital projects case by case.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus thresholds; continued affordability per 9-3.3404 and the housing agreement.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Available at entitlement, no deadline. Program 7 committed to revising the ordinance to match state law by the end of 2025 and to adding AB 1287 bonuses; confirm adoption.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Los Banos has no inclusionary ordinance, local trust fund or city-run NOFA for multifamily. Fee deferral until final occupancy is the main local cost tool. The City also reviews impact fees annually to stay competitive. Code was read on the zoneomics mirror; the Housing Plan (September 2025 MJHE version) was read on the MCAG mercedmjhe.com site.",
+      "source_url": "https://www.zoneomics.com/code/los-banos-CA/chapter_33",
+      "record_id": "898cdfadee",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

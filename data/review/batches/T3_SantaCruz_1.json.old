@@ -1,0 +1,43 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Capitola",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Capitola Affordable Housing Trust Fund (established November 2004) and Affordable Housing Impact Fee ($25 per square foot, adopted 2021)",
+      "administering_agency": "City of Capitola Community and Economic Development Department ((831) 475-7300)",
+      "funding_type": "loan",
+      "typical_award_size": "Trust fund balance about $144,000 (2023-2031 Housing Element, certified August 2024); revenue to date has come only from inclusionary in-lieu fees, with donations allowed. Uses: matching funds for state and federal sources, acquisition of units for affordable resale, and gap assistance; no loan guidelines, per-project limit or NOFA are adopted. Affordable Housing Impact Fee: $25 per square foot on new market-rate residential development, including multifamily rental, adopted in 2021 after a nexus study (the earlier schedule was $6 per square foot on rental projects, $10 per square foot in-lieu on for-sale projects and $2.50 per square foot on additions); exemptions or waivers for deed-restricted affordable units are not stated on the pages opened. PLHA: state estimate of $630,557 for Capitola over the 2020-2024 cycle, application pending at the time the Housing Element was written. Capitola imposes no park, transportation, administration or childcare exactions; school fees ($4.08 per square foot) and Central Fire District fees ($0.53 per square foot) apply.",
+      "per_unit_cap": "None adopted.",
+      "affordability_requirement": "Trust fund monies are directed to new low and very low income units (Section 18.02.050) and to affordable units for moderate income and below; the impact fee is used exclusively to facilitate affordable housing development.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No application cycle; requests are negotiated with the Community and Economic Development Director and approved by Council. The 52-unit 100% affordable development at 1098 38th Avenue (building permit application filed, 2025 Annual Progress Report) is the first candidate for City assistance; confirm whether the impact fee is waived or deferred for that project.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Capitola's fund is too small (about $144,000) to serve as gap financing; its value is as a local match or fee offset in a TCAC or HCD application, with capital from the County's Chapter 17.10 AHIF fund being unavailable inside city limits. The $25 per square foot impact fee is a significant cost on market-rate rental projects (the County charges $2 per habitable square foot on rentals), so mixed-income sponsors should model it; the fee feasibility analysis (EPS, 2021) warned rental development was marginal even before the increase. Density increases are available under the mixed-use AHO successor provisions for 20% lower income units (record below). Sources opened: 2023-2031 Housing Element PDF (DocumentCenter 1797), 2021 fee feasibility analysis (DocumentCenter 699) and the March 23, 2026 Annual Progress Report memo. Audit reclassification: funding_type set to loan because Housing Element Program 2.7 states the City uses the Housing Trust Fund to provide loans and grants (Housing Rehabilitation Loan and Grant Program, feasibility studies, and permanent financing of acquisition-rehab and new construction affordable projects); the balance is only about $144,000. The Housing Element also states a $6 per square foot impact fee for multifamily rental housing alongside the $25 per square foot fee, so confirm the rental rate with the City.",
+      "source_url": "https://www.cityofcapitola.gov/DocumentCenter/View/1797/Capitola-Housing-Element-Adopted-and-Certified-August-2024",
+      "record_id": "bcb90d685b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition of units for affordable resale",
+        "preservation",
+        "local match for state and federal awards"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

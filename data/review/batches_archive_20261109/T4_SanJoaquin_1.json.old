@@ -1,0 +1,81 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "HHAP Round 6 local NOFA and Continuum of Care CA-511 (County and SJCoC allocations)",
+      "administering_agency": "San Joaquin County Human Services Agency, Neighborhood Preservation Division, with the San Joaquin Continuum of Care",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 allocations: County of San Joaquin $5,399,638.58 and San Joaquin Continuum of Care $5,766,906.84 (City of Stockton receives its own share; the regional HHAP-6 plan totals $22,698,332.21). Regional HHAP-6 budget: permanent housing 18% (rapid rehousing and services, $2,042,849.90 each for the County and CoC lines), homeless prevention $4.1 million, interim housing $10.4 million, youth set-aside $2.27 million, administration $1.8 million, capital $0. HHAP-5 local awards: 30 agreements totaling $6,430,416.36 approved March 3, 2026 for March 3, 2026 through June 30, 2028, plus $1,000,000 HHAP-5 to the SJ BeWell Tiny Home Village.",
+      "per_unit_cap": "Not applicable; no capital line in HHAP-6.",
+      "affordability_requirement": "Housing First compliant projects serving people experiencing homelessness; HHAP-6 priorities are sustaining existing permanent and interim housing investments. Applicants must be 501(c)(3) nonprofits, tribes or public agencies.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 local NOFA released October 19, 2026; applications due 2:00 pm Friday, November 20, 2026 by email to fiscalneighborhood@sjgov.org or in person at 400 E. Main Street, Stockton.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). HHAP has been used as a small capital and operating piece in County-area PSH (for example $1,000,000 in Lodi Commons and $1,000,000 HHAP-5 for the BeWell tiny home village), but the HHAP-6 regional plan budgets $0 for capital and shifts money to sustaining operations, so developers should treat HHAP as an operating or services source for existing PSH rather than a construction source. The 2025 Regional Homeless Action Plan reports 240 PSH units built in the past five years and 200 plus in the pipeline, and a shelter inventory growing from 1,346 to 1,934 beds by the end of 2026. HHAP rounds 1 through 6 brought roughly $82.7 million to the region. HUD CoC Program funds flow through the SJCoC annual competition (2024 announcement posted on sjchsa.org); Stockton, the County and the CoC file a joint HHAP action plan.",
+      "source_url": "https://www.sjchsa.org/Portals/0/resources/neighborhood-preservation/home/HHAP6%20Application%20FINAL%2010.27.26.pdf",
+      "record_id": "247db77da2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent housing rental subsidies and services",
+        "rapid rehousing",
+        "interim housing and navigation center operations",
+        "homeless prevention",
+        "operating support for existing supportive housing"
+      ],
+      "next_deadline_date": "2026-11-20",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Tracy",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Density Bonus, Tracy Municipal Code Title 10 Chapter 10.08 Article 36.5 (Sections 10.08.4650 to 10.08.4695; Ordinance 1378 adopted January 20, 2026)",
+      "administering_agency": "City of Tracy Community and Economic Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement and entitlement incentive, not a subsidy. Ordinance 1378 repealed the 2008 article (Ord. 1113) and re-enacted Article 36.5 to match current state law: bonus of 5% to 35% (higher for 100% affordable projects under Government Code 65915), one or more concessions or incentives, parking caps, land donation and child care bonuses, and a recorded density bonus housing agreement (10.08.4686).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State thresholds: 10% very low, 20% low (code text uses 70% AMI for low), 50% senior, 20% moderate condominium units; 100% affordable projects under state law.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement. Adopted as part of the Housing Element implementation package introduced December 2025 and adopted January 20, 2026; no further hearing scheduled.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Tracy's bonus is the state minimum with no local enhancement, unlike Stockton's 100% tier. The 2023-2031 Housing Element (adopted July 1, 2025, HCD compliance letter August 11, 2025, RHNA 8,830) relies on rezoning rather than local subsidy. Tracy's Residential Growth Management Ordinance governs allotments for market-rate units; confirm whether affordable projects are exempt. Read from the zoneomics mirror of Title 10 because cityoftracy.org returns 403 to scripts and its Municipal Code host blocks automated access.",
+      "source_url": "https://www.zoneomics.com/code/tracy-CA/chapter_44",
+      "record_id": "ccd43a5158",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use",
+        "condominium conversion"
+      ],
+      "next_deadline_date": "2026-01-20",
+      "deadline_check": "past_date"
+    }
+  }
+]

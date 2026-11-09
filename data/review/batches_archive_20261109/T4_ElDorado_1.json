@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), El Dorado County formula allocation",
+      "administering_agency": "El Dorado County Health and Human Services Agency (HHSA), Community Services Division; hhsa-grants@edcgov.us",
+      "funding_type": "grant",
+      "typical_award_size": "2019-2023 five-year estimate $2,990,478 (Resolution 143-2025, October 21, 2025; years 1-3 were $479,995, $729,477 and $973,923). HCD's 2024-2028 formula NOFA lists El Dorado County at $308,950 (2024), $318,390 (2025) and a five-year estimate of $1,930,938. All of it is programmed to homelessness operations, not development.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA guidelines allow rental housing at or below 60% AMI (up to 80% AMI) with 55-year covenants, but the County's plan directs the funds to operating the navigation center and interim housing services rather than capital.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not available to developers. The 2024 plan amendment moved all PLHA to a single capital activity for a permanent navigation center, and in 2025 staff said the Forni Road housing services site will likely not use PLHA capital, so the money is being reallocated to navigation center operations. A new five-year plan for the 2024-2028 allocations is required by HCD and could revisit uses.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "El Dorado's PLHA is about $300,000 to $1,000,000 a year and is entirely absorbed by homeless services, so there is no PLHA capital for multifamily deals in the unincorporated county. The only PLHA capital nearby came through the City of Placerville's competitive PLHA award (Middletown Apartments, about $1,050,000), which is a Pass 3 item. If the County restructures its 2024-2028 PLHA plan, a developer could ask HHSA to carve out a capital or operating subsidy line for a permanent supportive housing project; HHSA, not Planning and Building, controls PLHA here.",
+      "source_url": "https://eldorado.legistar.com/LegislationDetail.aspx?ID=39157&GUID=A63338BA-252F-4735-A14B-8E5F3415DC0D&Options=&Search=&FullText=1",
+      "record_id": "7b71e74f00",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "interim housing",
+        "supportive housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption (property tax), El Dorado County Assessor",
+      "administering_agency": "El Dorado County Assessor, Jon DeVille, 360 Fair Lane, Placerville; 530-621-5719; with the California State Board of Equalization (Organizational Clearance Certificate)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Exemption of property taxes on the share of units restricted to lower income households (Revenue and Taxation Code 214(g)): full exemption for units at or below 80% AMI in LIHTC or publicly financed projects, partial exemption for the qualifying share in mixed projects. In El Dorado the 1% base rate plus voter-approved debt applies to the exempt value.",
+      "per_unit_cap": "Statewide $20 million assessed-value cap on the 214(g) exemption for non-LIHTC projects relying on a regulatory agreement; no cap for LIHTC projects.",
+      "affordability_requirement": "Nonprofit or limited partnership with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate, recorded regulatory agreement (tax credits, bonds, HOME, PLHA, local agreement) restricting rents to lower income households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 (first year) or BOE-267-A (annual) with the Assessor by February 15 each year; late filings through December 31 receive a partial exemption. Supplemental and LIHTC-specific forms (BOE-267-L, 267-L1, 267-L-A, 267-L2) attach as applicable.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard underwriting item. The Racquet Way staff report noted the project does not currently qualify for a welfare tax exemption because it is developed by a market-rate developer rather than a nonprofit, which is a reminder that a for-profit TIF offset recipient without a nonprofit managing general partner pays full property tax; the developer can instead request a restricted assessed value under Revenue and Taxation Code 402.1 that reflects the rent restrictions. The County's 55-year TIF offset agreement counts as a recorded restriction for the 402.1 valuation but does not by itself qualify for 214(g).",
+      "source_url": "https://www.boe.ca.gov/proptaxes/countycontacts.htm",
+      "record_id": "681580e585",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

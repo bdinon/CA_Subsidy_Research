@@ -1,0 +1,154 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "HOME and CDBG, Marin County Urban County (countywide entitlement with city planning areas)",
+      "administering_agency": "Marin County Community Development Agency, Housing and Federal Grants Division, with the Countywide Priority Setting Committee",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2026-27: about $1,600,000 CDBG and $676,000 HOME approved June 23, 2026. Housing awards: Eden Housing Oak Hill (unincorporated, between San Quentin and Larkspur Landing, about 230 units with more than 130 for educators and school employees) $531,000 CDBG; Eden Housing Mill Valley rental development $360,000 HOME; Homeward Bound of Marin permanent supportive housing for formerly homeless seniors in San Rafael $317,000 HOME; Habitat for Humanity Greater SF home rehabilitation program $70,000 CDBG (requested $296,000); Homeward Bound shelter capital repairs about $132,000 CDBG; the balance to child care facilities, a San Rafael preschool and public services. FY 2025-26 CDBG entitlement was $1,512,738; that NOFA drew 33 applications requesting about $3,940,000 CDBG, $1,600,000 HOME and $1,390,000 PLHA. CDBG is split into planning-area shares (San Rafael's 2026-27 share about $508,000) recommended by the cities and the County.",
+      "per_unit_cap": "HOME maximum per-unit subsidy limits apply; awards are typically $300,000 to $600,000 per housing project.",
+      "affordability_requirement": "HOME: households at or below 80% AMI at HOME rents with a County regulatory agreement; CDBG: low and moderate income benefit. The Consolidated Plan for FY 2025-2029 (adopted June 10, 2025) sets priorities including family, rental, special needs and homeowner housing and an eastern Marin land trust with specific inclusion for African American households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Next NOFA expected January 2027 (applications due February 2027, PSC in May, Board in June) alongside PLHA and Trust Fund match; a two-year funding cycle covers 2026-27 and 2027-28 for services.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "marincounty.gov, marincounty.org, assets.marincounty.gov, marinhhs.org and arcc.marincounty.gov sit behind Cloudflare and refused automated access on 2026-11-06, so County program pages could not be opened; Board agendas were read on marin.granicus.com and staff reports through its MetaViewer links where available. Marin is the HUD entitlement for the whole county, including its cities, so a project in San Rafael or Novato competes for the same CDBG and HOME as unincorporated sites and needs the planning-area committee's support first. Federal money is a few hundred thousand dollars per project and is used to complete 9% deals (Homeward Bound) or as early money for large 4% deals (Oak Hill). Davis-Bacon applies at 12 HOME-assisted units or eight CDBG units; County loans carry state prevailing wage. Figures from the Local News Matters report of June 24, 2026 (opened), the June 23, 2026 Board agenda (opened) and the Dec 5, 2024 Priority Setting Committee packet on GovDelivery (opened).",
+      "source_url": "https://localnewsmatters.org/2026/06/24/marin-county-affordable-housing-community-projects/",
+      "record_id": "df6d6fb9b3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "public facilities"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Development fee waiver for affordable housing (no countywide program)",
+      "administering_agency": "Marin County Community Development Agency",
+      "funding_type": "fee waiver",
+      "typical_award_size": "None adopted. Development Code 22.24.020 states that nothing in the density bonus chapter requires direct financial incentives such as subsidies or fee waivers, though the County may offer them at its discretion. No fee waiver program appears in Board housing actions reviewed for 2025 and 2026.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Request fee relief case by case through the Affordable Housing Fund or as a density bonus incentive.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding. Labor Code 1720(b)(4) counts waived fees as public funds for prevailing wage purposes. Read on the Zoneomics mirror of Chapter 22.24.",
+      "source_url": "https://www.zoneomics.com/code/marin-county-unincorporated-CA/chapter_3",
+      "record_id": "83146f5922",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Rafael",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "San Rafael Density Bonus and Height Bonus program, SRMC 14.16.030(C) and 14.16.190, Resolution 14891 (Tables 3 and 4), Downtown Precise Plan Chapter 7.3 bonus",
+      "administering_agency": "City of San Rafael Community and Economic Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement framework, not a cash subsidy. Resolution 14891 (Feb 16, 2021) implements Government Code 65915 by Council resolution so tables update without a code amendment: Table 3 scales bonuses from 20% at 5% very low or 10% lower income up to 50% at 15% very low or 24% lower income, 35% at 40% moderate ownership, 20% for senior housing, land donation, supportive housing and student housing categories, and 80% or unlimited density with a three-story height increase for 100% affordable projects within a half mile of a major transit stop. Table 4 lists concessions including a 20% reduction in yard setback, lot coverage or landscape requirements each counted as one concession, mixed-use allowances and parking at state maximums. Section H allows an affordable housing applicant to request a planning fee waiver under Resolution 11025. A separate height bonus (14.16.190) and the Downtown Precise Plan Chapter 7.3 bonus add floors for affordable units downtown; the City's October 2026 Prohousing self-assessment states its program exceeds statutory requirements by 12 percent.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per Government Code 65915 thresholds; 55-year affordability for very low and low rental units that earn the bonus. 100% affordable projects may include up to 20% moderate income units and one manager unit.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Resolution 14891 anticipated amendment once the Downtown Precise Plan bonus was finalized; the City is also drafting Objective Design Standards (Housing Element Program 25) and parking standard revisions (Program 43) through 2027 as Prohousing commitments.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Most San Rafael rental projects now use this path rather than paying the in-lieu fee (City staff, Oct 5, 2026), which reduces Trust Fund revenue but speeds entitlements; recent examples include 1515 Fourth Street, 4040 Civic Center Drive, 930 Irwin and 1100 Los Gamos (190 affordable units, seven stories). The City also reports no traffic mitigation fee on affordable units (see fee waiver record). Stack with the County Trust Fund and PLHA, which do not depend on the bonus. Resolution 14891 PDF opened from the City fees page; the Downtown Precise Plan Chapter 7.3 text was not opened this pass.",
+      "source_url": "https://storage.googleapis.com/proudcity/sanrafael/2026/07/Resolution-14891-with-tables.pdf",
+      "record_id": "e092c17412",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Rafael",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "City-owned land for affordable housing: 350 Merrydale Road (at least 80 units, Eden Housing exclusive negotiations) and Housing Element Program 19 disposition process",
+      "administering_agency": "City of San Rafael Community and Economic Development Department (Greg Minor, Assistant Director, 350merrydaleaffordable@sanrafael.gov)",
+      "funding_type": "land",
+      "typical_award_size": "Land contribution rather than cash. The City bought 350 Merrydale Road in November 2025 with Marin County funding support for a two-phase use: an interim shelter closing no later than June 30, 2029, then a permanent affordable development of at least 80 units to be entitled by June 30, 2028. RFP issued February 19, 2026; a Council subcommittee met August 20, 2026; on October 5, 2026 the Council voted to begin exclusive negotiations with Eden Housing. Ground lease and any City loan terms are not yet set.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Deed-restricted affordable housing; the 2025 APR files the site under Program 32 (extremely low income housing resources). Surplus Land Act terms (at least 25% lower income, or 100% affordable exemption) will apply to the disposition.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Entitlement deadline June 30, 2028 for 350 Merrydale. Program 19 (official process for housing on City lots) is a Prohousing commitment due over the next two years.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Expect the development to layer County Affordable Housing Fund money (the County co-funded the acquisition), City Trust Fund, PLHA, Homekey+ or HHAP for any PSH component, 4% credits and CMFA bonds; a City ground lease counts as public funds for prevailing wage. Developer selection is complete, so this is a reference record for how San Rafael deploys land, not an open opportunity. Related City-facilitated pipeline: Northgate Town Square (private, inclusionary units), 88 Vivian and 1100 Los Gamos (private 100% affordable applications). marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://sanrafael.gov/350-merrydale-road-affordable-housing-project/",
+      "record_id": "2a1016e345",
+      "cycle_notes": "developer selected; next City land offering depends on Program 19 process",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2028-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "State CDBG and HOME (non-entitlement county) and County housing programs, Yolo County Administrator's Office",
+      "administering_agency": "Yolo County Administrator's Office (Mark Bryan, housing programs; housingprograms@yolocounty.gov) with grant administration contracted to Thurmond Consulting LLC through November 30, 2026; Yolo County Housing formerly administered the County CDBG program",
+      "funding_type": "loan",
+      "typical_award_size": "Small. Yolo County is a non-entitlement jurisdiction and applies to HCD's state CDBG and HOME competitions. The Board held the required housing public hearing on March 24, 2026 and authorized a $300,000 application for the 2025 state CDBG funding year (Resolution 26-34). Current CDBG use is an owner-occupied housing rehabilitation program with loans up to $100,000 for low and moderate income homeowners in the unincorporated area. Earlier HOME and CDBG awards funded first-time homebuyer assistance. No County loan to a multifamily development was found.",
+      "per_unit_cap": "State HOME per-unit subsidy limits would apply if the County sponsored a rental project; none found.",
+      "affordability_requirement": "CDBG at or below 80% AMI (low and moderate income benefit) in the unincorporated area only (not Davis, Woodland, West Sacramento or Winters). HOME at or below 80% AMI with HCD's affordability covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Follows HCD's state CDBG and HOME NOFA calendar; the County held its 2026 CDBG public meeting on March 18, 2026 and hearing on March 24, 2026. A developer wanting the County as applicant or co-applicant for a state rental program should approach the County Administrator's Office before the HCD NOFA opens.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Yolo County has no county gap loan program for rental housing and no development NOFA. Its state CDBG and HOME capacity is small and committed to homeowner rehab and homebuyer programs, and the County issued an RFP in September 2026 for housing program consulting (loan management, grant writing) to run these programs. The practical County role for a developer is the resolution or co-applicant for state programs (HOME rental, Joe Serna farmworker housing, MHP) in the unincorporated communities (Esparto, Madison, Knights Landing, Dunnigan, Clarksburg). The Board created a Farmworker Housing Ad Hoc Subcommittee in May 2025 and the March 2026 Board calendar listed hearings on a farmworker housing planning grant application. The three cities (Davis, Woodland, West Sacramento) run their own programs and are Pass 3. State funds trigger prevailing wage and federal cross-cutting rules.",
+      "source_url": "https://public.destinyhosted.com/yolocdocs/2026/BOS/20260324_3929/16187_Template_CDBG_meeting_presentation___SPANISH_DRAFT.pdf",
+      "record_id": "27b4b56ccd",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "homeownership",
+        "new construction",
+        "public facilities"
+      ],
+      "next_deadline_date": "2026-03-24",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers and HUD-VASH PBVs, Yolo County Housing (YCH)",
+      "administering_agency": "Yolo County Housing (Housing Authority of the County of Yolo, CA044), 147 West Main Street, Woodland; (530) 662-5428; Executive Director Ian Evans; Housing Program Manager Anisa Vallejo",
+      "funding_type": "rental assistance",
+      "typical_award_size": "YCH leases about 1,500 to 1,600 Housing Choice Vouchers countywide and owns 431 public housing units. It awarded 155 PBVs over the three years to January 2026 (84 to new construction) through RFPs, most recently a December 2023 pair of RFPs (existing housing, and new construction or rehabilitation) offering up to 40 PBVs with up to 3 HUD-VASH vouchers. The FY 2026 Agency Plan commits to allocating additional PBVs to new and existing projects until YCH reaches HUD's PBV cap (about 30% of vouchers) by the end of 2029, and to project-basing about 36 tenant protection vouchers from a 2026 Section 18 disposition at its Tupelo development in Woodland.",
+      "per_unit_cap": "PBV contract rents at reasonable rent up to YCH payment standards (110% of FMR); HUD program cap of 20% of authorized vouchers plus 10% for PSH and other exception units.",
+      "affordability_requirement": "Very low and extremely low income households (at or below 50% AMI); PBV HAP contracts up to 20 years with extensions. The PBV waiting list has been closed since February 2023 and the HCV program has had intermittent voucher shortfalls since 2023 while Emergency Housing Voucher households are moved onto HCV.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No PBV RFP was open on November 6, 2026 (YCH's current solicitations are landscaping and painting). YCH issues PBV RFPs as voucher budget allows; contact Anisa Vallejo (avallejo@ych.ca.gov) to be notified. YCH's jurisdiction is the whole county, including Davis, Woodland, West Sacramento and Winters.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "PBVs are the one countywide operating subsidy for PSH in Yolo and YCH is unusually willing to project-base (goal of reaching the HUD cap by 2029), but federal HCV funding shortfalls since 2023 limit new awards; the County's BHSA plan calls voucher capacity 'extremely limited.' Nine or more PBV units in a project trigger Davis-Bacon under HUD rules; PBVs alone do not trigger state prevailing wage. Coordinated Entry through the Homeless and Poverty Action Coalition (HPAC, CoC CA-521) supplies referrals for homeless set-aside units. YCH is also converting or disposing of public housing (Vista Montecito, Yolito, Ridgecut in 2026; Yolano Village and Donnelly Circle in 2027 or later), which will generate more PBVs tied to its own redevelopment.",
+      "source_url": "https://www.ych.ca.gov/wp-content/uploads/2026/02/CA044-FY2026-Annual-Plan-for-Posting-1.pdf",
+      "record_id": "398c19dd71",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Davis, Woodland/Yolo County Continuum of Care (CA-521, Homeless and Poverty Action Coalition) and HHAP, Yolo County share",
+      "administering_agency": "Yolo County Health and Human Services Agency (County HHAP administrative entity and HPAC staff; HMIS lead) with the Homeless and Poverty Action Coalition (CoC board) and the City of Davis",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 6 allocations (HCD, based on the 2024 count): Yolo County $1,074,906.92 and the Davis, Woodland/Yolo County CoC $1,148,019.07, about $2.2 million for the region including Davis, awarded in the state's April 2026 batch. HHAP rounds 1 to 5 brought $8.1 million to the Yolo area, $3.9 million of it to the County ($2.6 million spent). Round 5 County subawards approved March 3, 2026 include $135,000 to the City of West Sacramento for interim housing operating subsidies and $15,000 for rapid rehousing, both through February 2028. 2024 point-in-time count: 942 people, 633 unsheltered, 983 year-round beds.",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness; HHAP-6 requires a regionally coordinated action plan, a 10% youth set-aside and allows permanent housing capital, operating subsidies and rental assistance among its categories.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "County and CoC HHAP-6 funds are being contracted in 2026 through 2029; the County's BHSA plan says HHAP is used for existing programs (Housing Our Youth type youth transitional housing, rapid rehousing, interim housing operations). HHAP Round 7 preliminary allocations were posted by HCD with final figures expected after September 2026. HPAC posts its own RFPs for CoC and HHAP funds on yolocounty.gov (page blocked to automated access on November 6, 2026).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Yolo's HHAP is about $1 million a year each to the County and the CoC and goes to operations, not capital. For a PSH project the value is Coordinated Entry referrals through HPAC, possible HHAP or CoC operating subsidies for a handful of units, and the County's Behavioral Health Bridge Housing and Transitional Rent pipeline for tenants. The City of Davis receives its own HHAP (about $1 million in Round 6) and the City of West Sacramento has run interim housing with County HHAP pass-throughs; both are Pass 3.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-6-allocations.pdf",
+      "record_id": "1bd8f7ea7f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "services"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Woodland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "CDBG entitlement program (2025-2029 Consolidated Plan, annual Action Plan NOFA) and PLHA formula allocation",
+      "administering_agency": "City of Woodland Community Development Department, Housing (Housing Analyst Franklin Cui, (530) 661-2019, franklin.cui@cityofwoodland.gov)",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2025/26 CDBG allocation $473,643 (FY 2024/25 $475,086; FY 2026/27 estimated $443,278), about $2.4 million over the 2025-2029 Consolidated Plan adopted July 15, 2025. Allocation pattern: 65% public infrastructure (ADA Accessibility Project $307,868 in FY 25/26 and $299,622 in FY 26/27), 15% public services capped (about $55,000 to $66,000 to food, shelter and fair housing), 20% administration. The five-year plan budgets only $100,000 for the Improve Housing Access and Quality goal, so direct CDBG support to rental development is minimal; past awards funded shelters, supportive housing services and fair housing. HCD's 2024-2028 PLHA NOFA lists Woodland at about $1.09 million over five years. Woodland is not a HOME participating jurisdiction and applies to the state HOME competition (used for first-time homebuyer loans; the interest list is closed).",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDBG at or below 80% AMI or low and moderate income area benefit; state HOME at or below 80% AMI.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "homeownership",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2027/28 NOFA expected mid February 2027 with applications due about mid March (the FY 2026/27 cycle: NOFA February 18, 2026, applications due March 18, 2026, Council hearing July 21, 2026). Program year starts July 1.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Treat Woodland CDBG as a source for off-site infrastructure or ADA work adjacent to an affordable project rather than construction gap; the housing goal is $100,000 over five years. State HOME and PLHA are the city's other formula sources but have gone to homebuyer assistance; ask Housing staff whether PLHA could be redirected to a rental project. Yolo County's CDBG and HOME cover only unincorporated areas. Pair with Fund 1327 loans and Yolo County Housing PBVs. The CDBG page and DocumentCenter PDFs on cityofwoodland.gov open directly; some scanned PDFs (one-pager, SB 341 report) have no text layer.",
+      "source_url": "https://cityofwoodland.gov/597/Community-Development-Block-Grant",
+      "record_id": "0eb948a106",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "public facilities",
+        "public services",
+        "acquisition-rehab",
+        "homeownership"
+      ],
+      "next_deadline_date": "2026-07-21",
+      "deadline_check": "past_date"
+    }
+  }
+]

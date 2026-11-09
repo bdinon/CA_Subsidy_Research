@@ -1,0 +1,78 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Merced County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "Density bonus and commercial development bonus (County Code Chapter 18.66) and 2024-2032 Housing Element status",
+      "administering_agency": "Merced County Community and Economic Development Department, Planning Division (Tiffany Ho, Deputy Director)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Chapter 18.66 (Ordinance 1976, 2019; Ordinance 1990, 2020) grants state-law density bonuses for 10% lower income, 5% very low income, senior, 10% moderate for-sale common interest, 10% transitional foster youth, disabled veteran or homeless units and 20% lower income student housing, with incentives and concessions approved by the Board unless written findings are made, reduced parking (one space for 0-1 bedroom, two for 2-3 bedrooms), land donation bonuses and a commercial development bonus (up to 20% intensity, FAR, height or parking relief) for commercial developers who partner with a housing developer providing 30% low income or 15% very low income units; the chapter states the bonus does not waive any affordable housing fee. Housing Element: HCD issued a Notice of Violation on March 24, 2026 after three rounds of findings (drafts October 2024, August 2025, January 2026); the Board adopted the multi-jurisdictional 2024-2032 Housing Element on May 19, 2026 and HCD found it compliant in June 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 thresholds with recorded continued affordability (Section 18.66.070).",
+      "eligible_project_types": [
+        "mixed-income",
+        "senior housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested with the land use application. Housing Element certification restores the County's eligibility for state funds (HHAP second disbursement, Prohousing, PLHA) that require compliance.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Merced County has no County housing finance program: the Community and Economic Development Department handles planning and the Housing Element, the Human Services Agency is Collaborative Applicant and Administrative Entity for the Merced City and County Continuum of Care (CA-520) and HHAP, Behavioral Health and Recovery Services holds BHSA, and the Housing Authority of the County of Merced (HACM) is the countywide PHA. The County is a non-entitlement jurisdiction for CDBG and HOME, has no housing trust fund, inclusionary ordinance, in-lieu fee or fee waiver, and Measure V (MCAG half-cent sales tax) is transportation only. The City of Merced is the entitlement jurisdiction with PLHA and Homekey awards (Pass 3). countyofmerced.com is Cloudflare-blocked to automated access (pages, DocumentCenter and AgendaCenter), so records were built from HCD tables and letters, mercedcoc.org reports, merced-pha.com, gocodebook (County Code Title 18) and press coverage; County documents are flagged for confirmation. The County's land use incentives follow state law with no local enhancement or fee relief; the two-year Housing Element delay had put state funding at risk until the May 2026 adoption. Source is Chapter 18.66 on gocodebook.com; Housing Element history from HCD's March 24, 2026 notice of violation letter.",
+      "source_url": "https://gocodebook.com/library/us/ca/merced-county-zoning/title-18-zoning-code/chapter-18.66-density-bonus-for-affordable-housing",
+      "record_id": "5f7c4c4ba8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily and mixed-income housing in unincorporated zones",
+        "senior and student housing",
+        "mixed-use projects with a commercial partner"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Merced",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "City of Merced Permanent Local Housing Allocation (PLHA), 2019-2023 five-year plan (Resolutions 2021-113 and 2021-114)",
+      "administering_agency": "City of Merced Housing Division (Fund 2018 Permanent Local Housing)",
+      "funding_type": "loan",
+      "typical_award_size": "About $3,112,314 over 2019-2023. The 2019 carryover ($518,719) and 2020 allocation ($806,250) went to Mercy Village (UPholdings and Self-Help Enterprises, 65 permanent supportive units on Park Avenue). 95% of 2021-2023 (about $1,608,830, including 2021 $887,254 and 2022 $444,694) is committed to Linc Housing's I Street project.",
+      "per_unit_cap": null,
+      "affordability_requirement": "55-year regulatory agreement. In Mercy Village the PLHA-restricted units are 6 at 30% AMI, 5 at 50% AMI and 11 at 60% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "unknown, verify with agency. No new five-year PLHA plan for 2024 and later allocations was found this pass.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "All current PLHA is spoken for, so a new project would depend on a future plan amendment or new allocations. The City has used PLHA as a matching layer for Homekey (Mercy Village) and 9% credits (I Street), alongside HOME and Housing Successor land. Merced County's own PLHA (county record) is separate and covers the unincorporated county.",
+      "source_url": "https://cityofmerced.legistar.com/LegislationDetail.aspx?ID=6502712&GUID=83B2E5F5-1EC7-455E-81D4-03E6AEDFDA79",
+      "record_id": "0ddde83f71",
+      "cycle_notes": "2019-2023 allocations fully committed",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Cruz",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "needs_confirmation",
+      "program_name": "Density bonus provisions and fee waivers for affordable units (Municipal Code Chapter 24.16 Parts 3 and 4) and reduced childcare impact fee for 100% affordable developments",
+      "administering_agency": "City of Santa Cruz Community Development Department, Planning Division and Housing Division",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Chapter 24.16 Part 4 is now Fee Deferrals for Affordable Units (Sections 24.16.300 Units Eligible for Fee Deferrals and 24.16.310 Procedure for Deferral of Fees). Resolution NS-30,634 (adopted March 10, 2026) lets staff defer development review fees for 100 percent affordable housing projects: Building, Fire, Community Development, Parks, Police, Public Works, Water and similar fees may be deferred up to five years, or until certificate of occupancy if a substantially complete building permit application is filed, then up to about five more years on a payment plan with interest set annually by the Finance Director. Third-party review cost fees are collected in full; impact fees (Gov. Code 66007, SB 937), the Parks and Recreation Facilities Tax and the Quimby Fee cannot be deferred past certificate of occupancy; the Traffic Impact Fee is deferred under separate procedures. Fee waivers are not granted by staff and must still be requested from City Council; Resolution NS-30,635 waivers apply only to projects on City-owned land or buildings. Part 3 density bonus text and the childcare impact fee reduction for 100% affordable projects were not read (codepublishing.com 403).",
+      "per_unit_cap": "None; deferral covers the eligible development review fees in full, subject to exclusions.",
+      "affordability_requirement": "100 percent affordable housing developments for the staff deferral policy; a 2019 City form indicated only very low and low income units were eligible for Part 4 fee relief (not re-confirmed).",
+      "eligible_project_types": [
+        "new construction",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling. Submit the supplemental fee deferral application with the 100 percent affordable planning application (or with building plan check if no planning fees apply), then sign a fee deferral agreement and payment plan.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Treat as a cost reduction layered on top of the AHTF loan and Measure O compliance; the County's enhanced density bonus (Chapter 17.12.065, up to 50% for 21% or more low income units) and County AHIF exemption apply only in the unincorporated area. Santa Cruz also created Flexible Density Units in four commercial zones (auxiliary units allowed up to the full floor area ratio regardless of density) and the My House My Home senior ADU program, both cited in the 2023 Prohousing application. Marked needs_confirmation because the code text was not opened; the zoneomics chapter index listing Parts 3 and 4 and the City Prohousing page were.",
+      "source_url": "https://www.santacruzca.gov/Government/City-Departments/Community-Development/Fees-Payment-Options/Fee-Deferral-Fee-Waiver-Policies",
+      "record_id": "23bd3a2dd9",
+      "cycle_notes": "Policy adopted March 10, 2026 (Resolution NS-30,634, Planning Commission recommendation February 5, 2026); eligibility determined by the Community Development Director, payment plan approved by the Finance Director.",
+      "eligible_project_detail": [
+        "new construction",
+        "100% affordable developments",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "Prevailing wage left unclear: the deferral policy and city page are silent, and the Labor Code 1720 text on leginfo returned 403 so no stated rule was read; code text for Part 3 and the childcare fee reduction still needs confirmation.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Watsonville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Housing Ordinance (Municipal Code Chapter 14-46, Ordinance 1480-25 effective October 9, 2025) with in-lieu and commercial fees",
+      "administering_agency": "City of Watsonville Community Development Department, Housing Division (275 Main Street, Suite 400, (831) 768-3080)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Projects of 7 to 50 units: for-sale 15% (5% above moderate, 5% median, 5% moderate), rental 20% (5% low, 5% median, 10% very low or Housing Choice Voucher and other subsidy recipients). Projects over 50 units: 20% for both tenures (for-sale 10% above moderate, 5% moderate, 5% median). In-lieu fees are required from projects of six or fewer units or lots, from new commercial and industrial development over 1,000 square feet (a commercial linkage fee) and from condominium conversions; fee amounts are set by Council resolution and indexed annually at 50% of the Santa Cruz-Watsonville House Price Index increase, paid at building permit or final map (14-46.070). Income categories use the Watsonville median household income, defined as 70% of the Santa Cruz County median. Federal, state or City-assisted affordable projects meeting the percentages satisfy the chapter in full (14-46.040(c)). Projects with 50% or more affordable units receive priority processing (14-46.080). Release fees for de-restricting units are paid into the affordable housing fund.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Rental units 55 years, ownership units 45 years, deed restricted; very low means the lower of 80% of Watsonville median or 50% of county AMI, low up to 100% of Watsonville median or 50% to 80% county AMI, median up to 120% of Watsonville median or 80% county AMI, moderate up to 150% of Watsonville median, above moderate up to 170%; preference for households living or working in Watsonville at least one year; minimum unit sizes and amenity standards in 14-46.060; affordable units built concurrently with market units.",
+      "eligible_project_types": [
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; requirement applies at entitlement. No application round as of November 9, 2026. Current in-lieu fee resolution amounts not located; request the fee schedule from the Housing Division.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The deepest city inclusionary requirement in Santa Cruz County (20% of rental units with half at very low income or voucher holders) and the only city program with a commercial linkage component; it exceeds the County's Measure J (for-sale only) and Capitola's and Scotts Valley's 15% standards. Because 100% affordable projects satisfy the chapter automatically and get priority processing, tax credit developers face no added inclusionary cost, while mixed-income developers can satisfy the very low tier with Housing Authority of the County of Santa Cruz PBV units. Fees flow to the City's Affordable Housing fund (record below). The 2025 code text was read on the zoneomics mirror because codepublishing.com and gocodebook.com returned 403; the City's Affordable Housing page (watsonville.gov/172) was also opened.",
+      "source_url": "https://www.zoneomics.com/code/watsonville-CA/chapter_35",
+      "record_id": "b594d259ab",
+      "cycle_notes": "Ordinances 1480-25 and 1481-25 took effect October 9, 2025 and removed the prior exemption for unsubsidized rental projects. Affordable housing agreement approved by Council and recorded before final map or construction.",
+      "eligible_project_detail": [
+        "market-rate rental and for-sale projects of seven or more units (compliance)",
+        "small residential projects and commercial or industrial development (fee payers)",
+        "condominium conversions",
+        "subsidized affordable projects (automatic compliance)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 Nov 9, 2026: Chapter 14-46 text on the zoneomics mirror matches every figure in the record (7 to 50 and over 50 unit tiers, 15 and 20 percent components, 55 and 45 year terms, income definitions, commercial over 1,000 sq ft fee, HPI indexing, priority processing at 50 percent affordable). The official watsonville.gov/172 page has no ordinance detail, codepublishing returns 403 and the Legistar API is not enabled, so the detail rests on a third-party mirror only; confidence lowered to needs_confirmation per source rule. prevailing_wage_trigger false is uncited; this is a regulatory requirement or fee rule with no public funds.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Watsonville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "needs_confirmation",
+      "program_name": "Inclusionary Housing in-lieu fee Affordable Housing fund, HOME program income and Successor Agency housing assets",
+      "administering_agency": "City of Watsonville Community Development Department, Housing Division, and the City as Successor Agency to the Watsonville Redevelopment Agency",
+      "funding_type": "loan",
+      "typical_award_size": "The 2025-2029 Consolidated Plan states that inclusionary in-lieu fees under Chapter 14-46 go to the City's Affordable Housing fund and are used for development, acquisition, rehabilitation and preservation of affordable units, and that PLHA, HOME, CDBG, CalHome and in-lieu fees provide gap financing for the First-Time Homebuyer and Housing Rehabilitation programs. The City has no active state HOME grant (last award $1,546,000 in 2011) and holds over $1,850,000 of HOME program income available for future HOME-eligible activities; it has made over 500 FTHB loans and has 280 inclusionary ownership units. The 2025-2029 plan does not mention Successor Agency property and states the City does not anticipate using publicly owned land for CDBG goals. No in-lieu fund balance, multifamily loan terms or application procedure is published.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Affordable to households at or below the Chapter 14-46 income categories (70% of county AMI basis) or HOME limits (80% AMI, 60% AMI for HOME rental units) with recorded affordability covenants of 45 to 55 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency. No NOFA is published; developers negotiate assistance project by project with the Housing Division ((831) 768-3080). Confirm the in-lieu fund balance, the HOME program income balance and the status of Successor Agency property dispositions.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Watsonville's local gap sources are modest and discretionary; the HOME program income (over $1.85 million per the 2025-2029 Consolidated Plan) is the largest identifiable pool and carries federal HOME rules and Davis-Bacon for 12 or more units. Stack with the County of Santa Cruz state HOME tenant-based assistance (which covers Watsonville), Housing Authority of the County of Santa Cruz PBVs, HHAP through the Watsonville/Santa Cruz CoC, and City CDBG (record below). Unlike Santa Cruz city there is no adopted trust fund guideline document. Marked needs_confirmation because no fund balance or program guideline could be opened; the 2025-2029 Consolidated Plan and 2020-2024 Consolidated Plan PDFs on watsonville.gov were read.",
+      "source_url": "https://www.watsonville.gov/DocumentCenter/View/27152/2025-2029-Consolidated-Plan-and-2025-2026-Action-Plan",
+      "record_id": "2fe4c84397",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "first-time homebuyer and owner rehabilitation loans",
+        "former redevelopment agency sites"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Consolidated Plan supports the fund's existence, HOME program income figure and 70% AMI inclusionary basis, but not multifamily award size, loan terms or the Successor Agency site claim; the documented uses of these funds are mainly homebuyer and owner rehab.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Watsonville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "needs_confirmation",
+      "program_name": "Density Bonus Ordinance (Municipal Code Chapter 14-47, Ordinance 1481-25 effective October 9, 2025) with impact fee deferral concession",
+      "administering_agency": "City of Watsonville Community Development Department, Planning Division (Director approves ministerial projects; Council approves discretionary projects)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Adopts Government Code 65915 by reference for all housing developments; bonus calculated under 65915(f) for very low, lower, moderate for-sale, senior, foster youth, student and 100% affordable projects, with land donation, child care and condominium conversion bonuses. Local concession menu (14-47.120) adds deferral of development impact fees (park, fire, sanitary sewer, storm drain and traffic fees) until immediately before occupancy, plus other cost-reducing incentives proposed by the applicant or City. Parking capped at 1 space for 0 to 1 bedroom, 1.5 for 2 to 3 bedrooms and 2.5 for 4 or more bedrooms, tandem and uncovered allowed. Density bonus units do not count toward Chapter 14-46 inclusionary units.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Rental target units 55 years at affordable rent as defined in Chapter 14-46; for-sale target units 45 years with equity sharing under 65915(c)(2); occupancy as principal residence; density bonus housing agreement recorded.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "senior housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Submitted with the first project approval as a density bonus housing plan; projects with 30 or more affordable bonus units must identify a monitoring funding mechanism. Processing and monitoring fees are set by Council resolution.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The fee deferral concession is the only codified fee relief in Watsonville (no waiver program); 100% affordable projects can also use Chapter 14-46 priority processing. Watsonville's bonus mirrors state law with no local enhancement, unlike the County's enhanced bonus in Chapter 17.12.065. Watsonville was certified for its 2023-2031 Housing Element and offers Downtown Watsonville Specific Plan densities; the Specific Plan (Chapter 14-47 of Part 26 on some mirrors) was not opened. Code read on the zoneomics mirror; codepublishing and gocodebook returned 403.",
+      "source_url": "https://www.zoneomics.com/code/watsonville-CA/chapter_36",
+      "record_id": "b590f9fc7c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental and for-sale",
+        "senior housing",
+        "student housing",
+        "100% affordable developments"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 Nov 9, 2026: Chapter 14-47 text on the zoneomics mirror matches (65915 adopted by reference, Ord. 1481-25 effective October 9, 2025, parking 1, 1.5 and 2.5 spaces with tandem and uncovered allowed, 55-year rental and 45-year for-sale terms, monitoring mechanism at 30 or more bonus units, 14-47.120 concessions). The official August 26, 2025 Council report confirms the density bonus update (Housing Element Program D.1) but carries no code text; codepublishing returns 403. Detail rests on a third-party mirror; confidence lowered to needs_confirmation per source rule. prevailing_wage_trigger false is uncited; this is a regulatory requirement or fee rule with no public funds.",
+      "last_audited": "2026-11-09"
+    }
+  }
+]

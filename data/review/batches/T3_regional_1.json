@@ -1,0 +1,171 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Nine-county San Francisco Bay Area",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Bay Area Preservation Pilot (BAPP) acquisition and mini-permanent loans",
+      "administering_agency": "Enterprise Community Loan Fund and Low Income Investment Fund (originating CDFIs and fund managers) with the Metropolitan Transportation Commission and Bay Area Housing Finance Authority; MTC contact Somaya Abdelgany, 415-778-5217",
+      "funding_type": "loan",
+      "typical_award_size": "$49 million revolving fund ($10 million MTC plus $39 million CDFI capital). Note A senior up to 85% LTV at lender rate; Note B subordinate (MTC capital) fixed at no more than 2% with a minimum 3:1 leverage; Note C first-loss at 0% with no payments and possible forgiveness if affordability is maintained; maximum program exposure $2,500,000 per borrower outstanding for Notes B and C; maximum 10-year term, no prepayment penalty; origination the greater of $30,000 or 1% of total loans. Two Oakland loans closed preserving 71 homes.",
+      "per_unit_cap": "$2,500,000 maximum Notes B and C exposure per borrower",
+      "affordability_requirement": "Occupied properties of 4 or more units, at least 80% occupied at acquisition, with rents affordable at or below 80% AMI, located in Transit Priority Areas or Priority Development Areas.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling, first come first served through Enterprise or LIIF.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Nine-county Bay Area after the 2021 revisions (lower leverage requirement, up to $6 million convertible to forgivable debt, fund term extended to 20 years). Borrowers need 5 years of experience and 4 completed comparable projects (or a qualifying JV partner). Repayment at sale or refinance; pairs with county preservation funds, the City of Oakland and San Francisco small sites programs and BAHFA's separate Housing Preservation Loan Pilot ($17.8 million REAP 2). MTC public capital in Notes B and C, so prevailing wage is marked unclear.",
+      "source_url": "https://mtc.ca.gov/funding/investment-strategies-commitments/housing-solutions/bay-area-preservation-pilot-fund-bapp",
+      "record_id": "b34bca7783",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation",
+        "acquisition of unsubsidized occupied multifamily",
+        "mini-permanent"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program rule found: the MTC BAPP page, the March 2022 BAPP Loan Term Sheet and MTC Resolution 4454 BAPP program revisions (May 2021) contain no prevailing wage or labor standard. MTC capital in Notes B and C may be public funds under Labor Code 1720(b), but coverage depends on 1720(c) exemptions and project facts (BAPP finances acquisition of occupied buildings, with rehab scope varying).",
+      "audit_note": "Tier 3: prevailing wage left unclear; no BAPP term sheet or resolution language on prevailing wage; only basis is general Labor Code 1720(b), outcome depends on 1720(c) exemptions and rehab scope. Confirm with Enterprise, LIIF or MTC.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Nine-county San Francisco Bay Area",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Bay Area Transit Oriented Affordable Housing (TOAH) Fund predevelopment and acquisition loans",
+      "administering_agency": "Low Income Investment Fund (fund manager) with the Metropolitan Transportation Commission; originating CDFIs Community Vision, Corporation for Supportive Housing, Enterprise Community Loan Fund, LISC and the San Francisco Foundation",
+      "funding_type": "loan",
+      "typical_award_size": "$40 million fund active since 2011 providing predevelopment and acquisition financing for transit-oriented affordable housing and community facilities; loan terms are set by the originating CDFI and are not posted on LIIF's fund page.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable housing and neighborhood assets near transit in the San Francisco Bay Area.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling through the originating CDFIs.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Oldest of the MTC-seeded regional funds and the model for GSAF and BAPP. Confirm remaining capacity and current terms with LIIF or an originator before relying on it; terms were not available on the page opened this pass. MTC seed capital may be public funds for Labor Code 1720 purposes.",
+      "source_url": "https://www.liifund.org/strategic-priorities/lending-tools/national-funds/",
+      "record_id": "a476996354",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment",
+        "acquisition",
+        "new construction sites near transit",
+        "community facilities"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program rule found: the LIIF national funds page, the MTC TOAH page, the TOAH and BAPP brochure, and the TOAH II acquisition and predevelopment loan term sheets (April 2024, bayareatod.com) contain no prevailing wage or labor standard. MTC seed capital may be public funds under Labor Code 1720(b), but coverage depends on 1720(c) exemptions and project facts, and TOAH loans finance acquisition and predevelopment rather than construction.",
+      "audit_note": "Tier 3: prevailing wage left unclear; TOAH II term sheets and MTC and LIIF pages state no prevailing wage rule; only basis is general Labor Code 1720(b). Current TOAH II term sheets are posted at bayareatod.com.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Northern California (12 counties)",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Public Lands Unlocking Sites (PLUS) predevelopment guaranty program, LISC Bay Area",
+      "administering_agency": "LISC Bay Area with a Chan Zuckerberg Initiative-backed guaranty",
+      "funding_type": "loan",
+      "typical_award_size": "$10 million guaranty that lets LISC provide predevelopment funding for affordable housing on surplus public land without borrower collateral; goal of over 800 affordable units by 2029 across 12 Northern California counties. Loan sizes and pricing are not posted.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Multifamily housing for households earning up to 80% AMI on surplus or public land.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; contact LISC Bay Area lending (no public application posted).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Reclassified from other to loan: the guaranty is a credit enhancement that backs LISC Bay Area predevelopment funding to developers, so the deployable product is a predevelopment loan without borrower collateral (LISC lending products page; LISC 2023 Bay Area annual report). Designed for Surplus Land Act and other public-site dispositions where developers cannot pledge collateral before site control. Example cited: a 127-unit project on a 2-acre city and transit district site in Santa Cruz. Combine with BAHFA Priority Sites predevelopment loans and county or city surplus land programs. Public land involvement makes prevailing wage status project-specific.",
+      "source_url": "https://www.lisc.org/bay-area/how-we-work/lending-products/",
+      "record_id": "2f6c4e5f09",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment",
+        "new construction on public land",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Guaranty amount, 800-unit goal, 12 counties and 80% AMI come from the LISC 2023 Bay Area annual report; the lending products page confirms PLUS provides predevelopment funding with no collateral but posts no terms.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "National (California deals confirmed in Southern California)",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Mercy Community Capital (formerly Mercy Loan Fund) acquisition, construction, bridge and predevelopment loans",
+      "administering_agency": "Mercy Community Capital, the CDFI affiliate of Mercy Housing (Denver headquarters; lends in California under a California Financing Law license)",
+      "funding_type": "loan",
+      "typical_award_size": "Revolving loan fund offering acquisition, construction or rehabilitation loans, bridge loans to tax credit projects covering the equity pay-in period, secured predevelopment loans and lines of credit to national developers; applications accepted year-round and reviewed monthly. Loan sizes and rates are not posted.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Quality affordable housing for low and very low income households and special needs populations with guaranteed long-term affordability.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; monthly loan review.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "National lender affiliated with Mercy Housing California (Sacramento and Bay Area portfolios). Search results cite a participation loan with Community HousingWorks in San Diego and a $4.9 million acquisition and predevelopment loan to the Cesar Chavez Foundation in South Gate (January 2025), but no Northern California deal page was opened this pass, so regional activity needs confirmation before relying on it. Borrowers include nonprofits, LPs with nonprofit GPs, cooperatives, mission-driven for-profits and public agencies.",
+      "source_url": "https://www.mercyhousing.org/partner-with-us/mercy-community-capital/borrower-information/",
+      "record_id": "e4ba5d86b4",
+      "cycle_notes": "Applications accepted year-round; loan requests reviewed monthly. Loans in California made or arranged under a California Financing Law license.",
+      "eligible_project_detail": [
+        "acquisition",
+        "new construction",
+        "acquisition-rehab",
+        "LIHTC equity bridge",
+        "predevelopment",
+        "mobile home park cooperative gap loans"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "Borrower page states no wage rule; prevailing wage depends on public sources in the capital stack.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

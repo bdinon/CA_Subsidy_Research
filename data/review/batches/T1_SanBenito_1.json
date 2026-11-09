@@ -1,0 +1,209 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable housing in-lieu fee fund and impact fee waivers for 100% affordable developments",
+      "administering_agency": "San Benito County Resource Management Agency, Planning and Building; County Executive Office (impact fee program)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Chapter 21.03 amendments (Ordinance 1052) were heard December 13, 2022, continued, and approved January 17, 2023 with Resolution 2023-02 adopting a $30 per square foot inclusionary in-lieu fee for for-sale homes (fractional units and 6 to 10 unit projects). The amended Section 21.03.012 allows in-lieu fees to fund an affordable housing trust or to reimburse the County for impact fee waivers granted to 100% affordable developments. The Board directed staff to return in three months to revisit the 15% floor and the in-lieu fee. Fund balance and any waiver approvals are not published. Before 2023, developers voluntarily paid $4,500 per unit under development agreements.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Waiver reimbursement applies only to 100% affordable developments; trust fund uses follow Chapter 21.03.",
+      "eligible_project_types": [
+        "new construction",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Request an impact fee waiver with the entitlement application and confirm the in-lieu fund balance with Planning and Building; the County has not issued a housing fund NOFA.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. Confirmation needed: the ordinance language creating the waiver reimbursement was read in the 2022 Board packet, but the current code text, the fund balance and any adopted waiver procedure could not be opened (sanbenitocountyca.gov and amlegal 403). Treat as a negotiable cost reduction for a 100% affordable project rather than a funded program.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/6404819104d9eef39ad033a9e4860b430.pdf",
+      "record_id": "623a7bb988",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "100% affordable rental or ownership developments in unincorporated San Benito County"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Adoption date corrected from December 13, 2022 to January 17, 2023 per Board minutes; current code text, any later amendment from the three-month follow-up, and the fund balance could not be read (sanbenitocountyca.gov and amlegal return 403), so confidence stays needs_confirmation.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "needs_confirmation",
+      "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, San Benito County Assessor",
+      "administering_agency": "San Benito County Assessor, Tom J. Slavich (1131 San Felipe Road, Hollister)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Standard state welfare exemption for low-income rental housing owned by a qualifying nonprofit or by a limited partnership whose managing general partner is a nonprofit or eligible LLC, with a BOE Organizational Clearance Certificate (and a Supplemental Clearance Certificate for limited partnerships). Claims are filed with the County Assessor on BOE-267 (first filing) or BOE-267-A (annual), with supplemental affidavit BOE-267-L (nonprofit owner) or BOE-267-L1 (limited partnership); BOE-267-H applies to elderly or handicapped housing.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement; exemption prorated to qualifying units.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 or BOE-267-A with BOE-267-L or BOE-267-L1 with the Assessor by February 15, 2027 for the 2027-28 roll; late claims receive 90% or 85% relief with a $250 cap on tax, penalty and interest.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. Confirmation needed: the Assessor's page on sanbenitocountyca.gov returned 403 to automated access, so contact details and any local filing notes were not read this pass; the exemption itself is state law administered by every county assessor.",
+      "source_url": "https://www.sanbenitocountyca.gov/departments/assessor",
+      "record_id": "5c71dd5770",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC rental housing with nonprofit managing general partner",
+        "nonprofit-owned affordable rental housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date",
+      "link_status": "blocked",
+      "audit_note": "Form numbers corrected from BOE Publication 149 (the record cited BOE-267-H-A, which is not the low-income housing affidavit); the Assessor page still returns 403 to curl and WebFetch, so local details remain unconfirmed.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hollister",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Benito",
+      "confidence": "needs_confirmation",
+      "program_name": "Inclusionary Housing Program (Municipal Code Chapter 17.36, Ordinance 1252)",
+      "administering_agency": "City of Hollister Community Development Department, Planning Division and Housing Division (housing@hollister.ca.gov, (831) 636-4360 x1254)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. All for-sale and rental residential projects of 10 or more units must provide 15% of base units (before any density bonus) as on-site inclusionary units: at least 6% very low income, at least 5% very low or low income, and at least 4% very low, low or moderate income (Section 17.36.050). Fractions of 0.25 or more round up. No in-lieu fee option exists; the only alternatives (Section 17.36.060) are affordable rental units inside a for-sale project or acquisition and rehabilitation of existing market-rate units (rehab value at least 25% of pre-rehab value, physical needs assessment, on a residentially zoned site). Council approved the ordinance June 18, 2024 (second reading August 2024 per Housing Element Policy Action H4.1); goal of 150 inclusionary units during 2023-2031.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Inclusionary units sold or rented only to very low (50% AMI), low (80% AMI) or moderate (120% AMI) households per San Benito County HCD limits (2025 AMI $140,200 for a family of four); units must average at least 85% of the square footage of market units with the same bedroom count, match bedroom mix, finishes and exterior design, and be dispersed on site; buyers and renters screened through an open public process by the City or a third-party administrator; for-sale units carry resale controls and rental units carry recorded affordability covenants.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; inclusionary units must be permitted and occupied in proportion to market-rate units in each phase (Section 17.36.050 F). Exempt: ADUs, projects under 10 units, vesting tentative maps and development agreements in effect at the June 2024 effective date, and complete applications filed before that date. Council may set administration and monitoring fees by resolution (Section 17.36.080).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Hollister's program is stricter than the San Benito County Chapter 21.03 ordinance (15% on site or 20% off site, with a $30 per square foot in-lieu fee) because it allows no fee payment and requires on-site units for both rental and for-sale projects; as a result the City has no inclusionary in-lieu fund to redeploy as gap financing. Inclusionary units may be used to qualify for a density bonus under Chapter 17.34 (Section 17.36.050 C), so a 15% inclusionary project can stack the state bonus and concessions. The City's Below Market Rate Housing Program (affordable_housing.php) administers waitlists for inclusionary units; all waitlists were closed as of this pass. Hollister's prior Housing Developer Resources page (opened) states the City previously had no inclusionary ordinance; the code text was read on the zoneomics mirror because library.municode.com blocks automated access. Pairs with the Housing Authority of the County of Santa Cruz PBVs and the CMFA conduit bonds recorded at the county level (Baler Place, 340 Bridgevale Road, is a Hollister project).",
+      "source_url": "https://www.zoneomics.com/code/hollister-CA/chapter_16",
+      "record_id": "dfadf93775",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate for-sale subdivisions and condominium projects of 10 or more units (compliance)",
+        "market-rate rental projects of 10 or more units (compliance)",
+        "acquisition-rehab of existing units as alternative compliance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Nov 9, 2026 spot check: Chapter 17.36 text on the zoneomics mirror matches the record (10 or more units, 15% on site split 6/5/4, 0.25 rounding, no in-lieu fee, 85% size rule). The City zoning ordinance updates page confirms Ordinance 1252 adopted August 6, 2024 adding Chapter 17.36, but the ordinance PDF on files.hollister.ca.gov returns 403, so code text was read only on a third-party mirror; confidence lowered to needs_confirmation per source rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hollister",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Hollister Housing Trust Fund ($300,000 initial deposit, Housing Element Policy Action H5.12 and 2026 stipulated judgment with HCD and the Attorney General)",
+      "administering_agency": "City of Hollister Planning and Housing Divisions (program procedures subject to HCD approval)",
+      "funding_type": "other",
+      "typical_award_size": "Initial capitalization of $300,000 from the City general fund, required by the March 26, 2026 stipulated judgment (People of the State of California and HCD v. City of Hollister) and carried into the adopted 2023-2031 Housing Element as Policy Action H5.12. The fund must support housing for extremely low, very low and low income households, including migrant housing, emergency shelters, supportive housing, single-room occupancy and transitional housing. Award form (grant or loan), per-project limits and the application procedure are to be set in a program document approved by HCD. Any money remaining five years after deposit transfers to the State Building Homes and Jobs Trust Fund unless HCD agrees otherwise.",
+      "per_unit_cap": "Not yet established.",
+      "affordability_requirement": "Extremely low, very low and low income households (at or below 80% AMI); affordability terms to be set in the HCD-approved procedures.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "interim housing",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026. The stipulated judgment (paragraph 34) requires the City to submit the draft trust fund program to HCD and deposit $300,000 within 30 days after HCD finds the housing element in substantial compliance; HCD certification status could not be confirmed this pass. Contact housing@hollister.ca.gov for status.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "This will be the only city-controlled capital source for affordable development in Hollister; there is no inclusionary in-lieu fund (Chapter 17.36 requires on-site units) and the former redevelopment agency's housing assets are limited to a Housing Division loan and resale monitoring portfolio (Successor Agency page opened). At $300,000 it is predevelopment-scale money; realistic use is a predevelopment loan or local match that strengthens a TCAC, HCD or AHSC application, layered under county sources (San Benito County PLHA, HHAP, CMFA conduit bonds) and Housing Authority of the County of Santa Cruz PBVs. The five-year sunset creates pressure to commit funds quickly, which favors shovel-ready sponsors. H5.12 also commits the City to annual developer meetings, one-on-one technical assistance and support letters. Marked needs_confirmation because the fund did not exist as of this pass; the judgment text (oag.ca.gov Exhibit B) and the adopted Housing Element PDF were both opened.",
+      "source_url": "https://files.hollister.ca.gov/CLEAN%20FINAL%20DRAFT%20City%20of%20Hollister%206th%20Cycle%20Housing%20Element%20Update_04.24.2026%20(1).pdf?t=202607071654130",
+      "record_id": "a28971818e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "emergency shelter and transitional housing",
+        "single-room occupancy",
+        "farmworker and migrant housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "Neither the stipulated judgment nor Housing Element Policy Action H5.12 states a prevailing wage rule; trust fund procedures are not yet written.",
+      "audit_note": "funding_type kept as other: the fund is not yet capitalized and the judgment leaves award form (grant or loan) to HCD-approved procedures; reclassify when procedures are published.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hollister",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Benito",
+      "confidence": "needs_confirmation",
+      "program_name": "Permit fee waiver program for affordable and special needs housing and reduced multifamily impact fees (Housing Element Policy Action H3.3)",
+      "administering_agency": "City of Hollister Planning, Building and Finance Divisions and Engineering Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Existing: lower sewer and water connection fees and traffic impact fees for multifamily development (per-unit basis; the City is considering a square-foot basis). Committed: a reduction or waiver of permit processing fees for affordable and other special needs housing projects, to be established by August 2026 following the user fee study now underway; the Housing Element also calls for waiving permit fees for ADUs under certain sizes or deed restricted as affordable to lower income households, and the sites strategy table contemplates reducing development fees for key sites. Amounts not yet set.",
+      "per_unit_cap": "Not yet established.",
+      "affordability_requirement": "Affordable and special needs housing projects as defined in the program procedures to be adopted; ADU waivers tied to size or lower income deed restriction.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "senior housing",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No application deadline. Policy Action H3.3 set August 2026 to establish the fee waiver program; adoption could not be confirmed. Confirm with the Planning Division before underwriting any waiver.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Hollister has no codified fee waiver today, unlike San Benito County Section 21.03.012, which can reimburse impact fee waivers for 100% affordable projects from county in-lieu fees. Because Hollister collects no inclusionary in-lieu fees, any waiver will be a general fund cost, which is why the City is tying it to the user fee study. Density bonus concessions under Chapter 17.34 remain the only guaranteed path to fee or standard relief until the program is adopted. Recorded as negative information per schema rule 4 and so the August 2026 commitment can be tracked.",
+      "source_url": "https://files.hollister.ca.gov/CLEAN%20FINAL%20DRAFT%20City%20of%20Hollister%206th%20Cycle%20Housing%20Element%20Update_04.24.2026%20(1).pdf?t=202607071654130",
+      "record_id": "9f1cda8ebd",
+      "cycle_notes": "Lower multifamily sewer, water and traffic impact fees apply now through the fee schedule; the permit fee waiver program for affordable and special needs housing was due by August 2026 and its adoption is unconfirmed.",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "senior and special needs housing",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Housing Element text for H3.3 and the ADU fee waiver action confirmed; status after the August 2026 target and the 2025 APR entry were not confirmed from an official source, so confidence stays needs_confirmation. application_cycle changed from closed/inactive because the reduced multifamily impact fees are in effect.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

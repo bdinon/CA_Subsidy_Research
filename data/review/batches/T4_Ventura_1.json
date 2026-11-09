@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County five-year plan for the Urban County and Thousand Oaks",
+      "administering_agency": "Ventura County Executive Office, Community Development",
+      "funding_type": "loan",
+      "typical_award_size": "HCD formula allocations to the County: $603,486 (2024), $646,422 (2025), estimated $3,771,788 for 2024-2028. Plan activities: rental capital development at or below 60% AMI (loans or operating subsidies), affordable ownership workforce housing grants, grants to Housing Trust Fund Ventura County (matched by the state LHTF program), homeless assistance (added May 3, 2022) and down payment assistance (added May 14, 2024). Awards: Rancho Sierra Senior Apartments (Camarillo area, 50 units) $751,263 (2021-22 and 2022-23); Camino de Salud (Ojai, 49 units) $955,873 (2023-24); Mesa Ojai construction gap and operations (2024-25); 2025 amendment of the 2023 allocation: Topa Vista Villas (Santa Paula, 112 units at 60% AMI) $750,000, Hillcrest Homes (Thousand Oaks, 78 for-sale units) $241,703, HomeNow down payment assistance $300,000 (approved April 29, 2025).",
+      "per_unit_cap": "Not published; rental awards of $750,000 to $956,000 per project.",
+      "affordability_requirement": "Rental units funded with PLHA restricted to 60% AMI and below (55 years); ownership workforce housing to 80% AMI (120% to 150% in recent amendments); 80% of HTFVC grant funds for 60% AMI households.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PLHA is awarded through the same November to May cycle as HUD funds and through plan amendments when projects are ready; the County administers allocations for the Urban County cities and Thousand Oaks. The 2026 allocation year will be programmed in the FY 2027-28 cycle opening November 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. PLHA has been spread across rental projects, down payment assistance and HTFVC capitalization; the rental share is a $750,000 to $1 million soft loan at 60% AMI, typically layered with County HOME and General Fund money on the same project (Topa Vista Villas took PLHA, General Fund NOFA and city funds). Source is the April 29, 2025 PLHA plan amendment on vcportal.venturacounty.gov; 2024-2028 figures from HCD's PLHA NOFA tables.",
+      "source_url": "https://vcportal.venturacounty.gov/CEO/community-dev/docs/pub-hearing/20250429/County_of_Ventura_PLHA_Plan_Amendment_website.pdf",
+      "record_id": "ec4f527ee0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental new construction",
+        "permanent supportive housing",
+        "affordable ownership workforce housing",
+        "down payment assistance",
+        "housing trust fund capitalization"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Homekey and Homekey+ projects sponsored by the County (Request for Projects, Lewis Road Camarillo)",
+      "administering_agency": "Ventura County Executive Office, Community Development, with Behavioral Health and development partners",
+      "funding_type": "grant",
+      "typical_award_size": "County Homekey+ Request for Project Proposals issued December 17, 2024 (responses due January 14, 2025, then rolling) sought partners for which the County would serve as lead applicant and provide services and capital or operating match. Result: Lewis Road, 1732 S. Lewis Road, Camarillo (County-owned land next to the Rancho Sierra wellness campus; DignityMoves developer, Many Mansions operator, LifeArk modular units): 88 PSH units, about $28 million Homekey+ award (announced August 2025; roughly $23 million of a $28 million construction cost from the state, the remaining $5 million from the County, City of Camarillo and Gold Coast Health Plan, plus $10 million of state and County operating funds), groundbreaking May 13, 2026, occupancy expected end of 2027. Earlier Homekey: Casa Aliento (Oxnard), Mesa Ojai and Casa Pacifica (unincorporated) totaling 109 units completed 2024-2025; La Quinta (Ventura) $5,550,000 County match.",
+      "per_unit_cap": "Homekey+ per-unit limits set by HCD.",
+      "affordability_requirement": "Homekey+: households with behavioral health conditions experiencing or at risk of homelessness, veterans and youth set-asides, 30% AMI, 55-year regulatory agreement, Coordinated Entry referrals.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Homekey+ remains open at HCD over the counter; the County's Request for Projects stays effective until HCD funds or County match capacity is exhausted. Submit a proposal to Community Development with site control, co-applicants and the match requested.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. The County contributes land, services (Behavioral Health) and a share of the capital and operating gap, with the state award carrying most of the cost; co-applicants need a Medi-Cal plan partner (Gold Coast Health Plan) and city support. Source is the County's Homekey+ Request for Projects PDF; Lewis Road details from KCLU (May 14, 2026) and the state Homekey+ award announcement.",
+      "source_url": "https://vcportal.ventura.org/CEO/community-dev/docs/Request%20for%20Projects%20-%20Homekey%20-%20FINAL.pdf",
+      "record_id": "1688e32923",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing new construction and modular",
+        "motel and building conversions",
+        "transitional age youth housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

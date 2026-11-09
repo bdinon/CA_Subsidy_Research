@@ -1,0 +1,1128 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County formula allocation and PLHA development loans",
+      "administering_agency": "Fresno County Department of Public Works and Planning, Community Development Division",
+      "funding_type": "loan",
+      "typical_award_size": "HCD formula allocations: $1,643,348 (2019), $2,554,272 (2020), $2,810,897 (2021), estimated five-year 2019-2023 total $9,860,088; 2024-2028 plan estimated $7,209,494 with $1,153,519 (2024) and $1,235,588 (2025). Cycle One Year Three funds of $2,670,353 were committed by resolution on February 10, 2026 to Cherry Crossing II in Sanger (64 units, Self-Help Enterprises) after the Sanger Modular project missed a November 1, 2025 commitment deadline; Sendero Commons carries a replacement PLHA reservation of $2,364,219. The County retains 5% ($140,544 of Year Three) for administration.",
+      "per_unit_cap": "Not published; whole-year allocations of about $2.4 million to $2.7 million go to one project.",
+      "affordability_requirement": "55-year affordability; the County's PLHA plan targets households to 80% AMI with half the PLHA-assisted units at or below 60% AMI and half at or below 80% AMI (new construction or rehabilitation of multifamily rental).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The County NOFO page lists PLHA funds as 100% reserved with new funds pending; PLHA is offered through the combined Affordable Housing Development NOFO, whose 2026 round was delayed past CTCAC 9% Round 1 with a Round 2 window anticipated (no date posted). Cycle One Year Three ($2,670,353) was committed to Cherry Crossing II by resolution on February 10, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. PLHA is the County's largest non-federal source and is conditional on HCD review (allow at least 45 days after County approval). The County has concentrated each year's allocation on a single tax credit project in a JPA city (Sanger twice); it is paired with a HOME or HOME-CHDO loan at 0% or 3% simple and 55-year covenants. Source is the February 10, 2026 Board resolution (file 25-1504); allocation figures from the County's PLHA standard agreement (fresno-county-plha-agreement.pdf) and HCD's 2024-2028 PLHA NOFA tables.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=77181&GUID=D6D23411-4846-4C95-8274-C95360065D4F",
+      "record_id": "d427ef2bcc",
+      "cycle_notes": "Offered through the County combined HOME, HOME-CHDO, HOME-ARP and PLHA NOFO; timing driven by HCD commitment deadlines for each PLHA allocation year.",
+      "eligible_project_detail": [
+        "multifamily rental new construction",
+        "multifamily rehabilitation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Round 6, County and Fresno Madera CoC CA-514",
+      "administering_agency": "Fresno County Administrative Office, Office of Housing and Homelessness (administrative entity for the County and the Fresno Madera Continuum of Care)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 (agreement 25-HHAP-10013 approved June 30, 2026, term to June 30, 2030): County $4,301,909.86 plus CoC $5,246,520.28, combined $9,548,430 administered by the County; 50% ($4,774,215) disbursed up front, balance after 75% obligation and 50% expenditure by June 30, 2027. Administration capped at 7% ($668,390); at least 10% ($954,843) for youth 18 to 24. The City of Fresno receives its own $10,491,196.56 and Madera County $610,483.23 under the shared Regionally Coordinated Homelessness Action Plan (August 5, 2025).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households per HHAP; uses planned are emergency shelter, rental assistance, rural outreach, prevention and diversion, data systems and youth services.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No County HHAP capital NOFA. Subrecipient agreements return to the Board as needed; HHAP-7 planning will run through the Office of Housing and Homelessness and the CoC in 2027.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. The County has not used HHAP for capital; it funds the shelter and services system and provides the 100% match for ESG. For a developer, HHAP matters as a possible operating or rental subsidy source for PSH units referred through Coordinated Entry, negotiated with OHH. Source is the June 30, 2026 Board item (file 26-0639); allocation figures match HCD's HHAP-6 allocation table.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=77828&GUID=F217E85A-6DC8-47AE-BDD9-0A692B4AE258",
+      "record_id": "4b23568239",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "interim housing operations",
+        "rental assistance and rapid rehousing",
+        "street outreach",
+        "prevention",
+        "permanent housing operating support"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: Board item 26-0639 and agreement A-26-295 confirm $9,548,430.14 through June 30, 2030, 50% ($4,774,215) up front, 75% obligation and 50% expenditure by June 30, 2027, 7% admin ($668,390), 10% youth ($954,843) and the August 5, 2025 regional plan. The County and CoC split and the City of Fresno and Madera amounts were not in these documents.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Office of Housing and Homelessness: Transitional Rent, Housing Flex Pool and Continuum of Care administration",
+      "administering_agency": "Fresno County Administrative Office, Office of Housing and Homelessness (Dylan McCully, Division Manager)",
+      "funding_type": "rental assistance",
+      "typical_award_size": "OHH administers more than $12 million a year of homelessness grants (HHAP, ESG, CalWORKs housing, state Transitional Housing and Housing Navigation programs) and is the Collaborative Applicant and Management Entity for the Fresno Madera CoC (HUD CoC program and Coordinated Entry) and the county lead for the CalAIM Transitional Rent benefit; Phase 2 (approved November 3, 2026) moves Behavioral Health housing programs and ComDev housing programs under OHH with a budget and salary resolution to follow.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households referred through Coordinated Entry; Transitional Rent covers up to six months of rent for eligible Medi-Cal members.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. OHH is to return to the Board within 12 months (by November 2027) with an update; the Housing Flex Pool operator RFP is planned under the BHSA Integrated Plan. Developers seeking referrals or operating subsidy for PSH units should contact OHH.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. OHH is now the single door for County operating money (HHAP, Transitional Rent, BHSA subsidies routed through the flex pool) and for CoC letters of support, which the County's own NOFO requires for projects with homeless set-asides or HOME-ARP requests. Capital lending stays with ComDev for now. Source is the November 3, 2026 Board item (file 26-1099) with the Phase 2 organization chart.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=78288&GUID=4C74CAC9-E2D6-490E-8C5A-CC99327C7BE9",
+      "record_id": "d1873ee910",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "operating and rental subsidy for PSH units",
+        "master leasing and flex pool units",
+        "coordinated entry referrals for set-aside units"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check: Board approved Phase 2 on November 3, 2026 (file 26-1099); OHH manages over $12 million in grants, is CoC Collaborative Applicant, Management Entity and Transitional Rent lead. The November 3 presentation says the Flex Pool RFP is expected November/December 2026 and Coordinated Entry procurement in spring 2027. Prevailing wage false is uncited; it is operating and rental assistance with no construction.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Public Facilities Impact Fees suspended countywide (unincorporated Fresno County)",
+      "administering_agency": "Fresno County Department of Public Works and Planning, Development Services and Capital Projects Division",
+      "funding_type": "fee waiver",
+      "typical_award_size": "The County's Public Facilities Impact Fee ordinance has been suspended since 2017: the Board continued the suspension at hearings on October 31, 2017 and October 9, 2018 'until further notice', and the 2025 Housing Element Annual Progress Report (accepted March 17, 2026) states there has been no change. Unincorporated projects therefore pay no County public facilities impact fee; school district, water and sewer district and traffic mitigation fees still apply.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "None; the suspension applies to all development regardless of affordability.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "In effect until the Board acts to reinstate the fee. Confirm current status with Development Services before underwriting, and note that fees in the eight JPA cities are set by each city.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. Fresno County has no affordable housing fee waiver program because it has no public facilities impact fee to waive; this is a cost advantage for unincorporated sites and County islands relative to the City of Fresno (which runs its own affordable housing fee deferral and infill waiver). The County also has no inclusionary ordinance, in-lieu fee, housing trust fund or Measure C housing component (Measure C is a transportation tax; its transit-oriented development program can fund infrastructure near affordable projects). Source is the 2025 Housing Element APR Board file (26-0110), Attachment B program implementation details.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=77296&GUID=3F6232C5-33D6-4BB4-8A59-D0F504DFEFAE",
+      "record_id": "ed087fe355",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "all residential development in unincorporated Fresno County"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: history in the record is inaccurate but the screening outcome holds. The October 9, 2018 Board item (Legistar 18-1181) says the 2008 Public Facilities Impact Fees were not collected from November 10, 2010 under successive suspensions, and the ordinance adopted that day discontinued the 2008 fees while keeping authority to adopt a new program. A Legistar title search shows no new County PFIF adopted through 2026, only project-specific transportation mitigation fees. The 2025 APR attachment (Attachment A-C) returns 404 on legistar1.com, so the APR statement was not re-read.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "City of Fresno Local Housing Trust Fund (LHTF), Resolution 2021-201 and Revised Program Guidelines 02",
+      "administering_agency": "City of Fresno Planning and Development Department, Housing Finance Division",
+      "funding_type": "loan",
+      "typical_award_size": "Dedicated $1,500,000 per year from the City Real Estate Transfer Tax, plus General Fund contributions, Prohousing Incentive Pilot Round 1 ($2,064,891) and State LHTF matching grants (about $8.5 million received to date, including $1,797,373 appropriated January 2026). Recent loans: $5,000,000 Cesar Chavez Apartments (54 units, 2024 commitment) and $3,727,000 The Park at South Stadium (15 LHTF units of 174, approved June 18, 2026; includes $156,800 Housing Successor funds). City applied for PIP Round 4 (up to $2,000,000) to recapitalize the fund.",
+      "per_unit_cap": "None published; South Stadium works out to about $248,000 per LHTF-restricted unit.",
+      "affordability_requirement": "Local funds (Guidelines 02) serve households at or below 80% AMI (State match dollars follow State LHTF rules, with at least 30% to extremely low income); 55-year affordability covenants on rental loans. Eviction Protection Program uses are exempt from income verification since July 1, 2025.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The LHTF Multi-Family New Construction NOFA (PlanetBids No. 12601837) released April 24, 2026 and closed May 25, 2026 with 11 applications; no new LHTF NOFA is posted on the City housing page. Next NOFA depends on the FY 2027 transfer-tax allocation and any PIP Round 4 award; verify with Housing@fresno.gov.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "One of the few city-controlled flexible local sources in the Central Valley. Loans are 3% simple interest, 55-year, residual receipts, and accept third or fourth lien position behind construction/permanent debt and other public loans, so they fit as gap under 4% LIHTC and tax-exempt bonds. Guidelines 02 were rewritten in 2025 (Resolution 2025-270) and a technical amendment in April 2026 restored multifamily new construction as eligible after it was inadvertently dropped; check the current guidelines before applying. Competes for the same transfer-tax dollars as the Eviction Protection Program. County has no equivalent trust fund (see Fresno County PLHA and HOME records).",
+      "source_url": "https://agendas.fresno.gov/en/legislation/id-26-146-20843",
+      "record_id": "1f8b2d6405",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), City of Fresno 2024-2028 Five-Year Plan and PLHA development loans",
+      "administering_agency": "City of Fresno Planning and Development Department, Housing Finance Division",
+      "funding_type": "loan",
+      "typical_award_size": "Estimated $14,949,413 over 2024-2028 (first allocation $2,391,906, second $2,562,083). 45% of each year to multifamily rental development, 50% to owner-occupied rehab and down payment assistance, 5% admin. Recent award: $1,600,000 PLHA to Helm Lofts (9 restricted units of 98, conditional award February 9, 2026).",
+      "per_unit_cap": "None published; Helm Lofts was about $178,000 per restricted unit.",
+      "affordability_requirement": "Rental activity up to 120% AMI under State rules, with a portion of units reserved at or below 60% AMI; 55-year regulatory agreement; loans are low-interest deferred (Helm Lofts: 3% simple, 55-year term).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. Last standalone PLHA NOFA ran August 1 to August 29, 2025. The draft 2024-2028 PLHA plan (public comment September 21 to October 10, 2026; hearing November 5, 2026; Council adoption pending) states PLHA rental funds are offered through the City's Affordable Housing Development and Substantial Rehabilitation NOFAs, the latest of which closed August 31, 2026. Expect the next round with the mid-2027 AHD NOFA; verify with Housing@fresno.gov.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Separate from the Fresno County PLHA (county record covers the unincorporated area and participating cities, not the City of Fresno). The City plan devotes only 45% to rentals, so expect roughly $1.1M per year available for multifamily. PLHA is used as soft gap alongside City HOME and LHTF and with LIHTC; it was also paired with the market-rate-oriented Revolving Loan Fund on Helm Lofts. State PLHA funds count as public funds for prevailing wage purposes.",
+      "source_url": "https://www.fresno.gov/wp-content/uploads/2026/10/Draft-2024-to-2028-PLHA-5-Year-Plan-Document-10w1852.pdf",
+      "record_id": "bbcba8fedc",
+      "cycle_notes": "Delivered through the City's annual Affordable Housing Development and Substantial Rehabilitation NOFA per the draft 2024-2028 plan.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Housing Successor to the Redevelopment Agency of the City of Fresno, Low and Moderate Income Housing Asset Fund (LMIHAF) program income and FHS-owned sites",
+      "administering_agency": "City of Fresno in its capacity as Housing Successor (FHS) and Fresno Revitalization Corporation",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2026-27 budget $4,188,073 (carryover $4,138,073 plus about $50,000 program income); unencumbered and available for development $2,523,599, all restricted to units at or below 30% AMI because FHS exceeded the 20% cap for 60-80% AMI. LMIHAF assets under management $28.9 million; FY 2024-25 ending balance $6,856,360. Historic per-unit contributions range from about $25,000 to $331,000; recent uses include Heritage Estates ($1.2M), B Street ($836,200 encumbered) and 33 E Atchison ($275,000).",
+      "per_unit_cap": null,
+      "affordability_requirement": "HSC 34176.1: at least 30% of funds for extremely low income (30% AMI) rentals, no more than 20% for 60-80% AMI, remainder at or below 60% AMI; 55-year covenants for rentals.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standalone NOFA as of November 8, 2026. Funds and FHS-owned parcels are committed through City NOFAs, RFPs and disposition agreements (FY 2026-27 program income budget approved June 11, 2026; $2,523,599 unencumbered, restricted to 30% AMI rentals). Contact the Housing Successor.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small cash pool but useful for deep (30% AMI) targeting and as a match: PLHA allows LMIHAF dollars to be matched into a housing trust account. FHS land is being paired with LHTF, RLF and PRO Housing applications in Downtown and Chinatown (South Stadium used $156,800 FHS plus FHS parcels at 829 and 835 Fulton). Excess surplus test is met (unencumbered $4.08M versus $6.24M threshold at FY 2024-25), so there is no pressure to transfer funds to HCD.",
+      "source_url": "https://agendas.fresno.gov/en/legislation/id-26-752-21456",
+      "record_id": "4b806acc58",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "HUD Section 108 Affordable Housing Development Loan Pool (Substantial Amendment 2025-02)",
+      "administering_agency": "City of Fresno Planning and Development Department, Community Development Division",
+      "funding_type": "loan",
+      "typical_award_size": "$15,000,000 pool (City borrowing capacity $15,494,680) for land acquisition and acquisition of manufactured housing units; no minimum or maximum loan; loans generally forgivable at end of affordability term. City repays HUD over 20 years from future CDBG (estimated 3.94% rate).",
+      "per_unit_cap": "None; sized to demonstrated financing gap.",
+      "affordability_requirement": "Nonprofit developers only. At least 51% of units on land acquired with the pool for low and moderate income households (80% AMI), or at least 20% for non-elderly multifamily rental where CDBG share is proportional; 100% LMI for manufactured units; up to 55-year covenants. Borrower must secure outside senior financing and commit up to 10% equity.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Council hearing to adopt Substantial Amendment 2025-02 and authorize the HUD application scheduled November 12, 2026 (ID 26-1506). If approved, a NOFA will be posted on PlanetBids; timing unknown, verify with the Community Development Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Land acquisition gap, so it fits early in the stack ahead of LIHTC applications, and can help secure site control for TCAC/CDLAC rounds. CDBG/Section 108 rules apply (Davis-Bacon at 8 or more units for assisted construction, NEPA, URA relocation). Competes with future City CDBG public infrastructure spending because CDBG is pledged for repayment. Separate from the City's earlier $20M Section 108 loan for the Senior Activity Center.",
+      "source_url": "https://www.fresno.gov/wp-content/uploads/2026/08/Section-108-Loan-Guarantee-Application-Affordable-Housing-Development-Loan-Pool-10w1789.pdf",
+      "record_id": "6f2b1a4e75",
+      "cycle_notes": "City NOFA after HUD approval",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-11-12",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "City-owned and surplus land contributions with conditional City funding commitments (Surplus Land Act RFPs, Land Bank)",
+      "administering_agency": "City of Fresno Planning and Development Department",
+      "funding_type": "land",
+      "typical_award_size": "Land at nominal cost plus conditional funding. Examples: Vantage Blackstone senior modular (100 units) gets a 1.21-acre parcel on a 55-year ground lease at $1 per year plus $4,300,000 loan/grant (approved October 22, 2026); Parkview Apartments (98 units, Cesar Chavez Foundation) gets three Parkway Drive parcels plus $10,500,000 conditional commitment (December 2025); Ventura Family Apartments land contribution.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per SLA and Gov. Code 37364 exempt-surplus terms: at least 40% of units at or below 80% AMI with half at or below 50% AMI, regulatory agreement of at least 30 years; recent deals carry 55-year covenants and 30% to 80% AMI targeting.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Site by site; Vantage Blackstone commitment expires September 30, 2027 if financing is not secured. Watch City SLA notices and RFPs on PlanetBids.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "City land plus a conditional funding resolution is the standard Fresno package for TCAC 4% and HCD MFSN applications (commitments are reissued each round, as with Parkview since 2024). Funding sources behind the commitments vary (CDBG-acquired land on Blackstone carries CDBG national objective requirements). Below-market ground leases count as public subsidy for prevailing wage. The City also adopted a Land Bank program to acquire sites for future reuse.",
+      "source_url": "https://agendas.fresno.gov/en/legislation/id-26-1294-21998",
+      "record_id": "be243da879",
+      "cycle_notes": "site-specific RFPs and SLA notices of availability",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2027-09-30",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Clovis",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Clovis Affordable Housing Trust Fund (Martinez v. City of Clovis Judgment Action Item 2)",
+      "administering_agency": "City of Clovis Affordable Housing Program (Planning and Development Services)",
+      "funding_type": "loan",
+      "typical_award_size": "Initial $1,000,000 (FY 2023-24) awarded to a senior housing project in planning; City sets aside $100,000 per year for seven years. City also holds its State PLHA formula allocation and releases it through the same webpage when available.",
+      "per_unit_cap": null,
+      "affordability_requirement": "At least 30% of HTF funds requested must assist extremely low income households (below 30% AMI); the rest at or below 80% AMI; deed-restricted units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open RFP as of 2026-11-08 (last RFP August 2024). Check the City affordable housing financial incentives page or email housing@clovisca.gov.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small fund created under the March 2024 court judgment (Martinez v. City of Clovis); about $100K per year is only useful as a local match or to show local support in TCAC scoring. Future MIZO in-lieu fees ($2.80 per square foot) are expected to feed affordable housing gap funding. Clovis is a CDBG entitlement city, but its CDBG goes mainly to home repair, public services and streets. County HOME/PLHA NOFO records cover the urban county; confirm Clovis eligibility with the County before relying on it.",
+      "source_url": "https://www.clovisca.gov/services/affordable_housing/affordable_housing_development/financial_incentives.php",
+      "record_id": "7eddc32410",
+      "cycle_notes": "RFP when funds accumulate",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Madera County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Rounds 5 to 7, Madera County allocation within the Fresno Madera CoC CA-514",
+      "administering_agency": "Madera County (Behavioral Health Services and Social Services, as the County applicant) with the Fresno Madera Continuum of Care",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 County of Madera allocation $610,483.23 (awards announced March 2, 2026 as part of the nearly $20.7 million Fresno-Madera regional award with Fresno County $4,301,909.86, City of Fresno $10,491,196.56 and CoC $5,246,520.28); HHAP-7 preliminary allocation $787,530.13. Rounds 1 to 5 brought $6.8 million to the Madera area of which $2.4 million went directly to Madera County ($2.3 million obligated, $1.4 million spent per the state accountability dashboard).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; shared Regionally Coordinated Homelessness Action Plan with Fresno County, the City of Fresno and the CoC.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No local NOFA; the County programs its share directly and the CoC programs the regional share. HHAP-7 allocations are preliminary for FY 2026-27.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. At about $600,000 to $800,000 a year HHAP covers Madera's shelter and outreach system and is not a capital source; the regional CoC allocation is administered by Fresno County's Office of Housing and Homelessness. Source is HCD's HHAP-6 allocation table; round 1 to 5 totals from the state accountability dashboard.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-6-allocations.pdf",
+      "record_id": "d961172683",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "shelter and interim housing operations",
+        "rental assistance and rapid rehousing",
+        "outreach and prevention",
+        "permanent housing operating support"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: HCD HHAP-6 table confirms Madera $610,483.23, Fresno County $4,301,909.86, City of Fresno $10,491,196.56 and CoC $5,246,520.28; HCD preliminary HHAP-7 table confirms Madera $787,530.13. prevailing_wage_trigger false has no prevailing_wage_basis citation.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Chowchilla",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "Housing Density Bonus and Other Incentives (Chowchilla Municipal Code Chapter 18.58) and Housing Element Program 3.e impact fee deferral",
+      "administering_agency": "City of Chowchilla Community and Economic Development Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Chapter 18.58 implements State Density Bonus Law (Gov. Code 65915) with no local enhancements. Program 3.e (adoption targeted for Q1/Q2 2025) would let developers pay a small portion of impact fees at permit and defer the rest for up to 30 years as a recorded note. The note would be due on sale, refinance or loss of affordability.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus thresholds. The deferred fee note becomes due if multifamily rents stop being affordable.",
+      "eligible_project_types": [
+        "new construction",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Available at entitlement, no deadline. Program 3.k will amend Chapter 18.58 to match current state law. Confirm whether the Program 3.e fee deferral resolution was adopted.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Chowchilla offers nothing beyond state density bonus law and a proposed fee deferral. The adopted 2024-2032 Housing Element says the City has no inclusionary, affordable housing or other local housing ordinances, and there is no local trust fund, fee waiver fund or NOFA. If adopted, the deferral works like a soft second loan that can sit under tax credit financing. A deferral may count as public funds for prevailing wage purposes. ADU builders can use free pre-approved Cottage Home plans (funded by SB 2). cityofchowchilla.org opened directly; the code was read on the zoneomics mirror.",
+      "source_url": "https://www.zoneomics.com/code/chowchilla-CA/chapter_26",
+      "record_id": "0770df743e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Marin County Affordable Housing Fund (Housing Trust Fund) and the annual federal and state housing NOFA",
+      "administering_agency": "Marin County Community Development Agency, Housing and Federal Grants Division, 3501 Civic Center Drive, San Rafael; affordablehousing@marincounty.gov",
+      "funding_type": "loan",
+      "typical_award_size": "The Marin County Affordable Housing Fund (Housing Trust Fund, created 1988) is capitalized by inclusionary in-lieu fees, the single-family Affordable Housing Impact Fee, commercial linkage fees and County General Fund contributions (Guidelines 2023-2027, adopted Dec 12, 2023). It funds seed and catalyst costs, land acquisition, predevelopment, construction and gap financing; awards are generally $50,000 per unit, up to $100,000 per unit depending on funds, project type, location, bedrooms, affordability depth and restriction term, with higher amounts considered in high-resource areas. About 25% of funds are prioritized for preservation and rehab and 75% for new construction or conversion. Funds are generally loans (3 months to 55 years); the Board may award grants for smaller requests. The Fund also supplies the 1:1 local match for PLHA through the annual NOFA. The 2026-27 NOFA estimated about $3,100,000 total ($1,500,000 CDBG, $700,000 HOME, $900,000 PLHA inclusive of Trust Fund match). On June 23, 2026 the Board approved FY 2026-27 allocations: $676,641 HOME, $1,611,279 CDBG, and $476,762 estimated PLHA matched 1:1 by $476,762 from the Trust Fund (Oak Hill, Eden Housing, $553,524 combined; Bayfront Terrace, EAH, $400,000 combined); staff reported a Housing Fund balance of $14,032,062 after the match. Standalone Board actions recorded in earlier agendas include a $5,239,098 Trust Fund loan to Habitat for Humanity Greater San Francisco (April 15, 2025) and a $3,000,000 Golden Gate Village predevelopment loan restructured April 14, 2026.",
+      "per_unit_cap": "Generally $50,000 per unit; up to $100,000 per unit in some circumstances (Affordable Housing Fund Guidelines 2023-2027).",
+      "affordability_requirement": "Low, very low and extremely low income households; affordability restrictions in perpetuity unless the Board approves a shorter term required by a public financing source. Priorities: AFFH, leverage, high-resource areas, unincorporated Marin, RHNA, homeownership. Projects in cities and towns must waive all planning and building fees and, if the jurisdiction has a housing trust, provide a match from it.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open NOFA round as of November 8, 2026; the 2027-28 NOFA is expected to open early in calendar 2027 per the County funding page. Affordable Housing Fund requests are accepted year-round.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "marincounty.gov, marincounty.org, assets.marincounty.gov, marinhhs.org and arcc.marincounty.gov sit behind Cloudflare and refused automated access on 2026-11-06, so County program pages could not be opened; Board agendas were read on marin.granicus.com and staff reports through its MetaViewer links where available. Marin's county money is small and project-specific: the Trust Fund mostly supplies PLHA match (about $500,000 a year) and five- to six-figure gap grants, with occasional larger loans for County-priority sites (Habitat in Novato, Oak Hill workforce housing next to San Quentin, Golden Gate Village). The County also weighed joining an Affordable Housing Guarantor Financing Program for Oak Hill in April 2025. Public funds trigger state prevailing wage; HOME and CDBG in the same award add Davis-Bacon. Sources opened: Board agendas for April 15, 2025, June 10, 2025, Dec 5 and 12, 2023, April 7 and 14, 2026 and June 23, 2026 on Granicus, the April 14, 2026 Golden Gate Village loan staff report, and the Local News Matters reports of April 6 and June 24, 2026. NOFA amounts and dates come from search engine excerpts of the County NOFA page, which is why this record is needs_confirmation.",
+      "source_url": "https://www.marincounty.gov/departments/cda/housing-and-grants/funding-projects/affordable-housing-fund-guidelines",
+      "record_id": "73e3755543",
+      "cycle_notes": "Two tracks. Affordable Housing Fund applications are accepted throughout the year through the Neighborly portal and go to the Board individually. PLHA plus Trust Fund match, HOME and CDBG are awarded through the annual NOFA: the 2026-27 window ran January 19 to February 19, 2026, with PSC review May 19 and Board approval June 23, 2026. The County states it opens the NOFA toward the beginning of each calendar year.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership",
+        "predevelopment"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "County site now opens; guidelines, NOFA and funding pages read 2026-11-08. Measure W removed from the list of Trust Fund revenue sources because the guidelines list four sources and Measure W is a separate fund. The 60% AMI PLHA priority claim was not found and was removed. Prevailing wage trigger left as found; not in audit scope.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Marin County entitlement, matched 1:1 by the Affordable Housing Fund",
+      "administering_agency": "Marin County Community Development Agency, Housing and Federal Grants Division (HCD entitlement grantee)",
+      "funding_type": "grant",
+      "typical_award_size": "2020 five-year plan estimated $4,353,426 from HCD, each dollar matched by the County Affordable Housing Fund; Formula Round 5 award $476,762 (March 2025); 2026-27 cycle about $477,000 PLHA plus match. HCD 2024-2028 Formula Allocation NOFA estimates: CY 2024 $509,302, CY 2025 $545,537, five-year $3,183,138. Example award: $605,062 to EAH Housing in 2024 ($302,531 PLHA plus $302,531 Trust Fund). HCD now requires 40% of new PLHA for affordable owner-occupied workforce housing (up to 150% AMI in high-cost Marin), and the County noted its owner-occupied spending was trailing. FY 2026-27 round: estimated $476,762 PLHA available, $3,600,000 in PLHA requested; PSC recommended Eden Housing Oak Hill $553,524 and EAH Bayfront Terrace $400,000 (PLHA plus 1:1 match, $953,524 total), preliminary until the State confirms the 2026 allocation.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA guidelines: rental development for households at or below 60% AMI emphasized (PLHA allows up to 80% AMI rental and 120% to 150% AMI ownership), 55-year covenants on rental; County goals cover family, rental, homeowner and special needs housing and an eastern Marin land trust.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The FY 2026-27 NOFA (CDBG, HOME, PLHA with Housing Trust match) ran January 19 to February 19, 2026 and the Board approved PLHA recommendations in June 2026 pending the State award. The FY 2027-28 NOFA is not yet announced; in the prior cycle the Priority Setting Committee set the timeline in December, the NOFA was noticed in mid-December and applications opened in mid-January, so the next window is expected around January to February 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Roughly $1,000,000 a year including County match, spread across two or three projects. Marin's housing element was certified in 2025, so PLHA flows without the compliance holds seen in San Mateo. State funds trigger prevailing wage. Figures from the HCD 2024-2028 PLHA NOFA (opened), the Dec 5, 2024 PSC packet on GovDelivery (opened) and search excerpts of County pages. Audit Nov 8, 2026: June 23, 2026 Board staff report (FY 2026-27 CDBG, HOME, Housing Fund and PLHA recommendations) opened on marin.granicus.com; marincounty.gov NOFA pages return 403. The Nov 3, 2026 Housing Trust workshop report shows an $18,820,048 uncommitted Trust balance, $18,650,000 in pending requests and a Trust guidelines update planned for 2027, which may affect match availability.",
+      "source_url": "https://marin.granicus.com/MetaViewer.php?view_id=33&clip_id=13163&meta_id=1442638",
+      "record_id": "1dd777eed5",
+      "cycle_notes": "Annual County NOFA for housing applications (CDBG, HOME, PLHA plus 1:1 Marin Affordable Housing Fund match), run through the Neighborly portal starting with FY 2026-27. Sequence: PSC timeline meeting in December, NOFA opens mid-January, PSC and Board hearings in May and June, separate PLHA resolution once HCD confirms the calendar-year allocation. Only CDBG public services use a two-year cycle.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Measure W West Marin transient occupancy tax, community housing share",
+      "administering_agency": "Marin County Community Development Agency (community housing share) with the Measure W West Marin TOT Oversight Committee and Working Group",
+      "funding_type": "grant",
+      "typical_award_size": "Measure W (2018) made West Marin a special transient occupancy tax area with an additional 4% tax on short-term rentals, funding long-term community housing and emergency services. Under the guidelines approved by the Board on August 18, 2026 (in effect July 1, 2026 to June 30, 2027), Direct Housing Assistance receives $100,000 a year and Housing Production receives the remainder of the community housing funds, covering predevelopment, acquisition, development and preservation of rental and ownership housing, septic upgrades for deed-restricted units, conversions, ADUs and JADUs, and transitional housing. Recommended awards are $50,000 per affordable unit plus $20,000 per bedroom for units of two or more bedrooms at up to 80% AMI, as funds allow. Example: $210,000 Measure W plus $300,000 Affordable Housing Fund considered for CLAM's 55/65 Second Street, Point Reyes Station (April 7, 2026).",
+      "per_unit_cap": "$50,000 per affordable unit plus $20,000 per bedroom for two-bedroom and larger units at up to 80% AMI, as funds are available (FY 2026-27 guidelines).",
+      "affordability_requirement": "Projects in the Measure W tax area serving households up to 120% AMI are prioritized; the per-unit plus per-bedroom formula applies to units at up to 80% AMI. Eligible applicants are 501(c)(3) nonprofits and public agencies only, so a for-profit developer would need a nonprofit or public partner.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "adu",
+        "homeownership",
+        "predevelopment",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No deadline; rolling applications as of November 8, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "marincounty.gov, marincounty.org, assets.marincounty.gov, marinhhs.org and arcc.marincounty.gov sit behind Cloudflare and refused automated access on 2026-11-06, so County program pages could not be opened; Board agendas were read on marin.granicus.com and staff reports through its MetaViewer links where available. About $600,000 a year for a coastal area where land trusts, not tax credit developers, do most deals; useful for small acquisition and rehab projects (two to eight units) paired with the Affordable Housing Fund. Public funds trigger state prevailing wage. Measure W guidelines and ordinance pages are on the blocked County site; figures come from the Local News Matters report of April 6, 2026 (opened), the Board agendas of Dec 12, 2023 and June 9, 2026 (opened) and search excerpts, so the record is needs_confirmation.",
+      "source_url": "https://www.marincounty.gov/departments/cda/housing-and-grants/funding-projects/measure-w-guidelines",
+      "record_id": "18410ee3ec",
+      "cycle_notes": "Applications accepted on a rolling basis through the County Neighborly portal (same form as the Affordable Housing Fund). Category balances reset each July 1 and priorities are set annually by the Board on the Measure W Working Group recommendation; current guidelines run through June 30, 2027.",
+      "eligible_project_detail": [
+        "pre-development, acquisition, development, and preservation of rental and homeownership housing",
+        "conversion of existing vacant or underutilized buildings to housing",
+        "JADUs and ADUs, room and share rentals",
+        "septic upgrades for deed-restricted affordable housing",
+        "transitional/temporary rental housing",
+        "direct housing assistance: emergency rent, security deposit, down payment"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "County Measure W guidelines and application pages now open and were read 2026-11-08; the annual revenue estimate ($1,200,000 to $1,300,000) from the prior pass was not confirmed on the County page and was dropped. Prevailing wage trigger left as found; not in audit scope.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Inclusionary housing, affordable housing impact fee and commercial linkage fee (Development Code Chapter 22.22) with state density bonus (Chapter 22.24)",
+      "administering_agency": "Marin County Community Development Agency, Planning Division (unincorporated area); fees deposited to the Affordable Housing Fund",
+      "funding_type": "density bonus",
+      "typical_award_size": "Chapter 22.22: 20% of units or lots in new residential projects must be affordable (projects of four or fewer units round up only above 0.70 of a unit), restricted in perpetuity unless shortened to match financing; income tiers very low (30% to 50% AMI), low (50% to 80%), moderate (80% to 120%) and middle (120% to 150%); alternatives in priority order are off-site units, land dedication and an in-lieu fee set at 125% of the requirement when a waiver is granted; single-family homes over 2,000 square feet pay an Affordable Housing Impact Fee (Ordinance 3500, 2008); non-residential projects pay a jobs-housing linkage fee by floor area and use (Ordinance 3798 and Resolution 2023-102 of Sept 19, 2023; Resolution 2016-122 for residential care and skilled nursing). Fees are indexed annually to the California Construction Cost Index; the June 23, 2026 adjustment was 3.9% and the FY 2026-27 in-lieu fee is $421,886.99 per required unit per the County fee page (2023-24 fee was $399,654). Chapter 22.24 implements Government Code 65915: base 20% bonus at 10% low or 5% very low income units, one to five concessions by affordability level, unlimited waivers of standards that physically preclude the project, height increases up to three stories near major transit for 80% lower income projects; the County may offer incentives to deed-restricted projects without a bonus but is not required to give fee waivers.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Inclusionary units restricted in perpetuity (or the maximum financing allows); density bonus rental units 30 years minimum under 22.24, moderate-income for-sale units in perpetuity. Rents capped at 50%, 65% and 100% of AMI levels for very low, low and moderate tiers.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement (rolling); fees adjust annually by the CCCI, next adjustment expected effective July 1, 2027.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Marin's unincorporated inclusionary rule is one of the strictest in the state (20% in perpetuity, in-lieu fee only after off-site and land dedication are shown infeasible), and fee receipts flow to the Affordable Housing Fund that this database records separately. Fee revenue is modest because unincorporated development is small. A 100% affordable project satisfies the chapter automatically and uses the state density bonus. Density bonus alone does not trigger prevailing wage; Labor Code 1720(b)(4) would treat any fee waiver as public funds. Sources opened: Zoneomics mirror of Development Code Article III (Chapters 22.22 and 22.24) and the June 23, 2026 fee adjustment staff report on Granicus; the County fee calculator page was blocked.",
+      "source_url": "https://marin.granicus.com/MetaViewer.php?view_id=33&clip_id=13163&meta_id=1442466",
+      "record_id": "02b451fc33",
+      "cycle_notes": "FY 2026-27 fees adopted by the Board June 23, 2026 (3.9% CCCI), effective July 1, 2026. Multi-jurisdictional Affordable Housing Impact Fee Study authorized April 15, 2025; County infrastructure impact fee study public hearing was March 10, 2026.",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income"
+      ],
+      "next_deadline_date": "2027-07-01",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: staff report and Attachment 2 (Understanding Affordable Housing Fees 2026-27) confirm $421,886.99 in-lieu fee, 20% requirement, AMI tiers 30-50/50-80/80-120/120-150 and rent caps 50/65/100% AMI. Prevailing wage false is uncited; density bonus alone carries no stated prevailing wage rule. Past study hearing date moved from next_deadline to cycle_notes.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Marin County Continuum of Care (CA-507) and HHAP",
+      "administering_agency": "Marin County Health and Human Services, Division of Homelessness and Coordinated Care (CoC lead and HHAP administrative entity for the County and CoC)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 5: County $1,542,420 and CoC $1,607,673; Round 6: County $1,243,788 and CoC $1,328,387 (regional plan puts all CoC Round 6 funds in Permanent Housing Solutions, including $500,000 for rapid rehousing and rental subsidies, landlord incentives and $25,722 for HMIS). State accountability site: $12,500,000 HHAP rounds 1 to 5 in the Marin area, $10,700,000 directly to the County ($8,700,000 obligated, $5,900,000 spent by mid-2025); Encampment Resolution Funding $22,200,000 in the area, $21,400,000 to the County (Binford Road and Encampment Resolution and Housing contracts with Episcopal Community Services, $2,217,907, Dec 2025). HUD CoC program FY 2024 award to CA-507: $2,016,283 (Shelter Plus Care, administered by MHA); CoC planning grant $256,052 (FY 2026-27); state ESG to the County $462,495 (2024). 2024 PIT: 1,090 people, 788 unsheltered, 1,487 year-round beds. Homekey rounds 1 and 2 brought $24,700,000 to Marin projects (Casa Buena in Corte Madera, 1251 S. Eliseo in Larkspur, Novato veterans housing opened Jan 2026); Homekey+: $2,700,000 for nine PSH units at Carmelita House, 530 Blackstone Drive, San Rafael, with Catholic Charities (awarded Oct 2025), matched by up to $1,931,918 in County MHSA/BHSA capital (April 14, 2026) and $321,425 in BHSA operating subsidies.",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness per HUD and state definitions; CoC permanent housing through Coordinated Entry (run by MHA); HHAP-6 must obligate 75% and spend 50% by June 30, 2027.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-7 is available to HHAP-6 grantees; the CoC runs the HUD NOFO each summer with Homebase as consultant. A Board study session on the homelessness system of care was held Oct 14, 2025. Homekey+ sites are pursued jointly by HHS and nonprofit operators.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small CoC: HHAP money (about $2,500,000 a region per round) goes to rapid rehousing, rental subsidies and Shelter Plus Care, not capital. Marin's capital for PSH has come from Homekey and Homekey+ matched by County MHSA/BHSA dollars, which is the pattern to repeat. Figures from the HCD HHAP Round 6 Marin regional plan and Round 5 application (opened), HCD allocation lists, the HUD FY 2025 CoC award report, accountability.ca.gov, Board agendas on Granicus and the April 14, 2026 BHRS staff report.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-r6-marin-region.pdf",
+      "record_id": "755f7ba220",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: HCD HHAP-6 Marin regional application shows $2,572,175.51 administered by Marin County (equal to the County $1,243,788 plus CoC $1,328,387 in the record) and a $500,000 rapid rehousing and rental subsidy activity. HHAP-5, accountability dashboard, HUD CoC, ERF, Homekey and Carmelita House figures were not re-read. prevailing_wage_trigger true has no cited rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) housing interventions, Marin County Behavioral Health and Recovery Services",
+      "administering_agency": "Marin County Health and Human Services, Behavioral Health and Recovery Services (BHRS)",
+      "funding_type": "grant",
+      "typical_award_size": "The FY 2026-27 to FY 2028-29 BHSA Integrated Plan (Board approved Dec 9, 2025; DHCS-approved version posted) programs $68,115,848 over three years. Housing Interventions receive 30% of base allocations: $5,854,517 in year one, $5,733,901 in year two and $5,695,539 in year three (plus $125,000 of unspent MHSA moved to housing). Planned uses: rental and operating subsidies at four PSH programs, 16 to 22 local Behavioral Health vouchers, continuation of transitional rent and Bridge Housing programs after they end, a peer respite facility, and capital development for a new PSH project in year one. Known capital award: up to $1,931,918 in MHSA/BHSA capital match ($1,531,918 required match plus $400,000 contingency) for the nine-unit Carmelita House Homekey+ PSH conversion (April 14, 2026), with a BHSA-funded operating agreement and services contract to follow. Scattered-site housing and rental subsidy RFP HHS-2026-02 closed April 17, 2026.",
+      "per_unit_cap": "BHSA statute: capital development up to 25% of the housing component and at most $450,000 per unit.",
+      "affordability_requirement": "Adults and youth with serious mental illness or substance use disorder who are chronically homeless, homeless or at risk; Housing First; BHRS referral. Capital grants are forgivable if the project completes and keeps units for the target population (Carmelita: nine PSH units).",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "supportive housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026. Watch County HHS RFP postings and the annual plan update; ask BHRS about capital match or operating subsidies for PSH units.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "funding_type grant: the plan funds housing capital (forgivable capital grants such as Carmelita House) and rental and operating subsidies. Marin's BHSA housing money is about $5,700,000 to $5,900,000 a year and is being used as the local match that makes Homekey+ and small PSH conversions work, plus scattered-site rental subsidies and operating subsidies. The plan notes the Marin Housing Authority has had a voucher shortfall since August 2024, which is why BHSA is funding local vouchers. Sources: HHS BHSA page and DHCS-approved Integrated Plan PDF, April 14, 2026 Carmelita House staff report, RFP HHS-2026-02.",
+      "source_url": "https://hhs.marincounty.gov/services/behavioral-health-services-act",
+      "record_id": "4c5ee477f3",
+      "cycle_notes": "Plan in effect July 1, 2026 to June 30, 2029 with annual updates. Capital is awarded project by project (Homekey+ match) and subsidies and services through County RFPs (HHS-2026-02 closed April 17, 2026), not a standing NOFA.",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab",
+        "rental assistance",
+        "operating subsidies for PSH projects",
+        "capital development for new PSH"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "HHS site now opens; the plan PDF was read 2026-11-08 and replaces the earlier 2025 estimate. The $321,425 Carmelita operating figure from the prior pass was not found in the documents read and was dropped. Prevailing wage trigger left as found; not in audit scope.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Rafael",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "San Rafael Density Bonus and Height Bonus program, SRMC 14.16.030(C) and 14.16.190, Resolution 14891 (Tables 3 and 4), Downtown Precise Plan Chapter 7.3 bonus",
+      "administering_agency": "City of San Rafael Community and Economic Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement framework, not a cash subsidy. Resolution 14891 (Feb 16, 2021) implements Government Code 65915 by Council resolution so tables update without a code amendment: Table 3 scales bonuses from 20% at 5% very low or 10% lower income up to 50% at 15% very low or 24% lower income, 35% at 40% moderate ownership, 20% for senior housing, land donation, supportive housing and student housing categories, and 80% or unlimited density with a three-story height increase for 100% affordable projects within a half mile of a major transit stop. Table 4 lists concessions including a 20% reduction in yard setback, lot coverage or landscape requirements each counted as one concession, mixed-use allowances and parking at state maximums. Section H allows an affordable housing applicant to request a planning fee waiver under Resolution 11025. A separate height bonus (14.16.190) and the Downtown Precise Plan Chapter 7.3 bonus add floors for affordable units downtown; the City's October 2026 Prohousing self-assessment states its program exceeds statutory requirements by 12 percent.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per Government Code 65915 thresholds; 55-year affordability for very low and low rental units that earn the bonus. 100% affordable projects may include up to 20% moderate income units and one manager unit.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Resolution 14891 anticipated amendment once the Downtown Precise Plan bonus was finalized; the City is also drafting Objective Design Standards (Housing Element Program 25) and parking standard revisions (Program 43) through 2027 as Prohousing commitments.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Most San Rafael rental projects now use this path rather than paying the in-lieu fee (City staff, Oct 5, 2026), which reduces Trust Fund revenue but speeds entitlements; recent examples include 1515 Fourth Street, 4040 Civic Center Drive, 930 Irwin and 1100 Los Gamos (190 affordable units, seven stories). The City also reports no traffic mitigation fee on affordable units (see fee waiver record). Stack with the County Trust Fund and PLHA, which do not depend on the bonus. Resolution 14891 PDF opened from the City fees page; the Downtown Precise Plan Chapter 7.3 text was not opened this pass.",
+      "source_url": "https://storage.googleapis.com/proudcity/sanrafael/2026/07/Resolution-14891-with-tables.pdf",
+      "record_id": "e092c17412",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Rafael",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Fee waivers for affordable housing: planning and building fee waiver policy (Resolution 11025), traffic mitigation fee exemption for affordable units (Resolution 14983), Housing Element Program 36 fee burden review",
+      "administering_agency": "City of San Rafael Community and Economic Development Department; waivers approved by the City Council case by case",
+      "funding_type": "fee waiver",
+      "typical_award_size": "No fixed schedule. The City does not assess its Traffic Mitigation Fee on affordable housing units, and affordable housing developers may request planning and building fee waivers for City Council consideration under Resolution 11025 (2025 Annual Progress Report, Program 36). The June 15, 2026 Transportation Mitigation Fee update (effective August 14, 2026) and the pending Park Impact Fee nexus study (hearing continued from May 18 to June 15, 2026) will set the fee base against which any waiver is measured.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not codified in the documents read; waivers have been granted to 100% affordable projects on request. Program 36 commits the City to reduce fee burdens for affordable housing projects where possible by December 31, 2025 and is reported as in progress.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request with the entitlement or building permit application; Council action required. Watch the Park Impact Fee adoption and any affordable housing exemption written into it (2026 to 2027).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Waived fees count as public funds under Labor Code 1720(b)(4), so model prevailing wage on any waiver. Combined with the Trust Fund and County money this is a modest layer; the City is counting Program 36 and Resolution 11025 toward its Prohousing Designation points. Resolution 11025 and Resolution 14983 were not opened (the City's Laserfiche portal refused connections); terms come from the 2025 Annual Progress Report, the 2026 Prohousing draft application and Resolution 14891 Section H, all opened. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://storage.googleapis.com/proudcity/sanrafael/2026/07/3.b-general-plan-and-housing-element-annual-progress-reports.pdf",
+      "record_id": "42d199968b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Rafael",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "City-owned land for affordable housing: 350 Merrydale Road (at least 80 units, Eden Housing exclusive negotiations) and Housing Element Program 19 disposition process",
+      "administering_agency": "City of San Rafael Community and Economic Development Department (Greg Minor, Assistant Director, 350merrydaleaffordable@sanrafael.gov)",
+      "funding_type": "land",
+      "typical_award_size": "Land contribution rather than cash. The City bought 350 Merrydale Road in November 2025 with Marin County funding support for a two-phase use: an interim shelter closing no later than June 30, 2029, then a permanent affordable development of at least 80 units to be entitled by June 30, 2028. RFP issued February 19, 2026; a Council subcommittee met August 20, 2026; on October 5, 2026 the Council voted to begin exclusive negotiations with Eden Housing. Ground lease and any City loan terms are not yet set.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Deed-restricted affordable housing; the 2025 APR files the site under Program 32 (extremely low income housing resources). Surplus Land Act terms (at least 25% lower income, or 100% affordable exemption) will apply to the disposition.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Entitlement deadline June 30, 2028 for 350 Merrydale. Program 19 (official process for housing on City lots) is a Prohousing commitment due over the next two years.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Expect the development to layer County Affordable Housing Fund money (the County co-funded the acquisition), City Trust Fund, PLHA, Homekey+ or HHAP for any PSH component, 4% credits and CMFA bonds; a City ground lease counts as public funds for prevailing wage. Developer selection is complete, so this is a reference record for how San Rafael deploys land, not an open opportunity. Related City-facilitated pipeline: Northgate Town Square (private, inclusionary units), 88 Vivian and 1100 Los Gamos (private 100% affordable applications). marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://sanrafael.gov/350-merrydale-road-affordable-housing-project/",
+      "record_id": "2a1016e345",
+      "cycle_notes": "developer selected; next City land offering depends on Program 19 process",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2028-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Nov 9, 2026 spot check: City page matches (November 2025 purchase with County funds, shelter to June 30, 2029, 80+ units entitled by June 30, 2028, RFP February 19, 2026, subcommittee August 20, 2026, Eden Housing exclusive negotiations October 5, 2026). prevailing_wage_trigger true is uncited; ground lease and loan terms are not set.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Novato",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Novato Affordable Housing Fund (inclusionary in-lieu fee fund) gap financing and development fee waivers for affordable projects",
+      "administering_agency": "City of Novato Community Development Department, 922 Machin Avenue, Novato, (415) 899-8989",
+      "funding_type": "loan",
+      "typical_award_size": "No published guidelines or NOFA. The Affordable Housing Programs Fund (Fund 210) receives in-lieu fees, BMR resale and monitoring fees and interest, and mainly pays for BMR program administration, with occasional project support: past loans to Eden Housing ($1,500,000), Homeward Bound Oma Village ($600,000) and Habitat northwest quad ($427,438). For Habitat for Humanity's 80-unit Redwood Boulevard ownership project the Council granted $350,000 for development impact fees plus waivers of several City fees (March 14, 2023) and a further grant of up to $1,000,000 ($800,000 from Fund 210 plus $200,000 transferred from the General Fund) for processing fees (March 11, 2025). Staff projected a Fund 210 balance of $1,132,422 at June 30, 2025, leaving about $332,422 for other projects after reserving $650,000 for BMR buybacks, and said the fund no longer has large balances because developers build inclusionary units on site.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Zoning Code 19.24.040 requires in-lieu fees to go to a separate City fund for very low, low and moderate income housing; awards carry regulatory agreements set per project (Habitat: 60 low and 20 moderate income ownership units). Inclusionary requirement 10% for 7 to 10 units rising to 20% at 20 or more units (19.24.030).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round; requests go to Council through the Community Development Department as of November 8, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Treat as a small, negotiated gap or fee-offset source, roughly $1,000,000 per project at most and limited by a low fund balance; mainly useful to meet the Marin County Affordable Housing Fund requirement that cities waive fees and provide a local match. CDBG and HOME for Novato flow through the Marin Urban County planning area, and Novato supplies PLHA match for its planning area. Novato agendas and staff reports are reachable on novato.granicus.com (view_id=7) and its legistar download links even though novato.gov returns 403.",
+      "source_url": "https://novato.granicus.com/services/legistar/download/pdf/3191930/J.1_cc25-039_Habitat_for_Humanity_Fee_Waiver_Request.pdf",
+      "record_id": "2b8daf48cf",
+      "cycle_notes": "No NOFA; developers request funds directly and the Council acts by resolution. City support also satisfies the County Affordable Housing Fund local-match requirement.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "novato.gov still 403; the March 11, 2025 Council agenda and staff report on novato.granicus.com were read and correct the prior figures ($350,000, not $1,000,000, in 2023; the $1,000,000 in 2025 was a grant, not fee reductions). Fund 210 makes both loans and grants; funding_type left as loan. Prevailing wage trigger left as found; not in audit scope.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Novato",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Novato Density Bonus (Division 19.25) with Local Senior Density Bonus and the Affordable Housing Opportunity (AHO) Overlay District (Section 19.16.070)",
+      "administering_agency": "City of Novato Community Development Department, 922 Machin Avenue, Novato, (415) 899-8989",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement framework, not a cash subsidy. Division 19.25 (Ordinance 1587, Dec 3, 2013) applies State Density Bonus Law by reference (19.25.040) and adds a Local Senior Density Bonus to 30 dwelling units per acre for senior citizen housing on AHO overlay sites, calculated before any state bonus (19.25.050). The AHO overlay, applied to Housing Element opportunity sites, sets base density at 20 to 23 units per acre on activation, requires 20% of units for very low and low income households (10% each) with 55-year covenants, exempts compliant projects from Division 19.24, and carries its own development standards (height, setbacks, lot coverage). Rezoning to implement Housing Element Program 1.A was adopted January 9, 2024 (CEQA addendum).",
+      "per_unit_cap": null,
+      "affordability_requirement": "State thresholds for the general bonus; AHO projects 20% very low and low income for not less than 55 years; senior bonus requires compliance with Civil Code 51.3 senior housing and the AHO standards.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "None. Novato's 2023-2031 Housing Element (adopted May 2024 per the City's General Plan page, not opened) commits to Program 3.G multifamily parking standards and 3.H parking reduction incentives; confirm adoption status.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The AHO overlay is Novato's main local enhancement: a by-right residential path on commercial and institutional opportunity sites in exchange for 20% deep affordability, which substitutes for Division 19.24. State bonus units stack on top of the AHO base density. No local fee waiver or financial incentive is attached in the code read; see the Affordable Housing Fund record. Zoneomics mirror chapters 2 and 3 (Articles 2 and 3 of Title 19) opened; HCD's April 12, 2023 letter on the draft element also opened and lists programs 3.F (impact fees), 3.H (parking incentives) and 5.K (assist lower income production) as items HCD required the City to firm up. novato.gov and novato.org returned 403 to every request this pass (HTML pages, showpublisheddocument PDFs and the news module); Novato has no Legistar API client and no Granicus or IQM2 host was found, so City pages, the 2023-2031 Housing Element, the 2025 Annual Progress Report and Council staff reports could not be opened. The Zoning Ordinance was read on the Zoneomics mirror and HCD's April 12, 2023 review letter was opened on hcd.ca.gov. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://www.zoneomics.com/code/novato-CA/chapter_2",
+      "record_id": "b3152a9af7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mill Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Mill Valley Affordable Housing Trust Fund (MVMC 20.80.070, Ordinance 1295, Resolution 20-26 Administrative Guidelines, Resolution 24-60 Local Housing Trust Fund match)",
+      "administering_agency": "City of Mill Valley Planning and Building Department (Danielle Staude, dstaude@cityofmillvalley.org), with Housing Advisory Committee priorities and City Council approval of every award",
+      "funding_type": "loan",
+      "typical_award_size": "Funded by the 1% affordable housing impact fee on residential permits at or above the construction valuation threshold ($142,000 since May 1, 2024) plus inclusionary in-lieu payments and donations; collections were $345,000 by Feb 2020, roughly $300,000 a year per the Housing Element and about $600,000 a year per the 2024 Annual Progress Report, with about $1,000,000 unencumbered in 2024. Resolution 24-60 (Sept 5, 2024) committed $1,000,000 of Trust Fund match for an HCD Local Housing Trust Fund application ($1,200,000 requested; HCD's Round 5 applicant list shows the City with a self-score of 60) so that $2,400,000 total would be available: $1,000,000 ($500,000 grant plus $500,000 match) for Bayfront Terrace at 1 Hamilton Drive and $1,400,000 for other projects to be solicited. Loans at simple interest of no more than 3% as construction or deferred-payment permanent financing; up to 5% administration. Ongoing uses: Marin Housing Authority BMR administration, Home Match contract (up to $30,000 a year), Bayfront Terrace predevelopment, and the Lease to Locals pilot ($3,500 to $14,000 per converted rental, running through 2027).",
+      "per_unit_cap": "None published; LHTF-matched funds must put at least 30% toward extremely low income (30% AMI) units and no more than 20% toward 80% AMI units, with the remainder at or below 60% AMI.",
+      "affordability_requirement": "Low income households per Chapter 20.80 covenants; LHTF-matched awards target 60% AMI and below with a 30% extremely low income set-aside. Projects must be inside Mill Valley, scored on feasibility, funding needed, unit count and location outside the very high fire severity zone. Council approves each award at a public hearing. The City adopted HCD's Uniform Multifamily Regulations for underwriting.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. The City said it would announce a solicitation in early 2025 contingent on the HCD LHTF award; no award or solicitation was found on the City site as of November 2026, and the 2028 Mitigation Fee Act five-year review and impact fee extension decision are the next fixed milestones.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Mill Valley's fund is unusually well capitalized for a 14,000-person city because the 1% fee hits every large remodel; it is the only Marin priority city with a committed state LHTF match strategy. Money has gone almost entirely to the City's own site (Bayfront Terrace, EAH Housing, 45 units) and to tenure programs, so a third-party developer should expect the $1,400,000 remainder and future fee receipts (about $600,000 a year) as the ceiling. Layer under the Marin County Affordable Housing Fund (the County awarded 1 Hamilton $500,000 in 2022 and $1,000,000 total by 2024 per County documents cited in search results, not opened), County HOME ($360,000 to the Eden Housing Mill Valley rental project in FY 2026-27, see County record) and PLHA; CDBG and HOME flow through the Marin Urban County. City loans are public funds for prevailing wage. Trust Fund page, Resolutions 20-26 and 24-60, 2024 APR, Housing Element and HCD's LHTF applicant list all opened. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://www.cityofmillvalley.gov/2149/Housing-Trust-Fund",
+      "record_id": "a6508c0895",
+      "cycle_notes": "(Council awards); a solicitation for the remaining $1,400,000 was promised if the state grant is received",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mill Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Mill Valley development fee waivers for affordable housing (MVMC 5.32 as amended October 3, 2022, Housing Element Programs 14 and 23) and lot merger fee waiver in the Opportunity Site Housing Overlay",
+      "administering_agency": "City of Mill Valley Planning and Building Department; City Council resolution for waivers",
+      "funding_type": "fee waiver",
+      "typical_award_size": "100% waiver of City application processing fees for projects managed and operated by affordable housing organizations when at least 10% of units serve very low income households (Housing Element Program 14 text) or extremely low income households (Program 23 and 2024 APR wording), adopted by ordinance and resolution in October 2022. Separately, MVMC 5.32 provides a 50% reduction in City fees, licenses and taxes for units affordable to and occupied by lower and moderate income households. Lot merger fees are waived for projects using the Opportunity Site Housing Overlay (2024 overlay ordinance). Affordable projects are also exempt from the Chapter 20.80 impact fee. Dollar value depends on the City fee schedule.",
+      "per_unit_cap": null,
+      "affordability_requirement": "At least 10% of units for very low or extremely low income households and operation by an affordable housing organization; the City also may consider a fee waiver program for ADUs under Program 30.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request at application. Confirm the exact MVMC 5.32 threshold (very low versus extremely low) with Planning before underwriting; the two City documents read describe it differently.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A processing-fee waiver is worth tens of thousands of dollars on a Mill Valley project, not a gap closer, but it counts as public funds under Labor Code 1720(b)(4). Stack with the Trust Fund, the housing overlays and State Density Bonus. Mill Valley's title 5 code text was not opened (eCode360 not attempted); terms come from the certified 2023-2031 Housing Element Chapter 4 (opened), the 2024 Annual Progress Report (opened) and the overlay ordinance (opened). marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://www.cityofmillvalley.gov/DocumentCenter/View/7984",
+      "record_id": "0d0535d663",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "audit_note": "Link redirect is only a filename slug. Housing Element Chapter IV also states the 50% MVMC 5.32 reduction for lower and moderate income units, which the record omitted.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mill Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Mill Valley Density Bonus (MVMC Chapter 20.81) and Housing Overlay Zoning Districts (Small Lot, Office Conversion and Opportunity Site overlays, 2024 ordinance)",
+      "administering_agency": "City of Mill Valley Planning and Building Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement framework, not a cash subsidy. Chapter 20.81 applies Government Code 65915 by reference (bonus, incentives, waivers, parking ratios; senior projects get no concessions unless state law requires). The 2024 Housing Overlay Districts, applied on top of base zoning to Housing Element sites, allow 17 to 40 units per acre (20 to 40 in the Opportunity Site overlay), 40-foot height, one parking space for units of 1,000 square feet or less, waived lot merger fees, and let projects also use State Density Bonus to modify standards; projects reserving 20% of units for lower income households get streamlined review. Affordable units in overlay projects follow Chapter 20.80 deed restriction rules. Bayfront Terrace (45 units) was rezoned to RM-B and approved as a 100% affordable project using density bonus incentives but not the density increase.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State thresholds for Chapter 20.81; overlay projects must meet Chapter 20.80 inclusionary (15% since 2026) or provide 20% lower income units for the streamlined path. Density bonus affordability covenants recorded before building permit (20.81.050).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "None. The 2026 inclusionary ordinance also updated the Opportunity Site overlay to the 15% standard and removed micro-unit restrictions; parking standards were updated November 3, 2025.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mill Valley's overlays are the practical density path because base multifamily zoning is scarce; combine overlay density with the State bonus, the 15% inclusionary rule and the Trust Fund. No local bonus exceeds state law. Overlay ordinance (DocumentCenter 7829) and the Zoneomics mirror of Chapter 20.81 were opened; the City's eCode360 host was not attempted.",
+      "source_url": "https://www.cityofmillvalley.gov/DocumentCenter/View/7829",
+      "record_id": "1945fdaa55",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2025-11-03",
+      "deadline_check": "past_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mill Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "City-owned land for affordable housing: Bayfront Terrace at 1 Hamilton Drive (EAH Housing, 45 units, Lease, Development and Loan Agreement) under Housing Element Program 10",
+      "administering_agency": "City of Mill Valley (City Manager and Planning and Building Department) with EAH Housing as developer",
+      "funding_type": "land",
+      "typical_award_size": "Land plus local loan. The City declared the northern 1.60 acres of 1 Hamilton Drive exempt surplus land (Sept 20, 2021), selected EAH Housing through an RFQ and ENA, approved the project, EIR and a Lease, Development and Loan Agreement with a 99-year ground lease on February 5, 2024, and reapproved it with a 0.15-acre smaller footprint on January 12 and 20, 2026 to use a 2025 CEQA statutory exemption. City money committed: $1,000,000 from the Affordable Housing Trust Fund ($500,000 City match plus $500,000 requested HCD LHTF grant) toward the extremely low income units, after Trust Fund payment of predevelopment and environmental costs. Marin County Trust Fund awards of $500,000 (2022) and a reported $1,000,000 total appear in County documents cited in search results (not opened).",
+      "per_unit_cap": null,
+      "affordability_requirement": "44 restricted units plus one manager unit: 9 at or below 50% AMI, 9 at or below 60% AMI, 26 at or below 80% AMI, with at least 40% of units at or below 60% AMI and half of those at or below 50% AMI (Surplus Land Act), all subject to a TCAC regulatory agreement.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "EAH is assembling tax credit and other financing; leasing interest sign-ups were anticipated for early 2026 and construction timing depends on credit awards. No other City-owned site is in process.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Mill Valley's first affordable development in about three decades and the model for how the City layers: surplus land under a 99-year lease, Trust Fund match, County Trust Fund, HOME through the Marin Urban County, and 4% or 9% credits with CMFA bonds. For a third-party developer the record shows that City resources are already concentrated here through at least 2027. Hamilton Drive project page, Jan 12, 2026 Council agenda and staff report (270 pages, Granicus) and Resolution 24-60 opened. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://ca-millvalley.civicplus.com/931/Bayfront-Terrace-at-3-Hamilton-Drive",
+      "record_id": "4672918415",
+      "cycle_notes": "site committed to EAH Housing",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "Project page renamed Bayfront Terrace at 3 Hamilton Drive; facts (45 units, 44 lower income plus manager, Feb 5, 2024 approval, Jan 12 and 20, 2026 reapproval, EAH seeking funding) match. The County June 23, 2026 NOFA recommendations include $200,000 PLHA plus $200,000 County Trust Fund match for Bayfront Terrace, per the County staff report attachment.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Marin Community Foundation CommunityFirst Loan Fund (nonprofit site acquisition and affordable housing loans)",
+      "administering_agency": "Marin Community Foundation, 5 Hamilton Landing Suite 200, Novato; director for community investment performs due diligence; Finance Committee approves loans under $5 million, board approves larger",
+      "funding_type": "loan",
+      "typical_award_size": "Loans to Marin nonprofits generally $500,000 to $5 million; short or long term; uses include site acquisition, construction and rehabilitation for Marin County affordable housing and capacity-building bridges; 0% default rate over 20 years; repayments revolve. Example: $1.35 million loan plus $500,000 grant for Stinson Beach affordable housing. Rates not posted (a 2017 fund report cited 4.0% fixed).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Marin County nonprofits that cannot access or afford commercial debt, including affordable housing projects.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Marin County only, nonprofit borrowers only. MCF has co-funded the Marin Workforce Housing Trust with the County and named homelessness and affordable housing a strategic priority in 2024. Pair with the Marin County Affordable Housing Fund and city in-lieu funds (San Rafael, Novato, Mill Valley); MCF money can close acquisition gaps ahead of County awards.",
+      "source_url": "https://www.marincf.org/marin-community/how-we-support-nonprofits/community-first-loan-fund",
+      "record_id": "ee16eba9f7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition",
+        "construction",
+        "acquisition-rehab",
+        "preservation",
+        "capacity-building bridge loans"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: MCF page confirms $500,000 to $5 million loans, Finance Committee under $5 million and board above, 0% default over 20 years, rolling LOI process for Marin nonprofits. Stinson Beach example and 2017 rate are not on the page. Prevailing wage false is uncited (private loan).",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

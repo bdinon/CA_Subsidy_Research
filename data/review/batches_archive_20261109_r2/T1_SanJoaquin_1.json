@@ -1,0 +1,203 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "needs_confirmation",
+      "program_name": "County-owned and surplus land for affordable housing",
+      "administering_agency": "San Joaquin County General Services (real property), with Behavioral Health Services and Veterans Services for sponsored projects",
+      "funding_type": "negative finding",
+      "typical_award_size": "No standing County land program. Known actions: a Surplus Land Act notice of availability for about four acres of County-owned land adjacent to Gianone Park in Stockton for deed-restricted affordable housing by sale or long-term ground lease (posted November 20, 2025, offers due January 30, 2026, Board approval required); Victory Gardens, 49 veteran PSH units built on 2.5 acres of County land in French Camp; a proposed campus-style veterans housing village in French Camp near San Joaquin General Hospital pursued with a Homekey+ application in 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Surplus Land Act priority for affordable housing developers with at least 25% of units at or below 80% AMI (Government Code 54222.5) or deeper restrictions negotiated with the County.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026. The Gianone Park offering closed January 30, 2026; outcome not posted. Watch the County Purchasing bid page (sjgov.org/department/pss/bids, Public Purchase) and the HCD surplus land notices map for future notices.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). County land has been the basis for the county's veteran PSH projects and is the most likely form of County contribution to a new deal because the County has no capital fund. Marked needs_confirmation because the Gianone Park notice was read on a third-party procurement aggregator (source) and the County's own bid posting (sjgov.org/gems bidView bidId=206984) returned 404 on November 7, 2026; confirm with County General Services.",
+      "source_url": "https://www.governmentcontracts.us/government-contracts/opportunity-details/52706281552814954.htm",
+      "record_id": "ca36da736a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction on County land",
+        "ground lease",
+        "veterans and supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "County bid page (sjgov.org/department/pss/bids) opened but does not list the notice; the gems bidView link returns 404 and the Public Purchase bid detail requires login (401). Only aggregator listings (governmentcontracts.us, samsearch.co) describe the notice. Consider funding_type land rather than negative finding once a County source confirms.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Health Net and Health Plan of San Joaquin housing investments (Medi-Cal plan capital grants)",
+      "administering_agency": "Health Net (Centene) and Health Plan of San Joaquin, in partnership with HACSJ and the San Joaquin Regional Housing Fund",
+      "funding_type": "grant",
+      "typical_award_size": "Health Net granted $3,000,000 to the San Joaquin Regional Housing Fund (2026, $2,850,000 net available for loans) and $2,000,000 directly to Lodi Commons; Health Plan of San Joaquin is listed as a source for Tracy Apartments Phase I. Awards have been $2 million to $3 million per commitment.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Low-income and Medi-Cal member households; Health Net funds in the regional fund are flexible but prioritize low-income units.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No public application; commitments negotiated with the plans and routed through the Regional Housing Fund or directly to HACSJ projects.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). Managed care plan money is the newest soft source in the county and has shown up in every 2026 capital stack (Lodi Commons, Tracy Apartments, the Regional Housing Fund). It is grant money and does not by itself trigger prevailing wage, but it is always paired with public funds that do. Recorded at county level because the plans are county Medi-Cal plans and the money flows through countywide vehicles; figures are from the SJCOG March 11, 2026 announcement (source), the June 18, 2026 fund packet and the Lodi Commons FONSI.",
+      "source_url": "https://sjcog.org/CivicAlerts.asp?AID=688",
+      "record_id": "1c2e244cd5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "permanent supportive housing",
+        "senior housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Tracy",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "needs_confirmation",
+      "program_name": "Tracy Affordable Housing Ordinance, in-lieu fee and Affordable Housing Fund (status unconfirmed)",
+      "administering_agency": "City of Tracy Community and Economic Development Department",
+      "funding_type": "negative finding",
+      "typical_award_size": "Not confirmed this pass. The current Title 10 Chapter 10.08 code mirror contains only the Article 36.5 density bonus; no inclusionary article, in-lieu fee or affordable housing fund section appears, and Article 33 is absent from the chapter sequence. Search snippets show a June 1, 2021 Council goal to evaluate an inclusionary and in-lieu fee program and a housing trust fund, which suggests any earlier ordinance was repealed or never funded. No Tracy Affordable Housing Fund NOFA was found.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Unknown; none in current code mirror.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Verify with Planning (209) 831-6400 whether an Affordable Housing Fund balance exists from past in-lieu payments and whether the 2023-2031 Housing Element programs commit to a new inclusionary or linkage fee study; the Housing Element PDF (about 12 MB) could not be opened this pass.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Tracy appears to have no local gap money for multifamily: no trust fund, no in-lieu fee receipts identified, no RDA housing successor fund in current agendas, and HUD money flows through the San Joaquin Urban County (county record). The realistic local layer is land use (density bonus, Housing Element rezoning sites) plus the regional sources: SJRHF gap loans, HACSJ PBVs, County HOME and HOME-ARP, BHSA and managed care plan grants (Health Plan of San Joaquin gave Tracy $595,000 and $1.2 million for its shelter). Blocked: cityoftracy.org (Akamai 403 to scripts; HTML pages under 10 MB readable only through the WebFetch tool), tracyca.prod.govaccess.org (connection refused), Tracy PrimeGov agenda portal not reached. Source is the City's Housing Element Update page, which was opened and documents the July 1, 2025 adoption.",
+      "source_url": "https://www.cityoftracy.org/Departments/Community-and-Economic-Development/Planning/General-Plan-Zoning-Ordinance/2023-2031-Housing-Element-Update",
+      "record_id": "99438e5cef",
+      "cycle_notes": "no active local inclusionary requirement or fund identified",
+      "eligible_project_detail": [
+        "not applicable until confirmed"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "Reclassified from other to negative finding: no active Tracy inclusionary requirement, in-lieu fee or affordable housing fund was found. The Housing Element Update page (opened via WebFetch) confirms adoption July 1, 2025 and the HCD finding of August 11, 2025 and does not mention inclusionary or a fund. The adopted Housing Element PDF exceeds the 10 MB fetch limit and returns 403 to curl; tracyca.prod.govaccess.org refused connections.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Tracy",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "needs_confirmation",
+      "program_name": "CDBG and HOME in Tracy (San Joaquin Urban County share, City FY 2026-27 CDBG/HOME application) and City use of PLHA and HHAP",
+      "administering_agency": "City of Tracy Economic Development (CDBG/HOME) and Homeless Services Division; funds pass through San Joaquin County Neighborhood Preservation Division",
+      "funding_type": "grant",
+      "typical_award_size": "Tracy's FY 2026-27 Urban County CDBG entitlement request is $521,683 (county record). The City posted a FY 2026-27 CDBG and HOME Notice of Funding Availability (contact Alexandra Pineda, cdbg.home@cityoftracy.org, (209) 831-6491) but the notice could not be opened this pass. City uses of flexible funds have gone to the Temporary Emergency Housing Facility shelter: $331,794 CDBG recommended for shelter operations (January 30, 2026), $18,650 County CDBG for furnishings (March 3, 2026), a $786,574 PLHA application for shelter operations (February 20, 2026), HHAP Round 4 $436,246 and a Round 5 application (December 19, 2025), plus $7.17 million County ARPA and a $3 million HUD EDI grant for shelter site work.",
+      "per_unit_cap": "HOME subsidy limits (24 CFR 92.250) when County HOME is used.",
+      "affordability_requirement": "HUD CDBG national objective and HOME rent and income limits; County Urban County rules apply.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "County Urban County NOFA for FY 2027-28 expected about October to December 2026 (county record); Tracy's own CDBG/HOME application window for FY 2026-27 has closed. Confirm the City's next cycle with cdbg.home@cityoftracy.org.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Tracy does not control HOME: HOME rental awards are made by the County (for example Lodi Commons and STAND), so a Tracy multifamily deal applies to the County HOME NOFA with a City support letter, and Tracy's CDBG share is small and has been committed to the shelter. PLHA and HHAP have been used for shelter operations rather than capital. Layer County HOME, SJRHF, HACSJ PBVs and BHSA (county records) with the Tracy density bonus. The City news article announcing the CDBG/HOME application returned 404 and the govaccess PDF host refused connections; facts above were read from the City's homelessness actions page (opened) and the county record.",
+      "source_url": "https://www.cityoftracy.org/Departments/Homeless-Services/City-and-Council-Actions-to-Address-Homelessness",
+      "record_id": "3c94404d74",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "public facilities",
+        "public services",
+        "homeless shelter",
+        "multifamily rental (County HOME NOFA)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "City homelessness actions page (opened via WebFetch) confirms the shelter figures: $331,794 CDBG recommended January 30, 2026, $18,650 County CDBG March 3, 2026, $786,574 PLHA application February 20, 2026, HHAP Round 4 $436,246, Round 5 application December 19, 2025, $7,167,798 County ARPA and $3 million HUD EDI. The City FY 2026-27 CDBG/HOME NOFA and the $521,683 entitlement figure could not be confirmed; cityoftracy.org returns 403 to curl and govaccess refused connections. The County 2026-27 NOFA ran December 8, 2025 to January 23, 2026 per the County NOFA presentation.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Lodi",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "needs_confirmation",
+      "program_name": "Lodi Housing Element 2023-2031 incentive programs (Program 1.6 fee waivers, reductions or deferrals for infill at 20 or more units per acre; Program 1.12 incentives for special needs housing; Program 1.5 funding applications)",
+      "administering_agency": "City of Lodi Community Development Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Not yet adopted as a standing program. Program 1.6 commits the City to adopt by 2025 one or more incentives for infill housing at 20 or more units per acre: parking credits, fee waivers, reductions or deferrals when financially feasible, priority processing. Program 1.12 commits to incentives (reduced standards, fee waivers or financial assistance) for housing for persons with disabilities by 2026. Program 1.5 sets a goal of the City securing $1 million in state or federal housing funds by 2028 and $2 million by 2031. Housing Element impact fee estimate: about $18,948 development impact fees plus $11,468 building fees per single-family home; multifamily fees lower per unit.",
+      "per_unit_cap": "None set.",
+      "affordability_requirement": "Program 1.6 objective: incentivize 100 extremely low, 200 very low and 200 low income units on infill parcels; Program 1.12 objective 40 special needs units.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No adopting resolution found through 2026-11-08; the Housing Element deadline for Program 1.6 (2025) has passed, so ask Planning (209) 333-6711 whether a fee deferral or waiver policy is before Council. Lodi is also adding Chapter 15.69 (Agricultural Mitigation Fee) and 15.70 (Parkland Dedication and In-Lieu) in October 2026, which add costs rather than relief.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Lodi has no housing trust fund, inclusionary ordinance, in-lieu fee or housing successor fund; HOME comes only through the County. Until Program 1.6 is adopted, the only fee relief is state law (ADU fee exemptions, SB 937 fee timing). Expect County HOME plus SJRHF, HACSJ PBVs and BHSA (county records) to carry gap financing, with City CDBG for off-site infrastructure. Programs read from the adopted 2023-2031 Housing Element PDF on lodi.gov (HCD certified April 11, 2024).",
+      "source_url": "https://www.lodi.gov/DocumentCenter/View/8317/2023-2031-Certified-Housing-Element",
+      "record_id": "872e720a2a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction (infill, 20 or more units per acre)",
+        "supportive housing",
+        "housing for persons with disabilities"
+      ],
+      "next_deadline_date": "2026-11-08",
+      "deadline_check": "future_date",
+      "audit_note": "Certified Housing Element (adopted March 20, 2024, certified April 11, 2024) supports the record: Program 1.6 incentives for infill at 20 or more units per acre including fee waivers, reductions or deferrals, adopt by 2025, objective 100 ELI, 200 VLI and 200 LI units; Program 1.12.d incentives for disability housing by 2026; Program 1.5.c goal of $1 million by 2028 and $2 million by 2031; $18,948 impact fees and $11,468 building fees per single-family home. The 2026-27 Lodi Action Plan notes the City is funding impact fee costs for HACSJ Seniors at Lodi Commons with CDBG. No program guidelines exist to state a prevailing wage rule, and Labor Code 1720 on leginfo returned 403.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

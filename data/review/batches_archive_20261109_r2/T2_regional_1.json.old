@@ -1,0 +1,86 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Greater San Francisco Bay Area (13 counties)",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Apple Affordable Housing Fund (Housing Trust Silicon Valley), annual Request for Information",
+      "administering_agency": "Housing Trust Silicon Valley (CDFI; California Finance Lender License 6053356), 75 E. Santa Clara Street Suite 1350, San Jose; lending team Nick Friend (408-703-3837 ext. 223, nick@housingtrustsv.org) and Stephaney Kipple (ext. 244); inquiries applefund@housingtrustsv.org",
+      "funding_type": "loan",
+      "typical_award_size": "RFI Round 7 (September 1 to October 1, 2026): most loans $2 million to $5 million, higher considered; construction/bridge up to 36 months interest only; construction to mini-perm 5, 7 or 10 year terms (20 or 30 year amortization); construction to permanent up to 20 years; interest up to 3% during construction and 2% permanent; combined loan to cost up to 95% with subordinate debt; origination fee greater of 1% or $30,000, $15,000 application fee credited at closing, $10,000 conversion fee, 0.15% annual monitoring fee. Fund is up to $150 million from Apple's 2019 $2.5 billion California housing commitment; 4 to 5 projects selected per round.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Deed-restricted affordable housing, incomes from extremely low up to 120% AMI; must add net new affordable units; if using LIHTC, must apply to CDLAC or TCAC in 2026 or 2027.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Round 7 closed October 1, 2026 (underwriting notifications December 2026). Round 8 RFI expected about September 2027, verify with Housing Trust.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Eligible counties: Alameda, Contra Costa, Marin, Monterey, Napa, San Benito, San Francisco, San Joaquin, San Mateo, Santa Clara, Santa Cruz, Solano and Sonoma. Readiness is the key screen: construction must start by December 31, 2027 and awards are not held past that date. Two proposals per developer. Designed to fill gaps for shovel-ready deals waiting on state awards; repayment from permanent financing including AHSC or Infill Infrastructure Grant proceeds is expected. Full recourse and completion guaranty during construction; first or second deed of trust, subordinate only to a bank construction or permanent lender.",
+      "source_url": "https://housingtrustsv.org/programs/developer-funding/applefund/",
+      "record_id": "8c4888a6a7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "construction and bridge loans",
+        "construction to permanent loans",
+        "mixed-income with long-term affordability restrictions"
+      ],
+      "next_deadline_date": "2026-10-01",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "FHLBank San Francisco district (California, Arizona, Nevada)",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "FHLBank San Francisco Affordable Housing Program (AHP) General Fund competitive grants",
+      "administering_agency": "Federal Home Loan Bank of San Francisco (member-sponsored applications; the project sponsor applies through an FHLBank member bank, credit union, insurer or CDFI)",
+      "funding_type": "grant",
+      "typical_award_size": "2026 competition: $60.1 million in General Fund grants awarded June 22, 2026 to 39 projects (2,676 units) in California and Arizona from 125 applications; 2026 awards total $66.3 million including the Nevada Targeted Fund, up nearly one-third from 2025. Per the 2026 Implementation Plan, maximum request is the lesser of $2,000,000 or 50% of total project costs, and no more than $65,000 per income-restricted rental unit (scored on a declining scale from $30,000 to $65,000). Four years from award to complete construction and draw funds. Since 1990, $1.48 billion awarded for nearly 160,000 homes.",
+      "per_unit_cap": "$65,000 per income-restricted rental unit and $2,000,000 per project (lesser of $2,000,000 or 50% of total project costs)",
+      "affordability_requirement": "Rental projects must reserve at least 20% of units for households at or below 50% AMI with a 15-year retention period; owner-occupied projects serve households at or below 80% AMI (5-year retention).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2027 competition expected spring 2027 with awards about June 2027; verify the application window when the 2027 Implementation Plan posts (2026 awards announced June 22, 2026).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "A grant that flows through a member institution, so line up a member bank or CDFI sponsor (Housing Trust Silicon Valley, Community Vision and Clearinghouse CDFI are members that sponsor awards) early. Scoring favors homelessness and special needs set-asides, ELI units, lower subsidy per unit and donated or discounted property; 2026 awards included $27.9 million for 19 supportive housing developments and more than $20 million for 12 senior developments. Loan pools and revolving funds may not apply to the General Fund. AHP funds are private bank-system money and do not by themselves trigger state prevailing wage, though federal AHP regulations apply. Grants are typically sized at $30,000 to $65,000 per unit and used as gap equity alongside LIHTC and state soft debt.",
+      "source_url": "https://www.fhlbsf.com/products/community-programs-grants/ahp",
+      "record_id": "2533f21a4a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "senior housing",
+        "mixed-income"
+      ],
+      "next_deadline_date": "2026-06-22",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "needs_confirmation",
+      "program_name": "Solano County density bonus (state law applied; Density Bonus Information Guide, May 2025)",
+      "administering_agency": "Solano County Department of Resource Management, Planning Services (707-784-6765)",
+      "funding_type": "density bonus",
+      "typical_award_size": "State Density Bonus Law benefits summarized in the guide: 20% to 50% more units, up to five concessions, unlimited waivers on showing of physical infeasibility, parking caps of 1 space (studio and 1-bdrm), 1.5 (2 and 3-bdrm), 2.5 (4+ bdrm). 100% affordable projects get 80% bonus or no maximum within one half mile of a major transit stop. Guide cites the May 2025 HCD AMI for Solano County of $124,600.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Government Code 65915 set-asides: 5% to 15% very low, 10% to 24% low, 10% to 44% moderate (for-sale only); 55-year rental covenant.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": null,
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No Solano County density bonus or inclusionary ordinance surfaced in Chapter 28 (Zoning) searches; recent Chapter 28 work has been ADU conformance (ZT-20-02, ZT-26-02) and the County defaults to state law where its code is silent. Unincorporated Solano is largely agricultural with limited sewer, so multifamily sites are rare outside the Homeacres area and County-owned parcels in Dixon. The guide is a two-page information sheet hosted by the City of Vallejo, which calls it the Solano County Density Bonus Guide; confirm with County Planning whether it is the County's document and whether a local ordinance exists. Municode and Vacaville pages returned 403.",
+      "source_url": "https://www.cityofvallejo.net/common/pages/GetFile.ashx?key=h5k%2bAUZn",
+      "record_id": "6ccc44bdd3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Guide opened and its figures match the record (state law set-asides, parking ratios, May 2025 Solano AMI $124,600), but it is hosted by Vallejo, has no County branding, and refers to a Municipal Code; no Solano County density bonus page or code section was found (Municode 403, County site search found nothing).",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fairfield",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "needs_confirmation",
+      "program_name": "Fairfield Density Bonus (Zoning Code Section 25.38, Ordinance 2021-02)",
+      "administering_agency": "City of Fairfield Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "State Density Bonus Law as implemented locally: 5+ unit projects with 5% very low, 10% lower, 10% moderate (for-sale), senior or other qualifying categories get bonus units, incentives and concessions, waivers and parking ratios per Government Code 65915; childcare facility adds bonus or concession. Density bonus application fee set by Council resolution. Applications processed concurrently with the project entitlement and decided by the same review authority (Section 25.41).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Government Code 65915 set-asides; 55-year rental covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; file with the planning entitlement.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement beyond state law; the ordinance states Section 65915 supersedes any conflicting local text. Fairfield also offers priority processing for affordable projects (Housing Element Action 2.4) and lot consolidation incentives in the Heart of Fairfield and Train Station plan areas. Read on the zoneomics code mirror because the City's code host returns 403. Pair with the Fee Deferral Program and Trust Fund records.",
+      "source_url": "https://www.zoneomics.com/code/fairfield-CA/chapter_3",
+      "record_id": "ba2d7afa74",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: Section 25.38 (Ord. 2021-02; 65915 supersedes conflicting text, 5+ unit housing development, concurrent filing with a fee set by Council resolution, same review authority per 25.41, 5% very low eligibility) matches the zoneomics mirror only. codepublishing.com, municode and ecode360 return 403 and fairfield.ca.gov is blocked. Mirror-only source does not support verified.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fairfield",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "needs_confirmation",
+      "program_name": "Fairfield CDBG and HOME, multifamily rehabilitation NOFAs and PLHA formula allocation",
+      "administering_agency": "City of Fairfield Housing Services Department (HUD CDBG entitlement; state HOME and CalHome grantee; HCD PLHA formula recipient)",
+      "funding_type": "grant",
+      "typical_award_size": "CDBG multifamily rehabilitation NOFAs: about $475,000 CDBG offered in 2024 (due September 24, 2024) and about $400,000 offered July 22, 2026 (due September 4, 2026, rehab complete by June 30, 2027, minimum score 75) per City news releases found in search but not opened. FY 2026-27 Annual Action Plan reportedly budgets $115,120 for multifamily rehabilitation. State HOME grant of $700,000 obtained (2024-2025) and $800,000 MORE grant applied for. PLHA formula: Fairfield CY 2024 $274,392, CY 2025 $293,914, five-year 2024-2028 estimate $1,714,950 (HCD NOFA); Housing Element dedicates 20% of PLHA to homeownership, and three PLHA down payment loans closed in FY 2025-26.",
+      "per_unit_cap": "HOME per-unit subsidy limits (24 CFR 92.250) for HOME-funded units.",
+      "affordability_requirement": "CDBG rehab: at least 51% of units at or below 80% AMI. HOME: 20% at 50% AMI, balance at 60% AMI, 55-year HCD covenant. PLHA: per the City's five-year plan (not opened).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The City has not posted its next CDBG multifamily rehabilitation NOFA; prior rounds were released in summer.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small money. CDBG rounds are rehab-only (no new construction or acquisition) and sized at $400,000 to $475,000. Fairfield is not a HOME participating jurisdiction and competes for state HOME through HCD, so HOME for a Fairfield project needs the City as applicant. PLHA at about $280,000 a year is partly committed to down payment assistance. Davis-Bacon applies to CDBG rehab of 8+ units and HOME 12+ units. Items marked as reported came from fairfield.ca.gov search snippets; the site returns 403 to scripts and WebFetch, so dollar figures should be confirmed with Housing Services. The opened source is the City's March 2026 Council Goals report, which records the CDBG NOFA step, the HOME and MORE grants and the PLHA loans.",
+      "source_url": "https://transparency.fairfield.ca.gov/wp-content/uploads/2026/05/Fairfield.pdf",
+      "record_id": "dad60d9f13",
+      "cycle_notes": "CDBG multifamily rehab NOFAs reportedly issued August 2024 and July 2026 (the 2026 round reportedly closed in early September 2026); fairfield.ca.gov returns 403, so round dates and amounts are from search results, not an opened page. PLHA arrives by HCD formula allocation.",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Council Goals report (Mar 2026) confirms the $700,000 HOME grant, $800,000 MORE application, PLHA down payment loans and a CDBG NOFA step, but not the NOFA dollar amounts or dates. PLHA amounts confirmed in the HCD 2024-2028 formula NOFA. fairfield.ca.gov returns 403 to curl; no archive copy.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fairfield",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "needs_confirmation",
+      "program_name": "Fairfield Housing Authority Project-Based Vouchers",
+      "administering_agency": "Fairfield Housing Authority (City of Fairfield Housing Services Department), 707-428-7392",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HCV-only agency (about 750 vouchers to issue per the March 2026 Council Goals report; 894 vouchers administered at the start of 2024 per the 2024 Administrative Plan found in search). The FY 2026-27 PHA Annual Plan approved by Council April 7, 2026 reportedly adds 50 project-based vouchers to a program with over $10,000,000 in annual HAP. Existing PBV sites include Laurel Gardens. Council approved PBV plus housing trust fund financing for a multifamily preservation project in late 2025.",
+      "per_unit_cap": "HAP contract rent capped at the lower of reasonable rent or 110% of FMR; FY 2026 payment standard not increased.",
+      "affordability_requirement": "Households at or below 50% AMI at admission (75% at 30% AMI); PBV units capped at 25% of a building unless serving elderly, disabled or supportive-services households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No PBV RFP located. HUD's 2026 budget guidance asked PHAs to pause new PBV commitments, so confirm with the Housing Authority whether the 50 additional PBVs in the FY 2026-27 plan are being awarded. HCV waitlist opened March 4 to 6, 2026.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "PBVs are the operating subsidy that makes 30% AMI units pencil in Fairfield deals (Fair Haven Commons, Parkside Flats, Tabor Commons). Fairfield's PHA covers only the city; Suisun City, Vacaville, Vallejo and Solano County each have their own (separate records). PBVs alone do not trigger state prevailing wage; Davis-Bacon applies to PBV new construction or rehab of 9+ contract units. The PHA plan and press items were not opened (fairfield.ca.gov 403; aggregator summaries only); the opened source is the City's Council Goals report, which gives the voucher count and the PBV financing approval.",
+      "source_url": "https://transparency.fairfield.ca.gov/wp-content/uploads/2026/05/Fairfield.pdf",
+      "record_id": "867ada565c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Council Goals report (Mar 2026) confirms the 750-voucher HAP target, the March 4 to 6, 2026 waitlist opening, and 5 project-based VASH vouchers; it does not mention the 50 added PBVs, Laurel Gardens, or a PBV plus trust fund preservation approval, contrary to layering_notes. PHA plan on fairfield.ca.gov returns 403.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Vacaville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "needs_confirmation",
+      "program_name": "Vacaville local affordable housing fund, inclusionary ordinance and fee waiver (none adopted; Housing Element Programs HE-5, HE-14 and HE-16 study items)",
+      "administering_agency": "City of Vacaville Housing and Community Services Department, 40 Eldridge Avenue Suite 2, Vacaville, 707-449-5675",
+      "funding_type": "negative finding",
+      "typical_award_size": "Negative finding. Vacaville has no housing trust fund, inclusionary requirement, in-lieu fee or affordable housing fee waiver. The 2023-2031 Housing Element (adopted June 27, 2023; HCD found it in compliance) commits only to study them: Program HE-5(b) evaluates a housing trust fund, commercial linkage fee, sales or transient occupancy tax increase, or general obligation bond; HE-16 was to decide on an inclusionary ordinance by December 2023; HE-14 was to consider a lower impact fee structure or waivers for affordable and infill projects by December 2025 (impact fee nexus study adopted June 28, 2022). HE-5(e) says the City will pursue HOME entitlement status. The 2022 Housing Strategy is the policy basis.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No program exists. Ask Housing and Community Services whether Council acted on HE-16 (inclusionary decision) or HE-14 (fee reductions) in 2024-2026; the City's pages that would show this returned 403.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Budget full City impact fees in Vacaville (a 2022 fee update differentiates single-family fees by size but has no affordable discount). Local gap money for a Vacaville deal is therefore the County SCHTF (county record: $200,000 proposed for Habitat's Harmony Village, Vacaville, Aug 2026), City PLHA and CDBG (separate record), and Vacaville Housing Authority PBVs (separate record). Pony Express Senior Apartments used CMFA bonds ($27,726,315). Source is the HCD-posted October 2022 review draft; the adopted June 2023 element and HCD letter are on cityofvacaville.gov (403).",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/vacaville-6th-draft101722.pdf",
+      "record_id": "800baf0b68",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "October 2022 HCD-posted draft confirms Programs HE-5(b) and (e), HE-14 (fee adjustment by December 2025, June 28, 2022 nexus study) and HE-16 (inclusionary decision by December 2023). Whether Council has since acted cannot be checked: cityofvacaville.gov returns 403 and search found no inclusionary or fee waiver action.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Vacaville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "needs_confirmation",
+      "program_name": "Vacaville Housing Authority Project-Based Vouchers (Moving to Work agency)",
+      "administering_agency": "Vacaville Housing Authority, City of Vacaville Housing and Community Services Department, 40 Eldridge Avenue Suite 2, 707-449-5675",
+      "funding_type": "rental assistance",
+      "typical_award_size": "The Housing Element reports 1,365 Housing Choice Vouchers allocated to the Vacaville Housing Authority, including 50 Family Unification, 41 VASH, 101 Mainstream and 31 Emergency Housing Vouchers; the Authority is a Moving to Work agency and also administers the Solano County Housing Authority under contract. A December 2024 PBV RFP (results posted on the City's PBV page, not opened) awarded 85 PBVs to CSH Elan Apartments (California Supportive Housing); an earlier plan reported 48 PBVs awarded to two projects. PBV waitlists have opened for Orchard Maples, Hillside Senior, The Willows, Lincoln Corner and Pony Express Senior Apartments. The City's April 14, 2026 budget update reportedly shows the Vacaville Housing Authority at about $20,700,000 and the Solano County Housing Authority at $4,450,000.",
+      "per_unit_cap": "HAP contract rent capped at the lower of reasonable rent or 110% of FMR; MTW agency may adopt alternative payment standards.",
+      "affordability_requirement": "Households at or below 50% AMI at admission (75% at 30% AMI); PBV share limits per HUD rules with MTW flexibility.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open RFP found as of November 2026; the last round was December 2024. Ask Housing and Community Services about the next PBV solicitation and whether HUD's 2026 pause on new PBV commitments applies.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The largest voucher pool in Solano County and the reason supportive housing deals (Elan, 85 PBVs) can carry 30% AMI rents in Vacaville. Stacks with TCAC, CMFA bonds, County SCHTF and City PLHA. PBVs alone do not trigger state prevailing wage; Davis-Bacon applies to PBV new construction or rehab of 9+ contract units. cityofvacaville.gov (housing pages, PBV results, PHA plans) returns 403 to scripts and WebFetch and the archive mirror rate-limited; voucher counts were read from the HCD-posted Housing Element and the Elan award from a search snippet of the City's PBV page.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/vacaville-6th-draft101722.pdf",
+      "record_id": "0a670d7757",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Housing Element draft confirms 1,365 HCVs (50 FUP, 41 VASH, 101 Mainstream, 31 EHV). The Elan 85-PBV award, the 48-PBV earlier awards, waitlist sites and the April 2026 budget figures were not on any opened page; cityofvacaville.gov returns 403.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Vacaville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "needs_confirmation",
+      "program_name": "Vacaville CDBG entitlement, Section 108 loan application and PLHA formula allocation",
+      "administering_agency": "City of Vacaville Housing and Community Services Department (HUD CDBG entitlement; HCD PLHA formula recipient)",
+      "funding_type": "grant",
+      "typical_award_size": "CDBG entitlement of roughly $550,000 a year (April 2026 budget slide, not opened). On July 22, 2025 Council considered the 2025-2030 Consolidated Plan, the 2025-26 Annual Action Plan and a HUD Section 108 loan guarantee application (public notice found in search, not opened). Vacaville is not a HOME participating jurisdiction. PLHA formula (HCD 2024-2028 NOFA): CY 2024 $168,814, CY 2025 $180,825, five-year estimate $1,055,088; the City's five-year PLHA plan is posted on cityofvacaville.gov (not opened). The City's PLHA page says funds support developing and preserving rental housing, affordable homeownership, program administration and homelessness.",
+      "per_unit_cap": "HOME limits do not apply; PLHA per the City plan.",
+      "affordability_requirement": "CDBG: 51% of units at or below 80% AMI. PLHA: at or below 60% AMI for rental assistance unless the plan targets higher; 55-year covenant for rental development.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "CDBG applications run with the Annual Action Plan each winter for a July 1 program year; PLHA allocations arrive annually from HCD. Confirm whether the Section 108 application was approved and what it funds.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A Section 108 guarantee, if approved, would be Vacaville's first sizable city-controlled capital source (up to five times the annual CDBG grant). Otherwise CDBG and PLHA together are under $750,000 a year. Vacaville's $250,000 federal community project grant (2024-2026) went to Habitat's Harmony Village. CDBG carries Davis-Bacon on 8+ units; PLHA is state money and triggers prevailing wage. The opened source is HCD's PLHA formula NOFA; all City pages returned 403.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "f4552cecfd",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "PLHA amounts confirmed in the HCD 2024-2028 formula NOFA (CY 2024 $168,814, CY 2025 $180,825, five-year $1,055,088; 60% AMI priority and 55-year rental term). CDBG entitlement size and the Section 108 application were not on any opened page; City site returns 403.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Suisun City",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "needs_confirmation",
+      "program_name": "Suisun City local housing fund, inclusionary ordinance and PLHA (no trust fund or inclusionary; Housing Element Programs 1.B, 1.C, 1.E; PLHA formula share)",
+      "administering_agency": "City of Suisun City Development Services Department and Suisun City Housing Authority",
+      "funding_type": "grant",
+      "typical_award_size": "Negative finding for local funds. The 2023-2031 Housing Element (adopted March 21, 2023, modified May 16, 2023, HCD certified May 2023) has no trust fund, in-lieu fee or fee waiver program; Program 1.E was to decide on an inclusionary ordinance within two years of adoption (by spring 2025) and adopt one within a year if appropriate; Program 1.C commits the City to apply for state HOME, CDBG, MHP and CalHFA funds for nonprofit developers; Program 1.F explores mortgage revenue bonds and MCCs with other Solano jurisdictions. Suisun City is not a CDBG or HOME entitlement (state programs). PLHA formula (HCD 2024-2028 NOFA): CY 2024 $80,369, CY 2025 $86,957, five-year estimate $502,306.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA: at or below 60% AMI unless the plan targets higher; state HOME and CDBG rules when the City applies as grantee.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PLHA allocations arrive annually from HCD; the City's PLHA plan and any inclusionary decision were not found (suisun.com 403). Ask Development Services whether Council acted on Program 1.E and how PLHA is programmed.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A Suisun City project must bring its own subsidy: state HOME or CDBG with the City as applicant, CMFA bonds and TCAC (Almond Gardens model), County SCHTF (county record), and the City's land or fee concessions (separate record). About $85,000 a year of PLHA is too small for gap loans unless pooled. Source is the HCD-posted October 2022 review draft; the adopted element PDF on suisun.com returned 403.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/suisun-city-6th-draft100422.pdf",
+      "record_id": "6d73f03f8a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "October 2022 draft confirms Programs 1.B, 1.C, 1.E (inclusionary decision within two years of adoption) and 1.F; PLHA amounts confirmed in the HCD NOFA. Adoption dates and any Council action on Program 1.E were not on an opened page; suisun.com housing documents return 403.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

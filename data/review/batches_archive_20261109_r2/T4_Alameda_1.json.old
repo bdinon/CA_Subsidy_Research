@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "HOME Consortium and Urban County CDBG affordable housing development loans (annual HCD RFP)",
+      "administering_agency": "Alameda County Housing and Community Development Department, HOME Consortium lead agency and Urban County CDBG administrator; CDBG 510-670-5971, CDBG@acgov.org",
+      "funding_type": "loan",
+      "typical_award_size": "HCD issues one competitive affordable housing development RFP each fall combining HOME (Consortium CHDO and Urban County shares), remaining Measure A1 and other local funds; applications are due about eight weeks after release with a mandatory bidders conference. HOME Consortium: Alameda, Fremont, Hayward, Livermore, Pleasanton, San Leandro, Union City and the Urban County (all cities except Oakland and Berkeley, which are their own participating jurisdictions); the City of Alameda's FY 2026-27 draft Action Plan reports the Consortium's 2025 HOME allocation as $1,475,257, a figure to confirm with HCD. Urban County CDBG covers the unincorporated area plus Albany, Dublin, Emeryville, Newark and Piedmont, which administer their own shares; the unincorporated CDBG RFP runs December or January with applications due March or April and contracts July 1. State ESG to the County for the CoC: $402,650 (2024). Past procurements: 2023 HOME Capital RFP, 2024 CDBG NOFA (due Jan 19, 2024).",
+      "per_unit_cap": "HOME maximum per-unit subsidy limits (24 CFR 92.250); County loans sized to the gap.",
+      "affordability_requirement": "HOME: households at or below 80% AMI at HOME rents for 55 years under County documents (59-year regulatory agreement standard, 55 allowed for tax credit projects); CDBG: low and moderate income benefit. 15% of Consortium HOME reserved for CHDOs.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Fall 2026 RFP date not posted as of Nov 6, 2026; HCD's funding opportunities page says the RFP is issued each fall. Unincorporated CDBG applications are due March or April 2027 for FY 2027-28.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Federal money is a small share of Alameda County's stack: the Consortium's HOME is a few million dollars a year spread across eight members, so the County's own awards are typically under $1,000,000 and ride on the same fall RFP as Measure A1 and local funds. Davis-Bacon applies to HOME projects with 12 or more assisted units; County loans carry state prevailing wage. HCD also administers HOPWA housing for the Oakland area and runs AC Boost, Renew AC and the AC Housing Secure programs from the same department. The County's own FY 2026-27 Action Plan PDF (47MB Consolidated Plan link) was not opened; figures come from the HCD CDBG page, the funding opportunities page and the City of Alameda's draft plan.",
+      "source_url": "https://www.achcd.org/community-development-block-grant-cdbg/",
+      "record_id": "eb04bd3be6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Oakland-Berkeley-Alameda County Continuum of Care (CA-502) and HHAP",
+      "administering_agency": "Alameda County Health, Housing and Homelessness Services (CoC lead and HHAP administrator for the County and CoC allocations); City of Oakland administers its own HHAP",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP by round, County of Alameda: R1 $8,700,000, R2 $4,000,000, R3 $11,200,000, R4 $12,100,000, R5 $13,463,754, R6 $10,783,302. CoC: R1 $9,400,000, R2 $4,500,000, R3 $12,000,000, R4 $12,900,000, R5 $14,033,347, R6 $11,516,752. City of Oakland: R5 $28,446,566, R6 about $23,000,000; regional R6 total $45,300,000 (awarded March 2, 2026). State accountability site: $210,100,000 HHAP rounds 1 to 5 in the Alameda area, $102,500,000 directly to the County ($78,100,000 obligated, $60,500,000 spent by mid-2025); Encampment Resolution Funding $30,600,000 in the area. HUD CoC program FY 2024 awards to CA-502: $16,901,825 including Shelter Plus Care TRA $9,129,290, Housing Fast Support Network $2,619,550, YHDP $1,934,338 and Linkages $1,734,446. State ESG CoC share $402,650 (2024). 2024 PIT: 9,450 people, 6,343 unsheltered, 9,963 year-round beds. HHAP uses in the County: Coordinated Entry access points, street health and outreach, HMIS, Emerging Leaders, regional interim housing (safe parking, shelters, navigation centers) and local match for Medi-Cal Housing Community Supports.",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness per HUD and state definitions; CoC permanent housing through Coordinated Entry; HHAP-6 must obligate 75% and spend 50% by June 30, 2027, and the County needs a compliant housing element for the second half of its Round 6 award.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 regional application was due Aug 29, 2025 and awarded March 2026; HHAP-7 is available to HHAP-6 grantees. The CoC's HUD NOFO competition runs each summer through EveryOne Home; letters of interest are collected by the County. Home Together 2030 (summer 2026) sets system priorities.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "HHAP here pays for coordinated entry, outreach, interim housing and services rather than capital; Measure W now dwarfs it and is the County's capital and operating subsidy source for PSH. Oakland and Berkeley projects should look to those cities' HHAP and CoC shares (Pass 3). CoC permanent housing dollars are mostly Shelter Plus Care tenant-based assistance. Figures from the July 17, 2025 County and Oakland HHAP-6 presentation (opened), HCD HHAP allocation lists, the HUD FY 2025 CoC award report and accountability.ca.gov.",
+      "source_url": "https://everyonehome.org/wp-content/uploads/2025/07/HHAP-6-Presentation_Alameda-County-City-of-Oakland.pdf",
+      "record_id": "426c1b481a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

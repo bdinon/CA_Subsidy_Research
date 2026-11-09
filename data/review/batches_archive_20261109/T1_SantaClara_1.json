@@ -1,0 +1,363 @@
+[
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) Integrated Plan FY 2026-27 through FY 2028-29, housing interventions",
+      "administering_agency": "County of Santa Clara Behavioral Health Services Department (BHSD)",
+      "funding_type": "other",
+      "typical_award_size": "Total BHSA expenditure budget about $160 million a year; Housing Interventions component at the statutory 30 percent, $48 million a year (no transfer or exemption requested). Uses: tenant-based rental assistance for up to 700 individuals a year (500 permanent, 200 interim), continuation of the Casa de Novo interim housing program, Transitional Rent and Housing Deposits as a Medi-Cal managed care plan contracted provider from January 1, 2026, and licensed residential care facility support through a separate $8,038,653 CCE Preservation grant ($4,578,568 capital, $3,460,085 operating).",
+      "per_unit_cap": "Not applicable. The plan funds no project-based units (units funded per year reported as 0).",
+      "affordability_requirement": "BHSA-eligible adults with serious mental illness or substance use disorder who are homeless or at risk; 50 percent of housing funds targeted to chronically homeless individuals, with a focus on encampments.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Draft Integrated Plan adopted by the Board June 2, 2026 and submitted to DHCS by June 30, 2026; plan period July 1, 2026 to June 30, 2029. Annual updates each spring.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. Santa Clara County elected not to use BHSA for capital development (the plan says MHSA housing funds go to interventions that provide more immediate access) and not to fund operating subsidies with BHSA, so unlike San Diego or Sacramento there is no BHSA capital or PSH operating line to underwrite here. BHSD contracts with two providers for on-site specialty mental health services at PSH developments and will refer BHSA clients to County and SCCHA project-based units through coordinated entry. The Casa de Novo site (Homekey) continues as interim housing. Plan PDF: sccgov.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=270066 (Attachment B).",
+      "source_url": "https://sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=128128",
+      "record_id": "bb40cf6127",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "tenant-based rental subsidies",
+        "interim housing operations",
+        "licensed residential care facility placements",
+        "supportive services at PSH developments"
+      ],
+      "next_deadline_date": "2029-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Jose",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Measure E Real Property Transfer Tax (Municipal Code Chapter 4.59) and Council Policy 1-18 Section 22 spending allocations",
+      "administering_agency": "City of San Jose Housing Department and City Manager's Budget Office; Real Property Transfer Tax Fund",
+      "funding_type": "other",
+      "typical_award_size": "Transfer tax on sales above $2.3 million (threshold indexed from $2 million as of July 1, 2025): 0.75 percent from $2 million to $5 million, 1.0 percent from $5 million to $10 million, 1.5 percent above $10 million. About $225 million collected July 2020 through mid 2023. FY 2025-26 revenue estimate $55.0 million, FY 2026-27 $60.0 million. Original policy (April 2022) directed 40 percent to extremely low income housing, 30 percent low income, 5 percent moderate income, 10 percent homelessness prevention, 15 percent homeless support. The June 10, 2025 revision allows up to 90 percent of revenue after 5 percent administration for homeless sheltering and interim housing, with only the remainder for new or preserved affordable housing; the FY 2025-26 plan puts $0 of new revenue into affordable housing development. Prior-year Measure E reserves are still being drawn for development, for example $14 million for the Gateway Tower land acquisition (September 2025).",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "When used for development: new or preserved rental housing for extremely low (30 percent AMI) and low income households under City regulatory agreements; previously set by AMI category in Policy 1-18 Section 22.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standalone Measure E NOFA. Future allocations for affordable housing depend on the FY 2026-27 budget (June 2026) and later budgets; shifts between 15 and 90 percent for shelter can be made without the 60-day notice and two-thirds vote. Verify remaining Measure E reserve balances with the Housing Department.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Measure E was the City's largest discretionary housing source from 2020 to 2024 and funded many Gap Financing Program awards. Expect limited new Measure E development money through at least FY 2026-27 because the General Fund shortfall shifted $39.2 million (rising to $42.8 million) of homelessness costs into this fund. Developers should underwrite LMIHAF and inclusionary fee funds first and treat Measure E as upside. A Measure E transfer tax refund pilot for qualifying nonprofit purchases (Section 4.59.230) ran July 2021 through June 30, 2024 with one application; it is now expired. Documents read via Legistar attachments because sanjoseca.gov is blocked.",
+      "source_url": "https://legistar.granicus.com/sanjose/attachments/e6f03e54-fdbc-4a08-9773-0599d109f955.pdf",
+      "record_id": "ca49d3841f",
+      "cycle_notes": "appropriated through the annual budget and project-specific Council actions",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "interim housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Jose",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Alternative financing frameworks for affordable housing (Gap Financing plus IHO, PAB plus master-lease, production incentives plus master-lease)",
+      "administering_agency": "City of San Jose Housing Department",
+      "funding_type": "other",
+      "typical_award_size": "Council resolution of September 1, 2026 authorizing the Housing Director to implement four mixed-financing models: (1) Gap Financing Program loans in exchange for deeper inclusionary set-asides (example: 10 percent of units at 50 percent AMI instead of 5 percent at 60 and 5 percent at 80); (2) private activity bonds combined with master-lease financing; (3) production incentive programs (MHIP) combined with master-lease financing; (4) master-lease financing combined with the Inclusionary Housing Ordinance. Target rents 40 to 110 percent AMI. No new dollars; uses existing Gap Financing, bond and incentive tools.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Varies by model; 40 percent AMI up to 110 percent AMI with recorded restrictions; Model 1 limited to tower and wrap projects already paying prevailing wage.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Housing Director may implement without further Council action subject to funding approvals; individual loan or master-lease commitments still return to Council. No deadline.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Relevant to developers of mixed-income towers (prevailing wage already assumed) and to nonprofit or public master lessees. Models borrow from the Bay Area Housing Finance Authority and CalHFA middle-income work; they will compete with the Multifamily Housing Incentive Program pipeline for the same market-rate projects. Prohousing: San Jose applied for HCD Prohousing Designation in June 2023 (memo read); current designation status was not confirmed this pass, verify on HCD's designated jurisdictions list. sanjoseca.gov blocked; memo read from Legistar.",
+      "source_url": "https://legistar.granicus.com/sanjose/attachments/4501c16f-6229-4c5f-a3f4-040f4e430b6b.pdf",
+      "record_id": "255c97f008",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "master-lease acquisition of market-rate units",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "reclass_ambiguous"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sunnyvale",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation, Prohousing Incentive Program applications and City-owned sites for affordable housing (295 South Mathilda Avenue)",
+      "administering_agency": "City of Sunnyvale Community Development Department, Housing Division",
+      "funding_type": "policy/designation",
+      "typical_award_size": "HCD awarded Sunnyvale a Prohousing Designation in 2024 (Housing Element Program H41); Council authorized a PIP Round 4 application on November 18, 2025 (award depends on population base and points; Mountain View's comparable request was $890,000). City-owned site: 295 South Mathilda Avenue purchased September 2023 for $7,325,000 and held under an Exclusive Negotiating Agreement and short-term ground lease with MidPen Housing for a 126-unit project with at least 25 percent of units for families experiencing homelessness; cumulative City support including land about $13.3 million ($105,000 per unit) before construction funds. The City also adopted a water and sewer priority policy for affordable developments (June 2025) and received $1.84 million in MTC Housing Incentive Pool funds in 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "295 South Mathilda: 100 percent affordable with 25 percent homeless set-aside; PIP funds for households up to 120 percent AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "PIP Round 4 award expected mid 2026; 295 South Mathilda ENA extended November 2025 with construction targeted 2027 after a tax credit application in 2026. Future City-owned sites would be offered by ENA or RFP.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Prohousing status improves scores for AHSC, IIG and MHP applications by Sunnyvale projects. The City's land contribution model (buy the site, ground lease to the nonprofit, then fund through the NOFA) mirrors Mountain View and San Jose practice and locks in TCAC opportunity-area status. sunnyvale.ca.gov blocked; information taken from the 2025 Housing Element APR read on Legistar.",
+      "source_url": "https://legistar.granicus.com/Sunnyvale/attachments/d5ab8b14-34d8-439e-99c0-2db362a22f77.pdf",
+      "record_id": "219772d0f7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Ordinance (Ordinance 297, 2018; amended 2022), Municipal Code Title XII Chapter 1, residential in-lieu fee and non-residential affordable housing impact fee (Resolution 8852)",
+      "administering_agency": "City of Milpitas Office of Housing (Planning and Neighborhood Services Department)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. New residential projects of 10 or more units must provide 15 percent of units as affordable on site; alternative compliance (including in-lieu fees) requires Council approval. Fee schedule under Resolution 8852, indexed annually: residential in-lieu fee $49.13 per square foot (July 2025 to June 2026) and $51.20 (July 2026 to June 2027) for all ownership and rental types; non-residential impact fee $10.59 per square foot commercial (office, retail, hotel) rising to $11.04, and $5.29 industrial (R&D, manufacturing, warehouse) rising to $5.51. Housing Element Program 17 targets 1,160 inclusionary units over the cycle and calls for defining very low, low and moderate income shares and extra credit for extremely low income units by the end of 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "15 percent of units affordable; income mix to be defined by the pending 2025 AHO amendment (current practice follows the ordinance and administrative guidelines under development). Preference program for McKinney-Vento families, current and former Milpitas residents and Milpitas workers.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "AHO amendment defining income tiers was due by end of 2025 and a full review by 2027 under the Housing Element; confirm status with the Office of Housing (408-586-3222, housing@milpitas.gov). Fee rates step up July 1, 2027 by index.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "In-lieu and impact fee revenue goes to the City's affordable housing fund administered with the Milpitas Housing Authority; no NOFA process was found and the fund balance was not published on the pages opened. Most Milpitas affordable projects (for example Mosaic Court, $42.3 million County Measure A; 355 Sango Court) are financed by County Measure A, SCCHA and state sources rather than City cash. Fee deferrals are offered for projects with on-site affordable units (Housing Element constraints chapter). milpitas.gov opened directly; the Legistar API has no Milpitas client, and Milpitas agendas are on CivicClerk.",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/10300",
+      "record_id": "a2686a5864",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "for-sale"
+      ],
+      "next_deadline_date": "2027-07-01",
+      "deadline_check": "future_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Housing Opportunity Districts (HOD), Neighborhood Commercial Mixed-Use and Town Center zoning incentives (Resolution 9404, adopted April 15, 2025)",
+      "administering_agency": "City of Milpitas Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Zoning incentive, not a cash subsidy. LEAP-funded rezoning effective June 6, 2025 that raises allowable residential density to 60 units per acre in NCMU zones and 65 units per acre in Town Center zones, lowers minimum commercial FAR to 0.10 or 0.20, cuts residential parking to 1 space per unit and commercial to 1 per 300 square feet, reduces open space standards, and exempts 100 percent affordable projects in NCMU and Town Center areas from non-residential requirements. Implements Housing Element Program 15 (Housing Opportunity Zones) with a goal of at least 200 affordable units in these districts; Program 15 also contemplated a supplemental density bonus beyond state law, reduced impact fees and ministerial approval.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable units per the AHO (15 percent) or 100 percent affordable projects, which receive the non-residential exemption; state density bonus can be layered.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "In effect since June 6, 2025. The financial incentive and supplemental density bonus elements of Program 15 were not confirmed as adopted; check with Planning.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The HOD is Milpitas's main local tool beyond state density bonus. The City's 2008 Density Bonus Ordinance defers to state law where inconsistent and was slated for update by end of 2024 (Programs 16 and 21); the update ordinance was not located this pass. Impact fees remain high (about $48,500 per unit in the Metro Specific Plan area including the Transit Area Development Impact Fee, about $29,064 elsewhere, mostly park in-lieu), so fee deferral or waiver for 100 percent affordable projects (Program 20 explores this for specific plan areas) matters more here than in neighboring cities. milpitas.gov opened directly.",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/8216",
+      "record_id": "a920995edf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "100 percent affordable mixed-use"
+      ],
+      "next_deadline_date": "2025-06-06",
+      "deadline_check": "past_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "needs_confirmation",
+      "program_name": "Milpitas Housing Authority fund (former redevelopment housing successor, LMIHAF) and Below Market Rate programs",
+      "administering_agency": "City of Milpitas Office of Housing and Milpitas Housing Authority",
+      "funding_type": "loan",
+      "typical_award_size": "The Milpitas Housing Authority (housing successor to the Milpitas Redevelopment Agency) holds the Low and Moderate Income Housing Asset Fund and is listed as the funding source for Housing Element Programs 16 (affordable housing development: site acquisition and predevelopment assistance, deferred, reduced or waived fees), 19 (BMR homeownership program administered by Housekeys) and 7 (tenant assistance), and may supplement CDBG for capital projects. Fund balances were not in the documents opened; the FY 2022-23 and later Housing Successor Annual Reports are posted on milpitas.gov DocumentCenter and CivicClerk (links found but PDFs not readable this pass). Program 16 also directed staff to evaluate an affordable housing bond or EIFD by end of 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Dissolution Law income targets for LMIHAF; City agreements for assisted units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found. Contact the Office of Housing (408-586-3222) for the current LMIHAF balance and the status of the bond or EIFD evaluation.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Needs confirmation: the Housing Authority Annual Report PDF (DocumentCenter/View/6324 for FY 2022-23) and the April 2025 Council APR item on CivicClerk were not readable by script, so balances are unverified. Expect a modest fund; Milpitas projects rely on County Measure A (Mosaic Court, Sango Court), SCCHA vouchers, Housing Trust Silicon Valley and state programs. Expedited review is offered for projects with more than 20 percent lower income units (Program 16). milpitas.gov opened directly; CivicClerk agenda links returned empty pages.",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/6323",
+      "record_id": "a9279a8a2f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homebuyer assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Community Development Block Grant, FY 2026-27 Annual Action Plan (2025-2030 Consolidated Plan)",
+      "administering_agency": "City of Milpitas Office of Housing",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27 CDBG entitlement $538,212 plus about $8,000 program income, $294,688 carryover program income and $116,072 prior-year unused entitlement; roughly $561,000 for capital and housing rehabilitation activities (including Rebuilding Together Silicon Valley critical home repairs), $136,000 public services, with the remainder for other activities and administration. No HOME entitlement (Milpitas is in the County HOME Consortium). Council may supplement CDBG with the Housing Authority Fund.",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDBG low and moderate income benefit; housing rehabilitation for lower income owners.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Public hearing on the FY 2026-27 plan was June 16, 2026; FY 2027-28 applications are typically reviewed by Council in February with adoption in May or June 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Too small to matter for multifamily gap financing; Milpitas developers use the County HOME Consortium and County Measure A or SHDF (see county records) and SCCHA vouchers. milpitas.gov opened directly.",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/10522",
+      "record_id": "e8ff1e27ed",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab (owner repair)",
+        "public facilities",
+        "public services"
+      ],
+      "next_deadline_date": "2026-06-16",
+      "deadline_check": "past_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_redirected",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "needs_confirmation",
+      "program_name": "Density Bonus Ordinance (2008) update and affordable housing fee deferrals and waivers, Housing Element 2023-2031 Programs 16, 20 and 21",
+      "administering_agency": "City of Milpitas Planning Division and Office of Housing",
+      "funding_type": "fee waiver",
+      "typical_award_size": "The Housing Element states the City provides fee deferrals for projects with on-site affordable units and commits to: update the 2008 Density Bonus Ordinance to current state law and clarify waivers and concessions (by end of 2024); explore fee deferrals, reductions or waivers for 100 percent affordable projects in the Metro and Gateway-Main Street specific plan areas (Program 20); develop incentives such as extra density bonuses and expedited processing for large family units, extremely low income units and supportive housing (Programs 22 and 23); and facilitate missing middle housing (Program 24). No adopted fee waiver ordinance or updated density bonus chapter was located this pass.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "On-site affordable units per the AHO or 100 percent affordable projects, depending on the incentive.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Confirm with Planning whether the density bonus ordinance update (Program 21) and specific plan fee relief (Program 20) were adopted in 2025 or 2026; none appeared on the pages opened.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Recorded so the gap is explicit: Milpitas has no local housing trust fund NOFA, no adopted fee waiver program for affordable housing beyond case-by-case deferrals, and relies on state density bonus law (its local ordinance defers to state law where inconsistent). The HOD rezoning is the only adopted local enhancement. milpitas.gov opened directly; municode code pages are blocked to scripts.",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/6323",
+      "record_id": "cfceb765e9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "100 percent affordable in specific plan areas"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  }
+]

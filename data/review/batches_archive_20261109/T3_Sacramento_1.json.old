@@ -1,0 +1,276 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Sacramento County Housing Trust Fund (commercial linkage fee)",
+      "administering_agency": "County of Sacramento (Chapter 16.89, fee collected at building permit); SHRA administers and lends the fund",
+      "funding_type": "loan",
+      "typical_award_size": "$900,000 available as of June 1, 2026 (was $0 in June 2025). 2024 fee revenue $1,605,084; year-end 2024 balance $6.36M ($1.2M uncommitted). Since 1991: $33.1M in fees, 29 developments, 3,037 total units. Recent loans $816,000 to $5.25M per project (San Juan $5.25M for 21 HTF units; Terracina at Wildhawk $4.6M for 18 units).",
+      "per_unit_cap": "None published; recent awards about $250,000 per HTF-restricted unit.",
+      "affordability_requirement": "Households at 50% to 80% of county AMI who are in the labor force (jobs-housing linkage); 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Through SHRA multifamily pre-application rounds (next expected January 2027). Current fee schedule (2024 report): office and hotel $3.26, research and development and commercial $2.17, manufacturing and warehouse $1.08 per gross square foot, adjusted annually.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Oldest local source (1990). Revenue tracks commercial construction and is volatile, so the balance is usually smaller than the AHO fund. Used mainly for new construction workforce units at 50% to 80% AMI, which complements deeper-targeted HOME or MHP units in the same project. Local below-market loan; state prevailing wage exemption may be available absent federal funds. The companion City of Sacramento Housing Trust Fund (City Code 18.56) is a separate pool covered in Pass 3. SB 802 (Chapter 417, Statutes of 2026) requires the County and cities to form the Sacramento Area Housing and Homelessness Agency, a regional JPA that absorbs SHRA, by January 1, 2028; expect program administration, fee funds and NOFA calendars to migrate to that agency during 2027-2028.",
+      "source_url": "https://www.shra.org/wp-content/uploads/2025/07/ATT-1-Housing-Trust-Fund-Annual-Report-for-2024.pdf",
+      "record_id": "81ab909117",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County of Sacramento",
+      "administering_agency": "County of Sacramento (HCD entitlement recipient); SHRA administers the multifamily share",
+      "funding_type": "loan",
+      "typical_award_size": "2024 PLHA income $6,666,613; year-end 2024 uncommitted multifamily balance $2,245,525 and single-family (down payment assistance) balance $2,804,135. Recent multifamily commitments: Arden Star $2.42M (13 units), San Juan $1.7M (7 units), San Juan Phase II $2.7M then increased to $4.7M (70 units). $0 posted as available for County projects June 1, 2026.",
+      "per_unit_cap": "None published; recent awards about $185,000 to $245,000 per PLHA unit.",
+      "affordability_requirement": "Multifamily share for households at or below 60% AMI (with workforce flexibility under the County's PLHA plan); 55-year restriction. At least 25% of each allocation is reserved for down payment assistance below 50% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Through SHRA multifamily rounds as annual HCD PLHA disbursements arrive (SB 2 recording-fee revenue, variable). Next SHRA round expected January 2027; check the funds-available notice for a PLHA line.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "State formula money without federal strings, so it is the preferred SHRA source when Davis-Bacon must be avoided (state prevailing wage still applies unless the below-market-loan exemption is met). Often paired with HOME in the same SHRA award (San Juan Phase II). The separate HCD Local Housing Trust Fund match program is no longer funding; the County's last LHTF award was 2024. SB 802 negotiations included language keeping PLHA flowing to all jurisdictions once the regional agency forms. SB 802 (Chapter 417, Statutes of 2026) requires the County and cities to form the Sacramento Area Housing and Homelessness Agency, a regional JPA that absorbs SHRA, by January 1, 2028; expect program administration, fee funds and NOFA calendars to migrate to that agency during 2027-2028.",
+      "source_url": "https://www.shra.org/wp-content/uploads/2025/07/ATT-4-PLHA-Annual-Report.pdf",
+      "record_id": "582400c54a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "SHRA Multifamily Mortgage Revenue Bonds (Housing Authority of the County of Sacramento conduit issuance)",
+      "administering_agency": "Housing Authority of the County of Sacramento, staffed by SHRA",
+      "funding_type": "bond",
+      "typical_award_size": "No minimum or maximum bond amount; sized to the senior lender's loan. Issuance fee 25 bps of the bond amount at closing; annual administration fee 5 bps of outstanding bonds (minimum $15,000) plus $100 per SHRA-regulated non-bond unit per year; when another issuer is used SHRA still charges up to 0.25% for TEFRA review. CDLAC fees and 0.5% performance deposit pass through.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Federal and state minimum: 20% of units at 50% AMI, or 30% at 60% AMI plus 10% at 50% AMI (H&S Code 34312.3); non-competitive CTCAC projects targeting above 60% AMI must average no more than 59% AMI. Rents capped at 30% of 50% or 60% AMI. Bond regulatory agreement for the qualified project period or 55 years from 50% occupancy, incorporating the CDLAC resolution.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Pre-application and full application on the SHRA schedule tied to CDLAC rounds (2026: applications March 2 and Sept 1 for the July/Sept and March/May 2027 CDLAC rounds). Inducement resolution and TEFRA hearing go to the Board of Supervisors or City Council before the CDLAC filing.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Local alternative to CalHFA, CSCDA and CMFA for 4% deals in the City and unincorporated county (other cities by cooperation agreement). SHRA requires projects using other issuers to meet SHRA affordability and due diligence standards and pays for TEFRA review. Nonprofit owners seeking the welfare exemption must show ongoing day-to-day involvement (services, management or maintenance) under SHRA policy 9.1.11. Bonds alone are generally not treated as public funds for state prevailing wage, but SHRA gap loans or HOME in the same deal usually are. Private placements waive the investment-grade rating requirement. SB 802 (Chapter 417, Statutes of 2026) requires the County and cities to form the Sacramento Area Housing and Homelessness Agency, a regional JPA that absorbs SHRA, by January 1, 2028; expect program administration, fee funds and NOFA calendars to migrate to that agency during 2027-2028.",
+      "source_url": "https://www.shra.org/wp-content/uploads/2026/08/2026-SHRA-Multifamily-Lending-Policies-County-final.pdf",
+      "record_id": "78d879bb89",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Sacramento County Affordable Housing Fee Deferral and Waiver Program (county impact fees and SacSewer impact fees)",
+      "administering_agency": "County of Sacramento Department of Finance with SHRA certification; Sacramento Area Sewer District (SacSewer, formerly SASD and Regional San) for sewer impact fee waivers",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral or waiver of county development impact fees (Antelope, North Vineyard Station, Vineyard and Florin Vineyard plan area fees, library facilities fees, county transportation development fees) and SASD/Regional San sewer impact fees. Waivers are proportional to the share of very low-income units. Annual cap on waivers: greater of 200 dwelling units or 5% of prior-year new residential permits in the unincorporated county. SacSewer reported over $900,000 waived across five projects as of October 2025. $1,000 application fee; deferrals require a 10% fee deposit.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Deferral: at least 10% of units affordable to very low income (50% AMI) or 49% affordable to low income (80% AMI). Waiver: at least 10% of units at or below 50% AMI. Fees become due with interest penalties if the units are not delivered within 24 months.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling, before building permit issuance; requires an SHRA Certification Letter, preliminary title report, and a recorded agreement, note and deed of trust (subordinable to construction financing). Deferred fees are due at close of escrow or 24 months after the agreement, whichever is first.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "County impact fee relief applies to unincorporated projects; SASD and Regional San sewer impact fee waivers are available in all cities in the county and the unincorporated area. Sewer impact fees in Sacramento run several thousand dollars per unit, so the waiver is worth roughly $5,000 to $10,000 per very-low-income unit; it reduces basis and improves the CTCAC cost-containment score. Labor Code 1720(b)(4) treats fees waived or forgiven by a public agency as public funds, so a waiver can itself trigger state prevailing wage unless the project is otherwise exempt; confirm with counsel. City of Sacramento has its own fee deferral and fee reduction program (Pass 3).",
+      "source_url": "https://feedeferral.saccounty.gov/us/en/affordable-housing.html",
+      "record_id": "17bbb007c2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Multifamily Mortgage Revenue Bonds, Housing Authority of the City of Sacramento (SHRA conduit issuance)",
+      "administering_agency": "Sacramento Housing and Redevelopment Agency for the Housing Authority of the City of Sacramento",
+      "funding_type": "bond",
+      "typical_award_size": "Tax-exempt and taxable conduit bonds for rental projects of 12 or more units in the City; no minimum or maximum issue size (cost-effectiveness usually sets a floor). Applications for bonds without an SHRA loan are accepted year round; bond-plus-loan requests follow the SHRA pre-application schedule. Private placements require accredited or qualified institutional buyers in $250,000 denominations with investor letters.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Federal minimum 20% at 50% AMI or 30% at 60% AMI plus 10% at 50% AMI (H&S 34312.3); CDLAC and CTCAC rules govern; SHRA adds its 15% at 50% AMI and 5% at 30% AMI policy when an SHRA loan is included; non-competitive CTCAC deals averaging above 60% AMI must average at or below 59% AMI. Refundings that extend maturity require at least 10% of units at 50% or 60% AMI for 15 more years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Bond-only applications any time; bond-with-loan applications on the SHRA schedule (next pre-application likely early January 2027). SHRA Commission then City Council approval, then CDLAC allocation.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "SHRA prefers to be the issuer for City projects and pairs bonds with its gap loan; CSCDA or CMFA remain alternatives if timing does not fit. Bond policy requires the nonprofit owner to have material day-to-day involvement for projects claiming the welfare exemption, matching BOE scrutiny of managing general partners (see County Assessor record). Policies: 2026 City Multifamily Lending and Mortgage Revenue Bond Policies (Section 9).",
+      "source_url": "https://www.shra.org/wp-content/uploads/2026/08/2026-SHRA-Multifamily-Lending-Policies-City-final.pdf",
+      "record_id": "3038f76416",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Folsom",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Folsom Affordable Housing Loan (AHL) Program (Folsom Housing Fund 238 and Housing Trust Fund 221)",
+      "administering_agency": "City of Folsom Community Development Department, Housing Services (loan consultant TDA, Inc.)",
+      "funding_type": "loan",
+      "typical_award_size": "Gap loans from the City's inclusionary in-lieu fee fund and commercial housing trust fund. Unaudited cash available for projects at June 30, 2025: $23.9 million (Fund 238 $22.8M, Fund 221 $0.9M, legacy funds $0.2M). Track record: 11 loans since 2005 totaling over $36 million supporting 1,095 units (e.g., a $2.7M conditional loan for 52 units in 2020). Guidelines adopted by Resolution 11427 on August 26, 2025 standardize terms and allow the City to issue NOFAs.",
+      "per_unit_cap": "None published; sized by the City's consultant review of the pro forma against TCAC underwriting.",
+      "affordability_requirement": "Minimum 55-year income, rent and affordability restrictions recorded senior to foreclosable liens; serves extremely low, very low and low income households; priority to sites outside concentrations of existing regulated housing and to Housing Element goals (seniors, large families, special needs). Fund 238 must spend at least 50% on construction or major rehab of multifamily rentals affordable to low and very low income households (Sacramento Housing Alliance settlement).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA issued as of 2026-11-08; the 2025 guidelines contemplate strategic NOFAs when resources are available, and staff planned a Council policy discussion on priorities for the housing funds. Requests may still be submitted ahead of tax credit rounds; contact Housing Services via the Community Development Department (Pam Johns, Director), (916) 461-6000.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The largest city-controlled pool in Sacramento County outside the City of Sacramento (about $23M) with few competing applicants, because Folsom's rental projects are scarce and the Folsom Plan Area south of Highway 50 generates most in-lieu revenue. Loans are repaid from 50% of residual cash flow after allowed expenses; operating and replacement reserves required for the 55-year term; underwriting and compliance aligned to TCAC and LIHTC rules. Folsom is outside the SHRA lending area (cooperation agreement needed), so this fund plus state sources is the local layer; a Folsom Plan Area MOU committing to 890 deed-restricted affordable units (2024 General Plan amendments, not opened this pass) creates sites. Chapter 17.104.070 also allows fee waivers or deferrals and density bonuses for inclusionary units. folsom.ca.us returns 403 to automated access; the staff report and resolution were read from the City's public agenda host.",
+      "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-3c80e00338b5420aafa72ac45dae4a5d.pdf",
+      "record_id": "94239692fe",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-08",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Folsom",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Folsom Housing Trust Fund commercial development fee (Municipal Code Chapter 3.90, Fund 221)",
+      "administering_agency": "City of Folsom Community Development Department (fee) and Housing Services (fund)",
+      "funding_type": "loan",
+      "typical_award_size": "Commercial linkage fee of $2.08 per square foot on new commercial development (established 2002), deposited in the Housing Trust Fund (Fund 221) and used mainly to fill financing gaps in affordable rental projects through the AHL Program. Fund 221 balance was $918,311 at June 30, 2025.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Fund supports affordable housing development; AHL Program 55-year restrictions apply to loans.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Deployed through the AHL Program (no NOFA as of 2026-11-08). Fee paid at building permit.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Minor source compared with Fund 238; Folsom's rate ($2.08) is below the City of Sacramento ($2.68 commercial) and above the County ($2.17). Chapter 3.90 text itself was not opened (codepublishing.com and folsom.ca.us return 403); the rate and balance come from the August 26, 2025 staff report on the City's public agenda host.",
+      "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-54dff11a603148f68a0203d4b6b13245.pdf",
+      "record_id": "b5e8f6c802",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-11-08",
+      "deadline_check": "future_date"
+    }
+  }
+]

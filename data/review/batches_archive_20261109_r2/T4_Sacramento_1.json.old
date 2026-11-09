@@ -1,0 +1,78 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Sacramento Continuum of Care (CA-503) funding and PBV PSH referral system",
+      "administering_agency": "Sacramento Steps Forward (CoC lead agency and HMIS lead) for the City and County of Sacramento",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HUD CoC Program awards described as tens of millions per round across more than 30 renewal projects; competition now runs every other year. 2026 competition: local letters of intent for new projects due July 2, 2026, local applications July 14, 2026, consolidated application to HUD Sept 30, 2026. Youth Homelessness Demonstration Program total $8,082,381 across seven projects (as of 2025).",
+      "per_unit_cap": null,
+      "affordability_requirement": "CoC PSH serves households experiencing homelessness (chronic homelessness priority) through the Coordinated Access System; rental assistance and leasing, not capital.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "biennial",
+      "next_deadline": "2026 round closed (HUD submission Sept 30, 2026). Next local competition expected 2028 under the every-other-year cycle, with renewals in between.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "CoC dollars rarely fund capital, but CoC PSH rental assistance or leasing can replace PBV as the operating subsidy on a share of units, and CoC participation is required for Homekey+ and HHAP coordination. For PBV PSH buildings, SSF runs the lease-up: referrals begin 120 days before the temporary certificate of occupancy, are over-referred by 20%, and target full occupancy within 60 days of TCO, with SHRA paying the subsidy within 30 days of move-in. The 2023 City-County Affordable Housing Plan (SHRA, SSF, City, County) tracks a 649-unit PSH pipeline and a proposed joint PSH fund.",
+      "source_url": "https://www.sacramentostepsforward.org/sacramento-continuum-of-care/2026-coc-program-competition-notice-of-funding-opportunity/",
+      "record_id": "5c0c88c51a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation (state scoring preference for City of Sacramento projects)",
+      "administering_agency": "City of Sacramento Community Development Department (designation held by the City; HCD administers the program)",
+      "funding_type": "policy/designation",
+      "typical_award_size": "Not a direct subsidy. Projects in a Prohousing jurisdiction receive priority processing or bonus points in state programs including AHSC, Infill Infrastructure Grant, TCC, TIRCP and related transportation programs, and the City may apply to the Prohousing Incentive Program for added funds. Sacramento was the first designated city (Feb 10, 2022) and renewed Dec 23, 2025 with 108 points, the highest score in the state as of June 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "None at the project level; benefit flows to any eligible affordable project in the City.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Designation runs on HCD's renewal cycle; next renewal due around 2029. Contact Angel Anguiano, (916) 808-5519.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Relevant to layering: AHSC and IIG applications for City sites score Prohousing points that unincorporated-county and most other Sacramento-area cities (Elk Grove, Rancho Cordova, Citrus Heights, Folsom were not confirmed as designated this pass) do not get. Check HCD's designated-jurisdictions tracker before assuming points for a non-City site.",
+      "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/Prohousing",
+      "record_id": "2642daea93",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

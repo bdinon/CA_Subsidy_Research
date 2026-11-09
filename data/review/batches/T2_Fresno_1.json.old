@@ -1,0 +1,42 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Infill Incentive Program development impact fee waiver (FMC Article 12-4.16, Ordinance 2021-029) and Residential BUILD Act waivers",
+      "administering_agency": "City of Fresno Public Works Department (Traffic and Land Planning), with City Manager approval",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Waives City park, police, fire and street facilities impact fees and reimburses up to 50% of curb, gutter and sidewalk costs. Backfilled from the City budget, first come first served. Cumulative waivers since 2014: $10.19 million across programs ($3.62M Infill Incentive, $659K Residential BUILD). FY 2025 waivers totaled only $45,825 (five single-family homes).",
+      "per_unit_cap": "Equal to the waived fee amounts; not a fixed cap.",
+      "affordability_requirement": "None; the waiver is location-based (Infill Opportunity Zone, outside the South Industrial Priority Area, sites up to 6.5 net acres or commercial-to-residential conversions of any size).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Likely expired: the City application form (July 2025 update) states the waiver is not valid on building permits issued after June 30, 2026 and only when backfill funds exist. No extension was found as of November 8, 2026; the December 18, 2025 fee waiver report shows $0 Infill waivers in FY 2025. Confirm with Public Works before underwriting.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Market-rate and affordable infill both qualify, so it is not affordable-specific, but it lowers impact fees for downtown and BRT corridor projects that also use the TOD bonus. Applied at certificate of occupancy, not at permit, so the full fee must be carried in the construction budget. Use near zero in FY 2025 suggests limited backfill funding. Fee waivers backfilled with City funds may be public subsidy under Labor Code 1720.",
+      "source_url": "https://agendas.fresno.gov/en/legislation/id-25-1584-20563",
+      "record_id": "17ad4295f7",
+      "cycle_notes": "First come, first served at building permit, subject to annual backfill funding; form sunset for permits issued after June 30, 2026.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-06-30",
+      "deadline_check": "past_date",
+      "link_status": "ok",
+      "audit_note": "Program sunset per application form June 30, 2026; no extension located. Prevailing wage left unclear: neither the form nor the fee waiver report states a prevailing wage rule; Labor Code 1720(b)(4) treats waived fees as public funds but applicability to a given project was not confirmed.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

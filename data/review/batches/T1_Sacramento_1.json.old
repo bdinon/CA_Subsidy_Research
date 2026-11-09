@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rancho Cordova",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "needs_confirmation",
+      "program_name": "Rancho Cordova Housing Trust Development Impact Fee (Municipal Code Chapter 16.89) and city affordable housing gap financing",
+      "administering_agency": "City of Rancho Cordova Housing Division (Community Development)",
+      "funding_type": "loan",
+      "typical_award_size": "Not verified this pass. Rancho Cordova levies a housing trust development impact fee on nonresidential development (Chapter 16.89, confirmed by title in search results and by Sacramento County's Housing Trust Fund page listing Rancho Cordova among five cities with similar fees). Current rates, fund balance and loan terms unknown. The City's PLHA plan directs 100% of its PLHA allocation to gap financing for new affordable and permanent supportive housing (search snippet, document not opened).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Unknown; expected low and very low income per nexus.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "cityofranchocordova.org and codepublishing.com return 403 to automated access and the City's Legistar instance has no public API, so this record is a placeholder. Rancho Cordova is in the Sacramento County HOME Consortium (SHRA-administered) and is a CDBG entitlement city that runs an annual CDBG NOFA (a 2026 CDBG NOFA workshop was listed on the City's housing page per search results). Recent City-supported deals include Mather Veterans Village Phase 4 and The Liora (ministerial design review 2026). Confirm fee schedule, fund balance and any NOFA with the Housing Division via the City's main line (916) 851-8700.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/rancho-cordova-6th-draft032421.pdf",
+      "record_id": "f0fe655a96",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "City sites (cityofranchocordova.org) and codepublishing return 403. The HCD-hosted 2021-2029 Housing Element draft confirms a Housing Trust Development Impact Fee on non-residential development funding a Local Housing Trust Fund, which also receives in-lieu fees and land from Affordable Housing Plans (Actions H.1.5.3, H.5.1.1, H.5.4.1), but gives no rates, balance or loan terms. The ecode360 Chapter 16.89 page found is Sacramento County Code, so the Rancho Cordova chapter number is unconfirmed. PLHA 100% gap financing is still from a search snippet only.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Citrus Heights",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Citrus Heights Affordable Housing Fee on commercial development (Resolution 2022-048) and City Housing Trust Fund",
+      "administering_agency": "City of Citrus Heights Housing and Grants Division (fund); Building Division (fee collection)",
+      "funding_type": "other",
+      "typical_award_size": "Fee source, not a subsidy program with published terms. Per the July 9, 2026 development impact fee sheet (Resolution 2022-048): office (including medical and assisted living) $1.95, hotel $2.35, commercial and retail $1.77, industrial (flex and R&D) $1.67 per square foot on new commercial development or added commercial square footage, applying to commercial projects both under and over 5,000 square feet; residential is exempt. Rates were raised in June 2022 to the regional average after no update since 1992. Revenue goes to the City Housing Trust Fund administered by the Housing and Grants Division; fund balance and any lending terms not published.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Unknown; linkage fee funds are for very low income housing per the original 1992 ordinance title (Nonresidential Construction Fees for Funding Very Low Income Housing).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found; projects should approach the Housing and Grants Division directly, (916) 727-4830, housing@citrusheights.net.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Citrus Heights has no inclusionary ordinance and no residential affordable housing fee, and no city fee waiver program for affordable units was found; the fee sheet also lists multimodal ($1,591 per multifamily unit), park, Measure A transportation, drainage, sewer, school and fire fees that apply to apartments. The trust fund is small because the city is built out with little new commercial construction; the realistic city layer is the CDBG, HOME Consortium and PLHA record below plus SHRA bonds under a cooperation agreement.",
+      "source_url": "https://www.citrusheights.net/DocumentCenter/View/21440/Development-Impact-Fees-brochure_July2026",
+      "record_id": "46a69bde4c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "Kept as other: the source documents show only fee collection into the Housing Trust Fund, with no published loan or grant program, terms or awards to classify as deployable. Fee table corrected: the affordable housing fee applies to commercial construction of any size, not only 5,000 square feet or more.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

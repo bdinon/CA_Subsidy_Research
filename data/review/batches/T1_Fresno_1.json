@@ -1,0 +1,116 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Housing Density Bonus (FMC Chapter 15, Article 22) with TOD Height and Density Bonus (Article 21) and Housing Element Program 9 by-right approval",
+      "administering_agency": "City of Fresno Planning and Development Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Article 22 implements Gov. Code 65915 for projects of 5 or more units (State law governs on conflict). Article 21 adds a discretionary TOD bonus of up to 100% more density and 25% more height in MX or CMS districts within 500 feet of a BRT station or half mile of Manchester Transit Center, combinable with the affordable bonus. Program 9 text amendment (P26-01326, 2026) makes projects with at least 20% lower-income units by-right on reused housing element sites.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus thresholds (e.g., 5% very low or 10% low income for a 20% bonus); covenants per Article 22 (at least 30 years in local text, 55 years under current State law for rentals). Fresno has no inclusionary requirement; FMC 15-2201(E) bars adopting one until the 2014 General Plan is superseded.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; applied with entitlements.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Local text predates recent State amendments, so the State statute controls bonus percentages and concessions. TOD stacking is a Fresno-specific advantage on Blackstone and Ventura/Kings Canyon BRT corridors. No density cap on mixed-use zones since 2022. No inclusionary fund exists to tap. Code read on the zoneomics mirror (City code host not used).",
+      "source_url": "https://www.zoneomics.com/code/fresno-CA/chapter_3",
+      "record_id": "865023e0e2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "Nov 9, 2026 spot check: Article 22 (5+ units, 30-year local covenant, 15-2201(E) bar on inclusionary) and Article 21 TOD bonus (MX or CMS, 500 feet of BRT or half mile of Manchester Transit Center, up to 100% density and 25% height) match the zoneomics mirror only; municode returns 403. Program 9 text amendment P26-01326 confirmed on City Legistar (file ID 26-560, Planning Commission June 3, 2026). Mirror-only source for the code text does not support verified.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Reedley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "needs_confirmation",
+      "program_name": "Reedley Impact Fee Reduction Incentive Program (Resolutions 2019-009 and 2022-060) and affordable housing fee deferrals (Housing Element Programs 7 and 17)",
+      "administering_agency": "City of Reedley Community Development Department and City Council",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Location-based reduction of development impact fees under the Impact Fee Reduction Incentive Program (Resolution 2022-060): Infill Area fees 25% below Expansion Area and City Center fees 50% below. 2022 multifamily impact fees per unit: $17,569 Expansion Area, $13,177 Infill Area, $8,785 City Center. Regional Transportation Mitigation fee is reduced for affordable units ($821 per affordable multifamily unit). Development impact fee deferral program (approved May 26, 2015): applicant pays a nonrefundable 20% of impact fees at building permit application and the remaining 80% before final inspection. Housing Element Program 7 also commits to continued fee reductions and deferrals for affordable and special-needs projects and lists reduced water and wastewater connection fees as a flexible standard.",
+      "per_unit_cap": "Equal to the reduction; City Center saves about $8,785 per multifamily unit versus Expansion Area.",
+      "affordability_requirement": "Area-based reduction has no affordability requirement; deferrals and further reductions are for lower-income and special-needs projects (details not codified).",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Housing Element Program 17 called for a fee review with multifamily developers by December 2024 and a revised fee schedule by December 2025; outcome not confirmed.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Source is the City's adopted 2023-2031 Housing Element (Appendix 1L, adopted April 9, 2024, found in substantial compliance by HCD April 24, 2024), not the resolutions themselves. reedley.ca.gov could not be opened (TLS handshake failure), so the current fee schedule and any 2025 fee update were not verified. City Center sites stack the 50% fee reduction with State density bonus and County HOME/PLHA (Urban County) and Fresno Housing PBVs.",
+      "source_url": "https://fresnomjhe.com/wp-content/uploads/2024/10/1L-Reedley-2023-2031-Housing-Element-April-2024.pdf",
+      "record_id": "a05dc339cf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Housing Element Appendix 1L supports the area reductions, 2022 fee amounts, the 2015 deferral terms and Resolution 2022-060; it does not mention Resolution 2019-009. reedley.ca.gov failed TLS handshake on 2026-11-08 so the current fee schedule and any December 2025 fee revision under Program 17 could not be checked. Prevailing wage: Labor Code 1720(b)(4) treats reduced or waived fees as public funds, but leginfo returned 403 and no City or DIR rule on these fee programs was read, so the trigger stays unclear.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sanger",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "needs_confirmation",
+      "program_name": "Sanger affordable housing impact fee deferrals and reductions (Housing Element Programs 7, 15 and 19)",
+      "administering_agency": "City of Sanger Community Development Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Case-by-case deferral or reduction of City development impact and permit fees for affordable, special-needs and farmworker projects, with priority processing on large sites. Baseline City impact fees (2021): about $18,600 per 1,000 sq ft multifamily unit (sewer $2,724, treatment $5,780, collection $1,356, water $1,397, storm drain $2,290, traffic $1,592, recreation $631, police $1,230, fire $1,270, solid waste $330), plus Sanger Unified school fee $4.79 per sq ft.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Lower-income, special-needs or farmworker housing; terms negotiated per project (not codified).",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Program 19 called for meeting multifamily developers by December 2024 and revising fees by December 2025; Program 15 incentives for large sites by mid-2025. Outcomes not confirmed.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Source is the City's 2023-2031 Housing Element (Appendix 1N, adopted September 5, 2024, found in substantial compliance by HCD October 4, 2024), not a fee resolution. ci.sanger.ca.us opened but no fee deferral policy page or council resolution was found; confirm terms with the Community Development Department. Sanger's prior cycle reports deferrals evaluated case by case (for example Unity Estates expansion).",
+      "source_url": "https://fresnomjhe.com/wp-content/uploads/2024/10/1N-Sanger-2023-2031-Housing-Element-August-2024.pdf",
+      "record_id": "6ab149b9a8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Housing Element Appendix 1N supports Programs 7, 15 and 19 (case-by-case fee reductions and deferrals, priority processing and fee deferral on large sites for low-income, special-needs or farmworker housing) and the 2021 fee table ($18,600 per 1,000 sq ft multifamily unit, Sanger Unified $4.79 per sq ft). The only fee document on ci.sanger.ca.us (DocumentCenter/View/87, Impact and Improvement Fees) is a scanned 2008 file, and no current fee resolution or deferral policy was found, so outcomes of the December 2025 fee revision and the June 2025 large-site incentives are unconfirmed. Prevailing wage: no City or DIR rule addressing these deferrals was read (leginfo Labor Code 1720 returned 403), so the trigger stays unclear.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

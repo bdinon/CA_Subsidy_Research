@@ -1,0 +1,77 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "State CDBG, CDBG-DR and CDBG-CV grants administered by the County (program income and housing pass-throughs)",
+      "administering_agency": "Mendocino County Executive Office, Grants Division",
+      "funding_type": "grant",
+      "typical_award_size": "Non-entitlement county applying to HCD: CDBG program income applications of $351,725 (July 29, 2025; Laytonville Healthy Start, Whale Gulch School projects) and $479,931 (November 4, 2025; County business loan program and Centro Negocio West Spanish-language microenterprise assistance); CDBG-CV 2 and 3 grant of $1,069,156 for Phase II of the Live Oak Apartments Homekey conversion (closed out September 9, 2025); Disaster Recovery Multifamily Housing Program grant of $6,443,278 (awarded November 16, 2021) passed through to Acorn Valley Plaza in Ukiah (71 affordable units, completed 2025, with the City of Ukiah); CDBG-DR Infrastructure and Mitigation Resilient Infrastructure award of $17,317,474 for 911 and radio systems (February 3, 2026).",
+      "per_unit_cap": "State CDBG program limits.",
+      "affordability_requirement": "HUD national objective (low and moderate income benefit); multifamily pass-throughs carry 55-year affordability.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD state CDBG NOFAs run annually; the County allocates program income by Board resolution after public hearings (July and November 2025). A developer seeking a County-sponsored state CDBG or HOME housing application should approach the Grants Division before the hearing cycle.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. Acorn Valley Plaza shows the County will act as applicant for state multifamily disaster funds when a city partner and developer bring a project; otherwise CDBG money goes to microenterprise and public facilities. Source is the County CDBG page with the 2025 hearing notices and memos.",
+      "source_url": "https://www.mendocinocounty.gov/Business/Economic-Development/Community-Development-Block-Grant-CDBG",
+      "record_id": "d7fc063775",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental development through state disaster recovery programs (one-time)",
+        "housing rehabilitation and microenterprise programs",
+        "public facilities"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "County-owned Homekey housing (Live Oak Apartments, Ukiah) and NPLH permanent supportive housing partnership",
+      "administering_agency": "Mendocino County Social Services (Live Oak Apartments) and Behavioral Health and Recovery Services (NPLH)",
+      "funding_type": "grant",
+      "typical_award_size": "Live Oak Apartments, 555 S. Orchard Avenue, Ukiah: 56-room hotel purchased by the County with Homekey funds (resolution September 22, 2020; purchase October 20, 2020), operated as interim and permanent housing for homeless households; CDBG-CV $1,069,156 funded Phase II improvements; Rural Communities Housing Development Corporation manages the property under a $300,000-a-year agreement for July 1, 2025 to June 30, 2028 ($900,000), with the County selecting tenants. NPLH: Behavioral Health signed an MOU with Redwood Community Services (June 24, 2025, through June 30, 2045) to develop and manage a No Place Like Home supportive housing project with 20-year NPLH permanent loans.",
+      "per_unit_cap": "Homekey and NPLH per-unit limits set by HCD.",
+      "affordability_requirement": "Homeless and at-risk households (Homekey) and NPLH target population with serious mental illness; long-term regulatory agreements.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Homekey+ is open at HCD over the counter; the County has acted as owner-applicant (Live Oak) and as services partner (NPLH). A developer seeking County sponsorship should approach Behavioral Health and Recovery Services and Social Services with a site.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. The County's capital role is as a state-grant applicant and owner rather than lender; no Homekey+ application by the County was found in 2025-2026 agendas. Sources are the June 24, 2025 Board items for the Live Oak property management agreement and the NPLH MOU (Legistar web API client 'mendocino', matters 13718 and 13700).",
+      "source_url": "https://webapi.legistar.com/v1/mendocino/Matters/13718",
+      "record_id": "d441a37715",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "motel conversions to interim and permanent housing",
+        "NPLH permanent supportive housing with County services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

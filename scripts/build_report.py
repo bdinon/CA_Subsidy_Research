@@ -33,10 +33,16 @@ COLUMN_ORDER = [
     "affordability_requirement",
     "eligible_project_types",
     "application_cycle",
+    "cycle_notes",
+    "next_deadline_date",
     "next_deadline",
+    "deadline_check",
     "prevailing_wage_trigger",
     "layering_notes",
     "confidence",
+    "link_status",
+    "last_audited",
+    "audit_note",
     "source_url",
     "date_researched",
 ]
@@ -53,7 +59,13 @@ HEADER_LABELS = {
     "affordability_requirement": "AMI Requirement",
     "eligible_project_types": "Eligible Project Types",
     "application_cycle": "Application Cycle",
-    "next_deadline": "Next Deadline",
+    "cycle_notes": "Cycle Notes",
+    "next_deadline_date": "Next Deadline Date",
+    "next_deadline": "Next Deadline (text)",
+    "deadline_check": "Deadline Check",
+    "link_status": "Link Status",
+    "last_audited": "Last Audited",
+    "audit_note": "Audit Note",
     "prevailing_wage_trigger": "Prevailing Wage?",
     "layering_notes": "Layering Notes",
     "confidence": "Confidence",
@@ -108,6 +120,31 @@ def build_xlsx(programs):
                 sheet_name = level.capitalize() + " Level"
                 sub.to_excel(writer, sheet_name=sheet_name[:31], index=False)
 
+        # Subsidy sources only (excludes requirements, designations, negative findings)
+        money = {"tax credit", "bond", "grant", "loan", "rental assistance", "land",
+                 "tax abatement", "fee waiver"}
+        src = df[df["Funding Type"].isin(money)]
+        if not src.empty:
+            src.to_excel(writer, sheet_name="Funding Sources Only", index=False)
+
+        # Upcoming deadlines, next 120 days
+        dl = df[(df["Deadline Check"] == "future_date") & (df["Next Deadline Date"] != "")].copy()
+        if not dl.empty:
+            dl["_d"] = pd.to_datetime(dl["Next Deadline Date"], errors="coerce")
+            cutoff = pd.Timestamp(date.today()) + pd.Timedelta(days=120)
+            dl = dl[(dl["_d"] >= pd.Timestamp(date.today())) & (dl["_d"] <= cutoff)]
+            dl = dl.sort_values("_d").drop(columns="_d")
+            if not dl.empty:
+                dl.to_excel(writer, sheet_name="Deadlines 120d", index=False)
+
+        nc = df[df["Confidence"] == "needs_confirmation"]
+        if not nc.empty:
+            nc.to_excel(writer, sheet_name="Needs Confirmation", index=False)
+
+        summ = (df.groupby(["County", "Funding Type"]).size().unstack(fill_value=0))
+        summ["Total"] = summ.sum(axis=1)
+        summ.to_excel(writer, sheet_name="Summary by County")
+
     _format_workbook(xlsx_path)
     return xlsx_path
 
@@ -123,7 +160,9 @@ def _format_workbook(xlsx_path):
         "Program": 28, "Level": 10, "Jurisdiction": 20, "County": 16,
         "Administering Agency": 26, "Funding Type": 16, "Typical Award": 20,
         "Per-Unit Cap": 16, "AMI Requirement": 22, "Eligible Project Types": 24,
-        "Application Cycle": 16, "Next Deadline": 16, "Prevailing Wage?": 14,
+        "Application Cycle": 16, "Cycle Notes": 34, "Next Deadline Date": 14,
+        "Next Deadline (text)": 34, "Deadline Check": 14, "Link Status": 12,
+        "Last Audited": 14, "Audit Note": 30, "Prevailing Wage?": 14,
         "Layering Notes": 40, "Confidence": 16, "Source": 30, "Last Researched": 14,
     }
 

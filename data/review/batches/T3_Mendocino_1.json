@@ -1,0 +1,40 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "County surplus land inventory and exempt surplus declarations (Surplus Land Act)",
+      "administering_agency": "Mendocino County Executive Office (Darcie Antle, CEO; Steve Dunnicliff)",
+      "funding_type": "land",
+      "typical_award_size": "On December 16, 2025 the Board approved the annual Surplus Land Act inventory and five resolutions declaring parcels surplus or exempt surplus: the Covelo Community Services District office (23950 Grange Street, Covelo; redeclared exempt surplus January 20, 2026), the Boonville Veterans Memorial Building (14470 Highway 128), an Anchor Bay parcel, 120 W. Fir Street and a small vacant parcel. The inventory is published in the Housing Element APR (Table H) as the County's list of land available to housing developers.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Surplus Land Act: 25% lower income units for 55 years if a housing developer acquires non-exempt surplus land.",
+      "eligible_project_types": [
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Watch HCD's surplus land notices and the County's annual December inventory; most 2025 parcels are small civic buildings rather than housing sites.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. Recorded because the HHAP-6 regional plan points developers to the APR Table H list; no County land has been offered for affordable housing in 2025-2026. Source is the December 16, 2025 Board item (Legistar web API matter 14211).",
+      "source_url": "https://webapi.legistar.com/v1/mendocino/Matters/14211",
+      "record_id": "7c5bfdd3a9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "small rural sites for affordable or farmworker housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program rule found. Labor Code 1720(b)(3) treats a public agency's transfer of an asset for less than fair market price as payment out of public funds, so a discounted sale of surplus land can trigger prevailing wage unless a 1720(c) exemption applies; Gov. Code 54233 is silent on wages. Outcome depends on sale price and project facts (https://california.public.law/codes/labor_code_section_1720).",
+      "audit_note": "Tier 4 spot check 2026-11-08: Board item 25-1070 (Resolutions 25-200 to 25-204, adopted December 16, 2025) matches the parcel list; only 120 W. Fir St. is non-exempt surplus. The staff item itself does not mention approving an annual inventory. Prevailing wage changed from false (uncited) to unclear per Labor Code 1720(b)(3). Affordability note: 25% lower income applies to housing sponsors seeking SLA priority (Gov. Code 54222.5); if no agreement is reached and 10+ units are built, Gov. Code 54233 requires at least 15% lower income for 55 years rental or 45 years ownership.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

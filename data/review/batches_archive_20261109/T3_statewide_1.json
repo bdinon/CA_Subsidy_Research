@@ -1,0 +1,123 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "CalHFA Tax-Exempt Permanent Loan Program",
+      "administering_agency": "California Housing Finance Agency (CalHFA)",
+      "funding_type": "loan",
+      "typical_award_size": "Minimum $5M permanent loan; sized to 1.15x DSCR (max 1.20x year 1 when paired with a CalHFA subsidy loan), lesser of 90% of restricted appraised value or 100% of development cost; combined LTV up to 120% with CalHFA subordinate debt. Rate: 15- or 30-year AAA MMD plus CalHFA spread (estimated 2.20% to 3.75%). Up to 40-year amortization; fully amortizing or 17- or 30-year balloon. Fees: $10,000 application, 1.50% funding fee, $7,500 annual monitoring. HUD/FHA Risk Share credit enhancement.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Greater of existing restrictions or 20% at 50% AMI or 40% at 60% AMI (with 10% at 50% AMI); rents at least 10% below market.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; CalHFA publishes application milestones keyed to each CDLAC round (2026: borrower submittals due Jan 13, April 28, Aug 18 for conduit-only; MIP workbook March 2).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "CalHFA must be the bond issuer when it provides the perm loan. Works with or without 4% credits. Required first lien for MIP projects. All other soft financing must be subordinate and coterminous. Term sheet last revised January 2026.",
+      "source_url": "https://www.calhfa.ca.gov/multifamily/programs/forms/termsheet-perm-tax-exempt.pdf",
+      "record_id": "73d3b9b5d1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "CalHFA Conduit Issuer Program",
+      "administering_agency": "California Housing Finance Agency (CalHFA)",
+      "funding_type": "bond",
+      "typical_award_size": "Bond amount set by the lender's loan. Issuer fee: greater of $15,000 or 18.75 bps up to $20M, then $37,500 plus 5 bps above $20M. Annual monitoring 5 bps (minimum $4,000). $5,000 application fee. CDLAC allocation fee 0.035% and 0.50% performance deposit (max $100,000) pass through.",
+      "per_unit_cap": null,
+      "affordability_requirement": "20% at 50% AMI or 40% at 60% AMI (with 10% at 50% AMI); 501(c)(3) bonds require 75% of units at or below 80% AMI. Regulatory agreement for the longer of the qualified project period, bond term, CDLAC resolution term or 55 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; tied to CDLAC rounds (2026 CalHFA conduit-only submittal deadlines Jan 13, April 28, Aug 18).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Statewide alternative to local issuers (CSCDA, CMFA, housing authorities). Mandatory for MIP projects and for CalHFA perm loan projects. Can issue recycled bonds and 501(c)(3) bonds. Term sheet effective for applications after Jan 1, 2023 (last revised Feb 2023).",
+      "source_url": "https://www.calhfa.ca.gov/multifamily/programs/forms/termsheet-conduit.pdf",
+      "record_id": "6f4e8deae7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "CalHFA Bond Recycling Program",
+      "administering_agency": "California Housing Finance Agency (CalHFA)",
+      "funding_type": "bond",
+      "typical_award_size": "Recycled volume cap subject to availability. For 100% affordable projects, recycled bonds may fund up to 45% of total development cost with CDLAC allocation for the remaining 55%; refinance or market-to-affordable conversions up to 100%; 80/20 projects up to 80%. $25,000 transaction fee plus conduit fees.",
+      "per_unit_cap": null,
+      "affordability_requirement": "20% at 50% AMI or 40% at 60% AMI (with 10% at 50% AMI); 80/20 structure requires 20% of units at or below 60% AMI. Affordability generally 55 years from closing.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling, subject to recycled cap availability.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Recycled bonds cannot generate 4% LIHTC and are excluded from the aggregate basis test, so they reduce the CDLAC allocation a project needs while the CDLAC-allocated portion still generates credits. Must be drawn within 180 days of preservation and issued within four years of the original bonds. Useful for preservation and 80/20 deals that cannot win competitive CDLAC pools. Term sheet last revised April 2022.",
+      "source_url": "https://www.calhfa.ca.gov/multifamily/programs/forms/termsheet-bondrecycling.pdf",
+      "record_id": "b45e7fba16",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

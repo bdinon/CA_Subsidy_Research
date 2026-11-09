@@ -1,0 +1,300 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "HOME, CDBG and ESG, Orange County Urban County program",
+      "administering_agency": "OC Housing and Community Development, Community Development Division; Craig Fee, Community Development Manager, 714-480-2996",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27 Annual Action Plan: CDBG $3,467,220 annual allocation plus $20,000 program income and $806,834 prior-year resources ($4,294,054 available); HOME $1,244,582.84 plus $135,000 program income; ESG $302,608. Five-year ConPlan FY 2025-29 expects about $12,900,000 CDBG and $4,100,000 HOME over the remaining years. HOME housing development dollars are awarded only through the Supportive Housing NOFA; CDBG goes mainly to public facilities, public services and housing rehabilitation through the annual Request for Applications (generally due in November under the Funding Allocation Policy and Process).",
+      "per_unit_cap": "HOME subsidy limits per 24 CFR 92.250 apply through the NOFA.",
+      "affordability_requirement": "HUD income limits (80% AMI, HOME rents); the County's NOFA restricts HOME-assisted PSH units to 30% AMI for 55 years. CDBG new construction only by a CBDO.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2027-28 Funding Allocation Policy and Process posted Oct 2026; the RFA for CDBG, ESG and HOME public service and facility projects is generally due in November with the Action Plan draft out for 30-day comment in March and Board adoption in spring. Housing development applicants should use the Supportive Housing NOFA instead.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small program for a county of 3.2 million because most cities are their own entitlements. Urban County members: unincorporated area plus Brea, Cypress, Dana Point, Laguna Beach, Laguna Hills, Laguna Woods, La Palma, Los Alamitos, San Juan Capistrano, Seal Beach, Stanton, Villa Park and the metro cities Placentia and Yorba Linda; Anaheim, Santa Ana, Irvine, Garden Grove, Huntington Beach and 15 other cities run their own CDBG and HOME (Pass 3). The County is not the HOPWA grantee. The County's HOME-ARP allocation was folded into the Supportive Housing NOFA rather than offered separately. Davis-Bacon and state prevailing wage apply. Pages and the FY 2026-27 Action Plan PDF opened on housing.oc.gov.",
+      "source_url": "https://housing.oc.gov/community-development",
+      "record_id": "53b9c5820f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "acquisition-rehab",
+        "public facilities",
+        "homeowner rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Orange County Housing Authority (OCHA)",
+      "administering_agency": "Orange County Housing Authority (OC Community Resources), 1501 E. St. Andrew Place, Santa Ana, 714-480-2700; PBV requests through OC Housing and Community Development NOFA staff",
+      "funding_type": "rental assistance",
+      "typical_award_size": "26 PBV projects listed on the OCHA site total 693 PBV units (for example Stanton Inn 71, Oasis Huntington Beach 62, Tahiti 59, Ascent 57, Avon River 48, Casa Paloma 48, Crossroads at Washington 43, Salida Del Sol 40). The 2026 Supportive Housing NOFA offers up to 100 Housing Choice, Mainstream or VASH PBVs (150 under the 2025 NOFA; 218 under the 2023 NOFA Amendment 1). Pipeline as of Feb 2026: Cartwright Irvine (8 PBV, 60 units, May 2026), Avon River Costa Mesa (14 PBV plus 10 VASH, 78 units), Orion Orange (3 PBV, 166 units), Lincoln Avenue Buena Park (13 PBV, 55 units, Nov 2026), Casa Colibri Midway City (30 PBV, 71 units, Dec 2026). Total OCHA voucher count was not confirmed from an opened document.",
+      "per_unit_cap": "HUD limits: 20% of authorized vouchers plus 10% for homeless, veteran, supportive services, low-poverty or FUP/FYI units; project cap 25% of units (no cap for supportive housing and elderly units). Rents at the lower of reasonable rent or 110% of FMR with OCHA utility allowances.",
+      "affordability_requirement": "Extremely low income households experiencing homelessness referred through the Coordinated Entry System; VASH units need VA eligibility; many projects are senior (62 plus) or MHSA/NPLH restricted. Tenants pay 30% of income. HAP contracts up to 20 years with a 20-year extension option.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request PBVs through the open 2026 Supportive Housing NOFA (OpenGov 2026-01); PBVs are available only for sites in OCHA jurisdiction (the county except Anaheim, Santa Ana and Garden Grove, which run their own authorities) and may be limited by federal funding changes. OCHA posts PBV waitlist openings per project; the 2027 payment standards were posted Nov 2026.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "OCHA PBVs are the standard operating subsidy for Orange County PSH and are awarded with or without County capital under the same NOFA; the 2026 NOFA lets the County claim part of the NOI the PBVs create for services. A HAP contract is not a prevailing wage trigger but Davis-Bacon applies to new construction or rehab of nine or more PBV units, and PBVs bring NEPA and a HUD subsidy layering review. Four PHAs operate in the county (OCHA, Anaheim, Santa Ana, Garden Grove); their PBV pipelines are tracked by the CoC Housing Opportunities Committee. OCHA is not a Moving to Work agency. Sources opened: OCHA project-based page, 2026 NOFA Section III, Feb 11, 2026 Housing Opportunities Committee slides.",
+      "source_url": "https://housingauthority.oc.gov/project-based-0",
+      "record_id": "391d9f2bd7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab",
+        "existing housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Orange County Urban County entitlement",
+      "administering_agency": "OC Housing and Community Development (HCD entitlement grantee for the Urban County)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD 2024-2028 Formula Allocation NOFA: Orange County CY 2024 $892,973, CY 2025 $956,505, five-year estimate $5,581,081. The County's PLHA Five-Year Plan (2020) directs 88.55% of each year's allocation to homeless activities under PLHA 301(a)(6): 45.55% to the Buena Park and Placentia navigation centers through a North SPA collaborative treasured by the City of La Habra, 32.79% to the Yale Transitional Center in Santa Ana for the unincorporated area, 3.54% to the Laguna Beach Alternative Sleeping Location and 6.67% to Dana Point outreach and rapid rehousing; the remaining 11.45% is for rental housing development under 301(a)(1).",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA statute: rental development for households at or below 80% AMI (120% workforce allowed) with 55-year covenants; the County plan's development share has not been offered through a developer NOFA.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD formula allocations arrive annually; no County PLHA NOFA to developers exists. Ask OCHCD whether the plan was amended for the state's 2024 requirement that 40% of new PLHA fund owner-occupied workforce housing, and whether the 11.45% development share is folded into the Supportive Housing NOFA.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Not a capital source in practice: under $1,000,000 a year and almost all of it pays for shelter and navigation center operations. Anaheim, Santa Ana, Irvine and other entitlement cities receive their own PLHA (Pass 3). Plan PDF and community development page opened on housing.oc.gov; amounts from the HCD 2024-2028 PLHA NOFA.",
+      "source_url": "https://housing.oc.gov/community-development",
+      "record_id": "050d1bde90",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "interim housing",
+        "supportive housing",
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Ana",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Development RFP No. 26-004A (Inclusionary Housing Fund, HOME, HOME-ARP and Housing Successor Agency loans)",
+      "administering_agency": "City of Santa Ana Community Development Agency, Housing Division, 20 Civic Center Plaza M-26, (714) 667-2250; bid contact Jacques Lam, JLam@santa-ana.org; solicitation on PlanetBids portal 20137",
+      "funding_type": "loan",
+      "typical_award_size": "Open RFP issued May 1, 2026 with $17,507,926 available: Inclusionary Housing Funds $2,628,194, HOME $11,533,196, HOME-ARP $715,622 (permanent supportive housing only), Housing Successor Agency Funds $2,630,914, plus Housing Authority project-based vouchers and Housing Successor land. Available funds are republished each quarter in the Housing Division Quarterly Report and added to the RFP by addendum. Recent City awards: Crossroads at Washington $4,600,000 plus 15 PBVs (86 units), WISEPlace $5,200,000 plus 25 PBVs (48 units), Estrella Springs $1,600,000 plus 89 PBVs (89 units), Wellington $920,000 (9 ownership units, approved July 1, 2025), Richard Lehn Intergenerational Housing $2,021,319 HHAP plus 8 PBVs (11 units).",
+      "per_unit_cap": "None fixed for local funds; HOME subsidy is limited to the HUD maximum per-unit subsidy limits and the City's Affordable Housing Funds Policies and Procedures (amended Aug 18, 2020) cap by-right applications at the HUD per-unit limits.",
+      "affordability_requirement": "At least 55-year covenants; Inclusionary and Housing Successor funds serve moderate (120% AMI), low, very low and extremely low income households and may fund mixed-income and mixed-use projects; HOME units at High and Low HOME rents with 20% of HOME-assisted units at 50% AMI in projects of five or more HOME units; HOME-ARP units are permanent supportive housing only. Priority points for substantial rehabilitation and adaptive reuse (motel and office conversions), homeownership, and by-right or shovel-ready projects.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership",
+        "interim housing",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Quarterly proposal deadlines: January 11, 2027 and May 3, 2027 at 4:00 p.m. (July 1 and October 1, 2026 rounds have passed); question deadlines November 30, 2026 and April 5, 2027. The City's stated objective is to issue one affordable housing RFP per year and finance at least one multifamily project per year.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Santa Ana is the deepest city pool in Orange County: about $17,500,000 in one RFP, mostly HOME, with loans at 3% simple interest, 55-year term, repaid from 50% of residual receipts, TCAC developer fee limits and a Review Panel scoring process under the 2020 Affordable Housing Funds Policies and Procedures (opened). City-funded projects must comply with the Community Workforce Agreement (30% of craft hours from Santa Ana and Orange County ZIP codes, union hiring halls) and state prevailing wage; Davis-Bacon applies to HOME projects of 12 or more assisted units. Stack with County 2026 Supportive Housing NOFA loans and OCHA or SAHA PBVs, OCHFT gap loans (WISEPlace took $2,500,000 OCHFT MHSA plus $1,500,000 County ARPA) and 4% or 9% credits. The County NOFA pays $95,000 to $105,000 per unit inside Santa Ana, so the City loan is normally the larger local layer. RFP PDF, RFP page, policies PDF and FY 2025-26 Q4 quarterly report opened on santa-ana.gov and its Google Cloud document store.",
+      "source_url": "https://storage.googleapis.com/proudcity/santaanaca/2026/05/8841f39e-rfp-26-004a-affordable-housing-development_final.pdf",
+      "record_id": "e323261aa8",
+      "cycle_notes": "quarterly deadlines under a one-year open RFP",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adaptive reuse",
+        "motel conversion",
+        "supportive housing",
+        "affordable ownership",
+        "limited-equity cooperatives"
+      ],
+      "next_deadline_date": "2026-11-30",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Ana",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Low and Moderate Income Housing Asset Fund (Housing Authority of the City of Santa Ana as Housing Successor to the Santa Ana Community Redevelopment Agency)",
+      "administering_agency": "Housing Authority of the City of Santa Ana as Housing Successor, staffed by the Community Development Agency Housing Division",
+      "funding_type": "loan",
+      "typical_award_size": "LMIHAF ending balance $4,134,871 at June 30, 2025 (FY 2024-25 SB 341 report); $305,772 deposited and $0 spent on development that year. $2,630,914 of Housing Successor funds are in RFP 26-004A. Past commitments: $6,195,000 in 2016 for 69 units and $13,222,740 in 2017 for 118 units. The Housing Successor also ground-leases former RDA sites for 65 to 99 years: 1126 and 1146 Washington (Crossroads at Washington, 86 units, completed October 2024), 801-809 E. Santa Ana Blvd (FX Residences, 16 to 17 PSH units, completed April 2025), 826 N. Lacy (two Habitat homes, 2023). The City and Housing Successor loan portfolio totals $155,432,612 in 344 loans (325 deferred or residual receipts).",
+      "per_unit_cap": "Subject to the HUD per-unit limits adopted in the City's Affordable Housing Funds Policies for by-right requests; otherwise sized by gap analysis.",
+      "affordability_requirement": "Low and moderate income (up to 120% AMI) under Health and Safety Code 34176.1; at least 30% of expenditures over each five-year period must serve households at or below 30% AMI (extremely low income test reported for July 2020 to June 2025); senior housing limited to 50% of assisted units over 10 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Next RFP quarterly deadline January 11, 2027; land assets are offered when the Housing Authority issues site-specific RFPs.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small compared with the County's $29,000,000 LMIHAF but flexible: no federal strings, can serve moderate income and mixed-use, and the Housing Authority's land is the real asset (Crossroads and FX Residences were built on 65- and 99-year ground leases). Pair with HOME in the same RFP, SAHA PBVs, County MHSA/BHSA capital and OCHFT. Public funds trigger state prevailing wage and the City's Community Workforce Agreement. FY 2024-25 Housing Successor Annual Report PDF and the Successor Agency page opened on santa-ana.gov.",
+      "source_url": "https://storage.googleapis.com/proudcity/santaanaca/2026/02/f9299188-fy-2024-2025-housing-successor-annual-report.pdf",
+      "record_id": "fb9539f944",
+      "cycle_notes": "offered through the annual Affordable Housing Development RFP",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "affordable ownership",
+        "ground lease of city-owned sites"
+      ],
+      "next_deadline_date": "2027-01-11",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Ana",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "HOME Investment Partnerships, CDBG and ESG entitlement (FY 2025-2029 Consolidated Plan)",
+      "administering_agency": "City of Santa Ana Community Development Agency, Housing Division (HOME Participating Jurisdiction since 1994)",
+      "funding_type": "grant",
+      "typical_award_size": "Five-year Consolidated Plan FY 2025-2029 anticipates $41,700,000: CDBG $30,123,118, HOME $9,093,495, ESG $2,504,870. HOME development funds are deployed as loans through the Affordable Housing Development RFP ($11,533,196 of HOME and $715,622 of HOME-ARP available in RFP 26-004A), with 15% of each annual HOME allocation reserved for certified CHDOs. CDBG funds public services, infrastructure, the Residential Rehabilitation Program (grants up to $25,000, closed in Q4 FY 2025-26 when funds ran out) and shelter; HOME also funds the My First Home mortgage assistance program.",
+      "per_unit_cap": "HOME: HUD maximum per-unit subsidy limits; affordability period 5, 10 or 15 years for rental assistance under $25,000, $25,000 to $50,000, and over $50,000 per unit (20 years for new construction), but the City records 55-year covenants on its loans.",
+      "affordability_requirement": "HOME rental units at or below 80% AMI at High and Low HOME rents, 20% of HOME-assisted units at 50% AMI in projects of five or more HOME units; CDBG national objective benefit to low and moderate income persons.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Annual Action Plan adopted each spring for the July 1 program year; developer requests go through the Affordable Housing Development RFP quarterly deadlines (next January 11, 2027). Public service and CDBG applications are solicited in the winter before the Action Plan.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Santa Ana's HOME grant (about $1,800,000 a year) is larger than the County Urban County HOME grant ($1,244,583) and the City lends most of it to multifamily deals rather than TBRA, which is why HOME is the largest line in the RFP. Davis-Bacon applies at 12 or more HOME-assisted units; HOME brings NEPA, Section 3 and a HUD subsidy layering review. HOME-ARP is limited to permanent supportive housing. Santa Ana is outside the County Urban County program, so County HOME is not available inside the city. Consolidated Plan page, CDBG page, HOME page and Grants page opened on santa-ana.gov; RFP PDF supplies the HOME terms.",
+      "source_url": "https://santa-ana.gov/con-plan/",
+      "record_id": "c5b437d4e2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "affordable ownership",
+        "tenant-based rental assistance"
+      ],
+      "next_deadline_date": "2027-01-11",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Anaheim",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Anaheim Local Housing Trust Fund (A-LHTF), Ordinance No. 6588; Program Guidelines and Funding Allocation Plan (adopted May 29, 2025, revised June 9, 2026)",
+      "administering_agency": "City of Anaheim Housing and Community Development Department, with transfers to the Anaheim Housing Authority by cooperation agreement; 201 S. Anaheim Blvd., Suite 201",
+      "funding_type": "loan",
+      "typical_award_size": "Initial Funding Allocation Plan of $16,000,000: Build More Homes Initiative $5,000,000 (includes $1,000,000 from a federal grant restricted to housing production), First-Time Homebuyer programs $5,000,000 ($50,000 downpayment loans), Housing Stability Program $1,000,000, administration $500,000 (3.12%), reserve $4,500,000. Build More Homes funds pay for site acquisition, site preparation (environmental, demolition, relocation) and gap financing, structured as loans at 4% simple interest repaid from a residual receipts split; A-LHTF money may not exceed 50% of total City investment in a project. Eligible deposits include General Fund, federal PRO Housing grant, state Local Housing Trust Fund matching grants, REAP 2.0 (gap financing for infill with at least 65% residential floor area in mixed-use), Development Agreement community benefit payments, philanthropy and in-lieu fees paid under the City's Affordable Housing Ordinance.",
+      "per_unit_cap": "None published; sized by financial analysis and capped at 50% of City investment per project.",
+      "affordability_requirement": "Affordability follows the leveraged source (LIHTC, HOME, PLHA); where none applies the City sets project-specific requirements, generally 55-year covenants. Target beneficiaries: workforce households, households experiencing homelessness, active older adults 55 and over, special needs (transition-age youth, persons with disabilities, persons with AIDS). Shelters, transitional housing and group homes are ineligible.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership",
+        "predevelopment",
+        "interim housing",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Each expenditure requires a separate Council action; the Funding Allocation Plan is updated in the annual budget cycle (next spring 2027). Approach Housing and Community Development with a site or gap request.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Anaheim's answer to losing $15,000,000 to $17,000,000 a year of redevelopment set-aside: the trust consolidates HOME (FY 2024 $1,314,088), PLHA (about $3,000,000 a year), REAP 2.0 and General Fund into one locally controlled pool, with City gap financing averaging about $6,000,000 per recent project (Finamore Place, Miraflores) before land. The 50% leverage rule means A-LHTF is a secondary layer behind HOME, PLHA, County MHSA/BHSA loans, OCHFT and Anaheim Housing Authority PBVs. The Guidelines are also the City's vehicle for state LHTF matching grants, so expect future rounds to be tied to HCD LHTF deadlines. Public funds trigger state prevailing wage; REAP 2.0 funds carry infill and reporting rules. Guidelines PDF opened via anaheim.gov DocumentCenter (anaheim.net links return 403).",
+      "source_url": "https://www.anaheim.gov/DocumentCenter/View/66427",
+      "record_id": "ec67d2dea0",
+      "cycle_notes": "project-by-project Council actions; annual Funding Allocation Plan in the City budget",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adaptive reuse",
+        "motel conversion",
+        "supportive housing",
+        "affordable ownership",
+        "site acquisition"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  }
+]

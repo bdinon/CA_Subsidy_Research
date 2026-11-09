@@ -1,0 +1,78 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Solano County Housing Trust Fund (SCHTF)",
+      "administering_agency": "Solano County Administrator's Office with the Department of Resource Management",
+      "funding_type": "loan",
+      "typical_award_size": "Capitalized with $2,000,000 ARPA (ordinance introduced Aug 2, 2022), $1,700,000 ARPA added Dec 12, 2023, and about $200,000 a year from the County's General Fund Community Investment Fund ($400,000 CIF in the fund by Oct 2024), for a total near $4,900,000. Awards through a 2023 Notice of Funding Availability: $3,200,000 loan to The Hampstead Companies for Prospera at Homestead in Dixon (107 units at or below 60% AMI plus manager unit, 17-year term at 3% interest, approved Jan 2024) and $93,000 grant to Solano-Napa Habitat for Humanity (three homes, Fairfield). Balance was $1,800,000 in Oct 2024 when staff proposed $1,500,000 for site work on a County-owned 1.3-acre parcel at 580 North 1st Street, Dixon (up to 18 modular workforce units at 80% AMI). Aug 2026 Board item proposed $400,000 loan to EAH Housing for Tabor Commons, Fairfield (67 units, 20% to 50% AMI, 16 IDD units) so EAH could keep its tax credit award, plus $200,000 to Habitat for Harmony Village, Vacaville.",
+      "per_unit_cap": "None published. Prospera loan equals about $30,000 per unit.",
+      "affordability_requirement": "Very low to moderate income households; Prospera restricted to 60% AMI, County workforce site to 80% AMI. Loan payments recycle into the fund.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA open as of Nov 2026. The County's housing page says future funding opportunities will be announced; recent awards came from developer requests taken to the Board (Aug 4, 2026 meeting for Tabor Commons). ARPA dollars had to be obligated by Dec 31, 2024 and spent by Dec 31, 2026, so remaining capital is CIF money and loan repayments.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Solano's only county gap source and a small one. It is used as the last dollars in a 9% deal (Tabor Commons) or as a larger patient loan where the County wants RHNA-credited units in Dixon. ARPA-funded loans carry federal and state public funds rules, so prevailing wage applies. The County also pushed ARPA housing money through cities before the fund existed: $4,500,000 gap financing via the City of Fairfield for an EAH deeply affordable project (2022), $215,000 for Habitat homes in Fairfield, and $200,000 to MidPen for Sunset Pines acquisition (2021). A separate $2,000,000 ARPA ADU effort put $1,700,000 into the SCHTF and $300,000 into the North Bay ADU Center. Program documents (NOFA, guidelines) were on the County ARPA RFP page, which now returns 404; the Board reports on solano.legistar.com are the live record.",
+      "source_url": "https://solano.legistar.com/LegislationDetail.aspx?From=RSS&ID=6875909&GUID=E83CDBDF-BE38-44EB-83D5-592A2F6BC9CC&FullText=1",
+      "record_id": "a5f7c96408",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Public facilities fee waiver or deferral for affordable housing (none adopted, Solano County)",
+      "administering_agency": "Solano County Department of Resource Management (County Code Chapter 11, Article X public facilities fees)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "None. In Jan 2024 The Hampstead Companies asked the Board to waive $672,829 in public facilities fees for Prospera at Homestead, which would have cut the Housing Trust Fund loan to $2,500,000; the Board did not act and funded the full $3,200,000 loan instead.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No waiver or deferral program exists; requests are handled case by case through the Board.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding. Budget the County's public facilities fees in full for unincorporated and Dixon deals and ask for a Housing Trust Fund loan instead. If a waiver were granted it would count as public funds under Labor Code 1720(b)(4). City fee waivers and deferrals are Pass 3.",
+      "source_url": "https://www.dailyrepublic.com/townnews/outdoors/supervisors-loan-3-2m-for-dixon-housing-project-grant-habitat-93k-for-homes-project/article_d936c004-af09-11ee-be9f-f794a966670a.html",
+      "record_id": "64f2288530",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

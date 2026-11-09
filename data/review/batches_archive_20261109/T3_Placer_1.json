@@ -1,0 +1,160 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Housing Trust Placer (nonprofit housing trust seeded and funded by Placer County)",
+      "administering_agency": "Housing Trust Placer, Inc. (Robyn van Ekelenburg, CEO; robyn@housingtrustplacer.org); County contributions through the Economic Development and Housing Division",
+      "funding_type": "loan",
+      "typical_award_size": "Nonprofit trust formed in 2020 that provides gap financing, acquisition and fundraising; Placer County pledged $575,000 with its 2021 Housing Element and selected the trust to administer its First-Time Homebuyer and Workforce Housing Preservation down payment programs (2025). Projects: Parkside at Sabre City (44 homes each with an ADU, manufactured housing, County and HCD financing, leasing 2025-2026) and the Hope Way site at 3130 Penryn Road (240 units with USA Properties Fund). No published NOFA, loan amounts or terms for developers; financing is arranged deal by deal from public and private sources.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Set per project; Sabre City serves low income renters and the trust's homebuyer programs serve first-time and workforce buyers.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; approach the CEO directly. The County also approved $500,000 in 2025 for a new North Lake Tahoe housing trust (separate from Housing Trust Placer).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. Housing Trust Placer is the County's chosen intermediary for homebuyer programs and a co-developer or site holder for County-backed projects rather than a lender with a fund balance, so do not underwrite a trust loan without a conversation. It is useful as a nonprofit partner for the welfare exemption and for assembling County, SMUD, hospital and foundation gap money on western Placer projects. It qualifies as a Local Housing Trust Fund for HCD matching grants only if it meets the LHTF program's dedicated-revenue test, which was not confirmed.",
+      "source_url": "https://housingtrustplacer.org/",
+      "record_id": "5c582a6636",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Roseville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Roseville development impact fee deferral for affordable multifamily (Municipal Code Section 4.04.040, Ordinance 6830; Sierra Vista Apartments deferral, Resolution 26-336)",
+      "administering_agency": "City of Roseville Economic Development Department (Gina McColl, 916-774-5452) with the Finance Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral, not waiver: city-controlled impact fees are deferred from building permit to final or certificate of occupancy, with interest at the City's pooled rate (ten-year average about 2.23%) and an administrative processing fee per permit. Deferrals of $100,000 or more need Council approval. Example approved September 16, 2026: about $2,987,339 deferred for the 192-unit Sierra Vista Apartments (Greek Orthodox Housing Corporation, parcel JM-30, 4950 Upland Drive), covering fire construction tax, sewer and water connection, drainage, SVSP traffic mitigation, citywide and neighborhood parks, bike trail, public benefit and solid waste fees (about $373,000 per building). For a 100% affordable project (three or more units, all units low, very low or extremely low income, Affordable Housing Agreement under Section 19.28.110, objective design standards, secured promissory note) payment may be pushed up to one year after the first certificate of occupancy. The City's policy is not to waive fees; CSCDA SCIP fee financing is also offered.",
+      "per_unit_cap": "None; about $15,600 per unit deferred in the Sierra Vista example.",
+      "affordability_requirement": "Standard deferral is open to any multifamily project on request; the extended one-year post-occupancy deferral requires 100% of units (except managers) affordable to low, very low or extremely low income households under a recorded Affordable Housing Agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request through the Economic Development Department when fee estimates are prepared; a Council hearing under Government Code 53083 is required for deferrals of $100,000 or more.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Timing relief only; fees are still paid in full with interest, so it does not reduce basis but eases construction-period cash needs. Placer County Capital Facilities fees and traffic fees are not city-controlled and are not deferred; age-restricted projects get reduced traffic and County capital facilities rates. Roseville also made a $571,850 CDBG loan (September 4, 2024) to the same Sierra Vista sponsor for land purchase, showing how CDBG, fee deferral, the Regulatory Agreement and LIHTC stack on one project. Read from the September 16, 2026 City Council agenda packet via the CivicClerk API file stream.",
+      "source_url": "https://rosevilleca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11713,plainText=false)",
+      "record_id": "9accb06f94",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income multifamily",
+        "100% affordable multifamily"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rocklin",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Rocklin impact fee reduction of 40% for affordable units (Ordinance 1159, January 10, 2023) and SB 937 fee deferral program (Resolution adopted August 26, 2025)",
+      "administering_agency": "City of Rocklin City Manager's Office, Housing Division (Housing@rocklin.ca.us) and Community Development Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "40% reduction of City development impact fees for deed-restricted units at 60% AMI or lower, calculated unit by unit (adopted by Ordinance 1159 with the rate set by resolution the same night). Fee deferral: City park development, traffic, community and recreation center, construction tax, park improvement, public facilities and trails impact fees deferred from building permit to final inspection or certificate of occupancy, secured by a promissory note and deed of trust that may be subordinated to construction financing; since the August 26, 2025 SB 937 policy, deferral to final inspection applies to all designated residential projects without interest, and the AHIP deferral is aligned with it. Staff reported in September 2025 that no reductions or deferrals had yet been processed but estimates had been issued to developers for their financing packages.",
+      "per_unit_cap": "No cap; 40% of city impact fees on each qualifying unit.",
+      "affordability_requirement": "Fee reduction: units deed-restricted at 60% AMI or lower. AHIP fee deferral eligibility: at least 10% of units at affordable rents for very low income households or at least 49% of units affordable to low income households; fees become payable with interest penalties if the promised units are not delivered by certificate of occupancy.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Apply to Housing@rocklin.ca.us with a preliminary title report before building permit issuance; reductions must be requested before signing a deferral agreement. Municipal Code chapters on impact fees were slated for SB 937 clean-up at a future Council meeting (not confirmed adopted as of this pass).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "A real cost reduction (not just timing), unlike Roseville, which defers but does not waive. Combine with the $40,000 per unit Low/Mod loan (record above). Placer County Capital Facilities fees and school fees are outside the City program. Verified from the September 9, 2025 Council staff report and the City's fee deferral application form (rocklin.ca.gov/DocumentCenter/View/457).",
+      "source_url": "https://www.rocklin.ca.gov/DocumentCenter/View/457",
+      "record_id": "366e7c7977",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income multifamily",
+        "100% affordable multifamily"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Auburn",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Auburn 2021-2029 Housing Element Program A and Program I: case-by-case fee reductions or deferrals, alternative development standards and state CDBG and HOME applications for affordable housing (adopted May 24, 2021)",
+      "administering_agency": "City of Auburn Planning and Public Works Department, with participating nonprofit and for-profit housing providers",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Negotiated, not codified. Program A commits the City to consider fee reductions or deferrals sized to the financial need of each affordable development, to negotiate alternative standards (parking, street improvements, density, lot coverage), to apply for state-administered CDBG, HOME and other funds on behalf of affordable developers or support their applications, and to meet at least twice in the planning period with housing providers; Program I adds land write-downs, expedited processing, identification of impact fee reductions and incentives beyond the density bonus for extremely low income housing, with priority in high resource areas and the Baltimore Ravine Specific Plan. Track record: 2010 and 2014 state HOME grants for owner rehabilitation and first-time buyers (completed November 2017); the City did not apply for 2018 HOME funds due to staff turnover and no new award was found. No dollar amounts or fee schedule exist.",
+      "per_unit_cap": "None.",
+      "affordability_requirement": "Extremely low, very low, low and moderate income housing as defined in the Housing Element; terms set per project.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request during entitlement; Council action is needed for any fee reduction. Auburn is a non-entitlement city, so state CDBG and HOME NOFAs (HCD) are the vehicles, with the City as applicant or supporter; check HCD NOFA calendars and the City's annual NOFA review.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Because Auburn is non-entitlement, Placer County's PLHA and the County's in-lieu fee gap loans (county records) are the nearest local money; the County's Priority Applicant Policy (effective July 1, 2026) would apply to County-funded units. Fee deferral for residential projects is now mandated statewide by SB 937 (to final inspection), so the Housing Element's deferral promise mainly adds the possibility of a reduction. Verified from the adopted 2021 Housing Element PDF on auburn.ca.gov; no 2024 or 2025 Annual Progress Report could be located (CivicPlus Agenda Center and search pages are script-rendered).",
+      "source_url": "https://auburn.ca.gov/DocumentCenter/View/2270/AUBURN_Housing-Element-2021",
+      "record_id": "dcd0c22bb2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

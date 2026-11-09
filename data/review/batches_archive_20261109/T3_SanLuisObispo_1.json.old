@@ -1,0 +1,42 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Round 6 and 7 (County as CoC administrative entity)",
+      "administering_agency": "San Luis Obispo County Department of Social Services, Homeless Services Division (CoC CA-614 collaborative applicant)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 remainder of $1,386,379 offered in the 2027 Action Plan NOFA ($1,275,468.68 available after 7% admin and 1% HMIS; 10% youth set-aside $138,637.90). HSOC priorities (March 18, 2026): capital for permanent housing $100,000, permanent housing services $116,049, interim housing services $849,419, rapid rehousing $210,000. HCD HHAP-6 allocations: County $1,340,780.92 and CoC $1,431,977.08; HHAP-7 preliminary: County $1,576,336.64 and CoC $1,688,932.11. State ESG $190,735 also in the NOFA. County General Fund Support adds $379,000 a year for shelters and homeless programs.",
+      "per_unit_cap": "Capital for permanent housing limited to about $100,000 in the current round.",
+      "affordability_requirement": "People experiencing or at risk of homelessness; Housing First; at least 10% for youth.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 applications closed October 30, 2026 with awards April 2027; funds must be spent by May 31, 2029. HHAP-7 will be programmed through the 2028 Action Plan after state award.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. HHAP here is almost entirely services and interim housing; only $100,000 is set aside for permanent housing capital. Treat it as an operating or services source for PSH units (Welcome Home Village, 40 PSH and 14 interim units, is the County's flagship) rather than gap capital.",
+      "source_url": "https://www.slocounty.ca.gov/departments/social-services/forms-documents/homeless-services/funding-availability/2027/2027-action-plan-nofa",
+      "record_id": "2097b42dc0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing operating and services",
+        "interim housing operations",
+        "rapid rehousing and rental subsidies",
+        "capital for permanent housing (small)"
+      ],
+      "next_deadline_date": "2029-05-31",
+      "deadline_check": "future_date"
+    }
+  }
+]

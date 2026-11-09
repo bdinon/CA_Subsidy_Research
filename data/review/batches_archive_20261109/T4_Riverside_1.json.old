@@ -1,0 +1,75 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County formula allocation and PLHA development loans",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (HWS)",
+      "funding_type": "loan",
+      "typical_award_size": "HCD formula allocation to the County: $2,805,041 (2024 allocation year), $3,004,612 (2025), estimated $17,531,506 for the 2024-2028 five-year plan. Uses in 2026: PLHA loan of $500,000 to Arroyo Crossing Phase I, Indio (184 units; February 10, 2026), PLHA loans to Villa Verde Apartments, Coachella (March 3, 2026) and Palm Villas at State Phase I, Hemet (October 6, 2026), about $1.8 million for Shady Lane Mobile Home Park in Thermal, and a PLHA down payment program (up to $100,000 or 20% of price, combinable with HOME to $200,000, households to 120% AMI).",
+      "per_unit_cap": "Not published; PLHA loans have been $500,000 per project.",
+      "affordability_requirement": "Arroyo Crossing terms: 49% of non-manager units (89) restricted to very low and low income with at least 20% of PLHA units (17) at very low income, 55-year covenant to at least July 1, 2080, 3% simple interest, annual payments from 25% of residual receipts shared with other public lenders.",
+      "eligible_project_types": [
+        "new construction",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standing PLHA NOFA; HWS commits PLHA to projects in the HACR PBV pipeline by Board action. Contact HWS Community and Housing Development.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. PLHA is the County's most flexible recurring source but is spread thin across homebuyer assistance, mobile home parks and $500,000 loans to tax credit deals; it is typically the smallest piece of a stack led by 4% credits, HACR PBVs and a HOME or HOME-ARP loan. Source is the Arroyo Crossing PLHA loan Board file (loan agreement FileOpen ID 85874); allocation figures from the HCD 2024-2028 PLHA NOFA tables.",
+      "source_url": "https://riversidecountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=29098",
+      "record_id": "1f1d943711",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "mobile home park preservation",
+        "down payment assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption (property tax), Riverside County Assessor-County Clerk-Recorder",
+      "administering_agency": "Riverside County Assessor-County Clerk-Recorder (Peter Aldana), (951) 955-6200 or (800) 746-1544",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Full exemption of the ad valorem property tax (about 1% of assessed value plus voter-approved debt) on qualifying low-income rental housing, applied by restricted unit share under Revenue and Taxation Code 214(g).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Nonprofit owner or limited partnership with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate (BOE-277); first filing on BOE-267 with the Findings Sheet and a copy of the OCC for each year of use, then annual BOE-267-A with the BOE-267-L series for low-income housing; annual deadline February 15 with partial exemption for later filings.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "February 15, 2027 for the 2027-28 roll.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. Standard California process; the Assessor page describes the OCC-first sequence and the first-filing packet, and the BOE income limit tables for Riverside County apply. Source is the Assessor's welfare exemption page.",
+      "source_url": "https://rivcoacr.org/welfare-exemption",
+      "record_id": "6b694dfae0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC multifamily",
+        "nonprofit-owned affordable rental",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date"
+    }
+  }
+]

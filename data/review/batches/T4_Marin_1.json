@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption (property tax), Marin County Assessor-Recorder-County Clerk",
+      "administering_agency": "Marin County Assessor-Recorder-County Clerk, Shelly Scott, Marin Civic Center, San Rafael; 415-473-7215",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Full or partial exemption of property tax on units occupied by households at or below 80% AMI under Revenue and Taxation Code 214(g); worth roughly 1.1% or more of assessed value a year depending on the tax rate area. The Assessor-Recorder posts the BOE-267 series including BOE-267-L, L1 and L2 for low-income housing.",
+      "per_unit_cap": "Statewide $20,000,000 aggregate cap on exempted assessed value for limited partnership projects that qualify only through the managing general partner test without government financing (Rev. and Tax. Code 214(g)); projects with tax credits, bonds or government loans are outside the cap.",
+      "affordability_requirement": "Nonprofit or LP with eligible nonprofit managing general partner holding a BOE Organizational Clearance Certificate (plus a Supplemental Clearance Certificate for LP low-income housing); units restricted by recorded regulatory agreement or occupied by households at or below 80% AMI; BOE-267 first filing and annual supplemental affidavits by Feb 15 (late claims receive a reduced exemption under Rev. and Tax. Code 270, and the County FAQ confirms partial relief for late filings).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "2027-02-15 (annual claim deadline for the 2027-28 roll). File the first claim on acquisition so the construction period is covered.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "marincounty.gov, marincounty.org, assets.marincounty.gov, marinhhs.org and arcc.marincounty.gov sit behind Cloudflare and refused automated access on 2026-11-06, so County program pages could not be opened; Board agendas were read on marin.granicus.com and staff reports through its MetaViewer links where available. Standard in every tax credit operating budget. The Assessor's exemption pages (arcc.marincounty.gov) were blocked, so the office contact comes from the BOE county contacts page (opened) and form details from search excerpts of the County forms pages.",
+      "source_url": "https://www.boe.ca.gov/proptaxes/countycontacts.htm",
+      "record_id": "bca5bdb76f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Marin County Continuum of Care (CA-507) and HHAP",
+      "administering_agency": "Marin County Health and Human Services, Division of Homelessness and Coordinated Care (CoC lead and HHAP administrative entity for the County and CoC)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 5: County $1,542,420 and CoC $1,607,673; Round 6: County $1,243,788 and CoC $1,328,387 (regional plan puts all CoC Round 6 funds in Permanent Housing Solutions, including $500,000 for rapid rehousing and rental subsidies, landlord incentives and $25,722 for HMIS). State accountability site: $12,500,000 HHAP rounds 1 to 5 in the Marin area, $10,700,000 directly to the County ($8,700,000 obligated, $5,900,000 spent by mid-2025); Encampment Resolution Funding $22,200,000 in the area, $21,400,000 to the County (Binford Road and Encampment Resolution and Housing contracts with Episcopal Community Services, $2,217,907, Dec 2025). HUD CoC program FY 2024 award to CA-507: $2,016,283 (Shelter Plus Care, administered by MHA); CoC planning grant $256,052 (FY 2026-27); state ESG to the County $462,495 (2024). 2024 PIT: 1,090 people, 788 unsheltered, 1,487 year-round beds. Homekey rounds 1 and 2 brought $24,700,000 to Marin projects (Casa Buena in Corte Madera, 1251 S. Eliseo in Larkspur, Novato veterans housing opened Jan 2026); Homekey+: $2,700,000 for nine PSH units at Carmelita House, 530 Blackstone Drive, San Rafael, with Catholic Charities (awarded Oct 2025), matched by up to $1,931,918 in County MHSA/BHSA capital (April 14, 2026) and $321,425 in BHSA operating subsidies.",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness per HUD and state definitions; CoC permanent housing through Coordinated Entry (run by MHA); HHAP-6 must obligate 75% and spend 50% by June 30, 2027.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-7 is available to HHAP-6 grantees; the CoC runs the HUD NOFO each summer with Homebase as consultant. A Board study session on the homelessness system of care was held Oct 14, 2025. Homekey+ sites are pursued jointly by HHS and nonprofit operators.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small CoC: HHAP money (about $2,500,000 a region per round) goes to rapid rehousing, rental subsidies and Shelter Plus Care, not capital. Marin's capital for PSH has come from Homekey and Homekey+ matched by County MHSA/BHSA dollars, which is the pattern to repeat. Figures from the HCD HHAP Round 6 Marin regional plan and Round 5 application (opened), HCD allocation lists, the HUD FY 2025 CoC award report, accountability.ca.gov, Board agendas on Granicus and the April 14, 2026 BHRS staff report.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-r6-marin-region.pdf",
+      "record_id": "755f7ba220",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

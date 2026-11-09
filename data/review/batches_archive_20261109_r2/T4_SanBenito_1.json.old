@@ -1,0 +1,81 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance (Chapter 21.03 Affordable Housing Regulations) and in-lieu fee",
+      "administering_agency": "San Benito County Resource Management Agency, Planning and Building (sbcplan@sanbenitocountyca.gov, (831) 637-5313)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement rather than a subsidy: 15% of units affordable on site (for-sale and rental) or 20% off site under Sections 21.03.006 and 21.03.007; developments of 1 to 5 units exempt, 6 to 10 units pay the in-lieu fee automatically, 11 or more units build on or off site and pay the fee on fractions below 0.7 unit. In-lieu fee adopted December 13, 2022 (Ordinance 1052, Resolution 2022-149): $30 per square foot for for-sale homes based on the 15% requirement (Vernazza Wolfe affordability gap study). Before 2022 developers paid a negotiated $4,500 per unit through development agreements (Sunnyside Estates). Example compliance: Lands of Lee subdivision affordable housing plan approved September 15, 2026 under Resolution 2024-146 (about 30 affordable units, 21% of the project).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Very low (50% AMI), low (80% AMI) and moderate (120% AMI) income units per Section 21.03.003; off-site rental projects of 24 or more lots carry an updated income breakdown (Ordinance 1059, September 12, 2023); affordable housing plans are approved by the Planning Commission and Board (Housing Advisory Committee dissolved 2023).",
+      "eligible_project_types": [
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies with each land use entitlement. The Board's Housing Policy Reform Ad Hoc Committee (formed February 11, 2025) has reviewed Chapter 21.03 but no 2025 or 2026 amendment was found in Board agendas; in-lieu payments qualify only where sites are on septic or wells, zoned for large lots, or more than 10 miles from an incorporated city.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. For an affordable developer the ordinance matters in two ways: market-rate projects in the Hollister fringe (Santana Ranch, Lands of Lee, builder's remedy filings) must deliver or fund affordable units, and Section 21.03.008(F) lets them satisfy the obligation by donating land or subsidizing a nonprofit rental project, which is the County's only recurring local capital source. In-lieu fees go to an affordable housing fund (see separate record). Source is the December 13, 2022 Board packet adopting the amendments and fee; current code text is on codelibrary.amlegal.com (blocked to automated access).",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/6404819104d9eef39ad033a9e4860b430.pdf",
+      "record_id": "7a3977ed7d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate subdivisions and multifamily projects of 6 or more units in unincorporated San Benito County",
+        "off-site affordable rental projects built to satisfy another developer's obligation",
+        "land donation or subsidy to nonprofit developers as alternative compliance (Section 21.03.008(F))"
+      ],
+      "next_deadline_date": "2025-02-11",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hollister",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Density Bonus Ordinance (Municipal Code Chapter 17.34, Ordinance 1230 of 2023 as amended by Ordinance 1267 of 2025)",
+      "administering_agency": "City of Hollister Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Implements Government Code 65915 to 65918 for housing developments of five or more units: bonuses from 20% (5% very low or 10% lower income) up to 50%, 80% for 100% affordable projects (up to 20% moderate), no density maximum for 100% affordable projects within one-half mile of a major transit stop with a height waiver of up to three stories or 33 feet, 15% base bonus plus increments for land donation (Table 17.34-4), 20% senior bonus, 35% student housing bonus, child care facility bonus (17.34.080), one to four incentives or concessions (17.34.060), reduced parking, density bonus housing agreement and deed restrictions (17.34.120 to 17.34.150). Section 17.34 B allows the City to grant a greater bonus than state law requires but no local enhancement schedule is codified.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus law thresholds: very low (50% AMI), lower (80% AMI) and moderate income for-sale units (120% AMI); rental affordability covenants of 55 years; equity sharing on for-sale units.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "senior housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Submitted with the planning entitlement (17.34.100). Housing Element Policy Action H3.6 states the ordinance update was adopted October 2025 (Ordinance 1267, Zoning Ordinance Overhaul Phase 2) with annual review; goal of two density bonus projects per year. The 2025 Annual Progress Report shows 2 applications requesting a bonus (23 units) and 0 projects permitted with a bonus.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mirrors state law with no extra local bonus, so it is comparable to the San Benito County Chapter 21.03 Section 13 density bonus. Inclusionary units required under Chapter 17.36 count toward the bonus thresholds (17.36.050 C), and bonus units are excluded from the inclusionary base, so a 15% inclusionary project of 10 or more units in Hollister can claim at least a 20% to 27.5% bonus plus concessions at no extra affordability cost. Housing Element Policy Action H3.3 commits to continuing lower sewer, water connection and traffic impact fees for multifamily and to adopting a permit fee reduction or waiver program for affordable and special needs housing by August 2026 (2025 APR status: not yet started); Phase 3 zoning procedure amendments and Housing Element implementation rezonings (ZOA 2026-1) were heard April 20, 2026. Code text read on the zoneomics mirror; municode blocks automated access.",
+      "source_url": "https://www.zoneomics.com/code/hollister-CA/chapter_15",
+      "record_id": "010877ff3a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use with five or more residential units",
+        "senior housing",
+        "student housing",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

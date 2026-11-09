@@ -1,0 +1,122 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mountain View",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "CDBG and HOME entitlement funds, FY 2025-30 Consolidated Plan and Annual Action Plan",
+      "administering_agency": "City of Mountain View Housing Department (Human Relations Commission advisory)",
+      "funding_type": "grant",
+      "typical_award_size": "Mountain View is one of nine entitlement jurisdictions in the county. CDBG capital funds (minimum 65 percent of the allocation) and HOME funds are allocated directly to pipeline affordable housing projects as loans repaid as program income, because capital NOFA rounds drew few applicants; examples include Paulson Park I and Monte Vista Terrace rehabilitation (CDBG, July 2025), Ginzton Terrace and The Fountains, and $1.86 million HOME plus $0.78 million HOME-ARP to Lot 12 (October 2025). Public services run on a two-year NOFA with $171,000 a year of General Fund added under Council Policy A-8. Exact FY 2026-27 entitlement amounts were not in the documents opened.",
+      "per_unit_cap": "HOME per-unit subsidy limits apply.",
+      "affordability_requirement": "HOME units for low and very low income households; CDBG national objective (low and moderate income benefit).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Action Plan hearings are typically held at the Human Relations Commission in February or March and Council in April, with HUD submittal by May 15; FY 2027-28 plan expected spring 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small federal layer that the City pairs with its local funds; HOME and HOME-ARP are steered to projects with project-based Section 8 (Lot 12) because of compliance alignment. Separate from the County HOME Consortium. mountainview.gov blocked; memo read from Legistar.",
+      "source_url": "https://legistar1.granicus.com/mountainview/attachments/af8318ac-0cde-46b7-a8dc-710962fedf3a.pdf",
+      "record_id": "2feb32b649",
+      "cycle_notes": "public services biennial; capital and housing funds allocated directly through the Action Plan",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "new construction (HOME)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sunnyvale",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Non-Residential Housing Mitigation Fee (Housing Impact Fee), Municipal Code Chapter 19.75",
+      "administering_agency": "City of Sunnyvale Community Development Department, Housing Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Fee on new office, R&D, industrial, retail and lodging square footage in any zone since 2015; over $47 million collected 2015 to 2022. January 24, 2023 action (BAE nexus study) raised office and R&D to $11 per square foot for the first 25,000 square feet and $22 per square foot above that, left retail, lodging and industrial unchanged, and kept CPI indexing; one legacy project pays $13 per square foot versus the prior $19.50 standard rate. Revenue funds the Housing Mitigation Fund, which supplies the biennial NOFA ($16 million in 2022, $29.5 million awarded in 2024, $18 million offered in 2026).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Projects funded from the Housing Mitigation Fund are restricted to lower income households for at least 55 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Current FY 2026-27 rates are in the City's Master Fee Schedule (not opened this pass); confirm with the Housing Division. No fee update is pending beyond annual indexing.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Sunnyvale's linkage fee, driven by Moffett Park and Peery Park office growth, is the engine behind one of the county's largest city housing funds. Fee revenue will slow with the office downturn, so the 2026 NOFA ($18 million) is smaller than 2024. Compare with San Jose's CLF ($6.1 million cumulative) and Mountain View's Housing Impact Fee. sunnyvale.ca.gov blocked; staff report read from Legistar.",
+      "source_url": "https://legistar.granicus.com/Sunnyvale/attachments/83f62a94-dd53-4b67-8342-03f26dc3a394.pdf",
+      "record_id": "0a7ecf1844",
+      "cycle_notes": "fee paid at building permit; funds deployed through the NOFA",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Destination: Home Supportive Housing and Innovation Fund (private acquisition and predevelopment financing and developer capacity grants)",
+      "administering_agency": "Destination: Home (Santa Clara County public-private partnership nonprofit), San Jose; fund seeded by Cisco ($50 million, 2018) and Apple ($50 million, 2019)",
+      "funding_type": "loan",
+      "typical_award_size": "More than $96 million invested since 2018: no-interest or low-interest acquisition and predevelopment financing for 42 extremely low income and supportive housing developments with more than 4,100 units; flexible capacity-building grants to 8 nonprofit developers (1,600 units in pipeline); capacity grants to the Cities of Campbell, Morgan Hill, Mountain View and San Jose. Loan sizes are not posted.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Supportive housing and extremely low income (30% AMI) housing for formerly homeless households in Santa Clara County.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Open funding opportunities are posted on the fund page; otherwise rolling by invitation.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The private counterpart to the County's Measure A and the Housing Trust Supportive Housing Fund. Zero or low interest acquisition money lets sponsors tie up sites before County Measure A, Homekey+ or NPLH awards. Destination: Home is also a founding partner of the Bay Area Housing Innovation Fund (separate record) and funded a dedicated San Jose planner for supportive housing projects. Santa Clara County only.",
+      "source_url": "https://destinationhomesv.org/funding-impactful-strategies/supportive-housing-innovation-fund/",
+      "record_id": "4efe227033",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition",
+        "predevelopment",
+        "supportive housing",
+        "developer capacity grants"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Ukiah",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "Ukiah Housing Trust Fund (UHTF) NOFA, funded with PLHA, Prohousing Incentive Pilot (PIP) and housing successor funds",
+      "administering_agency": "City of Ukiah Community Development Department, Housing Services Division (Housing and Grants Manager, housing@cityofukiah.com, 707-463-6708)",
+      "funding_type": "loan",
+      "typical_award_size": "Most recent round: June 10, 2024 NOFA for about $1,000,000 to acquire infill parcels for affordable housing, combining a $455,000 Prohousing Incentive Pilot award (October 2023) with up to $617,000 of the City's 2019-2022 PLHA allocation. Loans at 0 to 3% simple interest, 55-year term, repaid from residual cash flow after operating costs, senior debt, reserves and deferred developer fee; due on sale or refinance. Commitments last 24 months from Council approval (one-year extension possible). Earlier UHTF capital came from former RDA housing bond proceeds; the 2019 Housing Element notes a $500,000 NOFA in 2018. Acorn Valley Plaza (DANCO, 74 units, opened March 2025) was built with UHTF funds.",
+      "per_unit_cap": "None published; sized as gap funding after all other sources.",
+      "affordability_requirement": "Units affordable at or below 60%, 80% or 120% AMI with a recorded 55-year rent or resale covenant; bonus points for units at 0 to 30% AMI. Funding-source rules (PLHA, PIP) add restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "adu",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "unknown, verify with agency. The 2024 round closed July 8, 2024 and no newer NOFA is posted on the Housing Services page as of 2026-11-08. Projects must deploy UHTF funds and start construction within two years of award.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ukiah is the only priority city in Mendocino County with a standing local trust fund and was the first rural Northern California city with a Prohousing Designation (April 2023), which earns state Prohousing points on AHSC, IIG and similar applications. The 2024 round targeted parcels in TCAC High and Highest Resource areas and favored scattered-site or non-traditional infill. The Housing Element says the fund exists partly to supply local match points for tax credit applications. Stacks with County HOME program income (about $351,767, for example the Marigold Villas request in Ukiah) and the City's own state HOME awards; County PLHA is a separate formula pool. Local public funds trigger state prevailing wage under Labor Code 1720.",
+      "source_url": "https://cityofukiah.com/wp-content/uploads/2024/06/2024-HTF-NOFA.pdf",
+      "record_id": "b3a3e105db",
+      "cycle_notes": "irregular; issued when state funds are awarded",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "adu",
+        "land acquisition"
+      ],
+      "next_deadline_date": "2024-07-08",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

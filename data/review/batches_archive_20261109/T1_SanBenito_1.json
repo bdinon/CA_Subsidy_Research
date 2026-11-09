@@ -1,0 +1,310 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable housing in-lieu fee fund and impact fee waivers for 100% affordable developments",
+      "administering_agency": "San Benito County Resource Management Agency, Planning and Building; County Executive Office (impact fee program)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Section 21.03.012 (as amended December 13, 2022) allows in-lieu fees to fund an affordable housing trust and to reimburse the County for impact fee waivers granted to developments that are 100% affordable. Fee balance and any waiver approvals were not published in the 2026 Board agendas; the FY 2024-25 Annual Development Impact Fee Report (adopted January 13, 2026) covers the County's public facilities impact fee funds administered since the late 1980s. Historic voluntary affordable housing fees were $4,500 per market-rate unit.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Waiver reimbursement applies only to 100% affordable developments; trust fund uses follow Chapter 21.03.",
+      "eligible_project_types": [
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Request an impact fee waiver with the entitlement application and confirm the in-lieu fund balance with Planning and Building; the County has not issued a housing fund NOFA.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. Confirmation needed: the ordinance language creating the waiver reimbursement was read in the 2022 Board packet, but the current code text, the fund balance and any adopted waiver procedure could not be opened (sanbenitocountyca.gov and amlegal 403). Treat as a negotiable cost reduction for a 100% affordable project rather than a funded program.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/6404819104d9eef39ad033a9e4860b430.pdf",
+      "record_id": "623a7bb988",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "100% affordable rental or ownership developments in unincorporated San Benito County"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Local Tenant Preference Ordinance (Chapter 21.04, Ordinance 1085)",
+      "administering_agency": "San Benito County Resource Management Agency, Planning and Building",
+      "funding_type": "other",
+      "typical_award_size": "Not a subsidy: adopted October 14, 2025 under the Local Tenant Preferences to Prevent Displacement Act (Government Code 7061). Preferences for displaced San Benito County residents, neighborhood residents, local workers and school district employees, households with high housing costs, families with children in a local school district, agricultural employees, seniors and persons with disabilities. Applies to projects of five or more units, projects restricted to lower-income households, projects receiving County development assistance, and affordable units produced under Chapter 21.03.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Applies to income-restricted units; written to be compatible with LIHTC and tax-exempt bond (IRC 142(d)) projects as permitted by Government Code 7061.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "In effect; the preference must be written into tenant selection plans for any affordable project in unincorporated San Benito County and should be cleared with CTCAC and lenders early.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. The ordinance was developed by the Board's Housing Policy Reform Ad Hoc Committee with the San Benito High School District, which wants workforce housing for teachers; developers should expect the County to ask for school employee and local worker preferences in any affordable housing agreement. Source is the October 14, 2025 Board packet (second reading); first reading September 9, 2025.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/5c4660a27183c9887503123de21939ea0.pdf",
+      "record_id": "b9d8d23246",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC and bond-financed rental projects",
+        "inclusionary units",
+        "County-assisted new construction or substantial rehabilitation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "needs_confirmation",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County formula allocation and city pass-throughs",
+      "administering_agency": "San Benito County (County Executive Office and Health and Human Services Agency); cities of Hollister and San Juan Bautista hold their own allocations",
+      "funding_type": "grant",
+      "typical_award_size": "HCD formula allocation to the County: $121,170 (2024) and $132,810 (2025), estimated $757,313 for the 2024-2028 five-year plan. The City of San Juan Bautista's 2019-2025 plan ($455,999) passes its 2019 allocation of $75,999 to the County for homeless outreach and case management under an MOU renewed March 24, 2026 (runs to June 2030). Hollister's larger PLHA allocation funds city programs (Pass 3).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "PLHA eligible activities for households up to 80% AMI (120% for some ownership uses); the County's own five-year plan activities were not located.",
+      "eligible_project_types": [
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No County NOFA. Confirm the County's 2024-2028 PLHA plan activities with the County Executive Office; allocations this small are typically spent on services.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. Confirmation needed: the County's own PLHA five-year plan and its use of the 2024 and 2025 allocations were not found in the 2026 Board agendas (the 'Resolution 2026-06 Adopt PLHA Plan' attachment on the March 24, 2026 item is the City of San Juan Bautista's resolution). At roughly $125,000 a year the County allocation cannot anchor a development loan. Source is the March 24, 2026 Board packet; allocation figures from HCD's 2024-2028 PLHA NOFA tables.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/daef4c73c9454000afcc9f14f32d41c30.pdf",
+      "record_id": "ef0f72017c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "homeless services and case management (current use)",
+        "affordable rental development or predevelopment (eligible but not programmed)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29 (Housing Interventions component)",
+      "administering_agency": "San Benito County Behavioral Health Department (Rachel White, Director)",
+      "funding_type": "other",
+      "typical_award_size": "Integrated Plan approved by the Board June 23, 2026 after DHCS approval May 28, 2026 and a public hearing May 21, 2026; 30% of the County's BHSA allocation is dedicated to Housing Interventions (interim and permanent housing options for behavioral health clients), 35% to Full Service Partnerships and 35% to Behavioral Health Services and Supports. Dollar amounts, any small-county housing exemption request and any capital development project were not in the Board packet; the County's BHSA page lists supporting documents for a capital development project and for housing production need but the site blocks automated access.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder; at least 50% of housing funds for chronically homeless people under state law unless exempted.",
+      "eligible_project_types": [
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Behavioral Health plans requests for proposals to contract a range of providers to meet BHSA goals and a 62% licensed workforce gap; approach the department about housing intervention contracts for FY 2026-27 and later.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. For a county of about 68,000 people the Housing Interventions share is small (likely low single-digit millions a year) and may be partly exempted; its realistic use for a developer is an operating or rental subsidy on a handful of PSH units rather than capital. Source is the June 23, 2026 Board packet; the plan and budget attachments are on cloudfront via the June 23 agenda.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/4ed6792472814ec90ffed92990c76dc80.pdf",
+      "record_id": "af57e23ae0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "rental and operating subsidies",
+        "interim housing",
+        "possible capital development project (listed in supporting documents)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "needs_confirmation",
+      "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, San Benito County Assessor",
+      "administering_agency": "San Benito County Assessor, Tom J. Slavich (1131 San Felipe Road, Hollister)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Standard state welfare exemption for low-income housing owned by nonprofits or limited partnerships with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate; the County's BOE-267-H-A supplemental form is published for low-income housing units.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement; exemption prorated to qualifying units.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 and BOE-267-H-A with the Assessor by February 15, 2027 for the 2027-28 roll; late filings carry penalties.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. Confirmation needed: the Assessor's page on sanbenitocountyca.gov returned 403 to automated access, so contact details and any local filing notes were not read this pass; the exemption itself is state law administered by every county assessor.",
+      "source_url": "https://www.sanbenitocountyca.gov/departments/assessor",
+      "record_id": "5c71dd5770",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC rental housing with nonprofit managing general partner",
+        "nonprofit-owned affordable rental housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hollister",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Benito",
+      "confidence": "needs_confirmation",
+      "program_name": "Hollister Housing Trust Fund ($300,000 initial deposit, Housing Element Policy Action H5.12 and 2026 stipulated judgment with HCD and the Attorney General)",
+      "administering_agency": "City of Hollister Planning and Housing Divisions (program procedures subject to HCD approval)",
+      "funding_type": "other",
+      "typical_award_size": "Initial capitalization of $300,000 from the City general fund, required by the March 26, 2026 stipulated judgment (People of the State of California and HCD v. City of Hollister) and carried into the adopted 2023-2031 Housing Element as Policy Action H5.12. The fund must support housing for extremely low, very low and low income households, including migrant housing, emergency shelters, supportive housing, single-room occupancy and transitional housing. Award form (grant or loan), per-project limits and the application procedure are to be set in a program document approved by HCD. Any money remaining five years after deposit transfers to the State Building Homes and Jobs Trust Fund unless HCD agrees otherwise.",
+      "per_unit_cap": "Not yet established.",
+      "affordability_requirement": "Extremely low, very low and low income households (at or below 80% AMI); affordability terms to be set in the HCD-approved procedures.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "interim housing",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not yet open. Council adopted the Housing Element April 20, 2026 (Planning Commission Resolution 2026-03, March 26, 2026); the element was still pending HCD certification when the City's Housing Element page was opened this pass. The judgment requires the City to submit the draft trust fund program to HCD and deposit the $300,000 within 30 days after HCD finds the element in substantial compliance. The 2025 Annual Progress Report lists H5.12 as continuous with no trust fund activity yet. Contact housing@hollister.ca.gov to be notified when procedures are published.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "This will be the only city-controlled capital source for affordable development in Hollister; there is no inclusionary in-lieu fund (Chapter 17.36 requires on-site units) and the former redevelopment agency's housing assets are limited to a Housing Division loan and resale monitoring portfolio (Successor Agency page opened). At $300,000 it is predevelopment-scale money; realistic use is a predevelopment loan or local match that strengthens a TCAC, HCD or AHSC application, layered under county sources (San Benito County PLHA, HHAP, CMFA conduit bonds) and Housing Authority of the County of Santa Cruz PBVs. The five-year sunset creates pressure to commit funds quickly, which favors shovel-ready sponsors. H5.12 also commits the City to annual developer meetings, one-on-one technical assistance and support letters. Marked needs_confirmation because the fund did not exist as of this pass; the judgment text (oag.ca.gov Exhibit B) and the adopted Housing Element PDF were both opened.",
+      "source_url": "https://files.hollister.ca.gov/CLEAN%20FINAL%20DRAFT%20City%20of%20Hollister%206th%20Cycle%20Housing%20Element%20Update_04.24.2026%20(1).pdf?t=202607071654130",
+      "record_id": "a28971818e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "emergency shelter and transitional housing",
+        "single-room occupancy",
+        "farmworker and migrant housing"
+      ],
+      "next_deadline_date": "2026-04-20",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hollister",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Benito",
+      "confidence": "needs_confirmation",
+      "program_name": "Permit fee waiver program for affordable and special needs housing and reduced multifamily impact fees (Housing Element Policy Action H3.3)",
+      "administering_agency": "City of Hollister Planning, Building and Finance Divisions and Engineering Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Existing: lower sewer and water connection fees and traffic impact fees for multifamily development (per-unit basis; the City is considering a square-foot basis). Committed: a reduction or waiver of permit processing fees for affordable and other special needs housing projects, to be established by August 2026 following the user fee study now underway; the Housing Element also calls for waiving permit fees for ADUs under certain sizes or deed restricted as affordable to lower income households, and the sites strategy table contemplates reducing development fees for key sites. Amounts not yet set.",
+      "per_unit_cap": "Not yet established.",
+      "affordability_requirement": "Affordable and special needs housing projects as defined in the program procedures to be adopted; ADU waivers tied to size or lower income deed restriction.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "senior housing",
+        "adu"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Housing Element timeframe: establish the fee waiver program by August 2026 with annual fee assessments; the 2025 Annual Progress Report (filed 2026) lists H3.3 as 'Not Yet Started'. Confirm status with the Planning Division (Community Development Permit Center appointment system) before underwriting any waiver.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Hollister has no codified fee waiver today, unlike San Benito County Section 21.03.012, which can reimburse impact fee waivers for 100% affordable projects from county in-lieu fees. Because Hollister collects no inclusionary in-lieu fees, any waiver will be a general fund cost, which is why the City is tying it to the user fee study. Density bonus concessions under Chapter 17.34 remain the only guaranteed path to fee or standard relief until the program is adopted. Recorded as negative information per schema rule 4 and so the August 2026 commitment can be tracked.",
+      "source_url": "https://files.hollister.ca.gov/CLEAN%20FINAL%20DRAFT%20City%20of%20Hollister%206th%20Cycle%20Housing%20Element%20Update_04.24.2026%20(1).pdf?t=202607071654130",
+      "record_id": "9f1cda8ebd",
+      "cycle_notes": "program not yet adopted",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "senior and special needs housing",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_error"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Juan Bautista",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Benito",
+      "confidence": "needs_confirmation",
+      "program_name": "State density bonus implementation and city housing finance capacity (2023-2031 Housing Element programs on density bonus, PLHA and CDBG)",
+      "administering_agency": "City of San Juan Bautista Planning Department and City Manager's office",
+      "funding_type": "density bonus",
+      "typical_award_size": "No local enhancement. The Housing Element states the City offers the state density bonus (described as up to 35%, now up to 50% or more under current Government Code 65915) with required concessions, reduced parking and modified standards, and that no project has ever requested a density bonus; a program commits the City to amend the Zoning Code to match current density bonus law (target December 2024). The zoneomics mirror of Title 11 lists no density bonus chapter, so the City applies state law directly. Financial resources: the City holds a PLHA five-year plan ($455,999 for 2019-2023) but passes its allocation to San Benito County for homeless services under an MOU; it has no CDBG, HOME or redevelopment funds, and the Housing Element says the City must partner with nonprofits and the County for any development program.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus law thresholds (5% very low, 10% lower, 10% moderate for-sale, senior, 100% affordable); inclusionary units under Chapter 11-09 are counted before bonus units.",
+      "eligible_project_types": [
+        "new construction",
+        "senior housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency. Confirm whether the density bonus code amendment has been adopted; the City's Housing Element page states the 2023-2031 element is adopted and certified but the adopted PDF link could not be resolved this pass (the September 2023 HCD review draft hosted on the City site was read instead).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Explicit negative finding: San Juan Bautista has no local housing trust fund, no fee waiver program, no city NOFA and no city-controlled development funds beyond the dormant Chapter 11-09 in-lieu account. Development capacity is also constrained by water and sewer (a sewer force main to Hollister is a City project) and by the 15 units per acre mixed-use cap except for senior and affordable projects. The only city-level tools are the inclusionary ordinance (record above), state density bonus and SB 35 streamlining; capital must come from San Benito County (PLHA, HHAP, CMFA conduit bonds), Housing Authority of the County of Santa Cruz PBVs and state programs. Marked needs_confirmation because the certified Housing Element text and any adopted density bonus amendment were not opened; the draft element and the City's Housing Element pages were.",
+      "source_url": "https://san-juan-bautista.ca.us/document_center/Planning/2023-2031 DRAFT_HE_NON-TRACKED_PAUL@HCD_09252023.pdf",
+      "record_id": "b575f15d9d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use residential in the Mixed Use district",
+        "senior housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "error"
+    }
+  }
+]

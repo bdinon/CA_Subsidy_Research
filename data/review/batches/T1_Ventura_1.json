@@ -1,0 +1,236 @@
+[
+  {
+    "audit_reasons": [
+      "reclass_ambiguous"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Streamlined ministerial approvals for affordable, supportive and farmworker housing (SB 35, AB 2162, AB 1783, SB 330) and Prohousing Designation",
+      "administering_agency": "Ventura County Resource Management Agency, Planning Division",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Because the County has not met its above-moderate RHNA progress, qualifying multifamily projects with the required affordability are approved ministerially under SB 35 using the County's Streamlined Multifamily Zoning Clearance application; supportive housing is by right where multifamily is allowed (AB 2162); farmworker housing on agricultural land qualifies under AB 1783 and the County's Agricultural Worker Housing regulations (Somis Ranch farmworker complex, AMCAL). The County applied for the state Prohousing Designation in 2026 (public comment through May 29, 2026; Board resolution April 28, 2026), which adds points in state funding programs, and is completing a countywide Farmworker Housing Study and Action Plan (approved September 22, 2026).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "SB 35: 10% or 50% affordable depending on RHNA shortfall category; AB 2162 supportive housing thresholds; AB 1783 farmworker housing requirements.",
+      "eligible_project_types": [
+        "supportive housing",
+        "mixed-income",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Submit the Streamlined Multifamily Zoning Clearance application with objective standards compliance; SB 330 preliminary applications lock in standards.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. No County fee waiver or deferral for affordable housing was found; the County's incentives are procedural (ministerial approval, no CEQA) and locational (RHD sites, farmworker housing on agricultural land). SB 35 projects of 10 or more units require prevailing wage. Source is the RMA Streamlined Affordable Housing Development page.",
+      "source_url": "https://rma.venturacounty.gov/divisions/planning/streamlined-multifamily-housing/",
+      "record_id": "47f57cdedf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "100% affordable and mixed-income multifamily on eligible sites",
+        "permanent supportive housing",
+        "farmworker housing complexes"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Thousand Oaks",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "Thousand Oaks Affordable Housing Trust Fund (Municipal Code Title 9, Chapter 10, Article 2, Ord. 1506-NS as amended by 1719-NS)",
+      "administering_agency": "City of Thousand Oaks Community Development Department",
+      "funding_type": "loan",
+      "typical_award_size": "Special revenue fund for very low, lower and moderate income housing, funded by inclusionary in-lieu fees, loan repayments, grants and Council appropriations. Nonresidential linkage fee proceeds go to a separate subaccount, but the linkage fee is set at $0 per square foot (Council direction 2023). Fund balance not published in the documents opened.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units assisted are subject to an Affordable Housing Agreement under Article 6; funds may only be spent within city limits.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No City NOFA found; the 2024 APR says the County administers the City's HOME and PLHA and that developers were expected to request funding in 2025. Contact Community Development (Senior Planner Iain Holt).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Revenue has been thin because the in-lieu fee was set at zero from 2009 until the November 2023 update. The City has used land instead: it donated Hillcrest area land to the Housing Land Trust Ventura County for a 78-unit for-sale townhome project with People's Self-Help Housing, provided City land for a 50-bed navigation center, and partnered with the County on Step Up (77 extremely low income PSH units). A PLHA grant went to HTFVC as Local Housing Trust Fund match in FY 2021-22. For rental gap, look first to the County PLHA plan (which covers Thousand Oaks), the County HOME Consortium and HTFVC.",
+      "source_url": "https://www.zoneomics.com/code/thousand-oaks-CA/chapter_10",
+      "record_id": "c39bce1dcb",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: Article 2 (Fund created by Ord. 1506-NS; revenue sources; very low to moderate income use; spending only within City limits; linkage fee subaccount; Council approval for any expenditure; Ord. 1719-NS amendments effective November 24, 2023) matches the zoneomics mirror only; the $0 linkage fee rate and 2024 APR statements were not re-checked. Mirror-only source does not support verified. prevailing_wage_trigger true is uncited; Sec. 9-10.502(c) says City financial incentives may require prevailing wages if required by State law, which supports unclear rather than true.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Thousand Oaks",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "Thousand Oaks Density Bonus Program plus Incentives for Small and Underutilized Parcels and Lot Consolidation (TOMC 9-10 Articles 5, 7 and 8)",
+      "administering_agency": "City of Thousand Oaks Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus with local add-ons. Small and underutilized parcel incentives (Art. 7, Ord. 1568-NS): 100% affordable projects (all units except a manager unit for extremely low, very low or low income households, under recorded agreement) at a minimum 20 units per net acre on an existing parcel under 1/2 acre (alone or combined with contiguous parcels) or a Housing Element underutilized site may request any two extra incentives beyond density bonus incentives. Lot consolidation (Art. 8, Ord. 1734-NS, effective January 10, 2025): projects merging lots get a pre-application with no Planning Division fees, waivers of listed Mixed-Use standards (14-foot ground floor plate, 60-foot retail depth, third floor setback, 3% public exterior space), modified setbacks and height steps, reduced courtyard standards, and 65915(d)(2) regulatory incentives even without a density bonus.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Density bonus per Gov. Code 65915 with 55-year rental covenants; Article 7 incentives require 100% of units affordable to extremely low, very low or low income households; lot consolidation incentives on Housing Element sites require the inventory affordability, and on MU, MUOZ or R-3 sites outside the inventory require 20% of rental units for lower income or 20% of ownership units for moderate income households.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applied with the entitlement application.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Council may grant more density than state law (9-10.502(b)), but the code states the City need not provide financial participation such as fee waivers or land. November 2024 zoning amendments (Housing Element Program 8) updated density bonus, lot merger and SB 35 streamlining provisions. Stack with inclusionary compliance and the impact fee deferral program.",
+      "source_url": "https://www.zoneomics.com/code/thousand-oaks-CA/chapter_10",
+      "record_id": "8c520e2130",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: Article 7 eligibility on the zoneomics mirror requires all units affordable to lower income households, which the record omitted; Article 8 also covers 20% moderate income ownership projects. Sec. 9-10.502(b) and (c) (Ord. 1733-NS, effective January 3, 2025) match. Mirror-only source; municode blocked, so confidence lowered.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Thousand Oaks",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "Thousand Oaks Development Impact Fee Deferral Program (temporary Council resolution, October 2023)",
+      "administering_agency": "City of Thousand Oaks Community Development Department and Finance Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral, not a waiver: City development impact fees paid at certificate of occupancy instead of building permit. Dollar value depends on project fee load.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing Element Program 7 called for fee deferrals for affordable projects; the 2024 APR describes the October 2023 resolution as a citywide temporary deferral in effect until a date uncertain.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No confirmed active program as of November 8, 2026; the 2025 Housing Element APR no longer mentions the deferral. Confirm with Thousand Oaks Community Development before underwriting.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Improves construction-period cash flow and reduces construction loan interest; does not reduce permanent sources needed. School district and non-City fees are not covered. A pure deferral is generally not treated as a public subsidy under Labor Code 1720, but confirm with counsel if paired with other City assistance.",
+      "source_url": "https://toaks.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=e0def7f5-9746-44c2-aa36-8052d70b5e57",
+      "record_id": "7dc729615f",
+      "cycle_notes": "Temporary Council resolution adopted October 2023, in effect until a date uncertain per the 2024 APR (March 25, 2025 Council report). The 2025 APR (Attachment 2 to the March 10, 2026 Council agenda) repeats the Program 7 text on inclusionary and linkage fees but omits the fee deferral sentence, so the program may have lapsed. State law (Gov. Code 66007) separately defers most residential impact fees to final inspection or certificate of occupancy.",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "Labor Code 1720(b)(4) treats fees that are reduced, waived or forgiven as public funds and 1720(b)(5) covers loans repaid on a contingent basis, but the statute does not address a pure deferral; no City or DIR rule on this deferral was found.",
+      "audit_note": "T2 audit 2026-11-08: current status of the October 2023 deferral resolution could not be confirmed; prevailing wage left unclear for lack of a stated rule.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Ventura",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "City of Ventura affordable housing fee deferral and partial fee waiver program (Housing Element Program 29)",
+      "administering_agency": "City of Ventura Community Development Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Housing Element Program 29 called for a fee deferral program and a Director-granted partial fee waiver for 100% affordable projects by the FY 2022-23 budget, plus expedited plan check. Existing: 100% affordable projects are exempt from the $13,000 development agreement fee; Riverside Apartments and Westview Village received Council-granted partial fee waivers. In February 2025 the City Council considered a $570,272 impact fee deferral (including the $167,500 Quimby fee) for the College Community Courts project (People's Self-Help Housing), which indicates deferrals still go to Council case by case.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Partial waiver limited to all-affordable projects; deferral for affordable housing projects.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Unknown, verify with agency.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Before this program, fee waivers required City Council approval case by case, which was hard to use because housing projects do not otherwise go to Council. Fee waivers are local public funds and can trigger state prevailing wage. Needs confirmation because the city site (Cloudflare) blocked budget and Council documents; only the 2021-2029 Housing Element on the HCD site was opened.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf",
+      "record_id": "fc3dd4f637",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Implementation of the Director-granted waiver program not confirmed; cityofventura.ca.gov HTML pages return 403 and no adopted program document was found. No stated prevailing wage rule for City fee waivers was found.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "reclass_ambiguous",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Ventura",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "needs_confirmation",
+      "program_name": "City of Ventura City-Owned and Publicly Owned Land for Housing and Affordable Housing Overlay (Housing Element Programs 23 and 24)",
+      "administering_agency": "City of Ventura Community Development Department",
+      "funding_type": "land",
+      "typical_award_size": "Land disposition or long-term lease of City sites (e.g., parking lots) via development agreements; no dollar figures.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per disposition terms and the Surplus Land Act.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Housing Element targets: identify properties by end of 2023 and study disposition or lease by 2025. Current status unknown, verify with agency.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Ventura is near build-out, so public land is a main site source. The Housing Element also commits to continued funding of Housing Trust Fund Ventura County (Program 13; see County HTFVC record) and to exploring a business or parcel tax for housing. Needs confirmation because the city site blocked access.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf",
+      "record_id": "0ec610234d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Reclassified to land because the main deployable value is disposition or long-term lease of City-owned sites (Program 23); the Affordable Housing Overlay (Program 24, adoption targeted end of 2023) is an entitlement incentive whose adoption was not confirmed. City site blocked, so current status is unconfirmed.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

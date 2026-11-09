@@ -1,0 +1,80 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Innovative Housing Trust Fund (IHTF), County of San Diego",
+      "administering_agency": "County of San Diego HHSA, Housing and Community Development Services (HCDS); established by the Board of Supervisors October 10, 2017 (Administrative Code Article XV, Sections 230.8 and 232.5)",
+      "funding_type": "loan",
+      "typical_award_size": "Board allocations total over $129 million through seven allocations since 2017 (General Fund one-time money, plus redirected grant balances such as $2 million of Capital ESG in June 2025). $112 million has been awarded to 36 developments with 3,054 units in 22 communities, leveraging $1.6 billion. The newest $22 million allocation is being awarded through NOFAs in FY 2026-27: a $12 million IHTF NOFA for County-owned sites ran July 6 to August 10, 2026, and $9 million is in NOFA 2026-03 (due November 19, 2026). Loans to date range from $200,000 (Vista Lane) to $7.25 million (Terrasini, 95 units); most are $3 million to $7 million.",
+      "per_unit_cap": "None stated in the ordinance or NOFAs. Awards have ranged from about $2,000 to $112,000 per unit, typically $30,000 to $75,000 per unit.",
+      "affordability_requirement": "Households at or below 80% AMI (extremely low, very low and low income). NOFA 2024-01 required 99-year affordability for IHTF-funded units; NOFA 2026-03 states a 55-year minimum for all sources. Eligible anywhere in San Diego County, including all 18 cities.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Through NOFA 2026-03, due November 19, 2026. The Board's October 7, 2026 five-year report directs staff to identify a dedicated ongoing revenue source for the IHTF; no ballot measure or fee is adopted yet, so future rounds depend on one-time Board allocations.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "IHTF is the only County money usable inside the City of San Diego and the larger cities, which makes it the typical County piece of a City of San Diego deal alongside SDHC funds and Housing Authority of the City of San Diego bonds. It is a 3% simple, 55-year residual receipts loan under HCDS standard terms. HCDS also deposits ground lease revenue from County land deals (for example about $500,000 of initial rent from 3177 Ocean View Boulevard) and will deposit inclusionary in-lieu fees from the unincorporated ordinance into HCDS trust funds, so the fund will grow modestly from those streams. County-owned sites get a scoring preference and had their own $12 million round in summer 2026. Expect state prevailing wage on any IHTF-funded construction.",
+      "source_url": "https://sdcounty.legistar.com/LegislationDetail.aspx?ID=8806&GUID=5FC31D6F-DC1F-407F-A2D9-2AA8C5F0F812&Options=&Search=&FullText=1",
+      "record_id": "c6334d3f5e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-19",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Carlsbad",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance, Carlsbad Municipal Code Chapter 21.85 (Ordinance NS-535 as amended through CS-474, 2024), in-lieu fees and inclusionary housing credits",
+      "administering_agency": "City of Carlsbad Housing and Homeless Services Department and Community Development Department (Planning)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Residential developments of seven or more units must build and restrict at least 15 percent of total approved units (including density bonus units) for lower income households; off-site combined projects are allowed with Council approval and the percentage is computed on total units (market units divided by 0.85). Projects of fewer than seven units pay an in-lieu fee per market rate unit equal to 15 percent of the subsidy needed to make a typical new attached unit affordable to a lower income household ($4,515 as of 2020; schedule set by Council resolution; fee study authorized). Alternatives: off-site units, land dedication, contribution to special needs housing, purchase of surplus affordable housing credits from Villa Loma and other combined projects, and inclusionary credit schedules for units serving lower tiers. Offsets (21.85.100): the City may grant density increases, standards modifications, fee waivers and subsidies at its discretion. Rental inclusionary units required since 2017 (CS-324) after the 2010 Palmer suspension. The ordinance has produced 1,708 affordable units.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Lower income households (up to 80 percent AMI); rental units restricted 55 years with rents no more than 90 percent of the lower income limit; for-sale units resale restricted.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement through an Affordable Housing Agreement (21.85.140) before final map or building permit; in-lieu fee per Council resolution schedule, assessed on market rate units at building permit.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fees and credit sales fund the Housing Trust Fund (separate record). Density bonus units count in the 15 percent base, which makes Carlsbad's requirement stricter than the state density bonus tiers; the inclusionary units themselves qualify the project for state density bonus incentives (CMC 21.86, separate record). Master and specific plans must carry inclusionary provisions (21.85.035). Code read on the zoneomics mirror; Housing Element Program 2.1 on hcd.ca.gov.",
+      "source_url": "https://www.zoneomics.com/code/carlsbad-CA/chapter_56",
+      "record_id": "6e038192a3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental and for-sale projects of 7 or more units (compliance)",
+        "mixed-income projects",
+        "land dedication sites"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

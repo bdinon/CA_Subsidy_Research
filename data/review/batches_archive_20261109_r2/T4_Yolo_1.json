@@ -1,0 +1,164 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance (County Code Chapter 8-8), in-lieu fee and the Affordable Housing Program account, unincorporated Yolo County",
+      "administering_agency": "Yolo County Community Services Department, Planning Division (ordinance and affordable housing agreements); in-lieu fees held by the County in the Affordable Housing Program account",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory requirement, not a funding source. Ordinance 1451 (effective January 1, 2015) requires on-site affordable units: for-sale projects of 10 or more units set aside 20% (half low income, half moderate income); rental projects of 20 or more units set aside 25% very low income plus 10% low income; rental projects of 7 to 19 units set aside 15% very low plus 10% low. Smaller projects (9 or fewer single-family, 7 or fewer multifamily) pay an in-lieu fee assessed on a unit percentage basis. The in-lieu fee equals a percentage of the estimated cost to construct the required units, is set in the County Master Fee Schedule (last adopted June 24, 2025) and may be reduced up to 50% based on available subsidy; the current per-unit amount was not published in the opened documents (the 2009 schedule was $12,920 for-sale and $17,610 rental per required unit).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Rental inclusionary units must be permanently affordable (Sec. 8-8.108(b)); for-sale units carry a 20-year covenant that resets at each resale to a qualified buyer. Alternatives, only if on-site is shown infeasible: off-site units in the unincorporated county, land dedication (2 acres minimum), in-lieu fee, or housing credits transferable within 3 miles and 5 years. Density bonus units do not generate an inclusionary obligation.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at discretionary approval; fee estimate given at approval and paid before final map, first building permit or certificate of occupancy. In-lieu fees must be spent or encumbered within five years of receipt unless the Board extends.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The Affordable Housing Program account (Sec. 8-8.116) is the County's only local housing fund and it is fed solely by in-lieu fees from small unincorporated projects, so expect a balance in the low hundreds of thousands at most; no NOFA or award from it was found. For a 100% affordable project the ordinance imposes no obligation and offers the incentives in Sec. 8-8.118 (fee waiver, standards modifications, streamlining, density bonus). For a mixed-income rental project of 20 or more units the 35% combined set-aside (25% very low plus 10% low) is one of the steepest in the region and is a real feasibility constraint in Esparto, Madison and Dunnigan; the ordinance predates current state density bonus law and the Latinos Unidos v. Napa decision, so confirm how the County applies it today. Davis, Woodland and West Sacramento have their own inclusionary programs (Davis in-lieu fee about $215,000 per unit) covered in Pass 3.",
+      "source_url": "https://www.zoneomics.com/code/yolo-county-unincorporated-CA/chapter_8",
+      "record_id": "1ed9723764",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "homeownership",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Yolo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Yolo County Housing and New Hope CDC development partnerships, surplus land and farmworker housing sites",
+      "administering_agency": "Yolo County Housing (YCH) with its nonprofit affiliate New Hope Community Development Corporation; Executive Director Ian Evans, ievans@ych.ca.gov, (530) 669-2219",
+      "funding_type": "land",
+      "typical_award_size": "YCH acts as co-developer, land owner and partner rather than lender. Current pipeline: Tupelo, 73 units in Woodland (one to three bedrooms, 30% to 60% AMI) with a $27,999,100 AHSC award announced December 10, 2025 (City of Woodland $1.5 million loan commitment, Sutter Health $1.5 million, Brinshore Development and Operative Office as partners, construction as early as 2027, about 36 project-based TPVs); 641 5th Street, West Sacramento, 37 units (New Hope CDC, groundbreaking planned 2026, completion target 2027); Yolano and Donnelly redevelopment in Woodland (HUD Choice Neighborhoods Planning Grant, September 2024, over 240 mixed-income units planned, three phases by 2029); El Rio Villa Phase I by 2029. YCH posted a Surplus Land Act Notice of Availability for its Dunnigan property on September 10, 2026 (60-day response window, priority to proposals with at least 25% affordable units) and is seeking developers for its vacant Esparto lots for farmworker homeownership by 2027. In December 2025 YCH partnered with Fulcrum Property and Pacific Housing to deed-restrict 30 existing West Sacramento units for moderate income households for 35 years using the welfare exemption.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Set deal by deal: 30% to 60% AMI at Tupelo (AHSC and tax credit rules); moderate income (80% to 120% AMI) in the acquisition and deed-restriction model; farmworker households at the Esparto lots. YCH's strategic plan targets a 15% increase (about 390 units) in affordable units it owns, manages or supports by 2029.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Dunnigan surplus land letters of interest were due about November 9, 2026 (60 days from September 10, 2026), followed by at least 90 days of negotiation. Esparto lot partnerships and future Section 18 redevelopment RFPs (Yolano and Donnelly, 2027 or later) are the next openings; YCH's board meets monthly (October 14 and December 9, 2026 remaining).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "In Yolo the housing authority, not the County, is the development partner that brings land, PBVs, migrant center operating experience and public housing repositioning capital. A developer can join as YCH's co-developer (Brinshore model at Tupelo), buy or ground lease YCH surplus land under the Surplus Land Act, or use YCH or New Hope CDC as the nonprofit managing general partner to qualify existing buildings for the welfare exemption (the KIND West Sacramento structure, where YCH provided a $25,000 operating loan and the deed restriction). AHSC, tax credits and HUD funds in these deals trigger prevailing wage and Davis-Bacon. YCH also operates the Davis, Madison and Dixon migrant centers for the state Office of Migrant Services, so it is the natural partner for Joe Serna farmworker housing applications in the unincorporated area.",
+      "source_url": "https://www.ych.ca.gov/yolo-county-housing-celebrates-75-years/",
+      "record_id": "f708a2e83d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homeownership",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-09",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Davis",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Density bonus (Davis Municipal Code Section 40.27.110, deviations under Article 18.05 and state density bonus law)",
+      "administering_agency": "City of Davis Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory. Section 40.27.110 (Ordinance 2322, 2008) allows deviations from zoning standards in accordance with the density bonuses and incentives provided for affordable housing by Article 18.05 and state density bonus law (Government Code 65915). Davis has no local enhancement beyond the state schedule; Article 18.05 alternatives (in-lieu fee, land dedication) are the local layer.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus law thresholds (5% very low, 10% low, 100% affordable up to 80% bonus and unlimited near transit) or Article 18.05 inclusionary units.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "None; applied with the entitlement application. Davis is updating its General Plan (2025 to 2027), which may fold density bonus text into a zoning rewrite.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard state law implementation; Davis downtown zones (Article 40.13) are form-based and the 2021-2029 Housing Element rezoned sites to meet RHNA, so the bonus matters most on R-3 and R-HD infill sites. Davis is not Prohousing designated. No fee waiver program for affordable units exists at the City level; development impact fees are set by Council annually. The code mirror (zoneomics) was used because qcode.us is blocked; confirm against the official code.",
+      "source_url": "https://www.zoneomics.com/code/davis-CA/chapter_34",
+      "record_id": "7eeeaf5d5c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "ownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Woodland",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Yolo",
+      "confidence": "verified",
+      "program_name": "Density bonus ordinance (Woodland Code Sec. 25-21-25, now implemented in Chapter 15.16) with fee waiver and fee deferral incentives",
+      "administering_agency": "City of Woodland Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory incentive. Projects of 5 or more units qualify with 10% lower income, 5% very low income, senior housing or 10% moderate income condominiums; base bonus 20% rising 1.5% per 1% of lower income units (2.5% per 1% very low) to a 35% cap under the posted ordinance, and Chapter 15.16 now grants bonuses, concessions, waivers and parking ratios as a matter of right per current Government Code 65915 (up to 50% and unlimited near transit). Listed local incentives include use of local affordable housing funds, waiver or reduction of City building permit, plan check and inspection fees, and waiver or deferral of City impact fees until certificate of occupancy.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus law thresholds (5% very low, 10% low, 10% moderate for-sale, senior or special needs) with covenants of 55 years for rental.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "senior housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "None; request with the planned development, design review or other entitlement application. The Housing Element (Program A.10) commits to keep the ordinance current with state law and to publish a one-page fact sheet.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The fee waiver and impact fee deferral incentives are the city's only fee relief for affordable units and are granted project by project with the density bonus agreement (see the fee deferral record). The 2021 Housing Element found the posted ordinance out of date with Government Code 65915; the ecode360 Chapter 15.16 density bonus section (Ordinance 1662, 2020) is the operative text. Woodland's realistic densities already run near maximums (Spring Lake 101-unit project at 80% of RM density), so the bonus matters most on CMU corridor sites such as Tupelo's CMU-A parcel. City fee waivers are public subsidy and can trigger prevailing wage; impact fee deferrals alone generally do not.",
+      "source_url": "https://www.cityofwoodland.gov/DocumentCenter/View/425/Bonus-Density-Ordinance-PDF",
+      "record_id": "f66d909c3b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "ownership",
+        "senior housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

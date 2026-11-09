@@ -1,0 +1,150 @@
+[
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "County land for affordable housing: 855 East Laurel Drive, Salinas (Eden Housing) and SHARE Center reconfiguration",
+      "administering_agency": "Monterey County Housing and Community Development Department and County Administrative Office, Homelessness Strategies and Initiatives",
+      "funding_type": "other",
+      "typical_award_size": "855 East Laurel Drive (County-owned, declared exempt surplus August 31, 2022; Eden Housing selected with the City of Salinas through an RFQ September 2022; ENA February 17, 2023): 132-unit 100% affordable rental project (53 low, 48 very low, 29 extremely low income, 2 manager units) in two phases (78 and 54 units) approved by the Board on February 28, 2025 with a Lease Disposition and Development Agreement (ground lease); groundbreaking targeted for late 2026 subject to local funding then tax credits. The adjoining SHARE Center (845 East Laurel Drive, 128-bed navigation center) is being reconfigured with twelve non-congregate family cabins and a 30-bed recuperative care area using a Central California Alliance for Health Housing Fund award of $3,222,262 and Health Department match for a $6,444,524 budget (October 30, 2026, Resolution 26-194).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "100% affordable at extremely low to low income under the LDDA and state funding regulatory agreements; recuperative care beds limited to Medi-Cal members.",
+      "eligible_project_types": [
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Eden Housing is assembling local funding (County trust fund and PLHA, City of Salinas) before CTCAC applications; no other County sites are currently offered. Developers should watch Surplus Land Act notices and Board referrals on County property (1220 Natividad Road was referred for trust fund capitalization in 2024).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. East Laurel Drive is the model for County participation: land by ground lease plus trust fund and PLHA loans, with the City of Salinas as co-sponsor; the Alliance Housing Fund award shows Medi-Cal plan capital is available for interim and recuperative housing in the county. Source is the February 28, 2025 Board approval item (Legistar file RES 25-041); SHARE Center details from file RES 26-194.",
+      "source_url": "https://monterey.legistar.com/LegislationDetail.aspx?ID=61351&GUID=D44087DE-7660-4920-9E52-478EA1C0CCF1",
+      "record_id": "bf0928a092",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "100% affordable rental on County ground lease",
+        "interim housing and recuperative care capital (Medi-Cal plan funding)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29: housing interventions and capital development",
+      "administering_agency": "Monterey County Health Department, Behavioral Health Bureau",
+      "funding_type": "other",
+      "typical_award_size": "Three-Year Integrated Plan and budget approved by the Board in June 2026 (Legistar file 26-552): Housing Interventions expenditures $9,025,327 (FY 2026-27), $9,296,089 (FY 2027-28) and $9,574,972 (FY 2028-29); capital development projects $1,130,582 rising to $1,199,435 a year (12.5% of the component); permanent rental subsidies $915,771 a year and interim rental subsidies $305,257 a year plus operating subsidies and a housing flex pool; 51.9% of housing funds dedicated to chronically homeless people; about 1,345 adults and 61 youth served a year.",
+      "per_unit_cap": "Not published; BHSA capital limited to 25% of the component (County planned 12.5%).",
+      "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder; at least half of housing funds for chronically homeless people.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; the Behavioral Health Bureau programs capital and subsidies through contracts. The June 2026 Board item also reported 22 prevention providers losing MHSA PEI funding under the BHSA restructuring.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. Monterey is budgeting roughly $1.1 million a year of BHSA capital, enough for a small PSH gap or acquisition contribution, plus about $900,000 a year of permanent rental subsidies that can be project-based; pair with HHAP-6 operating money and HACM vouchers. Source is the June 2026 Integrated Plan approval item (Legistar file 26-552) with the budget attachment.",
+      "source_url": "https://monterey.legistar.com/LegislationDetail.aspx?ID=65759&GUID=00E0137A-EBD5-4BAA-90FD-AB36F812A89A",
+      "record_id": "aeb9f30acb",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing capital (about $1.1 million a year)",
+        "project-based and tenant-based rental subsidies",
+        "operating subsidies and flex pool units",
+        "interim housing subsidies"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "needs_confirmation",
+      "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, Monterey County Assessor",
+      "administering_agency": "Monterey County Assessor-County Clerk-Recorder (168 W. Alisal Street, Salinas)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Standard state welfare exemption for low-income housing owned by nonprofits or limited partnerships with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement; exemption prorated to qualifying units.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 and supplemental affidavits with the Assessor by February 15, 2027 for the 2027-28 roll.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. Confirmation needed: the Assessor's page on countyofmonterey.gov blocks automated access; the exemption itself is state law.",
+      "source_url": "https://www.countyofmonterey.gov/government/departments-a-h/assessor",
+      "record_id": "7f69b5f898",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC rental housing with nonprofit managing general partner",
+        "nonprofit-owned affordable rental housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Seaside",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "needs_confirmation",
+      "program_name": "CDBG entitlement, Inclusionary Housing In-Lieu Fund and Successor Agency properties (Housing Element funding resources)",
+      "administering_agency": "City of Seaside Community Development Department (Housing and CDBG administration); Successor Agency to the Seaside Redevelopment Agency",
+      "funding_type": "grant",
+      "typical_award_size": "Fifth cycle Housing Element (HCD review draft, March 2020): CDBG entitlement typically about $365,000 a year, allocated annually to public and supportive services and eligible for acquisition, rehabilitation and at-risk unit preservation; Inclusionary Housing In-Lieu Fund balance about $2.6 million as of 2017, historically granted to nonprofit developers to buy existing housing or build new affordable units; Successor Agency Long Range Property Management Plan sites identified for residential and mixed use sale to private developers. Press summaries report a March 2026 Council CDBG funding plan of about $581,000 for FY 2026-27 and an Annual Action Plan to follow HUD's final allocation (not verified on a City page).",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "CDBG 80% AMI benefit; in-lieu fund projects serve very low, low and moderate income households under Chapter 17.32 covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "unknown, verify with agency. CDBG public service applications run each winter for the July program year; FY 2026-27 Annual Action Plan had a 30-day review in spring 2026. In-lieu fund awards are ad hoc by Council action.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Seaside controls three small local layers (CDBG entitlement, in-lieu fund, successor agency land) but has no standing NOFA; a developer should approach Community Development with a site on the Campus Town dedication parcel, the North 40 (county land transferred for affordable housing, 2022 work session) or the Parker Flats and 1620 Broadway sites. County HHAP, County Housing Trust Fund and HACM project-based vouchers (county records) are the larger sources. Could not open the City's housing or CDBG pages: ci.seaside.ca.us returns only JavaScript shells for Search and AgendaCenter, the RSS feed is empty, and the CivicClerk API only holds October and November 2026 agendas (no housing items). Figures therefore come from the fifth cycle Housing Element PDF hosted by HCD and need confirmation against the FY 2026-27 Action Plan.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/seaside-5th-draft031720.pdf",
+      "record_id": "6c8e90aca2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "new construction",
+        "preservation",
+        "public facilities and services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

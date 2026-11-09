@@ -1,0 +1,248 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Orange County 2026 Supportive Housing NOFA (HOME, HOME-ARP, MHSA/BHSA, 15G Reserves, Housing Successor funds)",
+      "administering_agency": "OC Housing and Community Development (OC Community Resources), 1501 E. St. Andrew Place, Santa Ana; Michelle Zdeba, Housing Development Manager, 714-480-2994; Sherluna Vien 714-480-2936; OCHCD.NOFA@occr.ocgov.com",
+      "funding_type": "loan",
+      "typical_award_size": "Up to $20,900,000 in loans authorized by the Board Feb 10, 2026 and released March 6, 2026 (OpenGov NOFA 2026-01), plus up to 100 Housing Choice, Mainstream or VASH project-based vouchers. Replaces the 2025 NOFA ($12,050,000 and up to 150 PBVs) and the 2023 NOFA ($67,100,000 authorized, $32,700,000 and 218 PBVs in Amendment 1). Maximum County subsidy per assisted unit: $137,500 (any bedroom size) in the unincorporated area and Urban County participating cities; $95,000 (0BR), $100,000 (1BR), $105,000 (2BR+) in all other cities. MHSA/BHSA capital limit $207,235 per regulated unit plus up to $207,235 per unit for a capitalized operating subsidy reserve. Minimum five assisted units; total development cost above TCAC's $650,000 per unit threshold needs justification.",
+      "per_unit_cap": "$137,500 per County-assisted unit in unincorporated areas and participating cities; $95,000 to $105,000 elsewhere; HOME units also capped at HUD 221(d)(3) limits; MHSA/BHSA $207,235 per regulated unit (rises 4% a year, locked at application).",
+      "affordability_requirement": "All County-assisted units restricted to households at or below 30% AMI who are experiencing homelessness, filled through the Coordinated Entry System, with a 55-year regulatory agreement from the qualified project period. MHSA/BHSA units serve adults with serious mental illness and may not exceed 49% of project units. Projects outside the unincorporated area must show host-city financial support at least equal to the County request (land, fee waivers and infrastructure count) and accept a RHNA transfer or credit to the County.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Open first come, first served until funds are committed or a new NOFA replaces it. Geographic tiers: March 6 to May 4, 2026 unincorporated area and Urban County cities only; May 5 to June 3 added entitlement cities except Santa Ana, Anaheim and Garden Grove; from June 4, 2026 any eligible location. Allow at least eight months from a complete application to Board approval. PBVs only for sites in OCHA jurisdiction.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The County's only capital program and it is PSH only: every assisted unit must be 30% AMI and CES-referred, so it fits a 4% or 9% deal with a PSH set-aside, not a general affordable project. Terms: 3% simple interest, 55 years, residual receipts split 50% to public lenders pro rata and 50% to the developer, monitoring fees of $500 setup plus $3,795 a year plus $22 per unit, replacement reserves $250 to $500 per unit, partnership management fee up to $25,000. Davis-Bacon applies at 12 or more HOME-assisted units or nine or more PBV units; projects using only MHSA/BHSA or Housing Successor money may avoid Davis-Bacon but state prevailing wage applies to public funds. HOME-ARP, 15G Reserves and Housing Successor dollars are pooled here rather than offered separately. OCHA PBVs can be requested with no capital. Homekey+ projects vetted through the County RFI skip the geographic tiers. NOFA, exhibits and sample loan documents are posted on the NOFA page (opened 2026-11-06).",
+      "source_url": "https://housing.oc.gov/housing-development/developer/notice-funding-availability",
+      "record_id": "f4b888c179",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab",
+        "adaptive reuse",
+        "small-scale housing"
+      ],
+      "next_deadline_date": "2026-06-04",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Housing Successor Low and Moderate Income Housing Asset Fund (Orange County Housing Authority as Housing Successor to the Orange County Development Agency)",
+      "administering_agency": "Orange County Housing Authority as Housing Successor, administered by OC Housing and Community Development",
+      "funding_type": "loan",
+      "typical_award_size": "Housing Asset Fund balance $29,240,000 at June 30, 2024 (FY 2023-24 SB 341 report). Funds are offered only through the County's Supportive Housing NOFAs: $4,000,000 added to the 2016 PSH NOFA in April 2018; 2020 NOFA awards of $2,400,000 to Clara Vista (former Tahiti Motel, Stanton, 60 PSH units, completed Dec 2023) and $453,600 each to Mountain View (Lake Forest, 71 units) and Orchard View Gardens (Buena Park, 66 units); no Housing Successor funds were in the 2023 NOFA, but they are a named source in the 2026 NOFA.",
+      "per_unit_cap": "Follows the Supportive Housing NOFA limits ($137,500 per unit in unincorporated areas and participating cities).",
+      "affordability_requirement": "Health and Safety Code 34176.1: households at or below 80% AMI, at least 30% of spending over five years for extremely low income households, 55-year covenants; excess surplus rules force spending when the unencumbered balance exceeds the greater of $1,000,000 or four years of deposits.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request through the open 2026 Supportive Housing NOFA. The FY 2024-25 SB 341 report link on the County page returned 404 on 2026-11-06; the FY 2023-24 report was read.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A large idle balance (about $29,000,000) that the County must spend to avoid excess surplus findings, so it is the most flexible local money in the NOFA pool: no federal strings, 30% AMI target through the NOFA. Use it for sites outside HOME geography or where Davis-Bacon is a problem. Public funds, so state prevailing wage applies. Housing successor page and FY 2023-24 report PDF opened on housing.oc.gov.",
+      "source_url": "https://housing.oc.gov/housing-development/orange-county-housing-authority-housing-successor",
+      "record_id": "242fe0cf4b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Santa Ana, Anaheim/Orange County Continuum of Care (CA-602) and HHAP",
+      "administering_agency": "County of Orange, County Executive Office, Office of Care Coordination (CoC lead agency and HHAP administrative entity); Orange County CoC Board",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP by round, County of Orange: R1 $7,486,576, R2 $3,422,435, R3 $9,582,817, R4 $7,131,233, R5 $8,346,727, R6 $8,355,062 (agreement through June 30, 2030). Orange County CoC: R1 $8,081,116, R2 $3,823,692, R3 $10,267,304, R4 $7,600,842, R5 $8,699,841, R6 $8,923,350; Anaheim, Santa Ana and Irvine each $5,947,855 in R6 for a regional R6 total of $35,100,000 awarded April 2026. State accountability site: $152,700,000 HHAP rounds 1 to 5 to the Orange County area, $36,000,000 directly to the County ($28,900,000 obligated, $15,300,000 spent by mid-2025); Encampment Resolution Funding $8,700,000 area, $3,600,000 County. HHAP-6 CoC budget: $3,976,421 permanent housing operating subsidies, $592,335 youth operating subsidies, $1,552,663 rapid rehousing, $1,222,663 interim housing operating subsidies, $330,000 youth interim, $624,635 services, $624,635 administration and HMIS. HUD CoC FY 2024 awards to CA-602 included $1,249,326 Permanent Housing Collaborative, $731,787 rapid rehousing and $528,250 Jackson Aisle TRA (partial list). 2024 PIT: 7,322 people, 4,173 unsheltered, 9,751 year-round beds. Homekey+: County RFI (due Nov 27, 2024) qualified Volunteers of America, National CORE, California Supportive Housing, American Family Housing and Weingart Center as development partners.",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness per HUD and state definitions; CoC permanent housing through Coordinated Entry; HHAP-6 obligation and expenditure deadlines (75% obligated and 50% spent by June 30, 2027). HHAP-5 regional plan governs HHAP-6 uses.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 budget approved by the CoC Board in 2025 with Board of Supervisors action Jan 13, 2026; HHAP-7 is open to HHAP-6 grantees per the state. The CoC runs the HUD NOFO competition each summer and the Housing Opportunities Committee meets every other month (next listed April 8, 2026 at OCHA). Homekey+ sites move through the County RFI and the Supportive Housing NOFA.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "HHAP in Orange County pays operating subsidies for permanent and interim housing, rapid rehousing and services; it is an operating partner for PSH, not a capital lender. The region's HHAP is split five ways (County, CoC, Anaheim, Santa Ana, Irvine), so a project inside one of those cities should approach that city's share. County Homekey and Homekey+ sites (Stanton Inn, Tahiti, Casa Paloma and the RFI list) then take OCHA PBVs and MHSA/BHSA loans. Figures from the July 23, 2025 CoC Board presentation (ceo.oc.gov, opened), the Feb 11, 2026 Housing Opportunities Committee slides, HCD HHAP-6 allocations and accountability.ca.gov.",
+      "source_url": "https://ceo.oc.gov/sites/ceo/files/2025-07/Presentation_Revised%20Final%2025.07.23%20-%20CoC%20Board%20Meeting.pdf",
+      "record_id": "cfa06e02d6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "next_deadline_date": "2026-04-08",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Anaheim",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Anaheim Housing Authority",
+      "administering_agency": "Anaheim Housing Authority, 201 S. Anaheim Blvd., Suite 201, (714) 765-4320; Housing and Community Development Department",
+      "funding_type": "rental assistance",
+      "typical_award_size": "About $144,000,000 a year in Section 8 rent assistance to about 6,500 households (2026 fact sheet). PBVs are committed to City-assisted projects: Southeast Corner of Beach and Lincoln (208 S. Beach Blvd) 37 senior units (some HOPWA) and 9 transition-age youth units, waiting list referrals opening November 5, 2026; Center of Hope 50 vouchers (72 PSH units, 2023); Miraflores 8 vouchers (85 units, 2024). The City counts 4,156 affordable apartments in 50 communities (45 fully affordable), 2,851 family, 1,113 senior and 332 special needs units.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PBV admission at or below 50% AMI (30% of adjusted income toward rent); City PSH projects target 30% AMI with Coordinated Entry referrals; HAP contracts up to 20 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open PBV solicitation; request vouchers when responding to a Housing Authority site RFP or negotiating a City loan. Beach and Lincoln waiting list opens November 5, 2026.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Anaheim Housing Authority is a separate PHA from OCHA, so projects inside Anaheim can get PBVs from either; the City's own vouchers are the standard operating layer on City land deals, and HOPWA units can be project-based through the same office. Davis-Bacon applies to new construction or rehab of nine or more PBV units; HAP contracts bring a HUD subsidy layering review. Housing Authority page and 2026 affordable housing fact sheet (DocumentCenter 54022) opened on anaheim.gov; Public Documents page (1947) returned 403.",
+      "source_url": "https://www.anaheim.gov/668/Housing-Authority",
+      "record_id": "eda85673a9",
+      "cycle_notes": "committed through the City's project-specific development agreements",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab",
+        "motel conversion",
+        "senior housing"
+      ],
+      "next_deadline_date": "2026-11-05",
+      "deadline_check": "past_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Irvine",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Irvine Community Land Trust (ICLT) land and development partnerships",
+      "administering_agency": "Irvine Community Land Trust, 501(c)(3) created by the City of Irvine in 2006, 503 Nightmist, Irvine 92618; Board chaired by Ryan Aeh (2026)",
+      "funding_type": "land",
+      "typical_award_size": "ICLT acquires or receives land (including City conveyances such as the four-acre site reported in the City's FY 2023-25 budget) and ground leases it to development partners so that units stay affordable permanently. Portfolio: Alegre Apartments, Doria Apartments, Parc Derian Apartments, Salerno Apartments (501 Nightmist) and Sage Park (affordable ownership); it reports hundreds of affordable units in Irvine and, since its 2017 mission expansion, elsewhere in Orange County. ICLT finances projects with LIHTC, HOME, Orange County Housing Finance Trust loans, FHLB AHP and HUD programs; dollar values of land contributions are not published.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Permanent affordability through recorded ground lease covenants; rental projects have served extremely low to low income households and Sage Park serves moderate income buyers.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "homeownership",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No solicitation open; contact ICLT through its partnerships page. Note the September 2026 governance dispute: ICLT directors wrote to the City Council on September 23, 2026 defending Resolution 26-803 (consultant contract, 5 to 1 vote), which could affect City-ICLT land conveyances.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "ICLT is how Irvine converts inclusionary land dedications and City-owned parcels into 100% affordable projects without a city loan program; a developer partnering with ICLT gets site control at nominal ground rent and then stacks 4% or 9% credits, County MHSA/BHSA capital, OCHFT (Cypress Village Irvine took $3,500,000 in the 2024 OCHFT round) and OCHA PBVs. ICLT is a nonprofit, not a public agency, so its land alone does not trigger prevailing wage, but City land conveyed through it may. ICLT home, about, history, process, partnerships and properties pages and the September 23, 2026 letter opened on irvineclt.org.",
+      "source_url": "https://irvineclt.org/our-process/",
+      "record_id": "77c3a08b6b",
+      "cycle_notes": "partnerships negotiated with ICLT",
+      "eligible_project_detail": [
+        "new construction",
+        "affordable ownership",
+        "supportive housing",
+        "land acquisition"
+      ],
+      "next_deadline_date": "2026-09-23",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Huntington Beach",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "CDBG and HOME entitlement (FY 2025-2029 Consolidated Plan, Resolution 2025-32; annual CDBG Notice of Funding Availability)",
+      "administering_agency": "City of Huntington Beach Community Development Department, Housing Division (Charles Kovac, Housing Manager; Gregory Hoang, Senior Housing Analyst, gregory.hoang@surfcity-hb.org, 714-536-5473)",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2025-26: CDBG grant $1,121,195 plus $258,868 carryover ($1,380,063 total); HOME grant $538,328 plus $306,100 program income ($844,428 total). HOME uses FY 2025-26: Families Forward TBRA $200,000, Mercy House TBRA $200,000, Mobile Home TBRA $128,841, CHDO Reserve/Affordable Housing $261,754, administration $53,833. CDBG capital: code enforcement $246,506, housing rehabilitation $381,139, TBRA administration $235,000, ADA improvements $125,000; public services $168,179 across six agencies. The 2026-27 CDBG NOFA opened October 2, 2025 with applications due December 11, 2025.",
+      "per_unit_cap": "HOME: HUD maximum per-unit subsidy limits.",
+      "affordability_requirement": "HOME rents and 80% AMI limits; CHDO reserve for nonprofit-owned or developed affordable housing; CDBG national objectives.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2027-28 CDBG NOFA expected October 2026 with applications due in December 2026 (verify; the 2026-27 cycle closed December 11, 2025). Action Plan hearing each spring (2025-26 plan adopted March 31, 2025).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Huntington Beach's HOME is small ($538,328) and goes almost entirely to TBRA; only the CHDO reserve (about $260,000 a year) is available for development, so City HOME is a token layer next to County and OCHFT money. Davis-Bacon applies at 12 or more HOME-assisted units. The City's Pathways Project (Jamboree Housing ENA extended 18 months in May 2024 for a permanent shelter and supportive housing at the Navigation Center site, Beach and Edinger Corridors Affordable Housing Overlay) was budgeted from IIG, AHSC, TCAC, BHCIP, Community Care Expansion, OCHFT ($2,500,000), OCHA PBVs ($3,720,000) and Behavioral Health Services funds ($5,000,000), illustrating the stack the City expects. Legistar attachments (FY 2025-26 funding tables, 2026-27 NOFA notice, Pathways funding matrix, ENA extension) opened via the Legistar web API; huntingtonbeachca.gov department pages returned 404 at the old paths.",
+      "source_url": "https://huntingtonbeach.legistar1.com/huntingtonbeach/attachments/c6fadf50-7b29-450f-b8cd-19f552fdfedf.pdf",
+      "record_id": "68e0dc751f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "new construction (CHDO reserve)",
+        "tenant-based rental assistance",
+        "housing rehabilitation"
+      ],
+      "next_deadline_date": "2025-12-11",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

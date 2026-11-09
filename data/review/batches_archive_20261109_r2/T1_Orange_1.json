@@ -1,0 +1,87 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Anaheim",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "needs_confirmation",
+      "program_name": "City-owned and Housing Authority-owned site solicitations for affordable housing (Beach Boulevard corridor and Center City developer RFPs)",
+      "administering_agency": "Anaheim Housing Authority and Housing and Community Development Department, Real Property and Housing Development staff",
+      "funding_type": "land",
+      "typical_award_size": "Land contributions under long-term ground leases plus City gap loans rather than a cash NOFA: Miraflores (85 units) on a 60-year City ground lease with a $3,000,000 HOME loan; Southeast Corner of Beach and Lincoln (46 affordable senior and transition-age youth units) on former Housing Authority land with 46 PBVs; earlier RFPs for 212 S. Beach Blvd (Silvermoon) and State College at Lincoln (about 0.51 acre) sought developers for lower income and special needs housing. The A-LHTF Build More Homes Initiative funds site acquisition for future solicitations.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Project-specific: City solicitations have required 100% affordable or supportive housing with 55-year covenants and local resident preference.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "senior housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; no open RFP was located this pass. Watch Housing Authority agendas for Beach Boulevard parcels (Anaheim Lodge demolition site, 39 Commons remainder).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The most valuable Anaheim resource is land, not cash: the Housing Authority assembled Beach Boulevard motel sites and the City leases them at nominal rent, which replaces a $5,000,000 to $10,000,000 land cost in a 4% deal. Pair with Housing Authority PBVs, HOME or PLHA loans, A-LHTF gap money and County MHSA/BHSA. The RFP pages and Authority agendas could not be opened (anaheim.gov CivicAlerts and DocumentCenter returned 403; Granicus archive lists meetings but not staff reports), so details are from the A-LHTF Guidelines, the Housing Authority page and the 2026 fact sheet.",
+      "source_url": "https://www.anaheim.net/DocumentCenter/View/66427/ADOPTED-Anaheim-Local-Housing-Trust-Fund-Program-Guidelines-and-Funding-Allocation-Plan",
+      "record_id": "9a23b51b02",
+      "cycle_notes": "site-by-site RFPs",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "senior housing",
+        "mixed-use on city land"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "Tier 1 audit 2026-11-08: anaheim.gov returns 403 but the same DocumentCenter file opens on anaheim.net; it is the June 2026 A-LHTF Guidelines, which confirm the Build More Homes Initiative funds site acquisition and gap loans (4% residual receipts, A-LHTF max 50% of City investment). A May 21, 2024 City news item confirms Housing Authority assembly of Beach Boulevard motel sites (Covered Wagon, Anaheim Lodge, Rainbow Inn) for about 120 affordable apartments. Miraflores ground lease and HOME loan, Beach and Lincoln PBVs, and any open RFP were not confirmed on a City page.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Garden Grove",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Housing and Permanent Supportive Housing Development RFP and Housing Element Program 4 (Affordable Housing Construction assistance)",
+      "administering_agency": "City of Garden Grove Community and Economic Development Department, Neighborhood Improvement Division and Housing Authority",
+      "funding_type": "loan",
+      "typical_award_size": "The City posted a developer solicitation (gg.city/afford-rfp, redirecting to the Neighborhood Improvement page for the Affordable Housing and Permanent Supportive Housing Development RFP) seeking qualified developers to build affordable and permanent supportive housing units; the page returned 403 to all fetch methods so the funding amount, sites and deadline could not be read. Housing Element Program 4 commits the City to technical and financial assistance for about 10 affordable units a year (80 units over the cycle) through land cost write-downs and construction assistance from General Fund, HOME, LMIHAF and PLHA, plus expedited processing. The FY 2025-30 Consolidated Plan earmarks part of about $2,900,000 of HOME-ARP for one PSH development, and the Housing Successor is buying the Civic Center Parcel for housing.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Program 4 targets lower income and senior households; HOME-ARP PSH units serve qualifying homeless populations; 55-year covenants under Sec. 9.60.050 regulatory agreements.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; confirm whether the Affordable Housing and PSH Development RFP is still open and whether it covers the Civic Center Parcel. Contact Neighborhood Improvement (714-741-5144).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Likely the only Garden Grove developer solicitation and probably paired with HOME-ARP and LMIHAF land; a respondent should plan on County 2026 Supportive Housing NOFA loans, OCHFT, County BHSA and GGHA PBVs for the rest of the stack. Public funds trigger state prevailing wage. Source is the 2021-2029 Housing Element PDF (opened); the RFP page itself was blocked (ggcity.org/news/afford-rfp and the neighborhood-improvement RFP page both 403).",
+      "source_url": "https://ggcity.org/sites/default/files/HousingElement11921.pdf",
+      "record_id": "35be0946a8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "senior housing",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 1 audit 2026-11-08: Housing Element Program 4 re-read and matches (10 units a year, 80 total, land write-downs and construction assistance from General Fund, HOME, LMIHAF and PLHA, expedited processing). The RFP page and news item still return 403 to curl and fetch; a search snippet describes the RFP as new construction or rehab of multifamily rental for low income households at risk of homelessness with a 5-year experience minimum, but amount, sites and deadline remain unread.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Sonoma County Density Bonus Program (Code Chapter 26, Sections 26-89-050 and 26-89-060)",
+      "administering_agency": "Permit Sonoma",
+      "funding_type": "density bonus",
+      "typical_award_size": "State Density Bonus Law (Gov. Code 65915 to 65917) applied directly: the County acknowledges its Chapter 26 provisions are out of date and states it will comply with current state law until Housing Element Program 15 amendments are adopted (adding lower-income student housing, 100% affordable bonuses, and updated bonus and incentive calculations). Affordable Housing Incentives under Section 26-89-060 also available to projects building inclusionary units on site.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State thresholds (5% very low, 10% low, 10% moderate for-sale, 100% affordable, senior, special populations); county inclusionary units may be counted toward the bonus.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling with the entitlement application; code update timing not published (Housing Element 2023-2031 Program 15). Contact Permit Sonoma Housing at (707) 565-1391.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Because the local code lags the statute, rely on Gov. Code 65915 as amended (up to 80% bonus and unlimited waivers for 100% affordable projects, 3-story height bonus near major transit, reduced parking) and expect staff to process requests case by case. Pair with the inclusionary on-site option so the same units earn the bonus and satisfy the Affordable Housing Program with no in-lieu fee. Permit Sonoma also maintains Streamlined Housing Developments (SB 35 and AB 2011 style) and Rezoning Sites for Housing pages for by-right sites.",
+      "source_url": "https://permitsonoma.org/regulationsandlongrangeplans/regulationsandinitiatives/housing/housinginitiatives/densitybonusprogram",
+      "record_id": "342dedd67a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rohnert Park",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Rohnert Park Inclusionary Housing Ordinance, Municipal Code Section 17.08.010 (re-adopted by Ordinance 991, January 27, 2026): for-sale inclusionary units, Housing In-Lieu Fee and Rental Affordable Housing Fee",
+      "administering_agency": "City of Rohnert Park Development Services Department (Planning and Building)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. For-sale projects over 50 units: 15% of units affordable, half low income (80% AMI) and half moderate income (120% AMI), with 99-year resale restrictions; for-sale projects of 50 units or fewer may instead pay the Affordable Housing In-Lieu Fee of $15,891.95 per unit (Development Impact Fees handout revised July 16, 2026). All new rental projects pay the Rental Affordable Housing Fee of $4.11 per square foot at building permit (first adopted at $3.23 per square foot; adjusted each July 1 by the ENR-CCI San Francisco index); market-rate rental projects have no on-site unit requirement since the 2019 amendment. Fee revenue goes to a segregated affordable housing account used for acquisition, construction and rehabilitation of affordable housing, subsidies, and assistance to other entities, with an annual public report. Developers providing all required units at median, low or very low income get an extra 5% density bonus; alternatives (land donation, transferable inclusionary credits, off-site units, second units for up to half the requirement) need Council approval.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "For-sale inclusionary units: 99-year minimum agreements; rental projects pay the fee instead. Exemptions include projects with vested rights, fire or disaster rebuilds of the same size, and projects whose development agreement sets alternative affordable housing terms.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fees adjust every July 1 (ENR-CCI); planning and building application fees are being restudied for a July 1, 2027 update. Ordinance 991 (comprehensive Title 17 update) was adopted January 27, 2026. Large specific plan areas (University District, Southeast Specific Plan, SOMO Village, Downtown) are governed by development agreements that set their own affordable housing terms (University District and SESP at 15%; downtown CenterCal project exempted from the rental fee in exchange for pursuing 15 affordable units).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The Rental Affordable Housing Fee is Rohnert Park's main local housing revenue source since the 2011 loss of redevelopment; proceeds (budget Fund 4220) plus in-lieu fees fund gap assistance negotiated case by case (see Rohnert Park affordable housing funds record). A 100% affordable rental project would owe the $4.11 per square foot fee unless waived through a development agreement or the Section 17.08.010(I) adjustment process, so request a waiver early. Rohnert Park's for-sale requirement is lower than City of Sonoma's 25% and Petaluma's 15% (which also covers rentals). Ordinance text read from the zoneomics mirror of Title 17; fee amounts from the City's Development Impact Fees handout on rpcity.ca.gov (the former rpcity.org pages redirect and return 404).",
+      "source_url": "https://www.rpcity.ca.gov/DocumentCenter/View/188/Development-Fees-Handout-PDF",
+      "record_id": "ecd822cc32",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental projects (fee)",
+        "for-sale subdivisions (compliance)",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": "2027-07-01",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Sonoma County Housing Fund (Housing Trust Silicon Valley with the Santa Rosa Metro Chamber)",
+      "administering_agency": "Housing Trust Silicon Valley (CDFI; California Finance Lender License 6053356), 75 E. Santa Clara Street Suite 1350, San Jose; lending team Nick Friend (408-703-3837 ext. 223, nick@housingtrustsv.org) and Stephaney Kipple (ext. 244) (underwriting, approval and loan administration) with the Santa Rosa Metro Chamber (local capital raise)",
+      "funding_type": "loan",
+      "typical_award_size": "$10 million initiative launched after the 2017 Tubbs Fire; loans sized to project need for affordable housing throughout Sonoma County.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable housing serving low income populations in Sonoma County.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; contact the Housing Trust lending team.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Private local capital deployed through Housing Trust underwriting. Layer with the Sonoma County CDC combined NOFA (CFH, HOME, CDBG, LMIHAF), the RED Housing Fund and city housing trust funds in Santa Rosa, Petaluma and Rohnert Park. Loan terms follow Housing Trust short term loan products.",
+      "source_url": "https://housingtrustsv.org/programs/developer-funding/sonoma-county-housing-fund/",
+      "record_id": "45d9f65fa9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition",
+        "predevelopment",
+        "construction",
+        "new construction",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

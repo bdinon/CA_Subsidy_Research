@@ -1,0 +1,164 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "CDBG and HOME, San Joaquin Urban County (Neighborhood Preservation Division NOFA)",
+      "administering_agency": "San Joaquin County Human Services Agency, Neighborhood Preservation Division",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27 Urban County entitlements requested by jurisdiction: CDBG $2,948,080 (County share $1,740,858; Escalon $75,000; Lathrop $97,358; Manteca $420,911; Ripon $92,270; Tracy $521,683), HOME $973,290 (County share $663,627) and ESG $258,552, plus about $500,000 CDBG and $500,000 HOME program income. County HOME rental awards in 2026-27: DCDC Senior Housing at Salas Park (Lodi Commons) $230,024 entitlement plus $500,000 program income; STAND solar for permanent supportive shared housing $190,281; CHDO set-aside $145,993. Historic averages per the division: CDBG about $2.4 million a year, HOME about $700,000 a year, ESG about $200,000 a year.",
+      "per_unit_cap": "No local cap published; HOME subsidy limits per 24 CFR 92.250 apply.",
+      "affordability_requirement": "HUD CDBG national objective (51% low and moderate income benefit) and HOME rent and income limits with HOME affordability periods; at least 15% of HOME to CHDOs. Lodi Commons (54 restricted senior units plus manager) is the current HOME-assisted rental example.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026-27 cycle: NOFA posted December 8, 2025, applications due January 23, 2026 at 4:00 pm, virtual workshop December 17, 2025, Board public hearing May 12, 2026. The 2027-28 NOFA is expected in December 2026 with a late January 2027 deadline; confirm with Neighborhood Preservation at (209) 468-3175 or neighborhood@sjgov.org.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). The Urban County covers unincorporated San Joaquin County plus Escalon, Lathrop, Manteca, Ripon and Tracy (qualification package for FY 2027-28 through 2029-30 authorized August 4, 2026); Stockton and Lodi are separate HUD entitlements with their own NOFAs (Pass 3). Roughly half of CDBG and HOME passes through to the five cities, so County HOME available for rental development is typically under $1 million a year including program income; the 2026-27 draft Action Plan says requests far exceeded funds. HOME is used as a small soft loan behind 4% and 9% tax credit deals. Lodi Commons (Housing Authority, 55 units, TDC $28,463,882) stacks $3,031,559 of County HOME from three fiscal years, $2,000,000 County HOME-ARP, $1,000,000 County HHAP, $5,400,000 HACSJ funds, $665,000 City of Lodi CDBG, $2,000,000 Health Net, $3,000,000 San Joaquin Regional Housing Fund, $500,000 HUD CPF and about $10.7 million LIHTC equity, with 32 PBVs and 22 ACC units (FONSI dated November 4, 2026). Davis-Bacon applies to HOME-assisted projects of 12 or more units and to CDBG-assisted projects of 8 or more units; state prevailing wage applies to public subsidy. The Neighborhood Preservation pages moved from sjgov.org to sjchsa.org in 2026; the 2025-2029 Consolidated Plan and 2026-2027 Annual Action Plan are posted there.",
+      "source_url": "https://www.sjchsa.org/Portals/0/resources/neighborhood-preservation/home/2026-2027-Public-Notice-Notice-of-Funding-Availability-(NOFA)-English.pdf",
+      "record_id": "807f3eff4d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental new construction",
+        "multifamily rental acquisition-rehab",
+        "owner rehabilitation",
+        "homebuyer assistance",
+        "public facilities and shelters",
+        "tenant-based rental assistance (not currently funded)"
+      ],
+      "next_deadline_date": "2026-05-12",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County formula allocation",
+      "administering_agency": "San Joaquin County Human Services Agency, Neighborhood Preservation Division",
+      "funding_type": "grant",
+      "typical_award_size": "HCD formula allocation to the County: $919,667 (2024 allocation year), $985,099 (2025), estimated $5,747,919 for the 2024-2028 five-year plan; for 2019-2023 the County was eligible for an estimated $7,571,813 and had received $5,587,686 by early 2026. The County directs its PLHA to Activity 6 (emergency shelter and navigation center operations). 2026 NOFA: $1,884,922 from the 2022 and 2023 allocations; seven grant agreements approved June 30, 2026 (City of Manteca $206,324, City of Tracy $206,324, Gospel Center Rescue Mission $206,324, St. Mary's Community Services $206,324, Haven of Peace $400,000, HOPE Ministries $280,000, McHenry House of Tracy $379,626) running through June 30, 2030.",
+      "per_unit_cap": "Not applicable; the County PLHA plan funds operations, not capital.",
+      "affordability_requirement": "PLHA Activity 6 serves persons experiencing or at risk of homelessness; applicants must show site control for a navigation center. County retains 5% for administration.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Last County PLHA NOFA opened January 16, 2026 and closed February 20, 2026 at 4:00 pm; next cycle not announced. Contact fiscalneighborhood@sjgov.org.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). The County's PLHA five-year plan does not fund multifamily capital, so PLHA is not a County gap source for tax credit deals here; it sustains shelter operations that otherwise compete with HHAP. Stockton, Lodi, Tracy and Manteca receive their own PLHA formula allocations and may use them differently (Pass 3). County allocation figures are from the HCD 2024-2028 PLHA NOFA allocation tables; the 2019-2023 figures and the Activity 6 plan are from the County PLHA public notice (source).",
+      "source_url": "https://www.sjchsa.org/Portals/0/resources/neighborhood-preservation/home/PLHA---PUBLIC-NOTICE.pdf",
+      "record_id": "5da19cf3d0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "emergency shelter and navigation center operations",
+        "supportive and case management services"
+      ],
+      "next_deadline_date": "2026-02-20",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Joaquin County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Housing Authority of the County of San Joaquin (HACSJ)",
+      "administering_agency": "Housing Authority of the County of San Joaquin (PHA code CA024), 2575 Grand Canal Boulevard, Suite 100, Stockton",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HACSJ administers 5,380 Housing Choice Vouchers and 910 public housing units (FY 2026-27 Annual Plan). PBVs are awarded through Requests for Proposals for existing, new construction or substantially rehabilitated housing serving persons with disabilities, veterans and families; a past RFP offered up to 130 PBVs for existing units. FY 2026-27 project-basing: Tracy Apartments Phase I 32 PBVs plus 22 RAD and tenant protection vouchers (54 units), Lodi Commons 32 PBVs plus 22 ACC units (estimated PBV subsidy $152,172 a year), Edison House 19 PBVs plus 14 HUD-VASH (33 units), Grant Street Apartments 24 PBVs.",
+      "per_unit_cap": "Payment standards set annually by HACSJ; PBV rents capped at the lower of reasonable rent or 110% of FMR per 24 CFR 983.",
+      "affordability_requirement": "HUD PBV rules: households at or below 50% AMI at admission with 75% at or below 30% AMI; 15 to 20 year HAP contracts; HACSJ is not a Moving to Work agency so the 20% program cap and PBV competitive selection rules apply (exception for projects selected through a prior competitive public process).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open PBV RFP found on hacsj.org procurement as of November 7, 2026; HACSJ reports it cannot apply for additional vouchers because of funding shortfalls, so new PBVs come from existing voucher authority. Monitor hacsj.org/resources/procurement and Public Purchase.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). PBVs are the main operating subsidy for PSH and senior deals in the county and underwrite debt on Measure-K and Regional Housing Fund projects; HACSJ attaches PBVs to its own Delta Community Developers Corp. projects and to partner projects. Davis-Bacon applies to PBV new construction and rehabilitation of nine or more units. HACSJ also runs HUD-VASH, Family Unification and Emergency Housing Vouchers (EHV sunset noted in 2026) and launched CASH SJC in August 2026, a $4.75 million CDSS-funded direct cash program for about 250 seniors on its waitlists. The 2026-27 Annual Plan (effective October 1, 2026) is the source; PBV program description is on hacsj.org/portfolio-item/project-based-voucher.",
+      "source_url": "https://hacsj.org/wp-content/uploads/2026/09/26-27-Annual-Plan.pdf",
+      "record_id": "6d68d56e51",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "substantial rehabilitation",
+        "existing housing",
+        "permanent supportive housing",
+        "senior housing",
+        "veterans housing"
+      ],
+      "next_deadline_date": "2026-11-07",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Stockton",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "City-Wide Affordable Housing Development Public Facilities Fee (PFF) Exemption Program (with Greater Downtown Residential PFF Exemption; Resolutions 2015-11-17-1602, 2018-02-06-0504, 2018-11-06-1402, 2020-12-15-1105)",
+      "administering_agency": "City of Stockton Economic Development Department (fee programs) with Community Development Department Permit Center",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Full exemption from seven Public Facilities Fee categories (city office space, libraries, fire stations, parkland, community recreation centers, police stations, street improvements) for qualifying new affordable housing anywhere in city limits; the same categories are exempt for all new residential development in the Greater Downtown area. Dollar value depends on the current PFF schedule (not published on the program page); the program was cited by HCD as a basis for Stockton's 2023 Prohousing Designation. Other PFFs (water, wastewater, air quality, habitat, school fees) and the SJMSCP habitat fee still apply.",
+      "per_unit_cap": "Not applicable (fee exemption per unit equals the exempted PFF categories).",
+      "affordability_requirement": "Qualifying affordable housing development as defined in the authorizing resolutions (deed-restricted units); confirm the affordability threshold and covenant term with the Economic Development Department before relying on it.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Programs sunset when the City completes its Master Infrastructure Plans and PFF Nexus Study and adopts new fees; Resolution 2020-12-15-1105 extended them, and the related Stockton Economic Stimulus Plan (SESP) fee reduction is being phased out over five years from 2025. Apply before building permit issuance through the Economic Development Department.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Most valuable local incentive in Stockton after the NOFA; the exemption reduces per-unit soft costs by the PFF categories listed and the downtown exemption applies to market-rate units too, which helps mixed-income deals. A non-residential short-term PFF deferral program (through December 31, 2027) and the non-residential 5 or 10 year deferral do not apply to housing. Stacks with the Chapter 16.40 density bonus and the Housing NOFA; fee exemptions count as public assistance for Labor Code 1720 analysis, so confirm prevailing wage exposure with counsel. Read from the City Business Assistance page (financial_assistance.php); authorizing resolutions are linked there.",
+      "source_url": "https://www.stocktonca.gov/business/economic_development/financial_assistance.php",
+      "record_id": "2b52bc78bc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab (new units)",
+        "mixed-income (downtown)"
+      ],
+      "next_deadline_date": "2020-12-15",
+      "deadline_check": "past_date"
+    }
+  }
+]

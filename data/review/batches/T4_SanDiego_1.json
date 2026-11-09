@@ -1,0 +1,125 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "CDBG acquisition and rehabilitation NOFA (NOFA 2026-01) and HOME Consortium entitlement, San Diego Urban County",
+      "administering_agency": "County of San Diego HHSA, Housing and Community Development Services (HCDS), Community Development; community.development@sdcounty.ca.gov",
+      "funding_type": "loan",
+      "typical_award_size": "NOFA 2026-01 (released June 1, 2026, due July 10, 2026, awards November 2026) offered $1.7 million of CDBG for acquisition and/or rehabilitation of existing affordable multifamily units or land acquisition for affordable housing; new construction is not eligible. FY 2027-28 CDBG applications for public facilities, infrastructure and services ran September 21 to October 30, 2026. HOME and HOME-ARP ($11.9 million HOME-ARP allocation) flow through the capital NOFA; the County's loan portfolio holds about $82 million of federal funds across 123 developments.",
+      "per_unit_cap": "HOME per-unit subsidy limits for HOME-assisted units; none stated for CDBG.",
+      "affordability_requirement": "CDBG: households at or below 80% AMI, HUD minimum 5 years but HCDS imposes 55 years. HOME: at or below 60% AMI with 20% Low HOME units, 20-year HUD minimum, 55 years enforced by HCDS. Eligible areas: Urban County (unincorporated plus Coronado, Del Mar, Imperial Beach, Lemon Grove, Poway, Solana Beach) for CDBG and PLHA; HOME Consortium adds Carlsbad, Encinitas, La Mesa, San Marcos, Santee and Vista.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Next acquisition-rehab CDBG NOFA expected around June 2027 if HCDS repeats the 2026 schedule; HOME and HOME-ARP are in NOFA 2026-03 (due November 19, 2026). CDBG public facilities applications open each September for the following fiscal year.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Terms match the capital NOFA: 3% simple, 55 years, 50% residual receipts, $720 per unit replacement reserve for rehab, 12-month reservation with no extensions, $4,000 compliance fee. Federal money brings Davis-Bacon, Uniform Relocation Act, NEPA release of funds before any choice-limiting action, lead-based paint and Section 3. Useful for preservation buys of small existing properties in the Urban County cities where IHTF is the only other County option. The larger cities (San Diego, Chula Vista, Oceanside, Escondido, El Cajon, Carlsbad for CDBG) are their own entitlements for Pass 3.",
+      "source_url": "https://www.sandiegocounty.gov/content/dam/sdc/sdhcd/new-docs/CD/01.NOFA_2026-01_CDBG-FINAL.pdf",
+      "record_id": "a05f7f39f4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-19",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County of San Diego formula allocation",
+      "administering_agency": "County of San Diego HHSA, Housing and Community Development Services (HCDS)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD's 2024-2028 formula NOFA lists San Diego County at $1,389,802 (2024), $1,488,682 (2025) and an estimated $8,686,263 over five years (the City of San Diego is separate at about $4.1 to $4.4 million a year). HCDS puts PLHA into its capital NOFAs ($1.2 million in NOFA 2026-03, $1.5 million in NOFA 2024-01) and into a moderate-income down payment assistance program.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Rental housing at or below 60% AMI with 55-year affordability under HCDS's NOFA; PLHA guidelines allow up to 80% AMI rental and 120% to 150% AMI ownership. Eligible only in the Urban County (unincorporated plus Coronado, Del Mar, Imperial Beach, Lemon Grove, Poway, Solana Beach).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Through NOFA 2026-03, due November 19, 2026. HCDS is preparing the County's new five-year PLHA plan and application for the 2024-2028 allocations (Board action expected in the coming months), which sets how much goes to development versus down payment assistance.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small relative to the IHTF but it is the one County source that can be used for moderate-income ownership. For rental projects it rides along with IHTF and HOME in the same application, same 3% 55-year loan terms. State funds trigger prevailing wage. Cities with their own PLHA (San Diego, Chula Vista, Oceanside, Escondido and others) are Pass 3.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "e52ac0a3fc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": "2026-11-19",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Diego County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "San Diego City and County Continuum of Care (CA-601, Regional Task Force on Homelessness) and HHAP, County of San Diego share",
+      "administering_agency": "Regional Task Force on Homelessness (RTFH, CoC lead and HMIS lead); County of San Diego HHSA, HCDS Office of Homeless Solutions (County HHAP administrative entity); City of San Diego (large city allocation)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 6 (FY 2026-27 through 2028-29): County $12.1 million (accepted December 9, 2025), RTFH CoC $12.9 million, City of San Diego $25.8 million, from a joint regional application filed August 29, 2025. County HHAP rounds 1 to 6 total about $64 million ($9.99M, $4.57M, $12.79M, $10.5M, $14.1M, $12.1M); the region received $220.6 million in rounds 1 to 5 plus $46.2 million of Encampment Resolution Funds. County HHAP pays for Housing Our Youth, the Local Rental Subsidy Program ($6.6 million in Round 5), shallow rent subsidies, housing stability case management and harm reduction contracts, not capital. 2025 point-in-time count: 9,905 people, 5,714 unsheltered.",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness; HHAP-6 requires a regionally coordinated action plan, 10% youth set-aside, and allows Category 1 permanent housing uses including housing development and capital funding, rental assistance and operating support.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "RTFH's 2026 HHAP application period is open (see rtfhsd.org Grants and Contracts) alongside the FY 2026 HUD CoC NOFO; the County's HHAP-6 is already programmed to existing contracts. HHAP Round 7 depends on the state budget.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County HHAP is operating money, not a capital source, and the County's BHSA plan says it will spend all of it on existing youth, regional housing assistance and local rental subsidy programs as ARPA expires. A PSH developer should look to RTFH for CoC PSH or Rapid Rehousing operating funds and to the City of San Diego's much larger HHAP allocation for capital or operating subsidies inside the city (Pass 3). Coordinated Entry through RTFH is the referral source required by HCDS for homeless units in County-funded projects, and RTFH's CES is the official front door for BHSA housing interventions tied to homelessness.",
+      "source_url": "https://sdcounty.legistar.com/LegislationDetail.aspx?ID=8186&GUID=BA2487AB-80B3-4A8B-88EB-EF4A4D6D05FC&Options=&Search=&FullText=1",
+      "record_id": "8f9b3e1c2f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

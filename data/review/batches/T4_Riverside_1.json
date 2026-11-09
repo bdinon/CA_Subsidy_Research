@@ -1,0 +1,157 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "County gap loans and grants for affordable rental projects (HOME-ARP, HHIP, General Fund, district funds)",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (HWS)",
+      "funding_type": "loan",
+      "typical_award_size": "Project-by-project Board approvals rather than a standing NOFA: Linwood Rose Apartments, Moreno Valley, HOME-ARP loan $3,424,653 plus General Fund loan $1,000,000 to close a construction cost gap (February 10, 2026); Second Street Family Apartments, HHIP loan $3,000,000 plus General Fund loan $1,000,000 (September 22, 2025); Desert Marigold Apartments, Cathedral City (97 units, 96 PBVs), HHIP grant $5,050,000 (May 6, 2025); Sunrise at Bogart, Riverside, HOME-ARP loan $1,800,000 (April 15, 2025). The FY 2026-27 budget added $5,000,000 of General Fund to HWS for shovel-ready affordable housing and $1,500,000 to Lift to Rise; Supervisor district Unincorporated Communities Initiative funds have also been directed to HWS for housing ($692,239 from District 4, June 24, 2025).",
+      "per_unit_cap": "Not published; recent awards ran about $30,000 to $52,000 per unit.",
+      "affordability_requirement": "HOME-ARP qualifying populations and HHIP homeless set-asides with 55-year County covenants; General Fund loans follow the same covenant.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; developers approach HWS Community and Housing Development with a financing gap and a project already holding tax credits or PBVs. The $5 million FY 2026-27 General Fund appropriation had not been programmed in Board files opened this pass.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. The County's pattern is a last-dollar loan of $1 million to $5 million from whatever source is available (HOME-ARP, Medi-Cal HHIP, General Fund) paired with HACR PBVs (Desert Marigold 96, Linwood Rose, Second Street) and state Homekey+ or NPLH; loans are residual receipts style under County covenant agreements and subordinate to senior lenders. Source is the February 10, 2026 Linwood Rose Board item on media.rivcocob.org; companion items are at proceeds/2025/p2025_09_22_files/03.29001.pdf and proceeds/2025/p2025_05_06_files/03.25001.pdf.",
+      "source_url": "https://media.rivcocob.org/proceeds/2026/p2026_02_10_files/03.16001.pdf",
+      "record_id": "1323a35dfd",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "permanent supportive housing",
+        "projects with existing County or state commitments facing cost gaps"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County formula allocation and PLHA development loans",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (HWS)",
+      "funding_type": "loan",
+      "typical_award_size": "HCD formula allocation to the County: $2,805,041 (2024 allocation year), $3,004,612 (2025), estimated $17,531,506 for the 2024-2028 five-year plan. Uses in 2026: PLHA loan of $500,000 to Arroyo Crossing Phase I, Indio (184 units; February 10, 2026), PLHA loans to Villa Verde Apartments, Coachella (March 3, 2026) and Palm Villas at State Phase I, Hemet (October 6, 2026), about $1.8 million for Shady Lane Mobile Home Park in Thermal, and a PLHA down payment program (up to $100,000 or 20% of price, combinable with HOME to $200,000, households to 120% AMI).",
+      "per_unit_cap": "Not published; PLHA loans have been $500,000 per project.",
+      "affordability_requirement": "Arroyo Crossing terms: 49% of non-manager units (89) restricted to very low and low income with at least 20% of PLHA units (17) at very low income, 55-year covenant to at least July 1, 2080, 3% simple interest, annual payments from 25% of residual receipts shared with other public lenders.",
+      "eligible_project_types": [
+        "new construction",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standing PLHA NOFA; HWS commits PLHA to projects in the HACR PBV pipeline by Board action. Contact HWS Community and Housing Development.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. PLHA is the County's most flexible recurring source but is spread thin across homebuyer assistance, mobile home parks and $500,000 loans to tax credit deals; it is typically the smallest piece of a stack led by 4% credits, HACR PBVs and a HOME or HOME-ARP loan. Source is the Arroyo Crossing PLHA loan Board file (loan agreement FileOpen ID 85874); allocation figures from the HCD 2024-2028 PLHA NOFA tables.",
+      "source_url": "https://riversidecountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=29098",
+      "record_id": "1f1d943711",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "mobile home park preservation",
+        "down payment assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Homekey+ joint applications sponsored by the County",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (HWS) as co-applicant with the developer",
+      "funding_type": "grant",
+      "typical_award_size": "Resolution 2026-086 (June 23, 2026): joint Homekey+ application with Camino Terrace LP and Wakeland Housing and Development Corporation for up to $20,000,000 for Camino Terrace Apartments, Jurupa Valley (80 units on HACR land with 42 PBVs). Resolution 2025-084 (April 15, 2025): joint application with Abode Communities for Villa Verde I, Coachella, for up to $9,000,000. HWS also accepted a $5,000,000 HCD grant for relocating Oasis Mobile Home Park residents to San Antonio del Desierto (July 14, 2026).",
+      "per_unit_cap": "State Homekey+ per-unit limits apply.",
+      "affordability_requirement": "Homekey+ serves people experiencing or at risk of homelessness with behavioral health conditions and veterans; 55-year restrictions; County covenant layered on.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "State NOFA driven; the County co-applies case by case when a project already holds HACR PBVs or County land.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. The County's Homekey+ role is sponsorship and services match rather than cash; both 2025-26 applications sit on HACR-controlled land with PBVs and PLHA or Low-Mod loans, which is the template for new sponsorships. Source is the June 23, 2026 Board item on media.rivcocob.org.",
+      "source_url": "https://media.rivcocob.org/proceeds/2026/p2026_06_23_files/03.24001.pdf",
+      "record_id": "b52b6b82c2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing new construction",
+        "acquisition and conversion",
+        "veterans housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "County of Riverside Revolving Loan Fund (REAP 2.0 Subregional Partnership seed capital)",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (HWS)",
+      "funding_type": "loan",
+      "typical_award_size": "Seeded with $696,722 of SCAG REAP 2.0 Subregional Partnership 2.0 funds (Resolution 2026-021, February 10, 2026) plus up to $200,000 more from SCAG; low-interest loans to developers to improve feasibility, repaid and relent over time.",
+      "per_unit_cap": "Not published; fund guidelines adopted with the resolution.",
+      "affordability_requirement": "Households at or below 80% AMI; projects in REAP 2.0 infill areas; priority on preserving Polanco parks and mobile home parks and other affordable housing.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applications accepted on a rolling basis; borrowers must have entitlements, CEQA clearance and committed construction and permanent financing.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. Small today (under $1 million) but structured to grow; useful for predevelopment or small gap pieces on mobile home park preservation in the eastern Coachella Valley and infill sites. Source is the February 10, 2026 Board item on media.rivcocob.org.",
+      "source_url": "https://media.rivcocob.org/proceeds/2026/p2026_02_10_files/03.15001.pdf",
+      "record_id": "4ed0b28b41",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction of affordable mobile home communities",
+        "multifamily rental new construction",
+        "homeless and transitional rental housing",
+        "acquisition and rehabilitation of affordable rental housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

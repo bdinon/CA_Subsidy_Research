@@ -1,0 +1,192 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "State HOME Investment Partnerships Program loans (County as HCD HOME grantee)",
+      "administering_agency": "Nevada County Housing and Community Services Department (funds from California HCD)",
+      "funding_type": "loan",
+      "typical_award_size": "Lone Oak Senior Apartments II: HOME loan of $11,041,628 (State Loan Agreement 23-HOME-16301) approved May 19, 2026 (Resolution 26-197) after a March 26, 2024 application of up to $12,200,000 (Resolution 24-119). Loan is deferred, repaid from residual receipts, 3% interest, 55-year term commencing at final certificate of occupancy, secured by deed of trust with senior and junior regulatory agreements and a replacement reserve agreement.",
+      "per_unit_cap": "About $356,000 per unit on Lone Oak II (31 units). State HOME rental NOFA caps apply.",
+      "affordability_requirement": "HOME-assisted units at 50% and 60% AMI for 55 years (state HOME rental program), layered under TCAC restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "senior housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Depends on HCD's next state HOME rental NOFA; the County applies on behalf of a specific developer and project. Contact HCS before HCD releases the NOFA.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. Nevada County is a non-entitlement jurisdiction, so HOME comes only through state HCD competitive rounds with the County as applicant and the developer as sponsor. The Lone Oak II award shows the County will carry an $11 million HOME loan for a 31-unit 4% project when paired with a trust fund loan and CMFA bonds. Grant administration was contracted to Adams Ashby Group (July 28, 2025).",
+      "source_url": "https://nevco.legistar.com/LegislationDetail.aspx?ID=49505&GUID=728B8167-4C0C-4231-9D8B-60826977FADB",
+      "record_id": "9196f47e0c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "senior affordable housing",
+        "acquisition/rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Homekey+ permanent supportive housing (County with AMI Housing)",
+      "administering_agency": "Nevada County Behavioral Health and Homelessness Department with Advocates for Mentally Ill Housing (AMI Housing); funds from California HCD",
+      "funding_type": "grant",
+      "typical_award_size": "Two HCD Homekey+ awards to the County of Nevada and AMI Housing: Stagecoach Motel, Grass Valley (acquisition and rehabilitation, 17 units, 16 assisted, 10 veteran) $5,866,160 awarded November 13, 2025 ($4,742,960 capital, $823,200 operating, $300,000 veteran operating); Nevada County Permanent Supportive Housing Expansion Project (single-family scattered site, 24 units) $5,231,453 awarded December 16, 2025 ($4,641,430 capital, $590,023 operating). Board authorized applications up to $8,000,000 (Resolutions 25-165, 25-476, 26-410) and released $595,000 from Fund 1589 to buy 135 East Empire Street for PSH (December 1, 2025).",
+      "per_unit_cap": "About $345,000 per unit (Stagecoach) and $218,000 per unit (scattered site) all-in.",
+      "affordability_requirement": "Permanent supportive housing for people experiencing homelessness with behavioral health conditions; Stagecoach reserves 10 units for veterans; 55-year Homekey+ covenants.",
+      "eligible_project_types": [
+        "supportive housing",
+        "predevelopment",
+        "interim housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Homekey+ NOFA (November 26, 2024) is fully committed; the County expects 24 scattered-site beds online in FY 2026/27 and Stagecoach after rehab. Any future round would again be a County and AMI Housing joint application.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. The County acts as applicant and property owner with AMI Housing as operator, so there is no open developer solicitation. Operating subsidies come from the Homekey+ operating awards and BHSA Housing Interventions; vouchers are not available (Regional Housing Authority lists closed through 2026). A developer wanting to partner should approach the Behavioral Health and Homelessness Department.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/homekey/hk-plus-awardee-list.pdf",
+      "record_id": "d01916416d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "motel conversion to PSH",
+        "scattered-site acquisition",
+        "permanent supportive housing"
+      ],
+      "next_deadline_date": "2024-11-26",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation and Prohousing Incentive Program (PIP) application",
+      "administering_agency": "Nevada County Housing and Community Services Department",
+      "funding_type": "policy/designation",
+      "typical_award_size": "HCD awarded Nevada County a Prohousing Designation on May 27, 2025 (score 60) following Resolution 24-391 (July 9, 2024). On March 24, 2026 (Resolution 26-093) the Board authorized a PIP application of up to $1,250,000 for housing planning and implementation activities (ADU prototype plans, rezoning in unincorporated communities, housing programs). No award posted yet.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Not applicable to the designation; PIP funds must serve housing activities per HCD guidelines.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "PIP award decision pending with HCD. Designation is active and must be maintained with housing element compliance.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. The Prohousing Designation gives projects in unincorporated Nevada County extra points or priority in state programs such as AHSC, IIG, Multifamily Housing Program and Homekey. Cite it in state applications. If PIP is awarded, part may capitalize local housing programs; ask HCS how the funds will be used.",
+      "source_url": "https://nevco.legistar.com/LegislationDetail.aspx?ID=49386&GUID=DA01AA13-4E25-478B-AB62-2B7F57B44EBC",
+      "record_id": "5ed5a53671",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "planning and implementation (County)",
+        "indirect benefit: projects in a Prohousing jurisdiction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "Town of Truckee",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Truckee existing-stock deed restriction programs: Truckee Home Access Program (THAP), Lease to Locals, Rooted Renters and Short-Term Rental Workforce Housing Token pilot",
+      "administering_agency": "Town of Truckee Housing Division",
+      "funding_type": "grant",
+      "typical_award_size": "THAP pays buyers up to $150,000 (maximum $937,500 purchase price), sellers and local businesses for permanent workforce deed restrictions on homes (cap 245% AMI). Lease to Locals pays owners up to $18,000 to convert homes to long-term local rentals; Rooted Renters pays up to $26,000 to lock in below-market rents. The STR Token pilot gives short-term rental certificates in exchange for 15-year workforce deed restrictions (150% AMI average per adult; applications closed June 20, 2024). Results to date: 871 deed-restricted units (6.2% of stock), 33 THAP homes, 276 Lease to Locals conversions, 76 Rooted Renters units, 37 ADUs created through grants and loans.",
+      "per_unit_cap": "THAP $150,000 per home; Lease to Locals $18,000; Rooted Renters $26,000.",
+      "affordability_requirement": "Occupants must work locally; income caps vary by program (THAP 245% AMI; Token 150% AMI per adult).",
+      "eligible_project_types": [
+        "preservation",
+        "adu",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Open; THAP parameters under review with revisions targeted for Q4 2026.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Not a source for new affordable multifamily, but signals the Town's local revenue priorities: its housing dollars go mainly to deed restrictions of existing stock and middle-income production. The Town's goal is 10% of housing stock deed restricted by 2032. The Council work plan lists a potential housing revenue measure and draft Program H-2.F targets at least $300,000 per year of added local funding (additional TOT, business, sales or transfer tax). Mountain Housing Council of Tahoe Truckee (Tahoe Truckee Community Foundation) is the regional partner for AMI tiers above 120%.",
+      "source_url": "https://www.townoftruckee.gov/225/Housing",
+      "record_id": "e830d08995",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation",
+        "homeownership",
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Nevada City",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Nevada City subdivision affordability requirement (30% of homes 1,500 square feet or smaller; Section 17.80.220 lower income share)",
+      "administering_agency": "City of Nevada City Planning Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Since 2009 new subdivisions must make 30% of homes 1,500 square feet or smaller and affordable to moderate and lower income households, via deed restriction or an affordable housing plan approved by the Planning Commission or Council (size limits, rental units, second units). The APR cites Section 17.80.220 as requiring 20% lower income units in developments. 34 lots approved to date under the affordability-by-design rule.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Moderate and below income through deed restriction or approved affordable housing plan.",
+      "eligible_project_types": [
+        "new construction",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Functions as a light inclusionary rule without an in-lieu fee or fund. Section 17.80.220 text was not opened this pass (not on the zoneomics mirror), so confirm the 20% lower income requirement and its thresholds with the City before relying on it.",
+      "source_url": "https://nevadacityca.gov/DocumentCenter/View/2515/2025-Housing-Element-Annual-Progress-Report?bidId=",
+      "record_id": "f36356c385",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate residential (compliance)",
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

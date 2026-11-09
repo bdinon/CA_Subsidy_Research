@@ -1,0 +1,491 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "County Fund for Housing (CFH)",
+      "administering_agency": "Sonoma County Community Development Commission (CDC)",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2026-27 NOFA: $8,000,000 available (up from $1,500,000 in FY 2025-26 and $1.5M in FY 2024-25). FY 2025-26 awards: Freebird Development, Healdsburg, 42 units, $1,340,417; Burbank Housing, Guerneville, 21 units, $159,583. Minimum loan $100,000; maximum limited to one program year's funds unless the Board commits future years. Since 2003 the fund has invested over $24M in more than 550 homes.",
+      "per_unit_cap": "No fixed cap; CFH-assisted unit count is set using the HOME per-unit subsidy limits (0-bdrm $153,314 to 4-bdrm $303,490 as of Sept 2021).",
+      "affordability_requirement": "Rental: all assisted units affordable 55 years, initially to very low income (50% AMI), may float up to low income (80% AMI) on turnover. Priorities: most units at lowest incomes, geographic distribution across cities and unincorporated area, Housing Opportunity Sites, integration with health and human services, PSH and special needs. Homeownership: first-time buyers at or below 120% AMI with 20% of units at 80% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The FY 2027-28 combined CDC NOFA (CDBG, HOME, ESG, CFH, LMIHAF) has not been posted. Based on the FY 2026-27 schedule, expect a late February 2027 release with an early April 2027 application deadline; the agency has not announced dates.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Sonoma's main local gap source, capitalized by County General Fund, Reinvestment and Revitalization Funds (former RDA), developer in-lieu fees from the residential Affordable Housing Program, non-residential Workforce Housing fees, countywide transient occupancy tax, and loan repayments. Residual receipts loans structured to be compatible with LIHTC investor requirements; interest set by the Commission. Awarded in one annual NOFA together with HOME, CDBG, ESG and LMIHAF so applicants file once. Funds may go to projects inside cities only where the city has a RHNA Sharing Agreement with the County (shelters and congregate facilities exempt). Sponsors must comply with the County Living Wage Ordinance; the policy is silent on prevailing wage, so the Labor Code 1720(c)(6)(E) below-market-loan exemption may apply unless HOME or CDBG is also used. The County does not act as a conduit bond issuer; recent Sonoma deals used CMFA (Burbank Housing $8.12M) and CalHFA. CFH awards are typically $1M to $3M and are counted as local leverage for CTCAC tiebreaker and CDLAC readiness.",
+      "source_url": "https://sonomacounty.gov/development-services/community-development-commission/divisions/community-development/funding-opportunities/county-fund-for-housing",
+      "record_id": "ff3f1c176b",
+      "cycle_notes": "Single combined annual CDC NOFA with a mandatory technical assistance workshop. FY 2026-27 round: issued February 21, 2026, applications due April 3, 2026 at 5 pm, CD Committee and CTAC recommendations May 13, 2026, final hearings June 17, 2026, Board adoption July 7, 2026. No FY 2027-28 NOFA posted as of November 8, 2026. FY 2026-27 CFH amount confirmed in NOFA: $8,000,000.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Deadline refreshed November 8, 2026. Prevailing wage left unclear: CFH Policy (11/7/2023) cites only the County Living Wage Ordinance, and CDC Loan Policies (10/8/2024) section III.M.2 requires compliance with State prevailing wage law only as applicable, so no rule settles coverage for a CFH-only loan.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County of Sonoma",
+      "administering_agency": "Sonoma County Community Development Commission (CDC) for the County of Sonoma",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2025-26 distribution $979,795 (Burbank Housing Guerneville 21 units $555,795; Habitat for Humanity Sebastopol 4 ownership units $424,000). Separate NOFAs: Sept 10, 2025 for rental or ownership projects (due Oct 30, 2025); Sept 17, 2026 for affordable owner-occupied workforce housing only, $674,360 over the counter. Residual receipts loans.",
+      "per_unit_cap": "None published; recent rental award about $26,500 per unit.",
+      "affordability_requirement": "County PLHA Five-Year Plan: 75% to multifamily rental for households at or below 50% AMI, 20% to owner-occupied workforce housing up to 120% AMI, 5% administration. 55-year restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Rental PLHA next expected in the CDC's fall 2026 or early 2027 NOFA (2025 pattern: September release, Oct 30 deadline); AOWH PLHA open over the counter since Sept 17, 2026 until the $674,360 is exhausted. Geography excludes the City of Santa Rosa and City of Petaluma, which receive their own PLHA.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "State formula money with no federal strings; small annual amounts (under $1M) make it a top-up to CFH rather than a primary source. Mandatory technical assistance workshop before applying. Nonprofit and government applicants only. Below-market residual receipts loan, so the Labor Code 1720(c)(5)(E) prevailing wage exemption may apply absent other public funds that carry their own requirement.",
+      "source_url": "https://sonomacounty.gov/notice-of-funding-availability-–-permanent-local-housing-allocation-funds",
+      "record_id": "072825af0f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "error",
+      "prevailing_wage_basis": "Neither the County FY 2025-26 PLHA NOFA nor HCD's 2024-2028 PLHA Formula Guidelines and Formula Allocation NOFA mention prevailing wage. Coverage rests on the general Labor Code 1720(b) public-funds definition; PLHA residual receipts loans may fall under the 1720(c)(5)(E) exemption (below-market loans, at least 40 percent of units restricted 20 years at or below 80 percent AMI) or 1720(c)(3) de minimis, depending on project facts and other sources. Source: https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Prevailing wage left unclear: PLHA NOFA and HCD guidelines are silent, and the outcome depends on Labor Code 1720(c) exemptions and project facts. Corrected exemption citation from 1720(c)(6)(E) to 1720(c)(5)(E).",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Low and Moderate Income Housing Asset Fund (LMIHAF), Sonoma County Housing Successor",
+      "administering_agency": "Sonoma County Community Development Commission as housing successor to the former County redevelopment agency",
+      "funding_type": "grant",
+      "typical_award_size": "Up to $250,000 per year for homeless prevention and rapid rehousing services (FY 2025-26 and FY 2026-27 NOFAs). Fund balance available for all uses $2,509,338 at June 30, 2025; loans receivable $31.2M; FY 2024-25 expenditures $3.84M. Not currently offered for development.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Community Redevelopment Law housing provisions (very low and low income); current awards are homeless services, not capital.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. LMIHAF is offered only for homeless prevention and rapid rehousing services in the combined CDC NOFA; the FY 2027-28 NOFA has not been posted (expected about late February 2027 based on the prior cycle). No capital round is offered.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Included so the fund is not mistaken for a development source: the County keeps LMIHAF for services and the former RDA Reinvestment and Revitalization money flows into CFH instead. Loan repayments from legacy RDA projects replenish the fund and could be redirected to capital in future years.",
+      "source_url": "https://sonomacounty.gov/Main%20County%20Site/Development%20Services/CDC/Documents/Successor%20Agency/Housing%20Successor%20Agency%20Annual%20Reports/Remediated_FY%2024-25%20Housing%20Successor%20Agency%20Annual%20Report.pdf",
+      "record_id": "8b40a193d2",
+      "cycle_notes": "Awarded in the combined annual CDC NOFA. FY 2026-27: $250,000 for homeless prevention and rapid rehousing services, issued February 21, 2026, due April 3, 2026. Fund balance available for all other uses $2,509,338 at June 30, 2025.",
+      "eligible_project_detail": [
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Deadline refreshed November 8, 2026. Prevailing wage left unclear: current LMIHAF awards are services only and no LMIHAF document states a prevailing wage rule; CDC Loan Policies say State prevailing wage applies only as applicable.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Traffic and Parks Impact Fee Waiver for Affordable Housing (2025-2026)",
+      "administering_agency": "Sonoma County Board of Supervisors; administered through Permit Sonoma",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Waiver of County traffic mitigation and parks impact fees for affordable projects in the unincorporated area that received building permits from Feb 1, 2025 through Dec 31, 2026; staff estimated up to $19.5M in fees waived across 15 eligible projects (over 1,900 affordable units) with a $1.5M General Fund backfill.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units reserved for moderate-, low- and very low-income renters or buyers; recorded deed restriction of at least 55 years for rental and 45 years for ownership units. Minimum affordable percentage not stated in the County release; confirm with Permit Sonoma.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Expires Dec 31, 2026 unless extended; the County is studying its fee structure and may adopt a permanent program. Permits must be issued before the sunset.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Worth several thousand dollars per unit in the unincorporated county and reduces basis for the CTCAC cost containment score. Labor Code 1720(b)(4) counts fees waived or forgiven by a public agency as public funds, so a waiver can itself trigger state prevailing wage unless the project is otherwise exempt; most LIHTC projects taking HCD money already pay prevailing wage. Does not cover the affordable housing in-lieu fee, school, water agency or sanitation district fees. Multi-family fee deferral (separate record) remains available after the waiver sunsets.",
+      "source_url": "https://sonomacounty.gov/sonoma-county-board-of-supervisors-reduces-fees-for-affordable-housing-projects",
+      "record_id": "05b9656e09",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program-specific prevailing wage rule found. Labor Code 1720(b)(4) counts fees waived, reduced or charged at less than fair market value by a public agency as public funds, so the County traffic and parks fee waiver can make a private project paid for in part with public funds; coverage then turns on project facts and the 1720(c) exemptions, including 1720(c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost) and 1720(c)(5)(E) (below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI). Most LIHTC deals with HCD money pay prevailing wage anyway. Source: https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Prevailing wage left unclear: only basis is Labor Code 1720(b)(4) and the result depends on 1720(c) exemptions and project facts; confirm with counsel or a DIR coverage determination.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Multi-Family Development Fee Deferral Program",
+      "administering_agency": "Permit Sonoma",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral of County development fees (traffic impact and parkland dedication fees; not school, water agency or sanitation district fees) from building permit final until permanent financing closes, under a recorded Fee Deferral Agreement.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable rental or ownership housing for low- or very low-income households, or special needs housing (elderly or disabled) with at least 20% of units for low-income households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; request by letter with the permit application. Approval requires a Director finding that the fees are not needed for near-term programmed improvements; agreement signed before building or grading permit.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Bridges construction-period cash flow so impact fees are paid from permanent sources at conversion, a common pairing with CalHFA or bond-financed 4% deals. Deferral terms (interest, security) are not published; a deferred fee charged at less than market terms may be treated as public funds under Labor Code 1720(b)(4). Separate single-family ADU affordable-fee deferral exists for restricted ADUs.",
+      "source_url": "https://permitsonoma.org/regulationsandlongrangeplans/regulationsandinitiatives/housing/housinginitiatives/multi-familydevelopmentfeedeferralprogram",
+      "record_id": "1bbf495db3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program-specific prevailing wage rule found. Labor Code 1720(b)(4) counts fees waived, reduced or charged at less than fair market value by a public agency as public funds, so the fee deferral, if charged at less than fair market terms, can make a private project paid for in part with public funds; coverage then turns on project facts and the 1720(c) exemptions, including 1720(c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost) and 1720(c)(5)(E) (below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI). Most LIHTC deals with HCD money pay prevailing wage anyway. Source: https://california.public.law/codes/labor_code_section_1720 Permit Sonoma does not publish deferral interest or security terms.",
+      "audit_note": "Prevailing wage left unclear: only basis is Labor Code 1720(b)(4) and the result depends on 1720(c) exemptions and project facts; confirm with counsel or a DIR coverage determination.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Measure O Behavioral Health and Homelessness sales tax, housing category",
+      "administering_agency": "Sonoma County Department of Health Services",
+      "funding_type": "grant",
+      "typical_award_size": "Quarter-cent countywide sales tax (approved 2020, 10-year term) generating about $30M to $33M a year across five categories, one of which is Transitional and Permanent Supportive Housing. Pathways to Sustainability NOFA (released Aug 14, 2025) awarded $10M in Measure O plus $2.4M HHAP to 26 projects on Feb 10, 2026; PSH awards went to Committee on the Shelterless ($392,034 Measure O and $196,017 HHAP) alongside city, shelter and services grants.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Transitional and permanent supportive housing for people with behavioral health conditions experiencing homelessness; awards to date are predominantly operating and services, not capital.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2025-26 round awarded Feb 10, 2026. The County says it hopes applicants 'continue to submit proposals for future projects' but has not announced a 2026-27 NOFA; the February 2026 release noted doubts about future funding levels. Measure sunsets around 2030-2031.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Best viewed as an operating and services subsidy for PSH units rather than a capital source; pair with HCD Homekey+, MHP supportive units and PBVs. Sonoma's BHSA (Prop 1) housing interventions requirement (30% of BHSA funds, half for chronically homeless) begins July 2026 and is administered by the same department; no BHSA capital NOFA was found. County funds are public funds for prevailing wage purposes if used for construction.",
+      "source_url": "https://sonomacounty.gov/board-of-supervisors-awards-124-million-in-measure-o-and-state-funds-for-mental-health-and-homeless-services",
+      "record_id": "252e0f6433",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No Measure O program rule on prevailing wage found; awards to date fund operations and services, which are not construction. If Measure O money paid for construction or rehabilitation it would be public funds under Labor Code 1720(b)(1), with coverage depending on 1720(c) exemptions (for example 1720(c)(3) de minimis or 1720(c)(5)(D) nonprofit shelters with at least 50 percent nonpublic funding). Source: https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Prevailing wage left unclear: no program rule; only the general Labor Code 1720 definition applies and the result depends on use of funds and 1720(c) exemptions.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Sonoma County Homeless Coalition (CoC CA-504) funding: HUD CoC competition and Homeless Services Consolidated NOFA (HHAP, ESG, HHIP)",
+      "administering_agency": "Sonoma County Department of Health Services, Homelessness Services Division, as CoC collaborative applicant",
+      "funding_type": "rental assistance",
+      "typical_award_size": "2026 HUD CoC competition: about $4.9M in renewal funding; HUD had not announced CoC Bonus or DV Bonus amounts; local applications due July 21, 2026. Annual Homeless Services Consolidated NOFA (state ESG, one-time HHAP, DHCS HHIP and local sources): about $5.5M expected in the 2025-26 cycle (applications due Feb 7, 2025). HHAP rounds 1 to 5 brought $32.2M to the Sonoma area; HHAP Round 5 allowed one CoC Builds PSH construction project.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Homeless households via Coordinated Entry; CoC PSH rental assistance and services; HHAP permits permanent housing capital as an eligible use.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The FY 2026 CoC collaborative application and final priority listing have been submitted; the FY 2027 HUD CoC competition and the next Homeless Services Consolidated NOFA are not yet announced (the prior Consolidated NOFA cycle had a February deadline).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Operating-side partner for PSH: CoC rental assistance or HHAP operating subsidy can replace or supplement PBVs on supportive units. HHAP capital for permanent housing is allowed but Sonoma has directed most HHAP to shelter, outreach and rehousing. Developers should engage the Homelessness Services Division early so a PSH project appears in the CoC's regional action plan and Coordinated Entry referral agreements.",
+      "source_url": "https://sonomacounty.gov/2026-notice-of-funding-opportunity-coc-program-competition-and-sonoma-county-coc-request-for-proposals-(rfp)",
+      "record_id": "27dc1095a8",
+      "cycle_notes": "HUD CoC competition: FY 2026 local RFP published July 1, 2026, about $4.9M renewal funding, local applications due July 21, 2026 at 5 pm; new projects limited to TH, SSO and DV Bonus, no new permanent housing accepted. Homeless Services Consolidated NOFA runs separately on a winter cycle.",
+      "eligible_project_detail": [
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Deadline refreshed November 8, 2026. Prevailing wage left unclear: CoC and Consolidated NOFA pages state no prevailing wage rule, and coverage depends on whether a project uses HHAP or CoC funds for capital.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "RED Housing Fund (Renewal Enterprise District, PG&E wildfire settlement capital)",
+      "administering_agency": "RED Housing Fund, a nonprofit capitalized with $10M each from the County of Sonoma and the City of Santa Rosa (PG&E 2017 fire settlement), affiliated with the Renewal Enterprise District JPA",
+      "funding_type": "loan",
+      "typical_award_size": "Round 2 (NOFA issued March 4, 2026, due April 1, 2026): up to $5,000,000 in loans. Loan size up to 10% of project cost. Affordable projects: subordinate or senior loan at 3% interest, interest only during construction and up to 36 months after conversion, then amortizing, up to 18-year combined term, sized at minimum 1.05 combined DSC. Market rate or middle income: construction loan at senior rate plus 1% (4% floor), up to 3 years; permanent loan at first-position rate plus 1% (4% floor), up to 10 years. 1% origination fee ($10,000 minimum); commitments expire 18 months after Board approval. Round 1 (December 21, 2021 NOFA) awards: Acme Family Apartments $800,000, Aviara $2,400,000, Casa Roseland $4,200,000, 420 Mendocino Avenue $7,000,000, Pullman Lofts $2,300,000 (reduced to $1,300,000), South Park Commons $4,000,000.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Infill, mid- to high-density residential or mixed-use projects in transit-rich or planned areas meeting RED criteria; income mix may be affordable (up to 80% AMI), middle income (80% to 120% AMI), market rate, or mixed.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The NOFA page still shows the 2026 round; no future round has been announced. Email apply@redhousingfund.org for an upload link when a NOFA is open.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Lender of last resort (recycling repaid settlement capital) for projects the County and Santa Rosa want built in downtown Santa Rosa and other priority development areas; it accepts market-rate and middle-income deals that cannot use CFH or LIHTC. Capital is public settlement money, so prevailing wage exposure depends on loan terms. The separate private Sonoma County Housing Fund ($10M, Housing Trust Silicon Valley with the Santa Rosa Metro Chamber, predevelopment and acquisition loans up to five years) belongs in Pass 4.",
+      "source_url": "https://redhousingfund.org/notice-of-funding-availability/",
+      "record_id": "640605a12a",
+      "cycle_notes": "Irregular NOFAs as repaid capital allows: Round 1 issued December 21, 2021; Round 2 issued March 4, 2026, due April 1, 2026, recommendations by May 18, 2026. Concurrent closing with all other construction financing required.",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Deadline and loan terms refreshed November 8, 2026. Prevailing wage left unclear: the 2026 NOFA treats prevailing wage only as an optional evaluation criterion (Criterion I) and states no requirement; State law coverage of these below-market settlement-funded loans is not addressed.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Rosa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Santa Rosa development fee deferral for affordable housing units, City Code Chapter 21-01 (Section 21-01.020)",
+      "administering_agency": "City of Santa Rosa Planning and Economic Development Department; agreements approved by City Council",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral, not a waiver: Government Code 66000(b) development impact fees on affordable units under contract with the City may be deferred up to two years from the date otherwise due, secured by a deed of trust, with the balance (at the rate in effect when originally due) payable on sale, transfer or placement of permanent financing. Separately, all City development impact fees are due at final inspection rather than permit issuance (Section 21-01.030), which is itself a cash-flow benefit, and water and sewer demand fees may use a Board of Public Utilities payment plan.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Only units under an affordability contract with the City or Housing Authority qualify.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Application must be filed with Planning and Economic Development at least 120 days before fees are due; each deferral agreement needs Council approval. No standing deadline.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Stacks with the Capital Facilities Fee pilot waiver (separate record) for remaining fees such as park and utility fees, and with the Housing Trust NOFA. The County's Multi-Family Development Fee Deferral Program (county record) applies only to unincorporated projects. Deferral agreements are not assignable without City Attorney consent, which matters when a LIHTC partnership takes title after entitlement. Read from the ecode360 mirror; the Housing Element implementation ordinance introduced December 2025 (PLN25-0397) amended Titles 20 and 21 but the redline was not reviewed for changes to this chapter.",
+      "source_url": "https://ecode360.com/42997580",
+      "record_id": "d7d3719534",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program-specific prevailing wage rule found. Labor Code 1720(b)(4) counts fees waived, reduced or charged at less than fair market value by a public agency as public funds, so the deferral (due at the rate in effect when originally due, apparently without interest), can make a private project paid for in part with public funds; coverage then turns on project facts and the 1720(c) exemptions, including 1720(c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost) and 1720(c)(5)(E) (below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI). Most LIHTC deals with HCD money pay prevailing wage anyway. Source: https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Prevailing wage left unclear: only basis is Labor Code 1720(b)(4) and the result depends on 1720(c) exemptions and project facts; confirm with counsel or a DIR coverage determination. ecode360 returned 403 in the Tier 3 audit, so Chapter 21-01 text was not re-read.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Rosa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Santa Rosa Affordable Housing Capital Facilities Fee Pilot Program (Resolution RES-2024-175) and 50% permit fee reduction for 100% deed-restricted projects",
+      "administering_agency": "City of Santa Rosa Planning and Economic Development Department with Housing and Community Services (deed restrictions through the Housing Authority)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Capital Facilities Fee (Chapter 21-04) set at $0 for new units deed-restricted through the Housing Authority at very low (0-50% AMI, including acutely and extremely low), low (50-80% AMI) and moderate (80-120% AMI) income levels, for building permits issued during the three-year pilot (adopted late 2024, runs until about late 2027 or adoption of a new CFF nexus study, whichever is first). The City's 2026 Prohousing renewal application also cites a 50 percent reduction in permit fees for projects in which 100 percent of units are deed-restricted affordable, and streamlined design review. The CFF for a multifamily unit is several thousand dollars, so the waiver is worth roughly $100,000 to $500,000 on a typical project (confirm with the current fee schedule).",
+      "per_unit_cap": "Per-unit waiver equal to the applicable CFF for each restricted unit; no dollar cap published.",
+      "affordability_requirement": "Units must be deed-restricted through the Housing Authority at the AMI categories above. Units receiving locally sourced financial assistance from the City or Housing Authority loan programs are NOT eligible for the CFF waiver.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies to building permits for vertical construction issued during the pilot period (three years from the late 2024 effective date of RES-2024-175, roughly through fall 2027, unless a new nexus study ends it sooner). Permit fee reduction has no stated sunset.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Key conflict: a project cannot take both the CFF waiver and a Santa Rosa Housing Trust NOFA loan, so model both paths; for a 100% affordable LIHTC deal the NOFA loan is usually larger than the CFF waiver, but the waiver has no competition and no application cycle. The waiver stacks with the Chapter 21-01 deferral of other impact fees, state density bonus and the County welfare exemption (county record). The County's 2025-2026 traffic and parks fee waiver (county record) applies only in unincorporated Sonoma County. Read from the resolution text included in the City's draft 2026 Prohousing Designation renewal application (Legistar matter 26-0547, Council hearing August 4, 2026); the City's designation expires January 1, 2027 and renewal is pending with HCD.",
+      "source_url": "https://legistar.granicus.com/santarosa/attachments/21130e8e-5174-46fe-8b07-7f926d718e3d.pdf",
+      "record_id": "1a4482981d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "conversion of temporary housing units approved under Section 20-16.030 to permanent units"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program-specific prevailing wage rule found. Labor Code 1720(b)(4) counts fees waived, reduced or charged at less than fair market value by a public agency as public funds, so the Capital Facilities Fee waiver and 50 percent permit fee reduction can make a private project paid for in part with public funds; coverage then turns on project facts and the 1720(c) exemptions, including 1720(c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost) and 1720(c)(5)(E) (below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI). Most LIHTC deals with HCD money pay prevailing wage anyway. Source: https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Prevailing wage left unclear: only basis is Labor Code 1720(b)(4) and the result depends on 1720(c) exemptions and project facts; confirm with counsel or a DIR coverage determination.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Rosa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Santa Rosa tax-exempt multifamily housing revenue bonds (City Council conduit issuance under the City Bond Policy and Term Sheet)",
+      "administering_agency": "City of Santa Rosa Housing and Community Services Department (Housing Authority) and City Council as issuer",
+      "funding_type": "bond",
+      "typical_award_size": "Conduit tax-exempt and taxable multifamily housing revenue bonds issued by the City Council on request under Council Policy 000-15 (RES-2018-071) and City Code Chapter 4-52; amounts set per project within CDLAC allocation (non-profit borrowers may not need an allocation). Bonds are non-recourse to the City and Housing Authority. Issuer fees per the Bond Policy Term Sheet: $5,000 non-refundable application fee (covers initial review and TEFRA hearing, credited at closing), issuance fee of 25 basis points of principal with a $20,000 minimum at closing, and annual compliance monitoring fee of 12.5 basis points of original principal paid semi-annually. Borrower pays all City, bond counsel, financial advisor, CDLAC, trustee and other costs. Rated issues need AA or better unless privately placed under Exhibit A.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Must satisfy CDLAC regulations and Section 142(d) (20% at 50% AMI or 40% at 60% AMI minimum); Council may impose more restrictive terms per issue. Qualified Project Period set in each Regulatory Agreement (typically 15 years after 50% occupancy, or longer if bonds remain outstanding or CDLAC requires). Project must show positive cash flow after year one or cover any operating deficit for five years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request to Council timed to CDLAC application rounds; confirm issuer fee schedule and TEFRA hearing lead time with Housing and Community Services, (707) 543-3300.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Alternative to CSCDA, CMFA or CalHFA conduit issuance for 4% LIHTC deals in Santa Rosa; using the City as issuer can simplify coordination with Housing Authority loans and regulatory agreements. The Developer Information page confirms the program and lists local funds (real property transfer tax and housing impact fees), CDBG, HOME and HCD funds used by the Housing Authority. The Bond Policy and Term Sheet were opened this pass (srcity.org DocumentCenter 21065 and 21066); contact is the Housing Trust Division, HousingTrust@srcity.org, (707) 543-3300. Whether the City is actively issuing versus deferring to JPAs was not confirmed.",
+      "source_url": "https://ca-santarosa.civicplus.com/678/Developer-Information",
+      "record_id": "19f21c72dc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "mobilehome park acquisition"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "Bond Policy Exhibit A Section III.A(10) requires the borrower to comply with California Labor Code Section 1720 et seq. and indemnify the City, and to meet Davis-Bacon if any bond funds are federal (https://srcity.org/DocumentCenter/View/21065/Bond-Policy). This is a compliance covenant, not a determination that conduit bonds alone trigger prevailing wage, so the trigger stays unclear.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sonoma",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "City of Sonoma Affordable Housing Trust Fund (established May 2019, funded by 1% of Transient Occupancy Tax and inclusionary in-lieu fees)",
+      "administering_agency": "City of Sonoma City Manager's office and Planning Department; grants approved by City Council",
+      "funding_type": "grant",
+      "typical_award_size": "Small, case-by-case grants and loans approved by Council. Most recent award: $250,000 grant approved June 18, 2025 (agreement authorized July 16, 2025) to Burbank Housing toward acquisition and 55-year preservation of 18 units at Setzer Senior Apartments (8 units, 673 First St West) and Maysonnave Apartments (10 units, 270 First St East), leveraged with a $4.5 million BAHFA Housing Preservation Loan Pilot loan and San Francisco Housing Accelerator Fund financing; closed fall 2025. Revenue: Council approved on June 10, 2019 the final 1% of the Measure S TOT increase (TOT now 13%) effective September 1, 2019 to address affordable housing, estimated at the time at about $350,000 to $400,000 per year, plus in-lieu fees under Section 19.44.030. Press accounts put the balance at roughly $1.4 million to $1.9 million in 2025-2026; no City balance figure was opened.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Grant terms set per project; the 2025 preservation deal requires affordability for at least 55 years with rents averaging 30% of 80% AMI and tenants protected on modest income increases. The fund is earmarked for very low, low and moderate income housing (Section 19.44.030).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Requests go to City Council; the Council's 2026 priorities include creating a funding plan and policy for use of the Housing Trust Fund, so an allocation policy may be adopted in 2026-2027 (verify with the City Manager's office, (707) 938-3681).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Sonoma is a non-entitlement city inside the County's Urban County and County PLHA area, so projects in the city should combine this fund with County CFH, County HOME and CDBG, County PLHA, RED Housing Fund and County PBVs (county records); the 2025 Burbank deal shows the pattern with BAHFA regional preservation money. Housing Element Program 7 commits the City to pursue a Prohousing Designation and to request RED JPA membership in 2024 (status not confirmed). The City also runs an ADU fee waiver program (housing strategies page) and lists Policy H-4.6 fee waivers for affordable housing, but no multifamily fee waiver ordinance was found. Council staff reports on the civicweb portal could not be reached by meeting date; the City's press release and TOT page were used as sources.",
+      "source_url": "https://www.sonomacity.org/city-of-sonoma-preserves-18-affordable-homes-through-landmark-partnership",
+      "record_id": "5135fbfbb1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation",
+        "acquisition-rehab",
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No City of Sonoma Housing Trust Fund rule on prevailing wage found. City grants are public funds under Labor Code 1720(b)(1), but coverage of a private residential project depends on 1720(c) exemptions, notably 1720(c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost, which recent $250,000 awards may meet) and on other funding sources. Source: https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Prevailing wage left unclear: no program rule; only the general Labor Code 1720 definition applies and the result depends on 1720(c) exemptions and project facts.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

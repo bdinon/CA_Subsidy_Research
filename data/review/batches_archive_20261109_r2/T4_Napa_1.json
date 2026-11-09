@@ -1,0 +1,169 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Napa County non-entitlement formula share",
+      "administering_agency": "Napa County Housing and Community Services (HCD formula grantee)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD CY 2024-2028 Formula Allocation NOFA: Napa County CY 2024 $219,600 and CY 2025 $241,967; five-year estimate 2024-2028 $1,372,500. By comparison the City of Napa (entitlement) is $223,362 and $239,253 for the same years. Earlier rounds: 2020 formula awards to the City of Napa only; the City also administers PLHA for American Canyon, Calistoga, St. Helena and Yountville under delegation agreements, not for the County.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA statute: rental assistance at or below 60% AMI unless the plan targets up to 120% AMI (150% in high-cost areas); 55-year covenant for rental development; County five-year plan governs local uses.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD releases the annual formula allocation each year; the County must hold a resolution and five-year plan for 2024-2028. No County NOFA to developers was found; the County's plan and uses could not be read because its site blocks automated access.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small dollars (about $220,000 to $240,000 a year) better suited to ADU loans, predevelopment or operating subsidy than to a construction gap. State funds, so prevailing wage applies to construction. Confirm with Housing and Community Services (707-253-4112) whether the County's five-year plan directs PLHA to multifamily or to its ADU forgivable loan program ($105,000 maximum per ADU as of April 2026).",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "d72332f890",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "ADU"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Napa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa Land Banking Program and City sponsored affordable housing sites (Jefferson/Trower, The Crescent at Old Sonoma Road, Harvest Middle School Program H2-3.3)",
+      "administering_agency": "City of Napa Housing Division and Housing Authority of the City of Napa",
+      "funding_type": "land",
+      "typical_award_size": "City acquires or controls land for affordable development and selects developers by RFP. Current pipeline: about 3 acres at 3875 Jefferson Street (bought 2023; Jefferson/Trower, 19 affordable ownership units on a community land trust model, developer selected in 2025, development phase from early 2026); The Crescent, 77 deed restricted units on the former County HHSA campus on Old Sonoma Road (first 40 units for low and moderate income households, financing targeted to close January 2026 with construction in 2026; AHSC application was not funded). Housing Element Program H2-3.3 offers the Harvest Middle School owner an RFP, fee deferral or waiver, fast tracking and financial assistance for at least 53 low income units restricted 55 years.",
+      "per_unit_cap": "Not applicable; land contribution plus City loans sized by gap.",
+      "affordability_requirement": "Deed restrictions of 55 years (rental) or 45 years (ownership) for City assisted units; Crescent first phase targets low and moderate income; Jefferson/Trower targets low and moderate income first time buyers.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "homeownership",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Developer RFPs issued as sites become available (Jefferson site RFP released 2024). Next watch item: Crescent construction start in 2026 and future phases seeking state grants; Harvest Middle School negotiations. Monitor the City Council agenda (Legistar client napa) for RFP notices.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "City land plus impact fee and TOT loans is the model Napa uses to make 100% affordable projects pencil; the Crescent is a joint City and County effort on a County campus, so both the County Affordable Housing Fund and City funds are in the stack. A City land contribution and City loans are public funds, so prevailing wage applies. Source: Council Focus Areas FY 2025-2027 page (opened); the 2023 Housing Element APR and Housing Element Program H2-2.6 were also opened.",
+      "source_url": "https://www.cityofnapa.org/1358/Council-Focus-Areas-for-FY-2025-2027",
+      "record_id": "35f10d20db",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "affordable ownership",
+        "mixed-income projects",
+        "adaptive reuse"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of American Canyon",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "American Canyon Density Bonus Ordinance (ACMC Chapter 19.27, repealed and replaced by Ordinance 2026-04)",
+      "administering_agency": "City of American Canyon Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement and entitlement incentive, not a subsidy. Restates Government Code 65915 as of 2026: base bonuses up to 50%, the 65915(v) additional bonus for projects that first reach 50%, 80% bonus (or unlimited density plus three stories or 33 feet within one half mile of a major transit stop) for 100% affordable projects, one to five concessions by affordability tier (four for 16% very low or 45% moderate for sale), land donation bonus of 15% up to a combined 35%, child care facility bonus, and parking maximums with zero parking for qualifying transit adjacent or 100% affordable projects. Equity sharing required on for sale moderate income units. The chapter states it does not require direct financial incentives or fee waivers.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State thresholds: 10% lower income, 5% very low, 10% moderate for sale, senior, student, or special needs units with 55-year restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; Ordinance 2026-04 adopted September 15, 2026 and effective 30 days later. The 2025 Housing Element APR (Planning Commission February 26, 2026, Council March 17, 2026) reports Crawford Way used a 15% state bonus (87 to 100 units).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement beyond state law, so American Canyon offers nothing more than Government Code 65915; the chapter is recorded to show that the City's density bonus and inclusionary rules were brought current in 2026. Inclusionary units count toward the bonus thresholds. The City has no local housing trust fund NOFA, no HOME or CDBG entitlement (it is in the state non-entitlement pool, see Pass 2 record), and its PLHA share is programmed to ADUs through the City of Napa, so the local layer for an American Canyon deal is the state density bonus, HACN project based vouchers, CMFA bonds and state programs. Sun Square (30 units, 100% affordable revision pending) and Domaine (291 market rate units) are the active multifamily projects. Ordinance text read on the City law library (source_url) and the Planning Commission staff reports on the City's agenda host.",
+      "source_url": "https://law.cityofamericancanyon.org/us/ca/cities/american-canyon/ordinances/2026/4",
+      "record_id": "3e4fbb5393",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "100% affordable projects",
+        "land donation projects"
+      ],
+      "next_deadline_date": "2026-09-15",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Calistoga",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Calistoga Measure D 1% Transient Occupancy Tax for affordable and workforce housing (Resolution 2018-072, effective January 1, 2019)",
+      "administering_agency": "City of Calistoga Administrative Services Department; City Council allocates",
+      "funding_type": "grant",
+      "typical_award_size": "Special tax of 1% on hotel stays (TOT 12% to 13%) held in a separate account and restricted to affordable and workforce housing programs and services, including land acquisition and donation, building acquisition, rehabilitation and demolition, housing construction, mobile home preservation, housing subsidies and preservation of expiring subsidies. Campaign estimate about $512,325 a year; an annual Government Code 50075.3 report is required. Uses: backfill of deferred fees for the Lincoln Avenue Apartments (78 units) and the proposed ADU Fee Assistance Program (annual transfer subject to appropriation). Council members questioned slow disbursement in 2024, so unspent balance is likely several million dollars; the balance was not found in a text document this pass.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Affordable and workforce housing; the City applies it to households up to 120% AMI for development and, for the ADU program, rentals at or below 160% AMI with a 10-year deed restriction.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "adu",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; allocated by City Council with the annual budget (FY 2026-27 budget adopted June 2026) and by resolution for specific projects. Confirm the fund balance with Administrative Services (707-942-2807).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Measure D is Calistoga's most flexible housing money (no nexus limits) and the natural source for moderate income units, fee backfill and land purchase (Council FY 2025-26 priorities include developing the City owned Earl and Eddy parcels). Combine with the Affordable Housing Fund for lower income units and the County fund. Parallel measures exist in Napa (F), St. Helena (E) and the County (I), each separate. Sources opened: October 6, 2026 ADU Fee Assistance staff report on CivicWeb (source_url, cites Resolution 2018-072 and the Measure D use restriction) and the Measure D City Attorney impartial analysis PDF (retrieved from calistogaca.gov via WebFetch because the site blocks scripts).",
+      "source_url": "https://calistoga.civicweb.net/document/117944/",
+      "record_id": "ccd8d03974",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "land acquisition",
+        "adu",
+        "housing services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

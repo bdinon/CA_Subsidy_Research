@@ -1,0 +1,193 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Temecula",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "needs_confirmation",
+      "program_name": "Temecula density bonus, Development Code Section 17.10.020(P)",
+      "administering_agency": "City of Temecula Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Grants the bonus, incentives, waivers and parking ratios required by Gov. Code 65915, processed concurrently with development plan review.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Gov. Code 65915 thresholds.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applied at entitlement.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancements beyond state law found. Temecula has no inclusionary ordinance, in-lieu fee fund or local housing trust fund. The Housing Element target is at least two density bonus projects in the cycle.",
+      "source_url": "https://www.zoneomics.com/code/temecula-CA/chapter_9",
+      "record_id": "0466207c05",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: code text matches (density bonus application filed with and processed concurrently with development plan review, bonus, incentives, waivers and parking per Gov. Code 65915), but only on the zoneomics mirror; the official code host (library.qcode.us, linked from temeculaca.gov/1085) returned 403. Source is a third-party mirror, so the verified label rests on a mirror. Prevailing wage false is uncited. Only a third-party code mirror (zoneomics) could be read; official code host returns 403, so confidence held at needs_confirmation per the source-quality rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Palm Springs",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "needs_confirmation",
+      "program_name": "Palm Springs city affordable housing gap loans (housing successor LMIHAF and City housing funds)",
+      "administering_agency": "City of Palm Springs Community and Economic Development, Housing Division (Housing Successor)",
+      "funding_type": "loan",
+      "typical_award_size": "Reported 2026 commitments (from secondary summaries, not opened on the City site): $3,800,000 loan for the 82-unit Redtail project (3% simple interest, 57-year term, residual receipts), a $2,250,000 acquisition loan plus up to $2,500,000 subordinated fee loan for a 110-unit project at McCarthy and San Rafael (January 14, 2026), and a $3,000,000 commitment for a Wakeland senior project (March 2026). Earlier: Monarch Apartments (60 units) received a City loan, fee waivers and a land grant; a prior LMIHAF loan of about $5.97M to WHCHC.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Lower income; terms set per project agreement (55-year or longer covenants typical).",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found; commitments go to Council project by project. Confirm current fund balances in the FY 2024-25 housing successor report.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Palm Springs is a CDBG-only entitlement (FY 2026-27 CDBG about $337,285 for rehab and legal services), so City and successor funds are the local gap layer, stacked with HACR PBVs and the Coachella Valley Housing Catalyst Fund (county records). palmspringsca.gov returns 403 (Akamai) to scripts and WebFetch, and no working Granicus or Legistar host was found; source_url is the 6th cycle Housing Element draft on HCD, which documents the Monarch loan, fee waivers and land grant but not the 2026 loans.",
+      "source_url": "https://hcd.ca.gov/housing-elements/docs/palm-springs-6th-draft080221.pdf",
+      "record_id": "651cb6ed89",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: the HCD-hosted Housing Element draft confirms only the Monarch Apartments City loan, fee waivers and land grant; the 2026 loan figures (Redtail $3.8M, McCarthy and San Rafael $2.25M plus $2.5M, Wakeland $3.0M) come from secondary sources. palmspringsca.gov returns 403 to curl and WebFetch, and the Palm Springs Legistar API has no matters or events.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Indio",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "needs_confirmation",
+      "program_name": "Indio density bonus (Zoning Code Section 1.01.05(E) and Municipal Code Chapter 154)",
+      "administering_agency": "City of Indio Community Development Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Qualifying projects may apply for a density bonus, incentives and concessions consistent with Gov. Code 65915; Chapter 154 adopts state density bonus regulations by reference.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Gov. Code 65915 thresholds.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applied at entitlement.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement found beyond state law. No local housing trust fund, inclusionary ordinance or in-lieu fee fund was confirmed for Indio (see the trust fund record). The 2021 Housing Element noted Chapter 154 only references state law and committed to an implementing update (Program 9). Coachella Valley Housing Coalition is the main local nonprofit developer.",
+      "source_url": "https://www.zoneomics.com/code/indio-CA/chapter_1",
+      "record_id": "490704bddf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: Zoning Code 1.01.05 text matches (density bonus, incentives and concessions consistent with Gov. Code 65915, with reference to Municipal Code Chapter 154), but only on the zoneomics mirror; indio.org and codelibrary.amlegal.com returned 403. Source is a third-party mirror, so the verified label rests on a mirror. Prevailing wage false is uncited. Only a third-party code mirror (zoneomics) could be read; official code host returns 403, so confidence held at needs_confirmation per the source-quality rule.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Indio",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "needs_confirmation",
+      "program_name": "Indio Housing Authority housing successor LMIHAF and City or Housing Authority owned downtown sites",
+      "administering_agency": "Indio Housing Authority (Housing Successor) and City of Indio Housing and Neighborhood Services Division",
+      "funding_type": "loan",
+      "typical_award_size": "Older SB 341 reports (FY 2019-20 and FY 2020-21, seen only in search snippets) put the housing successor portfolio at about $7.2M, mostly loans such as Horizons at Indio senior housing (about $3.7M) and a SERAF loan from the Successor Agency. The Housing Element sites inventory includes 32 downtown parcels owned by the City or the Housing Authority, available for development agreements, land write-downs and fee deferrals.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "LMIHAF rules; project-specific covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA found. Contact Housing and Neighborhood Services about the current LMIHAF balance and downtown parcels.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Recent Indio affordable deals (Arroyo Crossing I, Avenue 44) lean on County PLHA loans ($500K and $2M per County CEQA notices) and the Coachella Valley Housing Catalyst Fund (county records). indio.org returns 403 to scripts and WebFetch, the Legistar site has no data, and no Granicus host was found; source_url is the 6th cycle Housing Element draft on HCD, which describes the land and incentives.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/indio-6th-draft081321.pdf",
+      "record_id": "e4edfdf1dd",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: reclassified from other to loan because the housing successor LMIHAF deploys loans (the stated portfolio is mostly loans); the City or Housing Authority land is a secondary component. The Housing Element confirms 32 downtown sites inventory parcels owned by the City or the Housing Authority and use of development agreements, land write-downs and fee deferrals, but the LMIHAF balance and loan figures come from search snippets of SB 341 reports; indio.org returns 403 and the Indio Legistar and Granicus hosts return errors.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Indio",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "needs_confirmation",
+      "program_name": "Indio Local Housing Trust Fund and inclusionary housing ordinance (Housing Element Programs 11 and 21, not established)",
+      "administering_agency": "City of Indio Community Development Department and Finance",
+      "funding_type": "negative finding",
+      "typical_award_size": "No funds. The Housing Element committed to explore a Local Housing Trust Fund and dedicated revenue (commercial linkage fee, inclusionary in-lieu fee or a tax) in year 2 and to evaluate an inclusionary ordinance in year 3.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction",
+        "preservation"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No open round as of November 8, 2026; no trust fund or inclusionary ordinance found.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Recorded as negative information: Indio relies on CDBG (minor home repair), County funds, LIHTC and land write-downs rather than a local trust fund. Status could not be checked against current City documents because indio.org blocks automated access.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/indio-6th-draft081321.pdf",
+      "record_id": "4d4909317a",
+      "cycle_notes": "Housing Element Program 21 (explore a Local Housing Trust Fund and dedicated revenue, Year 2) and Program 11a (evaluate an inclusionary ordinance, Year 3); no adoption found.",
+      "eligible_project_detail": [
+        "new construction",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Audit 2026-11-08: reclassified from other to negative finding since no fund or ordinance exists. Housing Element confirms Programs 11 and 21 as described; a web search found no Indio trust fund or inclusionary ordinance adoption, but indio.org (403) could not be checked for current status.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

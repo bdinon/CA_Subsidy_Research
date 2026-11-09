@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), San Mateo County entitlement",
+      "administering_agency": "San Mateo County Department of Housing (HCD entitlement grantee)",
+      "funding_type": "grant",
+      "typical_award_size": "2019-2023 five-year formula estimate $7,257,300 (CY 2021 funds $2,068,889). Calendar year 2022 and 2023 funds of $1,831,715 ($1,036,938 plus $794,777) were authorized Dec 2, 2025 and awarded by HCD in July 2026 after the County's housing element came into compliance; $824,272 is committed through AHF 13 (moved from Laurel Landing to Rotary Gardens on Aug 25, 2026) and the balance is being allocated over the counter. HCD 2024-2028 Formula Allocation NOFA estimates: CY 2024 $849,022, CY 2025 $909,428, five-year $5,306,388.",
+      "per_unit_cap": null,
+      "affordability_requirement": "County PLHA plan funds Activity 1 (rental development for extremely low to moderate income households with 55-year covenants through the AHF process) and Activity 6 (homeless services, shelter and navigation center operations and case management); 2024 HCD rule requires 40% of new funds for affordable owner-occupied workforce housing unless amended.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PLHA is offered through the AHF NOFA, the Winter NOFA and over-the-counter processes as HCD releases each year's funds; CY 2022 and 2023 money must be spent on HCD's deadlines, which drove the Aug 2026 reallocation. Ask DOH whether CY 2024 and 2025 funds will appear in the fall 2027 AHF round.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small and lumpy because HCD withheld San Mateo's PLHA for several years over housing element compliance; the County treats it as a swap source inside AHF awards (PLHA to the project closing soonest, Measure K to the slower one). State funds trigger prevailing wage. Figures from Board items 25-1006 and 26-706 read through the Legistar API and the HCD 2024-2028 PLHA NOFA.",
+      "source_url": "https://sanmateocounty.legistar.com/LegislationDetail.aspx?ID=95103&GUID=5E955EF2-AB26-4DAB-8CC5-3ABE4B451365&Options=&Search=&FullText=1",
+      "record_id": "ae7517de62",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "interim housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of South San Francisco",
+      "date_researched": "2026-11-07",
+      "research_pass": "3_city",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance (SSFMC Chapter 20.380) and replacement housing rules",
+      "administering_agency": "City of South San Francisco Economic and Community Development Department, Housing Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Market-rate projects of 5 or more units: rental 15% (10% lower income, 5% very low income); homebuyer 15% (7.5% moderate, 7.5% lower income); extended to rental housing in 2018. In-lieu fee amounts are not posted on the developer page. Demolition requires one-for-one replacement, relocation assistance and right of first refusal.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "County income and rent limits (2026-27 schedule posted), utility allowances deducted, regulatory agreements control; Procedures and Guidelines for Inclusionary Units updated September 2024.",
+      "eligible_project_types": [
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; the City is not listed among the 2026 multi-city nexus study participants, so no change is pending.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. The 15% rental requirement with a very low income tier plus the linkage fee is why South San Francisco's biotech corridor funds housing elsewhere in the city; 100% affordable projects are exempt and instead draw on Fund 823 loans (see separate record). Source is the Housing Requirements for Developers page.",
+      "source_url": "https://www.ssfca.gov/Departments/Economic-and-Community-Development/Divisions/Housing-Division/Housing-Requirements-for-Developers",
+      "record_id": "555d653e69",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate multifamily (compliance)",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Redwood City",
+      "date_researched": "2026-11-07",
+      "research_pass": "3_city",
+      "county_tag": "San Mateo",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Housing NOFA and Preservation Program (impact fee fund loans)",
+      "administering_agency": "City of Redwood City, Housing Services",
+      "funding_type": "loan",
+      "typical_award_size": "May 11, 2026 Council action: about $8 million to Rise City Apartments (94 units, 1304 Middlefield Road, 20% to 70% AMI, 24 PSH units including 19 for adults with intellectual and developmental disabilities, construction early 2027) and a commitment to direct about $5.8 million of expected Elco Yards impact fees to MidPen Housing's 79-unit project at 1580 Maple Street (20% to 40% AMI, 23 special needs units, City-owned land transferred by the County, construction late 2027). Staff had recommended about $12.9 million for the two projects; only two applications were received. The City also runs an Affordable Housing Preservation Program (over-the-counter fund for acquisition and deed restriction; amendments adopted May 11, 2026) and is studying 70 to 104 affordable units on Downtown Library Parking Lot B (1016 Middlefield Road).",
+      "per_unit_cap": "Not published; 2026 awards were about $73,000 to $85,000 per unit.",
+      "affordability_requirement": "New multifamily rental for low and extremely low income households; all assisted units at least 10% below 80% AMI; 55-year City regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026 round awarded May 11, 2026; the next NOFA depends on impact fee receipts (Elco Yards payment expected mid-2026). Preservation Program is over the counter.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. City loans are residual receipts loans repaid from cash flow after operating expenses, hard debt and reserves, and are sized to leverage County AHF, HACSM PBVs and 4% or 9% credits; 1580 Maple shows the City-County land plus City fee money pattern. Marked needs_confirmation because redwoodcity.org (NOFA page, Preservation Program guidelines, fee schedule) returned 403 to automated access and figures come from the May 12, 2026 Redwood City Pulse report (source) and the City's meetings portal; confirm award terms with Housing Services.",
+      "source_url": "https://www.rwcpulse.com/housing/2026/05/12/city-approves-millions-for-2-affordable-housing-projects/",
+      "record_id": "f0495b3670",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "permanent supportive housing",
+        "acquisition and preservation (Preservation Program)",
+        "City-owned land"
+      ],
+      "next_deadline_date": "2026-05-11",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Mateo",
+      "date_researched": "2026-11-07",
+      "research_pass": "3_city",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Below Market Rate (BMR) inclusionary program and in-lieu fees (SMMC 27.16.050)",
+      "administering_agency": "City of San Mateo Community Development Department, Neighborhood Improvement and Housing Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Projects of 11 or more units: 15% of rental units for lower income households (rents at 30% of 50% to 70% AMI, 4% annual increase cap) and 15% of ownership units for moderate income (100% to 110% AMI). Projects of 5 to 10 units and fractional units pay the BMR Housing Fee (Resolution 121 of 2008; FY 2026-27 schedule: rental $171,273 for a 5-unit project up to $342,545 for 10 units, ownership $157,187 to $314,373; fractional units $34,255 per 0.1 rental unit and $31,438 per 0.1 ownership unit). In-lieu fees are otherwise not allowed. BMR Housing Fee fund balance $254,281 at June 30, 2026 with $2,560,924 programmed for housing land purchase.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "55-year restrictions; BMR units may be up to 10% smaller than market units (20% where market units exceed 2,000 square feet); density bonus projects must provide BMR units equal to at least 15% of the base density; off-site and applicant-proposed alternatives need Council findings (Guidelines Resolution 72, June 16, 2025).",
+      "eligible_project_types": [
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at planning application; fees indexed in the annual Comprehensive Fee Schedule each July 1. The City is a participant in the 2026 multi-city nexus study.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. San Mateo's program is unit-first: no fee option above 10 units, so inclusionary units are a given in every downtown and Hillsdale project and the City's cash sources are the Commercial Linkage Fee and the small BMR fee. Source is the adopted FY 2026-27 Comprehensive Fee Schedule (pages 11.1 to 11.2); program rules from the BMR Guidelines (cityofsanmateo.org/DocumentCenter/View/99291) and the FY 2025-26 Mitigation Fee Act report (DocumentCenter/View/107918).",
+      "source_url": "https://www.cityofsanmateo.org/DocumentCenter/View/105420",
+      "record_id": "aac4d53285",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate multifamily (compliance)",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Mateo",
+      "date_researched": "2026-11-07",
+      "research_pass": "3_city",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Commercial Linkage Fee fund (SMMC Chapter 23.61)",
+      "administering_agency": "City of San Mateo Community Development Department",
+      "funding_type": "other",
+      "typical_award_size": "Fee on net new nonresidential construction over 5,000 square feet, adopted September 2016 (Ordinance 2016-8): office, R&D and medical office $32.76 per square foot, hotel $13.11, retail, restaurant and services $6.55 (FY 2025-26 and FY 2026-27). 25% rebate for projects that sign a Standard Wage (area standard or prevailing wage) agreement; alternative of building 8 low-income units per 100,000 square feet of office, 3 per 100,000 of hotel, 1 per 100,000 of retail. Fund activity FY 2025-26: beginning $3,551,934, fees $1,090,711, loan repayments $514,717, ending balance $5,292,314 with $1,000,000 set aside for the Bespoke project and $4,000,000 programmed for housing land purchase.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Fund must support creation or preservation of housing for lower and moderate income workers; projects carry City regulatory agreements.",
+      "eligible_project_types": [
+        "new construction",
+        "preservation",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. The City commits linkage fee money by Council action; the FY 2025-26 report programs $4 million toward housing land purchase. Contact housing@cityofsanmateo.org, (650) 522-7220.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. With about $4.3 million unprogrammed, the City can make one meaningful land or gap commitment per cycle rather than run a competitive round; developers should pair a request with the County AHF spring NOFA. The City is a CDBG entitlement (FY 2026-27 CDBG NOFA ran through the City) and joins the County HOME Consortium. Source is the FY 2025-26 Mitigation Fee Act (AB 1600) annual report; fee rates confirmed in the FY 2026-27 Comprehensive Fee Schedule and the Development Fees handout (DocumentCenter/View/98263).",
+      "source_url": "https://www.cityofsanmateo.org/DocumentCenter/View/107918/FY2025-26-AB1600",
+      "record_id": "f41bb3608a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "land acquisition for affordable housing",
+        "new construction gap loans",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Daly City",
+      "date_researched": "2026-11-07",
+      "research_pass": "3_city",
+      "county_tag": "San Mateo",
+      "confidence": "needs_confirmation",
+      "program_name": "Inclusionary Housing Ordinance (DCMC Chapter 17.47, Ordinance 1423) and Affordable Housing Trust Fund",
+      "administering_agency": "City of Daly City Economic and Community Development, Housing and Community Development Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Residential developments of 5 or more units: for-sale projects provide 20% of units at moderate income; rental projects provide 10% at low income (rents at 30% of 70% AMI). On-site units required at 15 or more for-sale units and 20 or more rental units; smaller projects pay the Required In Lieu Fee and larger projects may pay an Alternative In Lieu Fee per the City's Affordable Housing Fee schedule with Council approval. Fees go to the Affordable Housing Trust Fund, which the City uses with state and HUD funds for 100% affordable projects (Daly City is a CDBG and HOME entitlement city).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "55-year restrictions; on-site units earn state density bonus, waivers and concessions under the Affordable Housing Plan; local preference ordinance (September 2026) gives Daly City residents and workers preference for 70% of affordable units.",
+      "eligible_project_types": [
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; in-lieu fee amounts are set by resolution in the Housing Impact Fees and In-Lieu Fees sheet (dalycity.org/DocumentCenter/View/925, an image file that could not be read this pass). Daly City is a participant in the 2026 multi-city nexus study.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. Daly City's rental requirement (10% low income) is the lightest among the eight cities covered, and the City's own money for 100% affordable deals comes from the Trust Fund, its HOME and CDBG entitlements and the housing successor fund rather than a NOFA; the County's $14 million Midway Village loan and City loans reported at about $7.7 million for the 72-unit 493 Eastmoor project (CMFA bonds up to $25 million authorized February 9, 2026, per news summaries not opened) show the pattern. Source is the ordinance PDF on dalycity.org; the fee amounts are unconfirmed, hence needs_confirmation. Contact hcd@dalycity.org, (650) 991-8068.",
+      "source_url": "https://www.dalycity.org/DocumentCenter/View/926/Inclusionary-Housing-Ordinance-PDF",
+      "record_id": "413eb60598",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate multifamily (compliance)",
+        "100% affordable projects (Trust Fund loans)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Daly City",
+      "date_researched": "2026-11-07",
+      "research_pass": "3_city",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Daly City Housing Development Finance Agency land offerings and housing successor fund (Carter/Martin site RFQ)",
+      "administering_agency": "Daly City Housing Development Finance Agency (housing successor to the former Redevelopment Agency), Economic and Community Development",
+      "funding_type": "other",
+      "typical_award_size": "Request for Developer Qualifications issued August 14, 2026 for an approximately 12.5-acre Agency-owned site at Carter and Martin Streets in the Bayshore neighborhood next to the Cow Palace (APNs 005-050-240 and 005-380-020, zoned C-1, former RDA housing asset with Community Redevelopment Law affordability obligations), marketed under Surplus Land Act exemptions for 100 or more units with at least 25% lower income or 100% affordable mixed use. Housing Asset Fund (Fund 11) balance $4,461,128 at June 30, 2025 with net deposits of $298,048 in FY 2024-25.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "At least 25% of units restricted to lower income households (or 100% affordable with 75% lower income) under the Surplus Land Act exemption; housing successor funds limited to 80% AMI and below with 30% minimum for extremely low income over each five-year period.",
+      "eligible_project_types": [
+        "mixed-income"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "RFQ responses were due October 16, 2026 at 5:00 pm; developer selection and exclusive negotiation follow. No other Agency sites are offered.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. Carter/Martin is the largest publicly owned housing site in northern San Mateo County and will need extensive site work (slopes, wetlands, soils); the Agency can contribute land value and successor funds but will look to the County AHF, HACSM PBVs and state programs for the capital stack. Source is the RFQ document on dalycity.org; successor fund figures from the FY 2024-25 Housing Successor Annual Report (dalycity.org/DocumentCenter/View/12949).",
+      "source_url": "https://www.dalycity.org/DocumentCenter/View/13545",
+      "record_id": "34c146ffa6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "large mixed-income or 100% affordable development on Agency land",
+        "ground lease or sale"
+      ],
+      "next_deadline_date": "2026-10-16",
+      "deadline_check": "past_date",
+      "link_status": "redirected"
+    }
+  }
+]

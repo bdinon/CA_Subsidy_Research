@@ -1,0 +1,144 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "needs_confirmation",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Mendocino County formula allocation",
+      "administering_agency": "Mendocino County Executive Office (PLHA plan holder)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD formula allocations to the County: $189,817 (2024) and $204,647 (2025), estimated $1,186,356 for 2024-2028; the County's five-year plan activities were not located in Board records (Ukiah and Fort Bragg hold their own allocations, and Fort Bragg applied to the 2024 competitive non-entitlement PLHA round for rental assistance).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "PLHA eligible activities for households up to 80% AMI (120% for some ownership uses).",
+      "eligible_project_types": [
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No County NOFA; confirm plan activities with the Executive Office Grants Division.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. Confirmation needed: no PLHA item appeared in 2025-2026 Board agendas, so the plan and spending are unknown; at about $200,000 a year the allocation is a services or predevelopment source at most. Source is HCD's 2024-2028 PLHA formula allocation NOFA tables.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "042f4e725c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "homeless services (likely current use)",
+        "affordable rental development or predevelopment (eligible)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "needs_confirmation",
+      "program_name": "County Affordable Housing Trust Fund (Section 20.234.010), established but uncapitalized",
+      "administering_agency": "Mendocino County Board of Supervisors; to be administered by a nonprofit designated by the Board",
+      "funding_type": "other",
+      "typical_award_size": "Section 20.234.010 establishes an Affordable Housing Trust Fund to receive equity-sharing payments from density bonus for-sale units and any other monies the Board directs, to be administered by a Board-designated nonprofit and spent per the Housing Element to construct, rehabilitate or subsidize housing for extremely low through moderate income households, with an annual Board accounting. No deposits, designated administrator or awards were found in 2025-2026 Board records.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Extremely low, very low, low and moderate income households; renter or owner housing.",
+      "eligible_project_types": [
+        "acquisition-rehab"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No funding; watch the annual Board review required by the chapter and the 2027-2035 Housing Element for a capitalization source.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. Confirmation needed on whether any balance exists; the 2024 code created the vehicle without a revenue stream, so treat it as a future possibility only. Source is Chapter 20.234 text on zoneomics (mirror of the 2024 code).",
+      "source_url": "https://www.zoneomics.com/code/mendocino-county-unincorporated-CA/chapter_74",
+      "record_id": "6b8eda0373",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "construction, rehabilitation or subsidy of affordable housing (when funded)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29 (housing interventions, bridge housing and Measure B)",
+      "administering_agency": "Mendocino County Behavioral Health and Recovery Services (Jenine Miller, Director, (707) 472-2341)",
+      "funding_type": "other",
+      "typical_award_size": "Integrated Plan approved July 7, 2026: rental subsidies for up to 150 people a year (80 permanent, 90 interim; 80 units), operating subsidies for about 350 people (80 units), participant assistance and outreach for 50; no capital development projects; FSP exemptions requested as a county under 200,000 population; housing delivered through contracts such as Redwood Community Services Haven House ($400,000 FY 2026-27), Harmony House sober living interim housing ($300,000) and Mendocino Coast Hospitality Center shelter services, alongside Behavioral Health Bridge Housing and Transitional Rent. Measure B (2017 Mental Health Treatment Act sales tax) funds facilities; $7 million was used for the jail behavioral health unit in 2024.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder; Medi-Cal eligible.",
+      "eligible_project_types": [
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Behavioral Health issued an RFP for BHSA housing service providers in 2026; contact the department about subsidy agreements for new PSH units.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. BHSA will not fund capital in Mendocino; its value is a project-based rental or operating subsidy on a small number of PSH units. Source is the 2026-2029 Integrated Plan PDF (Legistar attachment to the July 7, 2026 item).",
+      "source_url": "https://mendocino.legistar1.com/mendocino/attachments/16a82dac-7041-49d0-a22d-f3f414222b80.pdf",
+      "record_id": "c8dbdc4975",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "project-based and tenant-based rental subsidies (80 units)",
+        "operating subsidies for supportive housing",
+        "master-leased units"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "needs_confirmation",
+      "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, Mendocino County Assessor",
+      "administering_agency": "Mendocino County Assessor-County Clerk-Recorder (501 Low Gap Road, Ukiah)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Standard state welfare exemption for low-income housing owned by nonprofits or limited partnerships with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate; the Assessor's services page lists review and application of exemptions among its functions.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement; exemption prorated to qualifying units.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 and supplemental affidavits with the Assessor by February 15, 2027 for the 2027-28 roll.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. Confirmation needed: the Assessor's page does not publish welfare exemption instructions or a contact; the exemption itself is state law.",
+      "source_url": "https://www.mendocinocounty.gov/All-Departments/Assessor-County-Clerk-Recorder-Elections/Assessor-Services-Forms",
+      "record_id": "9e1247cdb4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC rental housing with nonprofit managing general partner",
+        "nonprofit-owned affordable rental housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date"
+    }
+  }
+]

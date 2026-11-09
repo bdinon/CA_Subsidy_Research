@@ -1,0 +1,122 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rocklin",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "needs_confirmation",
+      "program_name": "Rocklin Inclusionary Housing Requirements (Municipal Code Chapter 17.95, Ordinance 1195, November 11, 2025) and in-lieu fee into the Inclusionary Housing Trust Fund",
+      "administering_agency": "City of Rocklin Community Development Department, Planning Division, with the City Manager's Office Housing Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Housing development projects of 10 or more units must provide 15% of units for low income households, or 10% for very low income, or 5% for extremely low income (rental projects provide rental units; fractional units round up). Exempt: projects complete or with SB 330 preliminary applications before the effective date, projects with at least 50% affordable units, historic landmark portions and statutory development agreement projects. Alternatives: off-site construction, acquisition and rehabilitation of market-rate units, or an in-lieu fee once set by Council resolution, paid before building permit into a separate Inclusionary Housing Trust Fund. Council held a January 13, 2026 hearing on a proposed interim fee of $10 per square foot (opposed by the California Apartment Association) and, per the City's June 9, 2026 Council recap found in search results but not opened, approved an in-lieu fee of $2.75 per square foot with further ordinance updates still in progress. Paying the fee does not qualify a project for a state density bonus.",
+      "per_unit_cap": "Not applicable (fee reported at $2.75 per square foot, unconfirmed).",
+      "affordability_requirement": "Rental inclusionary units restricted 55 years, for-sale units 45 years, by recorded inclusionary housing agreement approved by Council with the entitlements; units dispersed and comparable to market-rate units; the City tenant preference policy applies.",
+      "eligible_project_types": [
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies to applications deemed complete after the ordinance took effect (December 2025). The $2.75 per square foot fee and the trust fund guidelines should be confirmed with Planning; a broader fee study (consultant RFP issued 2024) and ordinance amendments were pending in mid-2026.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "New in 2025, so the Inclusionary Housing Trust Fund has little or no balance yet; over time it will feed the AHIP Low/Mod loans. A 100% affordable project is exempt and instead benefits from the ordinance by competing for the fee revenue. Compare Placer County Chapter 15.65 (10% inclusionary, unincorporated area). The ordinance text was verified on the zoneomics mirror of the Rocklin code; the fee resolution and June 9, 2026 staff report could not be opened (rocklin.ca.gov 403, Legistar API returns 500 for client rocklin), hence needs_confirmation.",
+      "source_url": "https://www.zoneomics.com/code/rocklin-CA/chapter_65",
+      "record_id": "55ac79a764",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate multifamily and subdivisions of 10 or more units (compliance)",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "November 8, 2026 audit: Chapter 17.95 text re-read on the zoneomics mirror and matches (10 or more units; 15% low, 10% very low or 5% extremely low; 50% affordable exemption; trust fund). The $2.75 per square foot fee could not be confirmed: the June 9, 2026 recap URL on rocklin.ca.us redirects to rocklin.ca.gov, which returns a Cloudflare block, and the municode API is also Cloudflare-blocked. Only a search snippet supports the fee.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Lincoln",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "needs_confirmation",
+      "program_name": "Lincoln 2021-2029 Housing Element Actions 2.6 and 2.7: project-by-project incentives (deferred development fees, reduced parking, expedited review) for affordable housing in Villages 1, 5 and 7",
+      "administering_agency": "City of Lincoln Community Development Department, Planning Division (916-434-3370; 600 6th Street)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Negotiated, not codified. The Housing Element (adopted January 2023 per the City's 2025 Annual Progress Report, 2021 to 2029 cycle, RHNA 5,120 units) commits the City to offer incentives on a project-by-project basis for lower-income housing in Village 1, Village 5 and Village 7, including deferred development fees, reduced parking requirements, expedited application review and technical assistance (Action 2.7), and to provide financial or in-kind assistance and incentives beyond the density bonus for extremely low income housing (Action 2.6). Action 2.9 commits only to explore a local inclusionary program; none has been adopted. No dollar amounts, fee schedules or fund are attached.",
+      "per_unit_cap": "None.",
+      "affordability_requirement": "Lower-income (at or below 80% AMI) and extremely low income housing as described in the Housing Element; terms set case by case in a development agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Negotiate with Planning at the specific plan or tentative map stage. The 2025 Housing Element Annual Progress Report went to Council on March 10, 2026; the 2026 APR is due to HCD by April 1, 2027.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Lincoln's village specific plans (Lincoln Crossing, Village 7 and others) carry no fixed inclusionary percentage, unlike Roseville's 10% goal, so affordability in Lincoln depends on developer-by-developer agreements plus County and state money. The Consolidated Plan notes two-story height limits and two spaces per unit parking standards as constraints the City may relax for affordable projects. The Housing Element PDF itself could not be located on the redesigned lincolnca.gov site (housing element and general plan URLs returned 404); the actions were read from the City's 2026-30 Consolidated Plan, hence needs_confirmation.",
+      "source_url": "https://media-001-us.cdn.govstack.com/lincolnca-003-us/media/w1ofbefu/city-of-lincoln-2026-30-consolidated-plan.pdf",
+      "record_id": "ff63a21c9c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income multifamily in Village specific plans",
+        "senior housing"
+      ],
+      "next_deadline_date": "2027-04-01",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "November 8, 2026 audit: the City's 2026-30 Consolidated Plan (pages 111 and 132) confirms Housing Element Actions 2.3 (implemented), 2.6, 2.7 (project-by-project deferred fees, reduced parking and expedited review in Villages 1, 5 and 7) and 2.9 (explore inclusionary). No prevailing wage rule found for negotiated fee deferrals; leginfo Labor Code 1720 returned 403 and the Housing Element PDF was not found on lincolnca.gov.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Lincoln",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "needs_confirmation",
+      "program_name": "Lincoln density bonus (state Government Code 65915 applied directly; Housing Element Action 2.3 reported implemented, no stand-alone zoning chapter located)",
+      "administering_agency": "City of Lincoln Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory incentive, not a subsidy. The Consolidated Plan lists Housing Element Action 2.3 (amend the Zoning Ordinance to allow and promote density bonuses) as implemented, but the Lincoln Zoning Ordinance (Title 18) as mirrored on zoneomics contains no density bonus chapter in Divisions I through XI (R-3 multiple residential, PD planned development, parking in-lieu fee and ADU Chapter 18.37, repealed and re-enacted September 23, 2025 by Ordinance 1099B, are present). Projects therefore rely on state density bonus law directly: 20% to 50% bonuses, 80% for 100% affordable projects, up to four concessions, parking caps.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State thresholds (5% very low, 10% lower, 10% moderate for-sale, 100% affordable); 55-year covenants for rental units under state law.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Processed with entitlements; no deadline. Confirm with Planning whether a density bonus section was added to Title 18 or the PD district after 2023.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancements and no local trust fund, fee waiver ordinance, inclusionary fund or city NOFA exist in Lincoln beyond the negotiated incentives in the Housing Element (record above) and CDBG. Lincoln's ADU chapter (18.37) was updated in 2025 for state compliance. The zoning code was read on the zoneomics mirror because the City does not host its code in fetchable form; needs_confirmation because the Housing Element and any post-2023 code amendment were not opened.",
+      "source_url": "https://www.zoneomics.com/code/lincoln-CA/chapter_4",
+      "record_id": "12573fd176",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income multifamily"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "November 8, 2026 audit: the zoneomics mirror of Lincoln Title 18 (chapters 18.34 to 18.45 page) contains no density bonus text, and the City's 2026-30 Consolidated Plan lists Action 2.3 as implemented without citing a code section. No official Lincoln code host could be opened (municode API Cloudflare-blocked), so absence of a local density bonus chapter is unconfirmed.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

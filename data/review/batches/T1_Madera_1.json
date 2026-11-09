@@ -1,0 +1,249 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Madera County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Madera",
+      "confidence": "needs_confirmation",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Madera County formula allocation",
+      "administering_agency": "Madera County Community and Economic Development Department",
+      "funding_type": "grant",
+      "typical_award_size": "HCD formula allocations to the County: $226,380 (CY 2024) and $238,273 (CY 2025), with an estimated $1,414,875 for the 2024-2028 cycle; the City of Madera receives its own allocation ($296,439 in 2024, $317,530 in 2025; estimated $1,852,744 for 2024-2028). The County's PLHA five-year plan and activity choices were not located (County website blocked).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "PLHA Guidelines Section 301: rental activities must be affordable to extremely low, very low, low or moderate income households (up to 120% AMI), and workforce rental and ownership activities may serve households up to 120% AMI; plans must prioritize households at or below 60% AMI. Rental projects need a 55-year regulatory agreement and PLHA must be a low-interest deferred loan to the sponsor.",
+      "eligible_project_types": [
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No County NOFA. Confirm plan activities with Community and Economic Development ((559) 675-7821).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. Confirmation needed: at roughly $230,000 a year the County PLHA cannot anchor a development loan and is probably directed to homeless services; the plan document should be requested from the County. Source is HCD's 2024-2028 PLHA formula allocation NOFA tables.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "19afbbe608",
+      "cycle_notes": "HCD releases each calendar-year allocation to the County, which applies on a rolling basis under its five-year plan; CY 2024 funds must be requested by February 2028 and CY 2025 by February 2029. No County NOFA to developers was found.",
+      "eligible_project_detail": [
+        "homeless services (likely current use)",
+        "affordable rental development or predevelopment (eligible)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "Neither the 2019 PLHA Final Guidelines nor the 2024-2028 PLHA Formula Allocation NOFA states a prevailing wage requirement; coverage would depend on Labor Code 1720 for the specific project.",
+      "audit_note": "Award figures confirmed in the HCD NOFA tables; AMI corrected from 80% to the Section 301 limits (moderate income up to 120% AMI, 60% AMI priority); prevailing wage reset to unclear because no rule was cited. County plan activities still unconfirmed, so eligible_project_types remain unverified.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Madera County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Madera",
+      "confidence": "needs_confirmation",
+      "program_name": "Density bonus, incentives and by-right approvals (Madera County Code Chapter 18.114) and 2024-2032 Housing Element rezoning",
+      "administering_agency": "Madera County Community and Economic Development Department, Planning Division (Annette Kephart, (559) 675-7821)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Chapter 18.114 (Ordinance 669, May 19, 2014) grants state-law density bonuses for 10% low income, 5% very low income, senior, 10% moderate for-sale, land donation and child care projects; one to three incentives at 10/20/30% low income (5/10/15% very low income) with County discretion to grant more; waivers of development standards; reduced parking; and by-right approval for developments with 20% lower income units on sites carried over from a prior Housing Element inventory (Section 18.114.140). The County filed a CEQA Notice of Exemption on October 8, 2025 for the 2024-2032 Housing Element update, which rezones Housing Element sites and amends the zoning code for state law consistency; adoption and HCD certification status were not confirmed.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 thresholds with continued affordability covenants and a density bonus housing agreement (Sections 18.114.120 and 130).",
+      "eligible_project_types": [
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested with the land use application; the 2014 chapter predates several state amendments (AB 1287, AB 2694) that apply regardless.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. The County's land use incentives are state minimums; the main 2026 development is the Housing Element rezoning around Madera Ranchos, Oakhurst and the Highway 99 corridor. Source is Chapter 18.114 text on zoneomics.com; Housing Element status from CEQAnet SCH 2025100344.",
+      "source_url": "https://www.zoneomics.com/code/madera-county-unincorporated-CA/chapter_57",
+      "record_id": "720cc72cc0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily and mixed-income housing in unincorporated zones",
+        "senior housing",
+        "by-right projects on prior-inventory sites with 20% lower income units"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Nov 9, 2026 spot check: Chapter 18.114 thresholds, incentive tiers, 18.114.120 (30-year local affordability term, longer if financing requires) and 18.114.130 agreement match the zoneomics mirror; 18.114.140 by-right section now cites Ordinance 525ZZ (October 14, 2025), suggesting the Housing Element zoning amendments were adopted. maderacounty.com blocks automated access, so only the mirror could be read; mirror-only source does not support verified.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked",
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Madera County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Madera",
+      "confidence": "needs_confirmation",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29 and Behavioral Health Bridge Housing (Hotel Casa Grande)",
+      "administering_agency": "Madera County Behavioral Health Services",
+      "funding_type": "other",
+      "typical_award_size": "Madera County (population about 160,000) is eligible for the small-county housing interventions exemption; its FY 2026-29 Integrated Plan and any exemption or transfer request could not be read (County website blocked). Known housing activity: Behavioral Health Bridge Housing at the Hotel Casa Grande (37 units) with a three-year, $6.9 million supportive services contract to RH Community Builders approved August 2024; a May 2026 two-year shared-housing agreement with Madera Rescue Mission reserving 34 beds (not to exceed $1,212,576); BHCIP Round 5 award of $24,989,161 (July 2023) for a youth and adult crisis stabilization unit and sobering center (facility, not housing).",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Contact Behavioral Health Services about housing intervention contracts; no NOFA or capital program was found.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. Confirmation needed: BHSA housing dollars, exemption status and any PSH capital plans. Madera's pattern is motel-based bridge housing and contracted beds rather than capital; a developer would be looking at an operating or master-lease contract. Source is the County MHSA/BHSA page (blocked to automated access); the bridge housing and BHCIP details come from the Madera Tribune (July 9, 2023) and Board meeting summaries.",
+      "source_url": "https://www.maderacounty.com/government/behavioral-health-services/mental-health-services-act-mhsa",
+      "record_id": "e4c270eaba",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "interim and bridge housing operations",
+        "shared housing beds",
+        "possible rental or operating subsidies for PSH"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "maderacounty.com returned 403 to curl and WebFetch on the BHSA page in the November 8, 2026 audit; no County-hosted FY 2026-29 Integrated Plan was found by search. funding_type left as other because the plan's housing capital or rental subsidy allocation could not be confirmed.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Madera County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Madera",
+      "confidence": "needs_confirmation",
+      "program_name": "State CDBG and HOME applications by the County (non-entitlement) and CDBG program income",
+      "administering_agency": "Madera County Community and Economic Development Department, Planning Division",
+      "funding_type": "grant",
+      "typical_award_size": "The County's Planning Division page states that the County anticipates submitting an application in the next state CDBG program year and holds or expects about $3,250,000 of CDBG program income (from prior housing rehabilitation and economic development loans); no current County HOME or CDBG housing development award was found. The City of Madera runs its own CDBG and HOME entitlement NOFA each November.",
+      "per_unit_cap": "State CDBG and HOME program limits.",
+      "affordability_requirement": "HUD income limits (80% AMI and below).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD state CDBG and HOME NOFAs run annually; a developer can ask the County to sponsor a state HOME rental application for an unincorporated project. Program income may be available for housing rehabilitation on request.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. Confirmation needed: the Planning Division page could not be opened (403); the program income figure comes from the page excerpt in search results and should be verified with staff.",
+      "source_url": "https://maderacounty.com/government/community-economic-development-department/divisions/planning-division",
+      "record_id": "861f14fed0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "housing rehabilitation programs",
+        "public facilities and infrastructure",
+        "rental new construction (eligible under state HOME, not pursued)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "Planning Division page returned 403 to curl and WebFetch on November 8, 2026; the $3,250,000 program income figure remains unconfirmed.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Madera County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Madera",
+      "confidence": "needs_confirmation",
+      "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, Madera County Assessor",
+      "administering_agency": "Madera County Assessor, Brett Frazier ((559) 675-7710, assessor@maderacounty.com)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Standard state welfare exemption for low-income housing owned by nonprofits or limited partnerships with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate; the County publishes the BOE-267-L2 tenant data affidavit for lower income housing.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement; exemption prorated to qualifying units.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "File BOE-267 and supplemental affidavits with the Assessor by February 15, 2027 for the 2027-28 roll.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. Confirmation needed: the Assessor's pages on maderacounty.com returned 403, so local filing notes were not read; the exemption itself is state law.",
+      "source_url": "https://www.maderacounty.com/government/assessor",
+      "record_id": "3c4a85ff80",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "LIHTC rental housing with nonprofit managing general partner",
+        "nonprofit-owned affordable rental housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date",
+      "link_status": "blocked",
+      "audit_note": "Assessor page returned 403 to curl and WebFetch on November 8, 2026; the BOE welfare exemption page opened but did not state the filing deadline or low-income housing requirements.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Madera",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Madera",
+      "confidence": "needs_confirmation",
+      "program_name": "Successor Housing Agency to the former Madera Redevelopment Agency (Low and Moderate Income Housing Asset Fund)",
+      "administering_agency": "City of Madera as Successor Housing Agency (Resolutions MRA-1498 and CC 12-09)",
+      "funding_type": "loan",
+      "typical_award_size": "Unknown. The City kept the former RDA's housing assets in January 2012, but the latest SB 341 annual reports posted are for FY 2014-15 and FY 2015-16. The FY 2015-16 report is a scanned PDF and its text could not be extracted. No current fund balance found.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing Asset Fund rules (HSC 34176.1): over each five-year period, at least 30% of development spending must serve extremely low income households and no more than 20% may serve households at 60-80% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. Ask the City for the latest SB 341 report or the Housing Successor section of the Annual Progress Report.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Recorded so the asset fund is not overlooked. The 2026 Housing Element says losing redevelopment has limited the City's housing work, and it dropped one program for lack of funding, so little uncommitted cash likely remains. Any balance would add a small City layer next to HOME and PLHA. Confirm the fund balance and any housing successor-owned parcels before relying on it.",
+      "source_url": "https://www.madera.gov/city-government/boards-commissions-committees/successor-agency/successor-housing-agency/",
+      "record_id": "547f70b1e1",
+      "cycle_notes": "no published process",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Successor Housing Agency page opened November 8, 2026 and confirms the January 11, 2012 retention of housing assets and SB 341 reports only for FY 2014-15 and FY 2015-16 (scanned, no extractable text); no fund balance or prevailing wage rule found. Labor Code 1720 text could not be opened (leginfo and Justia 403) to check whether any housing fund exemption applies.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

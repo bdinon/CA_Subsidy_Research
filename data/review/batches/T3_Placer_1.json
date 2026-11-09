@@ -1,0 +1,256 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Launchpad workforce housing incentive, eastern Placer County (Transient Occupancy Tax through the TOT-TBID Dollars at Work program)",
+      "administering_agency": "Placer County Executive Office, Economic Development and Housing (Timothy Cussen, Housing Specialist); Tahoe City office 775 North Lake Boulevard; funding recommended by the North Tahoe Community Alliance (NTCA) TOT-TBID Dollars at Work program",
+      "funding_type": "grant",
+      "typical_award_size": "$200,000 per unit for category one (condos, townhomes, multifamily units and conversions of non-residential or non-code-compliant space; single-family homes are not eligible), $125,000 per ADU and $50,000 per SRO unit, paid at completion once the 55-year workforce Use Deed Restriction is recorded. Funding: $1,000,000 inaugural NOFA LP-001 (April 2025) reserved $725,000 for two Kings Beach projects (Steelhead Avenue Cottage Court, 3 tiny homes, $600,000; accessible ADU, $125,000). The February 2026 NOFA LP-002 offered $3,275,000 ($3,000,000 of new TOT approved February 3, 2026 plus $275,000 carryover), drew 12 applications ($10,550,000 requested) and reserved $3,250,000 for four projects: Lake Forest Multifamily (12 studios, Tahoe City, $2,400,000), Dollar Hill Tiny Homes (3 units, $600,000) and two tiny home ADUs ($125,000 each).",
+      "per_unit_cap": "$200,000 per unit (new construction or conversion of non-residential or non-code-compliant space), $125,000 per ADU, $50,000 per SRO.",
+      "affordability_requirement": "Units must be in unincorporated eastern Placer County within the Tahoe Truckee Unified School District boundary, outside avalanche hazard areas, with entitlements in place or allowed by right. A 55-year Use Deed Restriction (restarting on each transfer) requires occupancy as a primary residence by a qualified household with a local worker employed within the TTUSD area; no income limit or sales price cap. Units used to meet the Affordable Housing and Employee Accommodation Ordinance are ineligible.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "mixed-use"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. The February 2026 NOFA (applications February 25 to March 18, 2026) is fully reserved. The County opened a community survey in August 2026 to guide guideline revisions that staff will bring to the Board; a future NOFA depends on new TOT funding recommended through the NTCA TOT-TBID Dollars at Work program.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. Launchpad is a per-unit grant rather than a loan and is sized for small infill projects in Kings Beach, Tahoe City and the North Shore; a 10-unit workforce project could draw $2 million, which is meaningful against TRPA coverage and construction costs in the Basin. It pays only at completion, so it is bridge-financed. The workforce (not income) restriction means it does not fit LIHTC deals directly but can fund unrestricted middle-income units in a mixed-income project. TOT funds are County funds, so prevailing wage status is unclear under Labor Code 1720; confirm with the County. North Lake Tahoe TOT also funds the Workforce Housing Preservation Program and the Dollar Creek Crossing effort.",
+      "source_url": "https://placerair.org/10115/Launchpad",
+      "record_id": "1d1bc18543",
+      "cycle_notes": "NOFA rounds when TOT funding is approved (April 2025, February 2026); 3-week application windows; randomized lottery prioritizing categories one and two when oversubscribed; projects have 2 years from reservation to reach certificate of occupancy. Guidelines under revision after the August 2026 survey.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "T2 audit 2026-11-08: placer.ca.gov returned 403; the same County pages were read on the placerair.org host (Launchpad page, Reserved Launchpad Projects page, Aug. 27, 2026 news release, Guidelines PDF). Removed single-family from eligible types per the Guidelines and program FAQ. Prevailing wage left unclear: the Launchpad Guidelines do not address prevailing wage and no County ruling was found.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Placer County formula allocation",
+      "administering_agency": "Placer County Executive Office, Economic Development and Housing Division",
+      "funding_type": "grant",
+      "typical_award_size": "County formula allocations confirmed on HCD documents: 2019-2023 five-year estimate $2,730,542 (2024 amended formula NOFA); 2019 allocation award $455,090 on October 21, 2020 (activities 1 and 9); 2022 and 2023 allocations ($385,467 and $247,060, total $632,527 with $31,626 admin) awarded April 30, 2026 for activity 9 only. HCD's CY 2024-2028 Formula Allocation NOFA (July 16, 2026) lists Placer County at $489,950 (CY 2024) and $538,105 (CY 2025), about $3,062,188 over five years. Cities receive their own allocations.",
+      "per_unit_cap": null,
+      "affordability_requirement": "2024-2028 PLHA Formula Guidelines Section 301: rental activities up to 120% AMI (150% in high-cost areas), owner-occupied workforce housing up to 120% AMI, homelessness assistance up to 30% AMI; rental development assistance must be a low-interest deferred loan with a regulatory agreement of at least 55 years. The County's 2019-2023 plan used activity 1 (multifamily rental) in 2020 but only activity 9 (homeownership opportunities including down payment assistance) for the 2022-2023 award.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open County PLHA developer round as of November 8, 2026. The County's HCD application for its CY 2024 allocation is due February 29, 2028 (final business day of February 2028).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "At about $500,000 a year, County PLHA is modest. The 2022-2023 allocations awarded April 30, 2026 went to homeownership activity 9, not multifamily rental, so a developer should ask the Economic Development and Housing Division to include rental activities and a developer NOFA in the 2024-2028 plan. Prior record text saying state funds trigger prevailing wage had no cited rule.",
+      "source_url": "https://www.hcd.ca.gov/funding/plha",
+      "record_id": "b6ce835ca9",
+      "cycle_notes": "Formula grant to the County from HCD. The County must adopt a 2024-2028 five-year plan and apply to HCD; CY 2024 funds released spring 2026 with an HCD application deadline at the end of February 2028, CY 2025 by February 2029. Any developer competition is a County decision; the County last ran a developer NOFA in 2020.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": "2028-02-29",
+      "deadline_check": "future_date",
+      "prevailing_wage_basis": "The 2024-2028 PLHA Formula Guidelines (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-guidelines.pdf) contain no prevailing wage provision; coverage of a County PLHA loan is a Labor Code 1720 question, including the 1720(c)(6)(E) affordable housing exemption applied in DIR PW 2006-020.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Housing Trust Placer (nonprofit housing trust seeded and funded by Placer County)",
+      "administering_agency": "Housing Trust Placer, Inc. (Robyn van Ekelenburg, CEO; robyn@housingtrustplacer.org); County contributions through the Economic Development and Housing Division",
+      "funding_type": "loan",
+      "typical_award_size": "Nonprofit trust formed in 2020 that provides gap financing, acquisition and fundraising; Placer County pledged $575,000 with its 2021 Housing Element and selected the trust to administer its First-Time Homebuyer and Workforce Housing Preservation down payment programs (2025). Projects: Parkside at Sabre City (44 homes each with an ADU, manufactured housing, County and HCD financing, leasing 2025-2026) and the Hope Way site at 3130 Penryn Road (240 units with USA Properties Fund). No published NOFA, loan amounts or terms for developers; financing is arranged deal by deal from public and private sources.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Set per project; Sabre City serves low income renters and the trust's homebuyer programs serve first-time and workforce buyers.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; approach the CEO directly. The County also approved $500,000 in 2025 for a new North Lake Tahoe housing trust (separate from Housing Trust Placer).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. Housing Trust Placer is the County's chosen intermediary for homebuyer programs and a co-developer or site holder for County-backed projects rather than a lender with a fund balance, so do not underwrite a trust loan without a conversation. It is useful as a nonprofit partner for the welfare exemption and for assembling County, SMUD, hospital and foundation gap money on western Placer projects. It qualifies as a Local Housing Trust Fund for HCD matching grants only if it meets the LHTF program's dedicated-revenue test, which was not confirmed.",
+      "source_url": "https://housingtrustplacer.org/",
+      "record_id": "5c582a6636",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No stated rule. Housing Trust Placer is a private nonprofit that publishes no NOFA or loan guidelines and its website says nothing on prevailing wage. Coverage follows the public sources it assembles: County funds can make a project public works under Labor Code 1720(b), subject to 1720(c)(3) de minimis (under $600,000 and under 2% of project cost) and 1720(c)(5)(E) below-market loans with 40% of units at 80% AMI or below for 20 years; its down payment programs fall under the 1720(c)(5)(C) exemption for down payment assistance. Any HOME, CDBG or state money layered in carries that program's own rule.",
+      "audit_note": "Tier 3: prevailing wage left unclear; only the general Labor Code 1720(b) definition applies and the outcome depends on 1720(c) exemptions and project funding mix.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Roseville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Roseville development impact fee deferral for affordable multifamily (Municipal Code Section 4.04.040, Ordinance 6830; Sierra Vista Apartments deferral, Resolution 26-336)",
+      "administering_agency": "City of Roseville Economic Development Department (Gina McColl, 916-774-5452) with the Finance Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral, not waiver: city-controlled impact fees are deferred from building permit to final or certificate of occupancy, with interest at the City's pooled rate (ten-year average about 2.23%) and an administrative processing fee per permit. Deferrals of $100,000 or more need Council approval. Example approved September 16, 2026: about $2,987,339 deferred for the 192-unit Sierra Vista Apartments (Greek Orthodox Housing Corporation, parcel JM-30, 4950 Upland Drive), covering fire construction tax, sewer and water connection, drainage, SVSP traffic mitigation, citywide and neighborhood parks, bike trail, public benefit and solid waste fees (about $373,000 per building). For a 100% affordable project (three or more units, all units low, very low or extremely low income, Affordable Housing Agreement under Section 19.28.110, objective design standards, secured promissory note) payment may be pushed up to one year after the first certificate of occupancy. The City's policy is not to waive fees; CSCDA SCIP fee financing is also offered.",
+      "per_unit_cap": "None; about $15,600 per unit deferred in the Sierra Vista example.",
+      "affordability_requirement": "Standard deferral is open to any multifamily project on request; the extended one-year post-occupancy deferral requires 100% of units (except managers) affordable to low, very low or extremely low income households under a recorded Affordable Housing Agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request through the Economic Development Department when fee estimates are prepared; a Council hearing under Government Code 53083 is required for deferrals of $100,000 or more.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Timing relief only; fees are still paid in full with interest, so it does not reduce basis but eases construction-period cash needs. Placer County Capital Facilities fees and traffic fees are not city-controlled and are not deferred; age-restricted projects get reduced traffic and County capital facilities rates. Roseville also made a $571,850 CDBG loan (September 4, 2024) to the same Sierra Vista sponsor for land purchase, showing how CDBG, fee deferral, the Regulatory Agreement and LIHTC stack on one project. Read from the September 16, 2026 City Council agenda packet via the CivicClerk API file stream.",
+      "source_url": "https://rosevilleca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11713,plainText=false)",
+      "record_id": "9accb06f94",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income multifamily",
+        "100% affordable multifamily"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No stated rule. The September 16, 2026 Council packet (Sierra Vista deferral, Resolution 26-336) does not address prevailing wage. A fee deferral at the City's pooled interest rate may be a reduced fee or below-market interest rate under Labor Code 1720(b)(4), but 1720(b)(4) alone does not decide coverage; the 1720(c)(3) de minimis test (under $600,000 and under 2% of project cost) and the 1720(c)(5)(E) below-market loan exemption (40% of units at 80% AMI or below for 20 years) may apply, and Roseville's separate CDBG loan to the same sponsor brings its own federal rule.",
+      "audit_note": "Tier 3: prevailing wage left unclear; only basis is Labor Code 1720(b)(4) and the outcome depends on 1720(c) exemptions and project facts.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rocklin",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Rocklin impact fee reduction of 40% for affordable units (Ordinance 1159, January 10, 2023) and SB 937 fee deferral program (Resolution adopted August 26, 2025)",
+      "administering_agency": "City of Rocklin City Manager's Office, Housing Division (Housing@rocklin.ca.us) and Community Development Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "40% reduction of City development impact fees for deed-restricted units at 60% AMI or lower, calculated unit by unit (adopted by Ordinance 1159 with the rate set by resolution the same night). Fee deferral: City park development, traffic, community and recreation center, construction tax, park improvement, public facilities and trails impact fees deferred from building permit to final inspection or certificate of occupancy, secured by a promissory note and deed of trust that may be subordinated to construction financing; since the August 26, 2025 SB 937 policy, deferral to final inspection applies to all designated residential projects without interest, and the AHIP deferral is aligned with it. Staff reported in September 2025 that no reductions or deferrals had yet been processed but estimates had been issued to developers for their financing packages.",
+      "per_unit_cap": "No cap; 40% of city impact fees on each qualifying unit.",
+      "affordability_requirement": "Fee reduction: units deed-restricted at 60% AMI or lower. AHIP fee deferral eligibility: at least 10% of units at affordable rents for very low income households or at least 49% of units affordable to low income households; fees become payable with interest penalties if the promised units are not delivered by certificate of occupancy.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Apply to Housing@rocklin.ca.us with a preliminary title report before building permit issuance; reductions must be requested before signing a deferral agreement. Municipal Code chapters on impact fees were slated for SB 937 clean-up at a future Council meeting (not confirmed adopted as of this pass).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "A real cost reduction (not just timing), unlike Roseville, which defers but does not waive. Combine with the $40,000 per unit Low/Mod loan (record above). Placer County Capital Facilities fees and school fees are outside the City program. Verified from the September 9, 2025 Council staff report and the City's fee deferral application form (rocklin.ca.gov/DocumentCenter/View/457).",
+      "source_url": "https://www.rocklin.ca.gov/DocumentCenter/View/457",
+      "record_id": "366e7c7977",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income multifamily",
+        "100% affordable multifamily"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "prevailing_wage_basis": "No stated rule. The September 9, 2025 AHIP staff report (Ordinance 1159 fee reduction, SB 937 deferral) does not address prevailing wage. A 40% impact fee reduction is a reduced or waived fee under Labor Code 1720(b)(4), but coverage depends on the 1720(c)(3) de minimis test (under $600,000 and under 2% of project cost); projects using only Low and Moderate Income Housing Fund money plus private funds are exempt under 1720(c)(4), but adding the fee reduction may take a project outside that exemption, and 1720(c)(5)(E) may apply to below-market loans at 40% of units at 80% AMI or below.",
+      "audit_note": "Tier 3: prevailing wage left unclear; only basis is Labor Code 1720(b)(4) and the outcome depends on 1720(c) exemptions and project facts. rocklin.ca.gov and rocklin.ca.us return 403; staff report read from the City's agenda host d2kbkoa27fdvtw.cloudfront.net.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Auburn",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Auburn 2021-2029 Housing Element Program A and Program I: case-by-case fee reductions or deferrals, alternative development standards and state CDBG and HOME applications for affordable housing (adopted May 24, 2021)",
+      "administering_agency": "City of Auburn Planning and Public Works Department, with participating nonprofit and for-profit housing providers",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Negotiated, not codified. Program A commits the City to consider fee reductions or deferrals sized to the financial need of each affordable development, to negotiate alternative standards (parking, street improvements, density, lot coverage), to apply for state-administered CDBG, HOME and other funds on behalf of affordable developers or support their applications, and to meet at least twice in the planning period with housing providers; Program I adds land write-downs, expedited processing, identification of impact fee reductions and incentives beyond the density bonus for extremely low income housing, with priority in high resource areas and the Baltimore Ravine Specific Plan. Track record: 2010 and 2014 state HOME grants for owner rehabilitation and first-time buyers (completed November 2017); the City did not apply for 2018 HOME funds due to staff turnover and no new award was found. No dollar amounts or fee schedule exist.",
+      "per_unit_cap": "None.",
+      "affordability_requirement": "Extremely low, very low, low and moderate income housing as defined in the Housing Element; terms set per project.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request during entitlement; Council action is needed for any fee reduction. Auburn is a non-entitlement city, so state CDBG and HOME NOFAs (HCD) are the vehicles, with the City as applicant or supporter; check HCD NOFA calendars and the City's annual NOFA review.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Because Auburn is non-entitlement, Placer County's PLHA and the County's in-lieu fee gap loans (county records) are the nearest local money; the County's Priority Applicant Policy (effective July 1, 2026) would apply to County-funded units. Fee deferral for residential projects is now mandated statewide by SB 937 (to final inspection), so the Housing Element's deferral promise mainly adds the possibility of a reduction. Verified from the adopted 2021 Housing Element PDF on auburn.ca.gov; no 2024 or 2025 Annual Progress Report could be located (CivicPlus Agenda Center and search pages are script-rendered).",
+      "source_url": "https://auburn.ca.gov/DocumentCenter/View/2270/AUBURN_Housing-Element-2021",
+      "record_id": "dcd0c22bb2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No stated rule. The adopted 2021 Housing Element (Programs A and I) does not address prevailing wage. Negotiated fee reductions or land write-downs are reduced fees or below-market land under Labor Code 1720(b)(4) and (b)(3), with coverage depending on the 1720(c)(3) de minimis test and 1720(c)(5) exemptions. If the City secures state CDBG or HOME for a project, those programs carry their own federal rules (Davis-Bacon for CDBG at 8+ units, HOME 24 CFR 92.354 at 12+ HOME units), but those are separate awards.",
+      "audit_note": "Tier 3: prevailing wage left unclear; only basis is the general Labor Code 1720(b) definition and the outcome depends on 1720(c) exemptions and project facts.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

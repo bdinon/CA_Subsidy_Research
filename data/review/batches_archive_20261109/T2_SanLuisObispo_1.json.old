@@ -1,0 +1,118 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Title 29 Affordable Housing Fund (residual inclusionary in-lieu and housing impact fees)",
+      "administering_agency": "San Luis Obispo County Department of Social Services, Homeless Services Division (fund created under County Code Title 29)",
+      "funding_type": "grant",
+      "typical_award_size": "Fund balance $558,321.03 at July 1, 2025; $108,775.83 drawn and $205,734 committed to prior projects in FY 2025/26; $154,616.15 offered in the 2027 Action Plan NOFA ($56,199.01 Open to All, $13,251.59 Central County, $124,427.55 South County; North County and North Coast exhausted). Recent allocations: Rolling Hills III $89,978, Monterey Family Apartments $69,448, Cambria Pines $46,308, Arroyo Terrace $254,972, Balay Ko $228,641. 119 Title 29-assisted units complete in FY 2026/27.",
+      "per_unit_cap": "Not published; awards have run $46,000 to $255,000 per project.",
+      "affordability_requirement": "Households at or below 80% AMI under County Affordable Housing Standards; 55-year rental and 45-year ownership covenants. Awards are grants, except TCAC projects must take a loan (typically 3% simple interest). Funds must be spent in the market area where fees were collected.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Included in the 2027 Action Plan NOFA (closed October 30, 2026). Remaining balances are small and will be exhausted within one or two cycles; no new revenue since the June 7, 2022 repeal.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. Title 29 is a shrinking residual pot restricted by market area (South County has the largest remaining balance). Use it as a small TCAC local contribution alongside HOME and PLHA. The County's July 2026 risk analysis holds back $110,148 for possible permit refunds and $39,262 for Open to All refunds.",
+      "source_url": "https://www.slocounty.ca.gov/departments/social-services/forms-documents/homeless-services/homepage/2026/title-29-report-for-fy-2025-26",
+      "record_id": "f5f8c71a7c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "rehabilitation",
+        "ownership affordable housing"
+      ],
+      "next_deadline_date": "2026-10-30",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Luis Obispo County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA) loans under the County 5-Year Plan",
+      "administering_agency": "San Luis Obispo County Department of Social Services, Homeless Services Division",
+      "funding_type": "loan",
+      "typical_award_size": "$149,238.80 of 2021 PLHA offered in the 2027 Action Plan NOFA under Plan Activity 2 (predevelopment, development, acquisition, rehabilitation and preservation of affordable rental and ownership housing including ADUs for workforce households up to 120% AMI). The NOFA states multifamily rental projects are not eligible under Activity 2 in this round. HCD formula allocations to the County: $612,437 (2024) and $656,010 (2025); five-year 2019-2023 total about $3.83 million. Past PLHA went to Arroyo Terrace and Cambria Pines.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Households at or below 120% AMI (150% in high-cost areas) for Activity 2; rental projects require 55-year covenants and a deferred loan under PLHA guidelines. Awards are loans.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "adu",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2027 Action Plan NOFA closed October 30, 2026; awards April 2027. Future PLHA rounds (2024-2028 allocations) will follow the amended County PLHA Plan; ask HSD whether rental development returns as an eligible activity.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. PLHA in San Luis Obispo County is modest and in the current round is steered to ownership and ADU work, so do not underwrite it for a rental project without written confirmation. The annual report notes some pipeline projects are being pursued under Homekey+, CoC or Cycle 2 PLHA.",
+      "source_url": "https://www.slocounty.ca.gov/departments/social-services/forms-documents/homeless-services/funding-availability/2027/2027-action-plan-nofa",
+      "record_id": "a2046b2a19",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "ownership affordable housing",
+        "ADUs (30-day minimum occupancy)",
+        "preservation and rehabilitation",
+        "multifamily rental (prior rounds; excluded in 2027 NOFA Activity 2)"
+      ],
+      "next_deadline_date": "2026-10-30",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Paso Robles",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Luis Obispo",
+      "confidence": "verified",
+      "program_name": "Community Development Block Grant (CDBG) city allocation through the San Luis Obispo Urban County",
+      "administering_agency": "City of El Paso de Robles Community Development Department, Housing Programs Division (County of San Luis Obispo is lead agency)",
+      "funding_type": "grant",
+      "typical_award_size": "About $165,000 per year to the City. At least 70% must benefit low income persons (80% AMI or below), no more than 15% for public services, up to 30% for blight elimination; projects must complete within about 1.5 years. CDBG cannot pay new housing construction costs or development impact fees; eligible uses include land acquisition for low income housing, street improvements serving low income housing, rehabilitation and public facilities.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Beneficiaries at or below 80% of county median income; HOME and CalHome recipients must be low income.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "City CDBG requests run on the Urban County Action Plan calendar (2027 Action Plan NOFA applications were due October 30, 2026; next round expected fall 2027). Contact Housing Programs at (805) 237-3970.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The City recommends use of its own CDBG share but the County Board adopts the Action Plan (county record: Urban County Action Plan NOFA). HOME and ESG are not allocated to the City; the City may apply to the County for HOME annually, and County HOME has funded Peoples' Self-Help Housing projects in Paso Robles (Canyon Creek, Creekside Gardens). Useful only for acquisition, site work or rehab components and must be paired with other local or state sources for construction. Davis-Bacon applies.",
+      "source_url": "https://www.prcity.com/238/Community-Development-Block-Grant-Progra",
+      "record_id": "a6f0dbc3aa",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-10-30",
+      "deadline_check": "past_date"
+    }
+  }
+]

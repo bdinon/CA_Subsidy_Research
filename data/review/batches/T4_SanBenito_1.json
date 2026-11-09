@@ -1,0 +1,37 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Density bonus, concessions and affordable-by-design standards (Chapter 21.03 Sections 13 and 14)",
+      "administering_agency": "San Benito County Resource Management Agency, Planning and Building",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus law (Government Code 65915 to 65918) implemented in Chapter 21.03 Section 13 as amended December 13, 2022, covering concessions and incentives, fractional unit rules and rental, for-sale and condominium projects; Section 14 adds optional affordable-by-design development standards assessed case by case. The 2023-2031 Housing Element rezoning (Ordinance 1091 and Resolution 2026-5, January 13, 2026) created a Residential High zone on twelve parcels, and HCD certified the Housing Element on February 3, 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 affordability thresholds with recorded covenants; inclusionary units may count toward the bonus per state law.",
+      "eligible_project_types": [
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested with the land use application; Planning and Building reviews affordable housing plans before Planning Commission and Board approval.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. The County applies state law without local enhancements; the certified Housing Element and Residential High rezoning are the main 2026 change, opening higher-density sites near Hollister for 100% affordable projects that can also use the state density bonus. Source is the December 13, 2022 Board packet; Housing Element approval details from the January 13 and February 10, 2026 agendas on cosb.granicus.com.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/6404819104d9eef39ad033a9e4860b430.pdf",
+      "record_id": "d508c4f869",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental and for-sale housing in unincorporated zones, including the new Residential High zone sites"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

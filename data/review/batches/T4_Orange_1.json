@@ -1,0 +1,121 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Orange County Housing Finance Trust (OCHFT) permanent supportive and affordable housing loans",
+      "administering_agency": "Orange County Housing Finance Trust, joint powers authority of the County of Orange and 27 cities (9-member board, 4 County and 5 city seats), administered by County staff",
+      "funding_type": "loan",
+      "typical_award_size": "2024 NOFA (due March 15, 2024, availability extended by Addendum 2 through July 2026, now fully committed): $25,700,502 from County MHSA ($12,371,809), County General Fund ($1,000,000) and state Local Housing Trust Fund matching grants ($12,328,693), split in thirds across North, Central and South service planning areas, project cap $3,500,000. Awards 2020 to 2024: $55,035,131 to 32 project awards funding 441 Trust-restricted units in 2,477 total units (2024 round $22,143,076 for 152 units across 10 projects including Cypress Village Irvine $3,500,000 and Aspan Court Lake Forest $3,490,000). June 30, 2025 audit: notes receivable $25,013,554, net position $54,579,510; FY 2024-25 deposits $4,000,000 MHSA, $1,200,000 County, $3,000,000 CalOptima, $402,747 LHTF. $250,000 federal community project funding presented April 2026. Goal 2,396 PSH units by 2029.",
+      "per_unit_cap": "2024 NOFA: $126,000 (0BR), $140,000 (1BR), $154,000 (2BR+) for non-MHSA units; $191,600 per MHSA unit; $3,500,000 per development unless waived by the board.",
+      "affordability_requirement": "Extremely low, very low and low income households and people experiencing homelessness; MHSA units for homeless adults with serious mental illness; LHTF-funded units at or below 60% AMI per state rules; 55-year covenant. Projects must be in the unincorporated area or a member city, and LHTF dollars only in cities compliant with state housing law; MHSA-only requests may be anywhere in the county.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open NOFA as of Nov 2026; the 2024 NOFA has no funds remaining and no 2025 or 2026 round was posted. Watch the Trust's NOFA page and board agendas; rounds have opened each spring since 2020 when state LHTF matches were awarded. An Affordable ADU Loan Program is also offered.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Regional JPA recorded at county level because the County seeded it and sits on its board; it is the vehicle that captured $12,300,000 of state LHTF matches for Orange County. Terms mirror the County NOFA: 3% simple, 55 years from conversion, 50% residual receipts, TCAC developer fee limits, $25,000 partnership management fee cap. Awards are small ($500,000 to $3,500,000) and used as last-in gap money on 4% and 9% deals, often alongside County MHSA loans and OCHA PBVs. Member cities: Aliso Viejo, Anaheim, Buena Park, Costa Mesa, Dana Point, Fountain Valley, Fullerton, Garden Grove, Huntington Beach, Irvine, La Habra, Laguna Beach, Laguna Hills, Laguna Niguel, Lake Forest, Los Alamitos, Mission Viejo, Newport Beach, Orange, Placentia, San Juan Capistrano, Santa Ana, Seal Beach, Stanton, Tustin, Westminster and Yorba Linda. Public funds trigger state prevailing wage. NOFA page, developments page, member list and 2025 audit opened; the 2024 NOFA PDF is hosted on Squarespace.",
+      "source_url": "https://www.ochft.org/notice-of-funding-availability",
+      "record_id": "1dbccda6dc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "ADU"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Development fee waiver for affordable housing (no countywide program)",
+      "administering_agency": "OC Public Works, OC Development Services",
+      "funding_type": "fee waiver",
+      "typical_award_size": "None adopted. The County has no impact fee waiver or deferral program for affordable housing in the unincorporated area. The 2026 Supportive Housing NOFA treats city waivers of impact, school, sanitation and mitigation fees as eligible local match, and County loans may pay building permit fees as an eligible cost.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Ask the host city for fee waivers to satisfy the County NOFA match requirement.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding. Unincorporated projects pay full County, school district and sanitation district fees; the Affordable Housing Permit carries a processing deposit. Labor Code 1720(b)(4) counts any waived fee as public funds for prevailing wage purposes.",
+      "source_url": "https://housing.oc.gov/sites/hcd/files/2026-03/2026%20NOFA%2003.06.26.pdf",
+      "record_id": "fe6f178ef3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption (property tax), Orange County Assessor",
+      "administering_agency": "Orange County Assessor, Claude Parrish, 500 S. Main Street, Orange; Institutional Exemptions unit 714-834-2779; main line 714-834-2727",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Full or partial exemption of property tax on units occupied by households at or below 80% AMI under Revenue and Taxation Code 214(g); worth roughly 1.1% or more of assessed value a year depending on the tax rate area. The Assessor posts current BOE-267 series forms (2026 BOE-267-R is online).",
+      "per_unit_cap": "Statewide $20,000,000 aggregate cap on exempted assessed value for limited partnership projects that qualify only through the managing general partner test without government financing (Rev. and Tax. Code 214(g)); projects with tax credits, bonds or government loans are outside the cap.",
+      "affordability_requirement": "Nonprofit or LP with eligible nonprofit managing general partner holding a BOE Organizational Clearance Certificate; units restricted by recorded regulatory agreement or occupied by households at or below 80% AMI; BOE-267 first filing and BOE-267-L, L1 or L2 supplemental affidavits annually by Feb 15 (late claims receive a reduced exemption under Rev. and Tax. Code 270).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "2027-02-15 (annual claim deadline for the 2027-28 roll). File the first claim on acquisition so the construction period is covered.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard in every tax credit operating budget; underwrite only the restricted units and confirm the managing GP's OCC before closing. The Assessor's institutional exemptions page describes the welfare exemption in general terms only; the exemptions unit phone comes from the Assessor's contact page (both opened). The BOE county contacts page lists the same office.",
+      "source_url": "https://www.ocassessor.gov/tax-saving-programs/institutional-exemptions",
+      "record_id": "a529193399",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2027-02-15",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "needs_confirmation",
+      "program_name": "Development fee waiver for affordable housing (no countywide program)",
+      "administering_agency": "Marin County Community Development Agency",
+      "funding_type": "fee waiver",
+      "typical_award_size": "None adopted. Development Code 22.24.020 states that nothing in the density bonus chapter requires direct financial incentives such as subsidies or fee waivers, though the County may offer them at its discretion. No fee waiver program appears in Board housing actions reviewed for 2025 and 2026.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Request fee relief case by case through the Affordable Housing Fund or as a density bonus incentive.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding. Labor Code 1720(b)(4) counts waived fees as public funds for prevailing wage purposes. Read on the Zoneomics mirror of Chapter 22.24.",
+      "source_url": "https://www.zoneomics.com/code/marin-county-unincorporated-CA/chapter_3",
+      "record_id": "83146f5922",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Nov 9, 2026 spot check: 22.24.020(C)(2) text (no required direct financial incentives such as fee waivers; County discretion) matches the zoneomics mirror only. The County affordable housing policies and fees page (marincounty.gov/departments/cda/housing-and-grants/creating-housing/affordable-housing-policies-and-fees) returned 403; a search snippet of that page says applicants providing affordable units beyond the minimum may get a reduction or waiver of affordable housing impact or in-lieu fees, and the County runs ADU fee waivers through December 31, 2026. The no-program claim needs confirmation on the official page.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mill Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Mill Valley Affordable Housing Requirements: inclusionary units and affordable housing impact fee, MVMC Chapter 20.80 (Ordinance 1295 of 2017, inclusionary update adopted 2026 under Housing Element Programs 7 and 11)",
+      "administering_agency": "City of Mill Valley Planning and Building Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Impact fee: 1% of construction valuation on single-family and small multifamily residential work at or above the valuation threshold ($100,000 in 2018, $105,000 in 2020, $130,000 in 2023, $142,000 from May 1, 2024, indexed to the California Construction Cost Index), paid at building permit into the Affordable Housing Trust Fund; collection was extended five years by Council resolution on March 20, 2023. The 2026 update lowered the inclusionary requirement from 25% to 15%, exempted 2 to 6 unit projects from building affordable units and waived their impact fee when units stay under 850 square feet (one bedroom), 1,000 (two bedrooms) or 1,200 (three bedrooms), and eliminated micro-unit caps. Fractional units of 0.50 or more may be met by an in-lieu payment calculated by applying the fraction to the impact fee formula.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Projects of 7 to 9 units: 15% affordable with at least one unit for moderate income households. Projects of 10 or more units: 15% affordable, at least half of the affordable units for low income households and the rest moderate income. Rental affordable units restricted in perpetuity or the maximum term allowed by law (20.80.060). Exempt: ADUs, micro units, projects below the valuation threshold, projects vested before November 1, 2018. Off-site units, land dedication or acquisition-rehabilitation alternatives at the City's sole discretion; Chapter 20.80.080 allows reducing moderate income unit counts when units are instead restricted to very low or low income.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Threshold adjusts each calendar year. Housing Element Program 11 requires a further look at inclusionary ratios at the 2028 RHNA mid-point; Program 12 calls for considering a commercial linkage fee and single-family impact fee changes with other Marin jurisdictions.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The 2026 drop from 25% to 15% (half low, half moderate) brings Mill Valley below Novato (20%) and the County (20%) and closer to San Rafael's 5% to 10%; combined with the Housing Overlay Districts (17 to 40 units per acre) it is meant to make 7-plus unit infill feasible on commercial corridors. The impact fee is the engine of the Trust Fund record above; no commercial linkage fee exists yet. The 2026 ordinance PDF (Attachment 1, as adopted per the City zoning updates page), the Zoneomics mirror of Chapter 20.80, the 2024 APR and the Housing Element were opened; the City's eCode360 host was not needed.",
+      "source_url": "https://www.cityofmillvalley.gov/DocumentCenter/View/12336",
+      "record_id": "4af9d9ce01",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mill Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Mill Valley development fee waivers for affordable housing (MVMC 5.32 as amended October 3, 2022, Housing Element Programs 14 and 23) and lot merger fee waiver in the Opportunity Site Housing Overlay",
+      "administering_agency": "City of Mill Valley Planning and Building Department; City Council resolution for waivers",
+      "funding_type": "fee waiver",
+      "typical_award_size": "100% waiver of City application processing fees for projects managed and operated by affordable housing organizations when at least 10% of units serve very low income households (Housing Element Program 14 text) or extremely low income households (Program 23 and 2024 APR wording), adopted by ordinance and resolution in October 2022. Separately, MVMC 5.32 provides a 50% reduction in City fees, licenses and taxes for units affordable to and occupied by lower and moderate income households. Lot merger fees are waived for projects using the Opportunity Site Housing Overlay (2024 overlay ordinance). Affordable projects are also exempt from the Chapter 20.80 impact fee. Dollar value depends on the City fee schedule.",
+      "per_unit_cap": null,
+      "affordability_requirement": "At least 10% of units for very low or extremely low income households and operation by an affordable housing organization; the City also may consider a fee waiver program for ADUs under Program 30.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request at application. Confirm the exact MVMC 5.32 threshold (very low versus extremely low) with Planning before underwriting; the two City documents read describe it differently.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A processing-fee waiver is worth tens of thousands of dollars on a Mill Valley project, not a gap closer, but it counts as public funds under Labor Code 1720(b)(4). Stack with the Trust Fund, the housing overlays and State Density Bonus. Mill Valley's title 5 code text was not opened (eCode360 not attempted); terms come from the certified 2023-2031 Housing Element Chapter 4 (opened), the 2024 Annual Progress Report (opened) and the overlay ordinance (opened). marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+      "source_url": "https://www.cityofmillvalley.gov/DocumentCenter/View/7984",
+      "record_id": "0d0535d663",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "audit_note": "Link redirect is only a filename slug. Housing Element Chapter IV also states the 50% MVMC 5.32 reduction for lower and moderate income units, which the record omitted.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mill Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Mill Valley Density Bonus (MVMC Chapter 20.81) and Housing Overlay Zoning Districts (Small Lot, Office Conversion and Opportunity Site overlays, 2024 ordinance)",
+      "administering_agency": "City of Mill Valley Planning and Building Department",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement framework, not a cash subsidy. Chapter 20.81 applies Government Code 65915 by reference (bonus, incentives, waivers, parking ratios; senior projects get no concessions unless state law requires). The 2024 Housing Overlay Districts, applied on top of base zoning to Housing Element sites, allow 17 to 40 units per acre (20 to 40 in the Opportunity Site overlay), 40-foot height, one parking space for units of 1,000 square feet or less, waived lot merger fees, and let projects also use State Density Bonus to modify standards; projects reserving 20% of units for lower income households get streamlined review. Affordable units in overlay projects follow Chapter 20.80 deed restriction rules. Bayfront Terrace (45 units) was rezoned to RM-B and approved as a 100% affordable project using density bonus incentives but not the density increase.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State thresholds for Chapter 20.81; overlay projects must meet Chapter 20.80 inclusionary (15% since 2026) or provide 20% lower income units for the streamlined path. Density bonus affordability covenants recorded before building permit (20.81.050).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "None. The 2026 inclusionary ordinance also updated the Opportunity Site overlay to the 15% standard and removed micro-unit restrictions; parking standards were updated November 3, 2025.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mill Valley's overlays are the practical density path because base multifamily zoning is scarce; combine overlay density with the State bonus, the 15% inclusionary rule and the Trust Fund. No local bonus exceeds state law. Overlay ordinance (DocumentCenter 7829) and the Zoneomics mirror of Chapter 20.81 were opened; the City's eCode360 host was not attempted.",
+      "source_url": "https://www.cityofmillvalley.gov/DocumentCenter/View/7829",
+      "record_id": "1945fdaa55",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2025-11-03",
+      "deadline_check": "past_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

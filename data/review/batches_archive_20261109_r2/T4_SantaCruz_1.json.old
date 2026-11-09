@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Rounds 5 and 6, County and Watsonville/Santa Cruz CoC CA-508",
+      "administering_agency": "Santa Cruz County Human Services Department, Housing for Health Division (housingforhealth@santacruzcountyca.gov, (831) 454-7312), administering entity for the Housing for Health Partnership CoC",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-5: $5,080,000 combined County and CoC award announced February 2024 (down $840,000 from HHAP-4) for shelters and transitional housing, outreach, PSH services and flexible assistance. HHAP-6: County $2,111,016.78 and CoC $2,254,602.21 (about $4.4 million block grant); application revisions submitted November 2025 with HCD still requesting changes in December 2025. HHAP-7 preliminary allocations: County $1,880,116.49, CoC $2,014,410.53.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; regional action plan with the four cities.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No local capital NOFA; the Policy Board of the Housing for Health Partnership sets allocations. HHAP-7 planning runs through 2027. Contact Housing for Health about PSH operating or services funding tied to Coordinated Entry referrals.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. HHAP underwrites the services side of PSH projects such as Veterans Village and Park Haven Plaza; it has not funded capital. The December 2025 Policy Board packet also records a CoC decision to prioritize HUD CoC rental assistance for PSH projects threatened by federal NOFO changes. Source is the Housing for Health Partnership Policy Board packet of December 17, 2025; HHAP-5 figure from the County's February 2024 press release and HHAP-6 and HHAP-7 figures from HCD allocation tables.",
+      "source_url": "https://www.housingforhealthpartnership.org/Portals/29/HAP/pdf/Housing%20for%20Health%20Partnership%20Policy%20Board%20Meeting%20Packet%20December%2017%202025.pdf",
+      "record_id": "46a3c2eae9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "shelter and transitional housing operations",
+        "street outreach",
+        "permanent supportive housing services and rental assistance",
+        "flexible financial assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Cruz",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "Measure O Inclusionary Housing Program (Municipal Code Chapter 24.16 Part 1, Ordinance 2021-04) and inclusionary in-lieu fee",
+      "administering_agency": "City of Santa Cruz Housing and Community Development Division, with tenant and buyer eligibility intake by the Housing Authority of the County of Santa Cruz (2160 41st Avenue, Capitola)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Voter-approved Measure O requires residential projects to provide a share of units affordable to very low, low or moderate income households under Chapter 24.16 Part 1 as revised by Ordinance 2021-04 (effective April 13, 2021); units may be built as rental or for-sale and carry long-term or permanent deed restrictions. Before the 2021 revision the ordinance required 15% of new rental units at or below 80% AMI; the City's June 2018 Keyser Marston feasibility analysis tested 15%, 25% and 35% alternatives and Downtown versus non-Downtown subareas under AB 1505, and the revised percentage (reported as 20%) was not confirmed from code text this pass. In-lieu fees under Section 24.16.030(6) are calculated project by project on the affordability gap between market and inclusionary rents (2018 sample: $168,478 gap per unit, $25,271 per market-rate unit or $34.86 per square foot at 15%), are usually paid before building permit issuance and are deposited to the Affordable Housing Trust Fund for new low income units with long-term restrictions or preservation. No refunds or interfund transfers occurred 2021-2025 (2026 AB 2663 report). Measure O rents and incomes are set annually by resolution (2025 schedule effective July 1, 2025, Resolution NS-16,452 series; eight implementing resolutions listed through NS-29,463).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Very low, low and moderate income households per the City resolution governing each unit; Measure O rentals restricted to very low and low income tenants or Housing Choice Voucher holders with annual income recertification; eligibility letters issued by the Housing Authority expire after three months; $250 processing fee paid by the seller or landlord.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; in-lieu fee due at building permit. Annual rent and income schedules take effect July 1. Confirm the current inclusionary percentage and any Downtown subarea rate with the Housing Division (affordablehousing@santacruzca.gov) because the code publisher (codepublishing.com) and the Measure O resolution PDFs (scanned images) could not be read this pass.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Primary feeder of the AHTF (record above). Compared with the County's Measure J (15% of for-sale projects of seven or more units, rental projects pay the Affordable Housing Impact Fee), the City program applies to rental projects, so market-rate apartment developers downtown face either on-site units or a gap-based fee; recent mixed-income downtown projects show the pattern (175 condos with 20 affordable at Front Street Riverfront, 276 market-rate with 37 affordable at 530 Front Street, 233 market-rate with 35 affordable at 130 Center Street). Inclusionary units can qualify for the state density bonus under Chapter 24.16 Part 3. The 2022 ballot Measure O (library and housing site) outcome was not addressed on any City page opened; the Downtown Library and Affordable Housing Project on City Lot 4 is under construction with 124 units (all but one manager unit affordable), so the project proceeded. Sources opened: Measure O program page, Resolutions and Ordinances page, FAQ page, For Rent Units page, KMA 2018 analysis PDF and the 2026 in-lieu fee report PDF, all via WebFetch because santacruzca.gov blocks scripted fetches.",
+      "source_url": "https://www.santacruzca.gov/Government/City-Departments/Community-Development/Housing-Assistance-Information-and-Resources/Measure-O-Inclusionary-Housing",
+      "record_id": "9bb9103d98",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental and for-sale projects (compliance)",
+        "mixed-income projects",
+        "land dedication alternatives"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  }
+]

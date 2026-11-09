@@ -1,0 +1,278 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "County-owned land for affordable housing (East Santa Clara Street, Distel Circle, Cupertino educator housing, VTA TOD sites)",
+      "administering_agency": "County of Santa Clara Office of Supportive Housing (OSH) with the Santa Clara County Housing Authority",
+      "funding_type": "land",
+      "typical_award_size": "Ground lease or sale of County sites with Measure A gap loans: East Santa Clara Street, San Jose (4.6 acres; Eden Housing senior and Core Companies family rentals plus for-sale townhomes; up to $12.5 million County funds including Local Housing Trust Fund money, May 20, 2025, plus up to $2 million for replacement parking, April 28, 2026); 330 Distel Circle, Los Altos (EAH Housing, up to $14.6 million, under construction); 10333 North Wolfe Road, Cupertino (Eden Housing, about 250 units with educator priority, in entitlement); 8th and Alexander, Gilroy and 10 Kirk Avenue, unincorporated (SCCHA community engagement for preliminary design); four VTA transit-oriented development sites under a County-VTA MOU including Branham Station homeownership ($10.8 million reserved). $57 million of remaining Measure A is prioritized for three County-owned mixed-income sites.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Mixed-income and affordable per Board approval for each site; Surplus Land Act exempt surplus findings adopted for County conveyances.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open solicitation. Developer partners were selected site by site; a WPUSA pilot site and Branham Station are expected to come to the Board in late 2026. Quarterly status reports go to the HLUET Committee.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. County land is where the last Measure A dollars and the mixed-income goal (300 units) will be spent, so these are the only County-sponsored new starts likely in 2027-2028 beyond the approved pipeline. The County pairs land with Measure A, LHTF and SCCHA PBVs and expects developers to secure 4% credits and bonds. Public land leases alone do not trigger prevailing wage but County loans do.",
+      "source_url": "https://sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=129854",
+      "record_id": "2fe81f006d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental on County land",
+        "mixed-income rental",
+        "educator and workforce housing",
+        "affordable homeownership (townhomes)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Jose",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Multifamily Housing Incentive Program (MHIP), construction tax reductions and inclusionary in-lieu fee waiver (Municipal Code Sections 4.46.039.13 and 4.47.098)",
+      "administering_agency": "City of San Jose Housing Department with Planning, Building and Code Enforcement, Public Works and Finance",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Phase I (projects that apply by February 28, 2027 and pull building permits by that date, capacity expanded from 1,800 to 3,600 units on January 27, 2026): 50 percent reduction of the Building and Structure Construction Tax (1.54 percent to 0.77 percent of valuation), 50 percent reduction of the Commercial, Residential and Mobile Home Park Construction Tax (2.42 percent to 1.21 percent), reduced inclusionary requirement of 5 percent of units at 100 percent AMI (or up to 110 percent AMI) and a $0 inclusionary in-lieu fee. Phase II (after capacity or March 2027): 25 percent Building and Structure tax reduction (to 1.16 percent) plus the inclusionary benefits. Approved waivers range from $4.07 million (498 West San Carlos, 278 units) to $6.93 million (3896 Stevens Creek Phase 1, 311 units, September 2026). Five projects with 1,444 units started construction under the program by January 2026.",
+      "per_unit_cap": "Roughly $14,000 to $22,000 per unit in waived taxes and fees in approved projects.",
+      "affordability_requirement": "Market-rate high-density projects (50 or more units per acre in growth areas) providing at least 5 percent of units affordable at up to 100 or 110 percent AMI; recorded affordability restriction required. Financial infeasibility finding under Municipal Code Section 14.10.310 and the 2025 Cost of Residential Development Study.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Phase I application deadline February 28, 2027; building permit must be obtained by February 28, 2027 for the 50 percent reductions. Each waiver requires a Council public hearing under Government Code 53083.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Not a subsidy for 100 percent affordable projects, which generally are exempt from these construction taxes anyway, but it is the City's main production incentive for mixed-income market-rate towers and wraps and it shapes the inclusionary pipeline (lower on-site percentages, zero in-lieu fee revenue). Alternative Financing Model 3 (August 2026) pairs MHIP incentives with master-lease financing so that a public or nonprofit master lessee can take down units at 80 to 110 percent AMI. Developers combining MHIP with state density bonus should confirm the 5 percent at 100 percent AMI units count toward density bonus moderate income thresholds. sanjoseca.gov blocked; staff memo read from Legistar.",
+      "source_url": "https://legistar.granicus.com/sanjose/attachments/5ffd1eac-a24d-4ca7-a78c-024f6bfe0174.pdf",
+      "record_id": "0a02ec2bd7",
+      "cycle_notes": "first come first served with tiered readiness prioritization",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income rental",
+        "high-density market rate with on-site workforce units"
+      ],
+      "next_deadline_date": "2027-02-28",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Jose",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Multifamily Housing Revenue Bonds, City Council Policy 1-16 (City as conduit issuer)",
+      "administering_agency": "City of San Jose Housing Department and Finance Department",
+      "funding_type": "bond",
+      "typical_award_size": "City-issued tax-exempt multifamily housing revenue bonds and notes for 4 percent LIHTC projects, for example Berryessa TOD (March 2026), 525 North Capitol (June 2025) and La Moraga refunding (July 2025). Policy 1-16 was amended April 28, 2026 to streamline readiness requirements, financing team selection, private placements and alternative structures, and to prioritize developments leveraging substantial non-City subsidy, preservation of at-risk units and permanent supportive housing. City fees and procedures are moving to an administrative procedures document.",
+      "per_unit_cap": "Limited by CDLAC allocation and project debt capacity, not by City policy.",
+      "affordability_requirement": "Federal 20 percent at 50 percent AMI or 40 percent at 60 percent AMI minimum under Section 142(d), plus City regulatory agreement; City prioritizes deeper affordability and PSH.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applications track CDLAC allocation rounds (typically three per year); submit the City inducement request at least one Council cycle before the CDLAC deadline. Check the revised administrative procedures with the Housing Department.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "San Jose is one of the few cities in the county that issues its own bonds rather than relying solely on CMFA or CSCDA, which avoids JPA issuer fees but adds City fees and Council timing. Alternative Financing Model 2 (August 2026) contemplates private activity bonds with master-lease financing for projects without 4 percent credits. County TEFRA approvals cover unincorporated projects only. sanjoseca.gov blocked; memo read from Legistar.",
+      "source_url": "https://legistar.granicus.com/sanjose/attachments/63e7f948-71d5-4ead-bf28-3490e72497cd.pdf",
+      "record_id": "731987876d",
+      "cycle_notes": "tied to CDLAC rounds",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mountain View",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Mountain View Affordable Housing Initiative Fund (partnership with Los Altos Mountain View Community Foundation)",
+      "administering_agency": "City of Mountain View Housing Department and Los Altos Mountain View Community Foundation (fiscal sponsor)",
+      "funding_type": "grant",
+      "typical_award_size": "Seeded January 27, 2026 with a $1,000,000 City grant from the BMR Housing Fund; goal of at least a 1 to 1 philanthropic match. Eligible uses: new construction in the City pipeline (priority), acquisition, preservation or rehabilitation of existing housing, homebuyer programs, other projects approved by the City. 3 percent LAMVCF administrative fee on the City contribution; City approves all expenditures and may claw back its grant if donations lag.",
+      "per_unit_cap": null,
+      "affordability_requirement": "City-identified affordable housing priorities; projects must meet the City's affordability restrictions when funds are used for development.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "New fund; donor engagement beginning 2026. No application process published yet; contact the Housing Department (Wayne Chen, Housing Director).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Small today but the only city-sponsored philanthropic housing fund in the county. Most useful as predevelopment or gap top-up for projects already in the City NOFA pipeline. Treat as unclear for prevailing wage because donated funds passed through a nonprofit may not be public funds, while the City seed grant is. mountainview.gov blocked; Council report read from Legistar.",
+      "source_url": "https://legistar1.granicus.com/mountainview/attachments/7ff2b4f6-ea52-4df2-bef0-7bbb238f5f45.pdf",
+      "record_id": "9aeeec8644",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "homebuyer assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Mountain View",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Conduit tax-exempt multifamily bonds (CMFA TEFRA approvals) and City-owned or dedicated land for affordable housing",
+      "administering_agency": "City of Mountain View Housing Department; California Municipal Finance Authority as issuer",
+      "funding_type": "bond",
+      "typical_award_size": "City is a CMFA member and holds TEFRA hearings for 100 percent affordable projects: 334 San Antonio Road (Castellan, 100 units, up to $50 million authorization, about $18.75 million expected, September 2026), 96 West El Camino Real and 87 East Evelyn Avenue (May 2026), 1020 Terra Bella (January 2026), 424 Bryant Street Lot 12 (August 2025). Land: City-owned Lot 12 (ground lease to Alta/Related), VTA site at 87 East Evelyn (City ground lease since 2021, Affirmed Housing, AHSC Round 9 award of $5.5 million for City streets and bus shelters in 2026), and precise plan land dedication sites (North Bayshore six sites, Middlefield Park two sites) delivered by master developers.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Bond projects meet federal 20/50 or 40/60 tests plus City regulatory agreements; City-site projects negotiated through development agreements, typically 30 to 60 percent AMI with PSH components.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "TEFRA hearings scheduled on request ahead of CDLAC rounds; land dedication sites become available as North Bayshore and Middlefield Park phases proceed (three North Bayshore sites expected during the Housing Element period). Developer selection for City sites is by RFQ/RFP.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Mountain View does not issue its own bonds; CMFA is the default issuer (CSCDA also acceptable). Dedicated land from the precise plans is the City's largest non-cash subsidy and is paired with City NOFA loans, County Measure A and SCCHA vouchers. mountainview.gov blocked; Council report read from Legistar.",
+      "source_url": "https://legistar1.granicus.com/mountainview/attachments/839f850a-95b8-4f6c-88f0-a35feecef7c7.pdf",
+      "record_id": "808965b8e8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Clara",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Conduit tax-exempt multifamily bonds, CMFA TEFRA approvals (Clara Gardens, 3550 El Camino Real)",
+      "administering_agency": "City of Santa Clara City Council as applicable elected representative; California Municipal Finance Authority as issuer",
+      "funding_type": "bond",
+      "typical_award_size": "TEFRA approvals for CMFA issuance: Clara Gardens (Resources for Community Development, 120 units, up to $50 million, Resolution 26-9556, May 2026) and a 59-unit project (February 2025). The City is a CMFA JPA member since 2004 and does not issue its own housing bonds.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Federal 20/50 or 40/60 minimums plus TCAC regulatory agreements; recent projects are 100 percent affordable.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "TEFRA hearings scheduled on request ahead of CDLAC rounds; allow one Council cycle.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Standard conduit path; CSCDA also available. Pair with Affordable Housing Fee fund loans, County SHDF or Measure A and SCCHA vouchers. santaclaraca.gov blocked; resolution read from Legistar.",
+      "source_url": "https://santaclara.legistar1.com/santaclara/attachments/a8821545-9d24-4ca2-8b20-47108956b3ca.pdf",
+      "record_id": "0e28d05ed2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Supportive Housing Fund (Housing Trust Silicon Valley with the County of Santa Clara, Measure A)",
+      "administering_agency": "Housing Trust Silicon Valley (CDFI; California Finance Lender License 6053356), 75 E. Santa Clara Street Suite 1350, San Jose; lending team Nick Friend (408-703-3837 ext. 223, nick@housingtrustsv.org) and Stephaney Kipple (ext. 244); funded by County of Santa Clara ($16.9 million) with $5 million Housing Trust match",
+      "funding_type": "loan",
+      "typical_award_size": "Maximum $8,000,000 secured by real estate or $800,000 on corporate guaranty; projects with 50% or more eligible units up to 100% of the maximum, otherwise 50%; term up to 3 years; interest 0% to 2% with interest holdback; acquisition up to 100% LTV, construction or rehab 85% LTV. $43 million allocated to date supporting 1,595 permanent supportive housing units started or preserved.",
+      "per_unit_cap": "$8,000,000 per project secured; $800,000 unsecured on corporate guaranty",
+      "affordability_requirement": "Permanent housing with supportive services for extremely low income individuals and families and those with special needs; projects must conform to the County's Measure A NOFA.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; contact the Housing Trust lending team.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Revolving fund created by County MOU June 9, 2015 and amended April 11, 2017 to implement the 2016 Measure A bond pipeline. Repayment is due at the close of County or other public land financing, construction closing or permanent closing. Program guidelines on the site date from 2017; confirm current terms. County capital in the fund may count as public funds for Labor Code 1720 purposes, so prevailing wage is marked unclear. Pair with the County Office of Supportive Housing Measure A and Affordable Housing Fund records and with Destination: Home's Supportive Housing and Innovation Fund.",
+      "source_url": "https://housingtrustsv.org/programs/developer-funding/supportive-housing-fund/",
+      "record_id": "1ac0881658",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment",
+        "acquisition",
+        "supportive housing",
+        "construction (case by case)",
+        "bridge (case by case)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

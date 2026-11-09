@@ -1,0 +1,164 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "SHRA Multifamily Lending Program (County gap financing)",
+      "administering_agency": "Sacramento Housing and Redevelopment Agency (SHRA) on behalf of the County of Sacramento and the Housing Authority of the County of Sacramento",
+      "funding_type": "loan",
+      "typical_award_size": "Gap loans sized to the financing gap after all other sources; no stated per-project cap. County funds posted June 1, 2026: HOME $2,500,000, Housing Trust Fund $900,000, Affordable Housing Ordinance fund $6,000,000, PLHA $0 (total about $9.4M). Recent County commitments: San Juan Phase II $11.7M (HOME $7.0M plus PLHA $4.7M, 70 units), Shiloh Arms $2.12M HOME, South Sacramento Homekey $1.9M. Projects must have 12 or more units.",
+      "per_unit_cap": "None published; HOME-assisted units capped by 24 CFR 92.250 maximum per-unit subsidy. SHRA charges $100 per SHRA-funded unit per year.",
+      "affordability_requirement": "55-year regulatory agreement. Minimum per source: HOME 20% of HOME units at 50% AMI and the rest at or below 60% AMI; AHO fund 20% at 50% AMI and 80% at 60% AMI; Housing Trust Fund 50% to 80% AMI workforce households. Priorities: preservation at risk, then new construction (PSH and homeless, veterans, workforce 30% to 60% AMI, other), then rehab. Deeper affordability preferred.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Two rounds a year aligned to CTCAC 9% rounds; 2026 pre-application deadlines were Jan 2 and July 1, 2026 with full applications March 2 and Sept 1 (Board/Council approvals June 16, 2026 and Jan 19, 2027). SHRA was not accepting pre-applications as of 2026-11-06; the 2027 schedule and funds-available notice are expected on the SHRA multifamily page about 30 days before the next pre-application deadline (likely early January 2027). Pre-applications go through Builder's Patch.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "This is the primary local soft source for 9% and 4% deals in the unincorporated county (City of Sacramento projects use the parallel City pool, Pass 3). Terms: up to 4% simple interest, term up to 40 years from conversion or 55 years when senior public lenders require, 1.10x to 1.20x combined DSCR, 90% combined LTV, payments deferred during construction and deferred developer fee then amortized, residual receipts only when state or federal lenders require it. Nonprofit managing general partner required; applicants need prior affordable housing ownership experience. $12,500 good-faith deposit at full application; annual administration fee 12.5 bps of loan (max $15,000) or 5 bps of bonds (min $15,000). SHRA issues the CTCAC local needs letter and conduit bonds (see separate bond record). Applicants request gap funds without specifying a source; SHRA picks the source, so Davis-Bacon exposure depends on whether HOME (12+ units) or CDBG (8+ units) is assigned, and state prevailing wage applies unless the below-market-loan exemption (40% of units at 80% AMI for 20 years) fits. Pre-applications are timed so SHRA commitments are in hand before CTCAC and CDLAC deadlines, satisfying CDLAC readiness and the CTCAC tiebreaker. SB 802 (Chapter 417, Statutes of 2026) requires the County and cities to form the Sacramento Area Housing and Homelessness Agency, a regional JPA that absorbs SHRA, by January 1, 2028; expect program administration, fee funds and NOFA calendars to migrate to that agency during 2027-2028.",
+      "source_url": "https://www.shra.org/multi-family-housing-financing-lending-resources/",
+      "record_id": "0499866461",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Sacramento County Affordable Housing Ordinance Fund (AHO affordability fee)",
+      "administering_agency": "County of Sacramento (Planning and Environmental Review collects fee); SHRA administers the fund and lends it through the Multifamily Lending Program",
+      "funding_type": "loan",
+      "typical_award_size": "$6,000,000 available for new County projects as of June 1, 2026. 2024 fee revenue $5,128,243; year-end 2024 balance $11.1M ($6.3M uncommitted). 2014 to 2024 cumulative $32.8M, funding eight projects (650 units); AHO money averaged about 9% of total development cost and reached 61% of new affordable units built in the unincorporated area. Typical commitments $400,000 to $6.4M per project (Cornerstone South $6.43M for 29 AHO units; San Juan $5.2M for 21 units; Beech Hill $2.47M for 11 units).",
+      "per_unit_cap": "None published; recent awards ranged roughly $200,000 to $250,000 per AHO-restricted unit.",
+      "affordability_requirement": "Fund-assisted units: 20% at 50% AMI and 80% at 60% AMI, workforce (labor force) households, 55 years. At least 10% of fees must buy down units to extremely low income (30% AMI); at least 50% of fees must produce housing within large (750+ unit) development projects, which steers money to the Vineyard, North Vineyard Station, Florin Vineyard and similar growth areas.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Awarded only through SHRA's twice-yearly multifamily pre-application rounds (next expected January 2027). Fee side: $3.91 per habitable square foot of market-rate unit as of March 27, 2026, adjusted each spring by the ENR building cost index.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Unincorporated-county-only money (fee is charged only on unincorporated residential permits). Normally paired with 4% credits plus bonds or 9% credits, SHRA HOME, PLHA and the County Housing Trust Fund in one SHRA award. Developer side of the ordinance: market-rate projects may instead dedicate land, build units, enter a development agreement with an Affordable Housing Strategy, or buy banked unit credits from SHRA; multifamily projects with at least 20% affordable units at 17 or more units per acre are exempt from the fee, which is itself a meaningful incentive for mixed-income rental. AHO is a local below-market loan, so the Labor Code 1720(c)(6)(E) exemption may apply if no HOME or CDBG is in the stack; confirm with counsel. The County is mid-way through an AHO amendment study (Housing Element Program E3): KMA found 2% to 14% affordable production versus the 10% target; Board workshop Oct 6, 2026, nexus study through spring 2027, ordinance hearings expected winter 2027, possibly adding an inclusionary option and resource-area targeting. SB 802 (Chapter 417, Statutes of 2026) requires the County and cities to form the Sacramento Area Housing and Homelessness Agency, a regional JPA that absorbs SHRA, by January 1, 2028; expect program administration, fee funds and NOFA calendars to migrate to that agency during 2027-2028.",
+      "source_url": "https://planning.saccounty.gov/us/en/planning-environmental-review/projects/long-range/aho.html",
+      "record_id": "48d2564073",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-03-27",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Sacramento County Behavioral Health (MHSA/BHSA) housing capital for permanent supportive housing",
+      "administering_agency": "Sacramento County Department of Health Services, Behavioral Health Services, with SHRA screening projects through its multifamily rounds",
+      "funding_type": "loan",
+      "typical_award_size": "Not published. SHRA's June 2025 funds notice stated projects may also be considered for County Behavioral Health MHSA housing program financing for PSH units serving homeless adults with serious mental illness; the 2022-23 MHSA plan dedicated $11M of Community Services and Supports funds to the MHSA Housing Program (secondary source). Recent example: $2.5M MHSA to Auburn Oaks PSH (Hope Cooperative, with SHRA). Beginning July 1, 2026 the Behavioral Health Services Act requires 30% of county BHSA funds for housing interventions, half of that for chronically homeless people, with up to 25% of housing dollars allowed for capital development.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PSH units restricted to persons with serious mental illness or substance use disorder who are homeless or at risk, referred through County Behavioral Health; typically 30% AMI or below with rental or operating subsidy.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No stand-alone capital NOFA found as of 2026-11-06; requests ride on SHRA multifamily pre-applications (next expected January 2027). County BHSA Integrated Plan covers July 2026 to June 2029 and is the document to watch for a housing capital line; the County is also procuring a Flexible Housing Pool administrator for BHSA rental subsidies.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Successor to the CalHFA Special Needs Housing Program and county NPLH allocations (NPLH is closed; Sacramento County ran its last Request to Partner in 2020). BHSA capital and operating subsidies can underwrite PSH units in 4% and 9% deals and satisfy CTCAC's nonprofit set-aside homeless priority (MHSA listed as qualifying capital) and the CDLAC Homeless set-aside. Pair with Homekey+ (county received one award in 2025) and HHAP. County funds are public funds for prevailing wage. Amounts and application process should be confirmed with Behavioral Health Services and SHRA before underwriting.",
+      "source_url": "https://dhs.saccounty.gov/us/en/behavioral-health/about/bhsa.html",
+      "record_id": "8af4e4c4e4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Reduced Residential Development Impact Fees for Affordable Dwelling Units (Zero-Dollar Rate Program)",
+      "administering_agency": "City of Sacramento Community Development Department, Planning Division (Form CDD-0410); affordability confirmed by SHRA or CADA",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Reduction of City-controlled development impact fees to a $0 rate for deed-restricted affordable units, capped at $10,000 per qualifying unit, funded by a $3 million annual General Fund/Measure U appropriation (reauthorized July 2025). Eligible fees: park development impact fee (Ch. 18.56 Art. II), sewer, combined sewer, water system and storm drainage development fees (Ch. 13), and the 65th Street, Central City, Jacinto Creek, North Natomas, Railyards, River District and Willowcreek area fees. School fees and SAFCA fees are not City-controlled and still apply.",
+      "per_unit_cap": "$10,000 per qualifying affordable dwelling unit; mixed-income projects receive a proportional reduction.",
+      "affordability_requirement": "Rental: occupied by low or moderate income households (80% or 120% AMI per H&S 50093) at affordable rent (H&S 50053), restricted at least 30 years by a recorded regulatory agreement with the City, SHRA or another public agency. For-sale: low income (80% AMI) at an affordable price, 30 years.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "First come, first served against each fiscal year's $3M; LIHTC and Homekey projects may reserve funds when awarded. Apply with Form CDD-0410 before permit issuance; contact planning@cityofsacramento.org early. Program resolutions 2018-0428, 2019-0185 and 2024-0233 (June 25, 2024).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Worth roughly $5,000 to $10,000 per unit depending on area fees; stackable with the SacSewer impact fee waiver (County record) which covers the regional sanitation fee the City program does not touch, and with the Housing Impact Fee $0 rate. Because Labor Code 1720(b)(4) treats waived fees as public funds, a fee reduction can by itself trigger state prevailing wage for a project that is otherwise exempt; most LIHTC projects already pay prevailing wage. The 2018 version waived fees without a cap; the 2024 modification added the $10,000 cap and the $3M budget, so large projects should not assume full waivers. Deferral of remaining impact fees to final inspection is available separately (CDD-0330).",
+      "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/reduction-of-development-impact-fees-for-new-adus",
+      "record_id": "b2505bd5f8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "adu"
+      ],
+      "next_deadline_date": "2024-06-25",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

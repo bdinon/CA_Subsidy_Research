@@ -1,0 +1,206 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "CDBG, HOME and ESG, Riverside Urban County (annual NOFA and rolling HOME applications)",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (HWS), Community and Housing Development Division",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27 One Year Action Plan (adopted July 14, 2026): CDBG $7,764,567 (including $537,816 for Murrieta as a metro city), HOME $2,452,217.03 ($2,102,217.03 allocation plus $350,000 program income; $1,576,663.03 for new construction and substantial rehabilitation, $315,333 CHDO set-aside, $210,221 administration, remainder first-time homebuyer) and ESG $623,369. Recent HOME development loans: 6th Street Seniors Apartments, Coachella (Chelsea Investment) up to $1,575,000 (March 24, 2026); Placita Dolores Huerta, Coachella, increased $300,000 (December 2024).",
+      "per_unit_cap": "No County cap published; HOME per-unit subsidy limits apply.",
+      "affordability_requirement": "HUD CDBG national objective and HOME rent and income limits with 55-year County covenants on rental projects; ESG for shelters and rapid rehousing.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026-27 cycle: NOFA published September 2025, CDBG and ESG applications September 25 to December 18, 2025 (extended to January 9, 2026), Board hearing April 28, 2026, adoption July 14, 2026. HOME applications are accepted on a rolling basis until funds are committed (RivcoCDBG@rivco.org, (951) 955-5936). The 2027-28 NOFA is expected in late September 2026 with a mid-December deadline.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. The Urban County covers the unincorporated area and cooperating cities (cooperation agreements for FY 2027-29 approved July 28, 2026); Riverside, Moreno Valley, Corona, Temecula, Palm Springs, Indio and other large cities are separate entitlements (Pass 3). HOME money is small relative to the county's size (about $1.6 million a year for development) and is used as a $1 million to $1.6 million soft loan alongside HACR PBVs and tax credits; CDBG is district-allocated and rarely funds multifamily. Davis-Bacon applies to HOME projects of 12 or more units. Source is the Board file for the 2026-27 One Year Action Plan (attachment 2026-2027 One Year Action Plan, FileOpen ID 88444).",
+      "source_url": "https://riversidecountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=30413",
+      "record_id": "752688f8c0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental new construction (HOME)",
+        "substantial rehabilitation (HOME)",
+        "CHDO projects",
+        "public facilities and services (CDBG)",
+        "shelter and rapid rehousing (ESG)",
+        "first-time homebuyer"
+      ],
+      "next_deadline_date": "2026-07-14",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "HHAP Rounds 5 and 6, County of Riverside and Riverside City and County CoC (CA-608)",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (HWS), Office of Homeless Services, as CoC lead and administrative entity",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 allocations accepted September 15, 2026 (period ending June 30, 2030): County of Riverside $4,848,492.04 and Riverside City and County CoC $5,178,272.86; the City of Riverside receives its own $10,354,725.71. HHAP-5: CoC $5,356,513.81 (accepted July 29, 2025, through June 30, 2029) plus the County allocation, passed through in part to HACR for operating subsidies ($893,121.16), rapid rehousing ($2,479,211.10) and prevention through June 30, 2028; HHAP rounds 1 to 3 totaled $9,630,587 for the CoC and County and were redistributed in December 2024.",
+      "per_unit_cap": "Not applicable; operating subsidies for PSH are contracted through HACR.",
+      "affordability_requirement": "Housing First and HHAP eligible uses; regional action plan priorities set by the CoC.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 subrecipient agreements use the County template approved September 15, 2026; no new local round was open as of November 7, 2026. HUD CoC subrecipient agreements for 2025 awards were approved June 23, 2026.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. HHAP in Riverside County is an operating and services source: the County routes it through HACR as operating subsidies on PBV projects rather than funding capital, so developers should ask HACR for an HHAP operating subsidy commitment alongside PBVs. The CoC also distributes HUD CoC Program funds (2025 ESG awards of $738,124 accepted October 6, 2026) and the County runs Encampment Resolution Funding through RUHS Behavioral Health. Source is the September 15, 2026 Board file accepting the County HHAP-6 allocation (standard agreement 25-HHAP-10051).",
+      "source_url": "https://riversidecountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=31013",
+      "record_id": "64d5246fb2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "operating subsidies for permanent supportive housing",
+        "rapid rehousing",
+        "prevention and diversion",
+        "interim housing operations",
+        "street outreach"
+      ],
+      "next_deadline_date": "2026-11-07",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers, Housing Authority of the County of Riverside (HACR)",
+      "administering_agency": "Housing Authority of the County of Riverside (Board of Supervisors sitting as Commissioners), 5555 Arlington Avenue, Riverside",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HACR administers 10,187 Housing Choice Vouchers. The FY 2026-27 Streamlined Annual PHA Plan (adopted March 24, 2026) programs about 684 PBVs across 24 new developments, including Desert Marigold, Cathedral City (96 of 97 units), Villa Verde, Coachella (87 of 152), Summit View, Beaumont (47 of 48), Palm Villas Phases I and II, Palm Desert (45 each of 88), Camino Terrace, Jurupa Valley (42 of 80), Bell Ranch, Wildomar (32 of 129), Murrieta Phase II and Oakview II (32 each of 81), Viscar Terrace, Murrieta (31 of 151), JFM Villas I and II, Indio (25 each), Cambern, Lake Elsinore (19 of 76), Mary McDonald Riley Street, Lake Elsinore (15 of 16), Sparrow at Mulberry Gardens, Riverside (14 of 59), 5th Street, Corona (11 of 11), Sunrise at Bogart (11 of 23), Thomas Village, Palm Desert (8 of 40) and Murrieta Phase I (8 of 119). PBVs are awarded through competitive RFPs (most recent reported round July 27 to August 22, 2025) and AHAP and HAP contract forms are approved by the Board (2026 approvals for 5th Street, Linwood Rose, Villa Verde I and II, 6th Street Seniors, Palm Desert Housing, Jefferson Family and Palm Villas).",
+      "per_unit_cap": "Payment standards set by HACR; PBV rents capped at reasonable rent or 110% of FMR.",
+      "affordability_requirement": "HUD PBV rules (not an MTW agency): 20% program cap plus exceptions, 75% of admissions at or below 30% AMI, 20-year HAP contracts with HACR, CoC coordinated entry referrals for PSH set-asides.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No PBV RFP was open as of November 7, 2026; HACR has issued a competitive PBV RFP roughly annually (last confirmed round closed August 22, 2025). Monitor harivco.org procurement.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. PBVs are the County's primary contribution to 4% and 9% deals and nearly every County loan, PLHA commitment, Homekey+ sponsorship and HHAP operating subsidy attaches to a PBV project; developers should treat the annual HACR PBV RFP as the entry point to the County system. Davis-Bacon applies to PBV new construction and rehabilitation of nine or more units. Source is the HUD-50075 Streamlined Annual Plan attached to the March 24, 2026 Board file (Detail_LegiFile.aspx?ID=29959); voucher count from the FY 2025-26 SEMAP CEQA notice (ceqanet 2026071100).",
+      "source_url": "https://riversidecountyca.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=86677&Inline=True",
+      "record_id": "23d2f2c56a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "substantial rehabilitation",
+        "existing housing",
+        "permanent supportive housing",
+        "senior housing"
+      ],
+      "next_deadline_date": "2026-11-07",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Riverside County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "County-owned land for affordable housing (Park Lane Homes, Desert Hot Springs, and surplus land process)",
+      "administering_agency": "Riverside County Housing and Workforce Solutions (HWS) and Facilities Management Real Estate",
+      "funding_type": "land",
+      "typical_award_size": "Park Lane Homes: about 9.7 acres of County land in Desert Hot Springs (APN 656-040-061) under an exclusive negotiation agreement with Abode Communities since February 27, 2024 (extended January 31, 2026); on May 12, 2026 the Board declared the site exempt surplus land (Resolution 2026-073) and approved a Disposition and Development Agreement for an affordable rental project. The Housing Element commits the County to work with nonprofits on County-owned sites and Facilities Management runs the surplus land process (Flood Control, Parks and Waste Resources declared several exempt surplus parcels in 2026).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Surplus Land Act affordability (at least 25% lower income or 100% affordable) plus County covenant terms negotiated in the DDA.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open notice of availability for a County housing site as of November 7, 2026; watch Board agendas for exempt surplus land resolutions and HWS exclusive negotiation agreements.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Riverside County's Housing and Workforce Solutions (HWS) department runs the Urban County HUD programs, PLHA, HHAP, Homekey+ sponsorships and project loans, while the Housing Authority of the County of Riverside (HACR, same Board sitting as Commissioners) supplies project-based vouchers, housing successor funds and land; rivcohws.org and harivco.org block automated access, so records were built from Board of Supervisors files on riversidecountyca.iqm2.com and media.rivcocob.org, RUHS Behavioral Health, the Assessor and the County Housing Element. County land contributions are rare and concentrated in the Coachella Valley and Desert Hot Springs; the Park Lane Homes deal shows the sequence (ENA, DDA, exempt surplus declaration, then Homekey+ or tax credit application). Source is the May 12, 2026 Board file for Resolution 2026-073 and the Park Lane Homes DDA.",
+      "source_url": "https://riversidecountyca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=30256",
+      "record_id": "9cb00bd542",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction on County land",
+        "ground lease or discounted sale"
+      ],
+      "next_deadline_date": "2026-11-07",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Moreno Valley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Riverside",
+      "confidence": "verified",
+      "program_name": "Moreno Valley HOME Investment Partnerships Program and CDBG annual application round",
+      "administering_agency": "City of Moreno Valley Financial and Management Services, Grants Division",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2026-27: HOME $623,617 (CHDO set-aside $93,542; $467,714 for other activities; 10% admin), CDBG about $1.9M, ESG about $172,000. The adopted Action Plan (July 2026) also carries $2,265,372 in unencumbered HOME funds with activity TBD, available for a rental project.",
+      "per_unit_cap": "HOME per-unit subsidy limits.",
+      "affordability_requirement": "HOME rent and income limits (at or below 80% AMI; 20-year minimum affordability for new construction).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2026-27 HOME applications were due January 30, 2026 (PlanetBids, opened December 12, 2025). Expect the FY 2027-28 round to open about December 2026 with a late January 2027 deadline; ask the Grants Division about the $2.27M unencumbered HOME balance now.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "HUD classifies Moreno Valley as fiscally distressed, giving a 50% HOME match reduction. Moreno Valley is its own entitlement city, outside the County Urban County pool. The Action Plan also lists PLHA, Prohousing Incentive Pilot and former RDA housing funds as leverage. Davis-Bacon applies at 12 or more HOME units.",
+      "source_url": "https://id3464.securedata.net/moreno-valley/departments/financial-mgmt-svcs/pdf/CDBG/2026-2027/FY-26-27-HOME-ApplicationWorkshop.pdf",
+      "record_id": "aa9f59c178",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-01-30",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

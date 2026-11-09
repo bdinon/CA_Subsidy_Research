@@ -1,0 +1,112 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Napa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa Permanent Local Housing Allocation (PLHA) formula share and Junior Unit Initiative Program (ADU and JADU forgivable loans)",
+      "administering_agency": "City of Napa Housing Division (also delegated administrator of PLHA for American Canyon, Calistoga, St. Helena and Yountville)",
+      "funding_type": "loan",
+      "typical_award_size": "Napa's PLHA formula allocation is programmed 80% to Junior and Accessory Dwelling Unit creation, 15% to homeless services and 5% to administration. The Junior Unit Initiative provides forgivable financing up to $50,000 to create a JADU or conversion ADU, an additional $25,000 interest free deferred loan for conversion ADUs, up to $5,000 for ADA improvements, and design and engineering grants. Owner must occupy one unit and rent the other to a low income tenant under a recorded regulatory agreement.",
+      "per_unit_cap": "$50,000 forgivable plus $25,000 deferred per ADU, plus $5,000 ADA grant.",
+      "affordability_requirement": "Rental unit affordable to a household at or below 80% AMI; owner occupancy of the other unit; regulatory agreement term per program guidelines (10 years in the delegated city plans).",
+      "eligible_project_types": [
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling while PLHA and program funds last; 2026 program flyer posted. Not a multifamily source.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Recorded because PLHA is the only state formula money the City controls directly and because the City runs the same ADU program for the other four Napa jurisdictions under delegation agreements (November 15, 2022 Council action), which is why no city in the county has a PLHA multifamily set aside. For multifamily deals this is a negative finding: PLHA in Napa County goes to ADUs and rehab, not construction gaps. See the Pass 2 County PLHA record and the County Affordable ADU Forgivable Loan record for the parallel county program. Sources opened: PLHA page (source_url) and the Junior Unit Initiative page.",
+      "source_url": "https://www.cityofnapa.org/1197/Permanent-Local-Housing-Allocation",
+      "record_id": "b1f2219e82",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of American Canyon",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "American Canyon Permanent Local Housing Allocation share (administered by the City of Napa) for ADU and JADU forgivable loans",
+      "administering_agency": "City of Napa Housing Division as delegated administrator for the City of American Canyon",
+      "funding_type": "loan",
+      "typical_award_size": "95% of American Canyon's 2019-2023 PLHA formula allocation funds a Junior ADU and ADU loan program modeled on Napa's Junior Unit Initiative (forgivable loans and technical assistance to homeowners), 5% administration. Projected 4 households a year, 20 over five years. Allocation size is a small non-entitlement formula share (low six figures over five years).",
+      "per_unit_cap": "Modeled on Napa's $50,000 forgivable plus $25,000 deferred per unit.",
+      "affordability_requirement": "ADU or primary unit rented to a household at or below 80% AMI under a recorded regulatory agreement.",
+      "eligible_project_types": [
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling through the City of Napa Housing Division while funds last; the 2022 five year plan covers the 2019-2023 allocations and the 2024-2028 PLHA cycle requires a new plan.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding for multifamily: American Canyon's only state formula housing money is committed to ADUs and no multifamily set aside exists. The 2025 APR shows 17 affordable ADU permits since 2023 against a 16 unit goal, so the program is working as intended. Source is the City of Napa posted PLHA plan for American Canyon (source_url); americancanyon.gov pages return 403 to scripts and the Housing Resources page could not be opened, so confirm current status with the City of Napa Housing Division (707-257-9543).",
+      "source_url": "https://www.cityofnapa.org/DocumentCenter/View/10393/2022-PLHA-Formula-Application---American-Canyon-PDF",
+      "record_id": "47f32a2460",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of St. Helena",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "St. Helena reduced, deferred or waived fees for affordable housing (Housing Element Program H-CC) and Density Bonus Chapter 17.29",
+      "administering_agency": "City of St. Helena Community Development Department; City Council",
+      "funding_type": "fee waiver",
+      "typical_award_size": "The City reduces, defers or waives application and impact fees for affordable developments case by case; through January 1, 2022 it had reduced, deferred or waived fees for 21 affordable units (Turley Flats, Brenkle Court, 963 Pope Street), in part by lending trust fund money to cover deferred fees. The 2023-2031 Housing Element sets a goal of fee relief for 30 extremely low or very low income units and commits to adopt eligibility criteria and higher incentives for extremely low and very low income units. Chapter 17.29 implements the state density bonus (one to three concessions at 10%, 17% and 24% lower income, etc.) with the 5% local bonus add on for ownership projects under 17.30.030(G).",
+      "per_unit_cap": "Not applicable; fee relief sized per project.",
+      "affordability_requirement": "Affordable housing developments, with priority for extremely low and very low income units; deed restrictions required under the City affordable housing agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request with the entitlement application; Council approves fee relief with the funding commitment. Housing Element program timelines run through 2031.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Fee relief is routinely bundled with trust fund and Measure E commitments, so a St. Helena request should ask for all three at once. St. Helena's PLHA share (95% rehab loans up to $60,000 through the City of Napa) and its Housing Services Agreement with HACN (Section 8, regulatory monitoring, loan servicing) round out the local layer; there is no HOME or CDBG entitlement. Waived or reduced fees can count as public funds under Labor Code 1720(b)(4). Source: 2023-2031 Housing Element HCD review draft on hcd.ca.gov (source_url; the City adopted the element in 2023 and the final version was not located on the City site); the City budget and code mirror were also opened.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/saint-helena-6th-draft090722.pdf",
+      "record_id": "50066ec95b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "100% affordable projects",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

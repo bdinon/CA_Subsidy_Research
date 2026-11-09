@@ -1,0 +1,907 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Orange County Urban County entitlement",
+      "administering_agency": "OC Housing and Community Development (HCD entitlement grantee for the Urban County)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD 2024-2028 Formula Allocation NOFA: Orange County CY 2024 $892,973, CY 2025 $956,505, five-year estimate $5,581,081. The County's amended PLHA Five-Year Plan (Attachment A-C-E, December 2023 NOFA) uses only Sections 301(a)(6) and 301(a)(7): about 88% for homelessness activities (45% Buena Park and Placentia navigation centers via the North SPA collaborative, 32% regional emergency shelters such as the Yale Transitional Center for the unincorporated area and Laguna Hills, 4% Laguna Beach case management and supportive services, 7% Dana Point outreach and rapid rehousing), 7% for accessibility modifications in low-income senior owner-occupied homes in Laguna Woods (3%) and Seal Beach (4%), and 5% administration. The plan marks 301(a)(1) rental housing development and 301(a)(2) workforce housing as not selected, so no PLHA development money is offered to developers.",
+      "per_unit_cap": null,
+      "affordability_requirement": "All PLHA-assisted households at or below 60% AMI under the County plan (shelter and navigation center clients counted at 30% AMI; accessibility modification recipients at or below 60% AMI). No rental development covenants because the plan funds no development.",
+      "eligible_project_types": [
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD formula allocations arrive annually; no County PLHA NOFA to developers exists. Ask OCHCD whether the plan was amended for the state's 2024 requirement that 40% of new PLHA fund owner-occupied workforce housing, and whether the 11.45% development share is folded into the Supportive Housing NOFA.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Not a capital source in practice: under $1,000,000 a year and almost all of it pays for shelter and navigation center operations. Anaheim, Santa Ana, Irvine and other entitlement cities receive their own PLHA (Pass 3). Plan PDF and community development page opened on housing.oc.gov; amounts from the HCD 2024-2028 PLHA NOFA.",
+      "source_url": "https://housing.oc.gov/community-development",
+      "record_id": "050d1bde90",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "navigation center and emergency shelter capital and operations",
+        "homeless supportive services and rapid rehousing",
+        "accessibility modifications for low-income senior owner-occupied homes"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: HCD 2024-2028 PLHA NOFA allocation tables confirm $892,973, $956,505 and $5,581,081. The County plan amendment on housing.oc.gov shows 301(a)(1) and 301(a)(2) not selected; the earlier statement that 11.45% goes to rental housing development was wrong (that share is 301(a)(7) accessibility modifications plus administration). Prevailing wage true remains uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Housing Successor Low and Moderate Income Housing Asset Fund (Orange County Housing Authority as Housing Successor to the Orange County Development Agency)",
+      "administering_agency": "Orange County Housing Authority as Housing Successor, administered by OC Housing and Community Development",
+      "funding_type": "loan",
+      "typical_award_size": "Housing Asset Fund balance $29,240,000 at June 30, 2024 (FY 2023-24 SB 341 report). Funds are offered only through the County's Supportive Housing NOFAs: $4,000,000 added to the 2016 PSH NOFA in April 2018; 2020 NOFA awards of $2,400,000 to Clara Vista (former Tahiti Motel, Stanton, 60 PSH units, completed Dec 2023) and $453,600 each to Mountain View (Lake Forest, 71 units) and Orchard View Gardens (Buena Park, 66 units); no Housing Successor funds were in the 2023 NOFA, but they are a named source in the 2026 NOFA.",
+      "per_unit_cap": "Follows the Supportive Housing NOFA limits ($137,500 per unit in unincorporated areas and participating cities).",
+      "affordability_requirement": "Health and Safety Code 34176.1: households at or below 80% AMI, at least 30% of spending over five years for extremely low income households, 55-year covenants; excess surplus rules force spending when the unencumbered balance exceeds the greater of $1,000,000 or four years of deposits.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No separate round; request Housing Successor funds through the open 2026 Supportive Housing NOFA (first come, first served, no fixed deadline as of November 8, 2026).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "A large idle balance (about $29,000,000) that the County must spend to avoid excess surplus findings, so it is the most flexible local money in the NOFA pool: no federal strings, 30% AMI target through the NOFA. Use it for sites outside HOME geography or where Davis-Bacon is a problem. Public funds, so state prevailing wage applies. Housing successor page and FY 2023-24 report PDF opened on housing.oc.gov.",
+      "source_url": "https://housing.oc.gov/housing-development/orange-county-housing-authority-housing-successor",
+      "record_id": "242fe0cf4b",
+      "cycle_notes": "Offered only through the County Supportive Housing NOFA. The FY 2024-25 SB 341 report link on the Housing Successor page still returned 404 on 2026-11-08; the FY 2023-24 report is the latest readable report.",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Orange County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Santa Ana, Anaheim/Orange County Continuum of Care (CA-602) and HHAP",
+      "administering_agency": "County of Orange, County Executive Office, Office of Care Coordination (CoC lead agency and HHAP administrative entity); Orange County CoC Board",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP by round, County of Orange: R1 $7,486,576, R2 $3,422,435, R3 $9,582,817, R4 $7,131,233, R5 $8,346,727, R6 $8,355,062 (agreement through June 30, 2030). Orange County CoC: R1 $8,081,116, R2 $3,823,692, R3 $10,267,304, R4 $7,600,842, R5 $8,699,841, R6 $8,923,350; Anaheim, Santa Ana and Irvine each $5,947,855 in R6 for a regional R6 total of $35,100,000 awarded April 2026. State accountability site: $152,700,000 HHAP rounds 1 to 5 to the Orange County area, $36,000,000 directly to the County ($28,900,000 obligated, $15,300,000 spent by mid-2025); Encampment Resolution Funding $8,700,000 area, $3,600,000 County. HHAP-6 CoC budget: $3,976,421 permanent housing operating subsidies, $592,335 youth operating subsidies, $1,552,663 rapid rehousing, $1,222,663 interim housing operating subsidies, $330,000 youth interim, $624,635 services, $624,635 administration and HMIS. HUD CoC FY 2024 awards to CA-602 included $1,249,326 Permanent Housing Collaborative, $731,787 rapid rehousing and $528,250 Jackson Aisle TRA (partial list). 2024 PIT: 7,322 people, 4,173 unsheltered, 9,751 year-round beds. Homekey+: County RFI (due Nov 27, 2024) qualified Volunteers of America, National CORE, California Supportive Housing, American Family Housing and Weingart Center as development partners.",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness per HUD and state definitions; CoC permanent housing through Coordinated Entry; HHAP-6 obligation and expenditure deadlines (75% obligated and 50% spent by June 30, 2027). HHAP-5 regional plan governs HHAP-6 uses.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open local solicitation as of November 8, 2026. The FY 2026 HUD CoC local competition is closed (new project RFP closed July 20, 2026; the Consolidated Application went to HUD by the reopened September 30, 2026 deadline, and the CoC said it would not solicit more proposals). HHAP Round 7 funding is in regional budget planning; expect the FY 2027 CoC NOFO competition in summer 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "HHAP in Orange County pays operating subsidies for permanent and interim housing, rapid rehousing and services; it is an operating partner for PSH, not a capital lender. The region's HHAP is split five ways (County, CoC, Anaheim, Santa Ana, Irvine), so a project inside one of those cities should approach that city's share. County Homekey and Homekey+ sites (Stanton Inn, Tahiti, Casa Paloma and the RFI list) then take OCHA PBVs and MHSA/BHSA loans. Figures from the July 23, 2025 CoC Board presentation (ceo.oc.gov, opened), the Feb 11, 2026 Housing Opportunities Committee slides, HCD HHAP-6 allocations and accountability.ca.gov.",
+      "source_url": "https://ceo.oc.gov/sites/ceo/files/2025-07/Presentation_Revised%20Final%2025.07.23%20-%20CoC%20Board%20Meeting.pdf",
+      "record_id": "cfa06e02d6",
+      "cycle_notes": "HUD CoC NOFO runs each summer with a local RFP for new projects. HHAP Round 7: AB 179 signed July 13, 2026; HCD announced over $829,000,000 statewide on August 7, 2026 through the amended Round 6 NOFA with preliminary regional allocations; the CoC Board received HHAP Round 7 updates at its September and October 2026 meetings. CoC Board meets monthly (next November 18, 2026).",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Ana",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Low and Moderate Income Housing Asset Fund (Housing Authority of the City of Santa Ana as Housing Successor to the Santa Ana Community Redevelopment Agency)",
+      "administering_agency": "Housing Authority of the City of Santa Ana as Housing Successor, staffed by the Community Development Agency Housing Division",
+      "funding_type": "loan",
+      "typical_award_size": "LMIHAF ending balance $4,134,871 at June 30, 2025 (FY 2024-25 SB 341 report); $305,772 deposited and $0 spent on development that year. $2,630,914 of Housing Successor funds are in RFP 26-004A. Past commitments: $6,195,000 in 2016 for 69 units and $13,222,740 in 2017 for 118 units. The Housing Successor also ground-leases former RDA sites for 65 to 99 years: 1126 and 1146 Washington (Crossroads at Washington, 86 units, completed October 2024), 801-809 E. Santa Ana Blvd (FX Residences, 16 to 17 PSH units, completed April 2025), 826 N. Lacy (two Habitat homes, 2023). The City and Housing Successor loan portfolio totals $155,432,612 in 344 loans (325 deferred or residual receipts).",
+      "per_unit_cap": "Subject to the HUD per-unit limits adopted in the City's Affordable Housing Funds Policies for by-right requests; otherwise sized by gap analysis.",
+      "affordability_requirement": "Low and moderate income (up to 120% AMI) under Health and Safety Code 34176.1; at least 30% of expenditures over each five-year period must serve households at or below 30% AMI (extremely low income test reported for July 2020 to June 2025); senior housing limited to 50% of assisted units over 10 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Next RFP quarterly deadline January 11, 2027; land assets are offered when the Housing Authority issues site-specific RFPs.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small compared with the County's $29,000,000 LMIHAF but flexible: no federal strings, can serve moderate income and mixed-use, and the Housing Authority's land is the real asset (Crossroads and FX Residences were built on 65- and 99-year ground leases). Pair with HOME in the same RFP, SAHA PBVs, County MHSA/BHSA capital and OCHFT. Public funds trigger state prevailing wage and the City's Community Workforce Agreement. FY 2024-25 Housing Successor Annual Report PDF and the Successor Agency page opened on santa-ana.gov.",
+      "source_url": "https://storage.googleapis.com/proudcity/santaanaca/2026/02/f9299188-fy-2024-2025-housing-successor-annual-report.pdf",
+      "record_id": "fb9539f944",
+      "cycle_notes": "offered through the annual Affordable Housing Development RFP",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "affordable ownership",
+        "ground lease of city-owned sites"
+      ],
+      "next_deadline_date": "2027-01-11",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: FY 2024-25 Housing Successor report matches $305,772 deposited, $4,134,871 ending balance, $0 housing development expenditures ($300,726 monitoring and administration), the 99-year ground leases for 801-809 E. Santa Ana Blvd and 826 N. Lacy, the 65-year ground lease for Crossroads at Washington (86 units), and the 30% extremely low income test. Loans and grants receivable total $22,566,387. The 2016 and 2017 commitments and the $155,432,612 portfolio figure are not in this report and were not rechecked. Prevailing wage true is uncited (Labor Code 1720 public funds only).",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Ana",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation (HCD Prohousing Designation Program)",
+      "administering_agency": "City of Santa Ana Planning and Building Agency; designation issued by HCD",
+      "funding_type": "policy/designation",
+      "typical_award_size": "Not a direct subsidy. Santa Ana appears on HCD's list of Prohousing Designated Jurisdictions, which gives projects inside the city bonus points or priority processing in AHSC, Infill Infrastructure Grant, Transformative Climate Communities, SCCP, LPP, TIRCP and STPG, and makes the City eligible for the Prohousing Incentive Program (PIP).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Follows the state program applied for (AHSC and IIG serve lower income projects at or below 80% AMI).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Designation is good for four years from award and must be renewed; PIP rounds are announced by HCD. Confirm the designation date with the Planning Division.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The only Prohousing city among the five Orange County priority cities (Anaheim, Irvine, Huntington Beach and Garden Grove are not on the list opened 2026-11-08), so AHSC and IIG applications in Santa Ana carry the designation points. The City's own HHAP allocation, SAHA PBVs and the RFP loans make a full local stack for AHSC-sized projects. HCD designated jurisdictions page opened.",
+      "source_url": "https://www.hcd.ca.gov/planning-and-research/prohousing/designated-jurisdictions",
+      "record_id": "4ba540d9a4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "infrastructure for affordable housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Ana",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), City of Santa Ana entitlement",
+      "administering_agency": "City of Santa Ana Community Development Agency, Housing Division",
+      "funding_type": "grant",
+      "typical_award_size": "Formula PLHA entitlement, not offered to developers. Santa Ana received $14,360,783 over PLHA Rounds 1 to 4; Round 4 (FY 2023-24 NOFA, HCD Contract 20-PLHA-15193) was a $2,403,595 grant recognized by Council on November 19, 2024. Round 1 paid Santa Ana Navigation Center tenant improvements, Rounds 2 and 3 paid for purchase of that property, and Round 4 funds Navigation Center operating costs and homeless services ($2,283,415 to a subagent, $120,180 staff). The 2021-2029 Housing Element lists PLHA as a funding source for emergency shelter and permanent supportive housing programs.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per PLHA statute: rental production at or below 60% AMI, assistance to persons experiencing homelessness, affordable ownership and workforce housing.",
+      "eligible_project_types": [
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No developer round. Allocations to date are committed to the Santa Ana Navigation Center; confirm with the Housing Division whether any future PLHA year will be set aside for development.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Santa Ana is an HCD PLHA entitlement separate from the County Urban County allocation. All four rounds so far went to the Santa Ana Navigation Center (tenant improvements, property purchase, operations), so developers should not count on City PLHA as gap money unless a later five-year plan amendment shifts funds to rental production. Sources: November 19, 2024 staff report with HCD award letter (Laserfiche WebLink doc 224140) and the September 2022 Housing Element.",
+      "source_url": "https://cc-publicdocs.santa-ana.org/WebLink/1/doc/224140/Page1.aspx",
+      "record_id": "b88cc257b5",
+      "cycle_notes": "Annual HCD formula allocation to the City; City programs it internally rather than through a developer NOFA.",
+      "eligible_project_detail": [
+        "navigation center capital and operations",
+        "homeless services",
+        "PSH listed as an eligible Housing Element use but no allocation to development found"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Anaheim",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Anaheim Local Housing Trust Fund (A-LHTF), Ordinance No. 6588; Program Guidelines and Funding Allocation Plan (adopted May 29, 2025, revised June 9, 2026)",
+      "administering_agency": "City of Anaheim Housing and Community Development Department, with transfers to the Anaheim Housing Authority by cooperation agreement; 201 S. Anaheim Blvd., Suite 201",
+      "funding_type": "loan",
+      "typical_award_size": "Initial Funding Allocation Plan of $16,000,000: Build More Homes Initiative $5,000,000 (includes $1,000,000 from a federal grant restricted to housing production), First-Time Homebuyer programs $5,000,000 ($50,000 downpayment loans), Housing Stability Program $1,000,000, administration $500,000 (3.12%), reserve $4,500,000. Build More Homes funds pay for site acquisition, site preparation (environmental, demolition, relocation) and gap financing, structured as loans at 4% simple interest repaid from a residual receipts split; A-LHTF money may not exceed 50% of total City investment in a project. Eligible deposits include General Fund, federal PRO Housing grant, state Local Housing Trust Fund matching grants, REAP 2.0 (gap financing for infill with at least 65% residential floor area in mixed-use), Development Agreement community benefit payments, philanthropy and in-lieu fees paid under the City's Affordable Housing Ordinance.",
+      "per_unit_cap": "None published; sized by financial analysis and capped at 50% of City investment per project.",
+      "affordability_requirement": "Affordability follows the leveraged source (LIHTC, HOME, PLHA); where none applies the City sets project-specific requirements, generally 55-year covenants. Target beneficiaries: workforce households, households experiencing homelessness, active older adults 55 and over, special needs (transition-age youth, persons with disabilities, persons with AIDS). Shelters, transitional housing and group homes are ineligible.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeownership",
+        "predevelopment",
+        "adaptive reuse"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Each expenditure requires a separate Council action; the Funding Allocation Plan is updated in the annual budget cycle (next spring 2027). Approach Housing and Community Development with a site or gap request.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Anaheim's answer to losing $15,000,000 to $17,000,000 a year of redevelopment set-aside: the trust consolidates HOME (FY 2024 $1,314,088), PLHA (about $3,000,000 a year), REAP 2.0 and General Fund into one locally controlled pool, with City gap financing averaging about $6,000,000 per recent project (Finamore Place, Miraflores) before land. The 50% leverage rule means A-LHTF is a secondary layer behind HOME, PLHA, County MHSA/BHSA loans, OCHFT and Anaheim Housing Authority PBVs. The Guidelines are also the City's vehicle for state LHTF matching grants, so expect future rounds to be tied to HCD LHTF deadlines. Public funds trigger state prevailing wage; REAP 2.0 funds carry infill and reporting rules. Guidelines PDF opened via anaheim.gov DocumentCenter (anaheim.net links return 403).",
+      "source_url": "https://www.anaheim.gov/DocumentCenter/View/66427",
+      "record_id": "ec67d2dea0",
+      "cycle_notes": "project-by-project Council actions; annual Funding Allocation Plan in the City budget",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adaptive reuse",
+        "motel conversion",
+        "supportive housing",
+        "affordable ownership",
+        "site acquisition"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "Tier 4 spot check November 9, 2026: the Guidelines PDF (anaheim.gov and anaheim.net DocumentCenter View 66427) and the Anaheim LHTF pages return 403 (Cloudflare) to curl and WebFetch; records.anaheim.net Laserfiche only exposed Ordinance 6588 metadata. Search results show the guidelines were amended June 9, 2026 and the May 29, 2025 plan held $4,500,000 in reserve, consistent with the record, but no figure was reread from an opened page. Removed the interim housing tag because the record itself states shelters, transitional housing and group homes are ineligible (motel conversion is permanent adaptive reuse).",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Anaheim",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Low and Moderate Income Housing Asset Fund (Anaheim Housing Authority as Housing Successor to the Anaheim Redevelopment Agency)",
+      "administering_agency": "Anaheim Housing Authority as Housing Successor, administered by Housing and Community Development",
+      "funding_type": "loan",
+      "typical_award_size": "Balance not confirmed this pass: the Housing Successor page describes the LMIHAF and annual SB 341 reporting but the report PDFs (for example the FY 2020-21 report, DocumentCenter 70278) returned 403. The Authority holds former Agency housing assets, loans and land; a January 2026 Authority agenda report (per search snippet, not opened) said the Authority owned one vacant building at 883 S. Anaheim Blvd pending long-term housing plans. Before dissolution the Agency's housing set-aside was $15,000,000 to $17,000,000 a year.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Health and Safety Code 34176.1: low and moderate income households (up to 120% AMI), at least 30% of five-year expenditures for households at or below 30% AMI, senior cap of 50% over 10 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; request the latest Housing Successor Annual Report and LMIHAF balance from Housing and Community Development.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Anaheim's former Agency was one of the largest in Orange County, so LMIHAF repayments and land (Beach Boulevard, Center City) remain a meaningful site source even if cash is thin; the A-LHTF Guidelines say Trust funds may be transferred to the Housing Authority to combine with other sources for site acquisition. Treat as land and residual receipts rather than a cash NOFA. Public funds trigger state prevailing wage. Housing Successor Agency page opened on anaheim.gov; report PDFs blocked.",
+      "source_url": "https://www.anaheim.gov/2969/Housing-Successor-Agency",
+      "record_id": "2f8229257a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "ground lease of authority-owned sites"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Anaheim",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "needs_confirmation",
+      "program_name": "City-owned and Housing Authority-owned site solicitations for affordable housing (Beach Boulevard corridor and Center City developer RFPs)",
+      "administering_agency": "Anaheim Housing Authority and Housing and Community Development Department, Real Property and Housing Development staff",
+      "funding_type": "land",
+      "typical_award_size": "Land contributions under long-term ground leases plus City gap loans rather than a cash NOFA: Miraflores (85 units) on a 60-year City ground lease with a $3,000,000 HOME loan; Southeast Corner of Beach and Lincoln (46 affordable senior and transition-age youth units) on former Housing Authority land with 46 PBVs; earlier RFPs for 212 S. Beach Blvd (Silvermoon) and State College at Lincoln (about 0.51 acre) sought developers for lower income and special needs housing. The A-LHTF Build More Homes Initiative funds site acquisition for future solicitations.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Project-specific: City solicitations have required 100% affordable or supportive housing with 55-year covenants and local resident preference.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "senior housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; no open RFP was located this pass. Watch Housing Authority agendas for Beach Boulevard parcels (Anaheim Lodge demolition site, 39 Commons remainder).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The most valuable Anaheim resource is land, not cash: the Housing Authority assembled Beach Boulevard motel sites and the City leases them at nominal rent, which replaces a $5,000,000 to $10,000,000 land cost in a 4% deal. Pair with Housing Authority PBVs, HOME or PLHA loans, A-LHTF gap money and County MHSA/BHSA. The RFP pages and Authority agendas could not be opened (anaheim.gov CivicAlerts and DocumentCenter returned 403; Granicus archive lists meetings but not staff reports), so details are from the A-LHTF Guidelines, the Housing Authority page and the 2026 fact sheet.",
+      "source_url": "https://www.anaheim.net/DocumentCenter/View/66427/ADOPTED-Anaheim-Local-Housing-Trust-Fund-Program-Guidelines-and-Funding-Allocation-Plan",
+      "record_id": "9a23b51b02",
+      "cycle_notes": "site-by-site RFPs",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "senior housing",
+        "mixed-use on city land"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "Tier 1 audit 2026-11-08: anaheim.gov returns 403 but the same DocumentCenter file opens on anaheim.net; it is the June 2026 A-LHTF Guidelines, which confirm the Build More Homes Initiative funds site acquisition and gap loans (4% residual receipts, A-LHTF max 50% of City investment). A May 21, 2024 City news item confirms Housing Authority assembly of Beach Boulevard motel sites (Covered Wagon, Anaheim Lodge, Rainbow Inn) for about 120 affordable apartments. Miraflores ground lease and HOME loan, Beach and Lincoln PBVs, and any open RFP were not confirmed on a City page.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Irvine",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Affordable Housing In-Lieu Fee Fund (Irvine Zoning Ordinance Sec. 2-3-5.B.3.c; fee set by City Council resolution)",
+      "administering_agency": "City of Irvine Community Development Department",
+      "funding_type": "loan",
+      "typical_award_size": "In-lieu fees are deposited in the City's affordable housing fund and used for projects implementing the Housing Element needs assessment or serving low, very low and extremely low income households; the fee is charged per market-rate unit under a Council-approved formula, determined at building permit, and has not been updated since 2011 (a legacy $17,000 per unit rate applied only to pre-2007 Irvine Business Complex filings). A May 2026 Draft Affordable Housing and In-Lieu Fee Analysis was released August 10, 2026; staff recommends keeping the existing formula with updated inputs. Finance Commission reviewed it October 19, 2026; Planning Commission and Council hearings are not yet scheduled. Fund balance and any developer allocation process are not published.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Fund uses limited to low, very low and extremely low income households and Housing Element implementation; recipients record 55-year covenants under Chapter 2-3.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA located as of November 8, 2026. In-lieu fee update pending Planning Commission and City Council hearings (dates TBD). Ask Community Development (cd@cityofirvine.org) for the fund balance and whether a developer round is planned.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Because most Irvine builders provide units on-site or through credits, the in-lieu fund is smaller than Santa Ana's; its visible use is land and loans to Irvine Community Land Trust projects (Salerno, Parc Derian, Doria, Alegre, Sage Park) which then take LIHTC, HOME, OCHFT and County MHSA money. Public funds trigger state prevailing wage. Code text read on zoneomics because the City-linked Municode page is Cloudflare-blocked; the City In-Lieu Fee Formula Update page (cityofirvine.gov/node/94569) and its September 8, 2026 FAQ were opened and confirm the 15% requirement, the formula-based fee and the update schedule.",
+      "source_url": "https://www.zoneomics.com/code/irvine-CA/chapter_2",
+      "record_id": "f7d55433db",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "land for Irvine Community Land Trust projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Huntington Beach",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Trust Fund (Sec. 230.26.E and F) and City inclusionary loans",
+      "administering_agency": "City of Huntington Beach Community Development Department, Housing Division; Huntington Beach Housing Authority",
+      "funding_type": "loan",
+      "typical_award_size": "In-lieu fees collected under Sec. 230.26 are placed in the Affordable Housing Trust Fund and may be used for predevelopment, land or air rights acquisition, rehabilitation, land write-downs, administration, gap financing or interest rate buy-downs on construction or permanent loans. Current balance and annual receipts were not published in an opened document. Example of use: the City holds an Inclusionary Housing promissory note on Pelican Harbor Apartments that was amended (First Amendment to City Inclusionary Housing Promissory Note) with a HOME note amendment and CMFA bond TEFRA approval on October 21, 2025 (Resolution 2025-65) to allow the project's refinancing; Five Points Senior Villas covenants were extended by amendment in August 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Fund projects must have at least 50% of units affordable to very low and low income households with at least 20% very low income, under a recorded affordable housing agreement with 55-year covenants; Council may add permitted uses by resolution with the annual fee schedule.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; no NOFA. Council reviews the fund annually within 180 days of fiscal year end. Request the fund balance from the Housing Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small and reactive: Huntington Beach uses the Trust Fund and HOME CHDO reserve for project-specific loans and covenant extensions rather than rounds. Combine with the City's CDBG and HOME, County 2026 Supportive Housing NOFA loans ($95,000 to $105,000 per unit inside Huntington Beach), OCHA PBVs (Oasis Huntington Beach took 62) and OCHFT. The Huntington Beach Housing Authority is also the housing successor; its LMIHAF balance was not opened this pass. Public funds trigger state prevailing wage. Code text on zoneomics; Legistar matter 25-856 attachments list opened (the inclusionary note PDF itself is an image scan with no text).",
+      "source_url": "https://www.zoneomics.com/code/huntington-beach-CA/chapter_4",
+      "record_id": "a7e0ecd15c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Huntington Beach",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Pathways Project supportive housing and shelter site (Huntington Beach Housing Authority Exclusive Negotiations Agreement with Jamboree Housing; Navigation Center site, Beach and Edinger Corridors Affordable Housing Overlay)",
+      "administering_agency": "Huntington Beach Housing Authority and Community Development Department; Jason Austin, Deputy Director of Homeless and Behavioral Health",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "City-controlled site (current Navigation Center, about 3,000 deed-restricted affordable units in the City's overall portfolio per the RFQ) offered to Jamboree Housing under a 2022 Exclusive Negotiations Agreement extended 18 months on May 14, 2024 to plan and secure funding for a permanent homeless shelter, sobering center, services and low income supportive housing. June 2024 funding matrix prepared by the City: IIG $3,900,000, BHCIP $60,000,000, TCAC/CDLAC equity $23,000,000, Community Care Expansion $3,800,000, AHSC $17,000,000, OCHFT $2,500,000, OCHA PBVs $3,720,000, Behavioral Health Services (Prop 1) $5,000,000. No City cash commitment is listed.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing Authority goal of 100% affordable units at 60% AMI or below qualifying as supportive housing under Government Code 65650; at least 20% affordable for by-right processing in the overlay.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "ENA extension ran 18 months from May 2024 (to about November 2025); status of a further extension or disposition agreement not confirmed. Check Housing Authority agendas.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Recorded because it shows how Huntington Beach expects to finance supportive housing: City land plus state programs, OCHFT, OCHA PBVs and County BHSA, with no local trust fund dollars in the stack. Any developer other than Jamboree would need the ENA to lapse. Public land and any City funds trigger state prevailing wage. ENA extension and funding matrix PDFs opened via Legistar web API (matter 24-397).",
+      "source_url": "https://huntingtonbeach.legistar1.com/huntingtonbeach/attachments/8086715c-5d18-4e67-855c-9dc7a7974022.pdf",
+      "record_id": "7c513fbce9",
+      "cycle_notes": "ENA with a selected developer; no open solicitation",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "shelter with housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Garden Grove",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "verified",
+      "program_name": "Low and Moderate Income Housing Asset Fund and Civic Center housing site (Garden Grove Housing Authority as Housing Successor to the Garden Grove Agency for Community Development)",
+      "administering_agency": "Garden Grove Housing Authority as Housing Successor, Community and Economic Development Department, 11222 Acacia Parkway; Housing Authority (714) 741-5150",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2024-25 (SB 341 report): $3,164,557.92 deposited (including $3,000,000 of ERAF/SERAF loan repayments through the ROPS), $2,890,976.02 spent or encumbered, ending cash balance $3,092,947.34; total LMIHAF assets $24,689,712.27 including $9,870,187.74 of loans and grants receivable and $14,819,524.53 of real property. Development spending: $1,000,000 third installment plus $127,500 interest on the $8,550,000 purchase of the Civic Center Parcel (11390-11400 Stanford Avenue, northern portion of APN 090-154-57, exempt surplus land approved by HCD) for housing, and $1,550,000 encumbered for additional land acquisition. Prior Housing Successor projects: Wesley Village (47 senior and family units) and Sycamore Court (78-unit substantial rehabilitation), both with 55-year covenants satisfying the Limon replacement housing judgments. Property at 11391 Acacia Parkway acquired 2019; 12291 Thackery Drive tied up in the New Age (Kam Sang) litigation.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Health and Safety Code 34176.1 income limits (up to 120% AMI) with at least 30% of five-year spending for households at or below 30% AMI and a 50% senior cap; City projects carry 55-year covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; the Civic Center Parcel will be offered through a developer solicitation once the purchase installments are complete (about $4,550,000 remained after FY 2024-25). Watch Housing Authority agendas.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Garden Grove is spending its LMIHAF on land, so the opportunity is a Civic Center site near the Main Street downtown with Housing Authority PBVs and HOME or HOME-ARP predevelopment money, then County MHSA/BHSA, OCHFT and 4% credits; cash loans from the fund will be small. Public funds trigger state prevailing wage. FY 2024-25 Housing Authority and Housing Successor Annual Report PDF and the Redevelopment Agency Dissolution page opened on ggcity.org.",
+      "source_url": "https://ggcity.org/sites/default/files/ggha-fy-2024-25-housing-successor-and-housing-authority-annual-report-attachment-a_0.pdf",
+      "record_id": "513553edf0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction on Housing Successor land",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Garden Grove",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Orange",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable Housing and Permanent Supportive Housing Development RFP and Housing Element Program 4 (Affordable Housing Construction assistance)",
+      "administering_agency": "City of Garden Grove Community and Economic Development Department, Neighborhood Improvement Division and Housing Authority",
+      "funding_type": "loan",
+      "typical_award_size": "The City posted a developer solicitation (gg.city/afford-rfp, redirecting to the Neighborhood Improvement page for the Affordable Housing and Permanent Supportive Housing Development RFP) seeking qualified developers to build affordable and permanent supportive housing units; the page returned 403 to all fetch methods so the funding amount, sites and deadline could not be read. Housing Element Program 4 commits the City to technical and financial assistance for about 10 affordable units a year (80 units over the cycle) through land cost write-downs and construction assistance from General Fund, HOME, LMIHAF and PLHA, plus expedited processing. The FY 2025-30 Consolidated Plan earmarks part of about $2,900,000 of HOME-ARP for one PSH development, and the Housing Successor is buying the Civic Center Parcel for housing.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Program 4 targets lower income and senior households; HOME-ARP PSH units serve qualifying homeless populations; 55-year covenants under Sec. 9.60.050 regulatory agreements.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency; confirm whether the Affordable Housing and PSH Development RFP is still open and whether it covers the Civic Center Parcel. Contact Neighborhood Improvement (714-741-5144).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Likely the only Garden Grove developer solicitation and probably paired with HOME-ARP and LMIHAF land; a respondent should plan on County 2026 Supportive Housing NOFA loans, OCHFT, County BHSA and GGHA PBVs for the rest of the stack. Public funds trigger state prevailing wage. Source is the 2021-2029 Housing Element PDF (opened); the RFP page itself was blocked (ggcity.org/news/afford-rfp and the neighborhood-improvement RFP page both 403).",
+      "source_url": "https://ggcity.org/sites/default/files/HousingElement11921.pdf",
+      "record_id": "35be0946a8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "senior housing",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 1 audit 2026-11-08: Housing Element Program 4 re-read and matches (10 units a year, 80 total, land write-downs and construction assistance from General Fund, HOME, LMIHAF and PLHA, expedited processing). The RFP page and news item still return 403 to curl and fetch; a search snippet describes the RFP as new construction or rehab of multifamily rental for low income households at risk of homelessness with a 5-year experience minimum, but amount, sites and deadline remain unread.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "County affordable housing gap loans funded by Affordable Housing in-lieu fees (Hope Way and Destination at Placer One commitments)",
+      "administering_agency": "Placer County Executive Office, Economic Development and Housing Division (Gloria Stearns, Director; Nikki Streegan, Housing Manager); 145 Fulweiler Avenue #100, Auburn; (530) 886-2642; housing@placer.ca.gov",
+      "funding_type": "loan",
+      "typical_award_size": "Project-by-project Board commitments, no NOFA. On August 25, 2026 the Board approved a Funding Commitment Letter for Hope Way Apartments Phase 1 (Penryn 721, L.P., an affiliate of USA Properties Fund; 132 units of a 240-unit entitlement at 3130 Penryn Road) for a loan of up to $7,260,000 at 3% simple interest over 55 years, funded by affordable housing in-lieu fees (reported as Bickford Ranch in-lieu fees), and a Preliminary Funding Letter for Destination at Placer One (360 units north of Roseville) framing a potential $8,900,000 loan at 3% simple interest for which no funding source has been identified. Earlier County loans include Sabre City (Parkside at Sabre City, 44 homes with ADUs, Housing Trust Placer) and $500,000 in 2025 to a North Lake Tahoe housing trust.",
+      "per_unit_cap": "None stated. Hope Way works out to about $55,000 per Phase 1 unit; Destination at Placer One to about $24,700 per unit.",
+      "affordability_requirement": "Set in each Funding Agreement and Use Deed Restriction: tax credit income tiers (30% to 80% AMI), 55-year term, and the Placer County Affordable Housing Priority Applicant Policy (adopted May 12, 2026, effective July 1, 2026) giving preference to current residents, local workers and past residents of Placer County or the Tahoe Truckee Unified School District area for new deed-restricted units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Developers request a commitment letter through the Economic Development and Housing Division and the Board acts on each project; Hope Way's Funding Agreement, Deed of Trust and deed restriction follow the commitment letter, and both 2026 projects still must win tax credits. The Board's Ad Hoc Committee for Housing Funding and Fee Implementation is working on new funding sources, and the nexus study update that would raise the in-lieu fee was due to the Board in 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. Placer County's only gap money is the pool of in-lieu fees collected under its 2020 Affordable Housing and Employee Accommodation Ordinance, and the Board has committed most of it: Hope Way Phase 1 ($7.26 million) exhausted the identified balance, and Destination at Placer One is waiting on a source (a supervisor noted the County has never used General Fund for affordable housing loans). Terms are 3% simple, 55 years, residual receipts style repayment. Expect Board politics: Hope Way needed appeals, a 3-2 vote in December 2025 and a lawsuit settlement cutting it to 132 units with a four-year pause on the rest. The County's 2025-2029 Housing Action Plan targets 1,300 units by mid-2029, and the Prohousing Designation (reapplying fall 2026) gives projects state scoring advantages. Cities (Roseville, Rocklin, Lincoln, Auburn) run their own funds and are Pass 3.",
+      "source_url": "https://ceqanet.lci.ca.gov/2026090089",
+      "record_id": "aa83f4b203",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: CEQAnet Notice of Exemption 2026090089 and its attached NOE PDF confirm the Funding Commitment Letter with Penryn 721, L.P. for a loan of up to $7,260,000 repaid over a 55-year term at 3% interest for Phase 1 of Hope Way at 3130 Penryn Road. placer.ca.gov (news release 11058 and DocumentCenter) returned 403 this pass, so the Destination at Placer One $8,900,000 preliminary letter (360 units, 356 affordable) was seen only in a search snippet of the County release. A search snippet suggests the release states a 21-year term for Hope Way; the NOE says 55 years, so the record keeps 55. Prevailing wage true is uncited (Labor Code 1720 public funds only).",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Workforce Housing Preservation Program (WHPP), eastern Placer County deed-restriction purchases",
+      "administering_agency": "Placer County Executive Office, Economic Development and Housing; down payment assistance component administered by Housing Trust Placer",
+      "funding_type": "grant",
+      "typical_award_size": "$4,100,000 allocated since 2021 ($500,000 General Fund and TOT in 2021, $600,000 TOT in 2023, $3,000,000 TOT in April 2024 through the NTCA TOT-TBID program); 17 deed restrictions purchased for $1,852,400 (average $108,965 per property; three in FY 2025-26 for $329,600). $2,247,500 remained through FY 2025-26, with staff seeking to extend it into FY 2026-27. May 12, 2026 amendments opened the program to multifamily properties of more than four units: maximum aggregate disbursement 16% of fair market value with a $75,000 per-unit cap (single-family cap $150,000), local businesses eligible as buyers, and a termination fee that declines over time.",
+      "per_unit_cap": "$75,000 per unit for multifamily properties (and 16% of fair market value aggregate); $150,000 per single-family property.",
+      "affordability_requirement": "Permanent deed restriction requiring occupancy by a household with at least one member of the local workforce (employed within the Tahoe Truckee Unified School District area); no income limit. Applies to existing homes, condos, duplexes and now multifamily rental properties in eastern Placer County.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applications accepted while funds last; $2,247,500 available as of May 2026, subject to NTCA extension into FY 2026-27. Multifamily eligibility is new as of May 2026, so no multifamily transaction had closed when the guidelines were amended.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. The 2026 change makes WHPP a small acquisition subsidy for buying existing North Shore apartment buildings and restricting them to local workers: a four-unit building worth $2 million could draw $300,000. It fills the preservation gap the County identified as redevelopment pressure on long-term rentals. The restriction is workforce occupancy rather than income, so it does not combine with LIHTC or state programs that require income limits, but it can pair with Launchpad for added units and with the welfare exemption only if a nonprofit owner also records income restrictions. No construction, so no prevailing wage.",
+      "source_url": "https://content.govdelivery.com/attachments/CAPLACER/2026/05/08/file_attachments/3645292/02A.pdf",
+      "record_id": "a4c3f3dfd7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation",
+        "acquisition-rehab",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: May 12, 2026 Board memo and amended guidelines match on $4.1M total allocation, 17 deed restrictions for $1,852,400, $2,247,500 remaining, 16% of FMV aggregate with $75,000 per-unit multifamily cap and $150,000 single-family cap, local business eligibility, and no minimum AMI in East County (eliminated June 28, 2022). Minor wording: 2021 allocation was $250,000 General Fund plus $250,000 TOT, and the deed restriction runs 55 years renewed with each conveyance rather than being permanent on its face. Prevailing wage false is uncited; program purchases deed restrictions with no construction.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "County-owned land for affordable housing: Dollar Creek Crossing (3205 North Lake Boulevard, Tahoe City)",
+      "administering_agency": "Placer County Executive Office, Economic Development and Housing, with the Community Development Resource Agency; developer Related California (Related Norcal Development, LLC) under a preliminary agreement",
+      "funding_type": "land",
+      "typical_award_size": "County-owned site at 3205 North Lake Boulevard, Tahoe City, acquired in 2019. After mixed-use and mixed-income concepts, the Board directed an affordable-only project of at least 80 lower income units in April 2025; the developer's June 2026 financial report said the County would need to contribute about $18,500,000 (land plus gap). The Exclusive Right to Negotiate with Related expired June 30, 2026, and the County is now preparing a new developer RFP; land contribution plus any gap funding will be set in the RFP terms.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Low income (at or below 80% AMI) rental housing, 80 units, with the County's Affordable Housing Priority Applicant Policy for local workers and residents.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026. The County held a community meeting on future RFP terms on September 2, 2026 and is collecting survey feedback; staff expect to bring RFP terms to the Board in early 2027 and to issue the developer RFP before July 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. Dollar Creek is the County's only land contribution in the Tahoe Basin and shows the limit of its resources: the land is in hand but the County has no fund large enough for an $18.5 million gap, so the deal will depend on state money (MHP, IIG, AHSC, TRPA bonus units) plus TOT programs. A developer answering a future RFP should price the TRPA coverage and allocation process and the County's requirement for workforce preference. County land plus County funds will trigger prevailing wage.",
+      "source_url": "https://engage.placer.ca.gov/3205-north-lake-boulevard-housing",
+      "record_id": "544ff6f08c",
+      "cycle_notes": "One-time developer RFP for a County-owned site; the prior Exclusive Right to Negotiate with Related expired June 30, 2026. Board hearing on RFP terms expected early 2027; RFP to issue before July 2027. Affordable Housing Priority Applicant Policy (Resolution 2026-077, May 11, 2026) gives local residents and workers priority.",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "T2 audit 2026-11-08: replaced news source with the County Engage Placer project page, which confirms the ERN expired June 30, 2026 and the RFP timeline. prevailing_wage_trigger is true without a cited rule in prevailing_wage_basis; it was not in this batch's audit reasons and should be reviewed.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Placer County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Roseville, Rocklin/Placer County Continuum of Care (CA-515, Homeless Resource Council of the Sierras) and HHAP, Placer County share",
+      "administering_agency": "Homeless Resource Council of the Sierras (HRCS, CoC lead and HMIS lead for CA-515 and Nevada County CA-531); Placer County Health and Human Services (County HHAP administrative entity; homeless outreach with the City of Roseville)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP Round 6 allocations (HCD, 2024 count): Placer County $801,045.28 and the Roseville, Rocklin/Placer County CoC $855,530.14. HHAP rounds 1 to 5 brought $7.8 million to the Placer area, $2.0 million of it to the County ($1.8 million obligated, $892,207 spent by mid-2025). The County's HHAP-6 is planned for housing subsidies. 2024 point-in-time count: 702 people, 366 unsheltered, 640 year-round beds. The County and City of Roseville co-fund homeless outreach workers ($160,000 through June 2027).",
+      "per_unit_cap": null,
+      "affordability_requirement": "People experiencing or at risk of homelessness; HHAP-6 requires a regionally coordinated action plan, a 10% youth set-aside and allows permanent housing capital, operating subsidies and rental assistance.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 funds are being contracted for FY 2026-27 through 2028-29; HRCS runs the CoC and HHAP sub-award processes and formed a Local Government Advisory Committee in 2025 to coordinate regional responses. HHAP Round 7 allocations follow the 2026-27 state budget ($900 million statewide).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "placer.ca.gov (including DocumentCenter PDFs) sits behind Cloudflare and refused automated access on 2026-11-06; Board items were read from the County's GovDelivery agenda attachments (content.govdelivery.com/attachments/CAPLACER), the Legistar client 'placerca', state records and news coverage. Placer's HHAP is under $1 million a year each to the County and the CoC and is used for subsidies and services, not capital. For a PSH project the value is HRCS Coordinated Entry referrals and possible CoC or HHAP operating support for a few units; pair with PCHA PBVs and County in-lieu fee loans. Roseville, the largest city, has its own housing authority and homelessness programs (Pass 3).",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-6-allocations.pdf",
+      "record_id": "98dc9dc315",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "interim housing",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 9, 2026: HCD HHAP-6 table confirms Placer $801,045.28 and CA-515 CoC $855,530.14; accountability.ca.gov confirms $7.8 million rounds 1 to 5, $2 million to the County, $1.8 million obligated, $892,207 spent and 2024 PIT counts; Placer Legistar 26-225 confirms the $160,000 Roseville outreach agreement through June 30, 2027. HHAP-7 statewide figure not re-checked. Prevailing wage true is uncited and no HHAP rule stating it was found; consider unclear in a PW pass.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Roseville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Roseville Local Housing Trust Fund (LHTF) gap loans, including Prohousing Incentive Program (PIP) program income NOFA (Resolution 26-404, November 4, 2026)",
+      "administering_agency": "City of Roseville Economic Development Department, Housing Division (316 Vernon Street, Suite 150; 916-774-5270; housing@roseville.ca.gov)",
+      "funding_type": "loan",
+      "typical_award_size": "Project-by-project gap loans from the City's Local Housing Trust Fund, which receives in-lieu fees, affordable purchase loan payoffs and state grant program income. Most recent round: a NOFA released August 31, 2026 offered $1,000,000 of PIP program income (from a $1,050,000 developer loan payoff on the City's 2023 PIP Round 1 award of $1,610,000) for predevelopment of lower-income rental housing; two applications were received (Eden Housing, 505 Royer, 58 senior units; Mercy Housing, Pleasant Grove Apartments Phase II, 49 units) and staff recommended reserving the full $1,000,000 for Pleasant Grove Phase II on November 4, 2026. Earlier LHTF and in-lieu commitments include $4.36M reserved for Junction Crossing (80 units, St. Anton) and, per the City's pipeline report, $6,000,000 for Pleasant Grove Apartments (pipeline PDF returned 502 this pass). The 2021 Housing Element commits the City to re-apply for state LHTF matching funds as rounds open.",
+      "per_unit_cap": "None published. The PIP award of $1,000,000 for 49 units is about $20,400 per unit.",
+      "affordability_requirement": "Set by loan documents and an Affordable Rental Housing Agreement; PIP money is limited to lower-income (at or below 80% AMI) rental housing, and the 2026 NOFA targeted 30% to 60% AMI projects with preference for units for persons with disabilities and supportive services. Projects in high opportunity areas or areas at risk of displacement are prioritized (Housing Element Programs 9, 10 and 12).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026; the August 31, 2026 PIP program-income NOFA closed and $1,000,000 was reserved for Pleasant Grove Apartments Phase II on November 4, 2026. Loan documents return to Council at a future meeting. Watch for the next LHTF or PIP program-income NOFA from the Housing Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "This is the city layer that stacks under 9% or 4% LIHTC and tax-exempt bonds (county TEFRA via CalPFA, CMFA or CSCDA; the County is not an issuer). Roseville's LHTF is separate from Placer County's in-lieu fee gap loans (Hope Way, Destination at Placer One) and from Housing Trust Placer; a Roseville project can seek all three plus Roseville Housing Authority project-based vouchers. Gap order: LIHTC and bonds first, then City LHTF or PIP reservation, then County or Housing Trust Placer money. Roseville's municipal website (roseville.ca.us, now roseville.ca.gov) opens, but the pipeline PDF and script-rendered agenda pages do not; staff reports were read from the City's CivicClerk API file streams (rosevilleca.api.civicclerk.com).",
+      "source_url": "https://rosevilleca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11813,plainText=false)",
+      "record_id": "4d95f0f843",
+      "cycle_notes": "as program income is received",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 8, 2026: November 4, 2026 staff report (Item VII.8, Resolution 26-404) matches on the $1,610,000 2023 PIP Round 1 award, $1,050,000 payoff, $1,000,000 NOFA released August 31, 2026, the two applicants and the Pleasant Grove Phase II recommendation. Both applicant projects serve 30% to 60% AMI; the NOFA itself is described as serving lower-income households. The budget adjustment also notes $1.544M of FY27 LHTF commercial loan payoff revenue intended for a new affordable project, a possible next round. Prevailing wage true is uncited in prevailing_wage_basis. Junction Crossing and $6M Pleasant Grove figures were not re-checked in this source. next_deadline reworded so the as-of date is not read as a future deadline.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Roseville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Roseville 10% Affordable Housing Goal in Specific Plan Areas (General Plan Policy LU5.5, Housing Element Programs 6 and 9) with Affordable Housing Regulatory Agreements and case-by-case in-lieu fees",
+      "administering_agency": "City of Roseville Housing Division (compliance) and Development Services Department, Planning Division (specific plans)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Every specific plan area must designate 10% of total units as affordable (General Plan goal since 1989: 20% of the affordable units at middle income up to 100% AMI, 40% low income up to 80% AMI, 40% very low income up to 50% AMI), allocated to specific medium and high density parcels and secured by Development Agreements and Affordable Housing Regulatory Agreements recorded before building permits or final small-lot maps. Since 1989 the policy has produced 5,167 affordable units (1,357 very low rental, 2,271 low rental, 427 middle rental, 325 moderate rental, plus 787 purchase units), about 140 per year. The City has no formal in-lieu fee ordinance; in-lieu fees are negotiated case by case ($1,036,410 collected 2013 to 2021). A 2025 Housing Tools Inclusionary Housing Policy Analysis recommended standard fee levels, for example $150,000 per required affordable for-sale unit in projects under 20 units, applied in the East Street Subdivision amendment approved November 4, 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Rental units restricted by Affordable Rental Housing Agreements (about 2,700 units under agreement in the 2021 to 2029 period); density bonus (Chapter 19.28) may be assigned by the Regulatory Agreement as part of the subsidy. Sierra Vista Specific Plan: 10% of 8,679 units (about 868) allocated to MDR and HDR parcels, with transfers and credits between parcels allowed by Housing Division approval.",
+      "eligible_project_types": [
+        "mixed-income",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at specific plan and Development Agreement approval; the in-lieu fee option is considered case by case at agreement amendment. The 2021 Housing Element also directs work on a commercial linkage fee (nexus study November 2021, draft ordinance posted, not adopted as of this pass).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The reason Roseville has a steady supply of affordable parcels and developers: specific plan landowners (Sierra Vista, West Roseville, Amoruso Ranch, Villages West and others) carry a 10% obligation and typically deliver dedicated HDR parcels or partner with USA Properties, Mercy Housing, St. Anton, Eden Housing and others. Hope Way and the County in-lieu fee program (County Code Chapter 15.65) apply only in unincorporated Placer; inside Roseville this goal and the Regulatory Agreements govern. In-lieu fees collected flow to the Local Housing Trust Fund (record above). Density bonus units are excluded from the 10% base. Verified from the adopted 2021 Housing Element PDF, the Sierra Vista Specific Plan Affordable Housing chapter and the November 4, 2026 Council packet.",
+      "source_url": "https://www.roseville.ca.gov/Documents/Development%20Services/Planning/Housing%20Element/Housing%20Element.pdf",
+      "record_id": "66ee68fed2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate specific plan builders (compliance)",
+        "mixed-income projects",
+        "affordable parcels dedicated inside specific plans"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: the Housing Element PDF on roseville.ca.gov returned 403 to curl and exceeded the WebFetch size limit. The November 4, 2026 Council packet (CivicClerk) confirms the 10% affordability requirement applied to new specific plan areas and density-changing rezonings (2013 Housing Element recital), the East Street Subdivision APHA amendment, the 2025 Housing Tools Inclusionary Housing Policy Analysis, the $150,000 per for-sale unit in-lieu fee for projects under 20 units, and deposit of in-lieu fees to the Local Housing Trust Fund. The 20/40/40 income split and the 5,167-unit count were not reread from an opened page this pass. Prevailing wage false is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Roseville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Roseville Housing Successor Low and Moderate Income Housing Asset Fund (SB 341 reports; Housing Element Program 12)",
+      "administering_agency": "City of Roseville acting as Housing Successor to the former Redevelopment Agency; Housing Division",
+      "funding_type": "loan",
+      "typical_award_size": "Small gap loans and Homeless Prevention and Rapid Rehousing grants. Fund balance $2,379,350 at June 30, 2025 (FY2024-25 deposits $1,032,069, including $737,249 from the 20% share of City loan payoffs; FY2024-25 expenditures $434,196 with $0 for development). Past development loans: $5,760,000 to Mercy Housing for 623 Vernon Street (58 units, 2016 to 2018), $600,000 deferred loan to Junction Crossing (80 units, approved October 20, 2021), $500,000 to Hampstead's Prospera at Fiddyment workforce housing (104 units, approved April 3, 2024). HPRR spending is capped at $250,000 per year; on September 2, 2026 Council budgeted $1,250,000 from the fund for FY2026-27 together with $1,374,763 of PLHA.",
+      "per_unit_cap": "None stated; past loans ranged from about $4,800 to $99,000 per unit.",
+      "affordability_requirement": "Health and Safety Code 34176.1 targeting: development money must serve households at or below 80% AMI, with at least 30% spent on 30% AMI households and no more than 20% on 60% to 80% AMI; 55-year covenants used; no senior-only restriction issue (0% of assisted units senior-restricted in the last 10 years).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "rental assistance"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; developers approach the Housing Division. Revenue is only loan repayments (projected through 2036), so expect commitments of a few hundred thousand dollars per project. The FY2025-26 SB 341 report is due by December 31, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Roseville is the only Placer jurisdiction with a Housing Successor fund actively lending (Lincoln has a Redevelopment Successor Agency but no housing fund activity was found; Rocklin's Low/Mod Housing Fund is described under its Affordable Housing Incentive Program). Stacks with LHTF and PIP money (record above), PLHA, county in-lieu fee loans and LIHTC. Excess surplus test: the balance must stay under the greater of $1,000,000 or four years of deposits, which pushes the City to commit funds. Read from the FY2024-25 SB 341 Report of Required Information posted on the Affordable Housing Funds page.",
+      "source_url": "https://www.roseville.ca.gov/24-25%20Report%20of%20Required%20Information.pdf",
+      "record_id": "b05d6694e4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "homeless prevention and rapid rehousing"
+      ],
+      "next_deadline_date": "2026-12-31",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check November 9, 2026: FY 2024-25 Report of Required Information (opened via WebFetch; curl now returns 403) matches $1,032,069 deposits including $737,249 from the 20% share of City loan payoffs, $2,379,350 fund balance at June 30, 2025, $434,196 expenditures with $250,000 homeless prevention and $0 development, and the $250,000 annual HPRR cap. Past loans and the September 2, 2026 budget action were not rechecked. Prevailing wage true is uncited.",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rocklin",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Placer",
+      "confidence": "verified",
+      "program_name": "Rocklin Affordable Housing Incentive Program (AHIP): Low/Mod Housing Fund residual receipts loans (Resolution 2024-039, repealed and replaced September 9, 2025)",
+      "administering_agency": "City of Rocklin City Manager's Office, Housing Division (Housing@rocklin.ca.us; 3970 Rocklin Road, 916-625-5000)",
+      "funding_type": "loan",
+      "typical_award_size": "Residual receipts loan of up to $40,000 for each very low and extremely low income unit constructed, funded from the City's Low/Mod Housing Fund. Approved subsidies as of September 2025 (contingent on full project financing): CHW Pacific Street Apartments, 109 affordable units, $2.6 million; USA Properties The Steven, 179 affordable age-restricted units, $2.23 million. AHIP was adopted January 23, 2024 and restated September 9, 2025 to align its fee deferral component with SB 937; the loan and fee reduction terms were unchanged.",
+      "per_unit_cap": "$40,000 per very low or extremely low income unit.",
+      "affordability_requirement": "Loans attach to units restricted to very low (50% AMI) and extremely low (30% AMI) income households; the fee reduction companion applies at 60% AMI or lower; qualified affordable housing developments per the AHIP resolution.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; developers request a commitment from the Housing Division during entitlement so the City estimate can be included in LIHTC applications. Confirm the remaining Low/Mod Housing Fund balance with staff; the two approved commitments total $4.83 million.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Rocklin's only direct gap source; it stacks with the 40% impact fee reduction and SB 937 fee deferral (next record), the new inclusionary in-lieu fee trust fund, Placer County in-lieu fee loans and Housing Trust Placer, and PBVs from either Roseville Housing Authority or Placer County Housing Authority (both cover Rocklin). Rocklin is in the Roseville, Rocklin and Placer County Continuum of Care (CA-515). The City's websites (rocklin.ca.us legacy and rocklin.ca.gov CivicPlus) return 403 to scripts; staff reports were read from the City's Legistar packet files on d2kbkoa27fdvtw.cloudfront.net and the fee deferral form from the DocumentCenter.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/rocklin-ca/0ec9880a92fca65f4afaea2f351002320.pdf",
+      "record_id": "79b98a6f93",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "senior housing",
+        "mixed-income multifamily"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,598 @@
+[
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "SHRA Multifamily Lending Program (County gap financing)",
+      "administering_agency": "Sacramento Housing and Redevelopment Agency (SHRA) on behalf of the County of Sacramento and the Housing Authority of the County of Sacramento",
+      "funding_type": "loan",
+      "typical_award_size": "Gap loans sized to the financing gap after all other sources; no stated per-project cap. County funds posted June 1, 2026: HOME $2,500,000, Housing Trust Fund $900,000, Affordable Housing Ordinance fund $6,000,000, PLHA $0 (total about $9.4M). Recent County commitments: San Juan Phase II $11.7M (HOME $7.0M plus PLHA $4.7M, 70 units), Shiloh Arms $2.12M HOME, South Sacramento Homekey $1.9M. Projects must have 12 or more units.",
+      "per_unit_cap": "None published; HOME-assisted units capped by 24 CFR 92.250 maximum per-unit subsidy. SHRA charges $100 per SHRA-funded unit per year.",
+      "affordability_requirement": "55-year regulatory agreement. Minimum per source: HOME 20% of HOME units at 50% AMI and the rest at or below 60% AMI; AHO fund 20% at 50% AMI and 80% at 60% AMI; Housing Trust Fund 50% to 80% AMI workforce households. Priorities: preservation at risk, then new construction (PSH and homeless, veterans, workforce 30% to 60% AMI, other), then rehab. Deeper affordability preferred.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. SHRA states it is not currently accepting pre-applications; the 2027 schedule has not been posted. Based on the 2026 pattern, expect a January 2027 pre-application deadline for the spring TCAC/CDLAC round.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "This is the primary local soft source for 9% and 4% deals in the unincorporated county (City of Sacramento projects use the parallel City pool, Pass 3). Terms: up to 4% simple interest, term up to 40 years from conversion or 55 years when senior public lenders require, 1.10x to 1.20x combined DSCR, 90% combined LTV, payments deferred during construction and deferred developer fee then amortized, residual receipts only when state or federal lenders require it. Nonprofit managing general partner required; applicants need prior affordable housing ownership experience. $12,500 good-faith deposit at full application; annual administration fee 12.5 bps of loan (max $15,000) or 5 bps of bonds (min $15,000). SHRA issues the CTCAC local needs letter and conduit bonds (see separate bond record). Applicants request gap funds without specifying a source; SHRA picks the source, so Davis-Bacon exposure depends on whether HOME (12+ units) or CDBG (8+ units) is assigned, and state prevailing wage applies unless the below-market-loan exemption (40% of units at 80% AMI for 20 years) fits. Pre-applications are timed so SHRA commitments are in hand before CTCAC and CDLAC deadlines, satisfying CDLAC readiness and the CTCAC tiebreaker. SB 802 (Chapter 417, Statutes of 2026) requires the County and cities to form the Sacramento Area Housing and Homelessness Agency, a regional JPA that absorbs SHRA, by January 1, 2028; expect program administration, fee funds and NOFA calendars to migrate to that agency during 2027-2028.",
+      "source_url": "https://www.shra.org/multi-family-housing-financing-lending-resources/",
+      "record_id": "0499866461",
+      "cycle_notes": "Two pre-application rounds a year through Builder's Patch, timed ahead of CTCAC 9% and CDLAC rounds. 2026 schedule: pre-applications January 2, 2026 and July 1, 2026; full applications March 2 and September 1, 2026; environmental clearance May 1 and November 1, 2026; SHRC June 3, 2026 and January 13, 2027; Board/Council June 16, 2026 and January 19, 2027. Staff invite full applications after pre-application review based on funding availability. County funds available as of June 1, 2026: HOME $2.5M, Housing Trust Fund $900K, AHO $6.0M, PLHA $0.",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sacramento County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Sacramento County Behavioral Health (MHSA/BHSA) housing capital for permanent supportive housing",
+      "administering_agency": "Sacramento County Department of Health Services, Behavioral Health Services, with SHRA screening projects through its multifamily rounds",
+      "funding_type": "loan",
+      "typical_award_size": "Not published as a NOFA amount. The FY2026-29 BHSA Integrated Plan budgets about $200,000 per BHSA unit for its planned capital project (30 BHSA units of 120, about $6M) and states 2 capital projects. Prior MHSA practice: SHRA's June 2025 funds notice said projects could be considered for County MHSA housing financing for PSH units; example $2.5M MHSA to Auburn Oaks PSH. BHSA requires 30% of county funds for housing interventions, up to 25% of that for capital.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PSH units restricted to persons with serious mental illness or substance use disorder who are homeless or at risk, referred through County Behavioral Health; typically 30% AMI or below with rental or operating subsidy.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open round as of November 8, 2026. No stand-alone BHSA capital NOFA or solicitation is posted; housing requests ride on SHRA multifamily pre-applications (2027 schedule not yet posted, likely January 2027).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "BHSA classification: the Integrated Plan funds housing capital and rental subsidies, so this is a deployable capital source (kept as loan, consistent with prior MHSA capital practice through SHRA). Successor to the CalHFA Special Needs Housing Program and county NPLH allocations (NPLH is closed; Sacramento County ran its last Request to Partner in 2020). BHSA capital and operating subsidies can underwrite PSH units in 4% and 9% deals and support CTCAC homeless priority and the CDLAC Homeless set-aside. Pair with Homekey+ and HHAP. County funds are public funds for prevailing wage. Amounts and process should be confirmed with Behavioral Health Services and SHRA before underwriting.",
+      "source_url": "https://dhs.saccounty.gov/us/en/behavioral-health/about/bhsa.html",
+      "record_id": "8af4e4c4e4",
+      "cycle_notes": "The County BHSA Three-Year Integrated Plan FY2026-27 to FY2028-29 commits BHSA Housing Interventions to capital development: 2 projects planned; the detailed entry is an unidentified braided-funding project with 30 BHSA units in a 120-unit permanent supportive housing development at about $200,000 BHSA per unit (state cap $450,000), by-right approval, units expected by July 1, 2029. BHSA housing is 30% of county BHSA funds (half for chronically homeless), with up to 25% of housing funds allowed for capital. BHS will coordinate with SHRA on SHRA-funded developments; DHSH administers other housing capital (HHAP).",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "City of Sacramento Housing Trust Fund (commercial linkage fee, City Code Chapter 18.56 Article IV)",
+      "administering_agency": "City of Sacramento Community Development Department, Planning Division (fee assessment); SHRA (fund administration and lending)",
+      "funding_type": "loan",
+      "typical_award_size": "Fee source for SHRA City gap loans. Nonresidential rates effective July 1, 2024 through June 30, 2026: office $3.33, hotel $3.18, commercial $2.68, manufacturing $2.08, warehouse $0.91 per square foot, adjusted annually by the San Francisco construction cost index (the FY 2026-27 notice was not posted as of 2026-11-08). 2024 fund: $411,805 fees collected, $140,000 spent, $4.85M ending balance of which $807,861 uncommitted; $1.0M posted as available June 1, 2026.",
+      "per_unit_cap": "None published; SHRA policies apply (HUD Section 234 limit per restricted unit).",
+      "affordability_requirement": "Fund is restricted to housing for workforce households up to 80% AMI (very low and low income wage earners) under the 1989 jobs-housing nexus; 55-year SHRA regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Deployed through the SHRA two-round schedule (next pre-application likely early January 2027). Fee is paid at building permit on nonresidential projects; contact Ryan Dodge, (916) 808-8044, rdodge@cityofsacramento.org for fee questions.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Adopted 1989 (Chapter 17.708), moved into the Development Impact Fee chapter 18.56 on Feb 14, 2017; Council raised the fee 81.3% in 2004 (phased) and allows changes by resolution. Small and lumpy: about $0.4M to $0.6M a year in fees, so it is the smallest of the four City pools and is usually blended into a single SHRA loan with HOME and Mixed Income money. Parallel County Housing Trust Fund covers the unincorporated area (County rates $3.26 office to $1.08 warehouse since March 28, 2025). Annual report posted each May by SHRA.",
+      "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/housing-trust-fund",
+      "record_id": "77c3590bb3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "City of Sacramento Development Impact Fee Deferral Program",
+      "administering_agency": "City of Sacramento Community Development Department, Building Division (Form CDD-0330)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral, not waiver: City impact fees may be paid at final inspection instead of permit issuance, useful for phased or multi-building projects. No cost figure published. Fee estimates available for a low-cost application. The Statewide Community Infrastructure Program (CSCDA SCIP) is also accepted for financing eligible City impact fees.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "None; open to all residential projects.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Apply with CDD-0330 before permit issuance; fees due at final inspection.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Carries impact fees through construction so they can be paid from permanent loan proceeds; pair with the Zero-Dollar Rate reduction on the affordable units and SCIP bond financing of remaining fees. The County runs a separate deferral program for unincorporated projects (County record).",
+      "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/housing-development-kit/housing-development-incentives/help-me-reduce-the-cost-of-development",
+      "record_id": "cac517cdb6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Density bonus (City Code Chapter 17.704) and ministerial infill housing permits (Chapter 17.860 and SB 35/SB 423)",
+      "administering_agency": "City of Sacramento Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus law as implemented in Chapter 17.704 (no local enhancement beyond state minimums identified): e.g., 5% very low income units earns a 20% bonus plus one concession and unlimited waivers; up to 50% bonus and the 100% affordable 80% bonus per Government Code 65915. City ministerial permit (CDD-0428, adopted Aug 27, 2020) covers 2 to 200 unit residential or mixed-use infill projects meeting objective standards, no affordability or prevailing wage requirement, no CEQA, 60 to 90 day review; the state SB 35 permit (CDD-0427) requires 10% lower-income units at 11 or more units. Density bonus requests can be processed ministerially with either permit.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Per state law for the bonus; none for the City ministerial permit.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling at entitlement. Parking: none required within a quarter mile of light rail, 50% reduction within a half mile.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Sacramento is the state's first Prohousing jurisdiction (renewed Dec 23, 2025 with the top score) and already has high base densities, so the bonus is mostly used for height, parking and setback waivers rather than unit count. Combining the City ministerial permit with a density bonus avoids hearings and CEQA for 100% affordable infill without the SB 35 prevailing wage trigger. Missing Middle zoning (2024) allows multi-unit on former single-family lots citywide.",
+      "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/housing-development-kit/housing-development-incentives/help-me-build-more-housing-units-or-tailor-my-project-to-my-site",
+      "record_id": "a5bba5a1fa",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-09"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sacramento",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation (state scoring preference for City of Sacramento projects)",
+      "administering_agency": "City of Sacramento Community Development Department (designation held by the City; HCD administers the program)",
+      "funding_type": "policy/designation",
+      "typical_award_size": "Not a direct subsidy. Projects in a Prohousing jurisdiction receive priority processing or bonus points in state programs including AHSC, Infill Infrastructure Grant, TCC, TIRCP and related transportation programs, and the City may apply to the Prohousing Incentive Program for added funds. Sacramento was the first designated city (Feb 10, 2022) and renewed Dec 23, 2025 with 108 points, the highest score in the state as of June 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "None at the project level; benefit flows to any eligible affordable project in the City.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Designation runs on HCD's renewal cycle; next renewal due around 2029. Contact Angel Anguiano, (916) 808-5519.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Relevant to layering: AHSC and IIG applications for City sites score Prohousing points that unincorporated-county and most other Sacramento-area cities (Elk Grove, Rancho Cordova, Citrus Heights, Folsom were not confirmed as designated this pass) do not get. Check HCD's designated-jurisdictions tracker before assuming points for a non-City site.",
+      "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/Prohousing",
+      "record_id": "2642daea93",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check Nov 8, 2026: City page confirms first designation Feb 10, 2022, renewal Dec 23, 2025 with 108 points (highest in state as of June 2026), listed program benefits, PIP eligibility and staff contact. The 2029 renewal estimate is not stated on the page. prevailing_wage_trigger false has no cited rule; a designation funds nothing directly, so wage obligations come from the funding programs used.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Elk Grove",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "City of Elk Grove Affordable Housing Fund and Affordable Housing Impact Fee (Municipal Code Chapters 16.88 and 16.89)",
+      "administering_agency": "City of Elk Grove Housing and Public Services Division (fund and RFPs); Finance Department (fee collection)",
+      "funding_type": "loan",
+      "typical_award_size": "Fee-funded local gap loan fund. Current (2025) fees per the 2026 EPS nexus study: $6,396 per single or two-unit dwelling and $3,837 per multi-unit dwelling; nonresidential $1.05 commercial/retail, $3.11 hotel, $1.19 manufacturing, $1.28 warehouse and $0.00 office per square foot, indexed annually. Staff recommended (Sept 23, 2026 hearing) converting to per square foot: $3.59 single-unit, $3.29 owner-occupied multi-unit, $1.46 renter-occupied multi-unit, plus commercial $2.15 shopping center, $2.29 office, $0.39 industrial, $1,146.75 per hotel room and other categories (maximums supportable were $47.80, $43.80 and $19.50 per square foot). The City releases an RFP when the fund balance can support a project (generally about $5 million); the City reports $84 million lent to sixteen projects since inception (developer page, not opened this pass).",
+      "per_unit_cap": "None published; set in each RFP and loan agreement.",
+      "affordability_requirement": "Fund restricted to housing for low and very low income households (HCD limits); 2026 update would also allow a local preference for City-based workers where fair housing law permits. Density bonus affordable units are exempt from the residential fee (Zoning Code 23.50.080).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open RFP found as of 2026-11-08; watch elkgrove.gov/affordable-housing/developers and the City's purchasing RFP page. Outcome of the September 23, 2026 fee update hearing (ordinance amending 16.88 and 16.89 and a fee resolution) was not confirmed; contact Joshua Tovar, Management Analyst II, jtovar@elkgrove.gov, or the Housing and Public Services Division, (916) 683-7111.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Elk Grove is an impact-fee jurisdiction (like the City and County of Sacramento) with no inclusionary option, so market-rate rental projects pay the fee rather than build units; the 2026 renter-occupied rate was deliberately set low ($1.46 per square foot recommended) because the nexus study found multifamily infeasible at higher fees. Elk Grove is outside the SHRA lending area (SHRA finances in other cities only under cooperation agreements), so this fund, state sources and Elk Grove's own PLHA are the local layer. Past RFPs tied fund loans to City-owned sites (Sheldon Farms North and Old Town, 2023). elkgrove.gov and codepublishing.com return 403 to automated access; facts here come from the City's Sept 23, 2026 public hearing notice and the June 2026 EPS nexus study PDFs on elkgrove.gov.",
+      "source_url": "https://elkgrove.gov/sites/default/files/city-files/city-government/city-council/council-meetings/public-hearing-notices/09-23-26-affordable-housing-fee-2026-nexus-update-08-21-26-and-08-28-26.pdf",
+      "record_id": "8fd8dede09",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Elk Grove",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "verified",
+      "program_name": "Density bonus and developer incentives (Elk Grove Municipal Code Chapter 23.50) and streamlined housing approvals (Chapter 23.17)",
+      "administering_agency": "City of Elk Grove Development Services, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus law implemented in Chapter 23.50 (eligibility at 10% lower income, 5% very low income, senior, 10% moderate for-sale, special needs, 100% affordable), one bonus with concessions per Government Code 65915; Section 23.50.080 (Ord. 12-2022) exempts affordable units built under the chapter from the Chapter 16.88 affordable housing fee. Chapter 23.17 provides ministerial streamlined approvals for infill affordable projects, affordable housing in commercial zones, mixed-income projects along commercial corridors, middle-class housing, adaptive reuse, faith and higher-education land, and urban subdivisions (titles confirmed; detailed standards not read this pass).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Per state law; fee exemption applies only to the deed-restricted affordable units.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling at entitlement.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement beyond state minimums identified. The fee exemption in 23.50.080 is the useful local layer: a density bonus project avoids the per-unit affordable housing fee on its affordable units, and the 2026 fee update proposed keeping the renter multi-unit fee low. Elk Grove adopted its Chapter 23.17 streamlining menu in response to the 2021-2029 Housing Element.",
+      "source_url": "https://www.zoneomics.com/code/elk-grove-CA/chapter_4",
+      "record_id": "bea0256433",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income projects",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rancho Cordova",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sacramento",
+      "confidence": "needs_confirmation",
+      "program_name": "Rancho Cordova Housing Trust Development Impact Fee (Municipal Code Chapter 16.89) and city affordable housing gap financing",
+      "administering_agency": "City of Rancho Cordova Housing Division (Community Development)",
+      "funding_type": "loan",
+      "typical_award_size": "Not verified this pass. Rancho Cordova levies a housing trust development impact fee on nonresidential development (Chapter 16.89, confirmed by title in search results and by Sacramento County's Housing Trust Fund page listing Rancho Cordova among five cities with similar fees). Current rates, fund balance and loan terms unknown. The City's PLHA plan directs 100% of its PLHA allocation to gap financing for new affordable and permanent supportive housing (search snippet, document not opened).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Unknown; expected low and very low income per nexus.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "cityofranchocordova.org and codepublishing.com return 403 to automated access and the City's Legistar instance has no public API, so this record is a placeholder. Rancho Cordova is in the Sacramento County HOME Consortium (SHRA-administered) and is a CDBG entitlement city that runs an annual CDBG NOFA (a 2026 CDBG NOFA workshop was listed on the City's housing page per search results). Recent City-supported deals include Mather Veterans Village Phase 4 and The Liora (ministerial design review 2026). Confirm fee schedule, fund balance and any NOFA with the Housing Division via the City's main line (916) 851-8700.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/rancho-cordova-6th-draft032421.pdf",
+      "record_id": "f0fe655a96",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "City sites (cityofranchocordova.org) and codepublishing return 403. The HCD-hosted 2021-2029 Housing Element draft confirms a Housing Trust Development Impact Fee on non-residential development funding a Local Housing Trust Fund, which also receives in-lieu fees and land from Affordable Housing Plans (Actions H.1.5.3, H.5.1.1, H.5.4.1), but gives no rates, balance or loan terms. The ecode360 Chapter 16.89 page found is Sacramento County Code, so the Rancho Cordova chapter number is unconfirmed. PLHA 100% gap financing is still from a search snippet only.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance (Chapter 21.03 Affordable Housing Regulations) and in-lieu fee",
+      "administering_agency": "San Benito County Resource Management Agency, Planning and Building (sbcplan@sanbenitocountyca.gov, (831) 637-5313)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement rather than a subsidy: 15% of units affordable on site (for-sale and rental) or 20% off site under Sections 21.03.006 and 21.03.007; developments of 1 to 5 units exempt, 6 to 10 units pay the in-lieu fee automatically, 11 or more units build on or off site and pay the fee on fractions below 0.7 unit. In-lieu fee adopted December 13, 2022 (Ordinance 1052, Resolution 2022-149): $30 per square foot for for-sale homes based on the 15% requirement (Vernazza Wolfe affordability gap study). Before 2022 developers paid a negotiated $4,500 per unit through development agreements (Sunnyside Estates). Example compliance: Lands of Lee subdivision affordable housing plan approved September 15, 2026 under Resolution 2024-146 (about 30 affordable units, 21% of the project).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Very low (50% AMI), low (80% AMI) and moderate (120% AMI) income units per Section 21.03.003; off-site rental projects of 24 or more lots carry an updated income breakdown (Ordinance 1059, September 12, 2023); affordable housing plans are approved by the Planning Commission and Board (Housing Advisory Committee dissolved 2023).",
+      "eligible_project_types": [
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies with each land use entitlement; no application deadline.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. For an affordable developer the ordinance matters in two ways: market-rate projects in the Hollister fringe (Santana Ranch, Lands of Lee, builder's remedy filings) must deliver or fund affordable units, and Section 21.03.008(F) lets them satisfy the obligation by donating land or subsidizing a nonprofit rental project, which is the County's only recurring local capital source. In-lieu fees go to an affordable housing fund (see separate record). Source is the December 13, 2022 Board packet adopting the amendments and fee; current code text is on codelibrary.amlegal.com (blocked to automated access).",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/6404819104d9eef39ad033a9e4860b430.pdf",
+      "record_id": "7a3977ed7d",
+      "cycle_notes": "Rolling: the inclusionary obligation is set through the affordable housing plan reviewed with each entitlement. The Board's Housing Policy Reform Ad Hoc Committee (formed February 11, 2025) has reviewed Chapter 21.03 but no 2025 or 2026 amendment was found in Board agendas. In-lieu payments qualify only where sites are on septic or wells, zoned for large lots, or more than 10 miles from an incorporated city.",
+      "eligible_project_detail": [
+        "market-rate subdivisions and multifamily projects of 6 or more units in unincorporated San Benito County",
+        "off-site affordable rental projects built to satisfy another developer's obligation",
+        "land donation or subsidy to nonprofit developers as alternative compliance (Section 21.03.008(F))"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Tier 4 spot check: December 13, 2022 transmittal and Attachment A (clean Chapter 21.03) confirm 15% on-site and 20% off-site, 1 to 5 exempt, 6 to 10 in-lieu, 0.7 fraction rule, $30 per square foot for-sale fee, $4,500 per unit historical fee, and AMI tiers (rental very low/low/moderate, for-sale low/moderate only). Committee date moved from next_deadline to cycle_notes because the script read it as a past deadline. prevailing_wage_trigger false is uncited; a regulatory requirement pays no public funds, but no rule was opened to cite (california.public.law returned 403). Later items (Ordinance 1059, Lands of Lee) were not re-checked in this pass.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "needs_confirmation",
+      "program_name": "Affordable housing in-lieu fee fund and impact fee waivers for 100% affordable developments",
+      "administering_agency": "San Benito County Resource Management Agency, Planning and Building; County Executive Office (impact fee program)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Chapter 21.03 amendments (Ordinance 1052) were heard December 13, 2022, continued, and approved January 17, 2023 with Resolution 2023-02 adopting a $30 per square foot inclusionary in-lieu fee for for-sale homes (fractional units and 6 to 10 unit projects). The amended Section 21.03.012 allows in-lieu fees to fund an affordable housing trust or to reimburse the County for impact fee waivers granted to 100% affordable developments. The Board directed staff to return in three months to revisit the 15% floor and the in-lieu fee. Fund balance and any waiver approvals are not published. Before 2023, developers voluntarily paid $4,500 per unit under development agreements.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Waiver reimbursement applies only to 100% affordable developments; trust fund uses follow Chapter 21.03.",
+      "eligible_project_types": [
+        "new construction",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Request an impact fee waiver with the entitlement application and confirm the in-lieu fund balance with Planning and Building; the County has not issued a housing fund NOFA.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. Confirmation needed: the ordinance language creating the waiver reimbursement was read in the 2022 Board packet, but the current code text, the fund balance and any adopted waiver procedure could not be opened (sanbenitocountyca.gov and amlegal 403). Treat as a negotiable cost reduction for a 100% affordable project rather than a funded program.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/6404819104d9eef39ad033a9e4860b430.pdf",
+      "record_id": "623a7bb988",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "100% affordable rental or ownership developments in unincorporated San Benito County"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Adoption date corrected from December 13, 2022 to January 17, 2023 per Board minutes; current code text, any later amendment from the three-month follow-up, and the fund balance could not be read (sanbenitocountyca.gov and amlegal return 403), so confidence stays needs_confirmation.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Round 6, County allocation and CoC CA-506 share",
+      "administering_agency": "San Benito County Health and Human Services Agency, Community Services and Workforce Development (Enrique Arreola, Deputy Director); Coalition of Homeless Services Providers (Salinas/Monterey, San Benito Counties CoC)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 County application $708,617 (Resolution 2025-67, August 26, 2025; HCD allocation $708,616.98), used for the County homeless shelter (over 100 beds), hotel vouchers for about 40 people and rapid rehousing for about five youth. The CoC allocation of $3,725,577.82 is shared with Monterey County through the Coalition of Homeless Services Providers. Prior rounds: HHAP-1 $308,848.53, HHAP-2 $141,188, HHAP-3 $547,468 (plus a $294,330 CoC HHAP-1 pass-through for rapid rehousing). HHAP-7 preliminary allocations: County $786,253.74, CoC $4,166,944.25.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; 7% administration.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No new HHAP application as of November 8, 2026. HHAP 7 is not a new competition: under HCD's amended HHAP 6 NOFA (amended August 7, 2026) it goes by formula to HHAP 6 grantees (County $786,253.74; CoC CA-506 $4,166,944.25) once the region submits an HHAP 7 Funding Plan and meets the disbursement criteria. Next fixed date: Regionally Coordinated Homelessness Action Plan update due to HCD January 31, 2027. No local competitive process.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. HHAP is the County's only recurring homelessness money and it is fully committed to shelter operations, so it is not a capital or operating source for new PSH; a developer would need to negotiate with the Coalition of Homeless Services Providers for CoC-level funds or PBV referrals. Source is the August 26, 2025 Board packet; HHAP-6 and HHAP-7 figures from HCD allocation tables.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/0e92b0ede73c87f72e1933f2cc13368d0.pdf",
+      "record_id": "2392835390",
+      "cycle_notes": "Formula allocation to the County and the CoC, not a developer-facing NOFA. HHAP 6 applications were due to HCD August 29, 2025. HHAP 7 (FY 2026-27, $900 million appropriated under AB 179) requires no new application; eligibility is met through a regional HHAP 7 Funding Plan, Action Plan key action updates, housing element compliance and an encampment policy. HCD's HHAP page shows the application window closed. HHAP 7 initial disbursement must be spent by December 31, 2032 and the second disbursement by December 31, 2033.",
+      "eligible_project_detail": [
+        "shelter operations",
+        "hotel vouchers and interim housing",
+        "rapid rehousing and rental assistance",
+        "permanent housing operating support (eligible but not used locally)"
+      ],
+      "next_deadline_date": "2027-01-31",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County formula allocation and city pass-throughs",
+      "administering_agency": "San Benito County (County Executive Office and Health and Human Services Agency); cities of Hollister and San Juan Bautista hold their own allocations",
+      "funding_type": "grant",
+      "typical_award_size": "HCD formula allocation to the County: $121,170 (2024) and $132,810 (2025), estimated $757,313 for the 2024-2028 five-year plan. The City of San Juan Bautista's 2019-2025 plan ($455,999) passes its 2019 allocation of $75,999 to the County for homeless outreach and case management under an MOU renewed March 24, 2026 (runs to June 2030). Hollister's larger PLHA allocation funds city programs (Pass 3).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "PLHA guidelines define eligible households as extremely low (30% AMI), very low, low (80% AMI) and moderate income (up to 120% AMI; San Benito is not listed as a high-cost county), with plan activities required to prioritize households at or below 60% AMI; the County's own five-year plan activities were not located.",
+      "eligible_project_types": [
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No County NOFA. Confirm the County's 2024-2028 PLHA plan activities with the County Executive Office; allocations this small are typically spent on services.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. Confirmation needed: the County's own PLHA five-year plan and its use of the 2024 and 2025 allocations were not found in the 2026 Board agendas (the 'Resolution 2026-06 Adopt PLHA Plan' attachment on the March 24, 2026 item is the City of San Juan Bautista's resolution). At roughly $125,000 a year the County allocation cannot anchor a development loan. Source is the March 24, 2026 Board packet; allocation figures from HCD's 2024-2028 PLHA NOFA tables.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/daef4c73c9454000afcc9f14f32d41c30.pdf",
+      "record_id": "ef0f72017c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "homeless services and case management (current use)",
+        "affordable rental development or predevelopment (eligible but not programmed)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "County surplus land under the Surplus Land Act (5292 Fairview Road, Hollister)",
+      "administering_agency": "San Benito County Executive Office (Esperanza Colio Warren)",
+      "funding_type": "land",
+      "typical_award_size": "Resolution 2026-87 (June 30, 2026) declared the 2.85-acre Rosa Morada property at 5292 Fairview Road (APN 017-130-004) surplus and directed a Surplus Land Act Notice of Availability; April 2026 appraisal $592,000 as is; former preschool, Agricultural Productive zoning, FEMA Zone A, airport influence area, well and septic. Affordable housing sponsors get the statutory 60-day notice and 90-day negotiation priority.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Surplus Land Act: a housing developer taking the site must restrict at least 25% of units to lower-income households for 55 years, or 100% if the agency negotiates with a single affordable sponsor.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "farmworker housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No open response window as of November 8, 2026. The Board declared the site surplus June 30, 2026 (Resolution 2026-87) and directed a Notice of Availability; on October 27, 2026 the Board met in closed session on real property negotiations for the transfer, exchange or sale of the Rosa Morada property. The agenda did not name the negotiating party.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. This is the only County land disposition in the 2026 agendas; the site's agricultural zoning, flood zone and airport constraints make it marginal for multifamily, but it is a signal that the County will run SLA processes rather than direct sales. Source is the June 30, 2026 Board packet.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/ed121051c161985bb6b34360a288ad980.pdf",
+      "record_id": "8669fbe63e",
+      "cycle_notes": "One-time Surplus Land Act disposition, not a recurring program. Notice of Availability gives affordable housing sponsors 60 days to express interest and a 90-day good-faith negotiation period. The October 27, 2026 closed session on price and terms suggests the County has moved to negotiation; confirm status with the County Executive Office before pursuing.",
+      "eligible_project_detail": [
+        "small affordable or farmworker housing site",
+        "rehabilitation of the existing residence"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "pw_citation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Juan Bautista",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance (Zoning Code Chapter 11-09) and affordable housing in-lieu fee account",
+      "administering_agency": "City of San Juan Bautista Planning Department (contract planning staff; City Hall 311 Second Street)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Residential projects of six or more units (the Housing Element describes the rental threshold as five or more) must reserve one affordable unit for every five market-rate units (about 16.7% of base units, calculated before any density bonus) for very low or low income households, for sale or as rentals (Section 11-09-400); fractions may be met with a partial in-lieu fee. In-lieu payment of the whole obligation is allowed only at the City Council's discretion after a Planning Commission recommendation (11-09-500); the per-unit fee formula (11-09-505) is the San Benito County median home sales price for the prior fourth quarter minus the maximum affordable three-bedroom sales price, divided across all project units and paid at building permit. Fees go to a separate interest-bearing account used solely to provide housing opportunities for very low and low income households anywhere in the City (11-09-510). Off-site and joint-venture off-site rental compliance allowed on an infeasibility showing (11-09-600).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Very low (50% AMI) and low (80% AMI) households by San Benito County HUD limits; for-sale and rental reserved units deed restricted for at least 55 years; rental units may not convert to condominiums during the restriction; reserved units must match the design and bedroom and square footage proportions of market units.",
+      "eligible_project_types": [
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; reserved units built before or with market units and in proportion by phase. The 2023-2031 Housing Element (certified by HCD) adds a program to update the inclusionary provisions and notes that most buildable lots fall under the six-unit threshold, so no project has yet triggered the requirement; fee reductions or waivers have been negotiated in development agreements.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The in-lieu account has no reported balance (the ordinance was adopted in 2007 and the Housing Element says the City has no staff or financial resources for a stand-alone housing program), so it is not a realistic gap source. The one-in-five requirement is roughly comparable to San Benito County's 15% on-site standard but with deeper targeting (very low and low only, no moderate). Mixed-use infill in the downtown and gateway districts is the City's moderate-income strategy; exclusively residential new construction on commercial-only Mixed Use parcels is allowed only when 100% affordable, which pairs well with a 100% affordable density bonus project. Layer with San Benito County PLHA (the City passes its own PLHA allocation to the County for homeless services under an MOU), County HHAP and state programs; Housing Authority of the County of Santa Cruz PBVs cover San Benito County. Code text read on the zoneomics mirror.",
+      "source_url": "https://www.zoneomics.com/code/san-juan-bautista-CA/chapter_10",
+      "record_id": "9fcfaf1d6f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate subdivisions and multifamily projects of six or more units (compliance)",
+        "condominium conversions",
+        "off-site affordable rental projects satisfying another developer's obligation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

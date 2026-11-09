@@ -1,0 +1,84 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "HOME Consortium and Urban County CDBG affordable housing development loans (annual HCD RFP)",
+      "administering_agency": "Alameda County Housing and Community Development Department, HOME Consortium lead agency and Urban County CDBG administrator; CDBG 510-670-5971, CDBG@acgov.org",
+      "funding_type": "loan",
+      "typical_award_size": "HCD issues one competitive affordable housing development RFP each fall combining HOME (Consortium CHDO and Urban County shares), remaining Measure A1 and other local funds; applications are due about eight weeks after release with a mandatory bidders conference. HOME Consortium: Alameda, Fremont, Hayward, Livermore, Pleasanton, San Leandro, Union City and the Urban County (all cities except Oakland and Berkeley, which are their own participating jurisdictions); the City of Alameda's FY 2026-27 draft Action Plan reports the Consortium's 2025 HOME allocation as $1,475,257, a figure to confirm with HCD. Urban County CDBG covers the unincorporated area plus Albany, Dublin, Emeryville, Newark and Piedmont, which administer their own shares; the unincorporated CDBG RFP runs December or January with applications due March or April and contracts July 1. State ESG to the County for the CoC: $402,650 (2024). Past procurements: 2023 HOME Capital RFP, 2024 CDBG NOFA (due Jan 19, 2024).",
+      "per_unit_cap": "HOME maximum per-unit subsidy limits (24 CFR 92.250); County loans sized to the gap.",
+      "affordability_requirement": "HOME: households at or below 80% AMI at HOME rents for 55 years under County documents (59-year regulatory agreement standard, 55 allowed for tax credit projects); CDBG: low and moderate income benefit. 15% of Consortium HOME reserved for CHDOs.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Fall 2026 RFP date not posted as of Nov 6, 2026; HCD's funding opportunities page says the RFP is issued each fall. Unincorporated CDBG applications are due March or April 2027 for FY 2027-28.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Federal money is a small share of Alameda County's stack: the Consortium's HOME is a few million dollars a year spread across eight members, so the County's own awards are typically under $1,000,000 and ride on the same fall RFP as Measure A1 and local funds. Davis-Bacon applies to HOME projects with 12 or more assisted units; County loans carry state prevailing wage. HCD also administers HOPWA housing for the Oakland area and runs AC Boost, Renew AC and the AC Housing Secure programs from the same department. The County's own FY 2026-27 Action Plan PDF (47MB Consolidated Plan link) was not opened; figures come from the HCD CDBG page, the funding opportunities page and the City of Alameda's draft plan.",
+      "source_url": "https://www.achcd.org/community-development-block-grant-cdbg/",
+      "record_id": "eb04bd3be6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Alameda County Urban County entitlement",
+      "administering_agency": "Alameda County Housing and Community Development Department (HCD entitlement grantee for the Urban County)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD 2024-2028 Formula Allocation NOFA: Alameda County CY 2024 $655,510, CY 2025 $702,148, five-year estimate $4,096,938; the 2020 entitlement formula amount was $933,865. The County's PLHA Five-Year Plan and the uses of its formula funds were not located on achcd.org.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA statute: rental development for households at or below 80% AMI (workforce up to 120% allowed) with 55-year covenants; 2024 NOFA requires 40% of new funds for affordable owner-occupied workforce housing unless the plan is amended.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD formula allocations arrive annually; ask Alameda County HCD how PLHA is programmed and whether it is folded into the fall development RFP. Oakland, Berkeley, Fremont, Hayward and the other entitlement cities receive their own PLHA (Pass 3).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Under $1,000,000 a year for the Urban County and not visible as a separate developer source; treat as a possible add-on inside the HCD RFP. State funds, so prevailing wage applies. Amounts from the HCD 2024-2028 PLHA formula NOFA (opened this pass); County plan not found.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "7ec03c43d6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Tax-exempt multifamily bonds: County TEFRA approvals for CMFA issuances (County not an issuer)",
+      "administering_agency": "El Dorado County Board of Supervisors (TEFRA host approval, agenda through the Planning and Building Affordable Housing Unit); issuer California Municipal Finance Authority (CMFA), JPA member since October 2014; CSCDA also available",
+      "funding_type": "bond",
+      "typical_award_size": "Project-sized conduit issuances. CMFA TEFRA approved March 10, 2026 for up to $12,000,000 for Diamond Village Apartments II (31 units, 750 Black Rice Road, Placerville area, paired with $3,560,000 of HOME-ARP). CMFA closed $37,800,000 of bonds for SNO Foundation and Kingdom Development in El Dorado County in 2026. No County-issued multifamily bonds.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Federal 4% LIHTC and bond rules: at least 20% of units at 50% AMI or 40% at 60% AMI (or income averaging), 55-year CDLAC regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "TEFRA hearings are placed on regular Board agendas with published notice; allow 6 to 8 weeks from request to Board action and align with CDLAC rounds. County receives a share of the CMFA issuance fee for its Affordable Housing Trust Fund.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The County has no bond program of its own and does not take financial risk on conduit issues, so the TEFRA approval is procedural. Staff reports are prepared by the Affordable Housing Unit, which is stretched; submit the TEFRA request package early. Diamond Village II is the current template for an unincorporated El Dorado 4% deal: SB 35 ministerial approval, CMFA bonds, HOME-ARP from the state, TIF offset for the affordable units, and PBVs through the County PHA for the NPLH or homeless set-aside units. Private activity bonds alone do not trigger state prevailing wage, but tax credits plus state funds in the same deal usually do.",
+      "source_url": "https://eldorado.legistar.com/LegislationDetail.aspx?ID=39922&GUID=053DC3F5-D26C-4E77-9729-7F71D94BADDA&Options=&Search=&FullText=1",
+      "record_id": "8226870290",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Placerville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Development impact fee deferral for affordable projects (SB 937 implementation, Housing Element Program C-5), ADU impact fee reductions, and Statewide Community Infrastructure Program (SCIP) impact fee financing (Program C-7)",
+      "administering_agency": "City of Placerville Development Services Department (Planning and Building Divisions) and Finance; SCIP bonds issued by California Statewide Communities Development Authority (CSCDA)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Timing relief, not a reduction, for multifamily: the City reports it implemented fee deferrals under SB 937 in 2025 so impact fees on qualifying affordable projects are collected at certificate of occupancy rather than permit issuance. Housing Element Program C-5 also offers deferment to completion or occupancy, payment over 12 months or longer after completion, or fee reductions where the applicant documents lower facility demand. Impact fee reductions (water, sewer, traffic impact mitigation, park fees) have been implemented only for ADUs and JADUs consistent with state law. SCIP lets a developer finance City impact fees and public improvements through tax-exempt CSCDA bonds repaid by a special assessment on the parcel; the City intends to offer it for all projects, especially housing, but no development had used SCIP as of the 2023 and 2025 progress reports. No general fee waiver for affordable housing exists.",
+      "per_unit_cap": null,
+      "affordability_requirement": "SB 937 deferral applies to projects meeting the statute's affordability definitions (generally 100% affordable or qualifying mixed-income projects); Program C-5 options are for affordable housing providers. SCIP has no affordability requirement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request deferral at building permit; SCIP participation requires a City resolution and CSCDA application ahead of permit issuance. Confirm the current fee schedule and deferral form with the Building Division.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Placerville levies its own traffic impact mitigation, park and utility fees, so the El Dorado County Traffic Impact Fee offset (Board Policy B-14) does not apply to city projects; deferral is the only local fee tool. SCIP assessment financing of impact fees is senior to other liens and must be cleared with TCAC and permanent lenders. Pair with the HO overlay by-right sites and City-sponsored CDBG, PLHA and HOME loans (separate records). Sources read: the March 24, 2026 City Council staff report accepting the 2025 Housing Element Annual Progress Report (SB 937 deferral statement), the City's Housing Resources page describing SCIP (updated March 4, 2025) and Programs C-5 and C-7 of the 2021-2029 Housing Element.",
+      "source_url": "https://www.cityofplacerville.org/media/City%20Council%20Staff%20Reports/2026/03%2024%202026/12.3_SR%202025%20Housing%20Element%20APR%20(CK,DW-Fully%20Executed).pdf",
+      "record_id": "8681173b00",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adu",
+        "self-help housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

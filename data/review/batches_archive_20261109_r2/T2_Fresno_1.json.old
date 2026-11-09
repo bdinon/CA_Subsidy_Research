@@ -1,0 +1,352 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Development NOFO (HOME, HOME-CHDO, HOME-ARP and PLHA combined annual round)",
+      "administering_agency": "Fresno County Department of Public Works and Planning, Community Development Division (ComDev@fresnocountyca.gov, (559) 600-4292)",
+      "funding_type": "loan",
+      "typical_award_size": "The February 19, 2025 NOFO offered about $15,534,572 across PLHA, HOME, HOME-CHDO and HOME-ARP; all five applications were reserved: Cherry Crossing II, Sanger (64 units, Self-Help Enterprises), Reedley Elderly and Selma Elderly (Self-Help, $2,000,000 HOME-CHDO each for 11 assisted units, $181,818 per unit), Sanger Modular now Sendero Commons (UPholdings and RH Community Builders) and Park Kingsburg (Horizon ELOM, $2,000,000). The 2026-27 Action Plan reserves $5,018,870 of HOME for projects selected under the 2026 NOFO. Historic County awards were capped at $1,000,000; the 2025 NOFO raised the recommended maximum to $2,000,000 per project with justified requests above that considered.",
+      "per_unit_cap": "Recommended maximum $2,000,000 gap per project (not a hard cap); HUD HOME maximum per-unit subsidy limits apply (2024: $181,488 0-bedroom to $252,994 2-bedroom and up).",
+      "affordability_requirement": "HOME 20-year federal affordability (County loan terms typically 55 years; Reedley and Selma Heritage: 15-year HOME affordability on 11 units, loan repaid by March 31, 2083); PLHA 55 years with half the PLHA units at 60% AMI and half at 80% AMI; HOME-ARP qualifying populations.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "farmworker housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2025 cycle: NOFO released February 19, 2025, Round 1 applications due March 6, 2025 (timed to CTCAC 9% Round 1), reservation letters by March 12, 2025, then ongoing applications reopened March 14, 2025 while funds remained. A 2026 NOFO ran on the same calendar with awards identified before July 21, 2026. Expect the 2027 NOFO in January or February 2027 with a late February or early March deadline ahead of CTCAC 9% Round 1.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. This is the County's only standing capital program and it is explicitly sized as gap money for 9% tax credit deals: 0% or 3% simple interest at the applicant's election, repayment deferred to maturity or as residual receipts (recent deals 50/50 split), non-recourse, subordinate to senior debt, loan term at least through the affordability period, and HOME may be converted to a grant by Board action. Eligible locations are the Urban County only: Fowler, Kerman, Kingsburg, Mendota, Orange Cove, Reedley, Sanger, Selma and unincorporated areas including County islands inside Fresno and Clovis; projects inside the cities of Fresno and Clovis are ineligible. Davis-Bacon applies at 12 or more HOME-assisted units and state prevailing wage applies to PLHA. Reservation letters are written to support CTCAC applications; final agreements require NEPA, subsidy layering review and Board approval and typically land 8 to 12 months after reservation. Source is the NOFO page with the 2025 NOFO PDF and reservation letters; the Reedley and Selma Heritage agreements are at fresnocounty.legistar.com (files 26-0593 and 26-0069, June 30, 2026).",
+      "source_url": "https://www.fresnocountyca.gov/Departments/Public-Works-and-Planning/divisions-of-public-works-and-planning/community-development-division/Affordable-Housing-Development-Program-%E2%80%93-Notice-of-Funding-Opportunity",
+      "record_id": "62a6b8f32d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily new construction",
+        "substantial rehabilitation and preservation",
+        "conversion",
+        "single-family affordable development",
+        "CHDO-sponsored projects",
+        "farmworker and mobile home housing (priority)"
+      ],
+      "next_deadline_date": "2026-07-21",
+      "deadline_check": "past_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County formula allocation and PLHA development loans",
+      "administering_agency": "Fresno County Department of Public Works and Planning, Community Development Division",
+      "funding_type": "loan",
+      "typical_award_size": "HCD formula allocations: $1,643,348 (2019), $2,554,272 (2020), $2,810,897 (2021), estimated five-year 2019-2023 total $9,860,088; 2024-2028 plan estimated $7,209,494 with $1,153,519 (2024) and $1,235,588 (2025). Cycle One Year Three funds of $2,670,353 were committed by resolution on February 10, 2026 to Cherry Crossing II in Sanger (64 units, Self-Help Enterprises) after the Sanger Modular project missed a November 1, 2025 commitment deadline; Sendero Commons carries a replacement PLHA reservation of $2,364,219. The County retains 5% ($140,544 of Year Three) for administration.",
+      "per_unit_cap": "Not published; whole-year allocations of about $2.4 million to $2.7 million go to one project.",
+      "affordability_requirement": "55-year affordability; the County's PLHA plan targets households to 80% AMI with half the PLHA-assisted units at or below 60% AMI and half at or below 80% AMI (new construction or rehabilitation of multifamily rental).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PLHA is offered through the combined Affordable Housing Development NOFO (January to March each year). HCD commitment deadlines drive timing: Year Three had to be committed by April 30, 2026 or revert to the state Multifamily Housing Program.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. PLHA is the County's largest non-federal source and is conditional on HCD review (allow at least 45 days after County approval). The County has concentrated each year's allocation on a single tax credit project in a JPA city (Sanger twice); it is paired with a HOME or HOME-CHDO loan at 0% or 3% simple and 55-year covenants. Source is the February 10, 2026 Board resolution (file 25-1504); allocation figures from the County's PLHA standard agreement (fresno-county-plha-agreement.pdf) and HCD's 2024-2028 PLHA NOFA tables.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=77181&GUID=D6D23411-4846-4C95-8274-C95360065D4F",
+      "record_id": "d427ef2bcc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental new construction",
+        "multifamily rehabilitation"
+      ],
+      "next_deadline_date": "2026-04-30",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Homekey+ and No Place Like Home co-applications sponsored by the County (Sendero Commons, Davu Village)",
+      "administering_agency": "Fresno County Department of Behavioral Health with the County Administrative Office; development partners UPholdings and RH Community Builders, and Fresno Housing",
+      "funding_type": "grant",
+      "typical_award_size": "Sendero Commons, Sanger (88 units, 87 PSH at 30% AMI, 45 veteran units; total development cost $54,007,788): Homekey+ $29,853,131 ($26,295,016 capital, $3,558,115 operating; award notice March 20, 2026, standard agreement approved October 20, 2026), NPLH Round 4 $18,147,660 ($10,000,038 capital, $8,147,660 operating, transferred from the failed Libre Commons project), HHIP $530,000, local contributions $5,476,959 (County HOME-ARP $2,500,000 and PLHA $2,364,219). County committed 20 years of supportive services ($10,241,756) and a 20-year rental subsidy on 42 units through Transitional Rent and BHSA ($15,314,934). The County also co-applied with Fresno Housing for Davu Village (former Parkside Inn, 1415 W. Olive Avenue, Fresno; total cost $22,362,000; resolution up to $35,000,000, April 3, 2025 application).",
+      "per_unit_cap": "Homekey+ and NPLH per-unit limits set by HCD.",
+      "affordability_requirement": "Homekey+ and NPLH: all assisted units for households with serious mental illness or behavioral health needs experiencing or at risk of homelessness, 30% AMI, Coordinated Entry referrals, 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Homekey+ applications are accepted by HCD over the counter while funds last; the County selected its co-applicants through Behavioral Health MOUs approved February 11, 2025 (RH Community Builders and Fresno Housing). A developer seeking County sponsorship should approach Behavioral Health and the Office of Housing and Homelessness with a site and a services plan.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. The County's role is co-applicant, services provider and rental subsidy source rather than capital lender; the capital stack at Sendero Commons is state money (Homekey+ and NPLH, about 67% of cost) plus County HOME-ARP and PLHA. NPLH Round 4 money was reallocated once already, so timing of state agreements has run three to five years behind initial awards. Source is the October 20, 2026 Board item (file 26-0992).",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=78181&GUID=2D0CCF41-0D9A-4DF6-A269-F6AB899B5FF1",
+      "record_id": "58f9e2e634",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing new construction",
+        "motel conversion to PSH"
+      ],
+      "next_deadline_date": "2025-02-11",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Development and Substantial Rehabilitation NOFA (HOME, HOME-CHDO and HOME-ARP), City of Fresno PY 2026-2027",
+      "administering_agency": "City of Fresno Planning and Development Department, Housing and Community Development Division (Housing Finance)",
+      "funding_type": "loan",
+      "typical_award_size": "PY 2026-27 Annual Action Plan programs $2,804,486.73 HOME for affordable development or rehab (entitlement $2,766,057.28 plus $500,000 program income and $229,944 prior year) and a $414,909 HOME CHDO set-aside. Recent awards: $3,000,000 HOME to Sarah's Court II (120 units, 11 HOME units, January 2026). City HOME-ARP allocation was $11.9 million (HOME-ARP supportive services NOFA closed April 13, 2026). Five-year Con Plan years 3 to 5 HOME estimate $8.3 million.",
+      "per_unit_cap": "HUD HOME maximum per-unit subsidy limits apply; no separate City cap published.",
+      "affordability_requirement": "HOME rents and incomes (at or below 80% AMI, with HOME rent limits on assisted units); 55-year City regulatory agreement typical for rental loans; priority for projects in areas of opportunity.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026-2027 AHD NOFA (PlanetBids No. 2026/12602307) closed August 31, 2026. Next round expected mid-2027 after the PY 2027 Action Plan; verify with HCDD at (559) 621-8300 or HCDD@fresno.gov.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "City of Fresno is its own HUD entitlement (CDBG $6.9M, HOME $2.77M, ESG $624K, HOPWA $1.27M in PY 2026) and is not part of the Fresno Urban County, so City projects do not compete in the County HOME/PLHA NOFO and vice versa. The AHD NOFA is separate from the Consolidated NOFA (CDBG, ESG, HOPWA public services and infrastructure, due January 23, 2026). City HOME is usually layered with City PLHA, LHTF and Housing Successor funds and with 4% or 9% LIHTC; HOME triggers Davis-Bacon at 12 or more assisted units and federal NEPA review before choice-limiting actions. Fresno Housing (county record) PBVs and bonds stack on top. The PlanetBids NOFA document itself could not be opened by script; figures come from the City HCD page and the PY 2026-27 Annual Action Plan.",
+      "source_url": "https://www.fresno.gov/planning/housing-community-development/",
+      "record_id": "c254cd9aed",
+      "cycle_notes": "summer, posted on PlanetBids",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-08-31",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "City of Fresno Local Housing Trust Fund (LHTF), Resolution 2021-201 and Revised Program Guidelines 02",
+      "administering_agency": "City of Fresno Planning and Development Department, Housing Finance Division",
+      "funding_type": "loan",
+      "typical_award_size": "Dedicated $1,500,000 per year from the City Real Estate Transfer Tax, plus General Fund contributions, Prohousing Incentive Pilot Round 1 ($2,064,891) and State LHTF matching grants (about $8.5 million received to date, including $1,797,373 appropriated January 2026). Recent loans: $5,000,000 Cesar Chavez Apartments (54 units, 2024 commitment) and $3,727,000 The Park at South Stadium (15 LHTF units of 174, approved June 18, 2026; includes $156,800 Housing Successor funds). City applied for PIP Round 4 (up to $2,000,000) to recapitalize the fund.",
+      "per_unit_cap": "None published; South Stadium works out to about $248,000 per LHTF-restricted unit.",
+      "affordability_requirement": "Local funds (Guidelines 02) serve households at or below 80% AMI (State match dollars follow State LHTF rules, with at least 30% to extremely low income); 55-year affordability covenants on rental loans. Eviction Protection Program uses are exempt from income verification since July 1, 2025.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "LHTF Multi-Family New Construction Affordable Rental Housing NOFA (PlanetBids No. 12601837) released April 24, 2026 and closed May 25, 2026. Next NOFA depends on the FY 2027 transfer-tax allocation and any PIP Round 4 award; verify with Housing@fresno.gov.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "One of the few city-controlled flexible local sources in the Central Valley. Loans are 3% simple interest, 55-year, residual receipts, and accept third or fourth lien position behind construction/permanent debt and other public loans, so they fit as gap under 4% LIHTC and tax-exempt bonds. Guidelines 02 were rewritten in 2025 (Resolution 2025-270) and a technical amendment in April 2026 restored multifamily new construction as eligible after it was inadvertently dropped; check the current guidelines before applying. Competes for the same transfer-tax dollars as the Eviction Protection Program. County has no equivalent trust fund (see Fresno County PLHA and HOME records).",
+      "source_url": "https://agendas.fresno.gov/en/legislation/id-26-146-20843",
+      "record_id": "1f8b2d6405",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-05-25",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), City of Fresno 2024-2028 Five-Year Plan and PLHA development loans",
+      "administering_agency": "City of Fresno Planning and Development Department, Housing Finance Division",
+      "funding_type": "loan",
+      "typical_award_size": "Estimated $14,949,413 over 2024-2028 (first allocation $2,391,906, second $2,562,083). 45% of each year to multifamily rental development, 50% to owner-occupied rehab and down payment assistance, 5% admin. Recent award: $1,600,000 PLHA to Helm Lofts (9 restricted units of 98, conditional award February 9, 2026).",
+      "per_unit_cap": "None published; Helm Lofts was about $178,000 per restricted unit.",
+      "affordability_requirement": "Rental activity up to 120% AMI under State rules, with a portion of units reserved at or below 60% AMI; 55-year regulatory agreement; loans are low-interest deferred (Helm Lofts: 3% simple, 55-year term).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Last PLHA NOFA ran August 1 to August 29, 2025. The draft 2024-2028 plan had public comment September 21 to October 10, 2026 and a hearing November 5, 2026; Council adoption and the next PLHA NOFA (possibly folded into the AHD NOFA) are pending. Verify with Housing@fresno.gov.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Separate from the Fresno County PLHA (county record covers the unincorporated area and participating cities, not the City of Fresno). The City plan devotes only 45% to rentals, so expect roughly $1.1M per year available for multifamily. PLHA is used as soft gap alongside City HOME and LHTF and with LIHTC; it was also paired with the market-rate-oriented Revolving Loan Fund on Helm Lofts. State PLHA funds count as public funds for prevailing wage purposes.",
+      "source_url": "https://www.fresno.gov/wp-content/uploads/2026/10/Draft-2024-to-2028-PLHA-5-Year-Plan-Document-10w1852.pdf",
+      "record_id": "bbcba8fedc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": "2026-11-05",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Housing Successor to the Redevelopment Agency of the City of Fresno, Low and Moderate Income Housing Asset Fund (LMIHAF) program income and FHS-owned sites",
+      "administering_agency": "City of Fresno in its capacity as Housing Successor (FHS) and Fresno Revitalization Corporation",
+      "funding_type": "loan",
+      "typical_award_size": "FY 2026-27 budget $4,188,073 (carryover $4,138,073 plus about $50,000 program income); unencumbered and available for development $2,523,599, all restricted to units at or below 30% AMI because FHS exceeded the 20% cap for 60-80% AMI. LMIHAF assets under management $28.9 million; FY 2024-25 ending balance $6,856,360. Historic per-unit contributions range from about $25,000 to $331,000; recent uses include Heritage Estates ($1.2M), B Street ($836,200 encumbered) and 33 E Atchison ($275,000).",
+      "per_unit_cap": null,
+      "affordability_requirement": "HSC 34176.1: at least 30% of funds for extremely low income (30% AMI) rentals, no more than 20% for 60-80% AMI, remainder at or below 60% AMI; 55-year covenants for rentals.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standalone NOFA. Funds and FHS-owned parcels (for example Fulton Street, Chinatown sites) are committed through City NOFAs, RFPs and disposition agreements; FY 2026-27 budget approved June 11, 2026. Contact the Housing Successor (Marlene Murphey, Executive Director).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small cash pool but useful for deep (30% AMI) targeting and as a match: PLHA allows LMIHAF dollars to be matched into a housing trust account. FHS land is being paired with LHTF, RLF and PRO Housing applications in Downtown and Chinatown (South Stadium used $156,800 FHS plus FHS parcels at 829 and 835 Fulton). Excess surplus test is met (unencumbered $4.08M versus $6.24M threshold at FY 2024-25), so there is no pressure to transfer funds to HCD.",
+      "source_url": "https://agendas.fresno.gov/en/legislation/id-26-752-21456",
+      "record_id": "4b806acc58",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-06-11",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Infill Incentive Program development impact fee waiver (FMC Article 12-4.16, Ordinance 2021-029) and Residential BUILD Act waivers",
+      "administering_agency": "City of Fresno Public Works Department (Traffic and Land Planning), with City Manager approval",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Waives City park, police, fire and street facilities impact fees and reimburses up to 50% of curb, gutter and sidewalk costs. Backfilled from the City budget, first come first served. Cumulative waivers since 2014: $10.19 million across programs ($3.62M Infill Incentive, $659K Residential BUILD). FY 2025 waivers totaled only $45,825 (five single-family homes).",
+      "per_unit_cap": "Equal to the waived fee amounts; not a fixed cap.",
+      "affordability_requirement": "None; the waiver is location-based (Infill Opportunity Zone, outside the South Industrial Priority Area, sites up to 6.5 net acres or commercial-to-residential conversions of any size).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "The 2025 application form states the waiver is not valid on building permits issued after June 30, 2026 and only when backfill funds exist; extension past that date not confirmed. Verify with Public Works before underwriting.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Market-rate and affordable infill both qualify, so it is not affordable-specific, but it lowers impact fees for downtown and BRT corridor projects that also use the TOD bonus. Applied at certificate of occupancy, not at permit, so the full fee must be carried in the construction budget. Use near zero in FY 2025 suggests limited backfill funding. Fee waivers backfilled with City funds may be public subsidy under Labor Code 1720.",
+      "source_url": "https://agendas.fresno.gov/en/legislation/id-25-1584-20563",
+      "record_id": "17ad4295f7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-06-30",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Clovis",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Clovis Affordable Housing Development Impact Fee Deferral Program (2025-2026 NOFA, Judgment Action Item 6)",
+      "administering_agency": "City of Clovis Affordable Housing Program",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Defers 40% (80% AMI units), 45% (50% AMI) or 50% (30% AMI) of City major facility sewer and water fees per restricted unit, up to 120 affordable units per fiscal year. Deferred amount becomes a 0% residual receipts loan, 17-year term for multifamily (30 years single-family) or as senior lenders require.",
+      "per_unit_cap": "Percentage of each unit's major facility sewer and water fees; no dollar cap.",
+      "affordability_requirement": "Units restricted at or below 80% AMI; recorded development agreement, deed of trust and declaration of restrictions; units must be built after July 1, 2024 and receive certificates of occupancy by December 31, 2031. Units required by MIZO are ineligible.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "2025-26 NOFA dated August 28, 2025 accepts applications year-round until the 120-unit cap is used; a 2026-27 NOFA has not been located. Priority to senior and multifamily projects with site control and entitlements.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Only sewer and water major facility fees are covered; other City impact fees remain due. The residual receipts note sits behind senior and tax credit financing. Clovis states development fees cannot be waived. Pairs with Clovis density bonus and the R-3 density increase to 20 to 30 du/ac.",
+      "source_url": "https://www.clovisca.gov/documents/Services/Affordable Housing/Housing Settlement/City of Clovis - NOFA - Development Impact Fee Deferral Program - August 28 2025.pdf",
+      "record_id": "8bc997e0a1",
+      "cycle_notes": "first come, first served, annual NOFA",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": "2025-08-28",
+      "deadline_check": "past_date",
+      "link_status": "error"
+    }
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Round 6, County and Fresno Madera CoC CA-514",
+      "administering_agency": "Fresno County Administrative Office, Office of Housing and Homelessness (administrative entity for the County and the Fresno Madera Continuum of Care)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 (agreement 25-HHAP-10013 approved June 30, 2026, term to June 30, 2030): County $4,301,909.86 plus CoC $5,246,520.28, combined $9,548,430 administered by the County; 50% ($4,774,215) disbursed up front, balance after 75% obligation and 50% expenditure by June 30, 2027. Administration capped at 7% ($668,390); at least 10% ($954,843) for youth 18 to 24. The City of Fresno receives its own $10,491,196.56 and Madera County $610,483.23 under the shared Regionally Coordinated Homelessness Action Plan (August 5, 2025).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households per HHAP; uses planned are emergency shelter, rental assistance, rural outreach, prevention and diversion, data systems and youth services.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No County HHAP capital NOFA. Subrecipient agreements return to the Board as needed; HHAP-7 planning will run through the Office of Housing and Homelessness and the CoC in 2027.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. The County has not used HHAP for capital; it funds the shelter and services system and provides the 100% match for ESG. For a developer, HHAP matters as a possible operating or rental subsidy source for PSH units referred through Coordinated Entry, negotiated with OHH. Source is the June 30, 2026 Board item (file 26-0639); allocation figures match HCD's HHAP-6 allocation table.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=77828&GUID=F217E85A-6DC8-47AE-BDD9-0A692B4AE258",
+      "record_id": "4b23568239",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "interim housing operations",
+        "rental assistance and rapid rehousing",
+        "street outreach",
+        "prevention",
+        "permanent housing operating support"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Public Facilities Impact Fees suspended countywide (unincorporated Fresno County)",
+      "administering_agency": "Fresno County Department of Public Works and Planning, Development Services and Capital Projects Division",
+      "funding_type": "fee waiver",
+      "typical_award_size": "The County's Public Facilities Impact Fee ordinance has been suspended since 2017: the Board continued the suspension at hearings on October 31, 2017 and October 9, 2018 'until further notice', and the 2025 Housing Element Annual Progress Report (accepted March 17, 2026) states there has been no change. Unincorporated projects therefore pay no County public facilities impact fee; school district, water and sewer district and traffic mitigation fees still apply.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "None; the suspension applies to all development regardless of affordability.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "In effect until the Board acts to reinstate the fee. Confirm current status with Development Services before underwriting, and note that fees in the eight JPA cities are set by each city.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. Fresno County has no affordable housing fee waiver program because it has no public facilities impact fee to waive; this is a cost advantage for unincorporated sites and County islands relative to the City of Fresno (which runs its own affordable housing fee deferral and infill waiver). The County also has no inclusionary ordinance, in-lieu fee, housing trust fund or Measure C housing component (Measure C is a transportation tax; its transit-oriented development program can fund infrastructure near affordable projects). Source is the 2025 Housing Element APR Board file (26-0110), Attachment B program implementation details.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=77296&GUID=3F6232C5-33D6-4BB4-8A59-D0F504DFEFAE",
+      "record_id": "ed087fe355",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "all residential development in unincorporated Fresno County"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Density bonus and affordable housing incentives (Zoning Ordinance Chapter 824.3)",
+      "administering_agency": "Fresno County Department of Public Works and Planning, Development Services and Capital Projects Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus law as adopted in the February 2024 Zoning Ordinance (Chapter 824.3, text current to September 23, 2026): bonuses, reduced parking and incentives or concessions for projects of five or more units with 10% lower income, 5% very low income, senior, 10% moderate for-sale common interest, 10% for transitional foster youth, disabled veterans or homeless persons, 20% lower income student housing, or 100% affordable (up to 20% moderate). The 2025 APR reports the County is amending the ordinance in 2026 to match AB 2694 and other 2024 state law changes.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 affordability levels with 55-year recorded restrictions on bonus-qualifying units.",
+      "eligible_project_types": [
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested with the land use application; Chapter 824.3 amendments expected in 2026 per the Housing Element APR.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. The County applies state law without local enhancements. The 2025 APR also notes 2026 zoning changes to allow supportive housing and SROs ministerially in commercial zones and to implement SB 6 and AB 2011 residential uses in commercial zones, which widen the site pool for affordable projects in unincorporated communities. Source is the chapter text on gocodebook.com (official County code is hosted on ecode360, which blocks automated access).",
+      "source_url": "https://gocodebook.com/library/us/ca/fresno-county-zoning/division-vi/chapter-824.3-affordable-housing-incentives-density-bonus",
+      "record_id": "6def60cb04",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental and for-sale housing of five or more units in unincorporated zones"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  }
+]

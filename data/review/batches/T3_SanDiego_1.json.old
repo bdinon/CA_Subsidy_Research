@@ -1,0 +1,44 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Chula Vista",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Diego",
+      "confidence": "verified",
+      "program_name": "Parkland Acquisition and Development fee exemption for affordable units (Ordinance 3573 amending CVMC 17.10, 2024) and project fee waivers and deferrals for affordable housing",
+      "administering_agency": "City of Chula Vista Development Services Department and Housing and Homeless Services Department; waivers by City Council resolution",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Ordinance 3573 (second reading May 28, 2024) exempts affordable units from Parkland Acquisition and Development (PAD) fees. Council also waives parkland dedication and in-lieu requirements case by case: Resolution 2026-087 (May 19, 2026) for the 96-unit Sol Vista (Enclave Montecito) affordable rental project in Otay Ranch Village 2 and Resolution 2024-060 (April 9, 2024) for the 100 percent affordable Chula Vista Seniors project at 178 Third Avenue. The Housing Element (Program 4.5) describes Council waivers or deferrals of development impact fees for projects with affordable units and a development fee deferral program for infill rental housing west of I-805. PAD fees in Chula Vista run tens of thousands of dollars per unit, so the exemption is a material subsidy.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Deed restricted affordable units; 100 percent affordable projects have received full parkland waivers.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Exemption applies at permit; discretionary waivers go to Council with the project's financing approvals. Confirm the current CVMC 17.10 text and whether other DIFs (transportation, public facilities) can be deferred for a specific project.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Fee relief is the second city layer after Low-Mod and LHTF loans (separate record). Waived City fees may be public funds under Labor Code 1720, so projects usually assume prevailing wage once they also take City or bond financing. County HCDS impact fee waivers (county records) do not apply inside the city. Read on the City's eSCRIBE agenda portal (May 19, 2026 and May 2024 agendas); chulavistaca.gov is blocked to scripts.",
+      "source_url": "https://pub-chulavista.escribemeetings.com/Meeting.aspx?Id=662715ac-708c-4c6b-b604-1a87172b0989&Agenda=Agenda&lang=English",
+      "record_id": "faba720c8d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing",
+        "mixed-income projects (affordable units only)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "Only general rule found: Labor Code 1720(b)(4) treats fees waived or reduced by a political subdivision as payment out of public funds, but the outcome depends on 1720(c) exemptions and project facts (the 1720(c)(3) de minimis test of under $600,000 and under 2 percent of project cost may exempt small waivers; the 1720(c)(5)(E) exemption covers below-market loans, not fee waivers). No City ordinance, resolution or DIR determination on point was found. https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Prevailing wage left unclear: basis is only Labor Code 1720(b)(4) and depends on waiver size and other public funds in the deal.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Public Facilities Impact Fees suspended countywide (unincorporated Fresno County)",
+      "administering_agency": "Fresno County Department of Public Works and Planning, Development Services and Capital Projects Division",
+      "funding_type": "fee waiver",
+      "typical_award_size": "The County's Public Facilities Impact Fee ordinance has been suspended since 2017: the Board continued the suspension at hearings on October 31, 2017 and October 9, 2018 'until further notice', and the 2025 Housing Element Annual Progress Report (accepted March 17, 2026) states there has been no change. Unincorporated projects therefore pay no County public facilities impact fee; school district, water and sewer district and traffic mitigation fees still apply.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "None; the suspension applies to all development regardless of affordability.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "In effect until the Board acts to reinstate the fee. Confirm current status with Development Services before underwriting, and note that fees in the eight JPA cities are set by each city.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. Fresno County has no affordable housing fee waiver program because it has no public facilities impact fee to waive; this is a cost advantage for unincorporated sites and County islands relative to the City of Fresno (which runs its own affordable housing fee deferral and infill waiver). The County also has no inclusionary ordinance, in-lieu fee, housing trust fund or Measure C housing component (Measure C is a transportation tax; its transit-oriented development program can fund infrastructure near affordable projects). Source is the 2025 Housing Element APR Board file (26-0110), Attachment B program implementation details.",
+      "source_url": "https://fresnocounty.legistar.com/LegislationDetail.aspx?ID=77296&GUID=3F6232C5-33D6-4BB4-8A59-D0F504DFEFAE",
+      "record_id": "ed087fe355",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "all residential development in unincorporated Fresno County"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Sanger",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Sanger Density Bonus (Zoning Code Article XXX, Sections 90-1131 to 90-1138, Ordinance 2025-04)",
+      "administering_agency": "City of Sanger Community Development Department (Planning Division)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. Adopted May 15, 2025 to implement Gov. Code 65915; Table 90-1138 tracks State percentages (20% bonus at 5% very low, up to 50% at 15% very low or 24% low income, 80% for 100% affordable). Reviewed concurrently with other entitlements; approved if State law is met.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State thresholds; covenant approved by the City Attorney ensures continued affordability (55 years for rental under State law).",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; applied with entitlements.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Sanger has no local housing trust fund, inclusionary ordinance or in-lieu fund, and no city NOFA. It is a participating city in the Fresno Urban County (HOME, CDBG, HARP, rental rehab and homebuyer programs run by the County), so gap funding comes from County HOME/PLHA and Fresno Housing PBVs (county records). Housing Element Program 7 targets 100 units through density bonuses. Code read on zoneomics; gocodebook returned 403.",
+      "source_url": "https://www.zoneomics.com/code/sanger-CA/chapter_30",
+      "record_id": "f943cdf78d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

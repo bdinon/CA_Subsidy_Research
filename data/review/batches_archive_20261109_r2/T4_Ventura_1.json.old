@@ -1,0 +1,74 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Inclusionary housing program and housing impact mitigation fee (studied, postponed June 9, 2026)",
+      "administering_agency": "Ventura County Resource Management Agency, Planning Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Housing Element program HE-K study by Economic and Planning Systems (funded by REAP 2.0 through the Ventura Council of Governments, September 2025) modeled a 5% moderate-income requirement on for-sale projects and 5% low-income on rentals, and a commercial linkage fee of about $4 per square foot on projects generating more than 30 employees (estimated $1.2 million over seven years). On June 9, 2026 the Board directed staff to postpone any ordinance and revisit the question in the next RHNA cycle (five to eight years), citing 225% achievement of the low-income RHNA target and minimal projected yield (about 30 units in ten years).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Not adopted.",
+      "eligible_project_types": [
+        "other"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No action expected before the 7th cycle Housing Element (2029-2031). Cities with inclusionary programs: Oxnard, Ventura, Moorpark, Thousand Oaks, Santa Paula, Port Hueneme.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. Recorded so the database shows there is no County in-lieu fee or trust fund revenue stream to pursue; the County's stated alternatives are the Prohousing Designation application (2026) and permit streamlining. Source is the Ojai Valley News report on the June 9, 2026 Board decision.",
+      "source_url": "https://www.ojaivalleynews.com/news/county/supervisors-opt-out-of-affordable-housing-program-decisions/article_4db7ed6b-c8cb-408b-b47d-06db22b0cb8a.html",
+      "record_id": "65bad70d2c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "none (no requirement or fee in effect in unincorporated Ventura County)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Thousand Oaks",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Thousand Oaks CDBG entitlement (HOME and PLHA through Ventura County)",
+      "administering_agency": "City of Thousand Oaks Community Development Department",
+      "funding_type": "grant",
+      "typical_award_size": "Annual CDBG entitlement from HUD; current dollar figure not shown on the page opened. The City's CDBG Action Plan has been included in the Ventura County HOME Consortium Action Plan since 2020.",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDBG low and moderate income national objective (80% AMI).",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2027-28 CDBG applications and comments accepted November 2, 2026 through January 13, 2027 at 5:00 p.m.; needs assessment hearing November 2, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Mostly public services and rehabilitation; the County Action Plan states Thousand Oaks' priority is preserving existing affordable units through rehab. HOME and PLHA for Thousand Oaks are administered by the County (see County CDBG/HOME and PLHA records), so new construction gap money comes from the County, not the City. CDBG triggers Davis-Bacon at 8+ units.",
+      "source_url": "https://toaks.gov/cdbg",
+      "record_id": "c3e0077f15",
+      "cycle_notes": "applications Nov 2 to Jan 13",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": "2027-01-13",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Mateo County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), San Mateo County entitlement",
+      "administering_agency": "San Mateo County Department of Housing (HCD entitlement grantee)",
+      "funding_type": "grant",
+      "typical_award_size": "2019-2023 five-year formula estimate $7,257,300 (CY 2021 funds $2,068,889). Calendar year 2022 and 2023 funds of $1,831,715 ($1,036,938 plus $794,777) were authorized Dec 2, 2025 and awarded by HCD in July 2026 after the County's housing element came into compliance; $824,272 is committed through AHF 13 (moved from Laurel Landing to Rotary Gardens on Aug 25, 2026) and the balance is being allocated over the counter. HCD 2024-2028 Formula Allocation NOFA estimates: CY 2024 $849,022, CY 2025 $909,428, five-year $5,306,388.",
+      "per_unit_cap": null,
+      "affordability_requirement": "County PLHA plan funds Activity 1 (rental development for extremely low to moderate income households with 55-year covenants through the AHF process) and Activity 6 (homeless services, shelter and navigation center operations and case management); 2024 HCD rule requires 40% of new funds for affordable owner-occupied workforce housing unless amended.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PLHA is offered through the AHF NOFA, the Winter NOFA and over-the-counter processes as HCD releases each year's funds; CY 2022 and 2023 money must be spent on HCD's deadlines, which drove the Aug 2026 reallocation. Ask DOH whether CY 2024 and 2025 funds will appear in the fall 2027 AHF round.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small and lumpy because HCD withheld San Mateo's PLHA for several years over housing element compliance; the County treats it as a swap source inside AHF awards (PLHA to the project closing soonest, Measure K to the slower one). State funds trigger prevailing wage. Figures from Board items 25-1006 and 26-706 read through the Legistar API and the HCD 2024-2028 PLHA NOFA.",
+      "source_url": "https://sanmateocounty.legistar.com/LegislationDetail.aspx?ID=95103&GUID=5E955EF2-AB26-4DAB-8CC5-3ABE4B451365&Options=&Search=&FullText=1",
+      "record_id": "ae7517de62",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "interim housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of South San Francisco",
+      "date_researched": "2026-11-07",
+      "research_pass": "3_city",
+      "county_tag": "San Mateo",
+      "confidence": "verified",
+      "program_name": "Commercial Linkage Fee fund (Fund 823) and Affordable Housing Trust Fund loans",
+      "administering_agency": "City of South San Francisco Economic and Community Development Department, Housing Division",
+      "funding_type": "loan",
+      "typical_award_size": "Commercial Linkage Fee (SSFMC 8.69, adopted 2018): office and R&D $17.38 per square foot, hotel $5.80, retail, restaurant and services $2.90 (January 2025 handout). Fund 823 revenue swung from $7.5 million (FY 2022-23) to a projected $1.5 million in FY 2025-26, $19.3 million in FY 2026-27 and $8.5 million in FY 2027-28 (Genentech, Trammell Crow and Healthpeak payments); projected year-end FY 2024-25 balances were $14 million in Fund 823, $200,000 in the Affordable Housing Trust Fund (Fund 205) and $1 million in the housing successor fund (Fund 241). City loans: Rotary Gardens Phase 1, 500 Linden Avenue, up to $7,867,409 (August 11, 2026); Synergy Community Development acquisition of the Metropolitan Hotel, 220 Linden, up to $3,115,000 from Fund 823 (February 24, 2026); 1051 Mission Road (BRIDGE, 158 units, PUC site) $2,000,000 raised to $2,362,000 as the LHTF match plus up to $14.6 million committed April 22, 2026 from the first market-rate phase for Measure K and tax credit applications; 428-432 Baden (For the Future Housing, 36 units) $4,050,000; 201-219 Grand and 418 Linden (ROEM, 84 units) $3,500,000; 201 Baden (Eden, 82 units) $2,362,500 LHTF. City also holds a $28,817,500 IIG grant for 1051 Mission and $890,000 PIP.",
+      "per_unit_cap": "Not published; recent awards range from about $25,000 to $94,000 per unit.",
+      "affordability_requirement": "Trust Fund serves low and moderate income households; LHTF-matched loans require extremely low and very low income units; 55-year City regulatory agreements.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "adu",
+        "homeownership",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standing NOFA; the Affordable Housing Financing Plan (May 2025, FY 2025-27) says the City will time NOFAs, acquisitions and rehabilitation around linkage fee payouts, with 66% of projected revenue arriving in FY 2026-27. Requests go to Council through the Housing Division (housing@ssfca.gov, (650) 829-6620).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. South San Francisco has the largest city housing fund in the county after the linkage fee rebound and uses it as the first-in local loan (residual receipts) ahead of County AHF, state IIG and LHTF money; the City also waives or pays permit fees from Fund 823 for public housing work (C Street electrification, August 2026) and holds TEFRA hearings for CMFA bonds (Rotary Gardens, August 2026). City-owned sites: 1051 Mission Road (PUC site, Development Agreement amended April 24, 2026), 220 Linden and 905 Linden under negotiation in 2026. Source is the Housing Division funding page; figures from the Affordable Housing Financing Plan PDF and Council files on ci-ssf-ca.legistar.com (Legistar API client ci-ssf-ca).",
+      "source_url": "https://www.ssfca.gov/Departments/Economic-and-Community-Development/Divisions/Housing-Division/Funding-Sources-for-Affordable-Housing",
+      "record_id": "8378406017",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "preservation and acquisition (SRO and hotel conversions)",
+        "multifamily rehabilitation",
+        "ADU construction",
+        "predevelopment loans",
+        "limited equity cooperatives",
+        "first-time homebuyer loans"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

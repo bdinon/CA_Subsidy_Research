@@ -1,0 +1,255 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "CDBG and HOME, Monterey Urban County (FY 2026-27 Annual Action Plan)",
+      "administering_agency": "Monterey County Housing and Community Development Department (Urban County Standing Committee)",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27: CDBG $1,361,629 plus $173,385 carried over; HOME $403,480 ($399,969.98 per the CAPER) plus $612,500 carried from the first HOME year ($403,479.96 federal HOME, $96,520.04 state HOME to reach the $500,000 entitlement threshold, $112,500 County match). The Urban County (first designated 2013, more than $17 million of CDBG since) covers the unincorporated area, Gonzales, Greenfield, Marina and Sand City; three-year CDBG total estimated at $4,015,543 for 2025-2027. HOME, first received in 2025, is restricted to unincorporated areas and may fund new construction, acquisition, rehabilitation or rental assistance.",
+      "per_unit_cap": "HUD HOME per-unit subsidy limits.",
+      "affordability_requirement": "HOME income and rent limits with federal affordability periods; CDBG national objective.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Cycle: workshops on rating criteria (June, September and October 2026), applications due in winter, Urban County Standing Committee scoring in March (March 20, 2026 for FY 2026-27), public hearing and Board adoption of the Annual Action Plan in May (May 12, 2026), CAPER hearing in September. The FY 2027-28 round opens after the October 29, 2026 criteria workshop.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. HOME is new and small (about $400,000 a year, unincorporated only) and the County has not yet put it into a construction project; it is best viewed as a $400,000 to $1 million soft loan for a tax credit project in a community such as Castroville, Pajaro, Boronda or Chualar. Source is the April 30, 2026 Action Plan public hearing item (Legistar file RES 26-068) with funding recommendations attached; allocation figures from the March 20, 2026 Standing Committee item and the FY 2025-26 CAPER.",
+      "source_url": "https://monterey.legistar.com/LegislationDetail.aspx?ID=65394&GUID=3D85FA19-7C13-4550-B10D-B65A387337DD",
+      "record_id": "d6e9be9676",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental new construction, acquisition or rehabilitation in unincorporated areas (HOME)",
+        "public facilities, infrastructure and services in member cities (CDBG)",
+        "tenant-based rental assistance"
+      ],
+      "next_deadline_date": "2026-10-29",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Salinas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Salinas Local Housing Trust Fund (Fund 2603) and Multifamily Housing NOFA gap financing (FY 2025-26 round, Resolution 23358)",
+      "administering_agency": "City of Salinas Community Development Department, Housing and Community Development Division (City Council sits as the Salinas LHTF Board of Directors)",
+      "funding_type": "loan",
+      "typical_award_size": "The June 24, 2025 Multifamily Housing NOFA offered about $8 million of gap financing; five proposals requested $17,981,000 and four were conditionally committed on November 18, 2025 (Resolution 23358) for $8,460,220: Vista de la Terraza rehabilitation (CHISPA, 40 units) $960,000 (CDBG $400,000, HOME $560,000); Saint George Apartments (CHISPA, 36 senior units) $3,017,699 including $1,432,000 LHTF, $397,000 HOME, $543,699 PLHA and $645,000 PLHA for land; Casentini Street Family Apartments (HACM and Milestone Housing, 88 units plus daycare) $3,837,000 ($570,000 LHTF, $3,267,000 HOME); Republic Cafe (City-owned, Chinatown) $1,290,521 LHTF. The Local Housing Trust Fund was established May 2, 2023; HCD awarded $3,807,248 in January 2024 against a $4,526,562 local match, and the City applied again in September 2024 for $1.5 million with a General Fund match of about $1.5 million. HSA, PLHA and PIP funds supply at least $100,000 a year of ongoing trust fund revenue.",
+      "per_unit_cap": "None published; awards sized to the gap shown in the applicant pro forma.",
+      "affordability_requirement": "LHTF-funded units restricted to 60% AMI or below (extremely low, very low and low income) under the City's LHTF program design; federal HOME and CDBG layers carry their own rent and income limits; 55-year covenants used on City loans.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "unknown, verify with agency. The FY 2025-26 round closed in 2025 and awards are still being documented (October 20, 2026 update: NEPA clearance and covenants pending; Casentini awaiting a November 2026 tax credit award). The City also keeps an open application for shovel-ready HOME projects and expects a new round once HOME, LHTF and PLHA balances are known; contact Francisco Brambila, Management Analyst, (831) 758-7334 main line.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Largest city-controlled pool in Monterey County. Stacks City HOME, CDBG, LHTF, PLHA and HSA money into one commitment that is then paired with 9% or 4% tax credits (Casentini applied September 8, 2026; Saint George applies after the City commitment). The County's Monterey County Housing Trust Fund (county record) is a separate pool that has not lent inside Salinas; County PLHA is also separate from the City's own PLHA (Salinas is a direct PLHA entitlement, see City PLHA record). The County-owned 855 East Laurel Drive Eden Housing project (county record) is in Salinas and may seek City gap funds in a future round. Blocked: cityofsalinas.org and salinas.gov return 403 to scripts; all material was read from the Salinas Legistar web API and legistar2.granicus.com attachments (staff report of October 20, 2026, Legistar file 26-494, and the September 10, 2024 LHTF staff report, file 24-480).",
+      "source_url": "https://salinas.legistar.com/LegislationDetail.aspx?ID=9149&GUID=725B972A-F651-417A-9665-1ADBD80DE1F9",
+      "record_id": "e22028707c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "adu"
+      ],
+      "next_deadline_date": "2026-10-20",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Salinas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), City of Salinas five-year plan (direct entitlement)",
+      "administering_agency": "City of Salinas Community Development Department, Housing and Community Development Division",
+      "funding_type": "grant",
+      "typical_award_size": "Standard Agreement with HCD (June 2021) for up to $6,041,082 over the first five years; Fund 2951 Financial Assistance - Multi Family Housing appropriation $3,322,776.95 as of November 2024. Fourth plan amendment (November 19, 2024) set years three to five at 41% to 55% affordable housing development, 14% ADU production in year three, 40% homeownership in years three to five and 5% administration, and allocated $390,000 to CHISPA for three ADUs (138 Carr Avenue, 615 and 617 Fremont Street, rented up to moderate income) and $645,000 to CHISPA for land at 98 Kip Drive for 36 senior units. Earlier uses: Parkside Manor (2021), Fairview (Salinas Inn) Homekey acquisition with HACM ($2,500,000 of PLHA and PIP in 2025, 45 PSH units), SHARE Center homeless services. In January 2026 Council approved a PLHA-funded Mortgage Down Payment Assistance Program (deferred loans up to 150% AMI).",
+      "per_unit_cap": "None stated; ADU awards averaged $130,000 per unit.",
+      "affordability_requirement": "PLHA rules: rental development for extremely low to moderate income, ADUs up to moderate income, homeownership up to 150% AMI; City covenants recorded on assisted properties.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "adu",
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. Plan amendments require a 10-day public notice and Council hearing; the 2024-2028 cycle allocations are being programmed alongside the Multifamily NOFA and the down payment program adopted January 27, 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Salinas receives its own PLHA formula allocation and does not share in the County PLHA plan (county record), which covers the unincorporated area plus Carmel-by-the-Sea, Greenfield and Soledad. PLHA pays land and predevelopment costs that HOME cannot (Saint George land $645,000), so it is usually the first City dollar in before a HOME or LHTF commitment. PLHA was also used as the local operating match for the Fairview Homekey PSH site now owned by HACM. Read through the Salinas Legistar API (file 24-570, November 19, 2024) because the City website blocks scripts.",
+      "source_url": "https://salinas.legistar.com/LegislationDetail.aspx?ID=7871&GUID=423F864A-8859-45A1-AA1B-000FE6EA93C3",
+      "record_id": "0d74ee4c18",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adu",
+        "supportive housing",
+        "homeownership assistance"
+      ],
+      "next_deadline_date": "2026-01-27",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Salinas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "CDBG, HOME and ESG entitlements, FY 2026-27 Annual Action Plan (PY 2025-2029 Consolidated Plan and Alisal Neighborhood Revitalization Strategy Area)",
+      "administering_agency": "City of Salinas Community Development Department, Housing and Community Development Division",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27 resources $3,308,936: CDBG $2,196,140 plus $37,000 program income; HOME $844,248 plus $40,000 program income; ESG $191,548. CDBG recommendations: administration $446,628, Habitat for Humanity housing rehabilitation $440,000, Alisal NRSA sidewalks and streetlights $460,000, Chinatown neighborhood improvements $220,000, playground equipment $366,512, ECHO housing rights $100,000, Salinas Outreach and Response Team $200,000. HOME: $669,185 reserved for a shovel-ready affordable housing project (agency to be determined), $126,638 CHDO set-aside, $88,425 administration. ESG: $177,182 rapid rehousing. HOME-ARP $2,918,774 (2023) funds supportive services at Fairview Homekey ($1,190,337 to HACM, February 2026). The City is also the HCD ESG Administrative Entity for the Monterey/San Benito CoC.",
+      "per_unit_cap": "HOME subsidy limits per HUD; no local cap.",
+      "affordability_requirement": "HOME and CDBG income limits (80% AMI and below) with HOME rent and period-of-affordability rules; City loans typically carry 55-year covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2026-27 plan: public comment May 2 to June 2, 2026, HLUC May 21, 2026, HUD submittal by August 16, 2026. The FY 2027-28 cycle should open with a NOFA in winter 2026-27; HOME requests for shovel-ready projects are accepted at any time.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Salinas is the only HOME participating jurisdiction in Monterey County besides the Urban County (county record covers unincorporated Monterey plus Gonzales, Greenfield, Marina and Sand City; Salinas is not in it). HOME and CDBG are usually committed through the City's multifamily NOFA (Vista de la Terraza $400,000 CDBG and $560,000 HOME; Casentini $3,267,000 HOME over several years) and require HUD NEPA clearance before covenants are signed. The Alisal NRSA designation (adopted June 17, 2025) relaxes CDBG public benefit rules in East Salinas. Section 108 loan guarantees are listed as a possible future tool. Read through the Salinas Legistar API (file 26-214) and the draft AAP PDF on legistar2.granicus.com.",
+      "source_url": "https://salinas.legistar.com/LegislationDetail.aspx?ID=8869&GUID=087C534B-E17F-4598-A257-C7C282B65362",
+      "record_id": "f4e768a236",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "public facilities and services"
+      ],
+      "next_deadline_date": "2026-08-16",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Salinas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Housing Successor Agency (former Salinas Redevelopment Agency) Low and Moderate Income Housing Asset Fund loans",
+      "administering_agency": "City of Salinas as Housing Successor Agency; Community Development Department, Housing and Community Development Division",
+      "funding_type": "loan",
+      "typical_award_size": "Gap loans from the HSA Affordable Housing fund awarded through the City's annual housing NOFA. Example: $500,000 at 0% for 55 years to Sun Rose Housing, LLC (Interim, Inc.) for the 11-unit Sun Rose Apartments at 439 Soledad Street (8-bed transitional unit plus 9 permanent supportive units), approved December 6, 2022 after an $800,000 construction cost gap; the same site earlier received an $80,000 RDA grant (2000) and $500,000 CDBG (2021). HSA funds are also pledged as part of the $100,000 a year ongoing revenue for the Salinas Local Housing Trust Fund.",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Very low and low income (HSA law caps use at 80% AMI with at least 30% of expenditures for extremely low income over five-year periods); 55-year deed restrictions on assisted projects.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "unknown, verify with agency. HSA funds are offered through the same annual NOFA as HOME, CDBG, LHTF and PLHA (last round opened June 24, 2025); the fund balance is reported in the annual Housing Successor report filed with the Housing Element APR.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The former RDA housing set-aside is the most flexible local layer (no NEPA, 0% long-term loans) and has been used to close inflation gaps on projects that already hold CDBG or HOME. Combine with Monterey County Behavioral Health (MCHOME program) services funding for PSH, and with County HHAP for operating support (county records). Fund balance was not published in the documents opened; confirm with the Housing Division before underwriting. Read through the Salinas Legistar API (file 22-560, December 6, 2022 staff report) because the City website blocks scripts.",
+      "source_url": "https://salinas.legistar.com/LegislationDetail.aspx?ID=6392&GUID=3BE4EE2F-A684-4549-B72C-F183B104262E",
+      "record_id": "17ebabbfb7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "preservation"
+      ],
+      "next_deadline_date": "2025-06-24",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Salinas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Prohousing Designation and Prohousing Incentive Program (PIP) awards, Fund 2958",
+      "administering_agency": "City of Salinas Community Development Department, Housing and Community Development Division",
+      "funding_type": "grant",
+      "typical_award_size": "Salinas holds an HCD Prohousing Designation (application authorized November 29, 2022). PIP Round 1 award $1,650,000 funded an Affordable Housing Program and a First Time Homebuyer Down Payment Assistance Program; Rounds 2 and 3 applications (2024) were not funded; Round 4 application for $1,250,000 authorized March 24, 2026 (deadline March 31, 2026) proposing $1,000,000 to rehabilitate the City-owned El Rey Motel (bought with ARPA funds in 2024) as transitional and emergency housing and $250,000 for the Mortgage Down Payment Assistance Program. PIP funds were also matched with PLHA ($2,500,000 combined) for HACM's Fairview Homekey acquisition in 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PIP allows rapid rehousing, rental assistance, shelters, new construction, rehabilitation and preservation of permanent and transitional housing, and homeownership assistance up to 150% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PIP Round 4 award decision pending as of November 2026 (HCD NOFA released September 30, 2025; about $8 million statewide). Designation also gives Salinas scoring bonuses in state programs (AHSC, IIG, MHP) and HCD PLHA flexibility.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The designation is a scoring layer for developers applying to state programs for Salinas sites, and PIP money has been redeployed locally to PSH acquisitions and down payment assistance. Pairs with the City-County MOU to pursue Encampment Resolution Funds Round 5 for the El Rey Motel. No other Monterey County priority city held the designation in the documents opened; Marina submitted a draft application in August 2025 and Soledad states it is pursuing one. Read through the Salinas Legistar API (file 26-111, March 24, 2026 staff report).",
+      "source_url": "https://salinas.legistar.com/LegislationDetail.aspx?ID=8766&GUID=2925FD6C-DD8C-4737-83FA-71A05CF9F455",
+      "record_id": "55e7347df9",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership assistance"
+      ],
+      "next_deadline_date": "2025-09-30",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

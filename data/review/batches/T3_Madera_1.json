@@ -1,0 +1,44 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Madera",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Madera",
+      "confidence": "verified",
+      "program_name": "City of Madera Permanent Local Housing Allocation (PLHA), 2019-2023 five-year plan",
+      "administering_agency": "City of Madera Grants Division (Finance)",
+      "funding_type": "loan",
+      "typical_award_size": "2022 PLHA award of $1,801,097 (FY 2019, 2020 and 2021 allocations), notified February 15, 2023. The ConPlan lists $1,361,913 remaining for housing. The 2026 Housing Element estimates $1,455,181 available from award years 2021-2023, earmarked for housing construction and rehabilitation.",
+      "per_unit_cap": null,
+      "affordability_requirement": "The plan funds affordable rental development or rehabilitation (generally at or below 60% to 80% AMI under HCD PLHA guidelines) and homeless services. The City has not published its own income targets.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. No open City solicitation found as of 2026-11-08. The 2019-2023 plan period has ended, so check whether a new five-year plan has been adopted for later allocations.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The largest uncommitted local pool identified for the City of Madera (about $1.36M to $1.46M). Pair it with City HOME (separate record) to form one local gap layer. Madera County has its own PLHA allocation (county record), so a project in the city could in principle seek both. State-source funds generally count as public funds under Labor Code 1720. The City web page describes only the 2022 application and award; no commitment to a specific project was found this pass.",
+      "source_url": "https://www.madera.gov/living-in-madera/housing-grants-assistance-programs/permanent-local-housing-allocation-plha-program/",
+      "record_id": "7523df22f7",
+      "cycle_notes": "no City NOFA found; Council approves commitments",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program-specific rule found. HCD PLHA Final Guidelines (2019) and 2024-2028 PLHA Formula Guidelines contain no prevailing wage, Davis-Bacon or Labor Code 1720 provisions, and the City PLHA page does not mention labor standards. Coverage would rest only on the general Labor Code 1720(b) public-funds definition, with the outcome depending on 1720(c) exemptions and project facts.",
+      "audit_note": "Tier 3: left unclear. PLHA guidelines (2019 and 2024-2028) searched for prevailing wage, Davis-Bacon, Labor Code and 1720 with no hits; only basis would be Labor Code 1720(b) generally, which depends on 1720(c) exemptions and project facts.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

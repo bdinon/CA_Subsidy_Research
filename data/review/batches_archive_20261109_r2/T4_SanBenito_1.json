@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers for San Benito County projects, Housing Authority of the County of Santa Cruz",
+      "administering_agency": "Housing Authority of the County of Santa Cruz (serves Hollister and San Juan Bautista; Hollister office (831) 637-0487; PBV RFP contact Eric Johnson, Senior Analyst)",
+      "funding_type": "rental assistance",
+      "typical_award_size": "HACSC had 823 PBVs in 33 developments as of February 2025, including in Hollister: Sunrise Senior Apartments (48, CHISPA), West of Fairview (40, in development) and Baler Place (25, in development). PBVs are awarded through a competitive RFP (last issued October 2024 as the Fall 2024 PBV RFP); the planned Spring-Summer 2025 RFP was cancelled because of federal funding uncertainty and no RFP has been reissued as of November 2026. Scoring: 200 base points (project type 50, waiting list opportunities 30, poverty deconcentration 25, location 25, experience 25, readiness 25, leverage 10, design 10) plus bonus points; 150-point threshold; supportive services supplement 40 points with a 30-point threshold.",
+      "per_unit_cap": "Program cap 20% of ACC units plus 10% excepted (homeless, veterans, supportive services, low-poverty tracts); income-mixing project cap per 24 CFR 983.",
+      "affordability_requirement": "PBV tenants pay 30% of income; HCV waiting list, site-based lists or Coordinated Entry referrals; HACSC administrative plan has carried a limited preference for homeless San Benito households.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "senior housing",
+        "farmworker housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No open RFP. Join the HACSC PBV RFP interest list (Eric Johnson) to be notified; HACSC states it is not in HUD shortfall but is holding new commitments. Twice-yearly RFPs timed to CTCAC rounds were the stated plan before the pause.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. PBVs from HACSC are the only operating subsidy available to San Benito projects and they underwrite the Baler Place and West of Fairview deals; with the RFP paused, new projects must line up the next round or rely on tenant-based vouchers. Sources are the HACSC request for proposals page (RFP status), the PBV program page, the 2022 owner guidance PDF and the February 2025 in-service PBV project list.",
+      "source_url": "https://hacosantacruz.org/general-information/vendors-contracts/request-for-proposals/",
+      "record_id": "477b92da92",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction and rehabilitation LIHTC projects in Hollister, San Juan Bautista and unincorporated San Benito County",
+        "permanent supportive housing",
+        "senior and farmworker housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hollister",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Program (Municipal Code Chapter 17.36, Ordinance 1252)",
+      "administering_agency": "City of Hollister Community Development Department, Planning Division and Housing Division (housing@hollister.ca.gov, (831) 636-4360 x1254)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. All for-sale and rental residential projects of 10 or more units must provide 15% of base units (before any density bonus) as on-site inclusionary units: at least 6% very low income, at least 5% very low or low income, and at least 4% very low, low or moderate income (Section 17.36.050). Fractions of 0.25 or more round up. No in-lieu fee option exists; the only alternatives (Section 17.36.060) are affordable rental units inside a for-sale project or acquisition and rehabilitation of existing market-rate units (rehab value at least 25% of pre-rehab value, physical needs assessment, on a residentially zoned site). Council approved the ordinance June 18, 2024 (second reading August 2024 per Housing Element Policy Action H4.1); goal of 150 inclusionary units during 2023-2031.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Inclusionary units sold or rented only to very low (50% AMI), low (80% AMI) or moderate (120% AMI) households per San Benito County HCD limits (2025 AMI $140,200 for a family of four); units must average at least 85% of the square footage of market units with the same bedroom count, match bedroom mix, finishes and exterior design, and be dispersed on site; buyers and renters screened through an open public process by the City or a third-party administrator; for-sale units carry resale controls and rental units carry recorded affordability covenants.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; inclusionary units must be permitted and occupied in proportion to market-rate units in each phase (Section 17.36.050 F). Exempt: ADUs, projects under 10 units, vesting tentative maps and development agreements in effect at the June 2024 effective date, and complete applications filed before that date. Council may set administration and monitoring fees by resolution (Section 17.36.080).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Hollister's program is stricter than the San Benito County Chapter 21.03 ordinance (15% on site or 20% off site, with a $30 per square foot in-lieu fee) because it allows no fee payment and requires on-site units for both rental and for-sale projects; as a result the City has no inclusionary in-lieu fund to redeploy as gap financing. Inclusionary units may be used to qualify for a density bonus under Chapter 17.34 (Section 17.36.050 C), so a 15% inclusionary project can stack the state bonus and concessions. The City's Below Market Rate Housing Program (affordable_housing.php) administers waitlists for inclusionary units; all waitlists were closed as of this pass. Hollister's prior Housing Developer Resources page (opened) states the City previously had no inclusionary ordinance; the code text was read on the zoneomics mirror because library.municode.com blocks automated access. Pairs with the Housing Authority of the County of Santa Cruz PBVs and the CMFA conduit bonds recorded at the county level (Baler Place, 340 Bridgevale Road, is a Hollister project).",
+      "source_url": "https://www.zoneomics.com/code/hollister-CA/chapter_16",
+      "record_id": "dfadf93775",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate for-sale subdivisions and condominium projects of 10 or more units (compliance)",
+        "market-rate rental projects of 10 or more units (compliance)",
+        "acquisition-rehab of existing units as alternative compliance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Monterey County Housing Trust Fund (MCHTF) loans for affordable rental development",
+      "administering_agency": "Monterey County Housing and Community Development Department",
+      "funding_type": "loan",
+      "typical_award_size": "Established May 17, 2022 (Resolution 22-100) to replace redevelopment set-aside; by April 2023 the County had committed $10,033,984 of local cash, land assets and PLHA to capitalize it, including about $420,000 of PLHA delegated by Carmel-by-the-Sea, Greenfield and Soledad plus about $289,000 a year from those cities' later allocations. Loans: Greenfield Commons (EAH Housing, 100 units, Greenfield) $1,929,046 ($1,028,833 trust fund plus $900,213 PLHA) approved March 2023 and increased by $550,000 trust fund plus $9,982 PLHA on December 22, 2025 for cost overruns; Lightfighter Village (EAH and Veterans Transition Center, 71 units, Marina) $500,115. Loan origination fee corrected to 0.5%. The County applied to the state Local Housing Trust Fund matching program in 2022 (unsuccessful) and 2023 (up to $5 million match on $3,544,645 eligible local funds); a 2024 Board referral explored using 1220 Natividad Road to recapitalize the fund.",
+      "per_unit_cap": "Not published; awards of $500,000 to $2.5 million per project (about $5,000 to $25,000 per unit).",
+      "affordability_requirement": "Lower income rental housing with 55-year County regulatory agreements; LHTF rules (3% simple maximum, predevelopment, acquisition, construction and permanent loans) when matched by state funds.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No standing NOFA; awards have gone by Board resolution to projects identified in the County's LHTF application. Contact HCD housing staff about trust fund and PLHA availability for 2027 tax credit applications; the pending inclusionary fee restructuring is intended to feed this fund.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. The trust fund is the County's gap lender of record but is thinly capitalized (two projects to date); its future depends on inclusionary in-lieu fee revenue and PLHA delegations from small cities. Source is the December 22, 2025 Board item (Legistar file 26-009) with the Greenfield Commons loan resolutions; establishment and LHTF history from files RES 22-100 and RES 23-073.",
+      "source_url": "https://monterey.legistar.com/LegislationDetail.aspx?ID=64104&GUID=BDC529D7-8D60-4518-9694-BC145F3D3E03",
+      "record_id": "10e2bcb657",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "veteran and supportive housing",
+        "predevelopment and acquisition (LHTF-eligible)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Monterey County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), County five-year plan including delegated city allocations",
+      "administering_agency": "Monterey County Housing and Community Development Department (Darby Marshall, Housing Program Manager)",
+      "funding_type": "loan",
+      "typical_award_size": "First cycle (2019-2023) County estimate $3,890,280, raised to $5,631,969 after Carmel-by-the-Sea, Greenfield and Soledad delegated their allocations to the County in 2024; 2024-2028 formula allocations $455,119 (2024) and $487,499 (2025). Uses: rental development (Greenfield Commons $900,213 plus $9,982), homeless assistance passed to Social Services for the Salinas SHARE Center navigation center (up to $1,593,176) and case management ($790,275) through December 31, 2026, homeownership assistance, administration, and a $1,680,063 reserve for affordable owner-occupied workforce housing (AOWH) that the City of Soledad asked to use for a moderate-income for-sale land purchase (committee March 16, 2026). PLHA fund balance $1,191,927 at September 2026.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "PLHA activities: rental development at or below 60% AMI (55 years), AOWH to 120% AMI with 45-year resale restrictions, homeless services.",
+      "eligible_project_types": [
+        "homeownership",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; PLHA is committed by Board resolution alongside Housing Trust Fund loans and by inter-departmental agreements for homeless services. The AOWH reserve is the only uncommitted development money identified; ask HCD about the 2026 and 2027 allocation years.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. PLHA has been split between homeless operations (SHARE Center) and the trust fund's Greenfield Commons loan; a developer with an unincorporated or small-city project should ask for PLHA and trust fund money together. Source is the September 21, 2026 PLHA budget amendment item (Legistar file 26-831); Soledad request from file 26-261 and 2024-2028 figures from HCD's PLHA NOFA tables.",
+      "source_url": "https://monterey.legistar.com/LegislationDetail.aspx?ID=66711&GUID=28BD7BA8-489E-45F6-8283-5C92DB2F1DE7",
+      "record_id": "45f2f988fb",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental gap loans through the Housing Trust Fund",
+        "affordable ownership workforce housing",
+        "navigation center operations and case management"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Salinas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance (Salinas Municipal Code Chapter 17, Sections 17-8 to 17-13), rental housing impact fee, inclusionary housing trust fund and 2026-27 ordinance update (EPS study)",
+      "administering_agency": "City of Salinas Community Development Department, Housing and Community Development Division",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Current ordinance (2017 amendment and guidelines): on-site inclusionary units apply only to for-sale developments of ten or more units, with three standard options (20% with 4% very low, 8% low, 4% moderate and 4% workforce at 160% AMI; 15% with 6% median, 6% moderate and 3% workforce ownership units; or 12% with 8% very low and 4% low rental units). Rental developments instead pay a per-square-foot rental housing impact fee set by fee resolution and must offer 12% of units to Housing Choice Voucher holders, unless they voluntarily provide affordable units in exchange for a City benefit. For-sale developers may pay a per-square-foot in-lieu fee at building permit. All fees go to the inclusionary housing trust fund. Exemptions include 100% affordable projects with 30-year restrictions and the Downtown (Central City Overlay) exemption added in 2022 (Section 17-8(d)). The City hired Economic and Planning Systems on February 1, 2026 to update the ordinance with a nexus and in-lieu fee study, a Technical Advisory Committee and a cost-recovery review fee; draft ordinance targeted for May 2027.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Very low (50% AMI), low (80%), median (100%), moderate (120%) and workforce (160%) tiers depending on option; inclusionary units must be comparable to market units and dispersed; first preference to Salinas residents and workers.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; fees due at building permit at the rate in the fee resolution then in effect. Housing and Land Use Committee received the update report October 20, 2026 (file 26-506); TAC outreach runs through spring 2027 and a draft ordinance is expected May 2027. Developers with pending projects should track the Phase 2 Zoning Code Update (mid-2027) as well.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fee revenue feeds the inclusionary housing trust fund that, with the state LHTF award and HSA money, capitalizes the City's multifamily NOFA (record above). Salinas is the only Monterey County city that charges a rental housing impact fee instead of requiring on-site rental inclusionary units; the County's Chapter 18.40 ordinance (county record) does not apply inside city limits and the County's 2026 move to a fee-based program could influence the Salinas update. Density bonus units are excluded from the inclusionary count (Section 37-50.060). The ordinance text on municode is blocked to scripts; terms above come from the City's 2017 Inclusionary Housing Guidelines PDF (salinasca.prelive.opencities.com) and the October 2026 staff report read through the Salinas Legistar API. Verify current per-square-foot fee amounts in the FY 2026-27 master fee resolution.",
+      "source_url": "https://salinas.legistar.com/LegislationDetail.aspx?ID=9161&GUID=EA4CC98F-E803-4D58-B3F7-5FFEF2E40234",
+      "record_id": "40dd4b9e3c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate for-sale subdivisions (compliance)",
+        "market-rate rental projects (impact fee)",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": "2026-10-20",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Soledad",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Monterey",
+      "confidence": "verified",
+      "program_name": "PLHA delegated to Monterey County and City request for the $1.68 million affordable owner-occupied workforce housing (AOWH) set-aside for a moderate income land purchase",
+      "administering_agency": "City of Soledad (requesting agency) with Monterey County Housing and Community Development Department (Darby Marshall, Housing Program Manager, (831) 755-5391)",
+      "funding_type": "grant",
+      "typical_award_size": "Soledad delegated its 2019-2023 PLHA allocation to the County in 2024 (with Carmel-by-the-Sea and Greenfield, adding about $1.74 million to the County plan). On March 16, 2026 the County Health, Housing, Homelessness and Human Services Committee considered Soledad's request to use the County's reserved AOWH funds, about $1,680,063, to buy land in Soledad for homes sold to moderate income households under a 45-year resale restriction, with the City selecting a developer; staff would amend the County PLHA plan with HCD and memorialize the City's obligations. The City receives RHNA credit for the units.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Moderate income (up to 120% AMI) owner-occupied units with 45-year deed and resale restrictions under PLHA AOWH rules.",
+      "eligible_project_types": [
+        "new construction",
+        "homeownership",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. Committee recommendation to the Board of Supervisors was pending in spring 2026; the County's PLHA balance was $1,191,927 in September 2026 (county record) so the AOWH reserve may already be partly committed.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "This is a County-controlled dollar (see county PLHA record) directed to a Soledad project; it would pair with Soledad's inclusionary Affordable Housing Fund and a developer's for-sale product in the Miramonte or Miravale areas. Soledad's own 2024-2028 PLHA allocations also flow to the County (about $289,000 a year across the three delegating cities). The Monterey County Housing Trust Fund (county record) has lent in Greenfield and Marina but not yet Soledad. Read through the Monterey County Legistar web API and the staff report PDF (file 26-261) because cityofsoledad.gov could not be reached.",
+      "source_url": "https://monterey.legistar.com/LegislationDetail.aspx?ID=64897&GUID=37235585-0B47-48F3-ABCD-180BC10266F3",
+      "record_id": "c65d7f6d68",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "land acquisition",
+        "new construction (for-sale)",
+        "homeownership assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Cruz County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Cruz",
+      "confidence": "verified",
+      "program_name": "County Housing Funds NOFA for predevelopment and rehabilitation (LMIHAF, PLHA and Affordable Housing Impact Fee)",
+      "administering_agency": "Santa Cruz County Community Development and Infrastructure, Planning Division, Housing Section",
+      "funding_type": "loan",
+      "typical_award_size": "2026 NOFA (authorized January 27, 2026; issued March 10, 2026; due April 9, 2026): about $1,500,000 total from the Low and Moderate Income Housing Asset Fund, PLHA (predevelopment only) and the Affordable Housing Impact Fee fund; minimum request $300,000, maximum $500,000, one to three awards. Board approved predevelopment commitments on May 19, 2026 to New Horizons Affordable Housing and MidPen Housing (amounts not published online). Staff stated the fund balances are too small for acquisition or construction loans, which typically need seven figures.",
+      "per_unit_cap": "Not applicable; County share capped at 85% of the predevelopment or rehabilitation activity budget (15% applicant match from non-County sources).",
+      "affordability_requirement": "100% affordable to lower income households (at or below 80% AMI); 55-year regulatory agreement recorded against fee title; rehabilitation loans fully deferred 55 years; predevelopment loans unsecured during predevelopment and converted to a secured 55-year deferred loan at building permit, repayable only if the applicant fails to perform.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "homeownership",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Funds must be spent within three years of the loan agreement. No second 2026 round was announced; the January 2026 item described this as the first fair-process NOFA after numerous inquiries, so expect a similar early-year NOFA in 2027 if fund balances allow. Applicants must be 501(c)(3) developers that own the site (or in escrow under a PSA dated before the NOFA), with at least one completed and three-year-occupied affordable project in unincorporated Santa Cruz County for predevelopment requests.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. This is the County's only capital program and it is deliberately small: it funds entitlement-stage costs and preservation, not construction gaps, and it is restricted to unincorporated sites and experienced local nonprofits (MidPen, New Horizons, Habitat Monterey Bay, Mid-Peninsula affiliates). A construction gap must come from state programs, Monterey Bay Housing Trust loans and HACSC PBVs. Source is the 2026 NOFA PDF; the Board authorization is Appendix B (January 27, 2026, item 53).",
+      "source_url": "https://www.cdi.santacruzcountyca.gov/Portals/35/CDI/Planning/Housing/County%20of%20Santa%20Cruz%20NOFA%20Mar%2010%202026_1.pdf",
+      "record_id": "785ed9d7ed",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "predevelopment for 100% affordable rental or self-help ownership projects",
+        "rehabilitation of existing affordable rental housing",
+        "nonprofit-owned mobile home parks"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

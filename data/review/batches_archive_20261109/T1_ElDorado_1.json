@@ -1,0 +1,117 @@
+[
+  {
+    "audit_reasons": [
+      "funding_type_other"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Affordable Housing Trust Fund and Affordable Housing Special Revenue Fund (no development NOFA)",
+      "administering_agency": "El Dorado County Planning and Building Department, Affordable Housing Unit (program administration contracted to Housing Group LLC dba HousingINC through December 31, 2026); Housing@edcgov.us",
+      "funding_type": "other",
+      "typical_award_size": "Small and discretionary. The Affordable Housing Special Revenue Fund held about $600,151 in April 2026, fed by building permit activity, and the Board committed $550,151 of it to the Caldor Fire Grizzly Flats Homeowner Rebuild Program (forgivable loans up to $73,318 for about 12 fire-displaced households, administered by HomeAid Sacramento). The separate Affordable Housing Trust Fund receives the County's share of CMFA bond issuance fees (for example $6,000 from the Diamond Village II issuance). No multifamily development award from either fund was found.",
+      "per_unit_cap": null,
+      "affordability_requirement": "None codified. Staff describe the Special Revenue Fund as having no specific restrictions, with use at the Board's discretion for affordable housing purposes. The Trust Fund is designated for studies, program development or contributions toward creating housing.",
+      "eligible_project_types": [
+        "new construction",
+        "homeownership",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. A request would go through the Affordable Housing Unit and require Board action.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Do not underwrite County gap money in El Dorado. The county has no inclusionary fee revenue yet, no housing bond and no sales tax measure, so the Trust Fund is capitalized only by occasional conduit issuance fees and permit-related deposits. The planned Affordable Housing Ordinance (inclusionary with an in-lieu fee set by a fee nexus study now being procured) is intended to expand the Trust Fund, which is the only path to a real county gap source in the next few years. County housing staff capacity is thin: a single Administrative Analyst position was reinstated in April 2026 and HousingINC runs the program in the interim, so allow time for any County action (Board Policy A-6 resolutions, TIF offsets, TEFRA hearings).",
+      "source_url": "https://eldorado.legistar.com/LegislationDetail.aspx?ID=40257&GUID=FB19D33E-5F00-40BD-BC9C-519FBDAA8C4D&Options=&Search=&FullText=1",
+      "record_id": "ccd7abf22c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "homeownership",
+        "new construction",
+        "predevelopment"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "link_blocked"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "needs_confirmation",
+      "program_name": "County development fee waivers and deferrals for affordable housing beyond the TIF offset (none found)",
+      "administering_agency": "El Dorado County Planning and Building Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "None. The County has no general affordable housing fee waiver or reimbursement ordinance; the TIF offset (Policy B-14) is the only fee incentive. The housing website lists a Building Fee Deferral Program, but its page returned 404 on November 6, 2026 and its terms (likely a general deferral of building permit fees to occupancy, not an affordable housing waiver) could not be confirmed. School, fire and other agency impact fees are not waived: Racquet Way Phase 2 (24 units) still owed about $87,360 to the Office of Education and $36,240 to the fire district after a 50% TIF offset was recommended.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. The Affordable Housing Task Force's Phase 2 tools work could add fee incentives; none proposed as of October 2026.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding recorded so the fee line is budgeted in full. Use the full 2025 TIF schedule less the B-14 offset on income-restricted units, plus full school, fire and County building and planning fees. Confirm whether the Building Fee Deferral Program still exists and its terms with the Planning and Building Department (Housing@edcgov.us) before relying on a deferral in the construction period cash flow.",
+      "source_url": "https://www.eldoradocounty.ca.gov/Services/HomebuyerRehab-Loans-Affordable-Housing-Development/Developers/Developer-Programs/Collaborative-Opportunities",
+      "record_id": "59413741ca",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of South Lake Tahoe",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "El Dorado",
+      "confidence": "needs_confirmation",
+      "program_name": "City permit fee waiver for nonprofit and public agency affordable housing (City Code Section 6.55.090), lot consolidation fee waiver for deed-restricted units (Housing Element Program 1-7) and Sugar Pine Village inspection fee reduction",
+      "administering_agency": "City of South Lake Tahoe Development Services Department (Planning and Building Divisions); waivers approved by the City Council at a public hearing",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Case by case. Nonprofits and public agencies developing affordable housing may request waiver of City permit fees, granted by Council resolution (about 45 days from request to approval, run concurrently with permit review). The City also reduced building inspection fees for Sugar Pine Village because HCD inspects the modular units. Program 1-7 commits the City to waive the lot line adjustment fee when the resulting project includes deed-restricted affordable units. City planning fees are modest relative to TRPA fees; City multifamily impact charges are mainly utility connection fees set by South Tahoe Public Utility District (not waived; $7,500 deposit and 10% of capacity fees at plan review). No waiver of TRPA water quality ($1.86 per sq ft) or excess coverage mitigation fees ($8.50 per sq ft), though TRPA application fees are waived for affordable, moderate and achievable bonus-unit projects and the mobility mitigation fee may be waived.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable housing project sponsored by a nonprofit or public agency; deed restriction consistent with TRPA affordable, moderate or achievable definitions when bonus units are used. No specific AMI threshold published for the City waiver.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request with the entitlement or building permit application; Council hearing required. Verify current practice with the Housing Division (530-542-7417) because the code text could not be opened.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Fee relief is small in dollar terms; the real cost drivers in the Basin are TRPA mitigation fees, land coverage purchases and development rights, which the TRPA bonus unit program (separate record) addresses. Combine with the TRPA application fee exemption and with the Phase 2 Housing Amendments height, coverage and density relief. Private for-profit developers are not eligible for the 6.55.090 waiver unless partnered with a nonprofit or public agency. The County Traffic Impact Fee offset (Board Policy B-14) is not available inside the city. The City's code host (codepublishing.com) returned 403 and the gocodebook mirror had no Chapter 6.55 page, so Section 6.55.090 was not read directly; the description is taken from the fees and exactions analysis in the City's August 2026 public review draft 2027-2035 Housing Element (pages 4-203 to 4-206) and from Program 1-7 of the adopted 2022-2027 Housing Element.",
+      "source_url": "https://www.cityofslt.gov/DocumentCenter/View/24379/SLT_Housing-Element_Public-Review-Draft_August-2026",
+      "record_id": "903b87de7c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "modular multifamily"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

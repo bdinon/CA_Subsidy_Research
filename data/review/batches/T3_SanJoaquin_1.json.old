@@ -1,0 +1,85 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Stockton",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "City-Wide Affordable Housing Development Public Facilities Fee (PFF) Exemption Program (with Greater Downtown Residential PFF Exemption; Resolutions 2015-11-17-1602, 2018-02-06-0504, 2018-11-06-1402, 2020-12-15-1105)",
+      "administering_agency": "City of Stockton Economic Development Department (fee programs) with Community Development Department Permit Center",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Full exemption from seven Public Facilities Fee categories (city office space, libraries, fire stations, parkland, community recreation centers, police stations, street improvements) for qualifying new affordable housing anywhere in city limits; the same categories are exempt for all new residential development in the Greater Downtown area. Dollar value depends on the current PFF schedule (not published on the program page); the program was cited by HCD as a basis for Stockton's 2023 Prohousing Designation. Other PFFs (water, wastewater, air quality, habitat, school fees) and the SJMSCP habitat fee still apply.",
+      "per_unit_cap": "Not applicable (fee exemption per unit equals the exempted PFF categories).",
+      "affordability_requirement": "Qualifying affordable housing development as defined in the authorizing resolutions (deed-restricted units); confirm the affordability threshold and covenant term with the Economic Development Department before relying on it.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No application deadline; rolling. Apply before building permit issuance through the Economic Development Department. The exemption sunsets when the City completes its Master Infrastructure Plans and PFF Nexus Study and adopts new fees; as of November 8, 2026 the nexus study is still in progress (Parks Master Plan approved, draft Transportation Master Plan out for comment in 2026), so the exemption remains listed as active.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Most valuable local incentive in Stockton after the NOFA; the exemption reduces per-unit soft costs by the PFF categories listed and the downtown exemption applies to market-rate units too, which helps mixed-income deals. A non-residential short-term PFF deferral program (through December 31, 2027) and the non-residential 5 or 10 year deferral do not apply to housing. Stacks with the Chapter 16.40 density bonus and the Housing NOFA; fee exemptions count as public assistance for Labor Code 1720 analysis, so confirm prevailing wage exposure with counsel. Read from the City Business Assistance page (financial_assistance.php); authorizing resolutions are linked there.",
+      "source_url": "https://www.stocktonca.gov/business/economic_development/financial_assistance.php",
+      "record_id": "2b52bc78bc",
+      "cycle_notes": "Rolling fee exemption at building permit. Sunset is tied to adoption of new PFFs after the nexus study, not a fixed date; check the City Public Facility Fees page for nexus study adoption. Pass 3 research also noted a five-year phase-out of the related SESP fee reduction starting 2025 (not stated on the current program page, which still says SESP expires when the nexus study fees take effect).",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab (new units)",
+        "mixed-income (downtown)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Deadline text fixed (resolution date was being parsed as a past deadline). Prevailing wage left unclear: neither the City program page nor the authorizing resolutions listed there state a prevailing wage rule; Labor Code 1720(b)(4) treats waived fees as public funds but de minimis and affordable housing exemptions in 1720(c) make the result project specific, and the statute page on california.public.law returned 403.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Lodi",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Joaquin",
+      "confidence": "verified",
+      "program_name": "City-owned sites for affordable housing (Housing Element Program 1.16 Surplus Land Act; Salas Park right-of-way with HACSJ; 130 West Century Boulevard)",
+      "administering_agency": "City of Lodi Community Development Department and City Council",
+      "funding_type": "land",
+      "typical_award_size": "Land contribution, not cash. Salas Park former right-of-way (about 3 acres rezoned to High Density Residential by Ordinance 2026, August 2024): City agreement with the Housing Authority of the County of San Joaquin for up to 110 affordable units, first phase Lodi Commons (DCDC Senior Housing at Salas Park, 54 senior units plus manager) funded with County HOME, HOME-ARP, HHAP, Congressional Community Project funds and $115,000 City CDBG. 130 West Century Boulevard (about 2.5 acres, Housing Element capacity 53 lower income units) under Council discussion January 27, 2026 with no decision. Program 1.16 targets 101 lower income units on four City sites, with RFP or sale by 2026, ENA 2026, entitlements 2027-2028, permits 2029.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Lower income units counted toward RHNA; Surplus Land Act priority to affordable housing developers (25% affordable minimum under Government Code 54233 when sold for housing).",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "senior housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Housing Element Program 1.16 calls for an action plan to sell or RFP City-owned land for affordable housing by 2026 and incentives for affordable housing on City sites by 2026; watch Council agendas for a Surplus Land Act declaration on 130 West Century Boulevard and the remaining Salas Park phase (56 units).",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Lodi's only material local contribution to multifamily deals is land; the City budget has no housing fund and no RDA housing successor fund appears in the Housing Element or in Council items since 2024. The HACSJ partnership shows the working model: City land plus County HOME and HOME-ARP, HHAP, HACSJ PBVs and tax credits (county records). A developer other than HACSJ would need a Surplus Land Act process. Read from the City 2026-27 Annual Action Plan PDF (Salas Park partnership) and the Legistar staff reports for the January 27, 2026 Century Boulevard item.",
+      "source_url": "https://www.lodi.gov/DocumentCenter/View/10072/26-27-AAP-Final-Draft-Public-Review-050226-060326-PDF",
+      "record_id": "e1113697bd",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "senior housing",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program-specific rule found. City land conveyed or leased below fair market value is public funds under Labor Code 1720(b)(3) (transfer of an asset of value for less than fair market price, https://california.public.law/codes/labor_code_section_1720), but coverage depends on 1720(c) exemptions and project facts, for example 1720(c)(1) private residential projects remain covered when built under an agreement with a local public housing authority such as HACSJ. The Surplus Land Act affordability section, Government Code 54233.5, sets 15 percent lower income units at 10+ units and contains no prevailing wage term. Federal HOME or CDBG layered on a given site (for example Lodi Commons) carries its own Davis-Bacon trigger (HOME 12+ assisted units, CDBG 8+ units), which belongs to those funding records, not this land program.",
+      "audit_note": "Tier 3: prevailing wage left unclear; the only basis is Labor Code 1720(b)(3) below-market land transfer, and the outcome depends on 1720(c) exemptions and deal terms set in each disposition agreement.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

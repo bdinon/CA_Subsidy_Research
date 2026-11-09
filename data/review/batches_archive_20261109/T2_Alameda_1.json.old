@@ -1,0 +1,155 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Measure W Home Together Fund: Multifamily Homelessness Solutions capital and operating subsidy",
+      "administering_agency": "Alameda County Housing and Community Development Department (HCD), 224 W. Winton Avenue, Room 108, Hayward, 510-670-6417, HCDRFP@acgov.org, with Alameda County Health, Housing and Homelessness Services (H&H)",
+      "funding_type": "loan",
+      "typical_award_size": "Measure W is a half-cent, ten-year general sales tax (Nov 2020) held in escrow until the lawsuit ended in April 2025: $810,000,000 accrued through June 2025 plus about $170,000,000 a year through June 2031. Board framework of July 30, 2025: 80% of ongoing revenue (about $136,000,000 a year) plus $585,800,000 one-time to the Home Together Fund ($1,400,000,000 through 2031), $170,000,000 prudent reserve, 20% to an Essential County Services Fund. FY 2025-26 Home Together Fund allocation $168,900,000 (Housing $96,000,000, Shelter $30,000,000, Access $11,000,000, Prevention $8,000,000, System Foundations $21,000,000); one-time capital acquisition line $180,000,000 for 850 or more housing and shelter units. 2025 New Construction RFP (released Oct 27, 2025, due Dec 8, 2025): about $40,000,000 for capital and operating subsidies; Board awarded $50,000,000 on March 3, 2026 to 10 shovel-ready projects (Liberation Park, 500 Lake Park, 3135 San Pablo, East 12th Circle and Brighter Bancroft Senior in Oakland; Ephesian Legacy Court and People's Park Supportive in Berkeley; 1247 McKay in Alameda; Downtown Livermore, Eden Housing 130 units; Thornton Avenue in Newark, $2,950,000), more than 900 homes with 346 for people exiting homelessness. A separate acquisition and rehabilitation RFP of about $10,000,000 was planned for early 2026, and a one-time $15,000,000 Emergency Stabilization pool for distressed nonprofit owners closed Jan 12, 2026.",
+      "per_unit_cap": "Capital $175,000 per studio or one-bedroom homeless unit and $200,000 per two-bedroom unit; capitalized operating subsidy reserve up to $225,000 per Coordinated Entry unit sized to a 15-year operating gap; combined per-unit maximum about $225,000 (redlined to $250,000 in the Nov 17, 2025 revision).",
+      "affordability_requirement": "Assisted units restricted to extremely low income households at or below 30% AMI referred through the Home Together Coordinated Entry System, with supportive services; rents underwritten at the lesser of 50% AMI TCAC rent or 30% of 30% AMI; County regulatory agreement senior to bank documents for 59 years (55 years allowed in tax credit deals).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No multifamily RFP open as of Nov 2026. The acquisition and rehabilitation round (about $10,000,000) was expected in early 2026 and the Home Together 2030 plan due summer 2026 will set the next capital rounds; sign up for the HCD developer list. Awards of March 3, 2026 require construction starts within 12 months.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "The largest new local source in the state outside Los Angeles: a dedicated $1,400,000,000 homelessness fund with a capital line and, unusually, a 15-year capitalized operating subsidy that lets PSH units pencil without PBVs. Loan terms follow Appendix B of the RFP: 3% simple interest, 59-year term, payments amortized, deferred for ELI special needs projects, or from residual receipts with the general partner allowed up to 50% as an incentive management fee. The RFP requires California prevailing wage even where state law would not. The 2026 awards were sized to make 4% and 9% deals and Homekey+ applications competitive, so the realistic ask is $175,000 to $225,000 per homeless unit as last-in money. The services side of the fund (rental subsidies, flexible housing pool, shelter rates) is run by H&H, not HCD. Sources opened: HCD Measure W page, funding opportunities page, the revised RFP PDF, the July 30, 2025 Board presentation and the Home Together FAQ.",
+      "source_url": "https://www.achcd.org/measure-w-home-together-fund/",
+      "record_id": "b863cb246a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab",
+        "interim housing"
+      ],
+      "next_deadline_date": "2026-03-03",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act (BHSA) housing interventions, Alameda County Behavioral Health Department",
+      "administering_agency": "Alameda County Behavioral Health Department (ACBHD), Alameda County Health, with Housing and Homelessness Services for the flexible housing subsidy pool",
+      "funding_type": "grant",
+      "typical_award_size": "Integrated Plan FY 2026-29 approved by the Board of Supervisors June 16, 2026 (public hearing April 20, 2026). BHSA budget authority about $166,188,844 a year; Housing Interventions component $37,306,397 (FY 2026-27), $41,735,347 (FY 2027-28), $44,221,971 (FY 2028-29); 52% dedicated to chronically homeless people; outreach and engagement 5% to 6%. Uses: rental subsidies, operating subsidies for existing and new PSH units (about 990 people a year), flexible housing subsidy pool, landlord mitigation, tenancy sustaining services. Capital development share: 0% in all three years; the plan states the County will consider capital development projects as needed once the BHSA transition is complete.",
+      "per_unit_cap": "None; no capital program planned. Statute would allow up to 25% of the housing component for capital.",
+      "affordability_requirement": "Adults, older adults, youth and families with serious mental illness or substance use disorder who are chronically homeless, homeless or at risk; Housing First; ACBHD eligibility and Coordinated Entry referral for PSH units.",
+      "eligible_project_types": [
+        "supportive housing",
+        "rental assistance"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Plan in effect July 1, 2026 with annual updates each spring; no capital NOFA. Ask ACBHD and H&H about project-based operating subsidies and flexible pool commitments for PSH units; capital requests should go to Measure W Home Together Fund instead.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Unlike Orange and Contra Costa, Alameda chose not to put BHSA money into capital, so BHSA is an operating and services partner only: pair a BHSA operating subsidy or flex pool commitment with Measure W capital and HACA or city PBVs. State funds would trigger prevailing wage if capital were ever offered. Figures from the June 16, 2026 Board item (304 pages, opened) and the approved plan PDF and executive summary on acbhsa.org.",
+      "source_url": "https://www.alamedacountyca.gov/board/bos_calendar/documents/DocsAgendaReg_06_16_26/HEALTH%20CARE%20SERVICES/Regular%20Calendar/BHCS_405776.pdf",
+      "record_id": "c564b7f39c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "rental assistance"
+      ],
+      "next_deadline_date": "2026-07-01",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Berkeley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Small Sites Program (SSP) NOFA 2025, $3,800,000 (HTF subset, created 2018)",
+      "administering_agency": "City of Berkeley Health, Housing and Community Services Department, Housing and Community Services Division, 2180 Milvia Street; housingdevelopment@berkeleyca.gov, (510) 981-5400",
+      "funding_type": "loan",
+      "typical_award_size": "$2,500,000 NOFA released August 18, 2025 and increased to $3,800,000; applications accepted on a rolling basis from August 25, 2025 and reviewed in order received (first three applications or twice the available funding). Three projects funded since 2018 under four NOFAs, including Bay Area Community Land Trust at 2627 California Street ($3,599,948 with U1 general funds) and Northern California Land Trust sites. No dedicated funding source; Council allocates by budget.",
+      "per_unit_cap": "Program guidelines score projects by subsidy per unit; no hard cap published (prior awards roughly $300,000 to $420,000 per unit including rehab).",
+      "affordability_requirement": "Acquisition and rehabilitation of rent-controlled or vacant multifamily buildings with up to 25 units, converted to 55-year regulatory agreements; LIHTC projects are not eligible; cooperatives subject to additional requirements (Exhibit H).",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Open until the $3,800,000 is committed; questions encouraged by August 3, 2026 per the November 2026 NOFA update; acquisition must close within 36 months of award. Check the HTF page weekly for status.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Berkeley's analog to Oakland ACAH at much smaller scale. Pairs with the Bay Area Community Land Trust and Northern California Land Trust pipelines, county Measure A1 acquisition funds and private CDFI bridge debt. Over-the-counter approval by the City Manager, no Council action, so timing is fast relative to the HTF RFP. SSP projects follow HTF loan terms (55 years, 3% simple, residual receipts) and the City prevailing wage requirement.",
+      "source_url": "https://berkeleyca.gov/sites/default/files/2026%20Updated_November2026%20SSP%20NOFA%20Application%20and%20exhibits.pdf",
+      "record_id": "ba8d1a84de",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "small sites",
+        "limited equity cooperative"
+      ],
+      "next_deadline_date": "2026-08-03",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Leandro",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Park Facilities Development Impact Fee exemption and 50% reduction for affordable units (Administrative Code Section 8.8.121, Council item 25-347, July 2025)",
+      "administering_agency": "City of San Leandro Community Development Department and Recreation and Parks",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Park impact fees restructured in July 2025 from per-unit-type ($18,074 per multifamily unit in FY 2024-25) to unit-size tiers: under 550 sq ft $6,052; 550 to 750 sq ft $7,565; 751 to 1,150 sq ft $11,600; 1,151 to 1,650 sq ft $16,140; 1,651 to 1,950 sq ft $20,679; over 1,950 sq ft $25,723 (land acquisition plus improvement components, CPI and ENR indexed). New Section 8.8.121: a residential development is exempt from the park fee if 100% of units (excluding manager units) are affordable and the applicant is a 501(c)(3) nonprofit or controlled by one; any other affordable unit pays 50% of the otherwise applicable rate. ADU fees eliminated by companion resolution.",
+      "per_unit_cap": "Not applicable (exemption or 50% reduction per affordable unit).",
+      "affordability_requirement": "Affordable unit per Health and Safety Code 50093 with affordable rent (50053) or affordable housing cost (50052.5) under a recorded restrictive covenant; full exemption requires 100% affordable nonprofit ownership.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at building permit; fees index annually. Confirm adoption of the final ordinance and resolution (introduced July 1, 2025) with the City Clerk.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "The only development fee relief among the five priority cities that is written into local code for 100% affordable nonprofit projects (Oakland's AHIF exemption is comparable in effect). Saves roughly $6,000 to $12,000 per small unit. Other City fees (building permit, sewer connection) are not waived; school and EBMUD fees are outside City control. The document read was the draft resolution attached to the July 1, 2025 Council item on Legistar.",
+      "source_url": "https://legistar1.granicus.com/SanLeandro/attachments/dbe7f4a0-f45c-4e92-aa84-0a1966b90411.pdf",
+      "record_id": "18980d2477",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income (50% reduction on affordable units)",
+        "adu"
+      ],
+      "next_deadline_date": "2025-07-01",
+      "deadline_check": "past_date"
+    }
+  }
+]

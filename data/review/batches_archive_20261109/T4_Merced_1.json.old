@@ -1,0 +1,70 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Merced",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "City of Merced Density Bonus Ordinance (Merced Municipal Code Title 20) and 2024-2032 Housing Element incentives (Programs 2, 6 and 7: fee deferrals, reductions or waivers; 50% senior bonus; UC Merced Student Housing Plan)",
+      "administering_agency": "City of Merced Development Services Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. The ordinance was adopted in 2005 and amended in 2016; it caps the bonus at 35% and lags current state law, which the City commits to fix. The Housing Element commits to: amend the Zoning Code by July 2026 to allow a 50% bonus for senior housing with at least 50% very low income units; offer expedited processing and fee deferrals, reductions or waivers for affordable units on large inventory sites (with extra incentives by July 2028 if needed); scope a UC Merced Student Housing Plan; and require 5% affordable housing plans in annexations around UC Merced.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus thresholds; senior enhancement requires at least 50% very low income units.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Available at entitlement, no deadline. The 6th Cycle Housing Element went to the Planning Commission in April 2026 (Resolution 4181), and Ordinance 2594 (RHNA rezones) had its second reading in July 2026. Verify whether the density bonus update and senior bonus amendment have been adopted.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Merced has no inclusionary ordinance or commercial linkage fee, and the fee deferrals and waivers are Housing Element commitments, not an adopted program. Fund 1020 is the practical way to cover fees today. The UC Merced items are planning commitments, not funding. Merced does not appear to be a Prohousing jurisdiction; the HCD list page returned 404 this pass, so this was not confirmed. The code chapter was not opened directly: zoneomics has Title 20, but the density bonus section was not isolated. The Housing Element was read as a City Legistar attachment.",
+      "source_url": "https://cityofmerced.legistar1.com/cityofmerced/attachments/88fdf37c-8fda-4ab9-b9d1-dcfd682f332b.pdf",
+      "record_id": "be757071ff",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Atwater",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "Atwater Housing Element Program 7 (Facilitating Affordable Housing Development): density bonus ordinance to be adopted, fee waivers, reductions or deferrals, and city-built off-site improvements",
+      "administering_agency": "City of Atwater Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement, not a subsidy. The Housing Element finds the Atwater Zoning Code does not address density bonus and is not in compliance with State Density Bonus Law. The Code was to be amended by January 31, 2026 (end of 2026 in the Program 7 timeline); state law applies directly in the meantime. Incentives: possible fee waivers, reductions or deferrals; expedited review; and off-site improvements (traffic, street, sewer) built by the City as capital projects, case by case.",
+      "per_unit_cap": null,
+      "affordability_requirement": "State density bonus thresholds.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Available at entitlement, no deadline. Density bonus ordinance due by end of 2026. A water and sewer priority policy for affordable housing (SB 1087) is due by end of 2026, and the infrastructure fee study and fee schedule update by June 2026; verify status.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Atwater has no local density bonus ordinance yet, and no inclusionary ordinance, trust fund or city NOFA. The goal is entitling at least 100 subsidized units with nonprofit partners during the planning period. The City-built off-site improvements are the most tangible local subsidy and would count as public funds. Source is the July 2026 MJHE version of the Atwater Housing Element on the MCAG mercedmjhe.com site; adoption status not confirmed.",
+      "source_url": "https://mercedmjhe.com/wp-content/uploads/2026/07/City-of-Atwater-2024-2032-Housing-Element.pdf",
+      "record_id": "f454e36355",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

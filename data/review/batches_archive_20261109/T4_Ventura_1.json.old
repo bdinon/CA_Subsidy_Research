@@ -1,0 +1,70 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Oxnard",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Oxnard Affordable Housing Additive Zones, -AHP (by-right) and -AHD (discretionary) (City Code Chapter 16, Division 7C, Ordinance No. 2999)",
+      "administering_agency": "City of Oxnard Community Development Department, Planning Division",
+      "funding_type": "zoning incentive",
+      "typical_award_size": "Zoning entitlement, not a subsidy: adds the right to build multifamily or mixed use at up to 30 units per acre on Housing Element sites; ministerial site plan review in -AHP; lot merger fees waived when merging parcels under 0.5 acre. The FY 2026-27 Action Plan cites an inventory of 2,466 potential units in these zones.",
+      "per_unit_cap": null,
+      "affordability_requirement": "At least 20% of units affordable to extremely low, very low or low income households; 55-year rental and 45-year ownership restrictions; no in-lieu payment option; Inclusionary Housing Ordinance also applies; Oxnard-resident preference list.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Available now on designated Housing Element Supplement 1 sites.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Commercial or office space capped at 15% of floor area for by-right treatment. Impact fees still apply (Sec. 16-420D(D)), so fee relief must come from Policy H-4.2 waivers negotiated separately. State density bonus (Division 7A) can be layered for more density. Useful for 100% affordable tax credit projects seeking ministerial certainty on smaller sites.",
+      "source_url": "https://www.zoneomics.com/code/oxnard-CA/chapter_5",
+      "record_id": "3fedd621ce",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Camarillo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Camarillo Density Bonus and Other Incentives, including Commercial Developer Partnership bonus (Municipal Code Chapter 19.49, Ord. 2018, 2024)",
+      "administering_agency": "City of Camarillo Department of Community Development",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus; Council may grant more than state law. Commercial developers that partner on affordable housing (partner project at least 30% low income or 15% very low income, in the city and within 1/2 mile of a major transit stop) can get up to 20% more intensity, FAR or height, up to 20% less parking, or other exceptions.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Rental units 55 years; for-sale 55-year resale restriction that resets on each sale, with City equity sharing.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applied at entitlement application.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The commercial partnership path (Gov. Code 65915.7) lets a commercial developer contribute land or cash to an affordable developer, a possible capital source for a tax credit deal. Camarillo has no inclusionary ordinance; Council Policy 7.09 sets guidelines for affordable units in density bonus projects (see separate record). Managed growth limits residential allocations to 400 per year. Camarillo city site opens; code read via zoneomics.",
+      "source_url": "https://www.zoneomics.com/code/camarillo-CA/chapter_3",
+      "record_id": "91c87a7ac8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

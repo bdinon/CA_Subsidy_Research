@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "HOME program income (about $351,767) available for housing activities; Marigold Villas request",
+      "administering_agency": "Mendocino County Executive Office, Grants Division (Xuyen Mallela, (707) 463-4441)",
+      "funding_type": "grant",
+      "typical_award_size": "The County holds about $351,767 of receipted HOME program income from past state HOME grants. On February 24, 2026 the Board heard Rural Communities Housing Development Corporation's request for about $300,000 toward Marigold Villas (32 units at Brush and Orchard, Ukiah; 25 one-bedroom and 6 two-bedroom; 16 HOME-ARP qualified units at 30% AMI; tax credits allocated September 2025, construction start March 2026) and took no action; on September 1, 2026 staff reported HCD advice that the balance is best used for tenant-based rental assistance or owner-occupied rehabilitation, the Board ad hoc suggested an RFP, and the Board gave direction to staff. Allowable uses: new construction or rehabilitation (minimum $10,000 per unit, HOME subsidy caps), owner-occupied rehabilitation, TBRA and first-time homebuyer assistance for very low and low income households in unincorporated areas.",
+      "per_unit_cap": "HUD HOME per-unit subsidy limits.",
+      "affordability_requirement": "HOME income and rent limits (very low and low income) with HOME affordability periods.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "rental assistance"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Watch for a County RFP or program design following the September 1, 2026 direction; developers can still request the balance through the Executive Office, but staff expect it to go to TBRA or rehabilitation programs.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. This is the only discretionary County housing money identified; it is too small for a construction gap and HCD warned that a HOME rental application may not be worth the effort. Source is the September 1, 2026 staff presentation (Legistar attachment); the Marigold Villas presentation is the February 24, 2026 attachment.",
+      "source_url": "https://mendocino.legistar1.com/mendocino/attachments/b74b74de-e99b-42b3-b5e3-852064c4e744.pdf",
+      "record_id": "cdee07f1ad",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental new construction or rehabilitation (eligible, discouraged by HCD for this balance)",
+        "tenant-based rental assistance",
+        "owner-occupied rehabilitation",
+        "first-time homebuyer assistance"
+      ],
+      "next_deadline_date": "2026-09-01",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fort Bragg",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "City of Fort Bragg state HOME, PLHA and CDBG applications (City as State Recipient), including Hazelwood Senior Apartments HOME request",
+      "administering_agency": "City of Fort Bragg Economic Development Department (Grants Coordinator)",
+      "funding_type": "loan",
+      "typical_award_size": "May 12, 2025 Council authorized a $4,600,000 FY24 State HOME application ($4,500,000 loan to AMG Associates for Hazelwood Senior Apartments, 49 units at 30 to 60% AMI, $25 million total cost; $50,000 soft costs; $50,000 admin). Repaid HOME loan proceeds stay in the City Housing Trust Fund. PLHA: formula allocation committed to Housing Mendocino Coast (community land trust); 2021 competitive PLHA award with DANCO for the Plateau project; 2024 competitive PLHA considered for homeless services because no development project was ready. The 2025 CDBG application targets sidewalks, not housing; $570,000 of CDBG program income is encumbered for business loans.",
+      "per_unit_cap": "HCD HOME per-unit limits; FY24 State Recipient cap $4.5 million per multifamily project plus soft and admin costs.",
+      "affordability_requirement": "HOME: 55-year state affordability for new construction (20-year federal); PLHA competitive rental: at or below 60% AMI for 55 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "unknown, verify with agency. HOME award status for Hazelwood not confirmed; 2025 CDBG applications were due April 3, 2026 with awards expected around September 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "City sponsorship is the practical path to state HOME for small coastal projects since Fort Bragg is not a HUD participating jurisdiction. HOME triggers Davis-Bacon at 12 or more HOME units. AMG planned 9% tax credits after HOME. County PLHA and HOME program income are separate County pools; Fort Bragg holds its own PLHA formula share. Staff reports were read from the Legistar attachment host because city.fortbragg.com was down.",
+      "source_url": "https://legistar1.granicus.com/cityfortbragg/attachments/517d6183-3153-4094-8f5c-8369187ffed6.docx",
+      "record_id": "8d4640e329",
+      "cycle_notes": "HCD rounds; City partners with one developer per round",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-04-03",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

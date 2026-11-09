@@ -1,0 +1,84 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Contra Costa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Measure X Housing Fund (affordable housing development share)",
+      "administering_agency": "Contra Costa County Department of Conservation and Development (75% share); Health, Housing and Homeless Services (H3) administers the 25% services share",
+      "funding_type": "loan",
+      "typical_award_size": "Measure X is a countywide half-cent sales tax (Nov 2020, 20 years, began April 1, 2021). The Board committed $10,000,000 in year one and about $12,000,000 a year after; the County's Measure X allocation table shows the Local Housing Trust Fund line at $12,600,000 (FY 2023-24), $12,902,400 (FY 2024-25), $13,156,577 (FY 2025-26) and $13,306,957 (FY 2026-27), with a 20-year total near $258,000,000. Capital share available through the housing NOFA: $9,707,500 in FY 2025/26 (including $2,000,000 recaptured from Anton San Ramon) and $7,880,690 in FY 2026/27. FY 2026/27 awards: $5,380,690 to 949 Moraga Road (SAHA and Sunflower Hill, Lafayette, 47 IDD units) and $2,500,000 to Rumrill Commons (Novin, San Pablo, 39 units). Earlier: $5,000,000 to El Cerrito Plaza Parcel A South (Related, 69 units), $4,968,158 to Choice in Aging Senior Housing (SAHA, Pleasant Hill, 82 units, matched with $2,963,384 state LHTF), $1,770,958 to Village of Hope Pittsburg (Hope Solutions, 15 PSH cottages). Minimums: $500,000 for capital projects, $250,000 for renovation and microhome projects, $25,000 to $500,000 for predevelopment with no more than $1,000,000 a year for predevelopment (Board, Sept 16, 2025).",
+      "per_unit_cap": "None beyond the HOME per-unit subsidy table used to count Measure X-assisted units; recent awards range from about $72,000 to $118,000 per total unit.",
+      "affordability_requirement": "Priority to households at or below 50% AMI (designated target population); up to 80% AMI eligible. Rental loans 55 years; homeownership 20 years or more (80% AMI, 81% to 120% allowed). Grants only for pilot, innovation and capacity-building projects.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership",
+        "predevelopment"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2026-12-07 (FY 2027/28 NOFA with CDBG-Housing and HOME, applications due 5:00 PM). Loan agreement required within two years of contingent award; work must start within one year of loan execution; grants spent within two years.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "County pages on www.contracosta.ca.gov refuse automated fetches (403); the same pages and DocumentCenter PDFs were opened on 2026-11-06 through the site's CivicPlus origin host (ca-contracostacounty3.civicplus.com), and Board reports were read through the contra-costa.legistar.com API. Largest discretionary local source in the 12 target counties. Same 3% simple, 55-year residual receipts terms as HOME, but no federal cross-cutting rules, so it is the preferred fill for projects inside cities without their own gap funds and for IDD, senior and farmworker deals. Predevelopment loans are not forgivable and must be repaid even if the project dies. The County used Measure X as the local match to win a $2,963,384 state Local Housing Trust Fund grant (FY 2024/25) and as match for Homekey awards (El Portal Place, $5,200,000). The 25% H3 share (about $4,068,983 in FY 2026/27) funds services, prevention and legal aid through a separate two-year RFP and is not capital. Awards are contingent on other commitments (Dec 31, 2027 for FY 2026/27 awards) and executed loans by June 30, 2028; the County recaptured $2,000,000 when Anton San Ramon stalled and pulled Harbor Pointe's Measure X request in May 2026. Measure X is County General Fund money, so state prevailing wage applies.",
+      "source_url": "https://www.contracosta.ca.gov/8750/Measure-X-Housing-Fund",
+      "record_id": "fbd2f7b0e8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership",
+        "predevelopment"
+      ],
+      "next_deadline_date": "2026-12-07",
+      "deadline_check": "future_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Richmond",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Contra Costa",
+      "confidence": "verified",
+      "program_name": "Richmond Affordable Housing Density Bonus (RMC Article 15.04.602) and Housing Element Program 3.D",
+      "administering_agency": "City of Richmond Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Regulatory incentive, not a cash subsidy. Article 15.04.602 implements state density bonus law; the Housing Element acknowledges the article lagged recent state amendments (AB 2345 and later) and commits the City to apply current state law directly and to update the ordinance (target fourth quarter 2025). Richmond also eliminated parking minimums near transit under AB 2097 (Program 1.L), offers expedited review for housing (Program 1.E), objective design standards in the form-based code (Program 3.C), and inclusionary incentives such as unit clustering and smaller unit types. No local bonus above state law.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "State density bonus law thresholds (Gov. Code 65915); density bonus units with qualifying affordability count toward Richmond's inclusionary requirement.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; ordinance conformance update was targeted for fourth quarter 2025, verify adoption with the Planning Division.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local housing trust fund NOFA, fee waiver program or local density bonus enhancement exists beyond state law in Richmond; the City's development impact fees are being converted to per square foot (Program 2.B, by 2027) which helps smaller units. Stack state density bonus with County conduit bonds, HOME and Measure X (county records) and the City's Affordable Housing Fund. Source is the adopted Housing Element (source_url); the City's Housing Element Progress page (https://www.ci.richmond.ca.us/4836/Housing-Element-Progress) shows 1,016 units entitled and 326 permitted through December 2024, 65% of entitled units at or below 80% AMI.",
+      "source_url": "https://www.ci.richmond.ca.us/ArchiveCenter/ViewFile/Item/12751",
+      "record_id": "793389d71a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-use",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

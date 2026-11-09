@@ -1,0 +1,208 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Merced County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29 (Housing Interventions component)",
+      "administering_agency": "Merced County Behavioral Health and Recovery Services",
+      "funding_type": "grant",
+      "typical_award_size": "2026-2029 BHSA Three-Year Integrated Plan, adopted by the Board June 2, 2026: Housing Interventions get 30% of the allocation ($6,900,000 base; $7,103,217 per year including MHSA funds). Year-one budget: $5,825,678 bundled rental and operating subsidies in permanent settings, $349,189 interim rental subsidies, $40,800 interim operating subsidies, $25,000 interim bundled subsidies, $711,546 for one capital development project (a County interim and peer respite site, 4 units and 6 beds, no braided non-BHSA funds, cost about $118,591 per unit, available July 1, 2027), plus landlord mitigation and participant assistance funds. The plan also notes County No Place Like Home capital funds for a Homekey+ project and partnerships on Mercy Village and 1213 V Street.",
+      "per_unit_cap": "BHSA Housing Interventions share of a capital project capped at $450,000 per unit (DHCS policy, stated in the plan); capital use capped at 25% of Housing Interventions.",
+      "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder; at least half of housing funds for chronically homeless people.",
+      "eligible_project_types": [
+        "supportive housing",
+        "rental assistance",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No developer NOFA; subsidies are placed through BHRS and its housing partners. Contact the Housing Interventions lead at Behavioral Health and Recovery Services.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Classed grant because the BHSA plan funds rental and operating subsidies for housing and a small capital project. The FY 2026-29 plan budgets about $5.8 million a year in bundled rental and operating subsidies for permanent settings, which a PSH developer could pair with Coordinated Entry referrals; the only BHSA capital project is a County-run interim and peer respite site, and PSH capital has come from No Place Like Home (Homekey+ project). Development partners named in the plan: Community Holdings or Upholdings (Mercy Village, 1213 V Street), Central Valley Coalition for Affordable Housing and Richmond Properties (the Retreat). The County BHSA page and plan PDF opened directly on November 8, 2026.",
+      "source_url": "https://www.countyofmerced.com/DocumentCenter/View/53006/2026-2029-BHSA-Three-Year-Integrated-Plan",
+      "record_id": "f29613d4e7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "bundled rental and operating subsidies for permanent supportive housing",
+        "interim housing rental and operating subsidies",
+        "one County capital project (interim and peer respite)",
+        "landlord outreach and participant assistance funds"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Merced",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "Merced Housing Successor Agency Low and Moderate Income Housing Asset Fund (Fund 2513) and former RDA housing parcels",
+      "administering_agency": "City of Merced as Housing Successor to the former Merced Redevelopment Agency (Housing Division; consultant RSG)",
+      "funding_type": "grant",
+      "typical_award_size": "Housing Asset Fund balance was $9,553,758 at June 30, 2025, but most of it is the portfolio of 5 properties and 19 loans receivable ($7,653,072). Unencumbered beginning cash was $2,056,382, with no excess surplus. FY 2024-25 deposits were $147,185 and spending was $316,895, including a $200,000 grant to CC915 Merced for 73 South R Street (extremely low income container units). Staff cited about $1.8M available in January 2025.",
+      "per_unit_cap": null,
+      "affordability_requirement": "HSC 34176.1: over each five-year period, at least 30% of development spending for extremely low income (30% AMI) households and no more than 20% for 60-80% AMI. Administration is capped at $382,654 per year.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency. The FY 2024-25 SB 341 report was received January 2026. The HSA parcels at 1815 and 1823 I Street, 205 and 211 W. 18th Street and 202 W. 19th Street are in escrow with Linc Housing.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "This is the only true local cash pool in Merced County found this pass (about $2M liquid). The fund made no development spending in the first five-year compliance period, so new awards should lean toward extremely low income units to meet the proportionality targets. The City has used HSA land as its main contribution (the Linc I Street site and the 73 S. R Street Homekey site), adding PLHA and HOME on top. The 626 W. Main Street RFP involves a former RDA non-housing asset, not this fund. County-level layers are separate (county records).",
+      "source_url": "https://cityofmerced.legistar1.com/cityofmerced/attachments/449ae8c6-d0b6-40fb-b7af-3c03f4eaa596.pdf",
+      "record_id": "68d4c62b23",
+      "cycle_notes": "Council awards case by case; parcels offered by RFP",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No stated rule. Labor Code 1720(b) covers public funds and below-market land transfers; 1720(c)(4) exempts affordable housing paid solely from a former redevelopment Low and Moderate Income Housing Fund (HSC 33334.2/33334.3), but it does not name the post-dissolution Housing Asset Fund (HSC 34176), and layered funds would defeat the 'solely' condition. Outcome depends on 1720(c) exemptions and project facts.",
+      "audit_note": "Tier 3: prevailing wage left unclear; the FY 2024-25 Housing Successor report has no labor standards language and no DIR determination on housing successor funds was found.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Merced",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "City of Merced Affordable Housing Fund (Fund 1020) under the Affordable Housing Fund Policy (Council Resolution 2023-55)",
+      "administering_agency": "City of Merced Development Services Department, Housing Division, and Finance",
+      "funding_type": "loan",
+      "typical_award_size": "Balance was $881,017 at June 30, 2024. In October 2025 the Council moved $218,000 to cover Housing Division administration, and staff expect more draws for FY 2026-27 administration. The fund was also one option for repaying $700,507 of HUD-disallowed costs (the outcome was not confirmed). Usable balance is likely well under $650,000.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Policy eligible uses include predevelopment and development of multifamily rental housing for extremely low to moderate income households (including operating subsidies) and soft costs. Soft costs cover design, water and sewer connection fees, permit and application fees, development impact fees and environmental review.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "unknown, verify with agency.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Useful as a local source that can pay or reimburse impact fees and connection fees, which HUD funds cannot easily do; it is the closest thing the City has to a fee waiver fund. It is shrinking because it backfills Housing Division staffing. The revenue source was not confirmed; the scanned Resolution 2023-55 attachment could not be text-extracted. The Housing Element notes advocates commenting on a proposed in-lieu fee by Council resolution, but Merced has no inclusionary ordinance. Confirm whether in-lieu or annexation-related affordable housing payments feed this fund.",
+      "source_url": "https://cityofmerced.legistar.com/LegislationDetail.aspx?ID=7005585&GUID=4B673200-0EEA-40A3-AF1E-8EB1E1D81352",
+      "record_id": "c91c2628ae",
+      "cycle_notes": "Council appropriation case by case",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No stated rule. The fund is local money, so Labor Code 1720(b) (public funds, and fees paid or waived under 1720(b)(4)) may reach a funded project; 1720(c)(5)(E) exempts only below-market loans where at least 40% of units are restricted to 80% AMI for 20 years, and fee payments fall outside that exemption. Outcome depends on 1720(c) exemptions and project facts.",
+      "audit_note": "Tier 3: prevailing wage left unclear; the Council item on Fund 1020 contains no labor standards language and the Resolution 2023-55 policy was not text-readable.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Los Banos",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "Los Banos Affordable Housing Projects Developer RFQ (homeless housing, open continuously) with City-owned parcels and PLHA",
+      "administering_agency": "City of Los Banos Housing Program Division (Housing Program Manager Christy McCammond, (209) 827-7000 ext. 2441)",
+      "funding_type": "land",
+      "typical_award_size": "No set dollar amount. The City seeks a partner for about 45 to 60 units for people experiencing homelessness. It may convey City-owned parcels or motels to the developer and will co-apply for PLHA (formula and competitive), Encampment Resolution Fund and other state and federal grants.",
+      "per_unit_cap": null,
+      "affordability_requirement": "55-year affordable housing deed restriction. Units must meet HUD HQS so Section 8 vouchers can be used; studios and one-bedroom units with on-site service space.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No deadline; responses reviewed continuously. Qualified respondents go to a pool for later RFPs. Submit by email to christy.mccammond@losbanos.org.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "This is the main route into City land and City-sponsored state applications in Los Banos. The City's current PLHA funds operate a second bridge home, so little PLHA is free for capital. Los Banos is not a CDBG entitlement city; it applies to the state CDBG NOFA (code enforcement in 2015, planned 2025 rehab application) and does not fund multifamily development. A related RFP for a joint homeless housing applicant closed April 26, 2024. Merced County CoC CA-520 HHAP and Housing Authority of the County of Merced vouchers (county records) are the other layers.",
+      "source_url": "https://losbanos.org/bids-rfps-and-rfqs/request-for-qualifications-affordable-housing-developer-for-people-experiencing-homelessness-no-deadline-for-submissions-until-further-notice/",
+      "record_id": "a3300e7cea",
+      "cycle_notes": "RFQ issued January 2024, no deadline",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "error",
+      "prevailing_wage_basis": "No stated rule. The RFQ (issued January 25, 2024, no deadline) contains no prevailing wage or labor standards clause. Conveying City parcels below fair market value is public funds under Labor Code 1720(b)(3), but coverage depends on 1720(c) exemptions and on whichever state or federal sources are layered in, each with its own rule.",
+      "audit_note": "Tier 3: prevailing wage left unclear; the RFQ PDF served at the source_url was read and has no labor standards terms.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Atwater",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Merced",
+      "confidence": "verified",
+      "program_name": "Atwater PLHA allocation (ADU loans and rental assistance) and state CDBG and HOME grants (non-entitlement)",
+      "administering_agency": "City of Atwater Community Development Department",
+      "funding_type": "loan",
+      "typical_award_size": "PLHA ADU loans of up to $40,000 per qualified applicant. PLHA mortgage, rent and utility assistance of up to $5,000 per household (up to six months). The City received no CDBG in the 5th cycle but by 2026 had state CDBG and HOME awards for owner-occupied rehab. No multifamily allocation identified.",
+      "per_unit_cap": "$40,000 per ADU loan (PLHA).",
+      "affordability_requirement": "Lower income households under PLHA, CDBG and HOME rules.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "adu"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Set by HCD state NOFAs; unknown, verify with agency.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Atwater's housing money is small and aimed at owners, ADUs and tenants, not multifamily gap financing. A multifamily developer should treat Atwater mainly as a co-applicant for state CDBG or HOME and a source of letters of support. Merced County's surplus land at Castle Commerce Center in Atwater (county record) is the relevant site lead.",
+      "source_url": "https://mercedmjhe.com/wp-content/uploads/2026/07/Atwater-B7-Housing-Plan.pdf",
+      "record_id": "15412116d7",
+      "cycle_notes": "City applies to state CDBG, HOME, CalHome and PLHA; Program 7 commits to annual applications starting 2026",
+      "eligible_project_detail": [
+        "adu",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "error",
+      "prevailing_wage_basis": "No single stated rule. Labor Code 1720(c)(5)(C) exempts assistance to a household for rehabilitation of a single-family home, and the HOME (12 or more units) and CDBG (8 or more units) federal thresholds do not reach owner-occupied rehab, but PLHA ADU loans fund new construction that 1720(c)(5)(C) does not clearly cover, so the outcome depends on 1720(c) exemptions and project facts. The Atwater Housing Plan has no labor standards language.",
+      "audit_note": "Tier 3: prevailing wage left unclear; program mixes ADU construction loans, rental assistance and owner rehab with no stated program rule.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "CDBG and HOME, Ventura Urban County Entitlement Area and Ventura County HOME Consortium (FY 2026-27 Annual Action Plan)",
+      "administering_agency": "Ventura County Executive Office, Community Development",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27: CDBG $1,450,705 annual allocation plus $185,000 prior-year funds ($1,635,705 total); HOME $1,206,409.18 plus $7,568 program income ($1,213,977.18). HOME development award: Many Mansions Mountain View II, Fillmore (49 units, five HOME-assisted) $1,092,580 including the CHDO set-aside; CDBG $120,000 to My Way Home for homebuyer assistance, $100,000 homeowner rehabilitation, up to $337,500 rental rehabilitation (10 units), $1,130,963 public facilities. Recent HOME development awards have been $1 million to $1.2 million per year to one project (Peoples Place 8 units, Villages at Westview II 6 units, Rancho Sierra 2 units). No ESG. Separately, $15,151,024 of state CDBG-DR was committed to Camino de Salud in Ojai (48 units, 24 PSH, construction began March 2026).",
+      "per_unit_cap": "HUD HOME maximum per-unit subsidy limits; County HOME typically covers 2 to 8 units in a larger tax credit project.",
+      "affordability_requirement": "HOME rents and incomes at or below 80% AMI (County targets 60% and below) with HOME affordability periods of 20 years for new construction; CDBG national objective.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Funding cycle opens with a public hearing in early November (November 6, 2025 for FY 2026-27; 117 attendees), applications due in winter, project feedback meeting April 2, 2026, draft plan comment April 9 to May 9, 2026, Board adoption May 12, 2026. The FY 2027-28 cycle will open at a November 2026 hearing with applications due around January 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. The Urban County covers Fillmore, Moorpark, Ojai, Port Hueneme, Santa Paula and the unincorporated area; the HOME Consortium adds Camarillo, Simi Valley and Thousand Oaks, so County HOME can fund projects in those cities while Oxnard and Ventura run their own entitlements (Pass 3). HOME is a $1 million soft loan on a CHDO or tax credit deal, usually paired with County PLHA, General Fund NOFA money and an HTFVC loan. Davis-Bacon applies at 12 or more HOME units. Source is the draft FY 2026-27 Annual Action Plan on vcportal.venturacounty.gov.",
+      "source_url": "https://vcportal.venturacounty.gov/CEO/community-dev/docs/2026-27/2026-27_Annual_Action_Plan_Draft.pdf",
+      "record_id": "f92be80f43",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental new construction (HOME)",
+        "rental rehabilitation (CDBG and HOME)",
+        "homebuyer assistance",
+        "public facilities and services (CDBG)"
+      ],
+      "next_deadline_date": "2026-05-12",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Round 6, County and Ventura County CoC CA-611",
+      "administering_agency": "Ventura County Executive Office (Continuum of Care administrative entity) with the Ventura County CoC Alliance",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 allocations: County of Ventura $2,690,690.57 and Oxnard, San Buenaventura/Ventura County CoC $2,873,703.79 (combined about $5.6 million, announced by the County in 2026), with the County stating most will go to permanent housing solutions including prevention and diversion, rapid rehousing, rental assistance and supportive services. HHAP-7 preliminary allocations: County $2,540,008.02, CoC $2,721,437.17.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; regional action plan with Oxnard, Ventura and the other cities.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HHAP-6 supplemental recommendations were finalized by the CoC on March 11, 2026; the CoC issues its own local NOFO for HUD CoC renewals each summer. HHAP-7 planning runs through 2027.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. HHAP is not used for capital in Ventura County; its value is operating and services funding for PSH units referred through Coordinated Entry. The CoC website (coc.venturacounty.gov) blocks automated access, so figures come from HCD's allocation table. Source is HCD's HHAP-6 allocation PDF.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-6-allocations.pdf",
+      "record_id": "a2fcd1fc5c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "rental assistance and rapid rehousing",
+        "prevention and diversion",
+        "interim housing operations",
+        "permanent supportive housing services and operating support"
+      ],
+      "next_deadline_date": "2026-03-11",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Ventura County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Housing Trust Fund Ventura County revolving loan fund and residual receipts loan program (County-capitalized)",
+      "administering_agency": "Housing Trust Fund Ventura County (nonprofit CDFI, Camarillo; Linda Braunschweiger, CEO)",
+      "funding_type": "loan",
+      "typical_award_size": "Revolving Loan Fund: below-market loans of $250,000 to $5,000,000 for acquisition, predevelopment, gap and construction, generally 1 to 5 years, for projects with 30 to 55 year affordability; $53,795,034 approved or funded since 2013 producing 2,255 affordable homes; $18,425,566 of state LHTF matching funds leveraged 2020-2024 plus a $4,406,179 final-round LHTF award. County capital: $300,000 General Fund (2020), $1,500,000 ARPA (2022) and PLHA Activity 3 grants. New Residual Receipts Loan Program (about $4.6 million from a REAP 2.0 grant): 15 to 18 year residual receipts loans for new affordable rental housing at 0% to 80% AMI meeting infill criteria, in development by June 30, 2031; first round applications June 2 to July 2, 2026. Recent loans: Santa Clara Apartments, Ventura (Ventura Housing) $2,000,000 residual receipts, 18 years (2026); Gateway Grove, Santa Paula (Many Mansions, 21 studios at 30% AMI) $500,000 predevelopment (2026); Lockwood III, Oxnard $500,000 (February 4, 2026); Cypress Gardens Phase II, Oxnard (Peoples Self-Help) $1,500,000 (December 16, 2025); Fillmore Terrace II $1,000,000 (September 26, 2025); Aspire Apartments, Oxnard (Many Mansions) $750,000 (April 30, 2025).",
+      "per_unit_cap": "Not published; maximum loan $5,000,000.",
+      "affordability_requirement": "Lower income (80% AMI and below) with priority for extremely low income, veterans, transition age youth, homeless households and farmworkers; residual receipts loans require 0% to 80% AMI units and long-term covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "homeownership",
+        "predevelopment",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Revolving Loan Fund: contact HTFVC to discuss the pipeline; invitations to apply follow. Residual Receipts Loan Program: the first round closed July 2, 2026; watch for a 2027 round timed to CTCAC applications.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Ventura County's housing money runs through the County Executive Office, Community Development (CEO-CD, 800 S. Victoria Avenue, Ventura, (805) 654-2681), which administers the Urban County CDBG and HOME programs, the HOME Consortium, PLHA, General Fund housing NOFAs and Homekey sponsorships; the Resource Management Agency Planning Division handles density bonus, RHD zoning and streamlining; the Health Care Agency Behavioral Health holds BHSA; the Ventura County Continuum of Care (CA-611) sits in the CEO; and the Area Housing Authority of the County of Ventura (AHACV) supplies vouchers outside Oxnard, Ventura, Port Hueneme and Santa Paula, which have their own housing authorities. The nonprofit Housing Trust Fund Ventura County (HTFVC) is the de facto county revolving loan fund. The County has no inclusionary ordinance, linkage fee or dedicated housing tax. venturacounty.gov department pages block automated access, so records were built from vcportal.venturacounty.gov PDFs (Action Plan, PLHA plan, funding summaries), rma.venturacounty.gov, housingtrustfundvc.org, ahacv.org, HCD tables and press coverage. HTFVC is where County, city (Moorpark, Ventura, Fillmore and Santa Paula committed $700,000 for 2025-26), bank and state LHTF dollars pool, and it is the fastest local money in the county; its residual receipts product is explicitly designed to earn CTCAC local contribution points. Source is the HTFVC funding programs page; loan list from the July 23, 2026 loan summary.",
+      "source_url": "https://www.housingtrustfundvc.org/funding-programs/",
+      "record_id": "aec746a532",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental",
+        "acquisition and conversion of market-rate or non-residential property",
+        "predevelopment",
+        "self-help and affordable ownership (case by case)"
+      ],
+      "next_deadline_date": "2026-07-02",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Thousand Oaks",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Thousand Oaks Development Impact Fee Deferral Program (temporary Council resolution, October 2023)",
+      "administering_agency": "City of Thousand Oaks Community Development Department and Finance Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Deferral, not a waiver: City development impact fees paid at certificate of occupancy instead of building permit. Dollar value depends on project fee load.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Housing Element Program 7 called for fee deferrals for affordable projects; the 2024 APR describes the October 2023 resolution as a citywide temporary deferral in effect until a date uncertain.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "In effect as of the 2024 APR (March 25, 2025 Council report); sunset date not set. Confirm it is still in effect before underwriting.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Improves construction-period cash flow and reduces construction loan interest; does not reduce permanent sources needed. School district and non-City fees are not covered. A pure deferral is generally not treated as a public subsidy under Labor Code 1720, but confirm with counsel if paired with other City assistance.",
+      "source_url": "https://toaks.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=e0def7f5-9746-44c2-aa36-8052d70b5e57",
+      "record_id": "7dc729615f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": "2025-03-25",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Camarillo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Camarillo Housing Successor Low and Moderate Income Housing Asset Fund (former Camarillo Community Development Commission)",
+      "administering_agency": "City of Camarillo as Housing Successor, Department of Community Development",
+      "funding_type": "loan",
+      "typical_award_size": "Fund balance $453,283 at June 30, 2025 ($176,421 cash, $275,000 KDF loan receivable, $1,862 interest); FY 2024-25 deposits $9,131; no excess surplus; no development spending in FY 2024-25.",
+      "per_unit_cap": null,
+      "affordability_requirement": "SB 341: 80% AMI or below; at least 30% of development spending to 30% AMI in the July 2024 to June 2029 compliance period; homelessness prevention up to $500,000 per year allowed.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA; report dated November 17, 2025. Contact Community Development, (805) 388-5360.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small pool; useful as predevelopment or a local commitment. The City has used City land and tax-exempt bond proceeds for affordable housing: it bought 2800 Barry Street in 2018 and selected the Area Housing Authority with Many Mansions for Vista Campanario (60 rental and 8 for-sale units, tax credits approved September 2022, near completion FY 2024-25). The former CDC exceeded its production obligations by 179 units, so no outstanding obligations.",
+      "source_url": "https://cms7files.revize.com/camarilloca/Attachment%201%20-%20SB%20341%20Report%20Fiscal%20Year%20Ended%20June%2030,%202025.pdf",
+      "record_id": "a632ea29f5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2025-11-17",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Camarillo",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Ventura",
+      "confidence": "verified",
+      "program_name": "Camarillo CDBG entitlement (Affordable Housing Acquisition Program) and PLHA first-time homebuyer revolving loans (FY 2026-27 Annual Action Plan)",
+      "administering_agency": "City of Camarillo Department of Community Development",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27: CDBG $345,293 estimated plus $49,803.23 prior year, $395,096.23 total; $224,246.23 to the City's Affordable Housing Acquisition Program (buy a home with a General Fund bridge loan and resell to a low or moderate income buyer with a CDBG write-down) and $50,000 to Habitat home repair. PLHA $782,232 used for a first-time homebuyer revolving loan program since FY 2024-25. Temporary Homes Project (six units on City land for homeless individuals) funded with about $610,000 in CDBG.",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDBG 80% AMI; homebuyer programs low and moderate income.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2025-26 CAPER review ran August 24 to September 9, 2026; FY 2027-28 application dates unknown, verify with agency.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Not a multifamily gap source; Camarillo's CDBG and PLHA go to ownership and small projects. Multifamily HOME comes through the Ventura County HOME Consortium (Camarillo is a member) and County PLHA/NOFA. The FY 2024-25 acquisition activity was cancelled and moved to Temporary Homes, so confirm the FY 2026-27 activity proceeds. Section 8 by AHACV (576 Camarillo households, November 2025).",
+      "source_url": "https://cms7files.revize.com/camarilloca/FINAL%2026-27%20Action%20Plan%20(EL%203.18.26).pdf",
+      "record_id": "fc6453b7d9",
+      "cycle_notes": "CDBG public services",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2026-09-09",
+      "deadline_check": "past_date"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Nevada County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "State CDBG (non-entitlement) housing and public facility grants",
+      "administering_agency": "Nevada County Housing and Community Services Department (funds from California HCD)",
+      "funding_type": "grant",
+      "typical_award_size": "2025 state CDBG application (approved February 17, 2026, Resolution 26-052; application to HCD approved February 2, 2026) for the $3,600,000 over-the-counter maximum: Eastern County Homeless Center purchase $1,850,000, owner-occupied mobile home repair and replacement $1,500,000, administration $250,000. Prior award 24-CDBG-10023 funds Gold Country Community Services. No CDBG has gone to multifamily rental development.",
+      "per_unit_cap": "Not applicable to rental development in current use.",
+      "affordability_requirement": "Low and moderate income (80% AMI) benefit under state CDBG rules.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "interim housing",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "2025 NOFA applications were due April 3, 2026. The County holds public meetings each February to pick activities for the next state CDBG NOFA; the 2026 NOFA cycle is expected in early 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Nevada County's Housing and Community Services Department (HCS, Tyler Barrington, Director, 950 Maidu Ave, Nevada City, 530-265-1645, Housing@nevadacountyca.gov) sits inside the Health and Human Services Agency and administers the Western Nevada County Regional Housing Trust Fund, PLHA (as delegated applicant for Grass Valley and Nevada City), state HOME and CDBG awards, the MORE mobile home program and the new Down Payment Assistance Program; the Behavioral Health and Homelessness Department (Cari Yardley, Director) holds Homekey+, BHSA and the Truckee Navigation Center; HHAP is administered by the Homeless Resource Council of the Sierras as the CoC CA-531 lead; and the Regional Housing Authority (Sutter, Nevada, Yuba, Colusa and Lake counties, Yuba City) supplies vouchers. Grass Valley, Nevada City and Truckee run their own programs (Pass 3). The County has no inclusionary ordinance, no housing impact fee and no affordable housing fee waiver program; the only land use incentive is the state density bonus ordinance. nevadacountyca.gov opens directly and the Legistar web API client 'nevco' exposes staff reports and attachments at legistar.granicus.com/nevco/attachments/. The County directs its CDBG capacity to shelter facilities and mobile home repair (the MORE program), so developers should not count on CDBG for rental projects. It could fund off-site infrastructure for a project if proposed during the February community meetings.",
+      "source_url": "https://nevco.legistar.com/LegislationDetail.aspx?ID=49302&GUID=1CD54278-9D5A-4FB0-A49E-DBE5B3C43CB1",
+      "record_id": "36c5fc8ad2",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "public facilities (shelter purchase)",
+        "owner-occupied rehabilitation",
+        "public services"
+      ],
+      "next_deadline_date": "2026-04-03",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

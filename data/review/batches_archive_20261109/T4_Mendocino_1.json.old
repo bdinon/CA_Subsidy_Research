@@ -1,0 +1,80 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "Homeless Housing, Assistance and Prevention (HHAP) Rounds 1 to 7, County and Mendocino County Homeless Services CoC CA-509",
+      "administering_agency": "Mendocino County Social Services (administrative entity for CA-509; Veronica Wilson, (707) 468-7071)",
+      "funding_type": "grant",
+      "typical_award_size": "HHAP-6 joint regional application for $1,826,480.60 (County $883,203.78 plus CoC $943,276.82), resolution adopted April 7, 2026, agreement through June 30, 2029; prior rounds: HHAP-1 $924,734.12 (CoC) and $856,699.99 (County), HHAP-2 $437,551 and $391,634, HHAP-3 $567,869.71 initial plus $1,703,609.13 remainder. HHAP-7 preliminary: County $811,781.46, CoC $869,765.85. Key Action 1 of the regional plan is to fully fund existing interim housing (Ford Street Project, Mendocino Coast Hospitality Center, Redwood Community Services, Project Sanctuary) through June 30, 2029; RFP 004-26 (due February 17, 2026) solicited shelter operators to obligate HHAP-6 and prior-round balances.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Homeless and at-risk households; 10% youth set-aside; Coordinated Entry referrals.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No local capital NOFA; the CoC states it will provide letters of support and may allocate future HHAP to new interim or affordable units. HHAP-7 allocations are preliminary for FY 2026-27.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. HHAP is fully absorbed by shelter operations; its relevance to a developer is a CoC letter of support and possible operating subsidy for PSH units referred through Coordinated Entry. Source is the April 7, 2026 Board item on Granicus Ideas with the HHAP-6 regional application attached.",
+      "source_url": "https://mendocino.granicusideas.com/meetings/573-board-of-supervisors-on-2026-04-07-9-00-am-regular-meeting/agenda_items/69d00f0e7d7965b4f40004f9-c26-retroactive-adoption-of-resolution-authorizing",
+      "record_id": "94cc1f1843",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "interim housing operating subsidies",
+        "coordinated entry and system supports",
+        "rapid rehousing",
+        "permanent housing operating support (eligible; not funded locally)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Mendocino County",
+      "date_researched": "2026-11-08",
+      "research_pass": "2_county",
+      "county_tag": "Mendocino",
+      "confidence": "verified",
+      "program_name": "Density bonus (Chapter 20.234, Inland Zoning Code) after repeal of the inclusionary ordinance; 2027-2035 Housing Element",
+      "administering_agency": "Mendocino County Planning and Building Services (Julia Krog, Director, (707) 234-6650)",
+      "funding_type": "density bonus",
+      "typical_award_size": "Ordinance 4538 (September 10, 2024) rewrote the Inland Zoning Code: Chapter 20.234 grants density bonuses, incentives and concessions exactly as provided in Government Code 65915-65918 in all residential zones, requires a recorded density bonus agreement, and repealed the former Chapter 20.238 inclusionary housing ordinance so the County now defers entirely to state law (2025 Housing Element APR, Action 3.1d). The one large subdivision, Bella Vista near Ukiah (166 lots, modified February 3, 2026), keeps 36 moderate-income for-sale units and 42 senior lots under a development agreement and inclusionary housing plan approved before the repeal. The County hired PlaceWorks ($334,925, March 24, 2026) to prepare the 2027-2035 Housing Element (regional RHNA 6,456 units, adoption due August 2027) and the Ukiah Valley Area Plan mixed-use rezone of 192 parcels is expected in 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 thresholds with recorded restrictions; equity-sharing payments on for-sale bonus units go to the County Affordable Housing Trust Fund.",
+      "eligible_project_types": [
+        "mixed-income",
+        "senior housing",
+        "mixed-use",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested with the land use application; expect new Housing Element programs and possible incentive changes in 2027.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Mendocino County has no housing department: the Executive Office Grants Division administers state CDBG and HOME program income, Social Services is the administrative entity for the Mendocino County Homeless Services Continuum of Care (CA-509) and HHAP, Behavioral Health and Recovery Services holds BHSA, NPLH and bridge housing, Planning and Building Services handles density bonus and the Housing Element, and the Community Development Commission of Mendocino County (CDC, the housing authority) supplies vouchers and owns housing. The County repealed its inclusionary ordinance on September 10, 2024, has no housing trust fund money, no NOFA and no impact fee waiver; County capital help has come from state pass-through grants (CDBG-DR, Homekey) and small HOME program income balances. Ukiah and Fort Bragg run their own programs (Pass 3). mendocinocounty.gov, the Legistar web API client 'mendocino', mendocino.granicusideas.com and cdchousing.org all open normally. With the inclusionary ordinance gone there is no local affordability requirement or in-lieu fee outside the coastal zone; the County's land use posture is permissive but offers no local financial incentive. Source is the County's clean Inland Zoning Code PDF (Chapter 20.234); repeal confirmed in the 2025 Housing Element APR.",
+      "source_url": "https://www.mendocinocounty.gov/files/assets/public/v/1/pbs/documents/planning/final-clean-entire-code.pdf",
+      "record_id": "f1d1330d9c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily and mixed-income housing in residential and mixed-use zones",
+        "senior housing",
+        "motel conversions (Golden Rule approved with a water concession)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

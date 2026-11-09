@@ -1,0 +1,205 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "California (Orange County headquarters, statewide)",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Clearinghouse CDFI commercial real estate secured loans for multifamily affordable housing",
+      "administering_agency": "Clearinghouse Community Development Financial Institution, 23861 El Toro Road Suite 401, Lake Forest (Orange County); pre-application at clearinghousecdfi.com/borrowers",
+      "funding_type": "loan",
+      "typical_award_size": "Minimum loan $1,000,000; acquisition, refinance, construction, renovation and gap financing secured by real estate; case-by-case structures; also New Markets Tax Credit allocations ($10 million NMTC plus $4.1 million source loan to Heritage Housing Partners for Napa Redwood Housing, 40 affordable condos, 2026). Clearinghouse secured $100 million through the Treasury CDFI Bond Guarantee Program.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Multifamily affordable and special needs housing serving low income households; mixed-use and mobile home parks also eligible.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling pre-application.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Orange County based, statewide and multi-state lender with FHLBank San Francisco membership (sponsors AHP grants, including tribal housing awards). Northern California deals opened this pass: Napa Redwood Housing (2026) and a Brilliant Corners enhanced behavioral support home in Vacaville (2022, $741,000). Also a frequent lender in San Diego, Orange and Riverside Counties. Works for for-profit and nonprofit borrowers and public or tribal entities.",
+      "source_url": "https://www.clearinghousecdfi.com/borrowers/",
+      "record_id": "03b4fa5e49",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition",
+        "acquisition-rehab",
+        "new construction",
+        "refinance",
+        "special needs housing",
+        "mobile home parks"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Northern California and Bay Area region (statewide lender)",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Corporation for Supportive Housing (CSH) project initiation, predevelopment, acquisition and mini-perm loans",
+      "administering_agency": "Corporation for Supportive Housing (national CDFI) with California lending staff; loans@csh.org",
+      "funding_type": "loan",
+      "typical_award_size": "Term sheet dated June 1, 2025: project initiation loans $50,000 to $100,000 at 0% to 3% for 24 months, 3-year term, unsecured, no fee; predevelopment $150,000 to $2 million at 7.5% fixed, 3 years, LTV up to 130% (no LTV test under $500,000), 1.5% origination; acquisition $150,000 to $15 million at 7.5% fixed, 3 years, 100% LTV on property plus 130% for predevelopment, 1.5% origination; mini-perm $150,000 to $1 million at 7.5% fixed, 5 years, 100% LTV. Construction gap loans where a lead lender monitors draws (Capital Magnet Fund blended rates). Rates published monthly and locked at full application.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Affordable housing that includes supportive housing; borrowers are nonprofit, for-profit or public agencies with a supportive or affordable housing track record.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling; rates reset monthly.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "CSH will lend well over 100% of collateral value, which fits early-stage supportive housing before Homekey+, NPLH, BHSA or county Measure A commitments. CSH is a GSAF originator, a Bay Area TOAH originator and an originator for the Partnership for the Bay's Future funds. Rates (7.5%) are higher than Housing Trust or Destination: Home money, so use CSH where those are unavailable or for non-Bay Area counties.",
+      "source_url": "https://www.csh.org/csh-solutions/lending-community-investment/",
+      "record_id": "d253fb0e72",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "project initiation and feasibility",
+        "predevelopment",
+        "acquisition",
+        "supportive housing",
+        "construction gap",
+        "mini-permanent"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "California (San Francisco Bay Area core geography)",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Capital Impact Partners (Momentus Capital) acquisition and predevelopment loans",
+      "administering_agency": "Capital Impact Partners, part of Momentus Capital (CDFI, Oakland office); California contact Eric Relos, erelos@capitalimpact.org, 510-712-9021",
+      "funding_type": "loan",
+      "typical_award_size": "December 2025 term sheet: $500,000 to $15 million for non-operating properties and $500,000 to $20 million for operating properties; term up to 3 years plus two 1-year extensions (operating properties up to 10 years); fixed rate at Treasury plus 4% to 5% or floating 30-day SOFR plus 3.5% to 4.5%, lower with special funding sources; interest only; no prepayment fee for terms of 3 years or less; origination 1% to 1.5% (includes 0.25% underwriting fee), legal typically $30,000 to $35,000; 5% to 10% equity including subordinate debt and grants; 60 to 90 day closings. Also construction, rehabilitation, mini-permanent (up to 90% LTV), bridge and NMTC products.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Projects primarily serving households at or below 80% AMI or located in low or moderate income census tracts; housing, health, education and mixed-use.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The San Francisco Bay Area is one of Momentus Capital's core geographies and Capital Impact originates for the Partnership for the Bay's Future Bay's Future Fund and Community Housing Fund (lower rates than its standard sheet). Full recourse to sponsors; first lien preferred, second lien case by case. Its CDFI Equitable Recovery award funds a housing developer training and capital access program that expanded into the Bay Area.",
+      "source_url": "https://www.capitalimpact.org/mission-driven-financing/",
+      "record_id": "04068ab9aa",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition",
+        "predevelopment",
+        "construction and rehabilitation",
+        "mini-permanent",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "CommonSpirit Health hospital markets in California",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "CommonSpirit Health (Dignity Health) Community Investment Program below-market loans",
+      "administering_agency": "CommonSpirit Health Community Investment Program, San Francisco; cip@commonspirit.org; expression of interest form on the program page; local Dignity Health hospitals act as community liaisons",
+      "funding_type": "loan",
+      "typical_award_size": "Loans up to $10.0 million, tenor up to 10 years, secured or unsecured, concessionary interest benchmarked to inflation, flexible repayment; structures include bridge, line of credit and term. $400 million allocation; $263 million approved across 94 investments as of March 31, 2025; 398 loans and $502.5 million approved since 1990, with affordable housing about 45% of the portfolio. Dignity Health's Homeless Health Initiative has invested nearly $36 million across its California sites since FY2019, including $375,000 in May 2026 for two Yolo County projects ($125,000 Freeman Garden Court, Woodland, 12 units; $250,000 Choice Neighborhoods and Tupelo project, 73 units) and more than $3 million in Yolo and Sacramento Counties to date.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Mission-oriented projects addressing social drivers of health, including affordable and supportive housing for low income communities; must show community support and partnership with a CommonSpirit hospital.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "predevelopment"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling expression of interest.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Place-based: investments are tied to CommonSpirit (Dignity Health) hospital markets, which in scope include Sacramento (Mercy General, Mercy San Juan, Methodist, Mercy Folsom, Woodland Memorial in Yolo), Stockton (St. Joseph's, San Joaquin), Merced, Grass Valley (Sierra Nevada Memorial, Nevada County), Redwood City (Sequoia, San Mateo), Santa Cruz (Dominican), San Luis Obispo and Santa Maria, Ventura (St. John's) and the Inland Empire. Loans often go through a CDFI or linked deposit; CommonSpirit also guarantees loans. Dignity Health is a financing partner of the Monterey Bay Housing Trust. Patient, concessionary money that fits predevelopment or gap positions in supportive housing with co-located services.",
+      "source_url": "https://www.commonspirit.org/impact/community-health-initiatives/community-investment-program",
+      "record_id": "835a36aaf8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition",
+        "predevelopment",
+        "new construction",
+        "preservation",
+        "supportive housing",
+        "bridge and lines of credit to developers and CDFIs"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Santa Clara, San Mateo, San Francisco, Alameda and Santa Cruz Counties",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "regional",
+      "confidence": "verified",
+      "program_name": "Bay Area Housing Innovation Fund (Housing Accelerator Fund with Apple, Sobrato Philanthropies and Destination: Home)",
+      "administering_agency": "Housing Accelerator Fund (San Francisco nonprofit lender), with founding partners Apple, Sobrato Philanthropies and Destination: Home; later investors Valhalla Foundation, Harry and Jeanette Weinberg Foundation and individual philanthropists",
+      "funding_type": "loan",
+      "typical_award_size": "$100 million fund (launched July 2024 at $50 million, doubled December 2025). Mezzanine construction-to-permanent loans (September 2025 term sheet): up to $20 million per project, higher on request; construction period interest about 3% to 5% fixed; permanent period subordinate debt repaid from residual receipts and refinance proceeds to a 5% target annualized return; total term up to 20 years; origination up to 1%. Construction-to-permanent first mortgage loans (August 2025 term sheet) with the same $20 million cap, 3% to 5% construction pricing and 20-year maximum. Loans to date: $16 million for 1633 Valencia, San Francisco (Mercy Housing California, 145 PSH units, 19-month build, about $525,000 per unit) and $11 million for Harvey West Studios, Santa Cruz (Housing Matters with MidPen, 120 PSH units).",
+      "per_unit_cap": "Total development cost caps excluding land: under $575,000 per unit for studio projects, $650,000 for small-unit projects, $700,000 for all one-bedroom projects and $775,000 for family projects",
+      "affordability_requirement": "Net new permanently affordable units up to 120% AMI with preference for 50% and 30% AMI; nearly half of pilot homes reserved for formerly homeless or extremely low income households.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling after entitlement; a NOFA is forthcoming (sign up on the fund page). Construction must start within 12 months of commitment and reach certificate of occupancy within 3 years.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Eligible counties: Santa Clara, San Mateo, San Francisco, Alameda and Santa Cruz. Intended to let projects skip the LIHTC queue: it funds construction and permanent debt for projects that commit to cost and time targets about 40% below Bay Area averages, with a third-party evaluator documenting the approach. Entitlements must be in hand before commitment. Pairs with county Measure A or local gap funds, Homekey+ and project-based vouchers; residual receipts split must follow local public agency policy where applicable.",
+      "source_url": "https://www.sfhaf.org/bay-area-housing-innovation-fund/",
+      "record_id": "0d8acbf7a3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "construction to permanent",
+        "mezzanine subordinate debt",
+        "supportive housing",
+        "modular and design-build projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

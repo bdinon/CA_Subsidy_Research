@@ -1,0 +1,318 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Alameda County Urban County entitlement",
+      "administering_agency": "Alameda County Housing and Community Development Department (HCD entitlement grantee for the Urban County)",
+      "funding_type": "grant",
+      "typical_award_size": "HCD 2024-2028 Formula Allocation NOFA: Alameda County CY 2024 $655,510, CY 2025 $702,148, five-year estimate $4,096,938; the 2020 entitlement formula amount was $933,865. The County's PLHA Five-Year Plan and the uses of its formula funds were not located on achcd.org.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA statute: rental development for households at or below 80% AMI (workforce up to 120% allowed) with 55-year covenants; 2024 NOFA requires 40% of new funds for affordable owner-occupied workforce housing unless the plan is amended.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "HCD formula allocations arrive annually; ask Alameda County HCD how PLHA is programmed and whether it is folded into the fall development RFP. Oakland, Berkeley, Fremont, Hayward and the other entitlement cities receive their own PLHA (Pass 3).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Under $1,000,000 a year for the Urban County and not visible as a separate developer source; treat as a possible add-on inside the HCD RFP. State funds, so prevailing wage applies. Amounts from the HCD 2024-2028 PLHA formula NOFA (opened this pass); County plan not found.",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+      "record_id": "7ec03c43d6",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Development fee waiver for affordable housing (no countywide program)",
+      "administering_agency": "Alameda County Community Development Agency",
+      "funding_type": "fee waiver",
+      "typical_award_size": "None adopted. The County's 2025 Housing Plan lists an affordable housing impact fee on commercial development as a future unincorporated revenue option and does not describe any fee waiver or deferral program.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Budget full County and special district fees in unincorporated deals; permit fees are an eligible use of County loans.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding. Labor Code 1720(b)(4) counts waived fees as public funds for prevailing wage purposes. Housing Plan (10-Year Housing Strategy 2025-2035, approved July 2025) opened.",
+      "source_url": "https://www.achcd.org/wp-content/uploads/2025/08/Housing-Plan-Approved-2-July-2025.pdf",
+      "record_id": "b1d71a8ba4",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Berkeley",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Berkeley Housing Trust Fund (HTF) development, acquisition and predevelopment loans (BMC 21.28; 2021 HTF Guidelines; 2024 HTF RFP)",
+      "administering_agency": "City of Berkeley Health, Housing and Community Services Department, Housing and Community Services Division, 2180 Milvia Street; housingdevelopment@berkeleyca.gov, (510) 981-5400",
+      "funding_type": "loan",
+      "typical_award_size": "Single application pools Measure O bond, inclusionary in-lieu and Affordable Housing Mitigation Fee revenue, Measure U1 general funds, HOME, PLHA and state pass-throughs. Current reservations: new construction $26,500,000 BUSD educator housing (110 units, Measure O), $11,996,669 1740 San Pablo (54 units), $11,996,669 St Paul Terrace (50), $14,531,301 Ephesian Legacy Court (80), $14,359,593 People's Park supportive housing (119), North Berkeley BART Lot B $11,563,636 plus EBALDC $5,926,364 plus Insight PSH $9,010,000 ($21,500,000 reserved); renovation $500,000 to $8,500,000. 2024 rehab RFP: about $5,800,000 available (including $1,200,000 HOME), $11,500,000 requested, awards $2,990,000 Adeline Street Apartments and $2,868,571 Ashby Lofts (June 2025). Standard terms: 55 years at 3% simple interest, annual payments from residual receipts; predevelopment loans 5 years at 3%. Fees: 1% origination, $600 subordination or assumption, $3,000 modification, $130 per hour project management.",
+      "per_unit_cap": "City subsidy normally capped at 40% of total development cost (Guidelines IV.C.1, waivable); HOME per-unit limits apply to HOME-assisted units.",
+      "affordability_requirement": "At least 60% of units restricted to households at or below 30% and 60% AMI (BUSD educator housing up to 120% AMI by waiver); 55-year minimum regulatory agreement; portion of units to Section 8 and Shelter Plus Care voucher holders; Berkeley housing preference policy applies to lottery units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Predevelopment requests may be submitted any time; development funds released by RFP when Council allocates money (last new construction RFP 2019-2021 Measure O rounds, rehab RFP November 2024). No development RFP open as of 2026-11-08; Ashby BART East Lot developer selection underway (October 2026). Funding reservations expire after 24 months and were extended to January 2028 for SHiPP, Ephesian and NBB in late 2025.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Berkeley's HTF is the second largest city pool in the county and the gateway to Measure O, U1 and in-lieu revenue. Reservations above show how the City layers Measure O (capital only), AHMF or in-lieu fees and U1 (operating reserves and predevelopment, which Measure O cannot fund). Stacks with Alameda County Measure A1 Berkeley base allocation and regional pool, Measure W (Ephesian Legacy Court and People's Park won Measure W in March 2026), Berkeley Housing Authority project-based vouchers, and state LHTF match (City applied for NBB projects). HTF Guidelines require state prevailing wage on all City-funded construction and a First Source hiring agreement (BMC 13.26). FY 2026 budget deficit left no U1 available for unfunded rehab requests, so near-term capacity depends on in-lieu fee collections (about $9,000,000 a year average).",
+      "source_url": "https://berkeleyca.gov/community-recreation/affordable-housing-berkeley/housing-trust-fund",
+      "record_id": "a091c074b1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "limited equity cooperative"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hayward",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Hayward Affordable Housing Ordinance (HMC Chapter 10, Article 17; Ordinance 17-20, amended April 11, 2023), in-lieu fees (Resolution 17-167 as amended 2023) and Affordable Housing Trust Fund",
+      "administering_agency": "City of Hayward Development Services Department, Housing Division, 777 B Street, Hayward; housing@hayward-ca.gov, (510) 583-4454",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Applies to all projects of two or more net new units: on-site units, in-lieu fee, off-site units or alternatives. In-lieu fees (10 or more units, per sq ft of habitable space, 2023 schedule): high-density condominiums 35 units per acre or more $19.35; lower-density ownership under 35 units per acre $26.00; all other dwelling types including rental $23.46; plus 10% if paid at occupancy; projects of 2 to 9 units pay 50% to 89% of the calculated fee. Fees fund the Affordable Housing Trust Fund, used solely to increase and preserve housing for extremely low to moderate income households (land acquisition and development subsidies). Collections 2020 to mid-2026 total $8,926,851: $3,599,171 (2020), $2,193,532 (2021), $2,013,770 (2022), $199,507 (2023), $489,948 (2024), $378,237 (2025), $52,687 (2026 YTD).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "On-site compliance percentages set in 10-17.205 (historically 10% of units for ownership and rental); local tenant preference policy in 10-17.805; 55-year rental affordability.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; fee per the annual Master Fee Schedule (FY 2027 schedule adopted June 2026). Verify current indexed amounts with the Housing Division.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Hayward's trust fund is small and shrinking because most recent developments provided on-site units rather than paying fees (City's December 2024 competitiveness analysis), so the City lacks local match for state applications. The AHO text on municode is script-blocked; requirements were read from the City's affordable housing page, Resolution 17-167 and the 2023 in-lieu fee resolution on Hayward Legistar. Compare Fremont ($44 per sq ft for-sale) and Berkeley ($62.83).",
+      "source_url": "https://hayward-ca.gov/your-government/programs/affordable-housing",
+      "record_id": "fb5bbcac16",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate for-sale and rental projects (compliance)",
+        "mixed-income"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hayward",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Streamlined Affordable Housing Overlay District, HMC Section 10-1.2650 (Ordinance 24-04, April 2, 2024)",
+      "administering_agency": "City of Hayward Development Services Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Entitlement streamlining, not a subsidy. Ministerial site plan and tentative map approval for housing on sites carried over from prior housing element cycles and listed in the 6th Cycle Housing Element lower-income inventory, provided the project meets the Housing Element minimum density assumptions and at least 20% of units are deed restricted for extremely low, very low or low income households for 55 years (rental) or 45 years (ownership); site must not meet Gov Code 65913.4(a)(6) exclusion criteria; objective standards and standard conditions apply.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "At least 20% of units at low income or below, 55-year rental or 45-year ownership restriction.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Ministerial application any time; approval lapses per 10-1.2690.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Hayward has no local density bonus chapter; state density bonus requests are processed with site plan review (recent approvals include townhome projects with 10% to 11% affordable units). The overlay lowers entitlement risk on the inventory sites and pairs with state SB 35/SB 423 streamlining. Fee relief for affordable projects is not offered by the City. Code read on the zoneomics mirror because municode is blocked.",
+      "source_url": "https://www.zoneomics.com/code/hayward-CA/chapter_34",
+      "record_id": "ee11437fa0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hayward",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "HOME Investment Partnerships funds through the Alameda County HOME Consortium and CDBG entitlement (Cooperation Agreement FY 2027-2029)",
+      "administering_agency": "City of Hayward Development Services Department, Housing Division; Alameda County HCD as Consortium lead",
+      "funding_type": "grant",
+      "typical_award_size": "Hayward has received over $15,000,000 in HOME funds since 1991 as a Consortium member (annual formula share), used for Glenn Berry, Sara Conner Court, Huntwood Commons, Tennyson Gardens, Leidig Court, Cypress Glen, Weinreb Place, Alta Mira and Mission Paradise, plus Project Independence tenant-based rental assistance ($500,000 renewed July 2026). Hayward is also a CDBG entitlement city; CDBG has funded predevelopment and acquisition. The County proposes to centralize HOME administration, compliance and allocation during the FY 2027-2029 term, with Consortium members reviewing future allocations.",
+      "per_unit_cap": "HOME per-unit subsidy limits (HUD 221(d)(3) based).",
+      "affordability_requirement": "100% of HOME funds to households at or below 80% AMI with HOME rent limits; federal affordability period plus City regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "rental assistance"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2027 allocation set spring 2026; future allocations may be awarded through the County's HOME Consortium RFP (county record) under the centralized model. Verify with the Housing Division.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small annual amounts (several hundred thousand dollars) but the only recurring development money Hayward controls. Pairs with the County HOME Consortium RFP, Measure A1 and HACA PBVs. Hayward's December 2024 analysis identified weak local match, GHG scoring and a thin rent differential as reasons three of five recent projects struggled to win state funds, and cited an expected Prohousing designation as a strength.",
+      "source_url": "https://hayward.legistar1.com/hayward/attachments/a14a28e1-41e1-4606-a74e-1b25ec86e353.pdf",
+      "record_id": "6d605c0c06",
+      "cycle_notes": "Consortium allocation each program year",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "tenant-based rental assistance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Leandro",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Ordinance, San Leandro Zoning Code Chapter 6.04 (Ordinance 2004-023, amended 2020-002), in-lieu fee and Affordable Housing Trust Fund (6.04.156)",
+      "administering_agency": "City of San Leandro Community Development Department, Housing Services Division, 835 East 14th Street; housing@sanleandro.org, (510) 577-6006",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. At least 15% of units in residential developments must be inclusionary units for moderate, low or very low income households (density bonus units excluded from the base); for-sale projects of 2 to 6 units may pay an in-lieu fee equal to (median San Leandro sales price minus affordable ownership cost) times a fractional unit of 0.30 to 0.90; larger projects may combine fees with off-site alternatives only with approval. Exempt: for-sale projects and condo conversions under 2 units and rental projects under 4 units. Fees, condo conversion fees and loan repayments go to the Affordable Housing Trust Fund. FY 2025 AHTF revenue $24,682 (no in-lieu fees), balance $336,166 at June 30, 2025 (FY 2024 restated to $311,484 after audit). Recent BMR production: Centro Callan (10 BMR rental units), Poppy Lane (3 BMR homes).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "15% of units for moderate, low or very low income households; rental inclusionary units subject to recorded covenants administered under the BMR Procedural Manual (SLMC 19.172.030).",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at map or planning approval; the 2023-2031 Housing Element commits to an economic feasibility study and ordinance amendments during the cycle (not yet scheduled).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The AHTF is too small to fund projects on its own; it has covered predevelopment grants and a site acquisition contribution. The ordinance predates AB 1505 and still exempts small rental projects; developers of rental projects with 4 or more units owe 15% on-site, which is above Hayward's and Fremont's rental percentages and a cost consideration for mixed-income deals. Ordinance text read on the zoneomics mirror (qcode is blocked); fund figures from the FY 2025 AHTF report adopted by Resolution 2025-163 (December 15, 2025).",
+      "source_url": "https://www.sanleandro.org/DocumentCenter/View/10247",
+      "record_id": "453e0e5d72",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate for-sale and rental projects (compliance)",
+        "mixed-income",
+        "condominium conversion"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Leandro",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "HOME Investment Partnerships Program through the Alameda County HOME Consortium (Cooperative Agreement FY 2027-2029, Council item 26-152) and PLHA",
+      "administering_agency": "City of San Leandro Community Development Department, Housing Services Division, 835 East 14th Street; housing@sanleandro.org, (510) 577-6006",
+      "funding_type": "grant",
+      "typical_award_size": "San Leandro is too small for a direct HUD HOME allocation and has been a Consortium member since 1992. FY 2027 HOME allocation $201,134 ($190,548 program, $10,586 admin); prior-year balances $593,119; combined $783,667 committed March 2026 to Eden Housing for rehabilitation of The Surf (46 affordable units). Past HOME projects: Estabrook Place (51 senior units), Marea Alta (115 family units). PLHA formula funds support a BACS homelessness prevention shallow subsidy program (18 months, FY 2025-26 to 2026-27) and are offered for development through the City RFP.",
+      "per_unit_cap": "HOME per-unit subsidy limits.",
+      "affordability_requirement": "HOME: 80% AMI and HOME rents; PLHA: per state PLHA plan, Housing First for services.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2028 allocation expected spring 2027; HOME FY 2024 funds must be expended by June 30, 2027. The County may centralize HOME awards under the FY 2027-2029 agreement.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Duplicates the county HOME Consortium record in mechanism but the City controls its own formula share and selects the project. Recent use is rehabilitation of existing affordable stock rather than new construction. Pairs with the County HOME RFP, Measure A1 and 4% credit recapitalizations.",
+      "source_url": "https://legistar1.granicus.com/SanLeandro/attachments/ee1d0cbf-da8d-402e-bc23-86d2e977062a.pdf",
+      "record_id": "0a6126565d",
+      "cycle_notes": "HOME program year; projects selected through the City's Multifamily Affordable Housing Rehabilitation and Preservation selection process",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation",
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2027-06-30",
+      "deadline_check": "future_date",
+      "link_status": "ok"
+    }
+  }
+]

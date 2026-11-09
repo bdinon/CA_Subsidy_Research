@@ -1,0 +1,429 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "State Historic Rehabilitation Tax Credit",
+      "administering_agency": "Office of Historic Preservation (OHP) with CTCAC (allocation and regulations)",
+      "funding_type": "tax credit",
+      "typical_award_size": "$50M annual statewide: $40M for projects with QREs of $1M or more, $8M for projects under $1M, $2M for residences (capped $25,000 each). Credit is 20% of qualified rehabilitation expenditures, 25% for projects meeting criteria in Appendix D of the application instructions (includes affordable housing categories).",
+      "per_unit_cap": null,
+      "affordability_requirement": "None required for the base 20% credit; 25% tier criteria include affordable housing. Properties must be listed or eligible for the California or National Register.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "OHP states funding for all categories is exhausted and applications are not being accepted; new allocations would be announced on the OHP page. Verify in early 2027.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Pairs with the federal 20% historic credit for dual projects and with LIHTC for adaptive reuse of historic buildings. CTCAC regulations for this credit effective Nov 12, 2024; CTCAC approved initial allocations April 8, June 18 and Sept 30, 2025.",
+      "source_url": "https://ohp.parks.ca.gov/?page_id=27495",
+      "record_id": "d6d59f6911",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Section 811 Project Rental Assistance (PRA)",
+      "administering_agency": "California Housing Finance Agency (CalHFA) with HCD and DHCS",
+      "funding_type": "rental assistance",
+      "typical_award_size": "$8M HUD award supporting over 600 units statewide; 20-year renewable project-based rental assistance contracts.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units for extremely low-income Medi-Cal beneficiaries with disabilities ages 18 to 61 transitioning from institutions or homeless/at risk. Project must have state agency development financing.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Round IV NOFA closed due to oversubscription; CalHFA is not accepting applications.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Operating subsidy, not capital. Historically layered on CTCAC and HCD-financed projects to support special needs units. Monitor for a future HUD 811 PRA award.",
+      "source_url": "https://www.calhfa.ca.gov/multifamily/section811/index.htm",
+      "record_id": "59c348c56b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Transit-Oriented Development (TOD) Implementation Program",
+      "administering_agency": "California Department of Housing and Community Development (HCD) / HDFC",
+      "funding_type": "loan",
+      "typical_award_size": "Historically loans and grants for higher-density affordable housing and related infrastructure near transit; 2025 Super NOFA listed TOD with $250,000 base per unit loans. AB 130 (2025) refocuses the program on affordable housing funded by a state vehicle miles traveled mitigation bank.",
+      "per_unit_cap": "$250,000 base per assisted unit (2025 Super NOFA terms).",
+      "affordability_requirement": "Assisted units at or below 60% AMI; 55-year restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Application window listed as PENDING; 2026 TOD Guidelines posted. No NOFA date announced as of 2026-11-06.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Overlaps with AHSC for transit-adjacent sites; AHSC has far more money. Watch for a VMT mitigation bank funded round in 2027. Eligible applicants include cities, counties, transit agencies and developers.",
+      "source_url": "https://www.hcd.ca.gov/funding/tod",
+      "record_id": "33a6645d4f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Housing for a Healthy California (HHC)",
+      "administering_agency": "California Department of Housing and Community Development (HCD)",
+      "funding_type": "loan",
+      "typical_award_size": "Article I (developers, federal NHTF funds): capital loans and operating reserve grants; 2020-21 NOFA about $160M. Article II (counties, SB 2 funds). No funding available since the 2021 Article I round.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Supportive housing for Medi-Cal eligible chronically homeless or high-cost health users; extremely low income.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Archived program; no funding available (HCD 2025 Super NOFA footnote). No new rounds expected.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Historically paired with NHTF and MHP for PSH. CTCAC still recognizes HHC commitments in the nonprofit set-aside homeless priority for existing awards. Successor PSH capital: Homekey+, MHP COSR grants.",
+      "source_url": "https://www.hcd.ca.gov/funding/archive/hhc",
+      "record_id": "184241dc3b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Portfolio Reinvestment Program (PRP)",
+      "administering_agency": "California Department of Housing and Community Development (HCD)",
+      "funding_type": "loan",
+      "typical_award_size": "Rehabilitation loans up to $25M at 30- to 55-year terms, 3% simple interest, 0.42% annual payments, plus forgivable capitalized operating subsidy reserve loans up to 25% of the rehab loan. 2022 NOFA about $332.5M; Round 2 NOFA Dec 28, 2023. Set-asides: $10M small projects (20 units or fewer), $25M residential hotels, $25M foreclosed projects.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Existing HCD-funded projects with 5 or more units whose HCD restrictions expire by Dec 31, 2033, legacy-program projects without recent rehab, or foreclosed projects; affordability extended.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Application window closed; no new round announced as of 2026-11-06. Contact portfolioreinvestment@hcd.ca.gov for eligibility list.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Only for HCD portfolio projects (expansion list published by HCD). Pairs with 4% resyndication and CDLAC Acquisition/Rehabilitation pool. Not a source for new developments.",
+      "source_url": "https://hcd.ca.gov/funding/prp",
+      "record_id": "06e6e38ae8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-11-06",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Homekey (Rounds 1 through 3)",
+      "administering_agency": "California Department of Housing and Community Development (HCD)",
+      "funding_type": "grant",
+      "typical_award_size": "About $3.57B over three rounds; Round 3 (FY 2022-23) about $736M. 15,962 homes and 261 projects funded as of Sept 15, 2026.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Permanent or interim housing for people experiencing or at risk of homelessness.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No longer accepting applications; HCD directs applicants to Homekey+.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Legacy program. Existing Homekey sites can seek Homekey+ or MHP gap funds and qualify as adaptive reuse under CTCAC definitions. Local public entity applicants with developer partners.",
+      "source_url": "https://www.hcd.ca.gov/funding/homekey",
+      "record_id": "1c8bcbd26d",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab",
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "No Place Like Home (NPLH)",
+      "administering_agency": "California Department of Housing and Community Development (HCD)",
+      "funding_type": "loan",
+      "typical_award_size": "Up to $2B in Prop 2 (2018) revenue bonds for county-sponsored PSH; county noncompetitive allocations plus competitive rounds (Round 4 last).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Permanent supportive housing for people with serious mental illness who are homeless, chronically homeless or at risk.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No longer accepting applications; no future rounds stated. Counties (and City of Berkeley) were the applicants.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Counties in scope may still hold uncommitted NPLH allocations or returned funds; check in Pass 2 (Sacramento, Alameda, Contra Costa had large allocations). NPLH commitments count toward CTCAC nonprofit set-aside homeless priority and CDLAC ELI/VLI set-aside eligibility. Successor: Homekey+ and county BHSA housing funds.",
+      "source_url": "https://www.hcd.ca.gov/funding/nplh",
+      "record_id": "7a1df67bda",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Supportive Housing Multifamily Housing Program (SHMHP)",
+      "administering_agency": "California Department of Housing and Community Development (HCD)",
+      "funding_type": "loan",
+      "typical_award_size": "55-year loans at 3% simple interest with 0.42% annual payments (2018 NOFA); $250,000 base per unit when offered through the Super NOFA.",
+      "per_unit_cap": "$250,000 base per assisted unit (2025 Super NOFA terms)",
+      "affordability_requirement": "Minimum of 5 supportive housing units or 40% of total units, whichever is greater; assisted units at or below 60% AMI.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Archived; last NOFA 2018. Residual funds were folded into the 2025 Super NOFA Disaster Impacted Areas NOFA.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Functionally replaced by MHP supportive housing provisions (AB 2483, SB 482) and Homekey+.",
+      "source_url": "https://www.hcd.ca.gov/funding/archive/shmhp",
+      "record_id": "30f20cfefc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "California Housing Accelerator",
+      "administering_agency": "California Department of Housing and Community Development (HCD)",
+      "funding_type": "loan",
+      "typical_award_size": "$1.75B (ARPA, 2021-22 budget); 58 projects and 4,945 units funded. Forgivable 0% loans for 20 years filling the full permanent gap for shovel-ready HCD-funded projects that could not obtain bonds or 4% credits.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per underlying HCD program award.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Closed (Tier 2 applications due April 8, 2022; permanent loan conversion deadline Nov 30, 2026). No new rounds; the 2026 MHP Gap Funding NOFA plays a similar role.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Historical reference only. Shows HCD's pattern of periodic gap rounds for stalled awarded projects (Accelerator 2021-22, MHP Gap NOFA 2026).",
+      "source_url": "https://www.hcd.ca.gov/funding/accelerator",
+      "record_id": "0809e2de8f",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "next_deadline_date": "2022-04-08",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Local Housing Trust Fund (LHTF) Program",
+      "administering_agency": "California Department of Housing and Community Development (HCD)",
+      "funding_type": "grant",
+      "typical_award_size": "Dollar-for-dollar matching grants to local and regional housing trust funds (public, joint public-private or 501(c)(3)); 2024 Round 5 was the last NOFA. Trust funds then lend to projects.",
+      "per_unit_cap": null,
+      "affordability_requirement": "At least 30% of each allocation for extremely low-income households; no more than 20% for moderate income; 55-year rental restrictions.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "No longer accepting applications; Round 5 (2024) closed. Future rounds depend on state budget.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Developers access LHTF money through local trust funds (e.g., Sacramento Housing Trust Fund, Napa, Sonoma, Yolo, Marin trust funds, Bay Area Housing Finance Authority), which should be captured in Pass 2 and 3. State match funds are public funds for prevailing wage.",
+      "source_url": "https://www.hcd.ca.gov/funding/lhtf",
+      "record_id": "b75b608a3a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "state",
+      "jurisdiction": "Statewide",
+      "date_researched": "2026-11-06",
+      "research_pass": "1_state",
+      "county_tag": "statewide",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption from Property Tax for Low-Income Rental Housing",
+      "administering_agency": "State Board of Equalization (BOE) issues Organizational and Supplemental Clearance Certificates; county assessors grant the exemption",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Full exemption of property tax on qualifying low-income units (partial exemption proportional to qualifying units); typically worth 1% to 1.25% of assessed value annually. Non-LIHTC, non-government-financed properties owned by nonprofits or eligible LLCs are limited to $20,000,000 of exempt assessed value statewide per claimant.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units occupied by lower-income households (80% AMI or below, with the 140% over-income continuation rule) under a recorded regulatory agreement or LIHTC. Limited partnership owners qualify only if the managing general partner is an eligible nonprofit or LLC holding an OCC and the property has LIHTC or government financing.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Annual claim due to the county assessor between January 1 and 5:00 p.m. February 15 (next: Feb 15, 2027); late claims receive 85% to 90% of the exemption. First-time claimants must obtain a BOE Organizational Clearance Certificate (Form BOE-277) and, for limited partnerships, a Supplemental Clearance Certificate (Form BOE-277-L1, wet signature) before the assessor can grant the exemption.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard component of every LIHTC underwriting: nonprofit managing GP structure is required for the exemption, which in turn supports debt sizing on 4% and 9% deals. Also applies to supportive housing and welfare-exempt nonprofit-owned projects without LIHTC up to the $20M cap. County assessors in all 12 target counties administer claims (forms BOE-267, 267-L, 267-L1); construction-period exemption available once an OCC is in place and the property is under development for exempt use. Property tax exemption does not affect prevailing wage.",
+      "source_url": "https://www.boe.ca.gov/proptaxes/welfarelowinc.htm",
+      "record_id": "e52a9a1f00",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

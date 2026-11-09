@@ -1,0 +1,124 @@
+[
+  {
+    "audit_reasons": [
+      "reclass_ambiguous"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "verified",
+      "program_name": "Unincorporated inclusionary zoning and ministerial approval ordinances (in development) and state density bonus",
+      "administering_agency": "Alameda County Community Development Agency, Planning Department (unincorporated area)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "No county inclusionary ordinance, in-lieu fee or affordable housing impact fee exists today. The Planning Department received $280,000 and hired Street Level Advisors to draft an Inclusionary Zoning Ordinance and a Ministerial Approval Ordinance to meet MTC's Transit-Oriented Communities policy (Bay Fair and Castro Valley BART areas) and Housing Element Program 6.J; draft ordinances for public comment early 2027, adoption recommendations spring 2027, completion by July 1, 2027. Working concepts: rental projects averaging 80% AMI or less (units 30% to 120% AMI), ownership averaging 120% AMI or less, ministerial approval for projects of 11 or more units meeting the set-aside, alternatives of in-lieu fee, off-site units or land dedication. Density bonus follows Government Code 65915 (state law), and the County code already allows ministerial approval for ADUs under 800 square feet.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Pending; MTC TOC minimums expected (about 10% to 20% affordable depending on tier). State density bonus units: 55 years for rental.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-income"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not yet adopted. Watch the Unincorporated Services Committee and Planning Commission in 2026 and 2027; draft financial feasibility analysis dated July 2026 is posted on the policies page. State density bonus is available now by right.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Alameda County unincorporated areas (Ashland, Cherryland, San Lorenzo, Castro Valley, Fairview, Sunol) have no local inclusionary production or fee revenue, so county-controlled affordable housing there depends on A1, Measure W and HACA. Expect an inclusionary requirement on market-rate projects entitled after mid-2027. Density bonus alone does not trigger prevailing wage. Classified as regulatory requirement because the county-specific content is a pending inclusionary ordinance (a set-aside obligation, not a subsidy); the state density bonus portion is covered by Government Code 65915 and is available now. Sources opened: County affordable housing production policies page (re-read November 8, 2026) and the Jan 26, 2026 staff report.",
+      "source_url": "https://www.acgov.org/cda/planning/ahppolicies/index.htm",
+      "record_id": "f03cf90d69",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "mixed-income"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "audit_note": "Reclassified from density bonus to regulatory requirement. Policies page re-read November 8, 2026: ordinance not adopted; draft ordinances early 2027, recommendations spring 2027, project completion July 2027; ownership units may range up to 150% AMI.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Alameda County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Alameda",
+      "confidence": "needs_confirmation",
+      "program_name": "County boomerang funds for housing and homelessness (former redevelopment residual property tax)",
+      "administering_agency": "Alameda County Board of Supervisors through Housing and Community Development and Health, Housing and Homelessness Services",
+      "funding_type": "grant",
+      "typical_award_size": "2017 policy: 20% of the prior year's boomerang receipts, $5,000,000 minimum and $7,500,000 maximum a year, as a five-year commitment starting FY 2016-17 ($5,000,000 in FY 2016-17 and FY 2017-18) for housing resource centers and coordinated entry ($2,000,000 a year), anti-displacement crisis services ($3,500,000 initial) and other Home Together system costs; a one-time $9,800,000 boomerang allocation seeded Measure A1 implementation. HCD still lists boomerang funds among its development sources and recent HCD project commitments cite boomerang dollars, but no current annual amount or policy was located and the 2025 Housing Plan does not list it as a revenue source.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Follows the program funded; development uses carry County loan terms (3% simple, 55 to 59 years, at or below 80% AMI).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing",
+        "services/operations"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Unknown; ask HCD whether boomerang funds remain in the fall development RFP or were absorbed into Measure W planning.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Recorded as needs_confirmation because the only document opened is the 2017 EveryOne Home implementation deck describing the five-year commitment; the acgov HCD page that listed boomerang funds now redirects to achcd.org without that text. Public funds, so prevailing wage applies. Housing successor (LMIHAF) reporting for the former Alameda County Redevelopment Agency was not found.",
+      "source_url": "https://everyonehome.org/wp-content/uploads/2017/05/EOH-GO-Bond-Implementation-and-Boomerang-5-3-17.pdf",
+      "record_id": "777c6b9680",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab",
+        "services"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08",
+      "audit_note": "The source is a 2017 EveryOne Home deck that confirms only the 2017 five-year policy (20% of prior-year receipts, $5 million minimum, $7.5 million maximum), and no current County page stating a boomerang housing allocation, cycle or amount could be found."
+    }
+  },
+  {
+    "audit_reasons": [
+      "needs_confirmation",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fremont",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Alameda",
+      "confidence": "needs_confirmation",
+      "program_name": "Development impact fee reduction and deferral for affordable housing projects, FMC Chapter 18.290",
+      "administering_agency": "City of Fremont Community Development Department, Building and Housing Divisions",
+      "funding_type": "fee waiver",
+      "typical_award_size": "City communications state that the June 2021 impact fee update added a 50% reduction of development impact fees for affordable housing projects and that a separate fee deferral program lets affordable developers pay impact fees later in the process. Chapter 18.290 defines affordable housing as units restricted to households at or below 120% AMI and provides for exemptions, exclusions, exceptions (18.290.110) and adjustments or waivers (18.290.240). Fremont's AB 1600 fees are capital facilities, fire facilities, traffic impact, parkland and park facilities fees (2025 Impact Fee Report).",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Deed-restricted units at or below 120% AMI per 18.290 definition; confirm whether the 50% reduction requires 100% affordable projects.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at building permit; verify current terms with the Building Division.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Could not open fremont.gov fee pages (403) or the implementing fee resolution; the 18.290 text was read on the zoneomics mirror and the fee list from the December 9, 2025 Impact Fee Report item on IQM2. Fee relief plus Fund 196 loans and SB 937 deferral make Fremont competitive with Oakland on soft cost; Alameda County has no countywide fee waiver (county record). Confirm the reduction percentage, eligible AMI level and whether school and water district fees (FUSD, ACWD, USD) are outside City control.",
+      "source_url": "https://www.zoneomics.com/code/fremont-CA/chapter_2",
+      "record_id": "b548893b8a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "last_audited": "2026-11-08",
+      "audit_note": "Chapter 18.290 (zoneomics mirror) defines affordable housing at 120% AMI but contains no 50% reduction or affordable-specific deferral, fremont.gov fee pages and published documents return 403, and no stated prevailing wage rule for the fee reduction was found (searched the code text and city fee do"
+    }
+  }
+]

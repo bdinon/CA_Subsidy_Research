@@ -1,0 +1,189 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "County Affordable Housing Fund (AHF) and loan portfolio preservation",
+      "administering_agency": "County of Santa Clara Office of Supportive Housing (OSH), asset management",
+      "funding_type": "loan",
+      "typical_award_size": "Special fund established 2003; initial capitalization fully expended, now replenished by loan repayments, interest and administration fees. Recent uses: $626,294 toward Bella Vista Inn interim housing rehabilitation (October 2026); Administration plans to request up to $2,500,000 for preservation of First Community Housing properties that carry $48,128,560 in County loans (six developments, 548 units).",
+      "per_unit_cap": "None published.",
+      "affordability_requirement": "Follows the recorded County regulatory agreement on the assisted property; preservation uses retain existing covenants.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "None. Case-by-case Board actions as loan modifications are presented (FCH portfolio report November 3, 2026).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. Small and opportunistic. The AHF matters mostly for sponsors acquiring distressed County-financed assets (FCH announced it will transfer all or part of its portfolio) and for sponsors needing County consent to subordinate, restructure or extend an existing County loan. OSH coordinates workouts with SCCHA and other lenders. Also the vehicle through which program income from closed sources (HOME repayments, Homekey and NPLH interest) is recycled.",
+      "source_url": "https://sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=130132",
+      "record_id": "45a29b9c03",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "preservation and recapitalization of County-financed developments",
+        "rehabilitation",
+        "gap loans to projects in the County portfolio"
+      ],
+      "next_deadline_date": "2026-11-03",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "CDBG Urban County and HOME Consortium, FY 2026-2027 Annual Action Plan",
+      "administering_agency": "County of Santa Clara Office of Supportive Housing (OSH); Housing and Community Development Advisory Committee (HACDAC) recommends",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27 total $7,208,297 approved May 19, 2026: CDBG entitlement $1,432,939 plus program income and prior-year funds ($3,855,918 total); HOME entitlement $829,034 plus program income and prior-year funds ($3,352,379 total). HOME housing development project HO-27-01: $3,269,475 to OSH for new construction, acquisition or acquisition with rehabilitation. CDBG project SCC-27-02: $2,752,240 for acquisition, rehabilitation or preservation of multifamily housing, shelters and transitional housing.",
+      "per_unit_cap": "HOME per-unit subsidy limits (HUD 221(d)(3)) apply; no County cap published.",
+      "affordability_requirement": "HOME: 20 percent of units at 50 percent AMI, rest at 60 percent AMI, HOME affordability period 5 to 20 years (County typically records 55 years). CDBG: 51 percent of units low and moderate income.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "interim housing"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "FY 2027-28 CDBG and HOME NOFA expected winter 2026-27 (HACDAC acted March 25, 2026 and the Board April 28 and May 19, 2026 for FY 2026-27). Development funds are pooled under OSH and released through the SHDF NOFA.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. The Urban County covers the unincorporated area and the small cities (Campbell, Los Altos, Los Altos Hills, Los Gatos, Monte Sereno, Morgan Hill, Saratoga); San Jose, Sunnyvale, Santa Clara, Mountain View, Milpitas, Cupertino, Palo Alto and Gilroy run their own CDBG programs. The County HOME Consortium adds HOME for those members. HOME development money is modest (about $3.3 million in FY 2026-27 including carryover) and is used as a layer under Measure A loans. Federal Davis-Bacon applies to HOME projects of 12 or more assisted units and CDBG projects of 8 or more units; NEPA review required. Funding recommendations PDF: sccgov.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=269017.",
+      "source_url": "https://sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=128715",
+      "record_id": "dd65ae7bf7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental (HOME)",
+        "acquisition and rehabilitation",
+        "emergency shelter and transitional housing capital",
+        "owner rehabilitation (Rebuilding Together)"
+      ],
+      "next_deadline_date": "2026-05-19",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Santa Clara County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Intellectual and Developmental Disabilities (I/DD) Housing Fund",
+      "administering_agency": "County of Santa Clara Office of Supportive Housing (OSH)",
+      "funding_type": "loan",
+      "typical_award_size": "$40 million County General Fund commitment for extremely low and very low income housing for persons with intellectual and developmental disabilities and their families; awarded through the SHDF NOFA. Board approved I/DD project delegations April 20, 2021 and February 10, 2026; $2,000,000 of I/DD funds replaced Measure A at La Bella (Mountain View, 2026) and $401,287 of bond program income was added to the FY 2022 I/DD fund. The County has also committed $10 million rounds for I/DD housing in prior years and supported an I/DD project in San Mateo County.",
+      "per_unit_cap": "Not published.",
+      "affordability_requirement": "Units set aside for ELI and VLI households that include a person with an intellectual or developmental disability, typically with San Andreas Regional Center referral and services.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Over the counter through the SHDF NOFA; the Board approved a new I/DD project on February 10, 2026, so funds remained available in 2026.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "santaclaracounty.gov subdomains (osh, asr, bhsd, news, files) returned HTTP 403 to automated access on 2026-11-07; records were built from the Board of Supervisors IQM2 legislative files (sccgov.iqm2.com), the County Housing Element, Santa Clara County Housing Authority documents, HCD and BOE pages. A set-aside of 10 to 20 I/DD units can unlock County I/DD money on top of Measure A or in place of it, and pairs with SCCHA PBVs for special needs households and Regional Center services. County General Fund loans trigger state prevailing wage. Described in the County Housing Element Program 1.01 funding source list; 2026 delegations in the October 6, 2026 DOA item (sccgov.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=130354).",
+      "source_url": "https://stgenpln.blob.core.windows.net/document/HousingElementUpdate_Draft_R4_Ch4.pdf",
+      "record_id": "9248240ed5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction multifamily rental with I/DD set-aside units",
+        "integrated supportive housing"
+      ],
+      "next_deadline_date": "2026-02-10",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Clara",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "CDBG and HOME entitlement funds, FY 2026-27 Annual Action Plan (with local Affordable Housing Fund and Housing Successor Fund allocations)",
+      "administering_agency": "City of Santa Clara Community Development Department, Housing and Community Services Division",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27 estimated resources: CDBG $1,580,000 and HOME $770,000 (total $2,350,000), plus about $180,000 CDBG program income reprogrammed; local allocations of $771,239 for FY 2026-27 ($290,697 City Affordable Housing Fund, $120,542 City Housing Successor Fund, $360,000 General Fund) for TBRA case management (Abode), County intensive case management and homeless prevention, landlord-tenant mediation and other services. HOME is used mainly for tenant-based rental assistance and may be used for development.",
+      "per_unit_cap": "HOME per-unit subsidy limits apply if used for development.",
+      "affordability_requirement": "CDBG low and moderate income benefit; HOME low income (60 percent AMI) tenants.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "rental assistance",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Final FY 2026-27 plan adopted May 5, 2026 after a 30-day comment period; FY 2027-28 plan hearings expected February to May 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Small entitlement; not a meaningful development gap source. Developers should look to the Affordable Housing Fee fund and County programs. santaclaraca.gov blocked; report and breakdown read from Legistar.",
+      "source_url": "https://santaclara.legistar1.com/santaclara/attachments/a4433ba0-d1e9-4cee-a941-78ac1e3e0fab.pdf",
+      "record_id": "280adca9bc",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "tenant-based rental assistance",
+        "acquisition-rehab",
+        "public services"
+      ],
+      "next_deadline_date": "2026-05-05",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Milpitas",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Santa Clara",
+      "confidence": "verified",
+      "program_name": "Community Development Block Grant, FY 2026-27 Annual Action Plan (2025-2030 Consolidated Plan)",
+      "administering_agency": "City of Milpitas Office of Housing",
+      "funding_type": "grant",
+      "typical_award_size": "FY 2026-27 CDBG entitlement $538,212 plus about $8,000 program income, $294,688 carryover program income and $116,072 prior-year unused entitlement; roughly $561,000 for capital and housing rehabilitation activities (including Rebuilding Together Silicon Valley critical home repairs), $136,000 public services, with the remainder for other activities and administration. No HOME entitlement (Milpitas is in the County HOME Consortium). Council may supplement CDBG with the Housing Authority Fund.",
+      "per_unit_cap": null,
+      "affordability_requirement": "CDBG low and moderate income benefit; housing rehabilitation for lower income owners.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "services/operations"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "Public hearing on the FY 2026-27 plan was June 16, 2026; FY 2027-28 applications are typically reviewed by Council in February with adoption in May or June 2027.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Too small to matter for multifamily gap financing; Milpitas developers use the County HOME Consortium and County Measure A or SHDF (see county records) and SCCHA vouchers. milpitas.gov opened directly.",
+      "source_url": "https://www.milpitas.gov/DocumentCenter/View/10522",
+      "record_id": "e8ff1e27ed",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition-rehab (owner repair)",
+        "public facilities",
+        "public services"
+      ],
+      "next_deadline_date": "2026-06-16",
+      "deadline_check": "past_date"
+    }
+  }
+]

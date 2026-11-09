@@ -1,0 +1,82 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption processing, Napa County Assessor",
+      "administering_agency": "Napa County Assessor-Recorder-County Clerk (John Tuteur)",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Full exemption of property tax on qualifying low-income rental units under Revenue and Taxation Code 214(g) once the BOE issues an Organizational Clearance Certificate; the Assessor rules on the property-use side of the claim.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units occupied by households at or below 80% AMI (with the 140% AMI over-income allowance on BOE-267-L3); regulatory agreement, LIHTC or public financing required; managing general partner must be a qualifying nonprofit or the project a qualifying LLC.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "File BOE-267 (first filing) or BOE-267-A (annual) with the BOE-267-L, L1 and L2 supplements by February 15 each year for the full exemption; late claims through December 31 receive a partial exemption.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard statewide exemption (Pass 1 BOE record); recorded per county because the assessor administers it. Napa has no local property tax abatement JPA. Assessor valuation line 707-259-8740, main office 707-253-4467, 1127 First Street, Suite A, Napa. Contact is from the BOE county assessor directory; napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; the Assessor's exemptions page is https://www.napacounty.gov/1081/Exemptions-From-Property-Taxes.",
+      "source_url": "https://www.boe.ca.gov/proptaxes/countycontacts.htm",
+      "record_id": "f1096cc09e",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Calistoga",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Calistoga Inclusionary Housing Requirements (CMC 17.08.020, Ordinances 709, 733 and 780)",
+      "administering_agency": "City of Calistoga Planning and Building Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Applies to subdivisions of five or more parcels or condominiums and rental projects of five or more units. Ownership projects of 5 to 19 units pay the in-lieu fee ($12,000 per unit per the Housing Element, set by resolution) for every unit. Ownership projects of 20 or more units and rental projects of five or more units provide either 20% of units affordable to moderate income households (120% AMI) or 10% affordable to low income households (80% AMI), restricted 55 years; projects with 10 or more inclusionary units must make 10% of them three bedroom. Alternatives with a Commission or Council infeasibility finding: in-lieu fee, land dedication, off site units, or equivalent methods; the Council may waive or reduce the obligation for economic hardship and may assist developers with subsidies or design flexibility (17.08.020(H)).",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "20% moderate or 10% low income, 55-year recorded affordable housing agreement; ADUs do not count toward the requirement; off site units do not count toward a receiving site's density bonus.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at the first approval through an affordable housing plan; agreement recorded with the final map or before building permit. Ordinance 780 (adopted December 9, 2025 as the Housing Element implementation package) amended 17.08.010 to add special needs groups and set a citywide minimum density of 50% of the maximum (17.03.110).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "The 20% moderate option is the loosest inclusionary standard in the county and lets market rate rental projects avoid low income units entirely; a developer wanting state density bonus concessions must instead hit the 65915 thresholds, and inclusionary units count toward the bonus. 100% affordable projects satisfy the requirement and generate no fee. In-lieu revenue flows to the Affordable Housing Fund record above. Code text read on ecode360 (source_url); the December 9, 2025 second reading staff report and ordinance were opened on the City's CivicWeb host.",
+      "source_url": "https://ecode360.com/47985322",
+      "record_id": "e0cb52973b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental projects of 5 or more units (compliance)",
+        "for-sale subdivisions (compliance)",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": "2025-12-09",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  }
+]

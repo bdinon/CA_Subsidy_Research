@@ -1,0 +1,88 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "El Dorado County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Traffic Impact Fee (TIF) Offset Program for Developments with Affordable Housing Units (Board Policy B-14)",
+      "administering_agency": "El Dorado County Planning and Building Department, Affordable Housing Unit, with the Department of Transportation and the Chief Administrative Office; Housing@edcgov.us; 330 Fair Lane, Placerville (Housing Unit moving to 768 Pleasant Valley Road, Diamond Springs)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Up to $1,000,000 of TIF offsets authorized each year from federal and state transportation revenues, with unused balances carried forward; Board may award more than the annual amount. Since December 2007 about $4.7 million of offsets have supported 344 affordable units. Recent awards: Diamond Village Apartments Phase II $436,632 for 30 units at 80% AMI (about 94% of the project TIF, May 12, 2026); Racquet Way Phase 2 recommended at 50% ($139,098 of $278,196) in February 2026 and denied by the Board. Staff reported about $13 million of offset capacity remaining in the program.",
+      "per_unit_cap": "Offset is a share of the TIF per income-restricted unit: 100% for very low (50% AMI), 75% for low (80% AMI), 25% for moderate (120% AMI) units. 2025 Zone B multifamily TIF is $15,456 per unit, so the full offset is about $15,456 (very low) or $11,592 (low) per unit, subject to each TIF schedule update. Only income-restricted units count.",
+      "affordability_requirement": "Developments of 5 or more units in the unincorporated county with a submitted planning application and at least 20% of units affordable to very low, low or moderate income households. Deed restriction through a TIF Offset Affordable Housing Agreement: 55 years for rental units, 45 years for ownership units (lengthened from 20 years in the September 29, 2026 revision). Must be able to pull permits within 2 years of award (extensions in 1-year increments, up to 3).",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing",
+        "mixed-use",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "No open round as of November 8, 2026. Round 37 applications were accepted January 1 to 15, 2026 with Board awards in spring 2026. Revised Board Policy B-14 (approved September 29, 2026) reviews offset requests twice a year in February and August; the County TIF Offset page still posts only the Round 37 notice, so watch for a new public notice ahead of the February 2027 review.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "This is the County's only recurring development incentive and it is an offset, not cash, so it reduces the fee line of the sources and uses rather than adding a source. A 30-unit project at 80% AMI saved $436,632 in 2026. Scoring criteria: complete packet, site control, developer capacity, benefit to lower income households, Housing Element alignment, mixed income, services and infrastructure, likelihood of construction within 2 years. The Advisory Committee docked Racquet Way for a market-rate developer's limited affordable housing experience, so bring a compliance track record. The 2026 revisions also changed TIM to TIF, removed ADU language and asked the Affordable Housing Task Force to study eligibility up to 150% AMI, 100% offsets for low income units and CAO-delegated awards; none of those were adopted as of September 2026. Fee reductions under Labor Code 1720(b)(4) have an unsettled prevailing wage effect, but most projects using this offset also carry tax credits or state funds that trigger it anyway. Other impact fees (school, fire) still apply. Cities (Placerville, South Lake Tahoe) are outside the program.",
+      "source_url": "https://www.eldoradocounty.ca.gov/Services/HomebuyerRehab-Loans-Affordable-Housing-Development/Traffic-Impact-Fee-TIF-Offset-Program-for-Affordable-Housing",
+      "record_id": "869479f090",
+      "cycle_notes": "Competitive rounds announced by public notice on the County TIF Offset page (Round 37: pre-submission meeting December 10, 2025, questions December 15 to 30, 2025, applications January 1 to 15, 2026 by email to housing@edcgov.us, Advisory Group review January 20 to February 28, 2026, Board awards April 2026). The September 29, 2026 revision of Policy B-14 moves to reviews twice a year in February and August.",
+      "eligible_project_detail": [
+        "new construction",
+        "homeownership",
+        "mixed-use",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "T2 audit 2026-11-08: deadline refreshed from the County page, Round 37 notice and the Legistar copy of revised Policy B-14 (file 26-1443, approved September 29, 2026). Prevailing wage left unclear: neither the program page, the 2017 procedure manual, the Round 37 notice nor revised B-14 mentions prevailing wage, and the Labor Code 1720 text (fee reductions as public funds, de minimis exception) could not be opened this pass (california.public.law and Justia returned 403).",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Placerville",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "El Dorado",
+      "confidence": "verified",
+      "program_name": "Development impact fee deferral for affordable projects (SB 937 implementation, Housing Element Program C-5), ADU impact fee reductions, and Statewide Community Infrastructure Program (SCIP) impact fee financing (Program C-7)",
+      "administering_agency": "City of Placerville Development Services Department (Planning and Building Divisions) and Finance; SCIP bonds issued by California Statewide Communities Development Authority (CSCDA)",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Timing relief, not a reduction, for multifamily: the City reports it implemented fee deferrals under SB 937 in 2025 so impact fees on qualifying affordable projects are collected at certificate of occupancy rather than permit issuance. Housing Element Program C-5 also offers deferment to completion or occupancy, payment over 12 months or longer after completion, or fee reductions where the applicant documents lower facility demand. Impact fee reductions (water, sewer, traffic impact mitigation, park fees) have been implemented only for ADUs and JADUs consistent with state law. SCIP lets a developer finance City impact fees and public improvements through tax-exempt CSCDA bonds repaid by a special assessment on the parcel; the City intends to offer it for all projects, especially housing, but no development had used SCIP as of the 2023 and 2025 progress reports. No general fee waiver for affordable housing exists.",
+      "per_unit_cap": null,
+      "affordability_requirement": "SB 937 deferral applies to projects meeting the statute's affordability definitions (generally 100% affordable or qualifying mixed-income projects); Program C-5 options are for affordable housing providers. SCIP has no affordability requirement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request deferral at building permit; SCIP participation requires a City resolution and CSCDA application ahead of permit issuance. Confirm the current fee schedule and deferral form with the Building Division.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Placerville levies its own traffic impact mitigation, park and utility fees, so the El Dorado County Traffic Impact Fee offset (Board Policy B-14) does not apply to city projects; deferral is the only local fee tool. SCIP assessment financing of impact fees is senior to other liens and must be cleared with TCAC and permanent lenders. Pair with the HO overlay by-right sites and City-sponsored CDBG, PLHA and HOME loans (separate records). Sources read: the March 24, 2026 City Council staff report accepting the 2025 Housing Element Annual Progress Report (SB 937 deferral statement), the City's Housing Resources page describing SCIP (updated March 4, 2025) and Programs C-5 and C-7 of the 2021-2029 Housing Element.",
+      "source_url": "https://www.cityofplacerville.org/media/City%20Council%20Staff%20Reports/2026/03%2024%202026/12.3_SR%202025%20Housing%20Element%20APR%20(CK,DW-Fully%20Executed).pdf",
+      "record_id": "8681173b00",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "adu",
+        "self-help housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program-specific rule found. Labor Code 1720(b)(4) treats fees that are paid, reduced, waived or forgiven by a public agency as public funds, but SB 937 deferral only changes timing and is not listed; ADU fee reductions and any Program C-5 reduction could count under 1720(b)(4) subject to the 1720(c)(3) de minimis test (under $600,000 and under 2% of project cost) and the 1720(c)(1) and (c)(5) private residential exemptions. No DIR determination on fee deferral or SCIP assessment financing was located. Outcome depends on project facts. https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Tier 3: left unclear; only the general Labor Code 1720(b)(4) definition applies and the result turns on 1720(c) exemptions and project facts.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "audit_reasons": [
+      "link_redirected"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "Town of Truckee",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Truckee Workforce Housing Ordinance for non-residential development (Development Code Chapter 18.216)",
+      "administering_agency": "Town of Truckee Community Development Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy (commercial linkage). Commercial, industrial, institutional, recreational, residential resort and other non-residential projects must build workforce housing for a share of the full-time equivalent employees they generate (Table 7-7; commercial projects of 3,500 square feet or less and industrial of 7,000 square feet or less, or under 7 FTEE, are exempt). Fractions and approved cases may pay the same in-lieu fee ($136,851 per required unit under Resolution 2024-65) or use alternative equivalent actions such as land dedication.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Workforce units restricted under Chapter 18.210 affordability controls; occupancy by employees in the Truckee region.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable. Draft 7th cycle Program H-2.E calls for reviewing the ordinance and an affordable housing credit bank by December 2029.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Creates partnering opportunities: commercial developers needing workforce units can buy inclusionary credits from, or dedicate land to, affordable projects. The Edmunds Lofts site came to the Town through a land dedication by High Altitude Fitness under this ordinance. No county equivalent exists.",
+      "source_url": "https://www.townoftruckee.gov/DocumentCenter/View/1196",
+      "record_id": "c9fb1bbef1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "mixed-use",
+        "new construction",
+        "land dedication"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "link_redirected",
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "Town of Truckee",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Nevada",
+      "confidence": "verified",
+      "program_name": "Truckee Homegrown Housing Program, Monetary Incentives (formerly Deed Restriction for New Housing Development)",
+      "administering_agency": "Town of Truckee Housing Division; program operator Sierra Business Council (info@sierrabusiness.org, 530-582-4800)",
+      "funding_type": "grant",
+      "typical_award_size": "Per-unit payment for a 55-year deed restriction on newly built units, paid at certificate of occupancy after recording: studio $100,000, one bedroom $150,000, two bedroom $225,000 for units restricted to 180% AMI; studio $116,000, one bedroom $174,000, two bedroom $261,000 for units restricted to 120% AMI. Guidelines approved June 23, 2026. Town Council has committed $3,600,000 to deed restriction payments, after moving site-acquisition funds into the program in September 2025.",
+      "per_unit_cap": "$261,000 per two-bedroom unit at 120% AMI; studios through two bedrooms only.",
+      "affordability_requirement": "Occupants must work within the Tahoe Truckee Unified School District boundary; household income at or below 180% AMI (rent or price capped at 120% AMI affordability) or at or below 120% AMI (capped at 80% AMI affordability); 55-year non-renewing restriction; no short-term rental; one dedicated parking space per unit.",
+      "eligible_project_types": [
+        "new construction",
+        "mixed-use",
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Open; apply after a complete Planning application. Milestones: building permit application within 9 months of entitlement, permit issued within 18 months, first inspection within 24 months, certificate of occupancy within 30 months, or the award is cancelled.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Designed for missing-middle workforce units, not tax credit deals: projects entitled under State Density Bonus Law are ineligible, and funds cannot be combined with other assistance that imposes an equivalent 55-year income and workforce restriction. Eligible only in VMT Exemption Areas. Payment at C of O means it works as permanent-loan paydown or equity replacement, not construction financing. A January 27, 2026 BAE valuation analysis informed the revised amounts. Town funds count as public funds under Labor Code 1720.",
+      "source_url": "https://www.townoftruckee.gov/DocumentCenter/View/2190",
+      "record_id": "8cdf4a65cc",
+      "cycle_notes": "first come, subject to available funds",
+      "eligible_project_detail": [
+        "new construction",
+        "adu",
+        "mixed-use"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "redirected",
+      "prevailing_wage_basis": "The June 23, 2026 Homegrown Housing Program Guidelines do not address prevailing wage, and whether a post-completion deed restriction payment makes a privately owned residential project a public work under Labor Code 1720 was not confirmed by any cited rule.",
+      "audit_note": "Redirect resolves to the same June 23, 2026 guidelines PDF; payment table, AMI tiers, 55-year term, density bonus exclusion, VMT area and milestone deadlines match. Prevailing wage changed from true to unclear because no stated rule supports true. The $3,600,000 Council commitment is not in the guidelines and was not re-checked.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Development fee waiver for affordable housing (no countywide program)",
+      "administering_agency": "Marin County Community Development Agency",
+      "funding_type": "fee waiver",
+      "typical_award_size": "None adopted. Development Code 22.24.020 states that nothing in the density bonus chapter requires direct financial incentives such as subsidies or fee waivers, though the County may offer them at its discretion. No fee waiver program appears in Board housing actions reviewed for 2025 and 2026.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Not applicable.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Request fee relief case by case through the Affordable Housing Fund or as a density bonus incentive.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding. Labor Code 1720(b)(4) counts waived fees as public funds for prevailing wage purposes. Read on the Zoneomics mirror of Chapter 22.24.",
+      "source_url": "https://www.zoneomics.com/code/marin-county-unincorporated-CA/chapter_3",
+      "record_id": "83146f5922",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of San Rafael",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "San Rafael Density Bonus and Height Bonus program, SRMC 14.16.030(C) and 14.16.190, Resolution 14891 (Tables 3 and 4), Downtown Precise Plan Chapter 7.3 bonus",
+      "administering_agency": "City of San Rafael Community and Economic Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "Requirement framework, not a cash subsidy. Resolution 14891 (Feb 16, 2021) implements Government Code 65915 by Council resolution so tables update without a code amendment: Table 3 scales bonuses from 20% at 5% very low or 10% lower income up to 50% at 15% very low or 24% lower income, 35% at 40% moderate ownership, 20% for senior housing, land donation, supportive housing and student housing categories, and 80% or unlimited density with a three-story height increase for 100% affordable projects within a half mile of a major transit stop. Table 4 lists concessions including a 20% reduction in yard setback, lot coverage or landscape requirements each counted as one concession, mixed-use allowances and parking at state maximums. Section H allows an affordable housing applicant to request a planning fee waiver under Resolution 11025. A separate height bonus (14.16.190) and the Downtown Precise Plan Chapter 7.3 bonus add floors for affordable units downtown; the City's October 2026 Prohousing self-assessment states its program exceeds statutory requirements by 12 percent.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per Government Code 65915 thresholds; 55-year affordability for very low and low rental units that earn the bonus. 100% affordable projects may include up to 20% moderate income units and one manager unit.",
+      "eligible_project_types": [
+        "new construction",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Resolution 14891 anticipated amendment once the Downtown Precise Plan bonus was finalized; the City is also drafting Objective Design Standards (Housing Element Program 25) and parking standard revisions (Program 43) through 2027 as Prohousing commitments.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Most San Rafael rental projects now use this path rather than paying the in-lieu fee (City staff, Oct 5, 2026), which reduces Trust Fund revenue but speeds entitlements; recent examples include 1515 Fourth Street, 4040 Civic Center Drive, 930 Irwin and 1100 Los Gamos (190 affordable units, seven stories). The City also reports no traffic mitigation fee on affordable units (see fee waiver record). Stack with the County Trust Fund and PLHA, which do not depend on the bonus. Resolution 14891 PDF opened from the City fees page; the Downtown Precise Plan Chapter 7.3 text was not opened this pass.",
+      "source_url": "https://storage.googleapis.com/proudcity/sanrafael/2026/07/Resolution-14891-with-tables.pdf",
+      "record_id": "e092c17412",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "private",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-08",
+      "research_pass": "4_private",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Marin Community Foundation CommunityFirst Loan Fund (nonprofit site acquisition and affordable housing loans)",
+      "administering_agency": "Marin Community Foundation, 5 Hamilton Landing Suite 200, Novato; director for community investment performs due diligence; Finance Committee approves loans under $5 million, board approves larger",
+      "funding_type": "loan",
+      "typical_award_size": "Loans to Marin nonprofits generally $500,000 to $5 million; short or long term; uses include site acquisition, construction and rehabilitation for Marin County affordable housing and capacity-building bridges; 0% default rate over 20 years; repayments revolve. Example: $1.35 million loan plus $500,000 grant for Stinson Beach affordable housing. Rates not posted (a 2017 fund report cited 4.0% fixed).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Marin County nonprofits that cannot access or afford commercial debt, including affordable housing projects.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Marin County only, nonprofit borrowers only. MCF has co-funded the Marin Workforce Housing Trust with the County and named homelessness and affordable housing a strategic priority in 2024. Pair with the Marin County Affordable Housing Fund and city in-lieu funds (San Rafael, Novato, Mill Valley); MCF money can close acquisition gaps ahead of County awards.",
+      "source_url": "https://www.marincf.org/marin-community/how-we-support-nonprofits/community-first-loan-fund",
+      "record_id": "ee16eba9f7",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "acquisition",
+        "construction",
+        "acquisition-rehab",
+        "preservation",
+        "capacity-building bridge loans"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

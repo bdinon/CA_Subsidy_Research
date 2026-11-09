@@ -1,0 +1,119 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Napa County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "Napa County Affordable ADU Forgivable Loan Program (single-unit, recorded for completeness)",
+      "administering_agency": "Napa County Housing and Community Services",
+      "funding_type": "loan",
+      "typical_award_size": "Under the updated underwriting guidelines (V2) adopted by the Board on March 10, 2026: base forgivable loan $60,000 for a 1-bedroom or $85,000 for a 2-bedroom ADU plus up to $20,000 in rebates, for a total maximum of $80,000 or $105,000 (lesser of that amount or actual development cost). 5.0% simple deferred interest, forgiven monthly (1/60) over the 5-year affordability term; opt-out by repaying the unforgiven balance. Launched March 2023 (2023 range was $45,000 to $105,000). Funded from the Affordable Housing Fund.",
+      "per_unit_cap": "$105,000 per ADU (2-bedroom, including $20,000 rebate); $80,000 for a 1-bedroom.",
+      "affordability_requirement": "Owner-occupant of a single-family home in Napa County rents the ADU to a household at or below 80% AMI at HCD 80% AMI rents (2026 examples $2,563 for 1-bedroom, $2,884 for 2-bedroom) under a 5-year covenant; loan forgiven on compliance.",
+      "eligible_project_types": [
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Open until funds are exhausted; applications through the County.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Not a multifamily source; recorded so the Affordable Housing Fund's competing uses are visible (ADU loans, farmworker centers, homeless services and fair housing all draw on the same fee revenue). Terms from the Napa Valley Community Foundation launch notice (March 17, 2023) and County news releases quoted in search results; napacounty.gov pages and DocumentCenter PDFs sit behind Cloudflare and refused automated access on 2026-11-06, so the county's own page could not be opened; the 2026 notice is https://www.napacounty.gov/CivicAlerts.aspx?AID=858.",
+      "source_url": "https://napa.legistar1.com/napa/attachments/201f9d80-fbde-4df8-9dd9-b7548f13765b.pdf",
+      "record_id": "fb882ab07a",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "ADU"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "audit_note": "Award terms re-verified against the March 10, 2026 V2 guidelines on Napa County Legistar (matter 26-308). Prevailing wage left unclear: the guidelines and staff report contain no prevailing wage provision and no stated rule for owner-occupant ADU loans was found.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of American Canyon",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "American Canyon Permanent Local Housing Allocation share (administered by the City of Napa) for ADU and JADU forgivable loans",
+      "administering_agency": "City of Napa Housing Division as delegated administrator for the City of American Canyon",
+      "funding_type": "loan",
+      "typical_award_size": "95% of American Canyon's 2019-2023 PLHA formula allocation funds a Junior ADU and ADU loan program modeled on Napa's Junior Unit Initiative (forgivable loans and technical assistance to homeowners), 5% administration. Projected 4 households a year, 20 over five years. Allocation size is a small non-entitlement formula share (low six figures over five years).",
+      "per_unit_cap": "Modeled on Napa's $50,000 forgivable plus $25,000 deferred per unit.",
+      "affordability_requirement": "ADU or primary unit rented to a household at or below 80% AMI under a recorded regulatory agreement.",
+      "eligible_project_types": [
+        "adu"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Rolling through the City of Napa Housing Division while funds last; the 2022 five year plan covers the 2019-2023 allocations and the 2024-2028 PLHA cycle requires a new plan.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding for multifamily: American Canyon's only state formula housing money is committed to ADUs and no multifamily set aside exists. The 2025 APR shows 17 affordable ADU permits since 2023 against a 16 unit goal, so the program is working as intended. Source is the City of Napa posted PLHA plan for American Canyon (source_url); americancanyon.gov pages return 403 to scripts and the Housing Resources page could not be opened, so confirm current status with the City of Napa Housing Division (707-257-9543).",
+      "source_url": "https://www.cityofnapa.org/DocumentCenter/View/10393/2022-PLHA-Formula-Application---American-Canyon-PDF",
+      "record_id": "47f32a2460",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "adu"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program rule found. The American Canyon PLHA plan (City of Napa as delegated administrator) is silent on prevailing wage and describes loans to create ADUs or JADUs, not only conversions. HCD PLHA guidelines (2019 and 2024-2028) have no prevailing wage provision. The City of Napa Junior Unit guidelines claim the Labor Code 1720(c)(5)(C) single-family rehab exemption, but they cover only properties in the City of Napa and only JADUs and conversions; American Canyon guidelines were not located. Coverage otherwise rests on Labor Code 1720(b) public funds and depends on 1720(c) facts, such as (c)(5)(C) for rehab of a single-family home or (c)(1) for private residential projects on private property. https://www.cityofnapa.org/DocumentCenter/View/10393/2022-PLHA-Formula-Application---American-Canyon-PDF ; https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Tier 3: left unclear. American Canyon plan and PLHA guidelines silent; Napa's 1720(c)(5)(C) exemption statement applies to Napa's own conversion-only program and may not cover new ADU construction in American Canyon. Confirm with City of Napa Housing Division.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of St. Helena",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Napa",
+      "confidence": "verified",
+      "program_name": "St. Helena reduced, deferred or waived fees for affordable housing (Housing Element Program H-CC) and Density Bonus Chapter 17.29",
+      "administering_agency": "City of St. Helena Community Development Department; City Council",
+      "funding_type": "fee waiver",
+      "typical_award_size": "The City reduces, defers or waives application and impact fees for affordable developments case by case; through January 1, 2022 it had reduced, deferred or waived fees for 21 affordable units (Turley Flats, Brenkle Court, 963 Pope Street), in part by lending trust fund money to cover deferred fees. The 2023-2031 Housing Element sets a goal of fee relief for 30 extremely low or very low income units and commits to adopt eligibility criteria and higher incentives for extremely low and very low income units. Chapter 17.29 implements the state density bonus (one to three concessions at 10%, 17% and 24% lower income, etc.) with the 5% local bonus add on for ownership projects under 17.30.030(G).",
+      "per_unit_cap": "Not applicable; fee relief sized per project.",
+      "affordability_requirement": "Affordable housing developments, with priority for extremely low and very low income units; deed restrictions required under the City affordable housing agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "mixed-income"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Request with the entitlement application; Council approves fee relief with the funding commitment. Housing Element program timelines run through 2031.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Fee relief is routinely bundled with trust fund and Measure E commitments, so a St. Helena request should ask for all three at once. St. Helena's PLHA share (95% rehab loans up to $60,000 through the City of Napa) and its Housing Services Agreement with HACN (Section 8, regulatory monitoring, loan servicing) round out the local layer; there is no HOME or CDBG entitlement. Waived or reduced fees can count as public funds under Labor Code 1720(b)(4). Source: 2023-2031 Housing Element HCD review draft on hcd.ca.gov (source_url; the City adopted the element in 2023 and the final version was not located on the City site); the City budget and code mirror were also opened.",
+      "source_url": "https://www.hcd.ca.gov/housing-elements/docs/saint-helena-6th-draft090722.pdf",
+      "record_id": "50066ec95b",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "100% affordable projects",
+        "mixed-income projects"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program rule found. Housing Element Program H-CC (HCD review draft) is silent on prevailing wage and St. Helena has not adopted written fee relief criteria. Reduced, deferred or waived fees are public funds under Labor Code 1720(b)(4), but coverage depends on 1720(c) exemptions and project facts, such as (c)(3) de minimis, (c)(5)(E) for qualifying below-market loans, and the other public funds in the deal (trust fund, Measure E). https://www.hcd.ca.gov/housing-elements/docs/saint-helena-6th-draft090722.pdf ; https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Tier 3: left unclear. Housing Element searched for prevailing wage, Davis-Bacon and public works with no program rule; only basis is Labor Code 1720(b)(4), which depends on 1720(c) exemptions and project facts.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

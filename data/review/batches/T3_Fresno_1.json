@@ -1,0 +1,158 @@
+[
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Fresno County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29: housing interventions, capital development and operating subsidies",
+      "administering_agency": "Fresno County Department of Behavioral Health (Integrated Plan approved by the Board June 16, 2026)",
+      "funding_type": "grant",
+      "typical_award_size": "Housing Interventions component expenditures: $26,929,779 (FY 2026-27), $30,078,356 (FY 2027-28), $31,885,245 (FY 2028-29). Capital development $6,098,789 to $6,118,094 a year (24.8% of the component in year one, under the 25% cap), permanent rental subsidies $7,092,044 plus bundled rental and operating $2,526,608, interim rental subsidies $1,207,577 and bundled $2,250,773, outreach $1,709,758, participant assistance $373,266, Housing Flex Pool start-up $400,000 a year, flex pool share rising from 50% to 80%. First capital commitment: Victory Village (959 N. Parkway Drive, Fresno; Fresno Housing conversion of a shelter to 42 units, 41 PSH for chronically homeless) conditional $6,300,000 capital plus $287,000 a year operating subsidy for 30 years ($8,610,000) and on-site services valued at $424,872 a year, contingent on 2026 Round 2 9% tax credits (resolution June 30, 2026).",
+      "per_unit_cap": "Victory Village: about $153,659 of BHSA capital per PSH unit; BHSA capital is limited to 25% of the Housing Interventions component.",
+      "affordability_requirement": "BHSA eligible adults with serious mental illness or substance use disorder; at least 50% of housing funds for chronically homeless people; Victory Village carries a 30-year use restriction for 41 PSH units.",
+      "eligible_project_types": [
+        "supportive housing",
+        "interim housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA. Behavioral Health plans one BHSA capital project of about 42 units per plan period and will issue an RFP for a Housing Flex Pool operator; Behavioral Health Bridge Housing operating subsidies for 180 units at two sites convert to BHSA when BHBH ends in 2027. Developers should approach Behavioral Health housing staff with a PSH project that needs capital or a 20 to 30 year operating subsidy.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Fresno County splits housing work three ways: the Department of Public Works and Planning, Community Development Division (ComDev) runs the Urban County HUD programs, PLHA and the annual Affordable Housing Development NOFO; the County Administrative Office's new Office of Housing and Homelessness (OHH, created November 18, 2025) administers HHAP, the Continuum of Care and Transitional Rent and is absorbing housing programs from Behavioral Health and ComDev (Phase 2 approved November 3, 2026); and the Department of Behavioral Health co-applies for Homekey+ and NPLH and funds BHSA housing. Fresno Housing (the joint City and County Housing Authorities) is the dominant developer and voucher source. The City of Fresno and Clovis are separate entitlements with their own programs (Pass 3). fresnocountyca.gov and fresnohousing.org open normally; Board records are on fresnocounty.legistar.com and the Legistar web API client 'fresnocounty'. Fresno is one of the few counties in this database putting BHSA into capital (about $6.1 million a year) and into long operating subsidies ($287,000 a year for 30 years at Victory Village, $15.3 million over 20 years at Sendero Commons). Tenant-based subsidies serve 869 people in year one rising to 1,049, 372 units a year. Capital money has gone first to Fresno Housing (Victory Village) and to the Homekey+ project in Sanger. Source is the revised 2026-2029 Integrated Plan PDF; budget figures from the Integrated Plan Budget attachment to Board file 26-0538 and the Victory Village resolution (file 26-0585). Audit 2026-11-08: classed as grant because the BHSA Integrated Plan funds housing capital (Capital Development Projects $6,098,789 to $6,118,094 a year) and rental and operating subsidies for housing; the Victory Village resolution (No. 26-251) is a conditional capital commitment and operating subsidy, and the loan or grant form of the capital will be set in the enforceable funding agreement after a 9% award.",
+      "source_url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/behavioral-health/mhsa/fresno-county-2026-2029-integrated-plan-revised.pdf",
+      "record_id": "7d3d7bce80",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "permanent supportive housing capital (one planned project per plan year)",
+        "project-based and tenant-based rental subsidies",
+        "operating subsidies for PSH and interim housing",
+        "master-leased and flex pool units"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "blocked",
+      "audit_note": "Original source_url (fresnocountyca.gov PDF) returned 403 Access Denied to automated fetch on 2026-11-08; reclassification checked against the Board-adopted Integrated Plan Budget and Victory Village agenda item and resolution on Fresno County Legistar.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Downtown and Chinatown Housing Development NOFA, City Revolving Loan Fund (RLF) construction loans",
+      "administering_agency": "City of Fresno Planning and Development Department",
+      "funding_type": "loan",
+      "typical_award_size": "Construction gap loans of up to $8,000,000 per project from the City Revolving Loan Fund (Round 2 awards: Helm Lofts $8M, Uptown Apartments $8M, The Park at South Stadium $8M). 60-month term, variable rate estimated at 4.81%, secured by deed of trust.",
+      "per_unit_cap": "None published; awards to date have been a flat $8M regardless of unit count (48 to 174 units).",
+      "affordability_requirement": "None required for RLF dollars; market-rate projects are eligible (Uptown is 48 market-rate units). Affordability comes from layered sources or Surplus Land Act terms (South Stadium 70 of 174 units restricted to very low and low income for 55 years).",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Round 2 NOFA (PlanetBids No. 12601560) opened February 13, 2026 and closed April 14, 2026; conditional commitments expire December 31, 2026 unless financing closes. No Round 3 announced as of 2026-11-08.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Short-term construction money, not permanent soft debt: it must be taken out at conversion, so it suits 4% LIHTC or mixed-income deals with a permanent loan sized to repay. Pairs with City PLHA, LHTF and FHS land in the Downtown/Chinatown area, and with the TOD height and density bonus. RLF capital is State money: $20 million of the State's $250 million Downtown Fresno appropriation (FY 2025-26 installment, Resolution 2025-256) plus a further $5 million appropriated in 2026 for a $25 million fund (Council item 25-1713). The executed RLF Agreement form (item 26-440) nonetheless contains boilerplate federal compliance language; confirm with the City whether any federal cross-cutters attach.",
+      "source_url": "https://agendas.fresno.gov/en/legislation/id-26-145-20842",
+      "record_id": "3af88382e6",
+      "cycle_notes": "round-based NOFA, awards on a rolling basis",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": "2026-12-31",
+      "deadline_check": "future_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program rule found. The City RLF Agreement form (Council item 26-440, Park at South Stadium) requires compliance with prevailing wage laws only 'as may be applicable' (sections 5.4 and 7.14) and the staff reports and resolutions for Helm Lofts, Uptown and South Stadium are silent. Coverage then rests on Labor Code 1720(b) (public funds, including below-market loans) and depends on 1720(c) facts, such as (c)(5)(E) for below-market loans with 40% of units at 80% AMI or less for 20+ years and (c)(3) de minimis, so it is project-specific. https://agendas.fresno.gov/en/legislation/id-26-440-21137 ; https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Tier 3: prevailing wage left unclear. RLF Agreement says prevailing wage applies 'as may be applicable'; outcome depends on Labor Code 1720(b) and 1720(c) project facts. The Round 2 NOFA document itself (PlanetBids 12601560) was not readable.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fresno",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Affordable housing development impact fee deferral to certificate of occupancy (uncodified Ordinance 2008-51)",
+      "administering_agency": "City of Fresno Planning and Development Department and Public Works Department",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Defers payment of all adopted City development impact fees (street, water, sewer and others) on qualifying affordable units from building permit to certificate of occupancy. Deferral only, no reduction.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Inside the Central Area (bounded by SR 180, 99 and 41): any unit in a development with at least 15% of units restricted; outside the Central Area: restricted units only. Covenants of at least 55 years for rental and 30 years for ownership.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Ongoing; request at building permit.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Construction-period carry savings only; fees are still due before occupancy. Stacks with the Infill Incentive waiver where both apply and with density bonus concessions. Ordinance dates from 2008; confirm current implementation with Public Works since it is uncodified.",
+      "source_url": "https://www.fresno.gov/wp-content/uploads/2023/04/AFFORDABLE-HOUSING-WAIVER.pdf",
+      "record_id": "e3f913d8e0",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok",
+      "prevailing_wage_basis": "No program rule found; Ordinance 2008-51 (fee deferral to certificate of occupancy) says nothing on prevailing wage. Coverage would rest only on Labor Code 1720(b)(4) (fees or obligations paid, reduced, waived or forgiven), and whether a deferral with no reduction counts, plus the 1720(c)(3) de minimis test ($600,000 and 2% of project cost), depends on project facts. No DIR determination on point was located. https://california.public.law/codes/labor_code_section_1720",
+      "audit_note": "Tier 3: prevailing wage left unclear. The only basis is Labor Code 1720(b)(4); a pure deferral may not be a reduction or waiver, and the de minimis exemption in 1720(c)(3) may apply. Project-specific.",
+      "last_audited": "2026-11-08"
+    }
+  },
+  {
+    "audit_reasons": [
+      "prevailing_wage_unclear"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Clovis",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Fresno",
+      "confidence": "verified",
+      "program_name": "Clovis Affordable Housing Development Impact Fee Deferral Program (2025-2026 NOFA, Judgment Action Item 6)",
+      "administering_agency": "City of Clovis Affordable Housing Program",
+      "funding_type": "fee waiver",
+      "typical_award_size": "Defers 40% (80% AMI units), 45% (50% AMI) or 50% (30% AMI) of City major facility sewer and water fees per restricted unit, up to 120 affordable units per fiscal year. Deferred amount becomes a 0% residual receipts loan, 17-year term for multifamily (30 years single-family) or as senior lenders require.",
+      "per_unit_cap": "Percentage of each unit's major facility sewer and water fees; no dollar cap.",
+      "affordability_requirement": "Units restricted at or below 80% AMI; recorded development agreement, deed of trust and declaration of restrictions; units must be built after July 1, 2024 and receive certificates of occupancy by December 31, 2031. Units required by MIZO are ineligible.",
+      "eligible_project_types": [
+        "new construction"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No fixed deadline as of November 8, 2026. The City program page states applications are accepted year-round, first come, first served, for up to 120 affordable units per year starting July 1, 2024; it still links the August 28, 2025 NOFA and no 2026-27 NOFA is posted.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Only sewer and water major facility fees are covered; other City impact fees remain due. The residual receipts note sits behind senior and tax credit financing. Clovis states development fees cannot be waived. Pairs with Clovis density bonus and the R-3 density increase to 20 to 30 du/ac.",
+      "source_url": "https://www.clovisca.gov/documents/Services/Affordable Housing/Housing Settlement/City of Clovis - NOFA - Development Impact Fee Deferral Program - August 28 2025.pdf",
+      "record_id": "8bc997e0a1",
+      "cycle_notes": "Year-round, first come, first served, 120 units per fiscal year; annual NOFA document.",
+      "eligible_project_detail": [
+        "new construction"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "error",
+      "audit_note": "Prevailing wage left unclear: the NOFA lists federal Davis-Bacon only for 12 or more HOME units and states no state prevailing wage rule for the fee deferral itself.",
+      "last_audited": "2026-11-08"
+    }
+  }
+]

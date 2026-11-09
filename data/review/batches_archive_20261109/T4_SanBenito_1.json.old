@@ -1,0 +1,74 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "San Benito County",
+      "date_researched": "2026-11-07",
+      "research_pass": "2_county",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Density bonus, concessions and affordable-by-design standards (Chapter 21.03 Sections 13 and 14)",
+      "administering_agency": "San Benito County Resource Management Agency, Planning and Building",
+      "funding_type": "density bonus",
+      "typical_award_size": "State density bonus law (Government Code 65915 to 65918) implemented in Chapter 21.03 Section 13 as amended December 13, 2022, covering concessions and incentives, fractional unit rules and rental, for-sale and condominium projects; Section 14 adds optional affordable-by-design development standards assessed case by case. The 2023-2031 Housing Element rezoning (Ordinance 1091 and Resolution 2026-5, January 13, 2026) created a Residential High zone on twelve parcels, and HCD certified the Housing Element on February 3, 2026.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Government Code 65915 affordability thresholds with recorded covenants; inclusionary units may count toward the bonus per state law.",
+      "eligible_project_types": [
+        "homeownership"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Requested with the land use application; Planning and Building reviews affordable housing plans before Planning Commission and Board approval.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. The County applies state law without local enhancements; the certified Housing Element and Residential High rezoning are the main 2026 change, opening higher-density sites near Hollister for 100% affordable projects that can also use the state density bonus. Source is the December 13, 2022 Board packet; Housing Element approval details from the January 13 and February 10, 2026 agendas on cosb.granicus.com.",
+      "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/6404819104d9eef39ad033a9e4860b430.pdf",
+      "record_id": "d508c4f869",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "multifamily rental and for-sale housing in unincorporated zones, including the new Residential High zone sites"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Hollister",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "San Benito",
+      "confidence": "verified",
+      "program_name": "Inclusionary Housing Program (Municipal Code Chapter 17.36, Ordinance 1252)",
+      "administering_agency": "City of Hollister Community Development Department, Planning Division and Housing Division (housing@hollister.ca.gov, (831) 636-4360 x1254)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. All for-sale and rental residential projects of 10 or more units must provide 15% of base units (before any density bonus) as on-site inclusionary units: at least 6% very low income, at least 5% very low or low income, and at least 4% very low, low or moderate income (Section 17.36.050). Fractions of 0.25 or more round up. No in-lieu fee option exists; the only alternatives (Section 17.36.060) are affordable rental units inside a for-sale project or acquisition and rehabilitation of existing market-rate units (rehab value at least 25% of pre-rehab value, physical needs assessment, on a residentially zoned site). Council approved the ordinance June 18, 2024 (second reading August 2024 per Housing Element Policy Action H4.1); goal of 150 inclusionary units during 2023-2031.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Inclusionary units sold or rented only to very low (50% AMI), low (80% AMI) or moderate (120% AMI) households per San Benito County HCD limits (2025 AMI $140,200 for a family of four); units must average at least 85% of the square footage of market units with the same bedroom count, match bedroom mix, finishes and exterior design, and be dispersed on site; buyers and renters screened through an open public process by the City or a third-party administrator; for-sale units carry resale controls and rental units carry recorded affordability covenants.",
+      "eligible_project_types": [
+        "acquisition-rehab",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; inclusionary units must be permitted and occupied in proportion to market-rate units in each phase (Section 17.36.050 F). Exempt: ADUs, projects under 10 units, vesting tentative maps and development agreements in effect at the June 2024 effective date, and complete applications filed before that date. Council may set administration and monitoring fees by resolution (Section 17.36.080).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Hollister's program is stricter than the San Benito County Chapter 21.03 ordinance (15% on site or 20% off site, with a $30 per square foot in-lieu fee) because it allows no fee payment and requires on-site units for both rental and for-sale projects; as a result the City has no inclusionary in-lieu fund to redeploy as gap financing. Inclusionary units may be used to qualify for a density bonus under Chapter 17.34 (Section 17.36.050 C), so a 15% inclusionary project can stack the state bonus and concessions. The City's Below Market Rate Housing Program (affordable_housing.php) administers waitlists for inclusionary units; all waitlists were closed as of this pass. Hollister's prior Housing Developer Resources page (opened) states the City previously had no inclusionary ordinance; the code text was read on the zoneomics mirror because library.municode.com blocks automated access. Pairs with the Housing Authority of the County of Santa Cruz PBVs and the CMFA conduit bonds recorded at the county level (Baler Place, 340 Bridgevale Road, is a Hollister project).",
+      "source_url": "https://www.zoneomics.com/code/hollister-CA/chapter_16",
+      "record_id": "dfadf93775",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate for-sale subdivisions and condominium projects of 10 or more units (compliance)",
+        "market-rate rental projects of 10 or more units (compliance)",
+        "acquisition-rehab of existing units as alternative compliance"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date"
+    }
+  }
+]

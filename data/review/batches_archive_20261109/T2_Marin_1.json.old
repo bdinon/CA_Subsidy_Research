@@ -1,0 +1,83 @@
+[
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Permanent Local Housing Allocation (PLHA), Marin County entitlement, matched 1:1 by the Affordable Housing Fund",
+      "administering_agency": "Marin County Community Development Agency, Housing and Federal Grants Division (HCD entitlement grantee)",
+      "funding_type": "grant",
+      "typical_award_size": "2020 five-year plan estimated $4,353,426 from HCD, each dollar matched by the County Affordable Housing Fund; Formula Round 5 award $476,762 (March 2025); 2026-27 cycle about $477,000 PLHA plus match. HCD 2024-2028 Formula Allocation NOFA estimates: CY 2024 $509,302, CY 2025 $545,537, five-year $3,183,138. Example award: $605,062 to EAH Housing in 2024 ($302,531 PLHA plus $302,531 Trust Fund). HCD now requires 40% of new PLHA for affordable owner-occupied workforce housing (up to 150% AMI in high-cost Marin), and the County noted its owner-occupied spending was trailing.",
+      "per_unit_cap": null,
+      "affordability_requirement": "PLHA guidelines: rental development for households at or below 60% AMI emphasized (PLHA allows up to 80% AMI rental and 120% to 150% AMI ownership), 55-year covenants on rental; County goals cover family, rental, homeowner and special needs housing and an eastern Marin land trust.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "application_cycle": "annual NOFA",
+      "next_deadline": "PLHA is awarded through the County's annual NOFA (next expected January to February 2027) after HCD executes each calendar year's agreement; the Board approves PLHA by separate resolution once the state contract arrives (June 23, 2026 direction).",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Roughly $1,000,000 a year including County match, spread across two or three projects. Marin's housing element was certified in 2025, so PLHA flows without the compliance holds seen in San Mateo. State funds trigger prevailing wage. Figures from the HCD 2024-2028 PLHA NOFA (opened), the Dec 5, 2024 PSC packet on GovDelivery (opened) and search excerpts of County pages.",
+      "source_url": "https://content.govdelivery.com/attachments/CAMARIN/2024/11/25/file_attachments/3082562/20241205%20PSC%20Agenda%20and%20Staff%20Report%20with%20Attachments%20vfinal.pdf",
+      "record_id": "1dd777eed5",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing",
+        "homeownership"
+      ],
+      "next_deadline_date": "2026-06-23",
+      "deadline_check": "past_date"
+    }
+  },
+  {
+    "audit_reasons": [
+      "deadline_past"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Marin County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Marin",
+      "confidence": "verified",
+      "program_name": "Project-Based Vouchers and public housing conversion, Marin Housing Authority (MHA)",
+      "administering_agency": "Housing Authority of the County of Marin, 4020 Civic Center Drive, San Rafael, 415-491-2525; procurement on procurement.opengov.com/portal/marinhousing",
+      "funding_type": "rental assistance",
+      "typical_award_size": "MHA holds 496 public housing units and 2,541 Housing Choice Vouchers (3,037 combined, FY 2027 draft PHA Plan) and serves the whole county under cooperation agreements with every city. The FY 2027 plan begins converting the roughly 300-unit senior and disabled public housing portfolio (Mill Valley, San Rafael, Novato) to project-based vouchers through a RAD and Section 18 blend, and Golden Gate Village (296 units, Marin City) is converting under RAD with Burbank Housing: Phase 1 (88 units, $76,000,000 to $85,000,000) closed on CMFA bonds up to $50,000,000 (TEFRA Oct 14, 2025), a CDLAC allocation of $41,748,341 and about $3,985,091 in annual federal credits, with construction starting February 2026; Phase 2 TEFRA for up to $160,000,000 of bonds was set for Oct 20, 2026; the full program is estimated at $266,600,000. MHA runs PBV waitlists for partner properties (Victory Village in Novato, Edgewater, Piper Court, Fireside, Toussin Senior, Vivalon Healthy Aging Campus, 1251 S. Eliseo PSH in Larkspur) but has issued no developer PBV RFP recently; 94 Emergency Housing Voucher households were told in Oct 2025 that funding ends in 2026. The County contributes $250,000 a year for MHA's resident services director and has committed more than $6,250,000 to Golden Gate Village since 2022.",
+      "per_unit_cap": "HUD PBV caps (20% of authorized vouchers plus 10% for homeless, veteran and supportive services units); MHA payment standards.",
+      "affordability_requirement": "Households at or below 50% AMI at admission (75% at or below 30% AMI); PBV waitlists per property; Shelter Plus Care and HOPWA administered by MHA for the CoC; HAP contracts up to 20 years.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No PBV solicitation open as of Nov 2026; the FY 2027 Annual Plan was out for comment May 30 to July 14, 2026 and HUD's December 2025 budget letter limits new voucher commitments. Ask MHA about PBVs for specific PSH projects; recent awards went to Homeward Bound and Vivalon buildings.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "MHA's capacity is going into its own RAD conversions through 2029, so new PBV awards for third-party projects are scarce; Shelter Plus Care and County-funded subsidies (Binford Road temporary rental support, $744,432 contract Dec 16, 2025) fill the gap for PSH. A HAP contract is not a prevailing wage trigger; Davis-Bacon applies to PBV construction of nine or more contract units, and RAD and public housing work carry Davis-Bacon regardless. Sources opened: MHA website pages, the FY 2027 draft PHA Plan (HUD-50075-ST), the April 14, 2026 Golden Gate Village loan staff report, Board agendas on Granicus and Patch and Local News Matters coverage of the bond approvals.",
+      "source_url": "https://irp.cdn-website.com/4e4dab0f/files/uploaded/HUD-50075-ST+-+draft+052926k.pdf",
+      "record_id": "8fbf0d902c",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "supportive housing",
+        "new construction",
+        "acquisition-rehab",
+        "existing housing"
+      ],
+      "next_deadline_date": "2026-07-14",
+      "deadline_check": "past_date"
+    }
+  }
+]

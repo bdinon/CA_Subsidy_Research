@@ -1,0 +1,160 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "County conduit multifamily housing revenue bonds (none; CMFA used in Solano County)",
+      "administering_agency": "Solano County (not an active conduit issuer); California Municipal Finance Authority used instead",
+      "funding_type": "bond",
+      "typical_award_size": "No county issuance program found. Recent Solano deals used CMFA: $75,750,000 for Step Up Housing / Align Finance, Vallejo (Nov 18, 2025); $32,131,176 for Sacramento Street Apartments, Vallejo (74 units, 55-year restriction, 2026).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per CDLAC: at least 20% of units at 50% AMI or 40% at 60% AMI, 55-year regulatory agreement.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "application_cycle": "closed/inactive",
+      "next_deadline": "Not applicable. Use CMFA, CSCDA or CalHFA; the Board of Supervisors or city council holds the TEFRA hearing.",
+      "prevailing_wage_trigger": "unclear",
+      "layering_notes": "Negative finding recorded so later passes do not search again. Solano 4% deals pair CMFA bonds with CTCAC credits, city HOME or inclusionary funds and the County Housing Trust Fund. Conduit bonds alone do not trigger state prevailing wage.",
+      "source_url": "https://www.cmfa-ca.com/2025/11/",
+      "record_id": "2358a94de8",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Solano County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption processing, Solano County Assessor",
+      "administering_agency": "Solano County Assessor/Recorder, Exemptions Division, 675 Texas Street Suite 2700, Fairfield, 707-784-6210, exemptions@solanocounty.gov",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Full exemption of property tax on qualifying low-income rental units under Revenue and Taxation Code 214(g) once the BOE issues an Organizational Clearance Certificate (BOE-277); the Assessor rules on property use.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Units occupied by households at or below 80% AMI (140% AMI over-income allowance on BOE-267-L3); regulatory agreement, LIHTC or public financing required; managing general partner a qualifying nonprofit or qualifying LLC.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "File BOE-267 (first filing) or BOE-267-A (annual) with BOE-267-L, L1 and L2 supplements by February 15 each year; late claims through December 31 receive a partial exemption.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard statewide exemption (Pass 1 BOE record), recorded per county because the assessor administers it. Solano has no local property tax abatement JPA. The Assessor's page points to BOE Publication 149; office hours Monday to Friday 9 a.m. to 4 p.m.",
+      "source_url": "https://www.solanocounty.gov/government/assessorrecorder/assessor-division/property-tax-savings/nonprofit-property-tax-exemptions",
+      "record_id": "3a5f382faf",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fairfield",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Fairfield Housing Trust Fund and Low/Moderate Income Housing (Housing Successor) funds, developer NOFA (August 2024 round)",
+      "administering_agency": "City of Fairfield Housing Services Department (Fairfield Housing Authority as Housing Successor), 1000 Webster Street, Fairfield, 707-428-7392",
+      "funding_type": "loan",
+      "typical_award_size": "Gap loans from the City's Housing Trust Fund and former redevelopment Low/Mod funds. The August 2024 NOFA (Council goal HS 3.1, estimated $2,100,000) drew four proposals; Council approved financing for two. The March 2026 Council Goals report shows Danco approved for $1,500,000 with a Homekey+ application for a combined $23,500,000. A 2024 City press release (not opened, fairfield.ca.gov returns 403) described the round as about $1,000,000 of Local Housing Trust Fund money plus CDBG, applications due September 24, 2024. Closing of the 1600 Woolner site generated $1,121,000 in Low/Mod funds; the City also obtained a $700,000 state HOME grant and applied for an $800,000 MORE grant. Disposition of Successor Agency properties (Sem Yeto school site, Highway 12 parcel) is meant to replenish Low/Mod funds; an LOI for Sem Yeto was under review in December 2025. Council has also approved project-based voucher and housing trust fund financing for a multifamily preservation deal (Dec 2025 report).",
+      "per_unit_cap": "None published. Danco approval equals $1,500,000 for one project.",
+      "affordability_requirement": "Extremely low to moderate income households; Housing Element Action 3.1 requires long-term covenants (45 to 55 years) on City-assisted units.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "No NOFA open as of November 2026. The City issues NOFAs when funds accumulate (last August 2024). Housing Element Action 3.2 commits to a NOFA a year before any tax credit compliance period ends for at-risk projects. Contact Housing Services before the next TCAC round.",
+      "prevailing_wage_trigger": "true",
+      "layering_notes": "Fairfield is the only Solano city with a working local trust fund plus Low/Mod successor money, so it is the first local gap source after the Solano County Housing Trust Fund (county record; the County put $4,500,000 ARPA through Fairfield for an EAH project in 2022 and proposed $400,000 for EAH's Tabor Commons in Aug 2026). Stack order for a Fairfield 9% deal: TCAC credits, City trust fund or Low/Mod loan, County SCHTF, Fairfield Housing Authority PBVs, fee deferral (separate record). Housing Element Action 1.1 says the Trust Fund is fed by a Housing Trust Fund fee and the City will study increasing it, dedicating excess property transfer tax, and a housing bond. Low/Mod funds carry Health and Safety Code 34176.1 spending rules (80% to 30% AMI and below once excess surplus triggers). Fairfield submitted a Prohousing Designation application in 2024 and was resubmitting for more points in 2025 (designation not confirmed), which would add scoring preference in state programs. Public funds trigger prevailing wage. fairfield.ca.gov and its showpublisheddocument PDFs return 403 to scripts and WebFetch; the City's ClearPoint Council Goals reports on transparency.fairfield.ca.gov were the opened record.",
+      "source_url": "https://transparency.fairfield.ca.gov/wp-content/uploads/2026/05/Fairfield.pdf",
+      "record_id": "e6afaf7b64",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Fairfield",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Solano",
+      "confidence": "verified",
+      "program_name": "Fairfield Density Bonus (Zoning Code Section 25.38, Ordinance 2021-02)",
+      "administering_agency": "City of Fairfield Community Development Department, Planning Division",
+      "funding_type": "density bonus",
+      "typical_award_size": "State Density Bonus Law as implemented locally: 5+ unit projects with 5% very low, 10% lower, 10% moderate (for-sale), senior or other qualifying categories get bonus units, incentives and concessions, waivers and parking ratios per Government Code 65915; childcare facility adds bonus or concession. Density bonus application fee set by Council resolution. Applications processed concurrently with the project entitlement and decided by the same review authority (Section 25.41).",
+      "per_unit_cap": null,
+      "affordability_requirement": "Government Code 65915 set-asides; 55-year rental covenants.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Not applicable; file with the planning entitlement.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "No local enhancement beyond state law; the ordinance states Section 65915 supersedes any conflicting local text. Fairfield also offers priority processing for affordable projects (Housing Element Action 2.4) and lot consolidation incentives in the Heart of Fairfield and Train Station plan areas. Read on the zoneomics code mirror because the City's code host returns 403. Pair with the Fee Deferral Program and Trust Fund records.",
+      "source_url": "https://www.zoneomics.com/code/fairfield-CA/chapter_3",
+      "record_id": "ba2d7afa74",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]

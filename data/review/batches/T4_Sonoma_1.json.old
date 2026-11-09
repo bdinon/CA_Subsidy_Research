@@ -1,0 +1,117 @@
+[
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "county",
+      "jurisdiction": "Sonoma County",
+      "date_researched": "2026-11-06",
+      "research_pass": "2_county",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Welfare Exemption processing, Sonoma County Assessor",
+      "administering_agency": "Sonoma County Clerk-Recorder-Assessor, Exemption Unit",
+      "funding_type": "tax abatement",
+      "typical_award_size": "Exemption of the qualifying low-income share of assessed value from the roughly 1.1% to 1.2% property tax rate plus voter-approved debt in Sonoma County.",
+      "per_unit_cap": null,
+      "affordability_requirement": "Per state law: nonprofit or eligible LLC owner, or limited partnership with a qualifying managing general partner holding an Organizational Clearance Certificate; recorded regulatory agreement or deed restriction; tax savings must maintain affordability or reduce rents; plus government financing, LIHTC, or at least 90% lower-income occupancy.",
+      "eligible_project_types": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Annual claims Jan 1 to Feb 15 (next Feb 15, 2027). First filing on newly acquired property due within 90 days after the first day of the month following acquisition or by Feb 15 of the following year, whichever is first; property must be in exempt use or under construction within 180 days of acquisition. File BOE-267 with the OCC, regulatory agreement and the low-income supplemental affidavit. Exemption Unit (707) 565-1881, assessor@sonomacounty.gov.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Standard statewide rules (see Pass 1 BOE record). Sonoma's assessor page is unusually explicit about the 180-day use requirement and first-filing deadline, which matters for construction-period exemptions on land acquired mid-year. No county property tax abatement JPA exists.",
+      "source_url": "https://sonomacounty.gov/administrative-support-and-fiscal-services/clerk-recorder-assessor/assessor/real-property/tax-savings-(exemptions-prop-19-and-more)/exemptions/welfare-exemption",
+      "record_id": "961d33d4f1",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "new construction",
+        "acquisition-rehab",
+        "preservation",
+        "supportive housing"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Santa Rosa",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Santa Rosa Inclusionary Housing Ordinance, City Code Chapter 21-02 (Housing Allocation Plan): on-site allocated units, housing impact fee and commercial linkage fee",
+      "administering_agency": "City of Santa Rosa Planning and Economic Development Department (compliance) and Housing Authority (affordability agreements and fee proceeds)",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. For-rent projects: 8% of units for low income or 5% for very low income households; for-sale: 10% moderate income; Downtown multifamily: 4% low or 3% very low (rental) and 5% moderate (for-sale). Projects of six or fewer units pay the housing impact fee. Any project may instead pay the housing impact fee set by Council resolution, indexed to CPI each July (rate not opened this pass; the fee is paid before final inspection for rentals). Commercial linkage fee applies to new commercial development, due at building permit. Collections in 2025: $1,436,870 ($1,257,641 housing impact fees and $179,229 commercial linkage fees), down from $1.52 million in 2024. In 2025, permits were issued for 23 on-site allocated units (20 very low, 2 low, 1 moderate) out of 661 qualifying units.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Allocated units restricted 55 years by recorded affordability agreement with the Housing Authority; deed-restricted affordable projects (units restricted 55 years under agreement with the City), homeless shelters, SROs and ADUs are exempt. Fee revenue must fund housing within City limits for lower and moderate income households with 55-year agreements; Downtown fees are reserved two years for Downtown projects.",
+      "eligible_project_types": [
+        "mixed-income",
+        "homeownership",
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Applies at entitlement; fee rate in effect at payment. Council reviewed the 2025 General Plan and Inclusionary Housing Annual Review on March 17, 2026; the next annual review is expected in March 2027. HAP last substantively amended by Ordinance 2019-015 (Ordinance 3998 of October 22, 2019).",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Fee proceeds feed the Santa Rosa Housing Trust NOFA (record above), so market-rate pipeline volume drives local loan capacity. Developers providing on-site units get one incentive or concession under Chapter 20-31 and may count the same units toward a state density bonus (bonus units are excluded from the base when computing the inclusionary share). Alternatives (off-site units in the same quadrant, land dedication, conversion of market-rate units, preservation of at-risk units, inclusionary credits usable for 10 years) require Director approval; off-site units cannot receive City or Housing Authority subsidy. The County's separate Affordable Housing Program fee applies only in unincorporated areas. Read on the ecode360 mirror of the Santa Rosa City Code because qcode.us and srcity.org block scripts; collection data from the 2025 Annual Review (Legistar matter 26-0150).",
+      "source_url": "https://ecode360.com/42997624",
+      "record_id": "453a0b6183",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "market-rate rental and for-sale projects (compliance)",
+        "mixed-income projects",
+        "off-site units or land dedication"
+      ],
+      "next_deadline_date": "2026-03-17",
+      "deadline_check": "past_date",
+      "link_status": "ok"
+    }
+  },
+  {
+    "audit_reasons": [
+      "spot_check"
+    ],
+    "record": {
+      "level": "city",
+      "jurisdiction": "City of Rohnert Park",
+      "date_researched": "2026-11-08",
+      "research_pass": "3_city",
+      "county_tag": "Sonoma",
+      "confidence": "verified",
+      "program_name": "Rohnert Park Affordable Housing Linkage Fee (Municipal Code Chapter 3.36)",
+      "administering_agency": "City of Rohnert Park Development Services Department",
+      "funding_type": "regulatory requirement",
+      "typical_award_size": "Requirement, not a subsidy. Nonresidential projects (new buildings, added square footage, remodels or changes of use that increase employment density) pay a linkage fee based on classification: commercial $0.69, retail $1.19 and industrial $0.71 per square foot, rates effective July 1, 2008 and apparently never updated (Development Impact Fees handout revised July 16, 2026). Fund 4225 (Affordable Linkage Fee) held $13,430 at June 30, 2023 after $285,000 of expenditures.",
+      "per_unit_cap": "Not applicable.",
+      "affordability_requirement": "Proceeds support affordable housing for very low, low and moderate income households under the inclusionary ordinance's use-of-fees rules.",
+      "eligible_project_types": [
+        "market-rate (compliance)"
+      ],
+      "application_cycle": "rolling",
+      "next_deadline": "Fee in effect at building permit; no scheduled update found. A 2024 Generation Housing action plan recommended impact fee reform in Rohnert Park; no council action confirmed.",
+      "prevailing_wage_trigger": "false",
+      "layering_notes": "Revenue is minor compared with the Rental Affordable Housing Fee and in-lieu fee, so it adds little gap capacity; it is listed for completeness. Petaluma and Santa Rosa linkage fees are several times higher. Read from the City's Development Impact Fees handout (rpcity.ca.gov DocumentCenter); the Chapter 3.36 code text was not opened (municipal code hosts block scripts).",
+      "source_url": "https://www.rpcity.ca.gov/DocumentCenter/View/188/Development-Fees-Handout-PDF",
+      "record_id": "9218305fc3",
+      "cycle_notes": "",
+      "eligible_project_detail": [
+        "nonresidential development (compliance)"
+      ],
+      "next_deadline_date": null,
+      "deadline_check": "no_date",
+      "link_status": "ok"
+    }
+  }
+]
