@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 748 total records
+Generated 2026-11-08, 771 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -3915,6 +3915,49 @@ Generated 2026-11-08, 748 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Camarillo
+
+**Camarillo CDBG entitlement (Affordable Housing Acquisition Program) and PLHA first-time homebuyer revolving loans (FY 2026-27 Annual Action Plan)**
+- Agency: City of Camarillo Department of Community Development
+- Type: grant
+- Typical award: FY 2026-27: CDBG $345,293 estimated plus $49,803.23 prior year, $395,096.23 total; $224,246.23 to the City's Affordable Housing Acquisition Program (buy a home with a General Fund bridge loan and resell to a low or moderate income buyer with a CDBG write-down) and $50,000 to Habitat home repair. PLHA $782,232 used for a first-time homebuyer revolving loan program since FY 2024-25. Temporary Homes Project (six units on City land for homeless individuals) funded with about $610,000 in CDBG.
+- AMI requirement: CDBG 80% AMI; homebuyer programs low and moderate income.
+- Cycle: annual NOFA (CDBG public services) (next: FY 2025-26 CAPER review ran August 24 to September 9, 2026; FY 2027-28 application dates unknown, verify with agency.)
+- Layering notes: Not a multifamily gap source; Camarillo's CDBG and PLHA go to ownership and small projects. Multifamily HOME comes through the Ventura County HOME Consortium (Camarillo is a member) and County PLHA/NOFA. The FY 2024-25 acquisition activity was cancelled and moved to Temporary Homes, so confirm the FY 2026-27 activity proceeds. Section 8 by AHACV (576 Camarillo households, November 2025).
+- Source: https://cms7files.revize.com/camarilloca/FINAL%2026-27%20Action%20Plan%20(EL%203.18.26).pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Camarillo Council Policy 7.09 Inclusionary Housing guidelines (no inclusionary ordinance, no local trust fund contribution)**
+- Agency: City of Camarillo Department of Community Development
+- Type: other
+- Typical award: No inclusionary ordinance, in-lieu fee, local housing trust fund or commercial linkage fee. Affordable units arise only through density bonus and negotiated Affordable Housing Agreements under Council Policy 7.09 (adopted 2006, amended 2015).
+- AMI requirement: Design and dispersal guidelines for affordable units in density bonus projects; affordability per Affordable Housing Agreement.
+- Cycle: closed/inactive (next: Not applicable. In April 2021 staff recommended against adding an inclusionary program and against a $25,000 per year HTFVC contribution; the Housing Element certified April 14, 2023 did not add one.)
+- Layering notes: Recorded as negative information: Camarillo relies on state density bonus, City land deals and County sources. Developers should not expect a City NOFA. HTFVC and County PLHA/HOME are the main local gap sources for Camarillo deals.
+- Source: https://cms7files.revize.com/camarilloca/Meeting%20Agendas-Public%20Hearings/Planning%20Commission/2021/CC%20III%20C%20Housing%20Element%20Second%20Public%20Workshop%20041421.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Camarillo Density Bonus and Other Incentives, including Commercial Developer Partnership bonus (Municipal Code Chapter 19.49, Ord. 2018, 2024)**
+- Agency: City of Camarillo Department of Community Development
+- Type: density bonus
+- Typical award: State density bonus; Council may grant more than state law. Commercial developers that partner on affordable housing (partner project at least 30% low income or 15% very low income, in the city and within 1/2 mile of a major transit stop) can get up to 20% more intensity, FAR or height, up to 20% less parking, or other exceptions.
+- AMI requirement: Rental units 55 years; for-sale 55-year resale restriction that resets on each sale, with City equity sharing.
+- Cycle: rolling (next: Applied at entitlement application.)
+- Layering notes: The commercial partnership path (Gov. Code 65915.7) lets a commercial developer contribute land or cash to an affordable developer, a possible capital source for a tax credit deal. Camarillo has no inclusionary ordinance; Council Policy 7.09 sets guidelines for affordable units in density bonus projects (see separate record). Managed growth limits residential allocations to 400 per year. Camarillo city site opens; code read via zoneomics.
+- Source: https://www.zoneomics.com/code/camarillo-CA/chapter_3
+- Confidence: verified (researched 2026-11-08)
+
+**Camarillo Housing Successor Low and Moderate Income Housing Asset Fund (former Camarillo Community Development Commission)**
+- Agency: City of Camarillo as Housing Successor, Department of Community Development
+- Type: loan
+- Typical award: Fund balance $453,283 at June 30, 2025 ($176,421 cash, $275,000 KDF loan receivable, $1,862 interest); FY 2024-25 deposits $9,131; no excess surplus; no development spending in FY 2024-25.
+- AMI requirement: SB 341: 80% AMI or below; at least 30% of development spending to 30% AMI in the July 2024 to June 2029 compliance period; homelessness prevention up to $500,000 per year allowed.
+- Cycle: rolling (next: No NOFA; report dated November 17, 2025. Contact Community Development, (805) 388-5360.)
+- Layering notes: Small pool; useful as predevelopment or a local commitment. The City has used City land and tax-exempt bond proceeds for affordable housing: it bought 2800 Barry Street in 2018 and selected the Area Housing Authority with Many Mansions for Vista Campanario (60 rental and 8 for-sale units, tax credits approved September 2022, near completion FY 2024-25). The former CDC exceeded its production obligations by 179 units, so no outstanding obligations.
+- Source: https://cms7files.revize.com/camarilloca/Attachment%201%20-%20SB%20341%20Report%20Fiscal%20Year%20Ended%20June%2030,%202025.pdf
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Capitola
 
 **Affordable (Inclusionary) Housing Ordinance (Municipal Code Chapter 18.02, Ordinance 1062 of 2023) and in-lieu fee**
@@ -5666,6 +5709,59 @@ Generated 2026-11-08, 748 total records
 - Confidence: needs_confirmation (researched 2026-11-08)
 
 
+### City of Oxnard
+
+**Oxnard Affordable Housing Additive Zones, -AHP (by-right) and -AHD (discretionary) (City Code Chapter 16, Division 7C, Ordinance No. 2999)**
+- Agency: City of Oxnard Community Development Department, Planning Division
+- Type: other
+- Typical award: Zoning entitlement, not a subsidy: adds the right to build multifamily or mixed use at up to 30 units per acre on Housing Element sites; ministerial site plan review in -AHP; lot merger fees waived when merging parcels under 0.5 acre. The FY 2026-27 Action Plan cites an inventory of 2,466 potential units in these zones.
+- AMI requirement: At least 20% of units affordable to extremely low, very low or low income households; 55-year rental and 45-year ownership restrictions; no in-lieu payment option; Inclusionary Housing Ordinance also applies; Oxnard-resident preference list.
+- Cycle: rolling (next: Available now on designated Housing Element Supplement 1 sites.)
+- Layering notes: Commercial or office space capped at 15% of floor area for by-right treatment. Impact fees still apply (Sec. 16-420D(D)), so fee relief must come from Policy H-4.2 waivers negotiated separately. State density bonus (Division 7A) can be layered for more density. Useful for 100% affordable tax credit projects seeking ministerial certainty on smaller sites.
+- Source: https://www.zoneomics.com/code/oxnard-CA/chapter_5
+- Confidence: verified (researched 2026-11-08)
+
+**Oxnard Affordable Housing In-Lieu Fund (Affordable Housing Trust Fund) developer loans, with Housing Successor and PLHA funds**
+- Agency: City of Oxnard Housing Department, Grants Management Division
+- Type: loan
+- Typical award: In-lieu fund balance about $1.8 million (FY 2026-27 Annual Action Plan, approved May 5, 2026). Used for developer loans that leverage other sources. The City also lists Housing Successor Agency funds and Permanent Local Housing Allocation (PLHA) funds as local investment available to projects; amounts not stated.
+- AMI requirement: Housing affordable to lower and very low income households (Ordinance 2980 Part 13). Term and income mix set in loan documents; HOME-layered projects follow HOME rules.
+- Cycle: rolling (next: No standing NOFA for the in-lieu fund found; local funds are committed alongside the City's annual HUD funding applications. Contact the Housing Department, Grants Management Division.)
+- Layering notes: Small pool relative to Oxnard's pipeline, so it works as gap filler paired with HOME and HOME-ARP (see CDBG/HOME record). The City's HOME match surplus was $21.5 million at September 2025, so local funds are not needed for HOME match. Housing Successor (former Oxnard CDC) LMIHAF funds are subject to SB 341 income proportionality (at least 30% of development spending to 30% AMI); the City's SB 341 report was not located this pass. County-level sources (HTFVC loans, County NOFA) stack on top. The fund balance figure comes from the HUD Action Plan, not a fund statement.
+- Source: https://www.oxnard.gov/wp-content/uploads/pdfs/departments/housing/final-fy-2026-27-annual-action-plan.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Oxnard CDBG, HOME, ESG and HOME-ARP entitlement funds (FY 2026-27 Annual Action Plan)**
+- Agency: City of Oxnard Housing Department, Grants Management Division
+- Type: loan
+- Typical award: FY 2026-27: CDBG $2,064,353 plus $445,685.51 carryover ($2,510,038.51); HOME $610,559.44 (less $61,055.94 admin) plus $1,446,538.38 carryover, $1,996,041.88 available for affordable housing development; ESG about $182,351. HOME-ARP conditional loan awards issued to Cypress Place at Garden City Phase II (People's Self-Help Housing, 60 units) and Aspire Apartments (Many Mansions, 88 units, with HOME and CDBG loans).
+- AMI requirement: HOME rental units at HOME rents and incomes (80% AMI cap, 20% of units at Low HOME rent in 5+ unit projects); HOME-ARP qualifying populations. City conditions awards on securing all other funding and Council approval.
+- Cycle: annual NOFA (HUD grant cycle, fall to winter) (next: Annual Action Plan adopted each May; FY 2027-28 HUD funding NOFA expected late 2026 or early 2027, unknown, verify with agency.)
+- Layering notes: Oxnard is a direct HUD entitlement for CDBG, HOME and ESG and is outside the Ventura County HOME Consortium, so county HOME is generally not available inside Oxnard. HOME triggers federal Davis-Bacon at 12+ HOME units and CDBG at 8+ units; state prevailing wage may also apply. HOME-ARP is one-time money. Pair with in-lieu fund loans and the Housing Authority of the City of Oxnard (budgeted $36.6 million for HCV in FY 2026-27) for project-based vouchers. Policy H-4.2 allows fee waivers for affordable projects consistent with state law; no standing fee waiver schedule was found.
+- Source: https://www.oxnard.gov/wp-content/uploads/pdfs/departments/housing/final-fy-2026-27-annual-action-plan.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Oxnard Density Bonus and Related Incentives and Concessions Program (City Code Chapter 16, Division 7A, Sec. 16-410 et seq.)**
+- Agency: City of Oxnard Community Development Department, Planning Division
+- Type: density bonus
+- Typical award: Density bonus, incentives, waivers and parking modifications per Gov. Code 65915; no direct funding.
+- AMI requirement: Per state density bonus law; rental affordability at least 55 years; affordable housing agreement and equity sharing agreement for for-sale units (Sec. 16-410.19). Units dispersed, phased proportionally and architecturally consistent (Sec. 16-410.17).
+- Cycle: rolling (next: Applied with the qualified housing development application.)
+- Layering notes: Local procedural layer on state law (Ord. 2912, 3002, 3035); includes land donation and child care bonuses and a condominium conversion bonus. Inclusionary units are counted on the base count and do not count toward the bonus (Ordinance 2980 Part 15), which is stricter than cities that allow overlap (City of Ventura). Coastal zone projects also need Coastal Act consistency. Read from the zoneomics code mirror because the city's code host blocks scripts.
+- Source: https://www.zoneomics.com/code/oxnard-CA/chapter_5
+- Confidence: verified (researched 2026-11-08)
+
+**Oxnard Inclusionary Housing Program and Affordable Housing In-Lieu Payments (Uncodified Ordinance No. 2980, as amended by Ordinance No. 2999)**
+- Agency: City of Oxnard Housing Department (Housing Director) and Community Development Department
+- Type: other
+- Typical award: Requirement, not a subsidy. In-lieu payments are allowed only if City Council grants the request at pre-application. The April 8, 2020 Harris and Associates nexus study proposed per-unit fees of $36,000 (single-family for-sale), $35,000 (multifamily for-sale) and $28,000 (multifamily rental), replacing 2006 fees of $7,000, $5,500 and $7,735; fees are indexed every July 1 since 2021 to the ENR Building Cost Index (Los Angeles). Current indexed schedule not opened.
+- AMI requirement: Projects of 10 or more units. For-sale: at least 10% of units sold to lower income (80% AMI) households, affordable units at least 3 bedrooms. Rental: at least 5% very low income (50% AMI) plus 5% lower income (80% AMI), proportional by bedroom size. Covenants of at least 20 years; Oxnard-resident preference list required. Inclusionary units are figured on the pre-bonus unit count and do not count toward density bonus.
+- Cycle: rolling (next: Ordinance applies at entitlement; in-lieu fee due per unit at building permit. An update of the Inclusionary Housing Ordinance is underway (discussed at the April 20, 2026 Housing Element and Prohousing workshop, including possible location-based percentages); no adoption date set as of 2026-11-08.)
+- Layering notes: Ordinance 2980 (adopted June 2, 2020) replaced Ordinance 2721; specific plan areas with equal or higher requirements are exempt. Off-site units or land dedication (MAI appraisal) can substitute for the payment with Council approval. Payments go to the City's Affordable Housing Trust Fund (see separate loan record). Projects in the -AHP/-AHD additive zones must provide units and cannot pay in lieu. The 20-year covenant is far shorter than TCAC's 55-year term, so a tax credit deal on the same site carries the longer restriction. Ventura County has no adopted inclusionary ordinance (postponed June 2026), so Oxnard's requirement is local only. Oxnard's Prohousing application was pending as of April 2026. oxnard.gov HTML pages return 403 (Cloudflare) to scripts, but wp-content PDFs open directly.
+- Source: https://www.oxnard.gov/wp-content/uploads/2023/10/Ordinance-2980.pdf
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Paso Robles
 
 **Affordable housing fee deferral loans (deferral of development impact, water and sewer connection and building permit fees; Housing Element Programs 8 and 9)**
@@ -7100,6 +7196,39 @@ Generated 2026-11-08, 748 total records
 - Confidence: needs_confirmation (researched 2026-11-08)
 
 
+### City of Simi Valley
+
+**Simi Valley Affordable Housing Agreements and Local Housing Fund development loans (Housing Element Program 6)**
+- Agency: City of Simi Valley Environmental Services Department, Housing Division; Affordable Housing Subcommittee of the City Council
+- Type: loan
+- Typical award: Negotiated case by case. Track record: $500,000 City development loan to Camino Esperanza (31 senior units, 2015) alongside a $500,000 HTFVC loan; 25 existing Affordable Housing Agreements. Current Local Housing Fund balance not found.
+- AMI requirement: Set by Affordable Housing Agreement; priority for projects with extremely low income and disability set-asides. Objective: 200 lower income units in 2021-2029.
+- Cycle: rolling (next: No NOFA found. Nonprofit developers get up to two rounds of Affordable Housing Subcommittee review at no fee. Contact the Housing Division; unknown, verify with agency.)
+- Layering notes: No inclusionary ordinance; the Housing Element says the City is exploring one (Program 6). Affordability is negotiated through density bonus and Affordable Housing Agreements. A development agreement amendment for Runkel Canyon (adopted October 2025) reportedly includes an in-lieu affordable housing fee; seen only in a news aggregator, not confirmed. HOME comes through the Ventura County HOME Consortium. Marked needs_confirmation because simivalley.org (pages and showpublisheddocument PDFs) returns 403 and the only City source opened is the 2021 Housing Element on the HCD site.
+- Source: https://hcd.ca.gov/housing-elements/docs/simi-valley-6th-adopted102821.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Simi Valley CDBG entitlement and Home Rehabilitation Program (HOME through Ventura County Consortium; PLHA)**
+- Agency: City of Simi Valley Environmental Services Department, Housing Division
+- Type: grant
+- Typical award: CDBG entitlement about $640,000 per year (Housing Element); FY 2026-27 estimated at about $650,000 per a March 11, 2026 advisory committee item seen in search results only. PLHA award $290,357 (2020 allocation) for homelessness and PSH uses. Home Rehabilitation Program: deferred 2% loans to income-qualified owners of detached homes (CalHome and HOME).
+- AMI requirement: CDBG 80% AMI; PLHA per state guidelines.
+- Cycle: annual NOFA (CDBG applications, winter) (next: FY 2027-28 CDBG application window not confirmed; unknown, verify with agency.)
+- Layering notes: Limited value for multifamily new construction; CDBG goes mainly to public services and rehab. HOME for Simi Valley projects is allocated by the County HOME Consortium (see County CDBG/HOME record). Section 8 is run by the Area Housing Authority of the County of Ventura (676 Simi households in 2019-20). Needs confirmation because City documents could not be opened (403).
+- Source: https://hcd.ca.gov/housing-elements/docs/simi-valley-6th-adopted102821.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Simi Valley Density Bonus, Incentives and Concessions, Waivers (Municipal Code Chapter 9-31)**
+- Agency: City of Simi Valley Environmental Services Department, Planning Division
+- Type: density bonus
+- Typical award: Density bonus per state law (code table shows 20% to 35% tiers; current state law governs where higher). Council may grant extra density for low and very low income projects with added benefits such as LEED Silver, capped at 45 units per acre (non-age-restricted) and 50 units per acre (senior).
+- AMI requirement: Per Gov. Code 65915; units secured by Affordable Housing Agreement (Housing Element Policy HE 3.2).
+- Cycle: rolling (next: Applied with the entitlement application.)
+- Layering notes: Code chapter (Ord. 1157, 2010) predates AB 2345 and AB 1287; state law prevails where more generous. The local 45/50 du/ac caps apply only to the discretionary extra-density path. Housing Element Program 8 provides by-right approval for projects with 20% lower income units on reused sites. Read from zoneomics because simivalley.org returns 403 (Akamai) to scripts and WebFetch.
+- Source: https://www.zoneomics.com/code/simi-valley-CA/chapter_11
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Soledad
 
 **City land for the Soledad homeless youth housing campus (federal Community Project Funding grant B-22-CP-CA-0157, $2 million) and Prohousing Designation pursuit**
@@ -7464,6 +7593,69 @@ Generated 2026-11-08, 748 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Thousand Oaks
+
+**Thousand Oaks Affordable Housing Trust Fund (Municipal Code Title 9, Chapter 10, Article 2, Ord. 1506-NS as amended by 1719-NS)**
+- Agency: City of Thousand Oaks Community Development Department
+- Type: loan
+- Typical award: Special revenue fund for very low, lower and moderate income housing, funded by inclusionary in-lieu fees, loan repayments, grants and Council appropriations. Nonresidential linkage fee proceeds go to a separate subaccount, but the linkage fee is set at $0 per square foot (Council direction 2023). Fund balance not published in the documents opened.
+- AMI requirement: Units assisted are subject to an Affordable Housing Agreement under Article 6; funds may only be spent within city limits.
+- Cycle: rolling (next: No City NOFA found; the 2024 APR says the County administers the City's HOME and PLHA and that developers were expected to request funding in 2025. Contact Community Development (Senior Planner Iain Holt).)
+- Layering notes: Revenue has been thin because the in-lieu fee was set at zero from 2009 until the November 2023 update. The City has used land instead: it donated Hillcrest area land to the Housing Land Trust Ventura County for a 78-unit for-sale townhome project with People's Self-Help Housing, provided City land for a 50-bed navigation center, and partnered with the County on Step Up (77 extremely low income PSH units). A PLHA grant went to HTFVC as Local Housing Trust Fund match in FY 2021-22. For rental gap, look first to the County PLHA plan (which covers Thousand Oaks), the County HOME Consortium and HTFVC.
+- Source: https://www.zoneomics.com/code/thousand-oaks-CA/chapter_10
+- Confidence: verified (researched 2026-11-08)
+
+**Thousand Oaks CDBG entitlement (HOME and PLHA through Ventura County)**
+- Agency: City of Thousand Oaks Community Development Department
+- Type: grant
+- Typical award: Annual CDBG entitlement from HUD; current dollar figure not shown on the page opened. The City's CDBG Action Plan has been included in the Ventura County HOME Consortium Action Plan since 2020.
+- AMI requirement: CDBG low and moderate income national objective (80% AMI).
+- Cycle: annual NOFA (applications Nov 2 to Jan 13) (next: 2027-28 CDBG applications and comments accepted November 2, 2026 through January 13, 2027 at 5:00 p.m.; needs assessment hearing November 2, 2026.)
+- Layering notes: Mostly public services and rehabilitation; the County Action Plan states Thousand Oaks' priority is preserving existing affordable units through rehab. HOME and PLHA for Thousand Oaks are administered by the County (see County CDBG/HOME and PLHA records), so new construction gap money comes from the County, not the City. CDBG triggers Davis-Bacon at 8+ units.
+- Source: https://toaks.gov/cdbg
+- Confidence: verified (researched 2026-11-08)
+
+**Thousand Oaks Density Bonus Program plus Incentives for Small and Underutilized Parcels and Lot Consolidation (TOMC 9-10 Articles 5, 7 and 8)**
+- Agency: City of Thousand Oaks Community Development Department, Planning Division
+- Type: density bonus
+- Typical award: State density bonus with local add-ons: small and underutilized parcel projects at 20+ units per acre may request any two extra incentives beyond density bonus incentives (Art. 7); lot consolidation projects get a pre-application with no Planning Division fees and waivers of listed Mixed-Use standards such as ground floor height, retail depth and some setbacks (Art. 8).
+- AMI requirement: Density bonus per Gov. Code 65915 with 55-year rental covenants; lot consolidation incentives on MU, MUOZ or R-3 sites outside the sites inventory require 20% of rental units affordable to lower income households.
+- Cycle: rolling (next: Applied with the entitlement application.)
+- Layering notes: Council may grant more density than state law (9-10.502(b)), but the code states the City need not provide financial participation such as fee waivers or land. November 2024 zoning amendments (Housing Element Program 8) updated density bonus, lot merger and SB 35 streamlining provisions. Stack with inclusionary compliance and the impact fee deferral program.
+- Source: https://www.zoneomics.com/code/thousand-oaks-CA/chapter_10
+- Confidence: verified (researched 2026-11-08)
+
+**Thousand Oaks Development Impact Fee Deferral Program (temporary Council resolution, October 2023)**
+- Agency: City of Thousand Oaks Community Development Department and Finance Department
+- Type: fee waiver
+- Typical award: Deferral, not a waiver: City development impact fees paid at certificate of occupancy instead of building permit. Dollar value depends on project fee load.
+- AMI requirement: Housing Element Program 7 called for fee deferrals for affordable projects; the 2024 APR describes the October 2023 resolution as a citywide temporary deferral in effect until a date uncertain.
+- Cycle: rolling (next: In effect as of the 2024 APR (March 25, 2025 Council report); sunset date not set. Confirm it is still in effect before underwriting.)
+- Layering notes: Improves construction-period cash flow and reduces construction loan interest; does not reduce permanent sources needed. School district and non-City fees are not covered. A pure deferral is generally not treated as a public subsidy under Labor Code 1720, but confirm with counsel if paired with other City assistance.
+- Source: https://toaks.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=e0def7f5-9746-44c2-aa36-8052d70b5e57
+- Confidence: verified (researched 2026-11-08)
+
+**Thousand Oaks Housing Successor Agency Low and Moderate Income Housing Asset Fund (former Thousand Oaks Redevelopment Agency)**
+- Agency: City of Thousand Oaks as Housing Successor (Finance Department)
+- Type: loan
+- Typical award: Fund balance $845,021 at June 30, 2024; no excess surplus.
+- AMI requirement: SB 341 rules: housing for households at or below 80% AMI, at least 30% of development spending to 30% AMI over each five-year period, no more than 20% to 60-80% AMI; homelessness prevention and rapid rehousing allowed within statutory caps.
+- Cycle: rolling (next: No NOFA; request through Community Development. FY 2024-25 report expected with the 2025 APR, unknown, verify with agency.)
+- Layering notes: Small pool, best used as predevelopment or a modest gap loan alongside County HOME Consortium and HTFVC funds. Income proportionality pushes spending toward extremely low income units, which aligns with PSH and 30% AMI tax credit set-asides.
+- Source: https://toaks.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=e0def7f5-9746-44c2-aa36-8052d70b5e57
+- Confidence: verified (researched 2026-11-08)
+
+**Thousand Oaks Inclusionary Housing Program and in-lieu fees (TOMC 9-10.301 et seq., Ordinance 1719-NS effective November 24, 2023; Resolution 2023-056)**
+- Agency: City of Thousand Oaks Community Development Department, Planning Division
+- Type: other
+- Typical award: Requirement, not a subsidy. Staff-recommended in-lieu fees (September 11, 2023 Planning Commission report): $25.70 per leasable sq ft for apartments, $14.60 per saleable sq ft for townhomes, $16.80 per saleable sq ft for detached homes, indexed annually; adopted by Resolution 2023-056 (resolution text not opened).
+- AMI requirement: Projects of 10+ units. Apartments: 10% at low income, covenant 55 years or as long as residential use. Townhome/condo: 10% moderate; detached: 5% moderate, 45-year resale covenant. Off-site option: 15% of units at very low income within 1 mile (or in TCAC moderate or higher resource areas), with overconcentration limits. Land dedication at Council discretion (15% of units at very low income).
+- Cycle: rolling (next: In-lieu fee due before first building permit. In-lieu allowed for fractional units, for-sale projects, and rentals of 20 or fewer units; rentals over 20 units only on an extreme hardship finding.)
+- Layering notes: Off-site rental and land dedication options let a market-rate developer partner with a tax credit developer, creating a site or capital source for a 9% or 4% deal. Projects that build inclusionary units on site may request one Gov. Code 65915(d)(2) incentive even without a density bonus (9-10.307). Density bonus units are excluded from the inclusionary count. toaks.gov opens; agenda documents were read from the PrimeGov host (toaks.primegov.com).
+- Source: https://toaks.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=9ab9904d-ef6e-40e3-bc8f-c8e68e9f4266
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Tracy
 
 **CDBG and HOME in Tracy (San Joaquin Urban County share, City FY 2026-27 CDBG/HOME application) and City use of PLHA and HHAP**
@@ -7600,6 +7792,59 @@ Generated 2026-11-08, 748 total records
 - Cycle: annual NOFA (next: PLHA allocations arrive annually from HCD; ask the HCD Department for the City's five-year PLHA plan and whether any share is reserved for multifamily gap loans. Linkage fee draft expected after November 10, 2026 adoption of Chapter 16.216.)
 - Layering notes: About $360,000 to $380,000 a year, the largest city PLHA share in the county. Combined with the inclusionary in-lieu fund and LMIHAF it gives Vallejo three small local pots that could be pooled into a NOFA; none has been. State funds trigger prevailing wage. The opened source is HCD's PLHA formula NOFA; the City's PLHA plan was not located on cityofvallejo.net.
 - Source: https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+
+### City of Ventura
+
+**City of Ventura CDBG entitlement and Successor Housing Agency (former San Buenaventura Redevelopment Agency) housing funds**
+- Agency: City of Ventura Community Development Department; Successor Housing Agency of the City of San Buenaventura; Housing Authority of the City of San Buenaventura
+- Type: grant
+- Typical award: CDBG entitlement (FY 2026-27 amount not confirmed; a search snippet of an April 14, 2026 supplemental report cited $722,425 plus $235,182 carryover, not opened). Successor Housing Agency set-aside funds may support preservation of at-risk units; balance not found (SB 341 reports are posted on the blocked city site).
+- AMI requirement: CDBG 80% AMI; LMIHAF per SB 341 income proportionality.
+- Cycle: annual NOFA (CDBG) (next: Unknown, verify with agency.)
+- Layering notes: Ventura is a CDBG entitlement within the regional Consolidated Plan but is not a member of the County HOME Consortium (Camarillo, Simi Valley, Thousand Oaks), so confirm HOME eligibility with the County. CDBG uses include the Mobile Home Rehabilitation program run by the Housing Authority. The Housing Authority of the City of San Buenaventura (about 1,550 Section 8 households) is the PBV source. Needs confirmation because city documents were blocked; sources opened were the Housing Element and the County FY 2026-27 draft Action Plan.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**City of Ventura City-Owned and Publicly Owned Land for Housing and Affordable Housing Overlay (Housing Element Programs 23 and 24)**
+- Agency: City of Ventura Community Development Department
+- Type: other
+- Typical award: Land disposition or long-term lease of City sites (e.g., parking lots) via development agreements; no dollar figures.
+- AMI requirement: Per disposition terms and the Surplus Land Act.
+- Cycle: rolling (next: Housing Element targets: identify properties by end of 2023 and study disposition or lease by 2025. Current status unknown, verify with agency.)
+- Layering notes: Ventura is near build-out, so public land is a main site source. The Housing Element also commits to continued funding of Housing Trust Fund Ventura County (Program 13; see County HTFVC record) and to exploring a business or parcel tax for housing. Needs confirmation because the city site blocked access.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**City of Ventura Density Bonus Regulations (Municipal Code 24.445.010 to 24.445.090, Ordinance 2025-003)**
+- Agency: City of Ventura Community Development Department
+- Type: density bonus
+- Typical award: State density bonus, incentives, waivers and adjusted parking ratios; no local funding.
+- AMI requirement: Rental units 55 years minimum; for-sale 45 years; affordable housing agreement required.
+- Cycle: rolling (next: Applied concurrently with the entitlement application.)
+- Layering notes: Updated in 2025 to match current state law (the Housing Element had targeted 2023). Coastal zone projects must stay consistent with the certified LCP (24.445.050). The Downtown Specific Plan has its own standards; not reviewed this pass.
+- Source: https://www.zoneomics.com/code/ventura-CA/chapter_4
+- Confidence: verified (researched 2026-11-08)
+
+**City of Ventura Inclusionary Housing Program and Inclusionary Housing Fund (Municipal Code 24.445.100 to 24.445.180, Ordinance 2025-003)**
+- Agency: City of Ventura (San Buenaventura) Community Development Department
+- Type: other
+- Typical award: Requirement, not a subsidy. In-lieu fees per Council fee schedule, indexed annually to Ventura County new home prices and apartment rents (an in-lieu fee update was heard September 10, 2024; schedule not opened because the city site blocks scripts). Fees deposit to the City of San Buenaventura Inclusionary Housing Fund for extremely low to moderate income housing; balance not found.
+- AMI requirement: Projects of 7+ units: 10% of for-sale units at moderate income; 15% of rental units (10% low, 5% very low); or 20% if met through acquisition, rehab or preservation. Inclusionary units count toward density bonus eligibility (24.445.030(C)).
+- Cycle: rolling (next: Ordinance 2025-003 adopted June 24, 2025, codified August 2025. In-lieu allowed for fractional units, for-sale projects, rentals of 20 or fewer units, and larger rentals on an extreme hardship finding; paid before first building permit.)
+- Layering notes: Replaced the interim program that covered ownership only and the former Merged Redevelopment Project Area 15% rule; now covers rentals citywide. Overlap with density bonus is allowed, which lowers the cost of compliance compared with Oxnard. Off-site units must be rentals for very low income households. Inclusionary Housing Fund money could become a local gap source, but no NOFA or loan program was found. cityofventura.ca.gov and sanbuenaventura.municipal.codes return Cloudflare 403; code read on zoneomics.
+- Source: https://www.zoneomics.com/code/ventura-CA/chapter_4
+- Confidence: verified (researched 2026-11-08)
+
+**City of Ventura affordable housing fee deferral and partial fee waiver program (Housing Element Program 29)**
+- Agency: City of Ventura Community Development Department
+- Type: fee waiver
+- Typical award: Program called for a fee deferral program and a Director-granted partial fee waiver for 100% affordable projects by the FY 2022-23 budget, plus expedited plan check. Implementation status and amounts not confirmed.
+- AMI requirement: Partial waiver limited to all-affordable projects; deferral for affordable housing projects.
+- Cycle: rolling (next: Unknown, verify with agency.)
+- Layering notes: Before this program, fee waivers required City Council approval case by case, which was hard to use because housing projects do not otherwise go to Council. Fee waivers are local public funds and can trigger state prevailing wage. Needs confirmation because the city site (Cloudflare) blocked budget and Council documents; only the 2021-2029 Housing Element on the HCD site was opened.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf
 - Confidence: needs_confirmation (researched 2026-11-08)
 
 
