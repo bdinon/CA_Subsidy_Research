@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 819 total records
+Generated 2026-11-08, 852 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -91,12 +91,12 @@ Generated 2026-11-08, 819 total records
 - Confidence: verified (researched 2026-11-06)
 
 **Golden State Acquisition Fund (GSAF)**
-- Agency: HCD seed capital; administered by Corporation for Supportive Housing and partner CDFIs (fund managers)
+- Agency: HCD seed capital; Low Income Investment Fund is administrative agent and fund manager; originators are LIIF, Century Housing, Community Vision, Corporation for Supportive Housing, Enterprise Community Loan Fund, Housing Trust Silicon Valley, LISC and RCAC
 - Type: loan
-- Typical award: Short-term acquisition and predevelopment loans from a revolving fund seeded by HCD and leveraged with private capital; terms set by fund managers.
+- Typical award: $292 million revolving fund (LIIF, 2026) making short-term acquisition and predevelopment loans through eight CDFI originators; terms set by each originator (Century reports GSAF participation can lift acquisition loan-to-value toward 100%).
 - AMI requirement: Sites to be developed or preserved as affordable housing; terms per fund manager.
 - Cycle: rolling (next: Rolling through fund managers listed at goldenstate-fund.com.)
-- Layering notes: Listed on HCD's grants and funding page with an external link; the fund's own site was not opened this pass, so terms need confirmation. Bridge financing only; repaid at construction closing from LIHTC/bond sources.
+- Layering notes: Listed on HCD's grants and funding page with an external link; the fund's own site was not opened this pass, so terms need confirmation. Bridge financing only; repaid at construction closing from LIHTC/bond sources. Pass 4 (2026-11-08): LIIF's national funds page confirms GSAF is a $292 million fund active since 2013 with LIIF as administrative agent, fund manager and originator and eight CDFI originators (LIIF, Century Housing, Community Vision, CSH, Enterprise Community Partners, Housing Trust Silicon Valley, LISC, RCAC); Century's acquisition term sheet references GSAF as a leverage source. The fund's own site (gsafund.org) did not respond this pass, so terms still need confirmation with an originator.
 - Source: https://www.hcd.ca.gov/grants-and-funding
 - Confidence: needs_confirmation (researched 2026-11-06)
 
@@ -8599,6 +8599,340 @@ Generated 2026-11-08, 819 total records
 ## Private & Philanthropic Sources
 
 
+### California (Northern California focus)
+
+**Community Vision (formerly Northern California Community Loan Fund) affordable housing loans**
+- Agency: Community Vision Capital and Consulting (CDFI), 870 Market Street, San Francisco; lending@communityvisionca.org
+- Type: loan
+- Typical award: $250,000 to $5 million (larger case by case); terms up to 10 years; loan to value up to 90%; fixed rates generally below market; 1% to 1.5% commitment fee; real estate collateral preferred, subordination to conventional lenders considered; underwriting 4 to 8 weeks after full application.
+- AMI requirement: Affordable housing led by mission-aligned developers and other social purpose real estate serving historically underserved communities; borrowers must be California nonprofits or social enterprises.
+- Cycle: rolling (next: Rolling; items reviewed as submitted.)
+- Layering notes: Nonprofit borrowers only. Community Vision is a GSAF and Bay Area TOAH originator and an FHLBank San Francisco AHP sponsor partner ($5.95 million awarded with it for 225 Bay Area units). Its Ready to Build program (separate record) provides technical assistance for first-time nonprofit developers. Good fit for community land trusts and service providers moving into housing.
+- Source: https://communityvisionca.org/lending/
+- Confidence: verified (researched 2026-11-08)
+
+
+### California (Orange County headquarters, statewide)
+
+**Clearinghouse CDFI commercial real estate secured loans for multifamily affordable housing**
+- Agency: Clearinghouse Community Development Financial Institution, 23861 El Toro Road Suite 401, Lake Forest (Orange County); pre-application at clearinghousecdfi.com/borrowers
+- Type: loan
+- Typical award: Minimum loan $1,000,000; acquisition, refinance, construction, renovation and gap financing secured by real estate; case-by-case structures; also New Markets Tax Credit allocations ($10 million NMTC plus $4.1 million source loan to Heritage Housing Partners for Napa Redwood Housing, 40 affordable condos, 2026). Clearinghouse secured $100 million through the Treasury CDFI Bond Guarantee Program.
+- AMI requirement: Multifamily affordable and special needs housing serving low income households; mixed-use and mobile home parks also eligible.
+- Cycle: rolling (next: Rolling pre-application.)
+- Layering notes: Orange County based, statewide and multi-state lender with FHLBank San Francisco membership (sponsors AHP grants, including tribal housing awards). Northern California deals opened this pass: Napa Redwood Housing (2026) and a Brilliant Corners enhanced behavioral support home in Vacaville (2022, $741,000). Also a frequent lender in San Diego, Orange and Riverside Counties. Works for for-profit and nonprofit borrowers and public or tribal entities.
+- Source: https://www.clearinghousecdfi.com/borrowers/
+- Confidence: verified (researched 2026-11-08)
+
+
+### California (San Francisco Bay Area core geography)
+
+**Capital Impact Partners (Momentus Capital) acquisition and predevelopment loans**
+- Agency: Capital Impact Partners, part of Momentus Capital (CDFI, Oakland office); California contact Eric Relos, erelos@capitalimpact.org, 510-712-9021
+- Type: loan
+- Typical award: December 2025 term sheet: $500,000 to $15 million for non-operating properties and $500,000 to $20 million for operating properties; term up to 3 years plus two 1-year extensions (operating properties up to 10 years); fixed rate at Treasury plus 4% to 5% or floating 30-day SOFR plus 3.5% to 4.5%, lower with special funding sources; interest only; no prepayment fee for terms of 3 years or less; origination 1% to 1.5% (includes 0.25% underwriting fee), legal typically $30,000 to $35,000; 5% to 10% equity including subordinate debt and grants; 60 to 90 day closings. Also construction, rehabilitation, mini-permanent (up to 90% LTV), bridge and NMTC products.
+- AMI requirement: Projects primarily serving households at or below 80% AMI or located in low or moderate income census tracts; housing, health, education and mixed-use.
+- Cycle: rolling (next: Rolling.)
+- Layering notes: The San Francisco Bay Area is one of Momentus Capital's core geographies and Capital Impact originates for the Partnership for the Bay's Future Bay's Future Fund and Community Housing Fund (lower rates than its standard sheet). Full recourse to sponsors; first lien preferred, second lien case by case. Its CDFI Equitable Recovery award funds a housing developer training and capital access program that expanded into the Bay Area.
+- Source: https://www.capitalimpact.org/mission-driven-financing/
+- Confidence: verified (researched 2026-11-08)
+
+
+### Coachella Valley, Riverside County
+
+**We Lift: The Coachella Valley's Housing Catalyst Fund (revolving loan fund managed by Lift to Rise and LIIF)**
+- Agency: Lift to Rise (Palm Desert) with Low Income Investment Fund as fund manager; partners include the County of Riverside, Rural Community Assistance Corporation and about 70 community partners
+- Type: loan
+- Typical award: More than $44 million available (goal to grow past $80 million); since 2021 more than $26 million committed in low-interest, flexible loans for nearly 900 affordable units including multifamily rentals, homeownership and Polanco (farmworker) parks; the State contributed $15 million. Loan terms are set by LIIF underwriting and are not posted.
+- AMI requirement: Community-prioritized affordable housing in the Coachella Valley; projects tracked toward a goal of 10,000 units by 2028.
+- Cycle: rolling (next: Rolling through the Lift to Rise pipeline portal and LIIF.)
+- Layering notes: Eastern Riverside County only (Coachella Valley cities including Indio, Coachella, Palm Springs, Cathedral City, Desert Hot Springs). Loans repay to the fund at construction or permanent closing. Public contributions (County of Riverside, State of California) may make prevailing wage project-specific. Example: Vista Sunrise on the DAP Health campus in Palm Springs (Coachella Valley Housing Coalition, opened 2024). Layer with Riverside County HWS NOFAs, the City of Indio Local Housing Trust Fund and Palm Springs housing successor loans.
+- Source: https://lifttorise.org/we-lift/
+- Confidence: verified (researched 2026-11-08)
+
+
+### CommonSpirit Health hospital markets in California
+
+**CommonSpirit Health (Dignity Health) Community Investment Program below-market loans**
+- Agency: CommonSpirit Health Community Investment Program, San Francisco; cip@commonspirit.org; expression of interest form on the program page; local Dignity Health hospitals act as community liaisons
+- Type: loan
+- Typical award: Loans up to $10.0 million, tenor up to 10 years, secured or unsecured, concessionary interest benchmarked to inflation, flexible repayment; structures include bridge, line of credit and term. $400 million allocation; $263 million approved across 94 investments as of March 31, 2025; 398 loans and $502.5 million approved since 1990, with affordable housing about 45% of the portfolio. Dignity Health's Homeless Health Initiative has invested nearly $36 million across its California sites since FY2019, including $375,000 in May 2026 for two Yolo County projects ($125,000 Freeman Garden Court, Woodland, 12 units; $250,000 Choice Neighborhoods and Tupelo project, 73 units) and more than $3 million in Yolo and Sacramento Counties to date.
+- AMI requirement: Mission-oriented projects addressing social drivers of health, including affordable and supportive housing for low income communities; must show community support and partnership with a CommonSpirit hospital.
+- Cycle: rolling (next: Rolling expression of interest.)
+- Layering notes: Place-based: investments are tied to CommonSpirit (Dignity Health) hospital markets, which in scope include Sacramento (Mercy General, Mercy San Juan, Methodist, Mercy Folsom, Woodland Memorial in Yolo), Stockton (St. Joseph's, San Joaquin), Merced, Grass Valley (Sierra Nevada Memorial, Nevada County), Redwood City (Sequoia, San Mateo), Santa Cruz (Dominican), San Luis Obispo and Santa Maria, Ventura (St. John's) and the Inland Empire. Loans often go through a CDFI or linked deposit; CommonSpirit also guarantees loans. Dignity Health is a financing partner of the Monterey Bay Housing Trust. Patient, concessionary money that fits predevelopment or gap positions in supportive housing with co-located services.
+- Source: https://www.commonspirit.org/impact/community-health-initiatives/community-investment-program
+- Confidence: verified (researched 2026-11-08)
+
+
+### FHLBank San Francisco district (California, Arizona, Nevada)
+
+**FHLBank San Francisco Affordable Housing Program (AHP) General Fund competitive grants**
+- Agency: Federal Home Loan Bank of San Francisco (member-sponsored applications; the project sponsor applies through an FHLBank member bank, credit union, insurer or CDFI)
+- Type: grant
+- Typical award: 2026 competition: $60.1 million in General Fund grants awarded June 22, 2026 to 39 projects (2,676 units) in California and Arizona from 125 applications; 2026 awards total $66.3 million including the Nevada Targeted Fund, up nearly one-third from 2025. Per the 2026 Implementation Plan, maximum request is the lesser of $2,000,000 or 50% of total project costs, and no more than $65,000 per income-restricted rental unit (scored on a declining scale from $30,000 to $65,000). Four years from award to complete construction and draw funds. Since 1990, $1.48 billion awarded for nearly 160,000 homes.
+- AMI requirement: Rental projects must reserve at least 20% of units for households at or below 50% AMI with a 15-year retention period; owner-occupied projects serve households at or below 80% AMI (5-year retention).
+- Cycle: annual NOFA (next: 2027 competition expected spring 2027 with awards about June 2027; verify the application window when the 2027 Implementation Plan posts (2026 awards announced June 22, 2026).)
+- Layering notes: A grant that flows through a member institution, so line up a member bank or CDFI sponsor (Housing Trust Silicon Valley, Community Vision and Clearinghouse CDFI are members that sponsor awards) early. Scoring favors homelessness and special needs set-asides, ELI units, lower subsidy per unit and donated or discounted property; 2026 awards included $27.9 million for 19 supportive housing developments and more than $20 million for 12 senior developments. Loan pools and revolving funds may not apply to the General Fund. AHP funds are private bank-system money and do not by themselves trigger state prevailing wage, though federal AHP regulations apply. Grants are typically sized at $30,000 to $65,000 per unit and used as gap equity alongside LIHTC and state soft debt.
+- Source: https://www.fhlbsf.com/products/community-programs-grants/ahp
+- Confidence: verified (researched 2026-11-08)
+
+
+### Five Bay Area counties (San Francisco, San Mateo, Santa Clara, Alameda, Contra Costa)
+
+**Partnership for the Bay's Future: Bay's Future Fund (BFF) loans**
+- Agency: LISC Bay Area (fund manager and originator) with Corporation for Supportive Housing and Capital Impact Partners as originators; San Francisco Foundation convener; contact Asha Rao, Senior Director of Investments, LISC Bay Area
+- Type: loan
+- Typical award: $500 million loan fund; structures from predevelopment to mini-permanent; interest typically 4% to 5% set by AMI served, term and originator; loan size up to $7.5 million; loan to value up to 150% for high-impact projects; loans must mature by August 2030.
+- AMI requirement: Rental housing serving households at 0% to 120% AMI with deed restrictions.
+- Cycle: rolling (next: Rolling through LISC Bay Area, CSH or Capital Impact; all loans must mature by August 2030.)
+- Layering notes: Covers San Francisco, San Mateo, Santa Clara, Alameda and Contra Costa Counties. Seeded by Chan Zuckerberg Initiative ($40 million first-loss), Facebook/Meta, Genentech, Kaiser Permanente, the San Francisco Foundation and others; underwriting tolerates more risk, including for emerging developers of color. The August 2030 maturity limit makes this a bridge product; the companion Community Housing Fund provides the long-term 2% money. The deployment goal was $500 million by end of 2025, so confirm remaining availability.
+- Source: https://www.lisc.org/bay-area/areas-of-work/affordable-housing/partnership-bays-future/family-of-funds/
+- Confidence: verified (researched 2026-11-08)
+
+**Partnership for the Bay's Future: Community Housing Fund (CHF) 2% long-term loans**
+- Agency: LISC Bay Area (fund manager and originator) with Corporation for Supportive Housing and Capital Impact Partners; San Francisco Foundation convener
+- Type: loan
+- Typical award: $150 million fund; 2% interest; loan size up to $15 million; loan to value up to 150%; term up to 18 years with latest maturity 2038.
+- AMI requirement: At least 20% of households housed at or below 30% AMI; Santa Clara County projects must meet the Measure A AMI definition.
+- Cycle: rolling (next: Rolling through LISC Bay Area, CSH or Capital Impact.)
+- Layering notes: Same five-county footprint as the Bay's Future Fund. The 2% rate and 18-year term make it usable as subordinate permanent debt alongside LIHTC and county soft loans, or as a 16-year loan in lieu of a competitive public gap source (LISC has done this). Check Measure A alignment for Santa Clara County deals.
+- Source: https://www.lisc.org/bay-area/areas-of-work/affordable-housing/partnership-bays-future/family-of-funds/
+- Confidence: verified (researched 2026-11-08)
+
+
+### Greater San Francisco Bay Area (13 counties)
+
+**Apple Affordable Housing Fund (Housing Trust Silicon Valley), annual Request for Information**
+- Agency: Housing Trust Silicon Valley (CDFI; California Finance Lender License 6053356), 75 E. Santa Clara Street Suite 1350, San Jose; lending team Nick Friend (408-703-3837 ext. 223, nick@housingtrustsv.org) and Stephaney Kipple (ext. 244); inquiries applefund@housingtrustsv.org
+- Type: loan
+- Typical award: RFI Round 7 (September 1 to October 1, 2026): most loans $2 million to $5 million, higher considered; construction/bridge up to 36 months interest only; construction to mini-perm 5, 7 or 10 year terms (20 or 30 year amortization); construction to permanent up to 20 years; interest up to 3% during construction and 2% permanent; combined loan to cost up to 95% with subordinate debt; origination fee greater of 1% or $30,000, $15,000 application fee credited at closing, $10,000 conversion fee, 0.15% annual monitoring fee. Fund is up to $150 million from Apple's 2019 $2.5 billion California housing commitment; 4 to 5 projects selected per round.
+- AMI requirement: Deed-restricted affordable housing, incomes from extremely low up to 120% AMI; must add net new affordable units; if using LIHTC, must apply to CDLAC or TCAC in 2026 or 2027.
+- Cycle: annual NOFA (next: Round 7 closed October 1, 2026 (underwriting notifications December 2026). Round 8 RFI expected about September 2027, verify with Housing Trust.)
+- Layering notes: Eligible counties: Alameda, Contra Costa, Marin, Monterey, Napa, San Benito, San Francisco, San Joaquin, San Mateo, Santa Clara, Santa Cruz, Solano and Sonoma. Readiness is the key screen: construction must start by December 31, 2027 and awards are not held past that date. Two proposals per developer. Designed to fill gaps for shovel-ready deals waiting on state awards; repayment from permanent financing including AHSC or Infill Infrastructure Grant proceeds is expected. Full recourse and completion guaranty during construction; first or second deed of trust, subordinate only to a bank construction or permanent lender.
+- Source: https://housingtrustsv.org/programs/developer-funding/applefund/
+- Confidence: verified (researched 2026-11-08)
+
+
+### Greater San Francisco Bay Area (nine counties plus Monterey, San Benito, Santa Cruz and San Joaquin) and Sacramento County
+
+**Housing Trust Silicon Valley short term loans (predevelopment, acquisition, construction/rehab and bridge)**
+- Agency: Housing Trust Silicon Valley (CDFI; California Finance Lender License 6053356), 75 E. Santa Clara Street Suite 1350, San Jose; lending team Nick Friend (408-703-3837 ext. 223, nick@housingtrustsv.org) and Stephaney Kipple (ext. 244)
+- Type: loan
+- Typical award: Loans sized to project need; recent closings: $1,500,000 predevelopment for Gateway Tower, San Jose (220 units, 30% to 70% AMI, The Core Companies, 2026); $2,000,000 predevelopment for 69th Street Apartments, Sacramento (129 units, 30% to 60% AMI, CRP Affordable Housing, third Sacramento loan since expansion); acquisition loans up to about $9.9 million in Santa Cruz County (2025). Housing Trust reports $785 million invested since 2000. Capitalized by the TECH Fund (Cisco, Packard Foundation, Google, Grove Foundation, Sobrato Family Foundation, LinkedIn, NetApp, Pure Storage, Jewish Community Federation) and the Affordable Housing Growth Fund and 2015 Loan Pool (Avidbank, Beneficial State Bank, Bridge Bank, East West Bank, First Bank, Fremont Bank, Heritage Bank of Commerce, Manufacturers Bank, Presidio Bank, Silicon Valley Bank, Tech CU).
+- AMI requirement: Affordable rental and ownership housing for low income households; mixed income allowed with affordability restrictions; underwriting per Housing Trust term sheets (acquisition, bridge and predevelopment term sheets are provided by the lending team, not posted).
+- Cycle: rolling (next: Rolling; every loan starts with a call to the lending team.)
+- Layering notes: The largest regional nonprofit lender in the footprint. Footprint confirmed from Just Funded posts: Santa Clara, San Mateo, Alameda, Contra Costa, Santa Cruz, Monterey, Sonoma and, since about 2024, Sacramento County (three loans). Use for predevelopment and acquisition before TCAC/CDLAC awards; loans repay at construction or permanent closing. Housing Trust is also a Golden State Acquisition Fund originator and partners with FHLBank San Francisco on Affordable Housing Program grants (for example $2 million for 2700 International, Oakland). Separate records cover the Apple Affordable Housing Fund, Supportive Housing Fund (Santa Clara County), Monterey Bay Housing Trust and Sonoma County Housing Fund. Private capital, so no prevailing wage trigger from this source alone.
+- Source: https://housingtrustsv.org/programs/developer-funding/short-term/
+- Confidence: verified (researched 2026-11-08)
+
+
+### Kaiser Permanente Northern California service area (Bay Area, Sacramento, Central Valley)
+
+**Kaiser Permanente Thriving Communities Fund (RxHome loan fund with Enterprise and Housing for Health Fund preservation equity)**
+- Agency: Kaiser Permanente National Community Health (impact investing) with Enterprise Community Loan Fund and Enterprise Community Partners as fund partners
+- Type: other
+- Typical award: Kaiser reports $400 million committed toward housing stability and affordability with a goal of 30,000 units created or preserved by 2030; the Thriving Communities Fund provides capital and long-term loans to acquire, develop and maintain multiunit properties. Components reported elsewhere: a $100 million RxHome Fund ($50 million Kaiser loan to Enterprise Community Loan Fund plus $50 million ECLF capital) for affordable and supportive housing loans in Kaiser service areas, and the Housing for Health Fund, an $85 million preservation equity fund with Enterprise and JPMorgan Chase operating in the Bay Area and Sacramento that had invested $26 million in 637 homes by 2020. Current terms and availability were not posted on the page opened.
+- AMI requirement: Affordable and supportive housing in Kaiser Permanente service areas; preservation of unsubsidized affordable rentals (Housing for Health Fund).
+- Cycle: rolling (next: Unknown, verify with Enterprise Community Loan Fund (RxHome) or Enterprise's Northern California office (Housing for Health Fund).)
+- Layering notes: Kaiser's Northern California service area covers the Bay Area, Sacramento, Stockton, Fresno and Santa Cruz. Capital reaches developers through Enterprise (loans) and the Housing for Health Fund (joint-venture equity for preservation buys, often with EBALDC or similar owners). Kaiser also contributed to the Bay's Future Fund and committed $32 million to Sacramento homelessness and housing efforts. Marked needs_confirmation because fund-level term sheets and 2025 to 2026 deployment figures were not available on Kaiser's housing page; the RxHome and Housing for Health figures come from 2019 to 2020 releases.
+- Source: https://about.kaiserpermanente.org/expertise-and-impact/healthy-communities/our-programs-and-partnerships/housing-security
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+
+### Marin County
+
+**Marin Community Foundation CommunityFirst Loan Fund (nonprofit site acquisition and affordable housing loans)**
+- Agency: Marin Community Foundation, 5 Hamilton Landing Suite 200, Novato; director for community investment performs due diligence; Finance Committee approves loans under $5 million, board approves larger
+- Type: loan
+- Typical award: Loans to Marin nonprofits generally $500,000 to $5 million; short or long term; uses include site acquisition, construction and rehabilitation for Marin County affordable housing and capacity-building bridges; 0% default rate over 20 years; repayments revolve. Example: $1.35 million loan plus $500,000 grant for Stinson Beach affordable housing. Rates not posted (a 2017 fund report cited 4.0% fixed).
+- AMI requirement: Marin County nonprofits that cannot access or afford commercial debt, including affordable housing projects.
+- Cycle: rolling (next: Rolling.)
+- Layering notes: Marin County only, nonprofit borrowers only. MCF has co-funded the Marin Workforce Housing Trust with the County and named homelessness and affordable housing a strategic priority in 2024. Pair with the Marin County Affordable Housing Fund and city in-lieu funds (San Rafael, Novato, Mill Valley); MCF money can close acquisition gaps ahead of County awards.
+- Source: https://www.marincf.org/marin-community/how-we-support-nonprofits/community-first-loan-fund
+- Confidence: verified (researched 2026-11-08)
+
+
+### Monterey Bay region (Santa Cruz, Monterey and San Benito Counties)
+
+**Monterey Bay Housing Trust revolving loan fund (Housing Trust Silicon Valley with Monterey Bay Economic Partnership)**
+- Agency: Housing Trust Silicon Valley (CDFI; California Finance Lender License 6053356), 75 E. Santa Clara Street Suite 1350, San Jose; lending team Nick Friend (408-703-3837 ext. 223, nick@housingtrustsv.org) and Stephaney Kipple (ext. 244) with the Monterey Bay Economic Partnership; Dignity Health is a financing partner
+- Type: loan
+- Typical award: Revolving fund created July 2016 that exceeded its $10 million initial raise by summer 2017; loans for acquisition, predevelopment or construction sized to project need (Housing Trust reports 14 loans totaling about $33 million in the Monterey Bay region, including a $9,945,000 acquisition loan for 2727 Mattison Lane in Santa Cruz County in 2025).
+- AMI requirement: Affordable housing for low income individuals and families and those with special needs.
+- Cycle: rolling (next: Rolling; contact the Housing Trust lending team.)
+- Layering notes: Covers Santa Cruz, San Benito and Monterey Counties. The Santa Cruz County record from Pass 2 lists specific Santa Cruz loans; this regional record covers the fund itself. Loans typically repay at construction or permanent closing, so sequence ahead of TCAC, County Housing Funds and Salinas or Watsonville local funds.
+- Source: https://housingtrustsv.org/programs/developer-funding/monterey-bay-housing-trust/
+- Confidence: verified (researched 2026-11-08)
+
+
+### National (California deals confirmed in Southern California)
+
+**Mercy Community Capital (formerly Mercy Loan Fund) acquisition, construction, bridge and predevelopment loans**
+- Agency: Mercy Community Capital, the CDFI affiliate of Mercy Housing (Denver headquarters; lends in California under a California Financing Law license)
+- Type: loan
+- Typical award: Revolving loan fund offering acquisition, construction or rehabilitation loans, bridge loans to tax credit projects covering the equity pay-in period, secured predevelopment loans and lines of credit to national developers; applications accepted year-round and reviewed monthly. Loan sizes and rates are not posted.
+- AMI requirement: Quality affordable housing for low and very low income households and special needs populations with guaranteed long-term affordability.
+- Cycle: rolling (next: Rolling; monthly loan review.)
+- Layering notes: National lender affiliated with Mercy Housing California (Sacramento and Bay Area portfolios). Search results cite a participation loan with Community HousingWorks in San Diego and a $4.9 million acquisition and predevelopment loan to the Cesar Chavez Foundation in South Gate (January 2025), but no Northern California deal page was opened this pass, so regional activity needs confirmation before relying on it. Borrowers include nonprofits, LPs with nonprofit GPs, cooperatives, mission-driven for-profits and public agencies.
+- Source: https://www.mercyhousing.org/partner-with-us/mercy-community-capital/borrower-information/
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+
+### Nine-county San Francisco Bay Area
+
+**Bay Area Preservation Pilot (BAPP) acquisition and mini-permanent loans**
+- Agency: Enterprise Community Loan Fund and Low Income Investment Fund (originating CDFIs and fund managers) with the Metropolitan Transportation Commission and Bay Area Housing Finance Authority; MTC contact Somaya Abdelgany, 415-778-5217
+- Type: loan
+- Typical award: $49 million revolving fund ($10 million MTC plus $39 million CDFI capital). Note A senior up to 85% LTV at lender rate; Note B subordinate (MTC capital) fixed at no more than 2% with a minimum 3:1 leverage; Note C first-loss at 0% with no payments and possible forgiveness if affordability is maintained; maximum program exposure $2,500,000 per borrower outstanding for Notes B and C; maximum 10-year term, no prepayment penalty; origination the greater of $30,000 or 1% of total loans. Two Oakland loans closed preserving 71 homes.
+- AMI requirement: Occupied properties of 4 or more units, at least 80% occupied at acquisition, with rents affordable at or below 80% AMI, located in Transit Priority Areas or Priority Development Areas.
+- Cycle: rolling (next: Rolling, first come first served through Enterprise or LIIF.)
+- Layering notes: Nine-county Bay Area after the 2021 revisions (lower leverage requirement, up to $6 million convertible to forgivable debt, fund term extended to 20 years). Borrowers need 5 years of experience and 4 completed comparable projects (or a qualifying JV partner). Repayment at sale or refinance; pairs with county preservation funds, the City of Oakland and San Francisco small sites programs and BAHFA's separate Housing Preservation Loan Pilot ($17.8 million REAP 2). MTC public capital in Notes B and C, so prevailing wage is marked unclear.
+- Source: https://mtc.ca.gov/funding/investment-strategies-commitments/housing-solutions/bay-area-preservation-pilot-fund-bapp
+- Confidence: verified (researched 2026-11-08)
+
+**Bay Area Transit Oriented Affordable Housing (TOAH) Fund predevelopment and acquisition loans**
+- Agency: Low Income Investment Fund (fund manager) with the Metropolitan Transportation Commission; originating CDFIs Community Vision, Corporation for Supportive Housing, Enterprise Community Loan Fund, LISC and the San Francisco Foundation
+- Type: loan
+- Typical award: $40 million fund active since 2011 providing predevelopment and acquisition financing for transit-oriented affordable housing and community facilities; loan terms are set by the originating CDFI and are not posted on LIIF's fund page.
+- AMI requirement: Affordable housing and neighborhood assets near transit in the San Francisco Bay Area.
+- Cycle: rolling (next: Rolling through the originating CDFIs.)
+- Layering notes: Oldest of the MTC-seeded regional funds and the model for GSAF and BAPP. Confirm remaining capacity and current terms with LIIF or an originator before relying on it; terms were not available on the page opened this pass. MTC seed capital may be public funds for Labor Code 1720 purposes.
+- Source: https://www.liifund.org/strategic-priorities/lending-tools/national-funds/
+- Confidence: verified (researched 2026-11-08)
+
+**Ready to Build technical assistance program for nonprofit affordable housing developers, Community Vision**
+- Agency: Community Vision; Leslie Palaroan, Senior Program Manager, lpalaroan@communityvisionca.org
+- Type: other
+- Typical award: Intensive one-on-one technical assistance (feasibility, pro forma and capital stacking, development roadmap, partner matchmaking, asset management training) for nonprofits with a project positioned to reach site acquisition, construction start or completion by December 1, 2028. No direct capital.
+- AMI requirement: Housing affordable to households at or below 120% AMI with an identified site; preference for site control.
+- Cycle: annual NOFA (next: Applications due November 13, 2026 at 5pm (rolling if needed); selections first week of December 2026.)
+- Layering notes: Open to nonprofits in the nine Bay Area counties (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, Sonoma), including emerging developers, CLTs, faith-based entities, tribal organizations and service providers. Pairs with LISC Faith and Housing and with Community Vision or Housing Trust predevelopment loans.
+- Source: https://communityvisionca.org/advising/ready-to-build/
+- Confidence: verified (researched 2026-11-08)
+
+
+### Northern California (12 counties)
+
+**Public Lands Unlocking Sites (PLUS) predevelopment guaranty program, LISC Bay Area**
+- Agency: LISC Bay Area with a Chan Zuckerberg Initiative-backed guaranty
+- Type: other
+- Typical award: $10 million guaranty that lets LISC provide predevelopment funding for affordable housing on surplus public land without borrower collateral; goal of over 800 affordable units by 2029 across 12 Northern California counties. Loan sizes and pricing are not posted.
+- AMI requirement: Multifamily housing for households earning up to 80% AMI on surplus or public land.
+- Cycle: rolling (next: Rolling; contact LISC Bay Area lending (no public application posted).)
+- Layering notes: Designed for Surplus Land Act and other public-site dispositions where developers cannot pledge collateral before site control. Example cited: a 127-unit project on a 2-acre city and transit district site in Santa Cruz. Combine with BAHFA Priority Sites predevelopment loans and county or city surplus land programs. Public land involvement makes prevailing wage status project-specific.
+- Source: https://www.lisc.org/bay-area/how-we-work/lending-products/
+- Confidence: verified (researched 2026-11-08)
+
+
+### Northern California and Bay Area region (statewide lender)
+
+**California Community Reinvestment Corporation (CCRC) bridge and refinance loans for occupied affordable properties**
+- Agency: California Community Reinvestment Corporation (bank consortium CDFI), Glendale; contact Jennifer Quevedo, 818-550-9804
+- Type: loan
+- Typical award: Bridge loans to repay a maturing first mortgage ahead of recapitalization: term up to 5 years with up to 2 years interest only case by case; amortization the lesser of 35 years or 10 years less than remaining economic life; minimum DSCR 1.20; full recourse at CCRC discretion; prepayment greater of yield maintenance or 1%, waived if refinanced by a CCRC loan. Proceeds may fund closing costs, immediate repairs from a property condition assessment and sustainability improvements including an energy audit. Refinance loan terms are posted separately (updated September 2026).
+- AMI requirement: Occupied affordable multifamily properties with five or more units; mixed income properties at least 51% affordable at 80% AMI or lower.
+- Cycle: rolling (next: Rolling.)
+- Layering notes: A preservation tool for Year 15 and maturing-debt portfolios ahead of a 4% resyndication. Combine with state LHTF-funded local trust funds or county preservation NOFAs, and with the Bay Area Preservation Pilot where the property is in a transit area.
+- Source: https://www.e-ccrc.org/lending
+- Confidence: verified (researched 2026-11-08)
+
+**California Community Reinvestment Corporation (CCRC) permanent loans for affordable multifamily housing**
+- Agency: California Community Reinvestment Corporation (bank consortium CDFI), 225 W. Broadway Suite 120, Glendale; contact Jennifer Quevedo, jennifer.quevedo@e-ccrc.org, 818-550-9804
+- Type: loan
+- Typical award: Term up to 35 years (terms over 20 years reset the rate at year 16); amortization up to 35 years; rate lock up to 42 months; loan to value up to 85% for LIHTC properties and 80% non-LIHTC; minimum DSCR 1.15 LIHTC and 1.20 non-LIHTC; $10,000 application fee plus origination of the greater of 1% or $15,000; conversion at 95% occupancy for 90 days with 90% of tax credit equity funded; prepayment greater of yield maintenance or 1% until 90 days before maturity. Terms last updated September 2026. Recent regional loans: The Starling, Oakland (Eden Housing, 70 senior units, $6,721,000); Solaire Apartments, San Jose (January 2025, tax-exempt loan with 4% LIHTC); Creekside Trails, San Diego (October 2024 bridge loan).
+- AMI requirement: Multifamily rental housing affordable to low income families, seniors and residents with special needs; mixed income properties at least 51% affordable at 80% AMI or below.
+- Cycle: rolling (next: Rolling.)
+- Layering notes: CCRC lends through a taxable mortgage pool funded by member banks and by directly purchasing tax-exempt bonds, which gives member banks CRA credit. It uses one set of pre-negotiated construction-to-permanent documents with Wells Fargo, U.S. Bank, First Citizens Bank, JPMorgan Chase and Bank of America, so pairing a CCRC forward commitment with one of those construction lenders shortens closing. Appraisal is shared with the construction lender. Statewide footprint with Bay Area, Sacramento Valley and San Diego deals in its portfolio.
+- Source: https://www.e-ccrc.org/lending
+- Confidence: verified (researched 2026-11-08)
+
+**Century Housing Corporation acquisition and bridge loans**
+- Agency: Century Housing Corporation (nonprofit CDFI), 1000 Corporate Pointe, Culver City; statewide lending to California borrowers
+- Type: loan
+- Typical award: $1,000,000 to $50,000,000; loan to value up to 100%, typically 90% of the lesser of appraised value or price; origination 1.0% to 2.0%; variable or fixed rate; term up to 5 years including extensions, no prepayment penalty; interest reserve capitalized; application fee up to $10,000 (refundable), legal up to $20,000; 30 to 45 day closings.
+- AMI requirement: Developments affordable to households at or below 120% AMI; mixed-use eligible.
+- Cycle: rolling (next: Rolling.)
+- Layering notes: Regional activity confirmed on Century's site: Foon Lok East, Oakland (MidPen, $12,262,000 permanent loan, 125 units); Civic Center Drive, Santa Clara (Charities Housing, with Housing Trust Silicon Valley); Vista Verde Apartments, Santa Cruz County (Eden Housing, 72 units); Ross Gardens, Fresno (140 units, permanent loan). Century is a Golden State Acquisition Fund originator, so GSAF leverage can raise LTV. Borrowers include nonprofits, for-profits, cities and counties. Loans are recourse with a first deed of trust. Century's Emerging Developers Program (special purpose credit program, $15 million JPMorgan Chase facility and $10 million U.S. Bank racial equity bond) is available to minority- and women-owned developers statewide; the examples posted are in Los Angeles.
+- Source: https://century.org/financing/acquisition-bridge-loans/
+- Confidence: verified (researched 2026-11-08)
+
+**Century Housing Corporation construction loans**
+- Agency: Century Housing Corporation (nonprofit CDFI), Culver City; statewide
+- Type: loan
+- Typical award: $1,000,000 to $27,000,000; up to 75% loan to value and 75% loan to cost; 12 to 24 month term with extensions; variable pricing plus origination, administrative, legal and third-party report fees; interest reserve funded from loan proceeds; progress-based draws.
+- AMI requirement: Multifamily development with rents at or below 120% AMI.
+- Cycle: rolling (next: Rolling.)
+- Layering notes: Repaid through permanent financing (Century permanent loans, CCRC or bank take-outs). First deed of trust and assignment of rents, full recourse to sponsors. Works alongside LIHTC equity and state soft debt; confirm Century's position relative to any tax-exempt bond construction loan.
+- Source: https://century.org/financing/construction-loans/
+- Confidence: verified (researched 2026-11-08)
+
+**Century Housing Corporation permanent loans**
+- Agency: Century Housing Corporation (nonprofit CDFI), Culver City; statewide
+- Type: loan
+- Typical award: $1,000,000 minimum; loan to value up to 90% (80% non-LIHTC); debt coverage 1.15 minimum (1.20 non-LIHTC); amortization up to 35 years; term up to 18 years including extensions; forward commitment up to 36 months; fixed rate; origination 1.0% to 2.0%; application fee up to $10,000, legal up to $20,000; 30 to 45 day closings.
+- AMI requirement: Developments affordable to households at or below 120% AMI; mixed-use eligible.
+- Cycle: rolling (next: Rolling.)
+- Layering notes: Non-recourse first deed of trust. The 18-year maximum term is designed to run through the 15-year LIHTC compliance period. Compare with CCRC permanent loans (up to 35-year term) and bank or Freddie Mac TEL executions when sizing hard debt under TCAC underwriting.
+- Source: https://century.org/financing/permanent-loans/
+- Confidence: verified (researched 2026-11-08)
+
+**Corporation for Supportive Housing (CSH) project initiation, predevelopment, acquisition and mini-perm loans**
+- Agency: Corporation for Supportive Housing (national CDFI) with California lending staff; loans@csh.org
+- Type: loan
+- Typical award: Term sheet dated June 1, 2025: project initiation loans $50,000 to $100,000 at 0% to 3% for 24 months, 3-year term, unsecured, no fee; predevelopment $150,000 to $2 million at 7.5% fixed, 3 years, LTV up to 130% (no LTV test under $500,000), 1.5% origination; acquisition $150,000 to $15 million at 7.5% fixed, 3 years, 100% LTV on property plus 130% for predevelopment, 1.5% origination; mini-perm $150,000 to $1 million at 7.5% fixed, 5 years, 100% LTV. Construction gap loans where a lead lender monitors draws (Capital Magnet Fund blended rates). Rates published monthly and locked at full application.
+- AMI requirement: Affordable housing that includes supportive housing; borrowers are nonprofit, for-profit or public agencies with a supportive or affordable housing track record.
+- Cycle: rolling (next: Rolling; rates reset monthly.)
+- Layering notes: CSH will lend well over 100% of collateral value, which fits early-stage supportive housing before Homekey+, NPLH, BHSA or county Measure A commitments. CSH is a GSAF originator, a Bay Area TOAH originator and an originator for the Partnership for the Bay's Future funds. Rates (7.5%) are higher than Housing Trust or Destination: Home money, so use CSH where those are unavailable or for non-Bay Area counties.
+- Source: https://www.csh.org/csh-solutions/lending-community-investment/
+- Confidence: verified (researched 2026-11-08)
+
+**Enterprise Community Loan Fund (ECLF) loan products for affordable housing**
+- Agency: Enterprise Community Loan Fund (Enterprise Community Partners' CDFI, S&P AA-); Northern California office in San Francisco; senior loan officer Eve Goldstein-Siegel, egoldstein@enterprisecommunity.org, 415-400-0986
+- Type: loan
+- Typical award: Predevelopment up to $2 million, up to 24 months; acquisition up to $8 million, up to 24 months, LTV up to 60% for vacant land and 80% for cash-flowing property; construction up to $10 million, up to 24 months, LTV up to 80%; bridge up to $10 million, up to 48 months against LIHTC or historic credit equity and other committed sources; mini-permanent and NMTC leverage up to $8 million, 5 to 7 years, LTV up to 75%; permanent up to $10 million, 7 or more years. Fees up to 2% of loan amount plus legal; full recourse. ECLF has invested $3.27 billion nationally with $648 million under management.
+- AMI requirement: Affordable rental and for-sale housing, mixed-use and community facilities serving low income communities.
+- Cycle: rolling (next: Rolling.)
+- Layering notes: Northern California activity confirmed on Enterprise's regional page: $7.1 million construction loan for CHISPA's Vista de la Terraza in Salinas (40 farmworker family homes). Enterprise co-manages the Bay Area Preservation Pilot with LIIF, originates for the Golden State Acquisition Fund and the Bay Area TOAH Fund, co-leads BAHFA pilot programs and runs the Central Valley Housing Initiatives across eight Central Valley counties. Kaiser Permanente's $50 million RxHome loan to ECLF and the Housing for Health Fund (Bay Area and Sacramento preservation equity) also run through Enterprise; see the Kaiser record.
+- Source: https://www.enterprisecommunity.org/capabilities/community-development-financial-institution
+- Confidence: verified (researched 2026-11-08)
+
+**Low Income Investment Fund (LIIF) affordable housing lending (acquisition, predevelopment, construction, bridge and term loans)**
+- Agency: Low Income Investment Fund (national CDFI headquartered in San Francisco); Western Region lending contact Emma Chavez, Market Director, echavez@liifund.org, 213-262-2490 ext. 490; lending@liifund.org
+- Type: loan
+- Typical award: Products: acquisition and predevelopment loans, construction loans, term loans, construction-to-permanent, bridge loans, NMTC leverage loans and CDFI Bond Guarantee Program loans; 65 loans closed in FY24 and $292 million closed in FY23 (77% affordable housing); LIIF's affordable housing lending totals $1.2 billion. Loan sizes and rates are not posted; recent California examples include $1.5 million in predevelopment loans in Murrieta (Riverside County) and the JFM Seniors and Family apartments in the Coachella Valley.
+- AMI requirement: Affordable homeownership and multifamily rental for low income households; below-market pricing where philanthropic capital allows.
+- Cycle: rolling (next: Rolling.)
+- Layering notes: LIIF is fund manager for the Golden State Acquisition Fund ($292 million, eight CDFI originators), the Bay Area Transit Oriented Affordable Housing Fund ($40 million), the Bay Area Preservation Pilot (with Enterprise) and We Lift, the Coachella Valley Housing Catalyst Fund ($50 million), each recorded separately. Its affiliate National Affordable Housing Trust syndicates LIHTC. Statewide activity 'from Crescent City to San Diego' per LIIF; Bay Area and Southern California concentrations.
+- Source: https://www.liifund.org/strategic-priorities/lending-tools/
+- Confidence: verified (researched 2026-11-08)
+
+
+### Rural California (communities of 50,000 or fewer)
+
+**Rural Community Assistance Corporation (RCAC) Affordable Housing Loan Program**
+- Agency: Rural Community Assistance Corporation (CDFI), 3120 Freeboard Drive Suite 201, West Sacramento; Loan Fund 855-979-7322
+- Type: loan
+- Typical award: Feasibility loans normally up to $10,000, one year, 1% fee; acquisition loans up to appraised value plus fee and interest reserve, normally not more than $3 million, up to 3 years, 1% fee, may subordinate to construction lender; predevelopment loans based on line-item budget, up to 3 years, 1% fee; site development and unit construction loans normally not more than $3 million, 1.125% fee, term tied to construction period. Flyer revised May 29, 2026; funds subject to availability.
+- AMI requirement: Single family and multifamily housing serving very low and low income households; RCAC finances only the low income portion of mixed income projects.
+- Cycle: rolling (next: Rolling.)
+- Layering notes: Rural only: project areas with populations of 50,000 or less. Borrowers are nonprofits, public agencies and tribal governments (no individuals). In scope for rural parts of Mendocino, Nevada, Madera, Merced, San Benito, El Dorado, Yolo, Placer, Monterey, San Luis Obispo and other counties; pairs with USDA Rural Development 514/515/538, state Joe Serna farmworker grants and county HOME or PLHA. RCAC is also a GSAF originator and a We Lift partner in the Coachella Valley.
+- Source: https://www.rcac.org/lending/affordable-housing-loans/
+- Confidence: verified (researched 2026-11-08)
+
+
+### San Francisco Bay Area
+
+**Faith and Housing program predevelopment grants and technical assistance, LISC Bay Area**
+- Agency: LISC Bay Area; contact Evita Chavez, Senior Program Officer, Housing; funders include Alameda County HCD, BMO, Capital One, Crankstart, First Republic Foundation, San Francisco Foundation, Silicon Valley Community Foundation, Sobrato Family Foundation and Wells Fargo
+- Type: grant
+- Typical award: Cohort program since 2019: technical workshops, a development coach, grant funds for predevelopment activities and a participation stipend for faith-based and community-based landowners; grant amounts not posted.
+- AMI requirement: Affordable housing on faith-owned land, typically through a joint venture with an experienced developer.
+- Cycle: annual NOFA (next: Next cohort date not posted; join the mailing list on the program page.)
+- Layering notes: Useful for developers partnering with congregations under SB 4 (Affordable Housing on Faith and Higher Education Lands Act). Grants cover early feasibility before Housing Trust or CDFI predevelopment loans. Alameda County HCD is a funder, so Alameda projects may have a direct county tie-in.
+- Source: https://www.lisc.org/bay-area/areas-of-work/affordable-housing/faithandhousing/
+- Confidence: verified (researched 2026-11-08)
+
+
 ### San Luis Obispo County
 
 **San Luis Obispo County Housing Trust Fund revolving loans (private CDFI)**
@@ -8609,6 +8943,68 @@ Generated 2026-11-08, 819 total records
 - Cycle: rolling (next: Rolling; four-step process starting with a phone or email inquiry, then invitation to apply. Maintains a 2026 Multi-Family Readiness List.)
 - Layering notes: San Luis Obispo County's Department of Social Services Homeless Services Division (HSD, Devin Drake, Director; George Solis, Principal Administrative Manager; HSDgrants@co.slo.ca.us) runs one combined annual Action Plan NOFA each fall for CDBG, HOME, ESG, HHAP, PLHA, Title 29 and County General Fund Support on the Neighborly portal, and is the Continuum of Care collaborative applicant and administrative entity (CA-614). The Department of Planning and Building runs Title 22 land use incentives and assesses the new Title 31 in-lieu fee; the Behavioral Health Department holds BHSA; the Housing Authority of San Luis Obispo (HASLO) and its San Luis Obispo Nonprofit Housing Corporation, Paso Robles Housing Authority and Peoples' Self-Help Housing are the main developers; and the private nonprofit San Luis Obispo County Housing Trust Fund is the local CDFI gap lender. The Urban County covers the unincorporated area plus Arroyo Grande, Atascadero, Morro Bay, Paso Robles, Pismo Beach and San Luis Obispo (Grover Beach is outside). The County repealed its inclusionary ordinance on June 7, 2022 and replaced it in October 2025 with a voluntary Regional Housing Incentive Program and Regional Housing Fund. slocounty.ca.gov opens directly but rate-limits bursts (HTTP 429); Legistar web API is not enabled for the County. The Housing Trust Fund is the fastest local money in the county and has participated in nearly every recent affordable deal (Cambria Pines, Rolling Hills III, Cleaver and Clark Commons, River Walk Terrace). Use it for predevelopment and acquisition bridges before County and state awards, and ask about the LIHTC soft loan product funded by state LHTF matching grants ($1.5 million LHTF award reported in 2025).
 - Source: https://www.slochtf.org/for-borrowers
+- Confidence: verified (researched 2026-11-08)
+
+
+### San Mateo County and northern Santa Clara County (15 miles from Menlo Park)
+
+**Catalyst Housing Fund (Meta) administered by LISC Bay Area**
+- Agency: LISC Bay Area (administrator: underwriting, disbursement, fund and asset management) with Meta (Facebook), the City of East Palo Alto, the City of Menlo Park and Envision Transform Build; contact Lily Berticevich, Director of Community Investment
+- Type: loan
+- Typical award: $17 million total fund ($9 million-plus initially set aside for East Palo Alto); $75 million LISC leverage goal; 9 deals closed, $16.2 million invested, $6.5 million available; 775 units produced or preserved.
+- AMI requirement: At least 60% of financed units affordable to low income households, of which 30% extremely low income and 30% very low income; priority for family housing and no net loss of rent-controlled or deed-restricted units.
+- Cycle: rolling (next: Rolling; contact LISC Bay Area.)
+- Layering notes: Geography is a 15-mile radius of Meta's Menlo Park campus (roughly SFO to SJC), so it reaches San Mateo County and northern Santa Clara County cities. Projects are defined with community groups and East Palo Alto. Small remaining balance ($6.5 million), so treat as a gap or acquisition source rather than a primary lender.
+- Source: https://www.lisc.org/bay-area/areas-of-work/affordable-housing/catalyst-housing-fund/
+- Confidence: verified (researched 2026-11-08)
+
+
+### Santa Clara County
+
+**Destination: Home Supportive Housing and Innovation Fund (private acquisition and predevelopment financing and developer capacity grants)**
+- Agency: Destination: Home (Santa Clara County public-private partnership nonprofit), San Jose; fund seeded by Cisco ($50 million, 2018) and Apple ($50 million, 2019)
+- Type: loan
+- Typical award: More than $96 million invested since 2018: no-interest or low-interest acquisition and predevelopment financing for 42 extremely low income and supportive housing developments with more than 4,100 units; flexible capacity-building grants to 8 nonprofit developers (1,600 units in pipeline); capacity grants to the Cities of Campbell, Morgan Hill, Mountain View and San Jose. Loan sizes are not posted.
+- AMI requirement: Supportive housing and extremely low income (30% AMI) housing for formerly homeless households in Santa Clara County.
+- Cycle: rolling (next: Open funding opportunities are posted on the fund page; otherwise rolling by invitation.)
+- Layering notes: The private counterpart to the County's Measure A and the Housing Trust Supportive Housing Fund. Zero or low interest acquisition money lets sponsors tie up sites before County Measure A, Homekey+ or NPLH awards. Destination: Home is also a founding partner of the Bay Area Housing Innovation Fund (separate record) and funded a dedicated San Jose planner for supportive housing projects. Santa Clara County only.
+- Source: https://destinationhomesv.org/funding-impactful-strategies/supportive-housing-innovation-fund/
+- Confidence: verified (researched 2026-11-08)
+
+**Supportive Housing Fund (Housing Trust Silicon Valley with the County of Santa Clara, Measure A)**
+- Agency: Housing Trust Silicon Valley (CDFI; California Finance Lender License 6053356), 75 E. Santa Clara Street Suite 1350, San Jose; lending team Nick Friend (408-703-3837 ext. 223, nick@housingtrustsv.org) and Stephaney Kipple (ext. 244); funded by County of Santa Clara ($16.9 million) with $5 million Housing Trust match
+- Type: loan
+- Typical award: Maximum $8,000,000 secured by real estate or $800,000 on corporate guaranty; projects with 50% or more eligible units up to 100% of the maximum, otherwise 50%; term up to 3 years; interest 0% to 2% with interest holdback; acquisition up to 100% LTV, construction or rehab 85% LTV. $43 million allocated to date supporting 1,595 permanent supportive housing units started or preserved.
+- AMI requirement: Permanent housing with supportive services for extremely low income individuals and families and those with special needs; projects must conform to the County's Measure A NOFA.
+- Cycle: rolling (next: Rolling; contact the Housing Trust lending team.)
+- Layering notes: Revolving fund created by County MOU June 9, 2015 and amended April 11, 2017 to implement the 2016 Measure A bond pipeline. Repayment is due at the close of County or other public land financing, construction closing or permanent closing. Program guidelines on the site date from 2017; confirm current terms. County capital in the fund may count as public funds for Labor Code 1720 purposes, so prevailing wage is marked unclear. Pair with the County Office of Supportive Housing Measure A and Affordable Housing Fund records and with Destination: Home's Supportive Housing and Innovation Fund.
+- Source: https://housingtrustsv.org/programs/developer-funding/supportive-housing-fund/
+- Confidence: verified (researched 2026-11-08)
+
+
+### Santa Clara, San Mateo, San Francisco, Alameda and Santa Cruz Counties
+
+**Bay Area Housing Innovation Fund (Housing Accelerator Fund with Apple, Sobrato Philanthropies and Destination: Home)**
+- Agency: Housing Accelerator Fund (San Francisco nonprofit lender), with founding partners Apple, Sobrato Philanthropies and Destination: Home; later investors Valhalla Foundation, Harry and Jeanette Weinberg Foundation and individual philanthropists
+- Type: loan
+- Typical award: $100 million fund (launched July 2024 at $50 million, doubled December 2025). Mezzanine construction-to-permanent loans (September 2025 term sheet): up to $20 million per project, higher on request; construction period interest about 3% to 5% fixed; permanent period subordinate debt repaid from residual receipts and refinance proceeds to a 5% target annualized return; total term up to 20 years; origination up to 1%. Construction-to-permanent first mortgage loans (August 2025 term sheet) with the same $20 million cap, 3% to 5% construction pricing and 20-year maximum. Loans to date: $16 million for 1633 Valencia, San Francisco (Mercy Housing California, 145 PSH units, 19-month build, about $525,000 per unit) and $11 million for Harvey West Studios, Santa Cruz (Housing Matters with MidPen, 120 PSH units).
+- AMI requirement: Net new permanently affordable units up to 120% AMI with preference for 50% and 30% AMI; nearly half of pilot homes reserved for formerly homeless or extremely low income households.
+- Cycle: rolling (next: Rolling after entitlement; a NOFA is forthcoming (sign up on the fund page). Construction must start within 12 months of commitment and reach certificate of occupancy within 3 years.)
+- Layering notes: Eligible counties: Santa Clara, San Mateo, San Francisco, Alameda and Santa Cruz. Intended to let projects skip the LIHTC queue: it funds construction and permanent debt for projects that commit to cost and time targets about 40% below Bay Area averages, with a third-party evaluator documenting the approach. Entitlements must be in hand before commitment. Pairs with county Measure A or local gap funds, Homekey+ and project-based vouchers; residual receipts split must follow local public agency policy where applicable.
+- Source: https://www.sfhaf.org/bay-area-housing-innovation-fund/
+- Confidence: verified (researched 2026-11-08)
+
+
+### Sonoma County
+
+**Sonoma County Housing Fund (Housing Trust Silicon Valley with the Santa Rosa Metro Chamber)**
+- Agency: Housing Trust Silicon Valley (CDFI; California Finance Lender License 6053356), 75 E. Santa Clara Street Suite 1350, San Jose; lending team Nick Friend (408-703-3837 ext. 223, nick@housingtrustsv.org) and Stephaney Kipple (ext. 244) (underwriting, approval and loan administration) with the Santa Rosa Metro Chamber (local capital raise)
+- Type: loan
+- Typical award: $10 million initiative launched after the 2017 Tubbs Fire; loans sized to project need for affordable housing throughout Sonoma County.
+- AMI requirement: Affordable housing serving low income populations in Sonoma County.
+- Cycle: rolling (next: Rolling; contact the Housing Trust lending team.)
+- Layering notes: Private local capital deployed through Housing Trust underwriting. Layer with the Sonoma County CDC combined NOFA (CFH, HOME, CDBG, LMIHAF), the RED Housing Fund and city housing trust funds in Santa Rosa, Petaluma and Rohnert Park. Loan terms follow Housing Trust short term loan products.
+- Source: https://housingtrustsv.org/programs/developer-funding/sonoma-county-housing-fund/
 - Confidence: verified (researched 2026-11-08)
 
 
