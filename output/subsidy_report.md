@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 730 total records
+Generated 2026-11-08, 748 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -4110,6 +4110,49 @@ Generated 2026-11-08, 730 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Clovis
+
+**Clovis Affordable Housing Development Impact Fee Deferral Program (2025-2026 NOFA, Judgment Action Item 6)**
+- Agency: City of Clovis Affordable Housing Program
+- Type: fee waiver
+- Typical award: Defers 40% (80% AMI units), 45% (50% AMI) or 50% (30% AMI) of City major facility sewer and water fees per restricted unit, up to 120 affordable units per fiscal year. Deferred amount becomes a 0% residual receipts loan, 17-year term for multifamily (30 years single-family) or as senior lenders require.
+- AMI requirement: Units restricted at or below 80% AMI; recorded development agreement, deed of trust and declaration of restrictions; units must be built after July 1, 2024 and receive certificates of occupancy by December 31, 2031. Units required by MIZO are ineligible.
+- Cycle: rolling (first come, first served, annual NOFA) (next: 2025-26 NOFA dated August 28, 2025 accepts applications year-round until the 120-unit cap is used; a 2026-27 NOFA has not been located. Priority to senior and multifamily projects with site control and entitlements.)
+- Layering notes: Only sewer and water major facility fees are covered; other City impact fees remain due. The residual receipts note sits behind senior and tax credit financing. Clovis states development fees cannot be waived. Pairs with Clovis density bonus and the R-3 density increase to 20 to 30 du/ac.
+- Source: https://www.clovisca.gov/documents/Services/Affordable Housing/Housing Settlement/City of Clovis - NOFA - Development Impact Fee Deferral Program - August 28 2025.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Clovis Affordable Housing Incentives: Density Bonus (Development Code Chapter 9.26)**
+- Agency: City of Clovis Planning and Development Services
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Tracks Gov. Code 65915 as amended through Ord. 21-06 (2021): up to 50% bonus (Tables 3-5 and 3-6), 80% and height increases for 100% affordable projects; projects of 5 or more units.
+- AMI requirement: State thresholds: 10% lower income, 5% very low income, senior, 10% moderate for-sale, 20% student, or 100% lower income (up to 20% moderate); 55-year restrictions.
+- Cycle: rolling (next: Not applicable; applied with entitlements.)
+- Layering notes: No local enhancement beyond State law found in the chapter. Combined with the June 2024 R-3 and High Density Residential minimum density increase to 20.1 du/ac and the infill rezone program under the judgment. City also offers expedited entitlements and a citywide Cottage Home program. Code read on the zoneomics mirror because codepublishing is blocked.
+- Source: https://www.zoneomics.com/code/clovis-CA/chapter_3
+- Confidence: verified (researched 2026-11-08)
+
+**Clovis Affordable Housing Trust Fund (Martinez v. City of Clovis Judgment Action Item 2)**
+- Agency: City of Clovis Affordable Housing Program (Planning and Development Services)
+- Type: loan
+- Typical award: Initial $1,000,000 (FY 2023-24) awarded to a senior housing project in planning; City sets aside $100,000 per year for seven years. City also holds its State PLHA formula allocation and releases it through the same webpage when available.
+- AMI requirement: At least 30% of HTF funds requested must assist extremely low income households (below 30% AMI); the rest at or below 80% AMI; deed-restricted units.
+- Cycle: rolling (RFP when funds accumulate) (next: No open RFP as of 2026-11-08 (last RFP August 2024). Check the City affordable housing financial incentives page or email housing@clovisca.gov.)
+- Layering notes: Small fund created under the March 2024 court judgment (Martinez v. City of Clovis); about $100K per year is only useful as a local match or to show local support in TCAC scoring. Future MIZO in-lieu fees ($2.80 per square foot) are expected to feed affordable housing gap funding. Clovis is a CDBG entitlement city, but its CDBG goes mainly to home repair, public services and streets. County HOME/PLHA NOFO records cover the urban county; confirm Clovis eligibility with the County before relying on it.
+- Source: https://www.clovisca.gov/services/affordable_housing/affordable_housing_development/financial_incentives.php
+- Confidence: verified (researched 2026-11-08)
+
+**Clovis Mixed Income Zoning Ordinance (MIZO, Ordinance 26-02) inclusionary requirement and in-lieu fee**
+- Agency: City of Clovis Planning and Development Services, Affordable Housing Program
+- Type: other
+- Typical award: Requirement, not a subsidy. 5% of units in new residential projects of 11 or more units must be deed-restricted affordable, or pay an in-lieu fee of $2.80 per square foot of net livable area of all market-rate units; alternatives include off-site land dedication, off-site construction and acquisition-rehab.
+- AMI requirement: Rental MIZO units: half at 50% AMI, half at 80% AMI, 55-year deed restriction. For-sale: 100% at 80% AMI, 45-year restriction.
+- Cycle: rolling (next: Approved by City Council April 13 and 20, 2026; applies to projects not deemed complete before it took effect.)
+- Layering notes: New for Clovis; required by Action Item 5 of the Martinez judgment (Keyser Marston feasibility study, October 2025). In-lieu revenue should grow the Housing Trust Fund over time, a potential future gap source. Affordable developers partnering with market-rate builders on off-site compliance may find site or fee opportunities. MIZO units cannot use the fee deferral program. The adopted ordinance PDF is a scanned image; terms were read from the City MIZO page, FAQ and December 2025 presentation.
+- Source: https://www.clovisca.gov/services/affordable_housing/mixed_income_zoning_ordinance.php
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Concord
 
 **Concord Affordable Housing Fund and Concord Housing Fund (Housing Successor Low and Moderate Income Housing Asset Fund, SB 341 report FY 2024/25)**
@@ -4514,6 +4557,109 @@ Generated 2026-11-08, 730 total records
 - Cycle: rolling (next: Concurrent with the entitlement application.)
 - Layering notes: No local enhancement; the City's incentives for affordable projects are fee based. Fremont adopted a development impact fee deferral and a 50% impact fee reduction for affordable housing projects under FMC 18.290 (2021 and later actions) according to City notices, but the fremont.gov pages describing them were blocked (403) this pass and the zoneomics 18.290 text defines affordable housing (up to 120% AMI) without stating the reduction; treat the fee reduction as needs_confirmation. Fremont also adopted a Streamlined Affordable Housing overlay through Housing Element Program implementation ordinances in 2025 (PLN2025-00065 and PLN2025-00074) that were not opened.
 - Source: https://fremontcityca.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=2043&MediaPosition=&ID=5562&CssClass=
+- Confidence: verified (researched 2026-11-08)
+
+
+### City of Fresno
+
+**Affordable Housing Density Bonus (FMC Chapter 15, Article 22) with TOD Height and Density Bonus (Article 21) and Housing Element Program 9 by-right approval**
+- Agency: City of Fresno Planning and Development Department
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Article 22 implements Gov. Code 65915 for projects of 5 or more units (State law governs on conflict). Article 21 adds a discretionary TOD bonus of up to 100% more density and 25% more height in MX or CMS districts within 500 feet of a BRT station or half mile of Manchester Transit Center, combinable with the affordable bonus. Program 9 text amendment (P26-01326, 2026) makes projects with at least 20% lower-income units by-right on reused housing element sites.
+- AMI requirement: State density bonus thresholds (e.g., 5% very low or 10% low income for a 20% bonus); covenants per Article 22 (at least 30 years in local text, 55 years under current State law for rentals). Fresno has no inclusionary requirement; FMC 15-2201(E) bars adopting one until the 2014 General Plan is superseded.
+- Cycle: rolling (next: Not applicable; applied with entitlements.)
+- Layering notes: Local text predates recent State amendments, so the State statute controls bonus percentages and concessions. TOD stacking is a Fresno-specific advantage on Blackstone and Ventura/Kings Canyon BRT corridors. No density cap on mixed-use zones since 2022. No inclusionary fund exists to tap. Code read on the zoneomics mirror (City code host not used).
+- Source: https://www.zoneomics.com/code/fresno-CA/chapter_3
+- Confidence: verified (researched 2026-11-08)
+
+**Affordable Housing Development and Substantial Rehabilitation NOFA (HOME, HOME-CHDO and HOME-ARP), City of Fresno PY 2026-2027**
+- Agency: City of Fresno Planning and Development Department, Housing and Community Development Division (Housing Finance)
+- Type: loan
+- Typical award: PY 2026-27 Annual Action Plan programs $2,804,486.73 HOME for affordable development or rehab (entitlement $2,766,057.28 plus $500,000 program income and $229,944 prior year) and a $414,909 HOME CHDO set-aside. Recent awards: $3,000,000 HOME to Sarah's Court II (120 units, 11 HOME units, January 2026). City HOME-ARP allocation was $11.9 million (HOME-ARP supportive services NOFA closed April 13, 2026). Five-year Con Plan years 3 to 5 HOME estimate $8.3 million.
+- AMI requirement: HOME rents and incomes (at or below 80% AMI, with HOME rent limits on assisted units); 55-year City regulatory agreement typical for rental loans; priority for projects in areas of opportunity.
+- Cycle: annual NOFA (summer, posted on PlanetBids) (next: 2026-2027 AHD NOFA (PlanetBids No. 2026/12602307) closed August 31, 2026. Next round expected mid-2027 after the PY 2027 Action Plan; verify with HCDD at (559) 621-8300 or HCDD@fresno.gov.)
+- Layering notes: City of Fresno is its own HUD entitlement (CDBG $6.9M, HOME $2.77M, ESG $624K, HOPWA $1.27M in PY 2026) and is not part of the Fresno Urban County, so City projects do not compete in the County HOME/PLHA NOFO and vice versa. The AHD NOFA is separate from the Consolidated NOFA (CDBG, ESG, HOPWA public services and infrastructure, due January 23, 2026). City HOME is usually layered with City PLHA, LHTF and Housing Successor funds and with 4% or 9% LIHTC; HOME triggers Davis-Bacon at 12 or more assisted units and federal NEPA review before choice-limiting actions. Fresno Housing (county record) PBVs and bonds stack on top. The PlanetBids NOFA document itself could not be opened by script; figures come from the City HCD page and the PY 2026-27 Annual Action Plan.
+- Source: https://www.fresno.gov/planning/housing-community-development/
+- Confidence: verified (researched 2026-11-08)
+
+**Affordable housing development impact fee deferral to certificate of occupancy (uncodified Ordinance 2008-51)**
+- Agency: City of Fresno Planning and Development Department and Public Works Department
+- Type: fee waiver
+- Typical award: Defers payment of all adopted City development impact fees (street, water, sewer and others) on qualifying affordable units from building permit to certificate of occupancy. Deferral only, no reduction.
+- AMI requirement: Inside the Central Area (bounded by SR 180, 99 and 41): any unit in a development with at least 15% of units restricted; outside the Central Area: restricted units only. Covenants of at least 55 years for rental and 30 years for ownership.
+- Cycle: rolling (next: Ongoing; request at building permit.)
+- Layering notes: Construction-period carry savings only; fees are still due before occupancy. Stacks with the Infill Incentive waiver where both apply and with density bonus concessions. Ordinance dates from 2008; confirm current implementation with Public Works since it is uncodified.
+- Source: https://www.fresno.gov/wp-content/uploads/2023/04/AFFORDABLE-HOUSING-WAIVER.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**City of Fresno Local Housing Trust Fund (LHTF), Resolution 2021-201 and Revised Program Guidelines 02**
+- Agency: City of Fresno Planning and Development Department, Housing Finance Division
+- Type: loan
+- Typical award: Dedicated $1,500,000 per year from the City Real Estate Transfer Tax, plus General Fund contributions, Prohousing Incentive Pilot Round 1 ($2,064,891) and State LHTF matching grants (about $8.5 million received to date, including $1,797,373 appropriated January 2026). Recent loans: $5,000,000 Cesar Chavez Apartments (54 units, 2024 commitment) and $3,727,000 The Park at South Stadium (15 LHTF units of 174, approved June 18, 2026; includes $156,800 Housing Successor funds). City applied for PIP Round 4 (up to $2,000,000) to recapitalize the fund.
+- AMI requirement: Local funds (Guidelines 02) serve households at or below 80% AMI (State match dollars follow State LHTF rules, with at least 30% to extremely low income); 55-year affordability covenants on rental loans. Eviction Protection Program uses are exempt from income verification since July 1, 2025.
+- Cycle: annual NOFA (next: LHTF Multi-Family New Construction Affordable Rental Housing NOFA (PlanetBids No. 12601837) released April 24, 2026 and closed May 25, 2026. Next NOFA depends on the FY 2027 transfer-tax allocation and any PIP Round 4 award; verify with Housing@fresno.gov.)
+- Layering notes: One of the few city-controlled flexible local sources in the Central Valley. Loans are 3% simple interest, 55-year, residual receipts, and accept third or fourth lien position behind construction/permanent debt and other public loans, so they fit as gap under 4% LIHTC and tax-exempt bonds. Guidelines 02 were rewritten in 2025 (Resolution 2025-270) and a technical amendment in April 2026 restored multifamily new construction as eligible after it was inadvertently dropped; check the current guidelines before applying. Competes for the same transfer-tax dollars as the Eviction Protection Program. County has no equivalent trust fund (see Fresno County PLHA and HOME records).
+- Source: https://agendas.fresno.gov/en/legislation/id-26-146-20843
+- Confidence: verified (researched 2026-11-08)
+
+**City-owned and surplus land contributions with conditional City funding commitments (Surplus Land Act RFPs, Land Bank)**
+- Agency: City of Fresno Planning and Development Department
+- Type: other
+- Typical award: Land at nominal cost plus conditional funding. Examples: Vantage Blackstone senior modular (100 units) gets a 1.21-acre parcel on a 55-year ground lease at $1 per year plus $4,300,000 loan/grant (approved October 22, 2026); Parkview Apartments (98 units, Cesar Chavez Foundation) gets three Parkway Drive parcels plus $10,500,000 conditional commitment (December 2025); Ventura Family Apartments land contribution.
+- AMI requirement: Per SLA and Gov. Code 37364 exempt-surplus terms: at least 40% of units at or below 80% AMI with half at or below 50% AMI, regulatory agreement of at least 30 years; recent deals carry 55-year covenants and 30% to 80% AMI targeting.
+- Cycle: rolling (site-specific RFPs and SLA notices of availability) (next: Site by site; Vantage Blackstone commitment expires September 30, 2027 if financing is not secured. Watch City SLA notices and RFPs on PlanetBids.)
+- Layering notes: City land plus a conditional funding resolution is the standard Fresno package for TCAC 4% and HCD MFSN applications (commitments are reissued each round, as with Parkview since 2024). Funding sources behind the commitments vary (CDBG-acquired land on Blackstone carries CDBG national objective requirements). Below-market ground leases count as public subsidy for prevailing wage. The City also adopted a Land Bank program to acquire sites for future reuse.
+- Source: https://agendas.fresno.gov/en/legislation/id-26-1294-21998
+- Confidence: verified (researched 2026-11-08)
+
+**Downtown and Chinatown Housing Development NOFA, City Revolving Loan Fund (RLF) construction loans**
+- Agency: City of Fresno Planning and Development Department
+- Type: loan
+- Typical award: Construction gap loans of up to $8,000,000 per project from the City Revolving Loan Fund (Round 2 awards: Helm Lofts $8M, Uptown Apartments $8M, The Park at South Stadium $8M). 60-month term, variable rate estimated at 4.81%, secured by deed of trust.
+- AMI requirement: None required for RLF dollars; market-rate projects are eligible (Uptown is 48 market-rate units). Affordability comes from layered sources or Surplus Land Act terms (South Stadium 70 of 174 units restricted to very low and low income for 55 years).
+- Cycle: rolling (round-based NOFA, awards on a rolling basis) (next: Round 2 NOFA (PlanetBids No. 12601560) opened February 13, 2026 and closed April 14, 2026; conditional commitments expire December 31, 2026 unless financing closes. No Round 3 announced as of 2026-11-08.)
+- Layering notes: Short-term construction money, not permanent soft debt: it must be taken out at conversion, so it suits 4% LIHTC or mixed-income deals with a permanent loan sized to repay. Pairs with City PLHA, LHTF and FHS land in the Downtown/Chinatown area, and with the TOD height and density bonus. Source of the RLF capital was not stated in the staff reports reviewed; confirm before relying on it for federal cross-cutters.
+- Source: https://agendas.fresno.gov/en/legislation/id-26-145-20842
+- Confidence: verified (researched 2026-11-08)
+
+**HUD Section 108 Affordable Housing Development Loan Pool (Substantial Amendment 2025-02)**
+- Agency: City of Fresno Planning and Development Department, Community Development Division
+- Type: loan
+- Typical award: $15,000,000 pool (City borrowing capacity $15,494,680) for land acquisition and acquisition of manufactured housing units; no minimum or maximum loan; loans generally forgivable at end of affordability term. City repays HUD over 20 years from future CDBG (estimated 3.94% rate).
+- AMI requirement: Nonprofit developers only. At least 51% of units on land acquired with the pool for low and moderate income households (80% AMI), or at least 20% for non-elderly multifamily rental where CDBG share is proportional; 100% LMI for manufactured units; up to 55-year covenants. Borrower must secure outside senior financing and commit up to 10% equity.
+- Cycle: rolling (City NOFA after HUD approval) (next: Council hearing to adopt Substantial Amendment 2025-02 and authorize the HUD application scheduled November 12, 2026 (ID 26-1506). If approved, a NOFA will be posted on PlanetBids; timing unknown, verify with the Community Development Division.)
+- Layering notes: Land acquisition gap, so it fits early in the stack ahead of LIHTC applications, and can help secure site control for TCAC/CDLAC rounds. CDBG/Section 108 rules apply (Davis-Bacon at 8 or more units for assisted construction, NEPA, URA relocation). Competes with future City CDBG public infrastructure spending because CDBG is pledged for repayment. Separate from the City's earlier $20M Section 108 loan for the Senior Activity Center.
+- Source: https://www.fresno.gov/wp-content/uploads/2026/08/Section-108-Loan-Guarantee-Application-Affordable-Housing-Development-Loan-Pool-10w1789.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Housing Successor to the Redevelopment Agency of the City of Fresno, Low and Moderate Income Housing Asset Fund (LMIHAF) program income and FHS-owned sites**
+- Agency: City of Fresno in its capacity as Housing Successor (FHS) and Fresno Revitalization Corporation
+- Type: loan
+- Typical award: FY 2026-27 budget $4,188,073 (carryover $4,138,073 plus about $50,000 program income); unencumbered and available for development $2,523,599, all restricted to units at or below 30% AMI because FHS exceeded the 20% cap for 60-80% AMI. LMIHAF assets under management $28.9 million; FY 2024-25 ending balance $6,856,360. Historic per-unit contributions range from about $25,000 to $331,000; recent uses include Heritage Estates ($1.2M), B Street ($836,200 encumbered) and 33 E Atchison ($275,000).
+- AMI requirement: HSC 34176.1: at least 30% of funds for extremely low income (30% AMI) rentals, no more than 20% for 60-80% AMI, remainder at or below 60% AMI; 55-year covenants for rentals.
+- Cycle: rolling (next: No standalone NOFA. Funds and FHS-owned parcels (for example Fulton Street, Chinatown sites) are committed through City NOFAs, RFPs and disposition agreements; FY 2026-27 budget approved June 11, 2026. Contact the Housing Successor (Marlene Murphey, Executive Director).)
+- Layering notes: Small cash pool but useful for deep (30% AMI) targeting and as a match: PLHA allows LMIHAF dollars to be matched into a housing trust account. FHS land is being paired with LHTF, RLF and PRO Housing applications in Downtown and Chinatown (South Stadium used $156,800 FHS plus FHS parcels at 829 and 835 Fulton). Excess surplus test is met (unencumbered $4.08M versus $6.24M threshold at FY 2024-25), so there is no pressure to transfer funds to HCD.
+- Source: https://agendas.fresno.gov/en/legislation/id-26-752-21456
+- Confidence: verified (researched 2026-11-08)
+
+**Infill Incentive Program development impact fee waiver (FMC Article 12-4.16, Ordinance 2021-029) and Residential BUILD Act waivers**
+- Agency: City of Fresno Public Works Department (Traffic and Land Planning), with City Manager approval
+- Type: fee waiver
+- Typical award: Waives City park, police, fire and street facilities impact fees and reimburses up to 50% of curb, gutter and sidewalk costs. Backfilled from the City budget, first come first served. Cumulative waivers since 2014: $10.19 million across programs ($3.62M Infill Incentive, $659K Residential BUILD). FY 2025 waivers totaled only $45,825 (five single-family homes).
+- AMI requirement: None; the waiver is location-based (Infill Opportunity Zone, outside the South Industrial Priority Area, sites up to 6.5 net acres or commercial-to-residential conversions of any size).
+- Cycle: rolling (next: The 2025 application form states the waiver is not valid on building permits issued after June 30, 2026 and only when backfill funds exist; extension past that date not confirmed. Verify with Public Works before underwriting.)
+- Layering notes: Market-rate and affordable infill both qualify, so it is not affordable-specific, but it lowers impact fees for downtown and BRT corridor projects that also use the TOD bonus. Applied at certificate of occupancy, not at permit, so the full fee must be carried in the construction budget. Use near zero in FY 2025 suggests limited backfill funding. Fee waivers backfilled with City funds may be public subsidy under Labor Code 1720.
+- Source: https://agendas.fresno.gov/en/legislation/id-25-1584-20563
+- Confidence: verified (researched 2026-11-08)
+
+**Permanent Local Housing Allocation (PLHA), City of Fresno 2024-2028 Five-Year Plan and PLHA development loans**
+- Agency: City of Fresno Planning and Development Department, Housing Finance Division
+- Type: loan
+- Typical award: Estimated $14,949,413 over 2024-2028 (first allocation $2,391,906, second $2,562,083). 45% of each year to multifamily rental development, 50% to owner-occupied rehab and down payment assistance, 5% admin. Recent award: $1,600,000 PLHA to Helm Lofts (9 restricted units of 98, conditional award February 9, 2026).
+- AMI requirement: Rental activity up to 120% AMI under State rules, with a portion of units reserved at or below 60% AMI; 55-year regulatory agreement; loans are low-interest deferred (Helm Lofts: 3% simple, 55-year term).
+- Cycle: annual NOFA (next: Last PLHA NOFA ran August 1 to August 29, 2025. The draft 2024-2028 plan had public comment September 21 to October 10, 2026 and a hearing November 5, 2026; Council adoption and the next PLHA NOFA (possibly folded into the AHD NOFA) are pending. Verify with Housing@fresno.gov.)
+- Layering notes: Separate from the Fresno County PLHA (county record covers the unincorporated area and participating cities, not the City of Fresno). The City plan devotes only 45% to rentals, so expect roughly $1.1M per year available for multifamily. PLHA is used as soft gap alongside City HOME and LHTF and with LIHTC; it was also paired with the market-rate-oriented Revolving Loan Fund on Helm Lofts. State PLHA funds count as public funds for prevailing wage purposes.
+- Source: https://www.fresno.gov/wp-content/uploads/2026/10/Draft-2024-to-2028-PLHA-5-Year-Plan-Document-10w1852.pdf
 - Confidence: verified (researched 2026-11-08)
 
 
@@ -5705,6 +5851,29 @@ Generated 2026-11-08, 730 total records
 - Confidence: verified (researched 2026-11-07)
 
 
+### City of Reedley
+
+**Reedley Density Bonus and Concessions for Affordable Housing (Zoning Code Section 10.50.050, Ordinance 2024-001)**
+- Agency: City of Reedley Community Development Department
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Section 10.50.050 adopts State Density Bonus Law by reference (Gov. Code 65915 as revised), replacing the prior outdated ordinance; no local enhancements.
+- AMI requirement: Per Gov. Code 65915 thresholds and 55-year rental restrictions.
+- Cycle: rolling (next: Not applicable; applied with entitlements.)
+- Layering notes: Reedley has no local housing trust fund, inclusionary ordinance or in-lieu fund, no city NOFA and no city-controlled HOME or CDBG entitlement. It is a participating city in the Fresno Urban County, so HOME, CDBG and PLHA flow through the County records (County HOME rehab of Reedley Heritage is the model). Housing Element Program 7 also offers a minor deviation process, reduced parking and frontage improvements and streamlined CEQA. reedley.ca.gov failed TLS handshakes to scripts and WebFetch; code read on the zoneomics mirror of the 2024 zoning code.
+- Source: https://www.zoneomics.com/code/reedley-CA/chapter_4
+- Confidence: verified (researched 2026-11-08)
+
+**Reedley Impact Fee Reduction Incentive Program (Resolutions 2019-009 and 2022-060) and affordable housing fee deferrals (Housing Element Programs 7 and 17)**
+- Agency: City of Reedley Community Development Department and City Council
+- Type: fee waiver
+- Typical award: Location-based reduction of development impact fees: Infill Area 25% below Expansion Area and City Center 50% below. 2022 multifamily fees per unit: $17,569 Expansion Area, $13,177 Infill Area, $8,785 City Center. Housing Element also commits to fee deferrals and case-by-case reductions for affordable and special-needs projects and to reduced water and wastewater connection fees as flexible standards.
+- AMI requirement: Area-based reduction has no affordability requirement; deferrals and further reductions are for lower-income and special-needs projects (details not codified).
+- Cycle: rolling (next: Housing Element Program 17 called for a fee review with multifamily developers by December 2024 and a revised fee schedule by December 2025; outcome not confirmed.)
+- Layering notes: Source is the City's adopted 2023-2031 Housing Element (Appendix 1L, adopted April 9, 2024, found in substantial compliance by HCD April 24, 2024), not the resolutions themselves. reedley.ca.gov could not be opened (TLS handshake failure), so the current fee schedule and any 2025 fee update were not verified. City Center sites stack the 50% fee reduction with State density bonus and County HOME/PLHA (Urban County) and Fresno Housing PBVs.
+- Source: https://fresnomjhe.com/wp-content/uploads/2024/10/1L-Reedley-2023-2031-Housing-Element-April-2024.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+
 ### City of Richmond
 
 **Richmond Affordable Housing Density Bonus (RMC Article 15.04.602) and Housing Element Program 3.D**
@@ -6578,6 +6747,29 @@ Generated 2026-11-08, 730 total records
 - Layering notes: San Ramon's 15% rental requirement with half the units at very low income is the deepest in the county among the priority cities and, combined with Bishop Ranch's build-out, produces receiver-site deals: the Canopy (BR 8) Affordable Site Development Agreement introduced January 13, 2026 (Ordinance 536, adopted January 27, 2026) has Sunset Development dedicating a rough-graded site with impact fees paid to Eden Housing for 161 affordable units that absorb the inclusionary obligations of 255 Canopy single-family homes (raised from 15% to 22.5%) and the CityWalk apartments, plus $3,000 per market-rate unit (about $765,000) paid into the Affordable Housing Fund. Dougherty Valley affordable units (Highlands Point, Muirlands, Seville, Valencia, Cornerstone at Gale Ranch and others, about 1,886 affordable units citywide) are governed by Contra Costa County affordability agreements under the Dougherty Valley Settlement Agreement and the County's Chapter 822-4, not this ordinance, and several 20-year moderate-income agreements expire in 2026. Ordinance text read at source_url; the Canopy staff report was read on the City's IQM2 agenda host (https://sanramonca.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=4882).
 - Source: https://www.sanramon.ca.gov/UserFiles/Servers/Server_10826046/File/Our%20City/Departments/Community%20Development/Planning/ORD%20520%20Amended%20Inclusionary%20Housing%20Ordinance%202023.pdf
 - Confidence: verified (researched 2026-11-08)
+
+
+### City of Sanger
+
+**Sanger Density Bonus (Zoning Code Article XXX, Sections 90-1131 to 90-1138, Ordinance 2025-04)**
+- Agency: City of Sanger Community Development Department (Planning Division)
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Adopted May 15, 2025 to implement Gov. Code 65915; Table 90-1138 tracks State percentages (20% bonus at 5% very low, up to 50% at 15% very low or 24% low income, 80% for 100% affordable). Reviewed concurrently with other entitlements; approved if State law is met.
+- AMI requirement: State thresholds; covenant approved by the City Attorney ensures continued affordability (55 years for rental under State law).
+- Cycle: rolling (next: Not applicable; applied with entitlements.)
+- Layering notes: Sanger has no local housing trust fund, inclusionary ordinance or in-lieu fund, and no city NOFA. It is a participating city in the Fresno Urban County (HOME, CDBG, HARP, rental rehab and homebuyer programs run by the County), so gap funding comes from County HOME/PLHA and Fresno Housing PBVs (county records). Housing Element Program 7 targets 100 units through density bonuses. Code read on zoneomics; gocodebook returned 403.
+- Source: https://www.zoneomics.com/code/sanger-CA/chapter_30
+- Confidence: verified (researched 2026-11-08)
+
+**Sanger affordable housing impact fee deferrals and reductions (Housing Element Programs 7, 15 and 19)**
+- Agency: City of Sanger Community Development Department
+- Type: fee waiver
+- Typical award: Case-by-case deferral or reduction of City development impact and permit fees for affordable, special-needs and farmworker projects, with priority processing on large sites. Baseline City impact fees (2021): about $18,600 per 1,000 sq ft multifamily unit (sewer $2,724, treatment $5,780, collection $1,356, water $1,397, storm drain $2,290, traffic $1,592, recreation $631, police $1,230, fire $1,270, solid waste $330), plus Sanger Unified school fee $4.79 per sq ft.
+- AMI requirement: Lower-income, special-needs or farmworker housing; terms negotiated per project (not codified).
+- Cycle: rolling (next: Program 19 called for meeting multifamily developers by December 2024 and revising fees by December 2025; Program 15 incentives for large sites by mid-2025. Outcomes not confirmed.)
+- Layering notes: Source is the City's 2023-2031 Housing Element (Appendix 1N, adopted September 5, 2024, found in substantial compliance by HCD October 4, 2024), not a fee resolution. ci.sanger.ca.us opened but no fee deferral policy page or council resolution was found; confirm terms with the Community Development Department. Sanger's prior cycle reports deferrals evaluated case by case (for example Unity Estates expansion).
+- Source: https://fresnomjhe.com/wp-content/uploads/2024/10/1N-Sanger-2023-2031-Housing-Element-August-2024.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
 
 
 ### City of Santa Ana
