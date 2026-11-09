@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 720 total records
+Generated 2026-11-08, 730 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -3720,6 +3720,39 @@ Generated 2026-11-08, 720 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Atwater
+
+**Atwater Housing Element Program 7 (Facilitating Affordable Housing Development): density bonus ordinance to be adopted, fee waivers, reductions or deferrals, and city-built off-site improvements**
+- Agency: City of Atwater Community Development Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. The Housing Element finds the Atwater Zoning Code does not address density bonus and is not in compliance with State Density Bonus Law. The Code was to be amended by January 31, 2026 (end of 2026 in the Program 7 timeline); state law applies directly in the meantime. Incentives: possible fee waivers, reductions or deferrals; expedited review; and off-site improvements (traffic, street, sewer) built by the City as capital projects, case by case.
+- AMI requirement: State density bonus thresholds.
+- Cycle: rolling (next: Available at entitlement, no deadline. Density bonus ordinance due by end of 2026. A water and sewer priority policy for affordable housing (SB 1087) is due by end of 2026, and the infrastructure fee study and fee schedule update by June 2026; verify status.)
+- Layering notes: Atwater has no local density bonus ordinance yet, and no inclusionary ordinance, trust fund or city NOFA. The goal is entitling at least 100 subsidized units with nonprofit partners during the planning period. The City-built off-site improvements are the most tangible local subsidy and would count as public funds. Source is the July 2026 MJHE version of the Atwater Housing Element on the MCAG mercedmjhe.com site; adoption status not confirmed.
+- Source: https://mercedmjhe.com/wp-content/uploads/2026/07/City-of-Atwater-2024-2032-Housing-Element.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Atwater Housing Successor to the former Atwater Redevelopment Agency (Low and Moderate Income Housing Asset Fund)**
+- Agency: City of Atwater as Housing and Non-Housing Successor Agency
+- Type: loan
+- Typical award: Unknown. The City elected to be the housing successor, but the successor agency page lists only 2012-2015 ROPS and oversight board documents. No current SB 341 report or fund balance was found.
+- AMI requirement: Housing Asset Fund rules (HSC 34176.1).
+- Cycle: rolling (no published process) (next: unknown, verify with agency.)
+- Layering notes: Recorded so the asset fund is not missed. The page lists no housing awards or reports, so do not assume any cash. Ask the City for its latest SB 341 report and any housing successor-owned parcels. atwater.org opened directly; a site search for 'housing successor' returned no reports.
+- Source: https://www.atwater.org/successor-agency/
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Atwater PLHA allocation (ADU loans and rental assistance) and state CDBG and HOME grants (non-entitlement)**
+- Agency: City of Atwater Community Development Department
+- Type: loan
+- Typical award: PLHA ADU loans of up to $40,000 per qualified applicant. PLHA mortgage, rent and utility assistance of up to $5,000 per household (up to six months). The City received no CDBG in the 5th cycle but by 2026 had state CDBG and HOME awards for owner-occupied rehab. No multifamily allocation identified.
+- AMI requirement: Lower income households under PLHA, CDBG and HOME rules.
+- Cycle: annual NOFA (City applies to state CDBG, HOME, CalHome and PLHA; Program 7 commits to annual applications starting 2026) (next: Set by HCD state NOFAs; unknown, verify with agency.)
+- Layering notes: Atwater's housing money is small and aimed at owners, ADUs and tenants, not multifamily gap financing. A multifamily developer should treat Atwater mainly as a co-applicant for state CDBG or HOME and a source of letters of support. Merced County's surplus land at Castle Commerce Center in Atwater (county record) is the relevant site lead.
+- Source: https://mercedmjhe.com/wp-content/uploads/2026/07/Atwater-B7-Housing-Plan.pdf
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Auburn
 
 **Auburn 2021-2029 Housing Element Program A and Program I: case-by-case fee reductions or deferrals, alternative development standards and state CDBG and HOME applications for affordable housing (adopted May 24, 2021)**
@@ -4815,6 +4848,29 @@ Generated 2026-11-08, 720 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Los Banos
+
+**Density Bonuses and Other Affordable Housing Incentives (Los Banos Municipal Code Title 9, Chapter 3, Article 34, Sections 9-3.3401 to 9-3.3415) with Housing Element Program 7 fee deferrals**
+- Agency: City of Los Banos Community and Economic Development Department, Planning
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Article 34 implements Gov. Code 65915-65918 and adds a commercial development density bonus (9-3.3415), parking modifications and a required density bonus housing agreement. Program 7 offers possible fee waivers, reductions or deferrals until final occupancy, reduced parking, expedited review and city-built off-site improvements as capital projects case by case.
+- AMI requirement: State density bonus thresholds; continued affordability per 9-3.3404 and the housing agreement.
+- Cycle: rolling (next: Available at entitlement, no deadline. Program 7 committed to revising the ordinance to match state law by the end of 2025 and to adding AB 1287 bonuses; confirm adoption.)
+- Layering notes: Los Banos has no inclusionary ordinance, local trust fund or city-run NOFA for multifamily. Fee deferral until final occupancy is the main local cost tool. The City also reviews impact fees annually to stay competitive. Code was read on the zoneomics mirror; the Housing Plan (September 2025 MJHE version) was read on the MCAG mercedmjhe.com site.
+- Source: https://www.zoneomics.com/code/los-banos-CA/chapter_33
+- Confidence: verified (researched 2026-11-08)
+
+**Los Banos Affordable Housing Projects Developer RFQ (homeless housing, open continuously) with City-owned parcels and PLHA**
+- Agency: City of Los Banos Housing Program Division (Housing Program Manager Christy McCammond, (209) 827-7000 ext. 2441)
+- Type: other
+- Typical award: No set dollar amount. The City seeks a partner for about 45 to 60 units for people experiencing homelessness. It may convey City-owned parcels or motels to the developer and will co-apply for PLHA (formula and competitive), Encampment Resolution Fund and other state and federal grants.
+- AMI requirement: 55-year affordable housing deed restriction. Units must meet HUD HQS so Section 8 vouchers can be used; studios and one-bedroom units with on-site service space.
+- Cycle: rolling (RFQ issued January 2024, no deadline) (next: No deadline; responses reviewed continuously. Qualified respondents go to a pool for later RFPs. Submit by email to christy.mccammond@losbanos.org.)
+- Layering notes: This is the main route into City land and City-sponsored state applications in Los Banos. The City's current PLHA funds operate a second bridge home, so little PLHA is free for capital. Los Banos is not a CDBG entitlement city; it applies to the state CDBG NOFA (code enforcement in 2015, planned 2025 rehab application) and does not fund multifamily development. A related RFP for a joint homeless housing applicant closed April 26, 2024. Merced County CoC CA-520 HHAP and Housing Authority of the County of Merced vouchers (county records) are the other layers.
+- Source: https://losbanos.org/bids-rfps-and-rfqs/request-for-qualifications-affordable-housing-developer-for-people-experiencing-homelessness-no-deadline-for-submissions-until-further-notice/
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Madera
 
 **Affordable Housing Density Bonus (Madera Municipal Code Chapter 10-3-5.1) with Housing Element incentives: fee reductions (Program B-7), impact fee waivers (MMC 10-8.17) and fee waivers or deferrals (Program A-4)**
@@ -4945,6 +5001,59 @@ Generated 2026-11-08, 720 total records
 - Layering notes: County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. The commercial in-lieu fee is the engine of the BMR fund (see NOFA record); office projects in the Bayfront and downtown specific plan areas often negotiate on-site or off-site BMR units instead. Source is the City's residential BMR requirements page; commercial rates from the companion commercial page and the October 21, 2025 Guidelines (Resolution 7003).
 - Source: https://www.menlopark.gov/Government/Departments/Community-Development/Housing/Developers/Residential-development-BMR-requirements
 - Confidence: verified (researched 2026-11-07)
+
+
+### City of Merced
+
+**City of Merced Affordable Housing Fund (Fund 1020) under the Affordable Housing Fund Policy (Council Resolution 2023-55)**
+- Agency: City of Merced Development Services Department, Housing Division, and Finance
+- Type: loan
+- Typical award: Balance was $881,017 at June 30, 2024. In October 2025 the Council moved $218,000 to cover Housing Division administration, and staff expect more draws for FY 2026-27 administration. The fund was also one option for repaying $700,507 of HUD-disallowed costs (the outcome was not confirmed). Usable balance is likely well under $650,000.
+- AMI requirement: Policy eligible uses include predevelopment and development of multifamily rental housing for extremely low to moderate income households (including operating subsidies) and soft costs. Soft costs cover design, water and sewer connection fees, permit and application fees, development impact fees and environmental review.
+- Cycle: rolling (Council appropriation case by case) (next: unknown, verify with agency.)
+- Layering notes: Useful as a local source that can pay or reimburse impact fees and connection fees, which HUD funds cannot easily do; it is the closest thing the City has to a fee waiver fund. It is shrinking because it backfills Housing Division staffing. The revenue source was not confirmed; the scanned Resolution 2023-55 attachment could not be text-extracted. The Housing Element notes advocates commenting on a proposed in-lieu fee by Council resolution, but Merced has no inclusionary ordinance. Confirm whether in-lieu or annexation-related affordable housing payments feed this fund.
+- Source: https://cityofmerced.legistar.com/LegislationDetail.aspx?ID=7005585&GUID=4B673200-0EEA-40A3-AF1E-8EB1E1D81352
+- Confidence: verified (researched 2026-11-08)
+
+**City of Merced Density Bonus Ordinance (Merced Municipal Code Title 20) and 2024-2032 Housing Element incentives (Programs 2, 6 and 7: fee deferrals, reductions or waivers; 50% senior bonus; UC Merced Student Housing Plan)**
+- Agency: City of Merced Development Services Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. The ordinance was adopted in 2005 and amended in 2016; it caps the bonus at 35% and lags current state law, which the City commits to fix. The Housing Element commits to: amend the Zoning Code by July 2026 to allow a 50% bonus for senior housing with at least 50% very low income units; offer expedited processing and fee deferrals, reductions or waivers for affordable units on large inventory sites (with extra incentives by July 2028 if needed); scope a UC Merced Student Housing Plan; and require 5% affordable housing plans in annexations around UC Merced.
+- AMI requirement: State density bonus thresholds; senior enhancement requires at least 50% very low income units.
+- Cycle: rolling (next: Available at entitlement, no deadline. The 6th Cycle Housing Element went to the Planning Commission in April 2026 (Resolution 4181), and Ordinance 2594 (RHNA rezones) had its second reading in July 2026. Verify whether the density bonus update and senior bonus amendment have been adopted.)
+- Layering notes: Merced has no inclusionary ordinance or commercial linkage fee, and the fee deferrals and waivers are Housing Element commitments, not an adopted program. Fund 1020 is the practical way to cover fees today. The UC Merced items are planning commitments, not funding. Merced does not appear to be a Prohousing jurisdiction; the HCD list page returned 404 this pass, so this was not confirmed. The code chapter was not opened directly: zoneomics has Title 20, but the density bonus section was not isolated. The Housing Element was read as a City Legistar attachment.
+- Source: https://cityofmerced.legistar1.com/cityofmerced/attachments/88fdf37c-8fda-4ab9-b9d1-dcfd682f332b.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**City of Merced HOME and CDBG entitlement gap financing (Housing Division, Annual Action Plan and conditional commitment reservations)**
+- Agency: City of Merced Development Services Department, Housing Division (Housing Program Supervisor Kimberly Nutt), 678 W. 18th Street, (209) 385-6863
+- Type: loan
+- Typical award: HOME is about $350,000 per year, with 15% set aside for CHDOs. On April 6, 2026 the City reserved up to $1,756,934 of pooled 2021-2023 HOME (2021 $378,634; 2022 $557,068; 2023 $821,233) for Linc Housing's 54-unit I Street project. PY 2024-2025 HOME of about $886,000 remains. The PY 2026 Annual Action Plan shows $800,355.66 HOME and $1,360,072.38 CDBG available, including $287,991 of HOME carryover.
+- AMI requirement: HOME rental rules: HOME rents for households at or below 60% AMI, with 20% of HOME units at 50% AMI in projects with 5 or more units. City regulatory agreements run 55 years.
+- Cycle: annual NOFA (funding applications in winter, scoring and first public hearing in March, Annual Action Plan adopted May; large rental awards by conditional commitment letter) (next: The PY 2027 cycle should open in winter 2026-27, with the first public hearing about March 2027; verify dates with the Housing Division. Developers have also been pre-qualified through the City's April 2021 affordable housing developer RFQ.)
+- Layering notes: This is the City's main federal gap source and is usually saved over several years for one tax credit project. The I Street commitment was made to raise Linc's 9% TCAC tiebreaker for the April 7, 2026 round. Linc declined the 2024-2025 HOME because Build America Buy America would have added about $700,000 in material costs. Expect BABA on any new HOME award. Caution: HUD's 2021 environmental monitoring found $700,507 of ineligible CDBG and HOME costs on Gateway Terrace II. In late 2024 the Council weighed voluntary grant reductions of future allocations against repayment from local funds; the outcome was not confirmed this pass. HUD compliance corrections in 2024-2025 also delayed access to grant funds, so allow time for NEPA (AUGF) clearance. Stack with PLHA, Housing Successor land and funds, Fund 1020 (separate records) and Housing Authority of the County of Merced PBVs (county record). Legistar client is 'cityofmerced'; cityofmerced.gov and cityofmerced.org returned Access Denied.
+- Source: https://cityofmerced.legistar.com/LegislationDetail.aspx?ID=7967614&GUID=F3894523-526C-4BC7-848F-4D2A70BA5D0D
+- Confidence: verified (researched 2026-11-08)
+
+**City of Merced Permanent Local Housing Allocation (PLHA), 2019-2023 five-year plan (Resolutions 2021-113 and 2021-114)**
+- Agency: City of Merced Housing Division (Fund 2018 Permanent Local Housing)
+- Type: loan
+- Typical award: About $3,112,314 over 2019-2023. The 2019 carryover ($518,719) and 2020 allocation ($806,250) went to Mercy Village (UPholdings and Self-Help Enterprises, 65 permanent supportive units on Park Avenue). 95% of 2021-2023 (about $1,608,830, including 2021 $887,254 and 2022 $444,694) is committed to Linc Housing's I Street project.
+- AMI requirement: 55-year regulatory agreement. In Mercy Village the PLHA-restricted units are 6 at 30% AMI, 5 at 50% AMI and 11 at 60% AMI.
+- Cycle: closed/inactive (2019-2023 allocations fully committed) (next: unknown, verify with agency. No new five-year PLHA plan for 2024 and later allocations was found this pass.)
+- Layering notes: All current PLHA is spoken for, so a new project would depend on a future plan amendment or new allocations. The City has used PLHA as a matching layer for Homekey (Mercy Village) and 9% credits (I Street), alongside HOME and Housing Successor land. Merced County's own PLHA (county record) is separate and covers the unincorporated county.
+- Source: https://cityofmerced.legistar.com/LegislationDetail.aspx?ID=6502712&GUID=83B2E5F5-1EC7-455E-81D4-03E6AEDFDA79
+- Confidence: verified (researched 2026-11-08)
+
+**Merced Housing Successor Agency Low and Moderate Income Housing Asset Fund (Fund 2513) and former RDA housing parcels**
+- Agency: City of Merced as Housing Successor to the former Merced Redevelopment Agency (Housing Division; consultant RSG)
+- Type: grant
+- Typical award: Housing Asset Fund balance was $9,553,758 at June 30, 2025, but most of it is the portfolio of 5 properties and 19 loans receivable ($7,653,072). Unencumbered beginning cash was $2,056,382, with no excess surplus. FY 2024-25 deposits were $147,185 and spending was $316,895, including a $200,000 grant to CC915 Merced for 73 South R Street (extremely low income container units). Staff cited about $1.8M available in January 2025.
+- AMI requirement: HSC 34176.1: over each five-year period, at least 30% of development spending for extremely low income (30% AMI) households and no more than 20% for 60-80% AMI. Administration is capped at $382,654 per year.
+- Cycle: rolling (Council awards case by case; parcels offered by RFP) (next: unknown, verify with agency. The FY 2024-25 SB 341 report was received January 2026. The HSA parcels at 1815 and 1823 I Street, 205 and 211 W. 18th Street and 202 W. 19th Street are in escrow with Linc Housing.)
+- Layering notes: This is the only true local cash pool in Merced County found this pass (about $2M liquid). The fund made no development spending in the first five-year compliance period, so new awards should lean toward extremely low income units to meet the proportionality targets. The City has used HSA land as its main contribution (the Linc I Street site and the 73 S. R Street Homekey site), adding PLHA and HOME on top. The 626 W. Main Street RFP involves a former RDA non-housing asset, not this fund. County-level layers are separate (county records).
+- Source: https://cityofmerced.legistar1.com/cityofmerced/attachments/449ae8c6-d0b6-40fb-b7af-3c03f4eaa596.pdf
+- Confidence: verified (researched 2026-11-08)
 
 
 ### City of Mill Valley
