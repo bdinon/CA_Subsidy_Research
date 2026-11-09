@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 792 total records
+Generated 2026-11-08, 819 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -4259,6 +4259,59 @@ Generated 2026-11-08, 792 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Corona
+
+**Corona Affordable Housing Overlay Zone (AHO), Municipal Code Chapter 17.31**
+- Agency: City of Corona Planning and Development Department
+- Type: other
+- Typical award: Requirement, not a subsidy. By-right approval for housing projects on AHO-designated parcels that reserve at least 20% of units for lower income households; mixed use allowed if at least 51% of floor area is residential; density per General Plan designation; objective design standards apply.
+- AMI requirement: At least 20% of units for lower income households at affordable rent or cost, regulatory agreement for at least 30 years.
+- Cycle: rolling (next: Ongoing. Adopted by Ord. 3360 (2023). The Action Plan also proposes a General Plan change to allow 100% residential in Mixed-Use designations with the AHO overlay.)
+- Layering notes: By-right status removes CEQA and discretionary risk, useful for TCAC readiness. Can be combined with Chapter 17.87 density bonus. The 30-year minimum term is shorter than TCAC's 55 years, so the tax credit term governs.
+- Source: https://www.zoneomics.com/code/corona-CA/chapter_17
+- Confidence: verified (researched 2026-11-08)
+
+**Corona CDBG, HOME and HOME-ARP (FY 2026-27 Annual Action Plan)**
+- Agency: City of Corona Housing Services Division
+- Type: grant
+- Typical award: FY 2026-27 CDBG and HOME investment $1,844,570; about $8.9M expected over the 2025-2029 Consolidated Plan. HOME is mostly programmed to tenant-based rental assistance ($656,979 TBRA, 20 households). HOME-ARP allocation $1,801,873 (as amended July 2025), part committed to 2nd Street ($529,875).
+- AMI requirement: Low and moderate income (at or below 80% AMI); HOME rent limits.
+- Cycle: annual NOFA (next: Annual Action Plan adopted each spring for a July 1 program year; FY 2027-28 cycle expected to start winter 2026-27. Little HOME is left for development after TBRA; ask Housing Services before counting on it.)
+- Layering notes: Corona is its own entitlement, not part of the County Urban County. CDBG has been used for land acquisition for housing ($600K on 2nd Street). Corona does not qualify for a HOME match reduction. The Action Plan also lists SB 2 PLHA as a resource.
+- Source: https://cdn.prod.website-files.com/65799af8ef225180fdf1ba2e/69cd88593e905eafa153a5f7_Corona%20Annual%20Action%20Plan%2026-27.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Corona Housing Authority Housing Fund (Fund 291) loans and Housing Authority land (Corona 2nd Street Family Apartments DDA)**
+- Agency: Corona Housing Authority (Housing Successor), Community Services Department, Housing Services
+- Type: loan
+- Typical award: Example August 21, 2024 DDA for 115 family units: Authority cash loan $7,535,280 (Housing Fund 291) plus a land loan at the higher of appraisal or $2.8M; City loans of $529,875 HOME-ARP, land at the higher of appraisal or $1.2M, and up to $2,000,000 in deferred development impact fees. Local subsidy about $99,731 per unit, 18.5% of a $62.0M total cost ($539,301 per unit). Loans amortized and repaid over 55 years.
+- AMI requirement: All units except the manager unit affordable in perpetuity at 30%, 50% and 80% of median income (rents at 30 to 60% with caps to 70% under tax credits); 20-unit preference for homeless families.
+- Cycle: rolling (next: No NOFA cycle; the Authority uses RFQ/RFP for its sites. A second phase of about 25 PSH units on the same site is planned. Housing Fund balance was not found; request the latest SB 341 housing successor report from Housing Services.)
+- Layering notes: Corona's main local gap source. Layered with 4% LIHTC, City CDBG and HOME-ARP and a DIF deferral note. Land was bought from RCTC under the SLA with $600K CDBG and $1.4M Housing Fund; repayment splits 30% to CDBG program income and 70% to the Housing Fund. Corona's Legistar (client corona) has no matters after August 2024, so newer Council items were not reachable through the API.
+- Source: https://corona.legistar1.com/corona/attachments/cbbd729a-34c2-4517-8702-9180b2fd9be5.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Corona density bonus housing agreements, Municipal Code Chapter 17.87**
+- Agency: City of Corona Planning and Housing Commission and City Council
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Procedures for state density bonus law (Gov. Code 65915-65918) through a density bonus housing agreement that lists incentives, waivers and parking reductions; filing fee set by Council resolution.
+- AMI requirement: Gov. Code 65915 thresholds; term of affordability per Section 17.87.060(B).
+- Cycle: rolling (next: Agreements are reviewed by the Planning and Housing Commission and approved by Council (e.g., AHDB2023-0002 for 115 units and AHDB2023-0003 for 25 PSH units, July 2024).)
+- Layering notes: No local bonus beyond state law found. Corona has no inclusionary ordinance or in-lieu fee fund, and no local housing trust fund was found. Amended by Ord. 3391 (2024).
+- Source: https://www.zoneomics.com/code/corona-CA/chapter_54
+- Confidence: verified (researched 2026-11-08)
+
+**Corona development impact fee waiver or deferral for affordable housing**
+- Agency: City of Corona (City Council; Housing Services and Planning)
+- Type: fee waiver
+- Typical award: Case by case. On the 2nd Street Family project the City deferred up to $2,000,000 in development impact fees into a promissory note repaid over 55 years.
+- AMI requirement: Tied to the affordability terms of the project's DDA or density bonus agreement.
+- Cycle: rolling (next: Requested at predevelopment and approved by Council resolution with the project agreement. The FY 2026-27 Action Plan commits staff to educate affordable developers on how to request a waiver or deferral.)
+- Layering notes: No standing fee deferral ordinance was found; treat as negotiable. Deferred fees held as a City loan count as public funds for prevailing wage. Useful to reduce the gap at construction closing.
+- Source: https://cdn.prod.website-files.com/65799af8ef225180fdf1ba2e/69cd88593e905eafa153a5f7_Corona%20Annual%20Action%20Plan%2026-27.pdf
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Daly City
 
 **Daly City Housing Development Finance Agency land offerings and housing successor fund (Carter/Martin site RFQ)**
@@ -4974,6 +5027,39 @@ Generated 2026-11-08, 792 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Indio
+
+**Indio Housing Authority housing successor LMIHAF and City or Housing Authority owned downtown sites**
+- Agency: Indio Housing Authority (Housing Successor) and City of Indio Housing and Neighborhood Services Division
+- Type: other
+- Typical award: Older SB 341 reports (FY 2019-20 and FY 2020-21, seen only in search snippets) put the housing successor portfolio at about $7.2M, mostly loans such as Horizons at Indio senior housing (about $3.7M) and a SERAF loan from the Successor Agency. The Housing Element sites inventory includes 32 downtown parcels owned by the City or the Housing Authority, available for development agreements, land write-downs and fee deferrals.
+- AMI requirement: LMIHAF rules; project-specific covenants.
+- Cycle: rolling (next: No NOFA found. Contact Housing and Neighborhood Services about the current LMIHAF balance and downtown parcels.)
+- Layering notes: Recent Indio affordable deals (Arroyo Crossing I, Avenue 44) lean on County PLHA loans ($500K and $2M per County CEQA notices) and the Coachella Valley Housing Catalyst Fund (county records). indio.org returns 403 to scripts and WebFetch, the Legistar site has no data, and no Granicus host was found; source_url is the 6th cycle Housing Element draft on HCD, which describes the land and incentives.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/indio-6th-draft081321.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Indio Local Housing Trust Fund and inclusionary housing ordinance (Housing Element Programs 11 and 21, not established)**
+- Agency: City of Indio Community Development Department and Finance
+- Type: other
+- Typical award: No funds. The Housing Element committed to explore a Local Housing Trust Fund and dedicated revenue (commercial linkage fee, inclusionary in-lieu fee or a tax) in year 2 and to evaluate an inclusionary ordinance in year 3.
+- AMI requirement: Not applicable.
+- Cycle: closed/inactive (next: No evidence the trust fund or inclusionary ordinance was adopted as of 2026-11-08; confirm with Community Development.)
+- Layering notes: Recorded as negative information: Indio relies on CDBG (minor home repair), County funds, LIHTC and land write-downs rather than a local trust fund. Status could not be checked against current City documents because indio.org blocks automated access.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/indio-6th-draft081321.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Indio density bonus (Zoning Code Section 1.01.05(E) and Municipal Code Chapter 154)**
+- Agency: City of Indio Community Development Department
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Qualifying projects may apply for a density bonus, incentives and concessions consistent with Gov. Code 65915; Chapter 154 adopts state density bonus regulations by reference.
+- AMI requirement: Gov. Code 65915 thresholds.
+- Cycle: rolling (next: Applied at entitlement.)
+- Layering notes: No local enhancement found beyond state law. No local housing trust fund, inclusionary ordinance or in-lieu fee fund was confirmed for Indio (see the trust fund record). The 2021 Housing Element noted Chapter 154 only references state law and committed to an implementing update (Program 9). Coachella Valley Housing Coalition is the main local nonprofit developer.
+- Source: https://www.zoneomics.com/code/indio-CA/chapter_1
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Irvine
 
 **Affordable Housing Credits Program (Irvine Zoning Ordinance Sec. 2-3-6)**
@@ -5450,6 +5536,39 @@ Generated 2026-11-08, 792 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Moreno Valley
+
+**Moreno Valley HOME Investment Partnerships Program and CDBG annual application round**
+- Agency: City of Moreno Valley Financial and Management Services, Grants Division
+- Type: loan
+- Typical award: FY 2026-27: HOME $623,617 (CHDO set-aside $93,542; $467,714 for other activities; 10% admin), CDBG about $1.9M, ESG about $172,000. The adopted Action Plan (July 2026) also carries $2,265,372 in unencumbered HOME funds with activity TBD, available for a rental project.
+- AMI requirement: HOME rent and income limits (at or below 80% AMI; 20-year minimum affordability for new construction).
+- Cycle: annual NOFA (next: FY 2026-27 HOME applications were due January 30, 2026 (PlanetBids, opened December 12, 2025). Expect the FY 2027-28 round to open about December 2026 with a late January 2027 deadline; ask the Grants Division about the $2.27M unencumbered HOME balance now.)
+- Layering notes: HUD classifies Moreno Valley as fiscally distressed, giving a 50% HOME match reduction. Moreno Valley is its own entitlement city, outside the County Urban County pool. The Action Plan also lists PLHA, Prohousing Incentive Pilot and former RDA housing funds as leverage. Davis-Bacon applies at 12 or more HOME units.
+- Source: https://id3464.securedata.net/moreno-valley/departments/financial-mgmt-svcs/pdf/CDBG/2026-2027/FY-26-27-HOME-ApplicationWorkshop.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Moreno Valley Housing Authority, Housing Successor Low and Moderate Income Housing Asset Fund (LMIHAF) and housing successor land**
+- Agency: Moreno Valley Housing Authority (Housing Successor to the Community Redevelopment Agency), Financial and Management Services
+- Type: loan
+- Typical award: FY 2024-25: cash $6,494,846; total fund balance $38,030,093 (mostly loans and interest receivable); deposits $595,276. Excess surplus of $3,238,065 in FY 2024-25 must be spent or encumbered within three fiscal years or transferred to HCD; the prior FY 2023-24 excess was to be spent by June 30, 2026. Land: Fir/Heacock site going to the Linwood Rose 36-unit special needs apartments; Eucalyptus/Heacock to Lantana Court (7 ownership homes); JFK/Elm and Sheila/Perris dispositions starting; the Action Plan also lists Day/Alessandro (8.15 acres) as available.
+- AMI requirement: LMIHAF income and ELI spending tests (HSC 34176.1); 55-year rental covenants typical.
+- Cycle: rolling (next: No NOFA posted. The excess surplus creates a spend-down deadline (FY 2024-25 excess by about June 30, 2028), so the Authority has a strong incentive to commit funds to a ready project. Contact the Financial and Management Services Grants Division.)
+- Layering notes: Best near-term local cash in Moreno Valley. The City has no Section 8 authority (HACR administers about 1,100 vouchers and 66 RAD PBV units in the City), so HACR PBVs (county record) are the rental subsidy layer. Stack with City HOME (separate record) and County PLHA/HOME-ARP. moval.org and moval.gov both served documents without blocking.
+- Source: https://moval.gov/departments/financial-mgmt-svcs/pdf/MorenoValleyHousingSuccessorReportFiscalYear2024-25.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Moreno Valley density bonus program, Municipal Code Section 9.03.050 (with impact fee reductions)**
+- Agency: City of Moreno Valley Community Development Department, Planning Division
+- Type: density bonus
+- Typical award: Implements state density bonus law plus a local fee incentive: 50% reduction of the development impact fee and parkland impact mitigation fee for VLI units and 25% for lower income units (Section 9.03.050.I.2). Up to four concessions; projects within half a mile of a major transit stop also get up to three more stories or 33 feet.
+- AMI requirement: Gov. Code 65915 thresholds (5% VLI, 10% lower, 10% moderate for-sale, 100% lower income with up to 20% moderate, and special populations); 55-year affordability agreement for rental units.
+- Cycle: rolling (next: Applied at entitlement; last amended by Ord. 1035 (December 16, 2025).)
+- Layering notes: The fee reduction is a real local enhancement beyond state law and can be requested as an additional incentive. A City fee reduction may count as public funds under Labor Code 1720. No local housing trust fund, inclusionary ordinance or in-lieu fee fund was found for Moreno Valley. Code read on the zoneomics mirror.
+- Source: https://www.zoneomics.com/code/moreno-valley-CA/chapter_3
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Mountain View
 
 **Affordable housing over-the-counter Notice of Funding Availability (Housing Impact Fund, BMR In-Lieu Fees Fund, Local Housing Trust Fund grant)**
@@ -5861,6 +5980,39 @@ Generated 2026-11-08, 792 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Palm Springs
+
+**Palm Springs Affordable and Multi-Family Housing Incentive Program (Resolution No. 24654), impact fee reduction and deferral**
+- Agency: City of Palm Springs (Planning and Building)
+- Type: fee waiver
+- Typical award: Sliding scale reduction of developer fees and development impact fees from 100% to 1% based on the number and share of affordable units; deferral of fee payment to certificate of occupancy; 50% reduction for market-rate apartments; ADU fee reductions.
+- AMI requirement: New housing restricted to lower income households for the affordable tier.
+- Cycle: rolling (next: Ongoing per the Housing Element; current resolution status and fee schedule not confirmed.)
+- Layering notes: Unusually generous for the Coachella Valley; stack with the City gap loans and the 93.23.17 density bonus. Fee reductions are public funds for prevailing wage. Program described in the 2021 Housing Element draft on the HCD site; the City resolution and current fee schedule could not be opened (palmspringsca.gov 403).
+- Source: https://hcd.ca.gov/housing-elements/docs/palm-springs-6th-draft080221.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Palm Springs city affordable housing gap loans (housing successor LMIHAF and City housing funds)**
+- Agency: City of Palm Springs Community and Economic Development, Housing Division (Housing Successor)
+- Type: loan
+- Typical award: Reported 2026 commitments (from secondary summaries, not opened on the City site): $3,800,000 loan for the 82-unit Redtail project (3% simple interest, 57-year term, residual receipts), a $2,250,000 acquisition loan plus up to $2,500,000 subordinated fee loan for a 110-unit project at McCarthy and San Rafael (January 14, 2026), and a $3,000,000 commitment for a Wakeland senior project (March 2026). Earlier: Monarch Apartments (60 units) received a City loan, fee waivers and a land grant; a prior LMIHAF loan of about $5.97M to WHCHC.
+- AMI requirement: Lower income; terms set per project agreement (55-year or longer covenants typical).
+- Cycle: rolling (next: No NOFA found; commitments go to Council project by project. Confirm current fund balances in the FY 2024-25 housing successor report.)
+- Layering notes: Palm Springs is a CDBG-only entitlement (FY 2026-27 CDBG about $337,285 for rehab and legal services), so City and successor funds are the local gap layer, stacked with HACR PBVs and the Coachella Valley Housing Catalyst Fund (county records). palmspringsca.gov returns 403 (Akamai) to scripts and WebFetch, and no working Granicus or Legistar host was found; source_url is the 6th cycle Housing Element draft on HCD, which documents the Monarch loan, fee waivers and land grant but not the 2026 loans.
+- Source: https://hcd.ca.gov/housing-elements/docs/palm-springs-6th-draft080221.pdf
+- Confidence: needs_confirmation (researched 2026-11-08)
+
+**Palm Springs density bonus, Zoning Code Section 93.23.17**
+- Agency: City of Palm Springs Planning Services Department
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Implements Gov. Code 65915-65918 with on-menu and off-menu incentives, parking alterations and waivers; the City Council may approve a density bonus above state limits by resolution with Housing Element findings.
+- AMI requirement: Gov. Code 65915 thresholds.
+- Cycle: rolling (next: Applied at entitlement.)
+- Layering notes: The Council discretion to exceed state bonus limits is a local enhancement. No inclusionary ordinance or local housing trust fund was confirmed. Code read on the zoneomics mirror.
+- Source: https://www.zoneomics.com/code/palm-springs-CA/chapter_3
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Paso Robles
 
 **Affordable housing fee deferral loans (deferral of development impact, water and sewer connection and building permit fees; Housing Element Programs 8 and 9)**
@@ -6119,6 +6271,89 @@ Generated 2026-11-08, 792 total records
 - Cycle: rolling (next: Unknown, verify with agency. Request the latest SB 341 Housing Successor annual report from the Housing Division; Housing Element Program 2.C commits the City to seek new sources (including social impact bonds) for low-mod housing assets on an ongoing basis.)
 - Layering notes: Richmond's former redevelopment areas (Iron Triangle, Harbour, Hilltop, Nevin) left land assets that the City can contribute to deals; Nevin Plaza Phase II (EAH, 76 units) and the Hacienda Apartments rehabilitation (150 units, CDBG-assisted) are current examples of City-assisted projects. Successor funds stack with HOME, Measure X and the County conduit bond program (county records) and with HACCC project-based vouchers, which now administer the former Richmond Housing Authority voucher program. The Successor Agency web page (https://www.ci.richmond.ca.us/97/Successor-Agency-To-Redevelopment) was opened but is dated (2015-2016 Oversight Board materials); program details were read from the adopted Housing Element (source_url).
 - Source: https://www.ci.richmond.ca.us/ArchiveCenter/ViewFile/Item/12751
+- Confidence: verified (researched 2026-11-08)
+
+
+### City of Riverside
+
+**City of Riverside HUD entitlement funds: HOME Infill Residential Development Program and CDBG (FY 2026-27 Annual Action Plan)**
+- Agency: City of Riverside Housing and Human Services Department
+- Type: loan
+- Typical award: FY 2026-27 HUD allocations total $9,050,906: CDBG $2,749,768, HOME $981,735 (of which $883,561 to the Infill Residential Development Program, plus about $200,000 HOME program income), ESG $250,428, HOPWA $5,068,975 (City is the HOPWA EMSA grantee for both Riverside and San Bernardino counties). Recent HOME loans: $1,508,234 Sunrise at Bogart (22 PSH units), $1,550,443 Mulberry Gardens Family (11 HOME units). HOME-ARP also used ($3,000,000 Mulberry Gardens Senior).
+- AMI requirement: HOME: at or below 80% AMI with HOME rent limits; 20-year minimum HOME period for new construction, City typically records 55 years.
+- Cycle: annual NOFA (next: Public notice of funding availability released each December (last one December 2025) for the following July program year; FY 2027-28 notice expected about December 2026. Action Plan due to HUD by mid-August.)
+- Layering notes: City is its own HUD entitlement and is outside the Riverside Urban County CDBG/HOME pool in the county record. HOME is small (under $1M a year), so it functions as a slice of the local gap. Federal Davis-Bacon applies at 12 or more HOME-assisted units. The draft Action Plan says the City dedicates its direct PLHA allocation to affordable housing development as additional leverage.
+- Source: https://riversideca.legistar1.com/riversideca/attachments/b92b10a6-255f-45ef-bb95-804c8f95b9f6.docx
+- Confidence: verified (researched 2026-11-08)
+
+**City of Riverside Permanent Local Housing Allocation (PLHA) direct formula allocation, development loans**
+- Agency: City of Riverside Housing and Human Services Department
+- Type: loan
+- Typical award: Five-year PLHA plan (adopted July 7, 2020) estimated $9,732,750. CY 2023 application $2,456,509 (March 2025). Development loans to date: $1,000,000 Golden Pierce (79 units), $1,053,907 The Aspire (32 youth PSH units), $380,562 Sunrise at Bogart (22 PSH units), $250,000 proposed for Grapevine (10 units). A large share also goes to homeless case management ($1,384,134 City Net).
+- AMI requirement: PLHA rules: rental units at or below 60% AMI (up to 120% AMI for owner units), 55-year covenants.
+- Cycle: rolling (next: Awarded through Council-approved loan agreements; uncommitted amounts may be transferred to the Local Affordable Housing Trust Fund ($1.5M already moved). Contact Housing and Human Services.)
+- Layering notes: City receives its own PLHA formula share separate from the County PLHA record, so City projects can carry both a City and a County PLHA loan. Commonly stacked with City HOME and PIP on the same project (Sunrise at Bogart used PIP $1.44M, PLHA $380K and HOME $1.51M).
+- Source: https://riversideca.legistar1.com/riversideca/attachments/0e2435f5-b0f3-4816-8f98-68582b8bd16d.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Housing Authority and Successor Agency land write-downs and surplus land dispositions (e.g., 2882 Mission Inn Avenue DDA, 11049 Bogart, 8733 Indiana)**
+- Agency: Housing Authority of the City of Riverside; Successor Agency to the Redevelopment Agency of the City of Riverside
+- Type: other
+- Typical award: Land conveyed at or near $1. Example: September 1, 2026 DDA conveys 2882 Mission Inn Ave (0.22 acre) to Grapevine Development for $1, a $245,861 write-down counted as HOME match, for 10 affordable units in a 64-unit mixed-use project; that project also pairs $900,000 City HOME and $250,000 City PLHA with LIHTC. Other Housing Authority sites: 11049 Bogart (DDA with NPHS, 22 PSH units), 8733 Indiana (RFP with adjacent Successor Agency parcel), 2348 University (duplex redevelopment).
+- AMI requirement: Surplus Land Act: at least 25% lower income on the notice of availability, 55-year covenants; Grapevine DDA requires 2 units at 50% AMI and 8 at 60% AMI for 55 years.
+- Cycle: rolling (next: Sites are offered through SLA notices and RFPs as they come up; watch Housing Authority agendas. The University Avenue Density Transfer Pilot (separate record) also targets City surplus parcels.)
+- Layering notes: Land write-downs count as HOME match (City reports excess HOME match of $16.4M). Successor Agency parcels need Countywide Oversight Board approval and HCD SLA sign-off, which adds months. The County land program (county record) is separate.
+- Source: https://riversideca.legistar1.com/riversideca/attachments/b93e9147-b9ff-49dd-836f-73b65f7a2d6f.docx
+- Confidence: verified (researched 2026-11-08)
+
+**Housing Authority of the City of Riverside, Housing Successor Low and Moderate Income Housing Asset Fund (LMIHAF)**
+- Agency: Housing Authority of the City of Riverside (Housing Successor to the former Redevelopment Agency)
+- Type: loan
+- Typical award: FY 2023-24 (latest report found, dated April 1, 2025): $9,403,323 deposited, $2,899,271 spent ($1,597,196 on housing development across ELI, VLI and low income units), ending cash balance $2,547,069. Portfolio $35.6M ($34.9M loans receivable, $685K real property). The Housing Authority also owns 104 units managed by RHDC under a 2024 operating agreement.
+- AMI requirement: LMIHAF rules (HSC 34176.1): at least 30% of spending for ELI (30% AMI) and no more than 20% for 60 to 80% AMI over each five-year period; 55-year rental covenants typical.
+- Cycle: rolling (next: No standing NOFA. Funds and Housing Authority land are committed project by project through Council and Housing Authority actions; contact Housing and Human Services.)
+- Layering notes: Separate from the County housing successor (HACR) record; only for projects inside city limits. Used alongside City HOME/PLHA and land write-downs (see Housing Authority land record). Ending balance is modest, so treat as a supplemental source. A FY 2024-25 report was not found on the City site (404) and should be requested.
+- Source: https://riversideca.gov/hhs/sites/riversideca.gov.hhs/files/Housing%20Successor%20LMIHF%20FY%202023-24.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Prohousing designation and Prohousing Incentive Program (PIP) loans, City of Riverside**
+- Agency: City of Riverside Housing and Human Services Department (designation by HCD)
+- Type: loan
+- Typical award: City has received $2.44M in PIP to date: $1,000,000 loan to Mulberry Gardens Family (149 units) and $1,440,000 to Sunrise at Bogart (22 PSH units). Council authorized an application for up to $1,440,000 in PIP Round 4 (March 24, 2026); loans come back to Council project by project.
+- AMI requirement: PIP-assisted units at or below 50% AMI; 55-year covenants in first position.
+- Cycle: rolling (next: Prohousing designation (awarded March 30, 2023) expires January 1, 2027. The Housing and Homelessness Committee took up reapplication on August 31, 2026; a reapplication resolution and HCD submittal must happen before January 2027 for the City to keep PIP eligibility and Prohousing scoring points.)
+- Layering notes: Designation also gives Riverside projects Prohousing points or preference in HCD competitive programs (AHSC, IIG and others), a meaningful edge for City sites. PIP residual receipts flow to the LAHTF. Risk: staff estimate 16 confident and up to 23 uncertain points against a 30-point threshold under the stricter 2024 criteria, so the designation could lapse. Recorded at city level because the City selects and lends to projects, although the money is HCD's.
+- Source: https://riversideca.legistar1.com/riversideca/attachments/6a5bf8ac-0390-4374-8266-cbdc5145ea9a.docx
+- Confidence: verified (researched 2026-11-08)
+
+**Riverside Local Affordable Housing Trust Fund (LAHTF), created by Council resolution March 12, 2024**
+- Agency: City of Riverside Housing and Human Services Department
+- Type: loan
+- Typical award: Construction and permanent loans at simple interest of no more than 3% per annum, with repayments recycled into the fund. Seeded with a $1,500,000 transfer of PLHA funds; ongoing revenue from HOME, NSP, CalHome, PLHA and ARPA affordable housing program income (ARPA affordable housing allocation was $1,388,797) plus 50% of future sale proceeds of City-owned land bought with General Fund money. City applied for a $1,000,000 HCD Local Housing Trust Fund match (August 2024). Staff cite typical gap requests of $3M to $4M for 65 to 80 unit projects.
+- AMI requirement: Low to moderate income households. Committee recommendations at creation: 99-year affordability term, priority for seniors and justice-involved people, and eligibility for market-rate developers that restrict 10% of rental units (or 5% of for-sale units). Loans funded with PIP Round 4 money require 55-year first-position covenants at or below 50% AMI.
+- Cycle: rolling (next: No LAHTF NOFA issued as of 2026-11-08. The March 24, 2026 PIP Round 4 staff report says residual receipts from PIP loans will flow to the trust fund and staff will issue a NOFA once enough has accumulated. Contact Housing and Human Services (Agripina Neubauer, Housing Project Manager).)
+- Layering notes: City-controlled gap layer that sits ahead of County HOME/PLHA (the County CDBG/HOME record covers the Urban County, which excludes the City of Riverside as its own entitlement grantee). Stacks with the City's own HOME, PLHA and PIP loans (separate records) and with 4% or 9% LIHTC. Capitalized mainly from recycled program income, so the balance is small relative to need; expect it to be combined with HOME and PLHA on the same project. If the LHTF state match was awarded it carries HCD LHTF regulatory terms. City pages on riversideca.gov are thin; staff reports were pulled through the Legistar web API (client riversideca).
+- Source: https://riversideca.legistar1.com/riversideca/attachments/1ba55bf5-5dbd-4eeb-9ca6-933968bf57e8.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Riverside density bonus, Municipal Code Chapter 19.545**
+- Agency: City of Riverside Community and Economic Development Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Implements state density bonus law with a concession table (1 to 4 concessions; 100% affordable projects get 4 and, within half a mile of a major transit stop, up to three extra stories or 33 feet) and reduced parking ratios (1 space for 0-1 BR, 1.5 for 2-3 BR; 0.5 per unit near transit with at least 11% VLI or 20% low).
+- AMI requirement: Eligibility per Gov. Code 65915: 5% VLI, 10% low, 10% moderate for-sale, 10% special populations, 20% lower income students, or 100% lower income with up to 20% moderate.
+- Cycle: rolling (next: Applied through entitlement review. Zoning Code amendments (PR-2024-001746 and the 2025 omnibus PR-2025-001793) updated Chapter 19.545 for 2024 state law changes.)
+- Layering notes: No local enhancements beyond state law found; the chapter tracks Gov. Code 65915. City has no inclusionary ordinance or in-lieu fee fund, and no adopted citywide affordable housing fee deferral program was found. Pairs with the University Avenue Density Transfer Pilot (separate record) on eligible sites.
+- Source: https://riversideca.legistar1.com/riversideca/attachments/7d869dac-66e3-4bb9-9bc2-642278a8e580.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**University Avenue Density Transfer Pilot Program (Housing Element Program HE-EJ-7-2)**
+- Agency: City of Riverside Community and Economic Development Department, Planning Division
+- Type: other
+- Typical award: Not a cash subsidy. Creates a unit bank seeded with residential capacity from City-owned surplus parcels in the University Avenue Specific Plan; receiver sites (City surplus and Housing Element sites) can withdraw extra units first-come first-served, with priority to City surplus sites, and may combine withdrawals with Chapter 19.545 density bonuses.
+- AMI requirement: None specific to the transfer; affordability comes from density bonus, SLA covenants or funding sources used on the receiver site.
+- Cycle: rolling (next: Land Use Committee recommended approval; the Council item (Legistar 52587, March 2026) showed status Agenda Ready with no recorded vote in the API. Verify adoption with Planning before relying on it.)
+- Layering notes: Most useful when paired with a City surplus parcel disposition (see land write-down record). Pilot limited to the University Avenue Specific Plan area; may expand if successful.
+- Source: https://riversideca.legistar1.com/riversideca/attachments/ea6aa9ef-342c-4b16-9ef9-01f2ded9ee62.pdf
 - Confidence: verified (researched 2026-11-08)
 
 
@@ -7689,6 +7924,59 @@ Generated 2026-11-08, 792 total records
 - Cycle: rolling (next: PIP Round 4 award expected mid 2026; 295 South Mathilda ENA extended November 2025 with construction targeted 2027 after a tax credit application in 2026. Future City-owned sites would be offered by ENA or RFP.)
 - Layering notes: Prohousing status improves scores for AHSC, IIG and MHP applications by Sunnyvale projects. The City's land contribution model (buy the site, ground lease to the nonprofit, then fund through the NOFA) mirrors Mountain View and San Jose practice and locks in TCAC opportunity-area status. sunnyvale.ca.gov blocked; information taken from the 2025 Housing Element APR read on Legistar.
 - Source: https://legistar.granicus.com/Sunnyvale/attachments/d5ab8b14-34d8-439e-99c0-2db362a22f77.pdf
+- Confidence: verified (researched 2026-11-08)
+
+
+### City of Temecula
+
+**Temecula Affordable Housing Overlay Zoning District, Development Code Chapter 17.21**
+- Agency: City of Temecula Community Development Department, Planning Division
+- Type: other
+- Typical award: Requirement, not a subsidy. By-right approval on 44 mapped parcels (just over 100 acres, capacity about 2,007 affordable units) at 20 to 30 units per acre for projects reserving at least 20% of units for households at or below 80% AMI; mixed use allowed in Uptown if residential is at least 50%.
+- AMI requirement: At least 20% of units at or below 80% AMI, deed-restricted at least 55 years by recorded regulatory agreement.
+- Cycle: rolling (next: Ongoing (Ord. 18-09, 2018; Ord. 20-06).)
+- Layering notes: By-right path reduces entitlement risk. Density bonus is allowed but the AHO caps the base for bonus purposes at 30 units per acre. Regular impact fees (DIF, TUMF, MSHCP) still apply unless deferred under a development agreement (separate record).
+- Source: https://www.zoneomics.com/code/temecula-CA/chapter_16
+- Confidence: verified (researched 2026-11-08)
+
+**Temecula Uptown city-owned parcel affordable housing RFP (APN 910-262-061, 1.83 acres)**
+- Agency: City of Temecula Community Development Department
+- Type: other
+- Typical award: City may donate the 1.83-acre parcel in the Uptown Temecula Sports District as its contribution. A June 2025 RFP drew 6 proposals; the City plans to add adjacent City land and reissue in 2026.
+- AMI requirement: Intended as 100% affordable (SLA exemption requested), with interest in short to medium term housing for families at risk of homelessness and a mix of unit types and incomes; 55-year covenants expected.
+- Cycle: closed/inactive (RFP to be reissued) (next: Reissue expected in 2026 per the 2025 Annual Progress Report; not yet seen in Legistar as of 2026-11-08. Watch Council agendas and the City bid portal.)
+- Layering notes: Site sits in the Uptown Temecula Specific Plan (amended July 2026) and can pair with the AHO and density bonus. A land donation counts as a local public contribution in TCAC scoring and tie-breakers.
+- Source: https://temeculaca.legistar1.com/temeculaca/attachments/f62eac50-0962-4a7a-9224-782cffc996f9.docx
+- Confidence: verified (researched 2026-11-08)
+
+**Temecula density bonus, Development Code Section 17.10.020(P)**
+- Agency: City of Temecula Community Development Department, Planning Division
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Grants the bonus, incentives, waivers and parking ratios required by Gov. Code 65915, processed concurrently with development plan review.
+- AMI requirement: Gov. Code 65915 thresholds.
+- Cycle: rolling (next: Applied at entitlement.)
+- Layering notes: No local enhancements beyond state law found. Temecula has no inclusionary ordinance, in-lieu fee fund or local housing trust fund. The Housing Element target is at least two density bonus projects in the cycle.
+- Source: https://www.zoneomics.com/code/temecula-CA/chapter_9
+- Confidence: verified (researched 2026-11-08)
+
+**Temecula development fee deferral and reimbursement through development agreements**
+- Agency: City of Temecula Community Development Department
+- Type: fee waiver
+- Typical award: Case by case deferral or reimbursement of City development fees for qualifying senior and affordable projects; Las Haciendas and Rancho Las Bolsas received fee deferrals and new reimbursement agreements were entered in 2025. Amounts not published.
+- AMI requirement: Tied to the project's affordability agreement.
+- Cycle: rolling (next: Negotiated through a development agreement; contact Community Development early in entitlement.)
+- Layering notes: Housing Element programs commit the City to continue fee deferral and reimbursement and expedited review. Fee reimbursement is a public subsidy for prevailing wage purposes.
+- Source: https://temeculaca.legistar1.com/temeculaca/attachments/01f0643f-4dae-46ac-aa6c-ff8cd2968734.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Temecula housing successor assets and remaining former RDA Tax Allocation Bond proceeds for affordable housing**
+- Agency: City of Temecula Community Development Department (Housing Successor to the Temecula Redevelopment Agency)
+- Type: loan
+- Typical award: Remaining Tax Allocation Bond proceeds are available for affordable housing (balance not published in the documents read). Recent local deals: Las Haciendas (132 units, certificates of occupancy 2024) and Rancho Las Bolsas (26 NPLH units).
+- AMI requirement: Lower income; bond covenants and LMIHAF rules apply; the City inspects RDA/SARDA-funded projects annually.
+- Cycle: rolling (next: No NOFA. The City makes bond proceed information available to developers through the development application process; contact Community Development (Housing and Real Estate Analyst).)
+- Layering notes: Temecula is a CDBG-only entitlement ($606,465 in FY 2026-27, used for public services and capital projects, not new rental construction) and receives no HOME, so these bond proceeds plus City land are its only cash layer. County HOME and PLHA (county records) are the other local options. A housing successor annual report with the bond balance was not found; request it.
+- Source: https://temeculaca.legistar1.com/temeculaca/attachments/01f0643f-4dae-46ac-aa6c-ff8cd2968734.pdf
 - Confidence: verified (researched 2026-11-08)
 
 
