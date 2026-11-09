@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 771 total records
+Generated 2026-11-08, 781 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -4550,6 +4550,49 @@ Generated 2026-11-08, 771 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Fort Bragg
+
+**City of Fort Bragg state HOME, PLHA and CDBG applications (City as State Recipient), including Hazelwood Senior Apartments HOME request**
+- Agency: City of Fort Bragg Economic Development Department (Grants Coordinator)
+- Type: loan
+- Typical award: May 12, 2025 Council authorized a $4,600,000 FY24 State HOME application ($4,500,000 loan to AMG Associates for Hazelwood Senior Apartments, 49 units at 30 to 60% AMI, $25 million total cost; $50,000 soft costs; $50,000 admin). Repaid HOME loan proceeds stay in the City Housing Trust Fund. PLHA: formula allocation committed to Housing Mendocino Coast (community land trust); 2021 competitive PLHA award with DANCO for the Plateau project; 2024 competitive PLHA considered for homeless services because no development project was ready. The 2025 CDBG application targets sidewalks, not housing; $570,000 of CDBG program income is encumbered for business loans.
+- AMI requirement: HOME: 55-year state affordability for new construction (20-year federal); PLHA competitive rental: at or below 60% AMI for 55 years.
+- Cycle: annual NOFA (HCD rounds; City partners with one developer per round) (next: unknown, verify with agency. HOME award status for Hazelwood not confirmed; 2025 CDBG applications were due April 3, 2026 with awards expected around September 2026.)
+- Layering notes: City sponsorship is the practical path to state HOME for small coastal projects since Fort Bragg is not a HUD participating jurisdiction. HOME triggers Davis-Bacon at 12 or more HOME units. AMG planned 9% tax credits after HOME. County PLHA and HOME program income are separate County pools; Fort Bragg holds its own PLHA formula share. Staff reports were read from the Legistar attachment host because city.fortbragg.com was down.
+- Source: https://legistar1.granicus.com/cityfortbragg/attachments/517d6183-3153-4094-8f5c-8369187ffed6.docx
+- Confidence: verified (researched 2026-11-08)
+
+**Fort Bragg Density Bonuses and Affordable Housing Incentives (CLUDC Chapter 17.31, ILUDC 18.31) and Council preliminary pre-approval of inclusionary incentives (17.32.070)**
+- Agency: City of Fort Bragg City Council and Community Development Department
+- Type: density bonus
+- Typical award: Incentive, not a cash subsidy. State density bonus implemented locally, with a voluntary pre-application step: a developer can ask Council to pre-approve density bonus, incentives and waivers at a public hearing within 90 days, before filing entitlements. Examples: Hazelwood Senior Apartments (49 units, 30 to 60% AMI) received pre-approval on February 24, 2025 for a height incentive (7 feet 8 inches over the 35-foot limit), reduced parking (75 stalls versus 114) and a 9% density bonus; Fort Bragg Apartments (1151 South Main, 83 units with 8 very low income) received pre-approval in November 2024.
+- AMI requirement: Per Government Code 65915; regulatory agreement under 17.31.060.
+- Cycle: rolling (next: Not applicable; letter of request may be filed any time before the entitlement application.)
+- Layering notes: In the coastal zone every bonus or incentive must also be consistent with the certified LCP and avoid adverse impacts on coastal resources, a constraint beyond state law; Ordinance 1029-2026 updates 17.31 to current state law pending Coastal Commission certification. Pre-approval is non-binding but de-risks tax credit applications. Hazelwood was approved May 2025 but missed 2025 tax credits and planned to reapply in 2026. 1151 South Main is in CEQA litigation after the Coastal Commission denied an appeal.
+- Source: https://legistar1.granicus.com/cityfortbragg/attachments/c478bcc4-ee12-40fc-bd92-23be244be642.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Fort Bragg Inclusionary Housing Requirements and Inclusionary Housing Trust Fund (Coastal LUDC Chapter 17.32 and Inland LUDC Chapter 18.32; Ordinance 1029-2026)**
+- Agency: City of Fort Bragg Community Development Department
+- Type: other
+- Typical award: Requirement, not a subsidy. Non-subdivision projects of 5 to 10 units (rental or for-sale) must make 20% of units affordable by design; for-sale projects of 11 to 20 units 10% inclusionary and 21 or more units 15%; rental projects over 10 units owe inclusionary units only when they request a density bonus or incentive. Alternatives: land donation, small secondary units (two per inclusionary unit in 11 to 30 lot subdivisions), in-lieu fee set by Council resolution. In-lieu fees and resale equity recapture go to the Inclusionary Housing Trust Fund (17.32.090), restricted to affordable housing acquisition, construction and reimbursement of excess affordable units. Fund balance not published.
+- AMI requirement: Rental inclusionary units: half at 80% AMI and half at 120% AMI, with priority for essential public service employees; rental affordability term 25 years. For-sale units: 15-year resale control with equity sharing back to the Housing Trust Fund. Affordable projects restricted at least 15 years are exempt.
+- Cycle: rolling (next: Ordinance 1029-2026 (coastal zone amendments to 17.31 and 17.32) passed in September 2026 and takes effect upon California Coastal Commission certification; verify certification date with the City.)
+- Layering notes: A 2023 City Attorney memo notes Fort Bragg's 20% requirement for 5 to 10 unit projects and no requirement for larger rental buildings without a bonus. A November 12, 2024 hearing on an inclusionary in-lieu fee resolution and nexus study is referenced in a City notice, but city.fortbragg.com returned 502 errors and timeouts this pass, so the adopted fee amount was not confirmed. Trust fund money could serve as local gap funding for tax credit projects but no NOFA or award process was found. The County repealed its inclusionary ordinance; Fort Bragg runs its own. Ordinance read from the City's Legistar attachment host (Legistar web API client 'cityfortbragg').
+- Source: https://legistar1.granicus.com/cityfortbragg/attachments/bd79607d-3f82-4c69-b251-6c286f7c9d41.docx
+- Confidence: verified (researched 2026-11-08)
+
+**Housing Mendocino Coast community land trust partnership (ARPA housing funds and PLHA), 251 S. Franklin Street**
+- Agency: City of Fort Bragg City Manager's Office with Housing Mendocino Coast (501(c)(3) community land trust)
+- Type: grant
+- Typical award: Council obligated $800,000 in ARPA funds to housing (Resolution 4859-2024); about $50,000 went to the Prohousing Designation application. June 22, 2026 staff recommended $350,000 of remaining ARPA housing funds for HMC's acquisition of 251 S. Franklin Street (about 1 acre, 12 to 13 workforce units) and working capital, under an MOU to be drafted in summer 2026. HMC reports about $1.39 million in existing funding. The City previously used SB 2, LEAP, REAP and PLHA funds to form HMC.
+- AMI requirement: Households up to 120% AMI; CLT ground lease (typically 99 years) with resale restrictions; possible priority for City employees and local workforce.
+- Cycle: closed/inactive (one-time ARPA allocation) (next: MOU and funding documents were to be prepared in summer 2026; ARPA funds must be expended by December 31, 2026 under federal rules, so verify status with the City Manager.)
+- Layering notes: Not a general NOFA; the City routes funds to its incubated CLT. Useful as a land and ownership partner for small workforce projects rather than a gap lender for tax credit rentals. The staff report states $300,000 in the recommendation and $350,000 in the discussion; confirm the final amount. Fort Bragg also references a Prohousing Designation application funded with ARPA; designation status was not confirmed this pass.
+- Source: https://legistar1.granicus.com/cityfortbragg/attachments/f234af69-08d5-4b5d-bbaa-9dd829b93041.docx
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Fremont
 
 **Development impact fee reduction and deferral for affordable housing projects, FMC Chapter 18.290**
@@ -7689,6 +7732,49 @@ Generated 2026-11-08, 771 total records
 - Confidence: needs_confirmation (researched 2026-11-08)
 
 
+### City of Ukiah
+
+**City of Ukiah state HOME and CDBG awards (City as State Recipient), including the Summercreek Village HOME application**
+- Agency: City of Ukiah Community Development Department, Housing Services Division
+- Type: grant
+- Typical award: City applies to HCD as a non-entitlement State Recipient and relends to projects. Track record: $5 million State HOME grant (2018) for Ukiah Senior Apartments; a $5 million HOME application for a 32-unit project (FY 2019-20 budget narrative); 2026 application of up to $5 million in HOME for rehabilitation of DANCO's 64-unit Summercreek Village Apartments (East Gobbi Street: roofs, pool, energy efficiency, parking). CDBG currently funds a Housing Conditions Survey (3,000-plus units) and First Time Homebuyer loans; the owner-occupied Housing Rehabilitation Program has no funding for 2026.
+- AMI requirement: HOME rental units at or below 60% and 80% AMI with 55-year state affordability (20-year federal minimum); CDBG benefits households at or below 80% AMI.
+- Cycle: annual NOFA (HCD HOME and CDBG rounds; City sponsors one application per round) (next: unknown, verify with agency; Summercreek HOME award decision pending as of the January to March 2026 newsletter. Developers must ask the City to sponsor before the HCD HOME deadline.)
+- Layering notes: Federal HOME triggers Davis-Bacon at 12 or more HOME-assisted units, plus state prevailing wage. City-sponsored HOME is distinct from Mendocino County's HOME program income pool, and both can sit in one project. HOME repayments recycle into City program income. City CDBG is not currently used for multifamily construction.
+- Source: https://cityofukiah.com/wp-content/uploads/2026/04/CDD-Jan-Mar-2026-Quarterly-Newsletter.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Ukiah Housing Successor Low and Moderate Income Housing Asset Fund (LMIHAF)**
+- Agency: City of Ukiah as Housing Successor to the former Ukiah Redevelopment Agency (Housing Services Division)
+- Type: loan
+- Typical award: Former RDA housing bond proceeds deposited in the LMIHAF and used to seed the Ukiah Housing Trust Fund in 2017. The City Council authorized $500,000 for affordable housing activities in FY 2019-20 (2019 Housing Element). Current balance not published on the City site; check the annual Housing Successor report (Health and Safety Code 34176.1).
+- AMI requirement: At least two-thirds of LMIHAF spending must serve households at or below 60% AMI (Mendocino County); eligible uses include rental rehab, acquisition-rehab and new construction.
+- Cycle: rolling (deployed through UHTF NOFAs) (next: unknown, verify with agency; funds are offered through Ukiah Housing Trust Fund rounds rather than a separate application.)
+- Layering notes: Treat as part of the UHTF capital stack, not a separate window. Housing successor income targeting (two-thirds at 60% AMI or below) is stricter than the UHTF NOFA's 120% AMI ceiling, so the City will steer LMIHAF dollars to lower-income units. Balance and five-year expenditure deadlines should be confirmed from the City's latest Housing Successor annual report, which was not located on the City site this pass. Source is the adopted 2019-2027 Housing Element hosted by HCD.
+- Source: https://www.hcd.ca.gov/housing-elements/docs/ukiah-6th-adopted102819.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Ukiah Housing Trust Fund (UHTF) NOFA, funded with PLHA, Prohousing Incentive Pilot (PIP) and housing successor funds**
+- Agency: City of Ukiah Community Development Department, Housing Services Division (Housing and Grants Manager, housing@cityofukiah.com, 707-463-6708)
+- Type: loan
+- Typical award: Most recent round: June 10, 2024 NOFA for about $1,000,000 to acquire infill parcels for affordable housing, combining a $455,000 Prohousing Incentive Pilot award (October 2023) with up to $617,000 of the City's 2019-2022 PLHA allocation. Loans at 0 to 3% simple interest, 55-year term, repaid from residual cash flow after operating costs, senior debt, reserves and deferred developer fee; due on sale or refinance. Commitments last 24 months from Council approval (one-year extension possible). Earlier UHTF capital came from former RDA housing bond proceeds; the 2019 Housing Element notes a $500,000 NOFA in 2018. Acorn Valley Plaza (DANCO, 74 units, opened March 2025) was built with UHTF funds.
+- AMI requirement: Units affordable at or below 60%, 80% or 120% AMI with a recorded 55-year rent or resale covenant; bonus points for units at 0 to 30% AMI. Funding-source rules (PLHA, PIP) add restrictions.
+- Cycle: annual NOFA (irregular; issued when state funds are awarded) (next: unknown, verify with agency. The 2024 round closed July 8, 2024 and no newer NOFA is posted on the Housing Services page as of 2026-11-08. Projects must deploy UHTF funds and start construction within two years of award.)
+- Layering notes: Ukiah is the only priority city in Mendocino County with a standing local trust fund and was the first rural Northern California city with a Prohousing Designation (April 2023), which earns state Prohousing points on AHSC, IIG and similar applications. The 2024 round targeted parcels in TCAC High and Highest Resource areas and favored scattered-site or non-traditional infill. The Housing Element says the fund exists partly to supply local match points for tax credit applications. Stacks with County HOME program income (about $351,767, for example the Marigold Villas request in Ukiah) and the City's own state HOME awards; County PLHA is a separate formula pool. Local public funds trigger state prevailing wage under Labor Code 1720.
+- Source: https://cityofukiah.com/wp-content/uploads/2024/06/2024-HTF-NOFA.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Ukiah density bonus (Zoning Code Section 9253) and development fee deferral for affordable housing**
+- Agency: City of Ukiah Community Development Department, Planning Services
+- Type: density bonus
+- Typical award: Incentive, not a subsidy. Section 9253 (Ord. 945, 1993) grants at least the bonus and incentives in Government Code 65915 and lets the City deliver them through Planned Development zoning regardless of parcel size or a Council variance waiving development standards. The 2019 Housing Element reports a fee deferral program for housing developers (water and sewer hookups are the largest fees; typical multifamily fees about $12,500 per unit, 9.5% of development cost) and that affordable developers may receive funding and fee deferrals for infrastructure.
+- AMI requirement: State density bonus thresholds (Gov. Code 65915); deed restriction per state law (55 years for rental).
+- Cycle: rolling (next: Not applicable; requested with the project application.)
+- Layering notes: Ukiah has no inclusionary ordinance or in-lieu fee; the 2019 Housing Element removed the inclusionary program and the nexus study, relying on the trust fund and by-right zoning instead. The 1993 code text predates recent state amendments, and the zoneomics mirror may lag the current Ukiah City Code (codepublishing.com is blocked to scripts); state law controls where it is more generous. Fee deferral terms were not found in a current resolution, so confirm amounts and timing with Planning (707-463-6268). A deferral of City fees is likely a public subsidy under Labor Code 1720(b)(4) unless repaid at market terms. The County density bonus ordinance (Chapter 20.234) does not apply inside city limits.
+- Source: https://www.zoneomics.com/code/ukiah-CA/chapter_27
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Vacaville
 
 **Vacaville Affordable Housing, Density Bonuses and Incentives (Land Use and Development Code Chapter 14.09.210; Ordinance 1972 of February 22, 2022, amended by Ordinance 1996 of July 23, 2024)**
@@ -8005,6 +8091,29 @@ Generated 2026-11-08, 771 total records
 - Layering notes: West Sacramento is the most active city funder in Yolo County: City land plus trust fund plus HOME program income have repeatedly made 100% affordable Bridge District projects competitive for MHP, Accelerator and AHSC (MOSA won $43 million AHSC in December 2025). The structure is a subordinate residual receipts loan plus ground lease or land conveyance. Layer order: AHSC or MHP, 4% bonds and credits (CMFA or CSCDA conduit with City TEFRA), Yolo County Housing PBVs, City trust fund, PLHA, CDBG for infrastructure. Successor agency land and EIFD financing are separate records. Blocked: cityofwestsacramento.org Housing Division pages, the Housing Policies and Studies page and the SB 341 report (403); the Legistar API only holds 2019 to 2022 matters and the Granicus feed is empty; the City now posts agendas on its own site. Facts are from the HCD-hosted 2021-2029 Housing Element plus the Jamboree fact sheet.
 - Source: https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-adopted071521.pdf
 - Confidence: needs_confirmation (researched 2026-11-08)
+
+
+### City of Willits
+
+**Willits Density Bonus ordinance (Municipal Code Chapter 17.67) and Housing Element affordable housing incentives (Program HE-2C and related)**
+- Agency: City of Willits Community Development Department
+- Type: density bonus
+- Typical award: Incentive, not a subsidy. Chapter 17.67 (updated September 2018) implements Government Code 65915 for projects of five or more units, with concessions that can include City fee waivers or publicly owned land. The 2019-2027 Housing Element commits to project-by-project fast-track processing, density bonuses, flexible standards, reduced parking, fee subsidies when feasible and fee deferrals for mixed-use projects with affordable multifamily units, plus water allocation priority for lower-income projects (HE-1.G).
+- AMI requirement: Per Government Code 65915.
+- Cycle: rolling (next: Not applicable. Willits must adopt its 7th cycle Housing Element by 2027.)
+- Layering notes: Willits has no local housing trust fund, no inclusionary ordinance (Program HE-3.D only committed to study feasibility by spring 2020) and no city-run NOFA for multifamily. Fee subsidies and deferrals are discretionary and General Fund dependent; if granted they likely count as public funds for prevailing wage. Multifamily gap money must come from County HOME program income, state programs and tax credits. Code text read from the zoneomics mirror; Housing Element read from the HCD-hosted copy (willits-6th-adopted121719.pdf).
+- Source: https://www.zoneomics.com/code/willits-CA/chapter_39
+- Confidence: verified (researched 2026-11-08)
+
+**Willits Owner-Occupied Housing Rehabilitation Program (PLHA and CDBG funded)**
+- Agency: City of Willits Community Development Department
+- Type: loan
+- Typical award: 0% interest deferred loans of $25,000 to $50,000 per home (current application packet), with the program page citing up to $100,000, funded by the City's PLHA allocation; Council authorized a CDBG application in November 2022 for about $554,000 to seed a revolving housing rehabilitation loan program. The City also holds CDBG business loan program income.
+- AMI requirement: Owner-occupants at or below 120% AMI (household of four $108,500).
+- Cycle: rolling (next: Open intake by appointment with Community Development (707-459-7112); subject to funding availability.)
+- Layering notes: Shows that Willits commits its PLHA formula share to single-family rehab rather than multifamily gap financing, so no city PLHA is available for affordable rental projects. Recorded as negative information for multifamily layering. Developers should look to Mendocino County HOME program income and the Community Development Commission of Mendocino County for project-based vouchers.
+- Source: https://www.cityofwillits.org/319/Owner-Occupied-Housing-Rehabilitation-Pr
+- Confidence: verified (researched 2026-11-08)
 
 
 ### City of Woodland
