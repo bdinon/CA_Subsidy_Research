@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 714 total records
+Generated 2026-11-08, 720 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -3958,6 +3958,29 @@ Generated 2026-11-08, 714 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Chowchilla
+
+**Chowchilla state CDBG and HOME small-city grants (non-entitlement applications with Self-Help Enterprises)**
+- Agency: City of Chowchilla Community and Economic Development Department, with Self-Help Enterprises as grant writer and program administrator
+- Type: grant
+- Typical award: CDBG, HOME and CalHome awards of over $2,000,000 combined between 2018 and 2020, for owner rehab, first-time homebuyer and sweat equity programs. A further HOME grant with Self-Help Enterprises was awarded in 2023. Infrastructure goal: at least $120,000 per year to extend water and sewer service to infill housing sites.
+- AMI requirement: Households at or below 80% AMI under state CDBG and HOME rules.
+- Cycle: annual NOFA (City applies to HCD state CDBG and HOME rounds) (next: Set by the HCD state CDBG and HOME NOFAs; unknown, verify with agency.)
+- Layering notes: Chowchilla is a non-entitlement city with no local trust fund, inclusionary ordinance, in-lieu fund or city-run NOFA. Its housing money comes from competitive state CDBG and HOME rounds that the City enters with a developer or with Self-Help Enterprises, so a multifamily project would need the City to apply as the sponsoring jurisdiction. Program 2 commits the City to letters of support for AHSC, LHTF, PLHA and HOME applications, expedited processing and possible land write-downs. The Housing Element also says a HUD moratorium stalled the 2018-2020 owner programs. County-level layers: Madera County PLHA and HHAP and the Housing Authority of the City of Madera (county records).
+- Source: https://cityofchowchilla.org/DocumentCenter/View/3586/September-2024-Adopted-Chowchilla-2024-2032-Housing-Element
+- Confidence: verified (researched 2026-11-08)
+
+**Housing Density Bonus and Other Incentives (Chowchilla Municipal Code Chapter 18.58) and Housing Element Program 3.e impact fee deferral**
+- Agency: City of Chowchilla Community and Economic Development Department
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. Chapter 18.58 implements State Density Bonus Law (Gov. Code 65915) with no local enhancements. Program 3.e (adoption targeted for Q1/Q2 2025) would let developers pay a small portion of impact fees at permit and defer the rest for up to 30 years as a recorded note. The note would be due on sale, refinance or loss of affordability.
+- AMI requirement: State density bonus thresholds. The deferred fee note becomes due if multifamily rents stop being affordable.
+- Cycle: rolling (next: Available at entitlement, no deadline. Program 3.k will amend Chapter 18.58 to match current state law. Confirm whether the Program 3.e fee deferral resolution was adopted.)
+- Layering notes: Chowchilla offers nothing beyond state density bonus law and a proposed fee deferral. The adopted 2024-2032 Housing Element says the City has no inclusionary, affordable housing or other local housing ordinances, and there is no local trust fund, fee waiver fund or NOFA. If adopted, the deferral works like a soft second loan that can sit under tax credit financing. A deferral may count as public funds for prevailing wage purposes. ADU builders can use free pre-approved Cottage Home plans (funded by SB 2). cityofchowchilla.org opened directly; the code was read on the zoneomics mirror.
+- Source: https://www.zoneomics.com/code/chowchilla-CA/chapter_26
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Chula Vista
 
 **Affordable Housing Incentives / Density Bonus, CVMC Chapter 19.90 (Ordinance 3572, 2024)**
@@ -4790,6 +4813,49 @@ Generated 2026-11-08, 714 total records
 - Layering notes: Lodi has no inclusionary ordinance (Housing Element confirms) and no local in-lieu fee, so the density bonus is the only land-use subsidy. Because the code defers to state law, developers can claim the full state bonus despite the outdated 35% text. Pair with County HOME, SJRHF, HACSJ PBVs and the City surplus land program (next record). Read from the zoneomics mirror of Title 17 Article 3 because municode blocks scripts.
 - Source: https://www.zoneomics.com/code/lodi-CA/chapter_3
 - Confidence: verified (researched 2026-11-08)
+
+
+### City of Madera
+
+**Affordable Housing Density Bonus (Madera Municipal Code Chapter 10-3-5.1) with Housing Element incentives: fee reductions (Program B-7), impact fee waivers (MMC 10-8.17) and fee waivers or deferrals (Program A-4)**
+- Agency: City of Madera Community Development Department, Planning (Planning Manager David Brletic, (559) 661-5433)
+- Type: density bonus
+- Typical award: Requirement, not a subsidy. The density bonus follows state law; the chapter was amended in February 2025 to track recent state changes, including parking for 100% affordable projects near transit. Program B-7 fee reductions: downtown projects and vacant or aging buildings get up to 100% off Engineering fees and 75% off Planning and Building fees. Non-profit buildings get up to 50%, with building fee reductions capped at $4,000. MMC 10-8.17 lets the Community Development Director approve impact fee adjustments, waivers or exemptions. Program A-4 offers fee waivers and deferrals for affordable projects as technical assistance.
+- AMI requirement: State density bonus thresholds (for example 10% lower income or 5% very low income units); 55-year affordability for bonus units.
+- Cycle: rolling (next: Available at entitlement, no deadline. The Housing Element commits to local density bonus standards beyond state law by Q1 2028 and to fee reductions for at least 20 qualifying projects by Q3 2026.)
+- Layering notes: Madera has no inclusionary ordinance or in-lieu fund. These fee tools are the only local cost reductions beyond HOME and PLHA. Program B-7 targets downtown revitalization, so it fits best for an affordable rental project downtown. Elsewhere, use the Director's waiver authority in MMC 10-8.17 and ask for a deferral under A-4. A fee waiver is a public subsidy and, depending on its size, can trigger state prevailing wage. The 6th Cycle Housing Element was adopted February 4, 2026. Madera County's density bonus (county record, Chapter 18.114) applies only in unincorporated areas.
+- Source: https://media-001-us.cdn.govstack.com/madera-003-us/media/fqwd5cjj/clean-madera-6th-cycle-housing-element-2-4-2026.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**City of Madera HOME Investment Partnerships (new participating jurisdiction) and CDBG entitlement, 2025-2029 Consolidated Plan**
+- Agency: City of Madera Grants Division (Finance), Grants Administrator Marcela Zuniga, (559) 661-3692
+- Type: loan
+- Typical award: HOME: about $353,555 per year (5-year estimate $1,767,777). The first allocation, in 2024, was $372,065, plus a one-time City match of $127,935, for $500,000. Over 2025-2029 the ConPlan housing goal budgets HOME $1,590,999.90, CDBG $322,982 and PLHA $1,361,913. CDBG: about $989,791 per year. The PY 2027/28 tentative allocation is about $990,000 (up to 20% admin, up to 15% public services, about $643,500 capital).
+- AMI requirement: HOME rental rules (24 CFR 92.252): HOME rents for households at or below 60% AMI, with 20% of HOME units at 50% AMI in projects with 5 or more units. CDBG must benefit households at or below 80% AMI.
+- Cycle: annual NOFA (CDBG application window opens early November; no open developer NOFA found for HOME) (next: CDBG PY 2027/28 applications opened November 2, 2026 and are due January 29, 2027 by 5:00 p.m. via grantsinfo@madera.gov. No HOME rental NOFA found; request HOME gap funding directly from the Grants Division ahead of tax credit rounds.)
+- Layering notes: Madera became a HOME participating jurisdiction in June 2024, so HOME is now the City's only recurring federal source that can fund new rental construction. The ConPlan lists owner rehab or new affordable housing as HOME uses. The amounts are small (about $354K per year), so the City would likely save several years of HOME for one gap loan, as the City of Merced does. Stack with PLHA (separate record), Housing Authority of the City of Madera project-based vouchers (county record) and 4% or 9% credits. Federal Davis-Bacon wages apply at 12 or more HOME-assisted units. HOME also requires NEPA review, and grants from 2024 on carry Build America Buy America requirements. The CDBG NOFA mostly funds public services and public improvements, but CDBG can pay for acquisition and site work for new housing. Sources read: 2025-2029 Consolidated Plan, PY 2027/28 CDBG Notice of Funding (media-001-us.cdn.govstack.com/madera-003-us/media/guann5xv/notice-of-funding-final.pdf) and the 6th Cycle Housing Element.
+- Source: https://media-001-us.cdn.govstack.com/madera-003-us/media/djvfqc4b/madera-conplan_cleanv42.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**City of Madera Permanent Local Housing Allocation (PLHA), 2019-2023 five-year plan**
+- Agency: City of Madera Grants Division (Finance)
+- Type: loan
+- Typical award: 2022 PLHA award of $1,801,097 (FY 2019, 2020 and 2021 allocations), notified February 15, 2023. The ConPlan lists $1,361,913 remaining for housing. The 2026 Housing Element estimates $1,455,181 available from award years 2021-2023, earmarked for housing construction and rehabilitation.
+- AMI requirement: The plan funds affordable rental development or rehabilitation (generally at or below 60% to 80% AMI under HCD PLHA guidelines) and homeless services. The City has not published its own income targets.
+- Cycle: rolling (no City NOFA found; Council approves commitments) (next: unknown, verify with agency. No open City solicitation found as of 2026-11-08. The 2019-2023 plan period has ended, so check whether a new five-year plan has been adopted for later allocations.)
+- Layering notes: The largest uncommitted local pool identified for the City of Madera (about $1.36M to $1.46M). Pair it with City HOME (separate record) to form one local gap layer. Madera County has its own PLHA allocation (county record), so a project in the city could in principle seek both. State-source funds generally count as public funds under Labor Code 1720. The City web page describes only the 2022 application and award; no commitment to a specific project was found this pass.
+- Source: https://www.madera.gov/living-in-madera/housing-grants-assistance-programs/permanent-local-housing-allocation-plha-program/
+- Confidence: verified (researched 2026-11-08)
+
+**Successor Housing Agency to the former Madera Redevelopment Agency (Low and Moderate Income Housing Asset Fund)**
+- Agency: City of Madera as Successor Housing Agency (Resolutions MRA-1498 and CC 12-09)
+- Type: loan
+- Typical award: Unknown. The City kept the former RDA's housing assets in January 2012, but the latest SB 341 annual reports posted are for FY 2014-15 and FY 2015-16. The FY 2015-16 report is a scanned PDF and its text could not be extracted. No current fund balance found.
+- AMI requirement: Housing Asset Fund rules (HSC 34176.1): over each five-year period, at least 30% of development spending must serve extremely low income households and no more than 20% may serve households at 60-80% AMI.
+- Cycle: rolling (no published process) (next: unknown, verify with agency. Ask the City for the latest SB 341 report or the Housing Successor section of the Annual Progress Report.)
+- Layering notes: Recorded so the asset fund is not overlooked. The 2026 Housing Element says losing redevelopment has limited the City's housing work, and it dropped one program for lack of funding, so little uncommitted cash likely remains. Any balance would add a small City layer next to HOME and PLHA. Confirm the fund balance and any housing successor-owned parcels before relying on it.
+- Source: https://www.madera.gov/city-government/boards-commissions-committees/successor-agency/successor-housing-agency/
+- Confidence: needs_confirmation (researched 2026-11-08)
 
 
 ### City of Manteca
