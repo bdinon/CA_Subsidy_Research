@@ -1,6 +1,6 @@
 # Affordable Housing Subsidy Source Report
 
-Generated 2026-11-08, 781 total records
+Generated 2026-11-08, 792 total records
 
 **Counties in scope:** Sacramento, Sonoma, Napa, El Dorado, Solano, Yolo, Contra Costa, Alameda, San Joaquin, San Mateo, Marin, Placer, Orange, San Diego, Santa Clara, San Benito, Santa Cruz, Ventura, Fresno, Madera, Mendocino, Merced, Monterey, Nevada, Riverside, San Luis Obispo
 
@@ -4802,6 +4802,29 @@ Generated 2026-11-08, 781 total records
 - Confidence: verified (researched 2026-11-08)
 
 
+### City of Grass Valley
+
+**Grass Valley Affordable Housing Density Bonuses and Incentives (Development Code Chapter 17.32)**
+- Agency: City of Grass Valley Community Development Department
+- Type: density bonus
+- Typical award: Incentive, not a subsidy. Local chapter tracks Government Code 65915: one incentive at 10% lower income, 5% very low or 10% moderate (common interest) units, two at 17% lower or 10% very low, and so on; parking reductions (17.32.050) and childcare bonuses (17.32.060); Council grants requested incentives unless it makes written findings. The 2024 Annual Progress Report says no density bonus has been requested and the City planned updates to the ordinance.
+- AMI requirement: Per Government Code 65915; density bonus agreement under 17.32.100.
+- Cycle: rolling (next: Not applicable; requested before or with the project application.)
+- Layering notes: Grass Valley has no inclusionary ordinance, no city housing trust fund of its own and no city NOFA; its local money flows through the Western Nevada County Regional Housing Trust Fund and the regional PLHA plan administered by Nevada County HCS (see county records). Code text read from the zoneomics mirror; grassvalleyca.gov returns a JavaScript shell to scripts, so the City's meeting-host attachments were used for the APR.
+- Source: https://www.zoneomics.com/code/grass-valley-CA/chapter_3
+- Confidence: verified (researched 2026-11-08)
+
+**Grass Valley Housing Element affordable housing programs: fee deferral on request (Program 28), state and federal funding support (Program 13), tax-exempt bonds (Program 14)**
+- Agency: City of Grass Valley Community Development Department
+- Type: fee waiver
+- Typical award: Fee deferral for affordable housing is available on request, but the City reports it has received no requests. Program 13 commits the City to apply for grants and support developers seeking funding (objective 25 very low and 40 to 60 low income new units in 2019-2027); Program 14 supports tax-exempt bonds and mortgage credit certificates. The City won a $2 million DTSC Equitable Community Revitalization Grant in 2024 to clean up a brownfield site of interest to affordable developers, and expedited a Habitat for Humanity SB 9 lot split for three deed-restricted homes.
+- AMI requirement: Lower income units per the funding source; Program 28 targets units at or below 30% AMI with Nevada County and the Regional Housing Authority.
+- Cycle: rolling (next: unknown, verify with agency. The 7th cycle Housing Element is due in 2027.)
+- Layering notes: Deferral terms are not codified in a published resolution; negotiate case by case. City sites have historically attracted County-sponsored supportive housing (Brunswick Commons, 41 units) and RHA projects. The City joined the October 30, 2025 regional housing workshop with the County, Nevada City, Truckee and HCD. Source is the 2024 General Plan Annual Progress Report (March 2025) on the City's meeting host; a 2025 APR was not located this pass.
+- Source: https://mccmeetingspublic.blob.core.usgovcloudapi.net/grassvalca-meet-5c5ce93ed0824b79a101ec1314e65ee9/ITEM-Attachment-001-a14d952e40f44151a2a312e8d4e022e5.pdf
+- Confidence: verified (researched 2026-11-08)
+
+
 ### City of Hayward
 
 **HOME Investment Partnerships funds through the Alameda County HOME Consortium and CDBG entitlement (Cooperation Agreement FY 2027-2029)**
@@ -5581,6 +5604,39 @@ Generated 2026-11-08, 781 total records
 - Layering notes: Fee relief is modest relative to the impact fee and TOT loans but is routinely combined with them. Napa Valley Unified School District and Napa Sanitation District fees are outside the City's control. Waived or reduced fees can count as public funds under Labor Code 1720(b)(4), so confirm with counsel. The Prohousing matrix (source_url) and the Housing Element were opened; the 50% figure comes from news coverage and is marked needs_confirmation.
 - Source: https://www.cityofnapa.org/DocumentCenter/View/12551/Final-Prohousing-Designation-Matrix-PDF
 - Confidence: needs_confirmation (researched 2026-11-08)
+
+
+### City of Nevada City
+
+**Nevada City density bonus and affordable housing incentives (Housing Element Program 24; Zoning Code update pending)**
+- Agency: City of Nevada City Planning Department
+- Type: density bonus
+- Typical award: Incentive, not a subsidy. The City grants density bonuses and incentives per state law; Cashin's Field (51 units, opened 2023) used an 80% density bonus and reduced parking. The 2025 Annual Progress Report says the City will update its density bonus regulations in 2026 to match current state law. Nevada City has not raised development impact fees since 1993 and is considering a fee study in 2026.
+- AMI requirement: Per Government Code 65915.
+- Cycle: rolling (next: Not applicable; 7th cycle Housing Element (2027-2035) update underway with workshops July 30 and September 10, 2026.)
+- Layering notes: Nevada City has no city housing trust fund, no city NOFA and no city-run CDBG or HOME program; the 2025 APR states the City's limited resources preclude its own rehabilitation program. Local gap money comes through the Western Nevada County Regional Housing Trust Fund and regional PLHA (the City allocated PLHA to Cashin's Field). Zoning code density bonus chapter not found on the zoneomics mirror; source is the City's 2025 Housing Element APR.
+- Source: https://nevadacityca.gov/DocumentCenter/View/2515/2025-Housing-Element-Annual-Progress-Report?bidId=
+- Confidence: verified (researched 2026-11-08)
+
+**Nevada City fee waiver for deed-restricted low income ADUs and reduced ADU impact fees (Municipal Code 17.72.026)**
+- Agency: City of Nevada City Planning Department
+- Type: fee waiver
+- Typical award: Waiver of mitigation fees and utility hook-up fees for deed-restricted low income accessory dwelling units; reduced AB 1600 impact fees for all ADUs and none for ADUs under 750 square feet. Pre-approved ADU plans available. Objective of 8 affordable second units in the cycle.
+- AMI requirement: Low income deed restriction on the ADU.
+- Cycle: rolling (next: Not applicable.)
+- Layering notes: Small-scale tool only; no equivalent waiver is codified for multifamily. Recorded so the market's lack of multifamily fee relief is visible.
+- Source: https://nevadacityca.gov/DocumentCenter/View/2515/2025-Housing-Element-Annual-Progress-Report?bidId=
+- Confidence: verified (researched 2026-11-08)
+
+**Nevada City subdivision affordability requirement (30% of homes 1,500 square feet or smaller; Section 17.80.220 lower income share)**
+- Agency: City of Nevada City Planning Department
+- Type: other
+- Typical award: Requirement, not a subsidy. Since 2009 new subdivisions must make 30% of homes 1,500 square feet or smaller and affordable to moderate and lower income households, via deed restriction or an affordable housing plan approved by the Planning Commission or Council (size limits, rental units, second units). The APR cites Section 17.80.220 as requiring 20% lower income units in developments. 34 lots approved to date under the affordability-by-design rule.
+- AMI requirement: Moderate and below income through deed restriction or approved affordable housing plan.
+- Cycle: rolling (next: Not applicable.)
+- Layering notes: Functions as a light inclusionary rule without an in-lieu fee or fund. Section 17.80.220 text was not opened this pass (not on the zoneomics mirror), so confirm the 20% lower income requirement and its thresholds with the City before relying on it.
+- Source: https://nevadacityca.gov/DocumentCenter/View/2515/2025-Housing-Element-Annual-Progress-Report?bidId=
+- Confidence: verified (researched 2026-11-08)
 
 
 ### City of Novato
@@ -8187,6 +8243,69 @@ Generated 2026-11-08, 781 total records
 - Layering notes: Useful negative information: Woodland's post-RDA housing money is the inclusionary Fund 1327, not a successor fund. Any LMIHAF loan repayments or land sale proceeds would be an additional city-controlled layer with extremely low income targeting. The posted SB 341 report (DocumentCenter 9562) is a scanned PDF with no text layer and could not be read by script; the Housing page listing it was opened.
 - Source: https://www.cityofwoodland.gov/261/Housing
 - Confidence: needs_confirmation (researched 2026-11-08)
+
+
+### Town of Truckee
+
+**Truckee Deed-Restricted Housing Incentives (Development Code Chapter 18.213, Ordinance 2026-06) and Density Bonus (Chapter 18.212)**
+- Agency: Town of Truckee Community Development Department, Planning Division
+- Type: density bonus
+- Typical award: Non-monetary incentives, not a subsidy. Ordinance 2026-06, adopted April 28, 2026 and effective about May 28, 2026, implements 2040 General Plan Action LU-2.B: a Town-specific workforce and affordable housing bonus with streamlined review and flexible design standards for projects with deed-restricted units, with income criteria set by Council resolution. Chapter 18.212 separately implements state density bonus law, including a Development Bonus for Partnered Commercial Projects (18.212.160).
+- AMI requirement: Deed-restricted units meeting the Council-adopted income criteria (workforce levels up to 180% AMI under the companion Homegrown program); state density bonus thresholds for Chapter 18.212.
+- Cycle: rolling (next: In effect; requested with the Planning application.)
+- Layering notes: Choose one path: projects using State Density Bonus Law cannot take Homegrown payments, while projects using Chapter 18.213 can also draw Homegrown payments, even for their inclusionary units. Draft 7th cycle Program H-3.D adds fee deferrals, land write-downs and incentives beyond state density bonus for acutely and extremely low income, senior and disability housing. The Housing Development Incentives page text says the ordinance was introduced April 7, 2026 with second reading April 28; the Council work plan page reports adoption on April 28, 2026.
+- Source: https://www.townoftruckee.gov/677/Housing-Development-Incentives
+- Confidence: verified (researched 2026-11-08)
+
+**Truckee Homegrown Housing Program, Monetary Incentives (formerly Deed Restriction for New Housing Development)**
+- Agency: Town of Truckee Housing Division; program operator Sierra Business Council (info@sierrabusiness.org, 530-582-4800)
+- Type: grant
+- Typical award: Per-unit payment for a 55-year deed restriction on newly built units, paid at certificate of occupancy after recording: studio $100,000, one bedroom $150,000, two bedroom $225,000 for units restricted to 180% AMI; studio $116,000, one bedroom $174,000, two bedroom $261,000 for units restricted to 120% AMI. Guidelines approved June 23, 2026. Town Council has committed $3,600,000 to deed restriction payments, after moving site-acquisition funds into the program in September 2025.
+- AMI requirement: Occupants must work within the Tahoe Truckee Unified School District boundary; household income at or below 180% AMI (rent or price capped at 120% AMI affordability) or at or below 120% AMI (capped at 80% AMI affordability); 55-year non-renewing restriction; no short-term rental; one dedicated parking space per unit.
+- Cycle: rolling (first come, subject to available funds) (next: Open; apply after a complete Planning application. Milestones: building permit application within 9 months of entitlement, permit issued within 18 months, first inspection within 24 months, certificate of occupancy within 30 months, or the award is cancelled.)
+- Layering notes: Designed for missing-middle workforce units, not tax credit deals: projects entitled under State Density Bonus Law are ineligible, and funds cannot be combined with other assistance that imposes an equivalent 55-year income and workforce restriction. Eligible only in VMT Exemption Areas. Payment at C of O means it works as permanent-loan paydown or equity replacement, not construction financing. A January 27, 2026 BAE valuation analysis informed the revised amounts. Town funds count as public funds under Labor Code 1720.
+- Source: https://www.townoftruckee.gov/DocumentCenter/View/2190
+- Confidence: verified (researched 2026-11-08)
+
+**Truckee Inclusionary Housing (Development Code Chapter 18.214) and Affordable Housing In-Lieu Fee (Section 18.210.100; Resolution 2024-65) with dedicated in-lieu fee account**
+- Agency: Town of Truckee Community Development Department and Department of Neighborhood Services and Sustainability (Housing)
+- Type: other
+- Typical award: Requirement, not a subsidy. 15% of all new units in residential projects (and subdivisions of seven or more lots) must be affordable, built no later than the market-rate units; density bonus units are excluded from the base. Alternatives: off-site units in the Truckee region, land dedication, purchase of inclusionary credits, or deed-restricting existing units. In-lieu fee by Council resolution with annual update: $136,851 per required affordable unit under Resolution 2024-65 (up from $115,517 under Resolution 2023-63); projects of six or fewer units or lots pay a scaled fee (Exhibit A1) at the developer's option. Larger projects may pay in lieu only if the review authority finds it furthers affordable housing equally or better. Fees go to a separate interest-bearing account and must be used for Town affordable housing programs that create housing in the Truckee region, not studies (Resolution 2024-65 Exhibit A).
+- AMI requirement: Ownership inclusionary units: 100% moderate income, or one-third each low, moderate and above moderate. Rental units: 100% low income, or one-third each very low, low and moderate. Affordability controls under Chapter 18.210 with locals preference; in perpetuity per the Town's Housing Resources page.
+- Cycle: rolling (next: Fee is reset annually by resolution; a November 2025 staff report reportedly recommended not adopting an update, so confirm the fee in effect for 2026 with the Town before underwriting.)
+- Layering notes: Inclusionary units can receive Homegrown Housing payments only where the project qualifies for the new Chapter 18.213 non-monetary incentives; otherwise required units are ineligible. In-lieu fee revenue supports Town housing programs (Homegrown Housing, THAP, Lease to Locals and similar) rather than a traditional tax credit gap loan NOFA; no Town multifamily NOFA was found. Separate from the Western Nevada County Regional Housing Trust Fund, which Truckee does not belong to (members are the County, Grass Valley and Nevada City). Code text from the October 12, 2023 Article VII PDF on the Town site.
+- Source: https://mccmeetingspublic.blob.core.usgovcloudapi.net/truckeeca-meet-8a5450e393694eab8a209bf8d13ee33e/ITEM-Attachment-001-5ec3253d417e438eb7c314a7b15a17aa.pdf
+- Confidence: verified (researched 2026-11-08)
+
+**Truckee Town-owned land public-private partnerships (Edmunds Lofts) and Railyard Master Plan affordable housing obligations**
+- Agency: Town of Truckee Planning Division and Town Manager
+- Type: other
+- Typical award: Edmunds Lofts: Town-owned 0.5-acre site (APN 018-580-052, dedicated by High Altitude Fitness) to be conveyed to Paradigm8 / Sagemodern under a Development and Disposition Agreement for 12 deed-restricted workforce units; entitlements granted in 2025 and building permits under review (75% complete at December 31, 2025). Railyard: Council work plan item 6.3 will move inclusionary and workforce housing obligations from the Railyard Development Agreement into the Railyard Master Plan (late 2026 to early 2027); the Town made a significant financial contribution to the earlier 66-unit Truckee Artist Lofts in the Railyard. Draft 7th cycle Program H-2.H directs annual review of all Town-owned and partner-agency land (TTUSD, Caltrans, Tahoe Forest Hospital, Truckee Donner PUD) for housing.
+- AMI requirement: Deed-restricted workforce units per the DDA; Railyard units per the Development Agreement.
+- Cycle: closed/inactive (no open solicitation; RFIQ issued October 16, 2024) (next: No open RFIQ as of 2026-11-08. Council removed the pilot to find another site from the 2025-2027 work plan on September 9, 2025. Watch the Railyard Master Plan amendment (late 2026 to early 2027).)
+- Layering notes: Land write-downs of public land are public subsidy for prevailing wage purposes and trigger Surplus Land Act review. Coldstream Commons (48 units at 60% AMI, nine HUD 811 units) is an existing affordable project in the Coldstream Specific Plan area; no new Coldstream affordable commitment was found this pass. Prohousing Designation status for Truckee was not confirmed.
+- Source: https://townoftruckee.gov/303/Housing-Our-Workforce
+- Confidence: verified (researched 2026-11-08)
+
+**Truckee Workforce Housing Ordinance for non-residential development (Development Code Chapter 18.216)**
+- Agency: Town of Truckee Community Development Department
+- Type: other
+- Typical award: Requirement, not a subsidy (commercial linkage). Commercial, industrial, institutional, recreational, residential resort and other non-residential projects must build workforce housing for a share of the full-time equivalent employees they generate (Table 7-7; commercial projects of 3,500 square feet or less and industrial of 7,000 square feet or less, or under 7 FTEE, are exempt). Fractions and approved cases may pay the same in-lieu fee ($136,851 per required unit under Resolution 2024-65) or use alternative equivalent actions such as land dedication.
+- AMI requirement: Workforce units restricted under Chapter 18.210 affordability controls; occupancy by employees in the Truckee region.
+- Cycle: rolling (next: Not applicable. Draft 7th cycle Program H-2.E calls for reviewing the ordinance and an affordable housing credit bank by December 2029.)
+- Layering notes: Creates partnering opportunities: commercial developers needing workforce units can buy inclusionary credits from, or dedicate land to, affordable projects. The Edmunds Lofts site came to the Town through a land dedication by High Altitude Fitness under this ordinance. No county equivalent exists.
+- Source: https://www.townoftruckee.gov/DocumentCenter/View/1196
+- Confidence: verified (researched 2026-11-08)
+
+**Truckee existing-stock deed restriction programs: Truckee Home Access Program (THAP), Lease to Locals, Rooted Renters and Short-Term Rental Workforce Housing Token pilot**
+- Agency: Town of Truckee Housing Division
+- Type: grant
+- Typical award: THAP pays buyers up to $150,000 (maximum $937,500 purchase price), sellers and local businesses for permanent workforce deed restrictions on homes (cap 245% AMI). Lease to Locals pays owners up to $18,000 to convert homes to long-term local rentals; Rooted Renters pays up to $26,000 to lock in below-market rents. The STR Token pilot gives short-term rental certificates in exchange for 15-year workforce deed restrictions (150% AMI average per adult; applications closed June 20, 2024). Results to date: 871 deed-restricted units (6.2% of stock), 33 THAP homes, 276 Lease to Locals conversions, 76 Rooted Renters units, 37 ADUs created through grants and loans.
+- AMI requirement: Occupants must work locally; income caps vary by program (THAP 245% AMI; Token 150% AMI per adult).
+- Cycle: rolling (next: Open; THAP parameters under review with revisions targeted for Q4 2026.)
+- Layering notes: Not a source for new affordable multifamily, but signals the Town's local revenue priorities: its housing dollars go mainly to deed restrictions of existing stock and middle-income production. The Town's goal is 10% of housing stock deed restricted by 2032. The Council work plan lists a potential housing revenue measure and draft Program H-2.F targets at least $300,000 per year of added local funding (additional TOT, business, sales or transfer tax). Mountain Housing Council of Tahoe Truckee (Tahoe Truckee Community Foundation) is the regional partner for AMI tiers above 120%.
+- Source: https://www.townoftruckee.gov/225/Housing
+- Confidence: verified (researched 2026-11-08)
 
 
 ## Private & Philanthropic Sources
