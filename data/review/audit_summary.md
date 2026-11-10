@@ -176,6 +176,24 @@ Follow-ups from this pass:
 - Sonoma LMIHAF record says the fund is not offered for development, but the FY 2024-25 report shows $3.84 million of development spending.
 - Placer Launchpad NOFA LP-002 link returns 404.
 
+## Possible new records follow-up (November 9, 2026, evening)
+
+Of seven candidates, three were already in the database: Riverside County Revolving Loan Fund (4ed0b28b41), Clovis fee deferral (8bc997e0a1), and Yolo Section 18, which sits inside the Yolo County Housing partnerships record (f708a2e83d).
+
+- **Added:**
+  - Anaheim Inclusionary Housing Ordinance, Chapter 17.40, with the Resolution 2024-126 in-lieu fee of $10.00 per leasable square foot. Prevailing wage false.
+  - Placer County BHSA Integrated Plan FY 2026-29. Housing Interventions total $25.8M over three years, with $6.0M of capital committed to Carriage Court Studios. Prevailing wage unclear.
+- **Confirmed:** San Joaquin HHAP-6 (247db77da2). The "October 27 NOFA" is the October 19 NOFA re-saved under a new file name; the deadline of November 20, 2026 is unchanged.
+- **Corrected:** Marin 83146f5922. The County's only adopted development fee waiver is for ADUs and JADUs (Board letter of March 11, 2025, through December 31, 2026). The record was renamed by hand to match, and the multifamily negative finding is kept in layering_notes.
+
+Database: 854 records, 765 verified, 89 needs_confirmation. Backup before the merge: `data/backups/programs_before_newrecords_20261109.json`.
+
+Follow-ups:
+
+- **Anaheim:** confirm that the $10 per square foot in-lieu fee has not been updated since 2024.
+- **Placer:** find the Board agenda item for the plan certification signed June 25, 2026.
+- **Marin:** the official text of the ADU resolution and of the Chapter 22.22 fee reduction was not read.
+
 ## Files
 
 - Change logs: `data/review/audit_changes_*.csv` (one per tier).

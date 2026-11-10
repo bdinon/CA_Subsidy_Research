@@ -1,0 +1,37 @@
+[
+ {
+  "level": "county",
+  "jurisdiction": "Placer County",
+  "date_researched": "2026-11-09",
+  "research_pass": "2_county",
+  "county_tag": "Placer",
+  "confidence": "verified",
+  "program_name": "Behavioral Health Services Act (BHSA) Integrated Plan FY 2026-29: housing interventions, rental and operating subsidies and capital development (Carriage Court Studios)",
+  "administering_agency": "Placer County Health and Human Services, Behavioral Health (Adult System of Care; Amy Ellis, Director of Behavioral Health; Primary Housing Interventions Contact Jamie Gallagher, 530-889-7283); 11434 B Avenue, Auburn",
+  "funding_type": "grant",
+  "typical_award_size": "Housing Interventions is 30 percent of the BHSA base allocation (no exemption or transfer): $6,810,046 (FY 2026-27), $7,745,005 (FY 2027-28) and $8,270,067 (FY 2028-29), plus $1,000,000 a year of unspent MHSA carryover, for $7,810,046, $8,745,005 and $9,270,067 ($25,825,118 over three years). Total BHSA allocations are $22,700,154, $25,816,683 and $27,566,891. Planned BHSA and MHSA housing spending by year: capital development $1,952,000, $1,750,000 and $2,317,000 ($6,019,000 total; 25%, 20% and 25% of the component); permanent-setting rental subsidies $949,000, $1,110,218 and $1,383,768; permanent-setting operating subsidies $1,603,378, $1,770,912 and $1,185,232; interim rental subsidies $144,473 to $156,473; interim operating subsidies $2,357,780, $2,569,541 and $2,817,758; outreach and engagement $546,703 to $648,705 (7%); landlord outreach and mitigation $0, $354,000 and $300,000; participant assistance $50,000 to $200,000; housing navigation and tenancy sustaining $50,000 to $75,000; admin $156,200 to $185,413. Half of the component is dedicated to the chronically homeless. The one named capital project is Carriage Court Studios (Homekey): 55 total units, 10 funded with Housing Interventions, capacity 54, expected cost per unit $284,855, units available April 1, 2027. Plan targets 285 people a year on rental subsidies (367 units) and 463 people on operating subsidies (280 units).",
+  "per_unit_cap": "BHSA Housing Interventions capital may not exceed $450,000 per unit (DHCS policy manual C.10.1); Carriage Court Studios lists an expected cost per unit of $284,855. Capital is capped at 25 percent of the Housing Interventions component.",
+  "affordability_requirement": "BHSA eligible adults and families with serious mental illness or substance use disorder who are homeless or at risk of homelessness, prioritized through the CA-515 Coordinated Entry System; at least 50 percent of component funds for chronically homeless people. BHSA is payer of last resort and cannot pay for housing services covered by Medi-Cal managed care plans.",
+  "eligible_project_types": [
+   "supportive housing",
+   "interim housing",
+   "rental assistance",
+   "services/operations"
+  ],
+  "eligible_project_detail": [
+   "capital development for permanent supportive housing (one project: Carriage Court Studios, Homekey)",
+   "project-based and tenant-based rental subsidies in permanent and interim settings",
+   "operating subsidies for PSH, adult residential facilities, transitional housing and peer respite",
+   "landlord outreach and mitigation funds",
+   "participant assistance, housing navigation, tenancy sustaining services and outreach"
+  ],
+  "application_cycle": "rolling",
+  "cycle_notes": "Three-year BHSA Integrated Plan, FY 2026-27 through FY 2028-29, with annual updates. Draft released March 31, 2026; comment period closed April 30, 2026; Behavioral Health Advisory Board public hearing April 27, 2026. Behavioral Health Director certification signed June 19, 2026; Board of Supervisors certification signed by Chair Shanti Landon dated June 25, 2026 (the Board meeting agenda item itself was not located). No NOFA or competitive round.",
+  "next_deadline": "No NOFA. Capital in this plan period is committed to one project (Carriage Court Studios). Developers or operators of PSH serving BHSA clients should contact Placer County Behavioral Health housing staff (Jamie Gallagher, 530-889-7283) about rental or operating subsidies; new capital projects would need to be added in an annual update.",
+  "prevailing_wage_trigger": "unclear",
+  "prevailing_wage_basis": "Capital development is funded ($6,019,000 over three years, Carriage Court Studios), so BHSA capital is public funds under Labor Code 1720(b)(1) (https://california.public.law/codes/labor_code_section_1720); whether a project is covered depends on 1720(c) exemptions, for example 1720(c)(5)(E) for below-market interest rate loans on projects with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Neither the Placer County 2026-2029 BHSA Integrated Plan Capital Development Projects section (https://www.placer.ca.gov/DocumentCenter/View/114232/Placer-County-2026-2029-Integrated-Plan_Final-PDF) nor the DHCS BHSA County Policy Manual capital development section C.10 (https://policy-manual.mes.dhcs.ca.gov/behavioral-health-services-act-county-policy-manual/V1.0.0/7-bhsa-components-and-requirements) states a prevailing wage rule. Rental and operating subsidies are not construction under 1720(a)(1).",
+  "layering_notes": "Classified grant: the plan funds housing capital (Carriage Court Studios) and rental and operating subsidies for housing. Placer County Behavioral Health has run its own housing team for about 20 years and braids BHSA with Homekey (Sun Rose Apartments, Carriage Court Studios, Brown Bear Studios), BHCIP, BHBH, HHAP, CDBG, County general fund, ARPA, opioid settlement funds, IGT revenue, Transitional Rent and Housing Trio Community Supports, HUD CoC and HCV/VASH vouchers. BHSA operating subsidies support CoC-funded PSH sites such as Timberline and Placer Street. Partners are AMI Housing (AMIH) and The Gathering Inn. The plan expects a 40 percent cut in HUD PSH renewals and BHSA to backfill about 100 households. For a developer, BHSA here is mostly an operating or rental subsidy source for PSH units serving BHSA clients, not open gap capital; the County Executive Office Economic Development and Housing Division runs the in-lieu fee gap loans and PLHA, and the Placer County Housing Authority (HHS) supplies project-based vouchers. Capital share (20 to 25 percent of the component) is higher than Nevada (0) and similar to Fresno.",
+  "source_url": "https://www.placer.ca.gov/DocumentCenter/View/114232/Placer-County-2026-2029-Integrated-Plan_Final-PDF",
+  "audit_note": "placer.ca.gov returns 403 to automated fetch on 2026-11-09. The same CivicPlus document (DocumentCenter View 114232, 204 pages, titled BHSA Integrated Plan - Final 2026-2029) and the County BHSA page (placer.ca.gov/2179) were read through the placerair.org host, which serves the identical Placer County CivicPlus site. Budget figures are from the plan's attached budget template (Revised_Integrated-Plan-Budget-Template_v3_06032026). Board meeting date not confirmed: Placer Legistar (placerca) has only test items before July 2026 and the AgendaCenter does not list Board of Supervisors agendas; the plan's Board certification is dated June 25, 2026."
+ }
+]

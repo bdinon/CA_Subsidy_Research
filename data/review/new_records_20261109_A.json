@@ -1,0 +1,34 @@
+[
+ {
+  "program_name": "Inclusionary Housing Ordinance (Anaheim Municipal Code Chapter 17.40, Ord. 6593, October 29, 2024) and In-Lieu Fee Schedule (Resolution No. 2024-126)",
+  "administering_agency": "City of Anaheim Housing and Community Development Department (Affordable Housing Development Division), with the Planning and Building Department, Planning Services Division",
+  "level": "city",
+  "jurisdiction": "City of Anaheim",
+  "county_tag": "Orange",
+  "funding_type": "regulatory requirement",
+  "typical_award_size": "Requirement, not a subsidy. Rental residential or mixed-use projects of 35 or more units must provide at least 10% of units onsite as affordable rentals: at least 7% at or below low income (80% AMI) and at least 3% at or below very low income (50% AMI) (Sec. 17.40.050.0201). Alternatives (Sec. 17.40.060): in-lieu fee, offsite construction (only if the Director finds onsite production economically infeasible; within Anaheim, reasonably close, built before or with the market-rate project), or land dedication in Anaheim zoned for the required units with value comparable to the in-lieu fee. In-lieu fee per Resolution No. 2024-126 (adopted November 19, 2024, effective 60 days after adoption): $10.00 per square foot of total habitable/leasable space in the entire project. City example: 240 units x 875 sq ft = 210,000 sq ft x $10.00 = $2,100,000, or $87,500 per required inclusionary unit (24 units). Fractional units: round up, or pay a fractional fee of $20 to $100 per square foot of one unit (0.2 to 1.0 of a unit; example 0.7 of a unit x 875 sq ft at $70.00 = $61,250). Fees are paid before the first building permit (pro rata by phase allowed) and deposited in the Anaheim Local Housing Trust Fund.",
+  "per_unit_cap": "Not applicable.",
+  "affordability_requirement": "10% of units in rental projects of 35 or more units: at least 7% at or below 80% AMI (low income) and at least 3% at or below 50% AMI (very low income), Orange County AMI per HCD; affordable rent is 30% of the applicable AMI percentage adjusted for household size (H&SC 50052.5) minus mandatory tenant-paid housing costs. Covenant of at least 55 years for rental units; after 55 years the covenant may be removed only if the property is redeveloped to a non-residential use. Affordable units must be built concurrently with or before market-rate units, match market-rate unit size (up to 15% smaller with approval), with proportional bedroom mix, comparable finishes and amenity access, dispersed, and no separate entrances. Ownership projects are exempt, so there are no for-sale set-asides.",
+  "eligible_project_types": [
+   "mixed-income",
+   "market-rate (compliance)"
+  ],
+  "eligible_project_detail": [
+   "rental residential or mixed-use projects of 35 or more units (compliance)",
+   "onsite affordable rental units in mixed-income projects",
+   "offsite affordable units or land dedication as alternative compliance",
+   "exempt: projects under 35 units, ownership projects of any size, condo conversions, disaster reconstruction, additions and remodels, and projects under development agreements (pre-ordinance, or later ones with comparable affordable housing obligations)"
+  ],
+  "application_cycle": "rolling",
+  "cycle_notes": "Applies to residential or mixed-use projects of 35 or more units whose planning application (or building permit application for by-right projects) was formally submitted on or after October 8, 2024, the date of first reading. Ord. 6593 was adopted October 29, 2024 and took effect 30 days after final passage. The in-lieu fee resolution was adopted November 19, 2024 and took effect 60 days later. A draft inclusionary housing plan and agreement are submitted with the planning application; the agreement is recorded before any final or parcel map or building permit, and is not required where the obligation is met by in-lieu fee (the plan and agreement section also does not apply to land dedication). The fee schedule is to be adjusted periodically by Council resolution; no update after Resolution 2024-126 was found.",
+  "next_deadline": "Applies at project application; no deadline. In-lieu fees are due before issuance of the first building permit.",
+  "prevailing_wage_trigger": "false",
+  "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, successor agency or housing authority. This requirement is imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Spending of in-lieu fee revenue is a separate public funds question.",
+  "layering_notes": "Rental only: Anaheim exempts ownership projects of every size, unlike the Santa Ana (587c1bf887) and Huntington Beach (adbbe8ef1b) ordinances in this database, which also reach for-sale housing. The $10 per square foot fee (about $87,500 per required unit in the City example) is the main alternative most market-rate developers will price against onsite units. Under Sec. 17.40.090, units provided for a state density bonus (Chapter 18.52, record 2db1a1727f) count toward this requirement if they also meet Chapter 17.40 standards, so a project with 10% low and very low units can satisfy both. Projects under a development agreement with comparable affordable obligations are exempt, which matters in the Platinum Triangle and other DA areas. In-lieu fees go to the Anaheim Local Housing Trust Fund (record ec67d2dea0), which redeploys them as gap loans through the Build More Homes Initiative; this is the City's own fund, not a County of Orange program, and no County inclusionary requirement applies inside Anaheim. Ord. 6593 recitals note it replaced a voluntary Housing Ambassador approach that had raised $561,000. Ordinance and fee resolution read in the City Clerk Laserfiche portal (records.anaheim.net); code text cross-checked on the gocodebook mirror because amlegal returns 403.",
+  "source_url": "https://www.anaheim.gov/5190/Affordable-Housing",
+  "date_researched": "2026-11-09",
+  "confidence": "verified",
+  "research_pass": "3_city",
+  "audit_note": "Sources read November 9, 2026: City Affordable Housing page (anaheim.gov/5190), Ordinance 6593 (records.anaheim.net DocView id 5538865), Resolution 2024-126 with Exhibit A fee methodology (records.anaheim.net DocView id 5575892), and the Chapter 17.40 code text on gocodebook. No in-lieu fee update after 2024 was found; confirm the current rate with Housing and Community Development before underwriting."
+ }
+]
