@@ -245,6 +245,17 @@ Follow-ups:
 - **Anaheim gap financing (853d7e7f96):** retry with the anaheim.net browser-header method in the site access notes.
 - **Elk Grove (8fd8dede09):** the outcome of the September 23, 2026 fee hearing is still unconfirmed.
 
+### Follow-ups resolved (November 10, 2026)
+
+All six applied through `scripts/apply_audit.py` (patch `FU_city_spotcheck_20261110.jsonl`, change log `audit_changes_20261110_005035.csv`): 5 corrected, 1 confirmed, 0 rejected. Database now 761 verified, 93 needs_confirmation.
+
+- **San Diego IB 538 (0efcc39e93):** IB 538 Section IV.B waives expedite fees for 100 percent affordable projects. The November 9 note saying all fees are paid was wrong. Prevailing wage changed from false to unclear, citing 1720(b)(4) with the 1720(c)(3) de minimis test.
+- **Chula Vista (183596192c):** CTCAC staff report CA-25-798 names CMFA as issuer for Otay Ranch II (270 units, $31.22M bond allocation, Dec 10, 2025). Removed it as an Authority example, and the layering note now says JPA issuance still occurs.
+- **Nevada City (f36356c385):** the APR treats the 30 percent / 1,500 square foot rule as Housing Element Program 5 and separately cites 17.80.220 as requiring 20 percent lower income units. The record now states both. Code text is still not available (zoneomics has no section text, gocodebook 403).
+- **Napa (d09a3c4ecd):** source moved to official ecode360 (17.52.130 at ecode360.com/43397951; Napa's code is client NA4976). Terms confirmed.
+- **Anaheim (853d7e7f96):** the A-LHTF Guidelines PDF opens at anaheim.net/DocumentCenter/View/66427 with a Chrome user agent and confirms the HOME, PLHA, $4.6M and $6M figures. Restored to verified. Miraflores and Center of Hope details are flagged in layering_notes as not reopened.
+- **Elk Grove (8fd8dede09):** Resolution 2026-202 (Sept 23, 2026) adopted the staff-recommended per square foot fees, and Ordinance 09-2026 passed its second reading Oct 14, 2026. Effective Jan 1, 2027: $3.59 single-unit, $3.29 owner multi-unit, $1.46 rental multi-unit, $2.29 office, $2.15 retail, $0.39 industrial, $1,146.75 per hotel room. Fund uses now include moderate income, and the ordinance adds a local preference authority (16.88.080). Council attachment PDFs open at elkgrove.gov/.../council-meetings/attachments/2026/MM-DD-YY-N-N.pdf even though HTML pages 403.
+
 ## Files
 
 - Change logs: `data/review/audit_changes_*.csv` (one per tier).

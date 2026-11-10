@@ -8023,8 +8023,8 @@
       "acquisition and preservation (Preservation Program)",
       "City-owned land"
     ],
-    "next_deadline_date": "2026-11-09",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "prevailing_wage_basis": "City Project Approval and Commitment summaries in the May 11, 2026 Council packet state both NOFA projects must pay state prevailing wages (Labor Code 1720 et seq.; SB 35 projects also need a skilled and trained workforce), and Davis-Bacon applies where 12 or more HOME-assisted units are funded.",
     "audit_note": "Award figures and terms verified in the official May 11, 2026 City Council agenda packet (item 9.A staff report, resolution and PAC summaries; item 7.F Preservation Program). Final Council vote taken from Redwood City Pulse; May 11 minutes not located. Prior record overstated the 1580 Maple award ($5.8 million is the expected Elco Yards fee; staff recommended $5.0 million).",
     "last_audited": "2026-11-09"
@@ -13528,9 +13528,9 @@
     "program_name": "City of Elk Grove Affordable Housing Fund and Affordable Housing Impact Fee (Municipal Code Chapters 16.88 and 16.89)",
     "administering_agency": "City of Elk Grove Housing and Public Services Division (fund and RFPs); Finance Department (fee collection)",
     "funding_type": "loan",
-    "typical_award_size": "Fee-funded local gap loan fund. Current (2025) fees per the 2026 EPS nexus study: $6,396 per single or two-unit dwelling and $3,837 per multi-unit dwelling; nonresidential $1.05 commercial/retail, $3.11 hotel, $1.19 manufacturing, $1.28 warehouse and $0.00 office per square foot, indexed annually. Staff recommended (Sept 23, 2026 hearing) converting to per square foot: $3.59 single-unit, $3.29 owner-occupied multi-unit, $1.46 renter-occupied multi-unit, plus commercial $2.15 shopping center, $2.29 office, $0.39 industrial, $1,146.75 per hotel room and other categories (maximums supportable were $47.80, $43.80 and $19.50 per square foot). The City releases an RFP when the fund balance can support a project (generally about $5 million); the City reports $84 million lent to sixteen projects since inception (developer page, not opened this pass).",
+    "typical_award_size": "Fee-funded local gap loan fund. New fees adopted September 23, 2026 (Resolution 2026-202, adopting the June 30, 2026 EPS nexus study) and Ordinance 09-2026 (second reading October 14, 2026), effective January 1, 2027, replacing the 2013 per-unit fees ($6,396 per single or two-unit dwelling and $3,837 per multi-unit dwelling in 2025): residential $3.59 per square foot single-unit, $3.29 owner-occupied multi-unit and $1.46 renter-occupied multi-unit; nonresidential $2.15 shopping center, $2.29 office (was $0.00), $0.39 industrial (manufacturing and warehouse merged), $1,146.75 per hotel room, plus per-unit rates for other uses, all including the 3% administrative fee. Fees were set at roughly 7.5% of the maximum justifiable fee. The City releases an RFP when the fund balance can support a project (generally about $5 million); the City reports $84 million lent to sixteen projects since inception (developer page, not opened).",
     "per_unit_cap": "None published; set in each RFP and loan agreement.",
-    "affordability_requirement": "Fund restricted to housing for low and very low income households (HCD limits); 2026 update would also allow a local preference for City-based workers where fair housing law permits. Density bonus affordable units are exempt from the residential fee (Zoning Code 23.50.080).",
+    "affordability_requirement": "Ordinance 09-2026 expands fund uses to very low, low and moderate income households (previously very low and low) and adds EGMC 16.88.080 authorizing a local preference policy for deed-restricted rental and ownership units, consistent with fair housing law. Deed-restricted affordable housing is exempt from the residential fee.",
     "eligible_project_types": [
       "new construction",
       "acquisition-rehab",
@@ -13538,10 +13538,10 @@
       "supportive housing"
     ],
     "application_cycle": "rolling",
-    "next_deadline": "No open RFP found as of 2026-11-08; watch elkgrove.gov/affordable-housing/developers and the City's purchasing RFP page. Outcome of the September 23, 2026 fee update hearing (ordinance amending 16.88 and 16.89 and a fee resolution) was not confirmed; contact Joshua Tovar, Management Analyst II, jtovar@elkgrove.gov, or the Housing and Public Services Division, (916) 683-7111.",
+    "next_deadline": "New fee schedule effective January 1, 2027. No open RFP found as of 2026-11-10; watch elkgrove.gov/affordable-housing/developers and the City's purchasing RFP page. Contact Joshua Tovar, Management Analyst, jtovar@elkgrove.gov, or the Housing and Public Services Division, (916) 683-7111.",
     "prevailing_wage_trigger": "unclear",
-    "layering_notes": "Elk Grove is an impact-fee jurisdiction (like the City and County of Sacramento) with no inclusionary option, so market-rate rental projects pay the fee rather than build units; the 2026 renter-occupied rate was deliberately set low ($1.46 per square foot recommended) because the nexus study found multifamily infeasible at higher fees. Elk Grove is outside the SHRA lending area (SHRA finances in other cities only under cooperation agreements), so this fund, state sources and Elk Grove's own PLHA are the local layer. Past RFPs tied fund loans to City-owned sites (Sheldon Farms North and Old Town, 2023). elkgrove.gov and codepublishing.com return 403 to automated access; facts here come from the City's Sept 23, 2026 public hearing notice and the June 2026 EPS nexus study PDFs on elkgrove.gov.",
-    "source_url": "https://elkgrove.gov/sites/default/files/city-files/city-government/city-council/council-meetings/public-hearing-notices/09-23-26-affordable-housing-fee-2026-nexus-update-08-21-26-and-08-28-26.pdf",
+    "layering_notes": "Elk Grove is an impact-fee jurisdiction (like the City and County of Sacramento) with no inclusionary option, so market-rate rental projects pay the fee rather than build units; the 2026 renter-occupied rate was deliberately set low ($1.46 per square foot recommended) because the nexus study found multifamily infeasible at higher fees. Elk Grove is outside the SHRA lending area (SHRA finances in other cities only under cooperation agreements), so this fund, state sources and Elk Grove's own PLHA are the local layer. Past RFPs tied fund loans to City-owned sites (Sheldon Farms North and Old Town, 2023). elkgrove.gov HTML pages and codepublishing.com return 403 to automated access, but council attachment PDFs open; facts here come from the Sept 23, 2026 staff report (item 8.2), Ordinance 09-2026 (Oct 14, 2026 item 7.5) and the Sept 23 and Oct 14 minutes. The North State BIA supported the staff recommendation at the hearing.",
+    "source_url": "https://elkgrove.gov/sites/default/files/city-files/city-government/city-council/council-meetings/attachments/2026/09-23-26-8-2.pdf",
     "record_id": "8fd8dede09",
     "cycle_notes": "",
     "eligible_project_detail": [
@@ -13550,12 +13550,11 @@
       "preservation",
       "supportive housing"
     ],
-    "next_deadline_date": null,
-    "deadline_check": "no_date",
-    "link_status": "ok",
+    "next_deadline_date": "2027-01-01",
+    "deadline_check": "future_date",
     "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Affordable Housing Fund loans are public funds under Labor Code 1720(b)(1) (https://california.public.law/codes/labor_code_section_1720); 1720(c)(5)(E) may exempt below-market loans with 40% of units at 80% AMI for 20 years. No Elk Grove fund guideline stating prevailing wage was found.",
-    "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
-    "last_audited": "2026-11-09"
+    "audit_note": "Follow-up Nov 10, 2026: hearing outcome confirmed. Sept 23 minutes: Ordinance 09-2026 introduced 4-0 (Suen absent) and Resolution 2026-202 adopted at staff-recommended rates; Oct 14 minutes: Ordinance 09-2026 adopted on second reading. Fees effective Jan 1, 2027.",
+    "last_audited": "2026-11-10"
   },
   {
     "level": "city",
@@ -16628,8 +16627,8 @@
     "application_cycle": "rolling",
     "next_deadline": "Applies at entitlement; large project density bonus decisions are made by the City Council. The 2023-2031 Housing Element (adopted October 17, 2023, certified December 5, 2023) found 17.52.130 out of date with AB 682, AB 1551, AB 2334, AB 571 and SB 290 and committed to update it (Program H2-2.1) in the comprehensive zoning ordinance update that was underway in 2024-2025; check the current code before relying on local terms.",
     "prevailing_wage_trigger": "false",
-    "layering_notes": "Napa is one of the few California cities with a codified local bonus above the state maximum (to 100% total), which matters for small infill sites downtown and along the four General Plan corridor focus areas. AB 2334 (unlimited density and three extra stories for 100% affordable projects in Napa County, a very low vehicle travel area) applies by state law even before the local text is updated. :AH overlay sites in the Housing Element site inventory (including City owned sites under Program H2.F) carry the fee deferral and local fund incentives, which pair with the impact fee and TOT loans above. Density bonus alone does not trigger prevailing wage; City funds do. Code text read on the Zoneomics mirror (source_url for 17.52; chapter_18 for 17.36); the Housing Element PDF and 2023 APR were opened on cityofnapa.org.",
-    "source_url": "https://www.zoneomics.com/code/napa-CA/chapter_27",
+    "layering_notes": "Napa is one of the few California cities with a codified local bonus above the state maximum (to 100% total), which matters for small infill sites downtown and along the four General Plan corridor focus areas. AB 2334 (unlimited density and three extra stories for 100% affordable projects in Napa County, a very low vehicle travel area) applies by state law even before the local text is updated. :AH overlay sites in the Housing Element site inventory (including City owned sites under Program H2.F) carry the fee deferral and local fund incentives, which pair with the impact fee and TOT loans above. Density bonus alone does not trigger prevailing wage; City funds do. Code text read on the official ecode360 code (17.52.130 at ecode360.com/43397951; 17.36 at ecode360.com/43397139); the Housing Element PDF and 2023 APR were opened on cityofnapa.org.",
+    "source_url": "https://ecode360.com/43397951",
     "record_id": "d09a3c4ecd",
     "cycle_notes": "",
     "eligible_project_detail": [
@@ -16640,9 +16639,9 @@
     ],
     "next_deadline_date": "2023-12-05",
     "deadline_check": "past_date",
-    "link_status": "ok",
     "prevailing_wage_basis": "Labor Code 1720(a)(1) covers construction paid for in whole or in part out of public funds, and 1720(b)(1)-(6) lists the forms public funds take (payments, construction by the agency, below-market asset transfers, reduced or waived fees and loans, contingent loans, credits). A density bonus and overlay incentive program under Gov. Code 65915 and NMC 17.52 and 17.36 grants regulatory relief and provides none of those forms of public funds, and the law it rests on imposes no prevailing wage condition, so it does not by itself trigger prevailing wage. Any City or state funds layered on the same project are tested separately. https://california.public.law/codes/labor_code_section_1720",
-    "last_audited": "2026-11-09"
+    "last_audited": "2026-11-10",
+    "audit_note": "Follow-up Nov 10, 2026: source moved from the zoneomics mirror to the official ecode360 code. 17.52.130 (O2010-3, O2011-2) confirms the supplemental density bonus to 100%, small project definition and 30-year agreement; 17.36.040 confirms priority processing and fee deferral to occupancy for :AH sites."
   },
   {
     "level": "city",
@@ -21308,11 +21307,11 @@
     "date_researched": "2026-11-08",
     "research_pass": "3_city",
     "county_tag": "Orange",
-    "confidence": "needs_confirmation",
+    "confidence": "verified",
     "program_name": "HOME, PLHA and CDBG entitlement funds used as affordable housing gap financing (Build More Homes Initiative)",
     "administering_agency": "City of Anaheim Housing and Community Development Department (HUD Programs division) and Anaheim Housing Authority",
     "funding_type": "grant",
-    "typical_award_size": "HOME allocation FY 2024 $1,314,087.60 (down from $2,240,380 in FY 2010); PLHA about $3,000,000 a year since 2019; together about $4,600,000 a year of recurring production money, though a large share of HOME is committed to tenant-based rental assistance. City cash gap financing has averaged $6,000,000 per project on the last two developments (Finamore Place, 101 family units, completed February 2022; Miraflores, 85 PSH family units, 2024, with a 60-year ground lease, a $3,000,000 HOME loan and 8 vouchers). Center of Hope (72 PSH units, 2023) received a $2,000,000 City construction loan and 50 vouchers. Anaheim also administers CDBG, ESG and HOPWA for the region.",
+    "typical_award_size": "HOME allocation FY 2024 $1,314,087.60 (down from $2,240,380 in FY 2010 and $1,067,408 in FY 2016); PLHA about $3,000,000 a year since 2019; together about $4,600,000 a year of recurring production money. City cash gap financing has averaged $6,000,000 per project on the last two developments (Finamore Place, completed February 2022, and Miraflores Apartments). The A-LHTF Build More Homes Initiative adds $5,000,000 of the initial $16,000,000 trust fund allocation. Anaheim also administers CDBG, ESG and HOPWA for the region.",
     "per_unit_cap": "HOME: HUD maximum per-unit subsidy limits.",
     "affordability_requirement": "HOME rents and 80% AMI limits with 20% of HOME units at 50% AMI; PLHA rental production at or below 60% AMI; City deals have typically been 100% affordable family, senior or supportive housing with 55-year covenants.",
     "eligible_project_types": [
@@ -21324,8 +21323,8 @@
     "application_cycle": "rolling",
     "next_deadline": "Annual Action Plan adopted each spring; developer solicitations are issued per site (recent Housing Authority RFPs covered 212 S. Beach Blvd and State College at Lincoln). Verify the FY 2026-27 HOME and PLHA figures with the department; the City documents page lists only the FY 2022-23 Action Plan.",
     "prevailing_wage_trigger": "true",
-    "layering_notes": "Anaheim does not run a competitive NOFA; it assembles sites (Beach Boulevard corridor, former motels) and selects developers by RFP, then layers HOME, PLHA, A-LHTF and Housing Authority PBVs. The City is an HHAP direct recipient and a HOPWA grantee for Orange County, so operating subsidies for PSH can come from the same department. Stack order seen in practice: City land lease plus HOME or PLHA loan, Housing Authority PBVs, County MHSA/BHSA or OCHFT loan, 4% credits with CMFA or CSCDA bonds. Davis-Bacon on HOME projects of 12 or more assisted units; state prevailing wage on all City funds. Figures from the June 2026 A-LHTF Guidelines PDF (opened); Housing and Community Development documents page and 2026 affordable housing fact sheet opened; Action Plan PDFs and CivicAlerts pages returned 403.",
-    "source_url": "https://www.anaheim.gov/DocumentCenter/View/66427",
+    "layering_notes": "Anaheim does not run a competitive NOFA; it assembles sites (Beach Boulevard corridor, former motels) and selects developers by RFP, then layers HOME, PLHA, A-LHTF and Housing Authority PBVs. The City is an HHAP direct recipient and a HOPWA grantee for Orange County, so operating subsidies for PSH can come from the same department. Stack order seen in practice: City land lease plus HOME or PLHA loan, Housing Authority PBVs, County MHSA/BHSA or OCHFT loan, 4% credits with CMFA or CSCDA bonds. Davis-Bacon on HOME projects of 12 or more assisted units; state prevailing wage on all City funds. Figures from the A-LHTF Guidelines (amended June 9, 2026), reopened Nov 10, 2026 on anaheim.net with a Chrome user agent. Project details from Pass 3 not reopened in the audit: Miraflores (85 PSH family units, 2024, 60-year ground lease, $3,000,000 HOME loan, 8 vouchers) and Center of Hope (72 PSH units, 2023, $2,000,000 City construction loan, 50 vouchers). anaheim.net HTML pages, Action Plan PDFs and CivicAlerts return 403.",
+    "source_url": "https://www.anaheim.net/DocumentCenter/View/66427",
     "record_id": "853d7e7f96",
     "cycle_notes": "project-specific RFPs and negotiated agreements; no standing developer NOFA",
     "eligible_project_detail": [
@@ -21337,10 +21336,9 @@
     ],
     "next_deadline_date": null,
     "deadline_check": "no_date",
-    "link_status": "blocked",
-    "last_audited": "2026-11-09",
+    "last_audited": "2026-11-10",
     "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
-    "audit_note": "City spot check Nov 9, 2026: source document anaheim.gov/DocumentCenter/View/66427 returned 403 on anaheim.gov and on the anaheim.net mirror, and WebFetch also got 403. The anaheim.net Housing and Community Development, Programs and Housing Successor Agency pages that opened do not state the HOME, PLHA or per-project gap figures. Award sizes, AMI terms and solicitation timing are unconfirmed."
+    "audit_note": "Follow-up Nov 10, 2026: source PDF opened at anaheim.net/DocumentCenter/View/66427 (A-LHTF Guidelines, amended June 9, 2026) and confirms the HOME, PLHA, $4.6M and $6M average gap figures; restored to verified. Miraflores and Center of Hope specifics are from Pass 3 pages not reopened and are flagged in layering_notes."
   },
   {
     "level": "city",
@@ -24390,7 +24388,7 @@
     ],
     "application_cycle": "rolling",
     "next_deadline": "Rolling; request eligibility confirmation by email before submittal. IB 538 dated March 2023; Permit Now 3-year progress report issued March 2026.",
-    "prevailing_wage_trigger": "false",
+    "prevailing_wage_trigger": "unclear",
     "layering_notes": "Processing benefit rather than cash, but the fee waiver and timeline savings matter for TCAC readiness deadlines. Stack with the SDHC AHF NOFA, Bridge to Home and Complete Communities. Mandatory Initial Review is required for discretionary expedite projects. No comparable formal expedite program was found for Chula Vista, Oceanside or Carlsbad; Escondido offers pre-application consultation and expedited review under Housing Element Program 2.8.",
     "source_url": "https://www.sandiego.gov/development-services/forms-publications/information-bulletins/538",
     "record_id": "0efcc39e93",
@@ -24404,9 +24402,9 @@
     "next_deadline_date": null,
     "deadline_check": "no_date",
     "link_status": "ok",
-    "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds; Information Bulletin 538 provides expedited permit processing for qualifying affordable and sustainable projects and charges normal fees (it does not waive fees), so it provides none of the forms of public funds in 1720(b) and does not by itself trigger prevailing wage. https://california.public.law/codes/labor_code_section_1720",
-    "audit_note": "IB 538 read Nov 9, 2026: projects pay all applicable fees; funding_type 'fee waiver' may overstate the benefit.",
-    "last_audited": "2026-11-09"
+    "prevailing_wage_basis": "IB 538 Section IV.B states the City waives expedite program fees for 100% affordable housing projects (and for retail or commercial with 100% affordable housing on site); other eligible projects pay the expedite fee in IB-503. A waived fee is a form of public funds under Labor Code 1720(b)(4) (fees normally required that are waived or forgiven by a political subdivision), so the 100% affordable path can count toward public funding unless the subsidy is de minimis under 1720(c)(3) or another 1720(c) exemption applies. Mixed-income projects that pay the expedite fee receive processing priority only, which is not a 1720(b) form of public funds. https://www.sandiego.gov/development-services/forms-publications/information-bulletins/538 and https://california.public.law/codes/labor_code_section_1720",
+    "audit_note": "Follow-up Nov 10, 2026: IB 538 reread. The Nov 9 note that projects pay all fees was wrong; expedite fees are waived for 100% affordable projects (standard fees and deposits still apply). Prevailing wage changed from false to unclear because the waiver is a 1720(b)(4) form of public funds whose weight depends on project size (de minimis test) and other 1720(c) exemptions.",
+    "last_audited": "2026-11-10"
   },
   {
     "level": "city",
@@ -24605,7 +24603,7 @@
     "program_name": "Chula Vista Housing Authority tax-exempt multifamily housing revenue bonds (conduit issuer; 2024 bond policies)",
     "administering_agency": "Chula Vista Housing Authority (City Council acting as Authority), staffed by the Housing and Homeless Services Department",
     "funding_type": "bond",
-    "typical_award_size": "Conduit private activity bonds sized to project debt. Enclave Montecito / Sol Vista (96 units, Otay Ranch Village 2): inducement up to $25 million (HA Resolution 2025-006, August 5, 2025), TEFRA hearing and bond issuance approval April 21, 2026 with an issuance amount not to exceed $14,000,000; TEFRA for the Otay Ranch II project May 19, 2026. Resolution 2024-103 (May 21, 2024) updated the Authority's conduit bond policies so the City is the issuer in most instances rather than JPAs; Master Fee Schedule Chapter 19 sets Housing Authority application, issuance and monitoring fees.",
+    "typical_award_size": "Conduit private activity bonds sized to project debt. Enclave Montecito / Sol Vista (96 units, Otay Ranch Village 2): inducement up to $25 million (HA Resolution 2025-006, August 5, 2025), TEFRA hearing and bond issuance approval April 21, 2026 with an issuance amount not to exceed $14,000,000. Resolution 2024-103 (May 21, 2024) updated the Authority's conduit bond policies so the City is the issuer in most instances rather than JPAs; Master Fee Schedule Chapter 19 sets Housing Authority application, issuance and monitoring fees. Not every Chula Vista deal uses the Authority: Otay Ranch II (270 units, Rock Mountain Road and SR 125) received a $31,220,000 bond allocation on December 10, 2025 with the California Municipal Finance Authority as issuer, and the City's May 19, 2026 TEFRA approval for that project was for the CMFA issuance.",
     "per_unit_cap": null,
     "affordability_requirement": "Federal 20 percent at 50 percent AMI or 40 percent at 60 percent AMI minimum; City regulatory agreements typically mirror the inclusionary and Low-Mod covenants (55 years).",
     "eligible_project_types": [
@@ -24616,7 +24614,7 @@
     "application_cycle": "rolling",
     "next_deadline": "Rolling; inducement needed before CDLAC application rounds. Contact the Housing and Homeless Services Department for the bond policy and fee schedule.",
     "prevailing_wage_trigger": "false",
-    "layering_notes": "Replaces CMFA or CSCDA issuance for most Chula Vista deals, which keeps issuer fees local; the County TEFRA practice (county record) is not needed when the City issues. Pairs with 4 percent LIHTC, City Low-Mod and LHTF loans and parkland fee waivers (separate records). Read on the City's eSCRIBE agenda portal; bond policy PDF not downloadable (403).",
+    "layering_notes": "The 2024 policy makes the Housing Authority the default issuer, which keeps issuer fees local, but JPA issuance (CMFA for Otay Ranch II) still occurs; when a JPA issues, the City acts only as TEFRA host. Pairs with 4 percent LIHTC, City Low-Mod and LHTF loans and parkland fee waivers (separate records). Read on the City's eSCRIBE agenda portal; bond policy PDF not downloadable (403). Otay Ranch II issuer confirmed in the CTCAC/CDLAC staff report CA-25-798.",
     "source_url": "https://pub-chulavista.escribemeetings.com/Meeting.aspx?Id=ca35a0b7-10ab-4b86-9229-4b7694290704&Agenda=Agenda&lang=English",
     "record_id": "183596192c",
     "cycle_notes": "",
@@ -24629,7 +24627,8 @@
     "deadline_check": "no_date",
     "link_status": "ok",
     "prevailing_wage_basis": "DIR Decision on Administrative Appeal, PW 2006-020 Heber Family Apartments (April 5, 2007), following PW 2004-016 Rancho Santa Fe Village and PW 2006-005 Central Village Apartments, holds that loans of tax-exempt conduit bond proceeds for affordable housing, whether publicly offered or privately placed, are not a payment out of public funds under Labor Code 1720(b)(1) and are not a public below-market loan under 1720(b)(4), because the proceeds and repayments never enter public coffers; reaffirmed in PW 2010-008 and PW 2015-008. Bond financing alone does not trigger state prevailing wage; other public funds in the same deal (city or county loans, fee waivers, land) are tested separately, and federal sources such as HOME or 9+ PBVs carry their own Davis-Bacon rules. https://www.dir.ca.gov/OPRL/coverage/year2007/2006-020(A).pdf",
-    "last_audited": "2026-11-09"
+    "last_audited": "2026-11-10",
+    "audit_note": "Follow-up Nov 10, 2026: removed Otay Ranch II as an Authority bond example. CTCAC staff report CA-25-798 (Dec 10, 2025) names the California Municipal Finance Authority as CDLAC applicant and bond issuer."
   },
   {
     "level": "city",
@@ -29110,9 +29109,9 @@
     "program_name": "Nevada City subdivision affordability requirement (30% of homes 1,500 square feet or smaller; Section 17.80.220 lower income share)",
     "administering_agency": "City of Nevada City Planning Department",
     "funding_type": "regulatory requirement",
-    "typical_award_size": "Requirement, not a subsidy. Since 2009 new subdivisions must make 30% of homes 1,500 square feet or smaller and affordable to moderate and lower income households, via deed restriction or an affordable housing plan approved by the Planning Commission or Council (size limits, rental units, second units). The APR cites Section 17.80.220 as requiring 20% lower income units in developments. 34 lots approved to date under the affordability-by-design rule.",
+    "typical_award_size": "Requirement, not a subsidy. The 2025 Housing Element APR describes two layers. Housing Element Program 5 requires that 30% of homes in new subdivisions be 1,500 square feet or smaller and affordable to moderate and below income households, through deed restriction or an affordable housing plan approved by the Planning Commission or Council (size limits, rental units, second units); the Zoning Code was amended in 2009 to carry this out and 34 lots have been approved under it (none built yet). The same APR entry states that Municipal Code Section 17.80.220 requires 20% lower income units in developments. The code text was not available, so whether 17.80.220 is the 2009 implementing section or a separate requirement, and its unit thresholds, are not confirmed.",
     "per_unit_cap": "Not applicable.",
-    "affordability_requirement": "Moderate and below income through deed restriction or approved affordable housing plan.",
+    "affordability_requirement": "Per the 2025 APR: Program 5 targets moderate and below income (30% of subdivision homes, 1,500 square feet or smaller); Section 17.80.220 is described as requiring 20% lower income units. Confirm the code text before relying on either figure.",
     "eligible_project_types": [
       "new construction",
       "market-rate (compliance)"
@@ -29120,7 +29119,7 @@
     "application_cycle": "rolling",
     "next_deadline": "Not applicable.",
     "prevailing_wage_trigger": "false",
-    "layering_notes": "Functions as a light inclusionary rule without an in-lieu fee or fund. Section 17.80.220 text was not opened this pass (not on the zoneomics mirror), so confirm the 20% lower income requirement and its thresholds with the City before relying on it.",
+    "layering_notes": "Functions as a light inclusionary rule with no in-lieu fee or fund found. Section 17.80.220 is not on the zoneomics mirror (Chapter 17.80 page loads without section text) and gocodebook returns 403; ask the Planning Department for the current section and whether the 30% size rule and the 20% lower income rule both apply.",
     "source_url": "https://nevadacityca.gov/DocumentCenter/View/2515/2025-Housing-Element-Annual-Progress-Report?bidId=",
     "record_id": "f36356c385",
     "cycle_notes": "",
@@ -29131,8 +29130,8 @@
     "next_deadline_date": null,
     "deadline_check": "no_date",
     "link_status": "ok",
-    "audit_note": "Spot check Nov 9, 2026: 2025 APR confirms the 30% of subdivision homes at 1,500 square feet or smaller rule for moderate and below income households (deed restriction or approved affordable housing plan), the 2009 code amendment, 34 lots approved, and the APR reference to Section 17.80.220 requiring 20% lower income units. prevailing_wage_trigger false is uncited (regulatory requirement).",
-    "last_audited": "2026-11-09",
+    "audit_note": "Follow-up Nov 10, 2026: APR reread. The 30%/1,500 sq ft figure is the Housing Element Program 5 objective; the APR separately cites 17.80.220 as requiring 20% lower income units. Record now states both as the APR does; code text still unconfirmed.",
+    "last_audited": "2026-11-10",
     "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
   },
   {
