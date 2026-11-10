@@ -143,6 +143,39 @@ The wider sample did not bring the rate down: 14.6 percent across 213 records, s
 2. Before relying on a "true" or "unclear" prevailing wage value for a live deal, read the program's current NOFA or loan terms; most "unclear" values turn on 1720(c)(5)(E) and project facts.
 3. For any program that matters to a live deal, open the source page before relying on award size, AMI or deadline.
 
+## Prevailing wage basis completion and layering fixes (November 9, 2026, afternoon)
+
+Closed two follow-ups: the 91 unclear values with no basis text, and layering notes that said public funds always trigger prevailing wage. 164 patch lines applied, 0 rejected (change logs `audit_changes_20261109_135652.csv` and `audit_changes_20261109_135722.csv`).
+
+| Batch | Scope | Result |
+|---|---|---|
+| PWM_1 | 57 fee waiver, density bonus, mandate, negative finding and designation records | 28 set false under the rules already applied to those types (1720(a)(1)); 29 kept unclear with a 1720(b)(4) fee basis |
+| PWB_1 to 3 | 34 loan, grant, land, bond and rental assistance records, source pages read | 24 confirmed unclear, 8 corrected, 2 unverifiable (CalHFA SNHP, Madera BHSA) |
+| PWL_1 | 69 layering notes in 15 counties | Flat "public funds trigger prevailing wage" sentences replaced with the rule, its 1720(c) exemptions and a pointer to prevailing_wage_basis |
+| PWC_1 | 4 records | Old 1720(c)(6)(E) numbering updated to (c)(5)(E) |
+
+Value changes from the source reading:
+
+- **True:**
+  - Oakland Jobs/Housing Impact Fee. Spent through City loans, which carry the City's own wage requirement.
+  - Santa Cruz HACSC PBV. 983.153(c), 9 or more units.
+- **False:**
+  - Conduit bonds in Napa and Yolo. DIR PW 2006-001 and 2006-020.
+  - LISC PLUS. Private capital.
+  - Nevada BHSA. No capital use.
+  - Roseville land sale. Sold at appraised fair market value.
+  - Napa ADU loan. 1720(c)(1).
+
+Fixes outside the prevailing wage fields: MIP and Sonoma CFH layering notes now cite 1720(c)(5)(E), and the Roseville affordability_requirement now reflects the recorded covenant (15 percent lower income for 55 years).
+
+Database now: prevailing wage 194 true, 349 false, 309 unclear. Every record has a basis.
+
+Follow-ups from this pass:
+
+- Napa ADU loan false rests on the County, not the Housing Authority, signing the loan agreement; if the Housing Authority signs, 1720(c)(1) does not apply.
+- Sonoma LMIHAF record says the fund is not offered for development, but the FY 2024-25 report shows $3.84 million of development spending.
+- Placer Launchpad NOFA LP-002 link returns 404.
+
 ## Files
 
 - Change logs: `data/review/audit_changes_*.csv` (one per tier).
