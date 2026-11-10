@@ -1,0 +1,563 @@
+[
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Madera County",
+   "date_researched": "2026-11-08",
+   "research_pass": "2_county",
+   "county_tag": "Madera",
+   "confidence": "needs_confirmation",
+   "program_name": "Permanent Local Housing Allocation (PLHA), Madera County formula allocation",
+   "administering_agency": "Madera County Community and Economic Development Department",
+   "funding_type": "grant",
+   "typical_award_size": "HCD formula allocations to the County: $226,380 (CY 2024) and $238,273 (CY 2025), with an estimated $1,414,875 for the 2024-2028 cycle; the City of Madera receives its own allocation ($296,439 in 2024, $317,530 in 2025; estimated $1,852,744 for 2024-2028). The County's PLHA five-year plan and activity choices were not located (County website blocked).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "PLHA Guidelines Section 301: rental activities must be affordable to extremely low, very low, low or moderate income households (up to 120% AMI), and workforce rental and ownership activities may serve households up to 120% AMI; plans must prioritize households at or below 60% AMI. Rental projects need a 55-year regulatory agreement and PLHA must be a low-interest deferred loan to the sponsor.",
+   "eligible_project_types": [
+    "supportive housing",
+    "predevelopment"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No County NOFA. Confirm plan activities with Community and Economic Development ((559) 675-7821).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. Confirmation needed: at roughly $230,000 a year the County PLHA cannot anchor a development loan and is probably directed to homeless services; the plan document should be requested from the County. Source is HCD's 2024-2028 PLHA formula allocation NOFA tables.",
+   "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+   "record_id": "19afbbe608",
+   "cycle_notes": "HCD releases each calendar-year allocation to the County, which applies on a rolling basis under its five-year plan; CY 2024 funds must be requested by February 2028 and CY 2025 by February 2029. No County NOFA to developers was found.",
+   "eligible_project_detail": [
+    "homeless services (likely current use)",
+    "affordable rental development or predevelopment (eligible)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Neither the 2019 PLHA Final Guidelines nor the 2024-2028 PLHA Formula Allocation NOFA states a prevailing wage requirement; coverage would depend on Labor Code 1720 for the specific project.",
+   "audit_note": "Award figures confirmed in the HCD NOFA tables; AMI corrected from 80% to the Section 301 limits (moderate income up to 120% AMI, 60% AMI priority); prevailing wage reset to unclear because no rule was cited. County plan activities still unconfirmed, so eligible_project_types remain unverified.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Madera County",
+   "date_researched": "2026-11-08",
+   "research_pass": "2_county",
+   "county_tag": "Madera",
+   "confidence": "needs_confirmation",
+   "program_name": "Density bonus, incentives and by-right approvals (Madera County Code Chapter 18.114) and 2024-2032 Housing Element rezoning",
+   "administering_agency": "Madera County Community and Economic Development Department, Planning Division (Annette Kephart, (559) 675-7821)",
+   "funding_type": "density bonus",
+   "typical_award_size": "Chapter 18.114 (Ordinance 669, May 19, 2014) grants state-law density bonuses for 10% low income, 5% very low income, senior, 10% moderate for-sale, land donation and child care projects; one to three incentives at 10/20/30% low income (5/10/15% very low income) with County discretion to grant more; waivers of development standards; reduced parking; and by-right approval for developments with 20% lower income units on sites carried over from a prior Housing Element inventory (Section 18.114.140). The County filed a CEQA Notice of Exemption on October 8, 2025 for the 2024-2032 Housing Element update, which rezones Housing Element sites and amends the zoning code for state law consistency; adoption and HCD certification status were not confirmed.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Government Code 65915 thresholds with continued affordability covenants and a density bonus housing agreement (Sections 18.114.120 and 130).",
+   "eligible_project_types": [
+    "mixed-income",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Requested with the land use application; the 2014 chapter predates several state amendments (AB 1287, AB 2694) that apply regardless.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. The County's land use incentives are state minimums; the main 2026 development is the Housing Element rezoning around Madera Ranchos, Oakhurst and the Highway 99 corridor. Source is Chapter 18.114 text on zoneomics.com; Housing Element status from CEQAnet SCH 2025100344.",
+   "source_url": "https://www.zoneomics.com/code/madera-county-unincorporated-CA/chapter_57",
+   "record_id": "720cc72cc0",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "multifamily and mixed-income housing in unincorporated zones",
+    "senior housing",
+    "by-right projects on prior-inventory sites with 20% lower income units"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Nov 9, 2026 spot check: Chapter 18.114 thresholds, incentive tiers, 18.114.120 (30-year local affordability term, longer if financing requires) and 18.114.130 agreement match the zoneomics mirror; 18.114.140 by-right section now cites Ordinance 525ZZ (October 14, 2025), suggesting the Housing Element zoning amendments were adopted. maderacounty.com blocks automated access, so only the mirror could be read; mirror-only source does not support verified.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Madera County",
+   "date_researched": "2026-11-08",
+   "research_pass": "2_county",
+   "county_tag": "Madera",
+   "confidence": "needs_confirmation",
+   "program_name": "County affordable housing grant for Eastern Madera County (up to $1,643,522, approved September 14, 2021)",
+   "administering_agency": "Madera County Board of Supervisors and Community and Economic Development Department",
+   "funding_type": "grant",
+   "typical_award_size": "On September 14, 2021 (item 6.b, file 7750) the Board unanimously approved up to $1,643,522 over five years for predevelopment, development, acquisition, rehabilitation or preservation of multifamily, live-work or rental housing affordable to extremely low through moderate income households in Eastern Madera County, developed in discussion with Self-Help Enterprises for Oakhurst. The funding source and subsequent awards were not identified in public records accessible this pass.",
+   "per_unit_cap": "Not published.",
+   "affordability_requirement": "Affordable to extremely low, very low, low or moderate income households.",
+   "eligible_project_types": [
+    "predevelopment",
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "The five-year window ran to 2026; confirm with Community and Economic Development whether funds were committed (Self-Help Enterprises held an Oakhurst affordable housing town hall in June 2023) and whether a new allocation is planned.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. This is the only discretionary County capital commitment to affordable housing found in the record; it signals willingness to fund a mountain-area project with a nonprofit developer. Source is the Fresnoland Board meeting report (October 4, 2021).",
+   "source_url": "https://fresnoland.org/2021/10/04/madera-board-of-supervisors-91421-pgampe-rate-increase-16m-for-affordable-housing/",
+   "record_id": "bf207d44fe",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "multifamily rental in Eastern Madera County (Oakhurst area)",
+    "acquisition and preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Tier 4 spot check November 9, 2026: the only readable source is the Fresnoland Documenters news recap, which matches the September 14, 2021 item 6.b (file 7750): up to $1,643,522 over five years for predevelopment, development, acquisition, rehabilitation and preservation for extremely low to moderate income households in Eastern Madera County. maderacounty.com returns 403, the Legistar web API has no Madera client, and maderacounty.legistar.com search needs interactive postbacks, so no official record was read. Confidence set to needs_confirmation under the mirror rule.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Fresnoland report of the September 14, 2021 Board action (item 6.b, file 7750) describes a County grant of up to $1,643,522 for predevelopment, development, acquisition, rehabilitation and preservation with no prevailing wage term (https://fresnoland.org/2021/10/04/madera-board-of-supervisors-91421-pgampe-rate-increase-16m-for-affordable-housing/); no County guidelines or agreement were found. A County grant toward construction is public funds under 1720(b)(1); because it is a grant rather than a loan, the 1720(c)(5)(E) below-market loan exemption would not apply, so coverage would turn on 1720(c)(3) de minimis limits (under $600,000 and under 2 percent of project cost), the funding source's own terms and project facts. https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Madera County",
+   "date_researched": "2026-11-08",
+   "research_pass": "2_county",
+   "county_tag": "Madera",
+   "confidence": "needs_confirmation",
+   "program_name": "Behavioral Health Services Act Integrated Plan FY 2026-29 and Behavioral Health Bridge Housing (Hotel Casa Grande)",
+   "administering_agency": "Madera County Behavioral Health Services",
+   "funding_type": "other",
+   "typical_award_size": "Madera County (population about 160,000) is eligible for the small-county housing interventions exemption; its FY 2026-29 Integrated Plan and any exemption or transfer request could not be read (County website blocked). Known housing activity: Behavioral Health Bridge Housing at the Hotel Casa Grande (37 units) with a three-year, $6.9 million supportive services contract to RH Community Builders approved August 2024; a May 2026 two-year shared-housing agreement with Madera Rescue Mission reserving 34 beds (not to exceed $1,212,576); BHCIP Round 5 award of $24,989,161 (July 2023) for a youth and adult crisis stabilization unit and sobering center (facility, not housing).",
+   "per_unit_cap": "Not published.",
+   "affordability_requirement": "BHSA eligible adults and youth with serious mental illness or substance use disorder.",
+   "eligible_project_types": [
+    "supportive housing",
+    "interim housing",
+    "services/operations"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Contact Behavioral Health Services about housing intervention contracts; no NOFA or capital program was found.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. Confirmation needed: BHSA housing dollars, exemption status and any PSH capital plans. Madera's pattern is motel-based bridge housing and contracted beds rather than capital; a developer would be looking at an operating or master-lease contract. Source is the County MHSA/BHSA page (blocked to automated access); the bridge housing and BHCIP details come from the Madera Tribune (July 9, 2023) and Board meeting summaries.",
+   "source_url": "https://www.maderacounty.com/government/behavioral-health-services/mental-health-services-act-mhsa",
+   "record_id": "e4c270eaba",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "interim and bridge housing operations",
+    "shared housing beds",
+    "possible rental or operating subsidies for PSH"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "audit_note": "County BHSA page returned 403 and no Madera plan was readable; the DHCS manual states no wage rule, so the value stays unclear on the general rule.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Madera County BHSA page (https://www.maderacounty.com/government/behavioral-health-services/mental-health-services-act-mhsa) returned 403, so the County Integrated Plan could not be read. The DHCS BHSA County Policy Manual chapter 7 (https://policy-manual.mes.dhcs.ca.gov/behavioral-health-services-act-county-policy-manual/V1.0.0/7-bhsa-components-and-requirements) states no prevailing wage requirement and allows up to 25 percent of Housing Interventions funds for capital development. The Madera uses on record (Behavioral Health Bridge Housing services contract and contracted shared-housing beds) are operations and not construction under 1720(a)(1), but BHSA capital, if any, is public funds under 1720(b)(1) (https://california.public.law/codes/labor_code_section_1720)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Madera County",
+   "date_researched": "2026-11-08",
+   "research_pass": "2_county",
+   "county_tag": "Madera",
+   "confidence": "needs_confirmation",
+   "program_name": "State CDBG and HOME applications by the County (non-entitlement) and CDBG program income",
+   "administering_agency": "Madera County Community and Economic Development Department, Planning Division",
+   "funding_type": "grant",
+   "typical_award_size": "The County's Planning Division page states that the County anticipates submitting an application in the next state CDBG program year and holds or expects about $3,250,000 of CDBG program income (from prior housing rehabilitation and economic development loans); no current County HOME or CDBG housing development award was found. The City of Madera runs its own CDBG and HOME entitlement NOFA each November.",
+   "per_unit_cap": "State CDBG and HOME program limits.",
+   "affordability_requirement": "HUD income limits (80% AMI and below).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "services/operations"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "HCD state CDBG and HOME NOFAs run annually; a developer can ask the County to sponsor a state HOME rental application for an unincorporated project. Program income may be available for housing rehabilitation on request.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. Confirmation needed: the Planning Division page could not be opened (403); the program income figure comes from the page excerpt in search results and should be verified with staff.",
+   "source_url": "https://maderacounty.com/government/community-economic-development-department/divisions/planning-division",
+   "record_id": "861f14fed0",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "housing rehabilitation programs",
+    "public facilities and infrastructure",
+    "rental new construction (eligible under state HOME, not pursued)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "audit_note": "Planning Division page returned 403 to curl and WebFetch on November 8, 2026; the $3,250,000 program income figure remains unconfirmed.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Madera County",
+   "date_researched": "2026-11-08",
+   "research_pass": "2_county",
+   "county_tag": "Madera",
+   "confidence": "needs_confirmation",
+   "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, Madera County Assessor",
+   "administering_agency": "Madera County Assessor, Brett Frazier ((559) 675-7710, assessor@maderacounty.com)",
+   "funding_type": "tax abatement",
+   "typical_award_size": "Standard state welfare exemption for low-income housing owned by nonprofits or limited partnerships with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate; the County publishes the BOE-267-L2 tenant data affidavit for lower income housing.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement; exemption prorated to qualifying units.",
+   "eligible_project_types": [
+    "other"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "File BOE-267 and supplemental affidavits with the Assessor by February 15, 2027 for the 2027-28 roll.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Madera County is a small non-entitlement county: the Community and Economic Development Department (planning, state CDBG and HOME applications) and Behavioral Health Services (BHSA, bridge housing) are the only County housing actors, the Housing Authority of the City of Madera (HACM) is the PHA for the county, and the Fresno Madera Continuum of Care (CA-514, led by Fresno County) handles HHAP and CoC funds. There is no County housing trust fund, NOFA, inclusionary ordinance or impact fee waiver program. The City of Madera is a separate CDBG and HOME entitlement with its own PLHA plan (Pass 3). maderacounty.com blocks automated access (403 on pages and documents), the PrimeGov and IQM2 portals returned no 2026 meetings, and Board agendas were read from PDFs mirrored on maderacountywater.com; other sources were HCD allocation tables, maderaha.org, zoneomics (County Code Title 18), CEQAnet and press coverage. Confirmation needed: the Assessor's pages on maderacounty.com returned 403, so local filing notes were not read; the exemption itself is state law.",
+   "source_url": "https://www.maderacounty.com/government/assessor",
+   "record_id": "3c4a85ff80",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "LIHTC rental housing with nonprofit managing general partner",
+    "nonprofit-owned affordable rental housing"
+   ],
+   "next_deadline_date": "2027-02-15",
+   "deadline_check": "future_date",
+   "link_status": "blocked",
+   "audit_note": "Assessor page returned 403 to curl and WebFetch on November 8, 2026; the BOE welfare exemption page opened but did not state the filing deadline or low-income housing requirements.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) and (b)(4) (california.public.law/codes/labor_code_section_1720): public works requires construction paid for in whole or in part out of public funds, including fees, loans or other obligations normally required in executing the construction contract that are reduced or waived. The welfare exemption (Rev. and Tax. Code 214(g)) reduces property tax on the completed property; it pays no construction cost, so it does not itself trigger prevailing wage."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Merced County",
+   "date_researched": "2026-11-08",
+   "research_pass": "2_county",
+   "county_tag": "Merced",
+   "confidence": "needs_confirmation",
+   "program_name": "Permanent Local Housing Allocation (PLHA), Merced County formula allocation",
+   "administering_agency": "Merced County Community and Economic Development Department",
+   "funding_type": "grant",
+   "typical_award_size": "HCD formula allocations to the County: $371,543 (CY 2024) and $407,167 (CY 2025), with an estimated $2,322,144 for 2024-2028; the City of Merced holds its own allocation ($364,106 in 2024, $390,011 in 2025, estimated $2,275,663 for 2024-2028). The County's PLHA plan and spending were not found on countyofmerced.com.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "PLHA eligible activities for households up to 80% AMI (120% for some ownership uses).",
+   "eligible_project_types": [
+    "supportive housing",
+    "predevelopment"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No County NOFA found; confirm plan activities with Community and Economic Development (2222 M Street, Merced).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Merced County has no County housing finance program: the Community and Economic Development Department handles planning and the Housing Element, the Human Services Agency is Collaborative Applicant and Administrative Entity for the Merced City and County Continuum of Care (CA-520) and HHAP, Behavioral Health and Recovery Services holds BHSA, and the Housing Authority of the County of Merced (HACM) is the countywide PHA. The County is a non-entitlement jurisdiction for CDBG and HOME, has no housing trust fund, inclusionary ordinance, in-lieu fee or fee waiver, and Measure V (MCAG half-cent sales tax) is transportation only. The City of Merced is the entitlement jurisdiction with PLHA and Homekey awards (Pass 3). countyofmerced.com is Cloudflare-blocked to automated access (pages, DocumentCenter and AgendaCenter), so records were built from HCD tables and letters, mercedcoc.org reports, merced-pha.com, gocodebook (County Code Title 18) and press coverage; County documents are flagged for confirmation. Confirmation needed: at about $400,000 a year the County allocation could fund predevelopment or a small gap loan if the plan allows rental development, but the plan was not accessible. Source is HCD's 2024-2028 PLHA formula allocation NOFA tables.",
+   "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-allocation-nofa.pdf",
+   "record_id": "53f5b43f2e",
+   "cycle_notes": "HCD 2024-2028 PLHA Formula NOFA: application portal opened July 16, 2026; CY 2024 funds must be applied for by February 2028 and CY 2025 by February 2029, or funds at risk revert to MHP. Any local award process is set by the County plan, which was not found.",
+   "eligible_project_detail": [
+    "homeless services (likely current use)",
+    "affordable rental development or predevelopment (eligible)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "County Housing Program page (countyofmerced.com/442) lists First Time Homebuyer and Housing Rehabilitation programs; whether PLHA funds them is not stated. PW citation pass Nov 9, 2026: false changed to unclear.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. HCD 2024-2028 PLHA Formula Guidelines (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-guidelines.pdf) contain no prevailing wage, Davis-Bacon or Labor Code 1720 provision; the HCD PLHA FAQ (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/cycle-2-nofa-faq.pdf) says only that HCD programs require compliance with applicable law including prevailing wages unless the project meets a Labor Code 1720(c) exception as determined by DIR. PLHA loans and grants are public funds under 1720(b)(1) and (b)(4) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(5)(E) (below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI), 1720(c)(5)(C) (mortgage, down payment or single-family rehab aid to a household) and 1720(c)(3) de minimis can apply. Davis-Bacon applies only if HOME (12+ HOME units, 24 CFR 92.354) or CDBG (8+ units, 24 CFR 570.603) is layered. The County PLHA plan and uses were not found, so whether any PLHA dollars fund construction is unknown."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Merced County",
+   "date_researched": "2026-11-08",
+   "research_pass": "2_county",
+   "county_tag": "Merced",
+   "confidence": "needs_confirmation",
+   "program_name": "Density bonus and commercial development bonus (County Code Chapter 18.66) and 2024-2032 Housing Element status",
+   "administering_agency": "Merced County Community and Economic Development Department, Planning Division (Tiffany Ho, Deputy Director)",
+   "funding_type": "density bonus",
+   "typical_award_size": "Chapter 18.66 (Ordinance 1976, 2019; Ordinance 1990, 2020) grants state-law density bonuses for 10% lower income, 5% very low income, senior, 10% moderate for-sale common interest, 10% transitional foster youth, disabled veteran or homeless units and 20% lower income student housing, with incentives and concessions approved by the Board unless written findings are made, reduced parking (one space for 0-1 bedroom, two for 2-3 bedrooms), land donation bonuses and a commercial development bonus (up to 20% intensity, FAR, height or parking relief) for commercial developers who partner with a housing developer providing 30% low income or 15% very low income units; the chapter states the bonus does not waive any affordable housing fee. Housing Element: HCD issued a Notice of Violation on March 24, 2026 after three rounds of findings (drafts October 2024, August 2025, January 2026); the Board adopted the multi-jurisdictional 2024-2032 Housing Element on May 19, 2026 and HCD found it compliant in June 2026.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Government Code 65915 thresholds with recorded continued affordability (Section 18.66.070).",
+   "eligible_project_types": [
+    "mixed-income",
+    "senior housing",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Requested with the land use application. Housing Element certification restores the County's eligibility for state funds (HHAP second disbursement, Prohousing, PLHA) that require compliance.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Merced County has no County housing finance program: the Community and Economic Development Department handles planning and the Housing Element, the Human Services Agency is Collaborative Applicant and Administrative Entity for the Merced City and County Continuum of Care (CA-520) and HHAP, Behavioral Health and Recovery Services holds BHSA, and the Housing Authority of the County of Merced (HACM) is the countywide PHA. The County is a non-entitlement jurisdiction for CDBG and HOME, has no housing trust fund, inclusionary ordinance, in-lieu fee or fee waiver, and Measure V (MCAG half-cent sales tax) is transportation only. The City of Merced is the entitlement jurisdiction with PLHA and Homekey awards (Pass 3). countyofmerced.com is Cloudflare-blocked to automated access (pages, DocumentCenter and AgendaCenter), so records were built from HCD tables and letters, mercedcoc.org reports, merced-pha.com, gocodebook (County Code Title 18) and press coverage; County documents are flagged for confirmation. The County's land use incentives follow state law with no local enhancement or fee relief; the two-year Housing Element delay had put state funding at risk until the May 2026 adoption. Source is Chapter 18.66 on gocodebook.com; Housing Element history from HCD's March 24, 2026 notice of violation letter.",
+   "source_url": "https://gocodebook.com/library/us/ca/merced-county-zoning/title-18-zoning-code/chapter-18.66-density-bonus-for-affordable-housing",
+   "record_id": "5f7c4c4ba8",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "multifamily and mixed-income housing in unincorporated zones",
+    "senior and student housing",
+    "mixed-use projects with a commercial partner"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "audit_note": "Chapter 18.66 text on gocodebook (third-party mirror) matches the record on bonus thresholds, commercial development bonus and the fee non-waiver clause; countyofmerced.com returned 403 so no official code host was read, and the mirror alone does not support verified. HCD Notice of Violation (March 24, 2026) on hcd.ca.gov confirms the review history; the June 2026 HCD compliance finding was seen only in a search summary of a County news post. Prevailing wage left unclear (no public funds; uncited).",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Merced County",
+   "date_researched": "2026-11-08",
+   "research_pass": "2_county",
+   "county_tag": "Merced",
+   "confidence": "needs_confirmation",
+   "program_name": "County exempt surplus land declarations (2490 Emma Street, Snelling; Castle Commerce Center, Atwater)",
+   "administering_agency": "Merced County Executive Office and Department of Public Works (Castle)",
+   "funding_type": "land",
+   "typical_award_size": "Castle Commerce Center: the Board adopted Resolution 2026-46 (agenda item 19, July 14, 2026) declaring 2045 Stratofortress Drive, Atwater (APN 051-010-058, about 43,500 sq ft) exempt surplus land under Gov. Code 54221(f)(1)(Q). The parcel is public-use airport land where FAA Order 5190.6B prohibits residential uses, and it is to be sold at fair market value for compatible airport commercial use (notice July 17, 2026). 2490 Emma Street, Snelling, was also reported as an exempt declaration with an August 27 to September 17, 2026 review window, but the County document was no longer online and that was not re-verified.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Surplus Land Act: non-exempt dispositions give affordable housing developers priority and require 25% lower income units for 55 years; exempt declarations avoid that process.",
+   "eligible_project_types": [
+    "other"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Monitor HCD's surplus land notice list and the County's Declaration of Exempt Surplus Land pages; respond within the 30-day review windows.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Merced County has no County housing finance program: the Community and Economic Development Department handles planning and the Housing Element, the Human Services Agency is Collaborative Applicant and Administrative Entity for the Merced City and County Continuum of Care (CA-520) and HHAP, Behavioral Health and Recovery Services holds BHSA, and the Housing Authority of the County of Merced (HACM) is the countywide PHA. The County is a non-entitlement jurisdiction for CDBG and HOME, has no housing trust fund, inclusionary ordinance, in-lieu fee or fee waiver, and Measure V (MCAG half-cent sales tax) is transportation only. The City of Merced is the entitlement jurisdiction with PLHA and Homekey awards (Pass 3). countyofmerced.com is Cloudflare-blocked to automated access (pages, DocumentCenter and AgendaCenter), so records were built from HCD tables and letters, mercedcoc.org reports, merced-pha.com, gocodebook (County Code Title 18) and press coverage; County documents are flagged for confirmation. Confirmation needed: the County pages were not readable; recorded because the Castle Commerce Center (former Castle Air Force Base) is the County's largest land holding and a logical site for workforce housing near UC Merced and Atwater.",
+   "source_url": "https://www.countyofmerced.com/DocumentCenter/View/53410",
+   "record_id": "2ee52ac2a2",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "County land dispositions (monitor for housing-suitable sites)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "audit_note": "The original Declaration of Exempt Surplus Land page (/4455) returns 404. Castle Commerce Center airport parcels cannot be used for housing, which contradicts the earlier workforce housing note. Monitor HCD's Surplus Land Act notice portal for any non-exempt County dispositions. PW citation pass Nov 9, 2026: false kept. countyofmerced.com DocumentCenter returned 403 (Cloudflare) this pass, so the declaration was not re-read; facts are from the earlier Tier 4 audit. The Snelling parcel terms are unknown.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(b)(3) (https://california.public.law/codes/labor_code_section_1720) treats a public land transfer as public funds only when it is for less than fair market price. Resolution 2026-46 declares the Castle Commerce Center parcel exempt surplus land to be sold at fair market value for airport commercial use, with residential use barred by FAA Order 5190.6B, so no below-market transfer or construction funding occurs. A future below-market disposition for housing would be a 1720(b)(3) question."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Madera",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Madera",
+   "confidence": "needs_confirmation",
+   "program_name": "Successor Housing Agency to the former Madera Redevelopment Agency (Low and Moderate Income Housing Asset Fund)",
+   "administering_agency": "City of Madera as Successor Housing Agency (Resolutions MRA-1498 and CC 12-09)",
+   "funding_type": "loan",
+   "typical_award_size": "Unknown. The City kept the former RDA's housing assets in January 2012, but the latest SB 341 annual reports posted are for FY 2014-15 and FY 2015-16. The FY 2015-16 report is a scanned PDF and its text could not be extracted. No current fund balance found.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Housing Asset Fund rules (HSC 34176.1): over each five-year period, at least 30% of development spending must serve extremely low income households and no more than 20% may serve households at 60-80% AMI.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency. Ask the City for the latest SB 341 report or the Housing Successor section of the Annual Progress Report.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Recorded so the asset fund is not overlooked. The 2026 Housing Element says losing redevelopment has limited the City's housing work, and it dropped one program for lack of funding, so little uncommitted cash likely remains. Any balance would add a small City layer next to HOME and PLHA. Confirm the fund balance and any housing successor-owned parcels before relying on it.",
+   "source_url": "https://www.madera.gov/city-government/boards-commissions-committees/successor-agency/successor-housing-agency/",
+   "record_id": "547f70b1e1",
+   "cycle_notes": "no published process",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Successor Housing Agency page opened November 8, 2026 and confirms the January 11, 2012 retention of housing assets and SB 341 reports only for FY 2014-15 and FY 2015-16 (scanned, no extractable text); no fund balance or prevailing wage rule found. Labor Code 1720 text could not be opened (leginfo and Justia 403) to check whether any housing fund exemption applies.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The City of Madera Successor Housing Agency page states no wage rule (https://www.madera.gov/city-government/boards-commissions-committees/successor-agency/successor-housing-agency/), and no current asset fund guidelines were found. Housing successor asset fund money is public funds under 1720(b); 1720(c)(4) names only the former redevelopment Low and Moderate Income Housing Fund, not the housing asset fund, and housing successor land conveyed below fair market value is public funds under 1720(b)(3). Below-market residual receipts loans may fall under the 1720(c)(5)(E) exemption (below-market loan, at least 40 percent of units restricted 20 years at or below 80 percent AMI; DIR PW 2019-018, https://dir.ca.gov/OPRL/coverage/year2020/2019-018.pdf). https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Atwater",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Merced",
+   "confidence": "needs_confirmation",
+   "program_name": "Atwater Housing Successor to the former Atwater Redevelopment Agency (Low and Moderate Income Housing Asset Fund)",
+   "administering_agency": "City of Atwater as Housing and Non-Housing Successor Agency",
+   "funding_type": "loan",
+   "typical_award_size": "Unknown. The City elected to be the housing successor, but the successor agency page lists only 2012-2015 ROPS and oversight board documents. No current SB 341 report or fund balance was found.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Housing Asset Fund rules (HSC 34176.1).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Recorded so the asset fund is not missed. The page lists no housing awards or reports, so do not assume any cash. Ask the City for its latest SB 341 report and any housing successor-owned parcels. atwater.org opened directly; a site search for 'housing successor' returned no reports.",
+   "source_url": "https://www.atwater.org/successor-agency/",
+   "record_id": "3d96bdd403",
+   "cycle_notes": "no published process",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "audit_note": "The Atwater successor agency page still lists only 2012-2015 ROPS and oversight board documents, a web search found no Atwater SB 341 housing successor report, and no program guideline states a prevailing wage rule, so award size and prevailing wage stay unknown.",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Atwater successor agency page (https://www.atwater.org/successor-agency/) lists only ROPS and oversight board documents and states no wage rule; housing successor funds under HSC 34176.1 carry no wage rule of their own. Loans from the Low and Moderate Income Housing Asset Fund are public funds under 1720(b) (https://california.public.law/codes/labor_code_section_1720); a below-market residual receipts loan on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI can be exempt under 1720(c)(5)(E) (https://dir.ca.gov/OPRL/coverage/year2020/2019-018.pdf)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fresno",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "needs_confirmation",
+   "program_name": "Affordable Housing Density Bonus (FMC Chapter 15, Article 22) with TOD Height and Density Bonus (Article 21) and Housing Element Program 9 by-right approval",
+   "administering_agency": "City of Fresno Planning and Development Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Article 22 implements Gov. Code 65915 for projects of 5 or more units (State law governs on conflict). Article 21 adds a discretionary TOD bonus of up to 100% more density and 25% more height in MX or CMS districts within 500 feet of a BRT station or half mile of Manchester Transit Center, combinable with the affordable bonus. Program 9 text amendment (P26-01326, 2026) makes projects with at least 20% lower-income units by-right on reused housing element sites.",
+   "per_unit_cap": null,
+   "affordability_requirement": "State density bonus thresholds (e.g., 5% very low or 10% low income for a 20% bonus); covenants per Article 22 (at least 30 years in local text, 55 years under current State law for rentals). Fresno has no inclusionary requirement; FMC 15-2201(E) bars adopting one until the 2014 General Plan is superseded.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; applied with entitlements.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Local text predates recent State amendments, so the State statute controls bonus percentages and concessions. TOD stacking is a Fresno-specific advantage on Blackstone and Ventura/Kings Canyon BRT corridors. No density cap on mixed-use zones since 2022. No inclusionary fund exists to tap. Code read on the zoneomics mirror (City code host not used).",
+   "source_url": "https://www.zoneomics.com/code/fresno-CA/chapter_3",
+   "record_id": "865023e0e2",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "audit_note": "Nov 9, 2026 spot check: Article 22 (5+ units, 30-year local covenant, 15-2201(E) bar on inclusionary) and Article 21 TOD bonus (MX or CMS, 500 feet of BRT or half mile of Manchester Transit Center, up to 100% density and 25% height) match the zoneomics mirror only; municode returns 403. Program 9 text amendment P26-01326 confirmed on City Legistar (file ID 26-560, Planning Commission June 3, 2026). Mirror-only source for the code text does not support verified.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Reedley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "needs_confirmation",
+   "program_name": "Reedley Impact Fee Reduction Incentive Program (Resolutions 2019-009 and 2022-060) and affordable housing fee deferrals (Housing Element Programs 7 and 17)",
+   "administering_agency": "City of Reedley Community Development Department and City Council",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Location-based reduction of development impact fees under the Impact Fee Reduction Incentive Program (Resolution 2022-060): Infill Area fees 25% below Expansion Area and City Center fees 50% below. 2022 multifamily impact fees per unit: $17,569 Expansion Area, $13,177 Infill Area, $8,785 City Center. Regional Transportation Mitigation fee is reduced for affordable units ($821 per affordable multifamily unit). Development impact fee deferral program (approved May 26, 2015): applicant pays a nonrefundable 20% of impact fees at building permit application and the remaining 80% before final inspection. Housing Element Program 7 also commits to continued fee reductions and deferrals for affordable and special-needs projects and lists reduced water and wastewater connection fees as a flexible standard.",
+   "per_unit_cap": "Equal to the reduction; City Center saves about $8,785 per multifamily unit versus Expansion Area.",
+   "affordability_requirement": "Area-based reduction has no affordability requirement; deferrals and further reductions are for lower-income and special-needs projects (details not codified).",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Housing Element Program 17 called for a fee review with multifamily developers by December 2024 and a revised fee schedule by December 2025; outcome not confirmed.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Source is the City's adopted 2023-2031 Housing Element (Appendix 1L, adopted April 9, 2024, found in substantial compliance by HCD April 24, 2024), not the resolutions themselves. reedley.ca.gov could not be opened (TLS handshake failure), so the current fee schedule and any 2025 fee update were not verified. City Center sites stack the 50% fee reduction with State density bonus and County HOME/PLHA (Urban County) and Fresno Housing PBVs.",
+   "source_url": "https://fresnomjhe.com/wp-content/uploads/2024/10/1L-Reedley-2023-2031-Housing-Element-April-2024.pdf",
+   "record_id": "a05dc339cf",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Housing Element Appendix 1L supports the area reductions, 2022 fee amounts, the 2015 deferral terms and Resolution 2022-060; it does not mention Resolution 2019-009. reedley.ca.gov failed TLS handshake on 2026-11-08 so the current fee schedule and any December 2025 fee revision under Program 17 could not be checked. Prevailing wage: Labor Code 1720(b)(4) treats reduced or waived fees as public funds, but leginfo returned 403 and no City or DIR rule on these fee programs was read, so the trigger stays unclear.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. Resolution 2022-060 sets lower impact fees by location (Infill 25 percent and City Center 50 percent below Expansion Area), and the Housing Element offers affordable housing fee deferrals; whether a location-based schedule is a reduction below fair market value is unsettled. Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sanger",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "needs_confirmation",
+   "program_name": "Sanger affordable housing impact fee deferrals and reductions (Housing Element Programs 7, 15 and 19)",
+   "administering_agency": "City of Sanger Community Development Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Case-by-case deferral or reduction of City development impact and permit fees for affordable, special-needs and farmworker projects, with priority processing on large sites. Baseline City impact fees (2021): about $18,600 per 1,000 sq ft multifamily unit (sewer $2,724, treatment $5,780, collection $1,356, water $1,397, storm drain $2,290, traffic $1,592, recreation $631, police $1,230, fire $1,270, solid waste $330), plus Sanger Unified school fee $4.79 per sq ft.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Lower-income, special-needs or farmworker housing; terms negotiated per project (not codified).",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Program 19 called for meeting multifamily developers by December 2024 and revising fees by December 2025; Program 15 incentives for large sites by mid-2025. Outcomes not confirmed.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Source is the City's 2023-2031 Housing Element (Appendix 1N, adopted September 5, 2024, found in substantial compliance by HCD October 4, 2024), not a fee resolution. ci.sanger.ca.us opened but no fee deferral policy page or council resolution was found; confirm terms with the Community Development Department. Sanger's prior cycle reports deferrals evaluated case by case (for example Unity Estates expansion).",
+   "source_url": "https://fresnomjhe.com/wp-content/uploads/2024/10/1N-Sanger-2023-2031-Housing-Element-August-2024.pdf",
+   "record_id": "6ab149b9a8",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Housing Element Appendix 1N supports Programs 7, 15 and 19 (case-by-case fee reductions and deferrals, priority processing and fee deferral on large sites for low-income, special-needs or farmworker housing) and the 2021 fee table ($18,600 per 1,000 sq ft multifamily unit, Sanger Unified $4.79 per sq ft). The only fee document on ci.sanger.ca.us (DocumentCenter/View/87, Impact and Improvement Fees) is a scanned 2008 file, and no current fee resolution or deferral policy was found, so outcomes of the December 2025 fee revision and the June 2025 large-site incentives are unconfirmed. Prevailing wage: no City or DIR rule addressing these deferrals was read (leginfo Labor Code 1720 returned 403), so the trigger stays unclear.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. The Housing Element offers case-by-case deferral or reduction of City impact and permit fees for affordable, special needs and farmworker projects. Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ }
+]

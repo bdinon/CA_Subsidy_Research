@@ -256,6 +256,34 @@ All six applied through `scripts/apply_audit.py` (patch `FU_city_spotcheck_20261
 - **Anaheim (853d7e7f96):** the A-LHTF Guidelines PDF opens at anaheim.net/DocumentCenter/View/66427 with a Chrome user agent and confirms the HOME, PLHA, $4.6M and $6M figures. Restored to verified. Miraflores and Center of Hope details are flagged in layering_notes as not reopened.
 - **Elk Grove (8fd8dede09):** Resolution 2026-202 (Sept 23, 2026) adopted the staff-recommended per square foot fees, and Ordinance 09-2026 passed its second reading Oct 14, 2026. Effective Jan 1, 2027: $3.59 single-unit, $3.29 owner multi-unit, $1.46 rental multi-unit, $2.29 office, $2.15 retail, $0.39 industrial, $1,146.75 per hotel room. Fund uses now include moderate income, and the ordinance adds a local preference authority (16.88.080). Council attachment PDFs open at elkgrove.gov/.../council-meetings/attachments/2026/MM-DD-YY-N-N.pdf even though HTML pages 403.
 
+## Needs_confirmation sweep (November 10, 2026)
+
+All 93 needs_confirmation records audited in 8 county-grouped batches (`data/review/batches/NC_1.json` to `NC_8.json`), applied through `scripts/apply_audit.py` (change log `audit_changes_20261110_012016.csv`): 93 applied, 0 rejected, 297 field changes. 54 corrected (42 upgraded to verified, 12 corrected but left needs_confirmation), 39 unverifiable. Database now 803 verified, 51 needs_confirmation (36 city, 14 county, 1 state).
+
+Why the 51 remain: almost all are blocked official hosts. Municipal code hosts (codepublishing, ecode360, municode, amlegal) and many city sites (anaheim.net, carlsbadca.gov, cityofventura.ca.gov, cityoftracy.org, rocklin.ca.gov, walnutcreekca.gov, countyofmonterey.gov, maderacounty.com, countyofmerced.com, napacounty.gov) returned 403 or Cloudflare challenges. Where only a mirror (zoneomics, gocodebook) had the code text, the record stayed needs_confirmation.
+
+Most material corrections:
+
+- **Fremont impact fee reduction (b548893b8a):** the 50 percent cut applies only to Parkland, Park Facilities and Traffic fees, per deed-restricted unit up to moderate income. Capital and Fire Facilities fees are paid in full.
+- **City of Napa fee reduction (3ae88136e6):** pilot adopted Sept 15, 2026 (R2026-111, R2026-112) rescinds R2021-119. Building permit fees cut 100/75/50 percent by income tier, impact fees 100/75 percent for very low/low (250 unit caps), permits July 1, 2026 to Dec 31, 2028. Terms read from the staff draft resolutions; adoption confirmed in Legistar matter history.
+- **Lincoln density bonus (12573fd176):** Lincoln has a local chapter, 18.59 (Ord. 881B), cited in the Housing Element. The record said there was none.
+- **Oceanside inclusionary and density bonus (7de4d4240b, 04ff5fbbd4):** Coastal Commission approval Feb 5, 2026; Council adoption June 17, 2026, citywide, 7+ units, 15 percent, 55 years.
+- **Burlingame fees (b6113a572d):** Ordinance 2046 (March 2, 2026) rates added: rental $17/$21/$31 psf by density, for-sale $36, commercial $7 to $26.
+- **Thousand Oaks trust fund and fee deferral (c39bce1dcb, 7dc729615f):** in-lieu fees $25.70/$14.60/$16.80 psf; deferral is open to any development, city fees only, and may have lapsed.
+- **Fairfield PBVs (867ada565c):** HUD found a HAP shortfall over $200,000 in December 2025; voucher issuance halted.
+- **City of Madera housing successor (547f70b1e1):** FY 2024-25 ACFR fund balance $3,458,285.
+- **San Joaquin County land (ca36da736a):** French Camp Veterans Village is not on County land; Homekey+ authorization was July 29, 2025.
+
+Accepted with partial mirror reliance (core facts on official sources, one detail mirror-only, noted in audit_note): Lincoln 12573fd176 (chapter text), Thousand Oaks 8c520e2130 (Article 7), Napa County 1dc55ae94f (90-day refund), Petaluma a3627a554c (amendment history), Burlingame b6113a572d (25.44 exemptions).
+
+Follow-ups:
+
+- **Alameda County boomerang funds (777c6b9680):** tagged closed/inactive, but achcd.org shows HCD still administers Boomerang. Decide whether to reopen.
+- **Manual name edits (not settable by patch):** South Lake Tahoe aec15a86fe "adopted December 2024" conflicts with the March 2024 fee schedule; Richmond 343b5d5dac should become a pointer record; City of Santa Cruz 23bd3a2dd9 says "reduced" childcare fee where 100 percent affordable projects may be exempt.
+- **Possible new records:** Hollister Housing Trust Guidelines and $300,000 to the HOME revolving loan fund (June 22, 2026); Ventura Chapter 4.240 impact fee deferral (Sept 2024 snippet only).
+- **Davis Measure W:** certification due Dec 3, 2026; then update 286b3332af and d3c111e44a.
+- **Madera County PLHA (19afbbe608):** HCD dashboard shows the housing element not compliant, which bars PLHA awards.
+
 ## Files
 
 - Change logs: `data/review/audit_changes_*.csv` (one per tier).

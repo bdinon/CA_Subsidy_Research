@@ -1,0 +1,370 @@
+[
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Burlingame",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "needs_confirmation",
+   "program_name": "Residential Impact Fee and Commercial Linkage Fee ordinances with on-site affordable alternative (BMC 25.44 and 25.45)",
+   "administering_agency": "City of Burlingame Community Development Department, Planning Division",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Fee-based program adopted after a legal challenge to the former inclusionary ordinance (Ordinance 2000 of 2021, amended by Ordinance 2046 on March 2, 2026). Residential impact fee on residential floor area for rental projects over 10 units and for-sale projects over 6 units, with rates in the Master Fee Schedule (not opened this pass); on-site alternative deems impacts mitigated with 10% low income plus 5% very low income rental units in perpetuity or 15% low income for-sale units for 55 years. Commercial linkage fee on hotel, retail, restaurant, service and office projects adding 5,000 square feet or more, with rates in the Master Fee Schedule; the first four years produced more than $3.8 million. Both feed the Affordable Housing Fund.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Affordable units built concurrently, same size as comparable market units, finishes at least 60% of market value; density bonus projects pay the fee on market-rate units only, not on bonus affordable units; Council may waive fees for public or nonprofit public benefit uses.",
+   "eligible_project_types": [
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Fees due before the first building permit at the schedule then in effect; Council signaled further 2026 updates to add incentives for certain development types.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. Because Burlingame has no inclusionary mandate above the fee, 100% affordable projects rely on the Affordable Housing Fund NOFA (see separate record), County AHF and HACSM PBVs; the fee program is why the fund reached $12 million to $14 million by 2025. Source is the published code chapter on gocodebook.com (Burlingame's code host); residential chapter at .../chapter-25.45-residential-impact-fees. Current per-square-foot rates must be confirmed in the Master Fee Schedule with Planning at (650) 558-7250.",
+   "source_url": "https://gocodebook.com/library/us/ca/burlingame-zoning/title-25/chapter-25.44-commercial-linkage-fees",
+   "record_id": "b6113a572d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate multifamily (fee payer or on-site alternative)",
+    "commercial and hotel development (fee payer)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "audit_note": "PW citation pass Nov 9, 2026: source_url is a gocodebook mirror; other fields not re-audited here.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a fee requirement imposed on private development (with an on-site affordable alternative) and provides no public funds, so it does not itself trigger prevailing wage. Fee revenue lent through the City Affordable Housing Fund NOFA is tested separately (see that record)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Santa Cruz County",
+   "date_researched": "2026-11-07",
+   "research_pass": "2_county",
+   "county_tag": "Santa Cruz",
+   "confidence": "needs_confirmation",
+   "program_name": "Density bonus, enhanced density bonus and priority processing (County Code Chapters 17.12 and 17.10.040)",
+   "administering_agency": "Santa Cruz County Community Development and Infrastructure, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "State density bonus law implemented in Chapter 17.12 (last amended Ordinance 5286, 2018) with a County enhanced density bonus (Section 17.12.065) in lieu of the regular 35% state bonus, capped at a resulting density of 30 units per acre: at least 21% low income units earns 36.5%, rising 1.5 points per percentage point to 50% at 30%; at least 12% very low income units earns 37.5%, rising 2.5 points to 50% at 17%; at least 15% moderate income units (including on-site inclusionary units) earns 40%, rising 1 point to 50% at 25%; and 100% affordable projects (all rental units very low or low income, or all for-sale units low or moderate) earn a 75% enhanced bonus when the sponsor or site owner is a 501(c)(3) nonprofit or public agency and the project uses public subsidy, tax credits or publicly provided land, with 55-year rental and 45-year for-sale restrictions. Incentives: one, two or three concessions at 10%, 20% or 30% lower income (5%, 10%, 15% very low income); priority processing under Section 17.10.040 is a listed concession.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Government Code 65915 thresholds (5% very low, 10% low, senior, moderate for-sale) with 55-year recorded restrictions; enhanced bonus requires at least 21% low, 12% very low or 15% moderate income units, or 100% affordable for the 75% bonus.",
+   "eligible_project_types": [
+    "new construction",
+    "homeownership"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Requested with the development application; 2024 and 2025 state law changes (AB 2694, AB 1287) apply directly even where the 2018 chapter text lags.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Santa Cruz County housing programs sit in the Community Development and Infrastructure Department (CDI) Planning Division, Housing Section (HousingProgramsInfo@santacruzcountyCA.gov, (831) 454-2332), which runs the Measure J inclusionary program, the Affordable Housing Impact Fee, LMIHAF, PLHA and the County housing NOFA; the Human Services Department's Housing for Health Division (H4H, the CoC CA-508 lead) runs HHAP, Homekey and homeless programs; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz (HACSC) supplies vouchers. The County is a non-entitlement jurisdiction for CDBG and HOME. County programs apply only to the unincorporated area (about half the population); Santa Cruz, Watsonville, Capitola and Scotts Valley run their own programs (Pass 3). cdi.santacruzcountyca.gov, santacruzcountyca.gov PDFs, santacruzhealth.org and housingforhealthpartnership.org open normally; the Board's IQM2 portal (santacruzcountyca.iqm2.com) renders by script and could not be listed, so Board items were taken from NOFA appendices and press coverage. The enhanced bonus to 50% is a real local incentive for mixed-income projects in the urban unincorporated area (Live Oak, Soquel, Aptos) where zoning density is low; 100% affordable projects rely on state law's unlimited bonus near transit. Source is Chapter 17.12 text on gocodebook.com.",
+   "source_url": "https://gocodebook.com/library/us/ca/santa-cruz-county-planning/title-17/chapter-17.12-density-bonus",
+   "record_id": "7e964d1c27",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "multifamily rental and for-sale housing in unincorporated zones",
+    "projects on sites with existing rental housing subject to replacement rules (17.12.025)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "audit_note": "Tier 4 spot check Nov 9, 2026: only readable source is the gocodebook mirror of County Code Chapter 17.12 (codepublishing.com 403; the County PLG-611 density bonus checklist opens but has no bonus terms), so confidence set to needs_confirmation under the mirror rule. Record omitted the very low, moderate and 100% affordable (75%) enhanced bonus tiers and the 30 units per acre cap, and tagged it homeownership only although it applies to rental projects.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Monterey County",
+   "date_researched": "2026-11-08",
+   "research_pass": "2_county",
+   "county_tag": "Monterey",
+   "confidence": "needs_confirmation",
+   "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, Monterey County Assessor",
+   "administering_agency": "Monterey County Assessor-County Clerk-Recorder (168 W. Alisal Street, Salinas)",
+   "funding_type": "tax abatement",
+   "typical_award_size": "Standard state welfare exemption for low-income housing owned by nonprofits or limited partnerships with a nonprofit managing general partner holding a BOE Organizational Clearance Certificate.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement; exemption prorated to qualifying units.",
+   "eligible_project_types": [
+    "other"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "File BOE-267 and supplemental affidavits with the Assessor by February 15, 2027 for the 2027-28 roll.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Monterey County's Housing and Community Development Department (HCD, Craig Spencer, Director; Darby Marshall, Housing Program Manager) runs the Inclusionary Housing Ordinance, the Monterey County Housing Trust Fund, PLHA, the Urban County CDBG and HOME programs and County land dispositions; the County Administrative Office Homelessness Strategies and Initiatives Division (CAO-HSI) runs HHAP and the SHARE Center; the Health Department Behavioral Health Bureau holds BHSA; the Coalition of Homeless Services Providers leads the CoC (CA-506, shared with San Benito); and the Housing Authority of the County of Monterey (HACM) and its Development Corporation supply vouchers and develop housing. Salinas, Monterey, Seaside and other entitlement cities run their own programs (Pass 3). countyofmonterey.gov blocks automated access (pages and documents), so records were built from the Legistar web API client 'monterey' and its Granicus attachments, hamonterey.org, chsp.org, zoneomics and HCD tables. Confirmation needed: the Assessor's page on countyofmonterey.gov blocks automated access; the exemption itself is state law.",
+   "source_url": "https://www.countyofmonterey.gov/government/departments-a-h/assessor",
+   "record_id": "7f69b5f898",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "LIHTC rental housing with nonprofit managing general partner",
+    "nonprofit-owned affordable rental housing"
+   ],
+   "next_deadline_date": "2027-02-15",
+   "deadline_check": "future_date",
+   "link_status": "blocked",
+   "audit_note": "Audit 2026-11-08: countyofmonterey.gov Assessor pages return 403 (Akamai Access Denied) to curl and WebFetch. BOE Publication 149 (boe.ca.gov/proptaxes/pdf/pub149.pdf) confirms the state rules in the record: BOE-267 or BOE-267-A plus BOE-267-L or L1 affidavits filed with the county assessor by February 15 each year, Organizational Clearance Certificate and Supplemental Clearance Certificate for limited partnerships. County-specific page still unread.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) and (b)(4) (california.public.law/codes/labor_code_section_1720): public works requires construction paid for in whole or in part out of public funds, including fees, loans or other obligations normally required in executing the construction contract that are reduced or waived. The welfare exemption (Rev. and Tax. Code 214(g)) reduces property tax on the completed property; it pays no construction cost, so it does not itself trigger prevailing wage."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Cruz",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "needs_confirmation",
+   "program_name": "Density bonus provisions and fee waivers for affordable units (Municipal Code Chapter 24.16 Parts 3 and 4) and reduced childcare impact fee for 100% affordable developments",
+   "administering_agency": "City of Santa Cruz Community Development Department, Planning Division and Housing Division",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Chapter 24.16 Part 4 is now Fee Deferrals for Affordable Units (Sections 24.16.300 Units Eligible for Fee Deferrals and 24.16.310 Procedure for Deferral of Fees). Resolution NS-30,634 (adopted March 10, 2026) lets staff defer development review fees for 100 percent affordable housing projects: Building, Fire, Community Development, Parks, Police, Public Works, Water and similar fees may be deferred up to five years, or until certificate of occupancy if a substantially complete building permit application is filed, then up to about five more years on a payment plan with interest set annually by the Finance Director. Third-party review cost fees are collected in full; impact fees (Gov. Code 66007, SB 937), the Parks and Recreation Facilities Tax and the Quimby Fee cannot be deferred past certificate of occupancy; the Traffic Impact Fee is deferred under separate procedures. Fee waivers are not granted by staff and must still be requested from City Council; Resolution NS-30,635 waivers apply only to projects on City-owned land or buildings. Part 3 density bonus text and the childcare impact fee reduction for 100% affordable projects were not read (codepublishing.com 403).",
+   "per_unit_cap": "None; deferral covers the eligible development review fees in full, subject to exclusions.",
+   "affordability_requirement": "100 percent affordable housing developments for the staff deferral policy; a 2019 City form indicated only very low and low income units were eligible for Part 4 fee relief (not re-confirmed).",
+   "eligible_project_types": [
+    "new construction",
+    "adu"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Rolling. Submit the supplemental fee deferral application with the 100 percent affordable planning application (or with building plan check if no planning fees apply), then sign a fee deferral agreement and payment plan.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Treat as a cost reduction layered on top of the AHTF loan and Measure O compliance; the County's enhanced density bonus (Chapter 17.12.065, up to 50% for 21% or more low income units) and County AHIF exemption apply only in the unincorporated area. Santa Cruz also created Flexible Density Units in four commercial zones (auxiliary units allowed up to the full floor area ratio regardless of density) and the My House My Home senior ADU program, both cited in the 2023 Prohousing application. Marked needs_confirmation because the code text was not opened; the zoneomics chapter index listing Parts 3 and 4 and the City Prohousing page were.",
+   "source_url": "https://www.santacruzca.gov/Government/City-Departments/Community-Development/Fees-Payment-Options/Fee-Deferral-Fee-Waiver-Policies",
+   "record_id": "23bd3a2dd9",
+   "cycle_notes": "Policy adopted March 10, 2026 (Resolution NS-30,634, Planning Commission recommendation February 5, 2026); eligibility determined by the Community Development Director, payment plan approved by the Finance Director.",
+   "eligible_project_detail": [
+    "new construction",
+    "100% affordable developments",
+    "adu"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "audit_note": "Prevailing wage left unclear: the deferral policy and city page are silent, and the Labor Code 1720 text on leginfo returned 403 so no stated rule was read; code text for Part 3 and the childcare fee reduction still needs confirmation.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. Chapter 24.16 Part 4 and Resolution NS-30,634 allow deferral of development review fees, and 100 percent affordable developments pay a reduced childcare impact fee. Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Watsonville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "needs_confirmation",
+   "program_name": "Affordable Housing Ordinance (Municipal Code Chapter 14-46, Ordinance 1480-25 effective October 9, 2025) with in-lieu and commercial fees",
+   "administering_agency": "City of Watsonville Community Development Department, Housing Division (275 Main Street, Suite 400, (831) 768-3080)",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Projects of 7 to 50 units: for-sale 15% (5% above moderate, 5% median, 5% moderate), rental 20% (5% low, 5% median, 10% very low or Housing Choice Voucher and other subsidy recipients). Projects over 50 units: 20% for both tenures (for-sale 10% above moderate, 5% moderate, 5% median). In-lieu fees are required from projects of six or fewer units or lots, from new commercial and industrial development over 1,000 square feet (a commercial linkage fee) and from condominium conversions; fee amounts are set by Council resolution and indexed annually at 50% of the Santa Cruz-Watsonville House Price Index increase, paid at building permit or final map (14-46.070). Income categories use the Watsonville median household income, defined as 70% of the Santa Cruz County median. Federal, state or City-assisted affordable projects meeting the percentages satisfy the chapter in full (14-46.040(c)). Projects with 50% or more affordable units receive priority processing (14-46.080). Release fees for de-restricting units are paid into the affordable housing fund.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Rental units 55 years, ownership units 45 years, deed restricted; very low means the lower of 80% of Watsonville median or 50% of county AMI, low up to 100% of Watsonville median or 50% to 80% county AMI, median up to 120% of Watsonville median or 80% county AMI, moderate up to 150% of Watsonville median, above moderate up to 170%; preference for households living or working in Watsonville at least one year; minimum unit sizes and amenity standards in 14-46.060; affordable units built concurrently with market units.",
+   "eligible_project_types": [
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; requirement applies at entitlement. No application round as of November 9, 2026. Current in-lieu fee resolution amounts not located; request the fee schedule from the Housing Division.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "The deepest city inclusionary requirement in Santa Cruz County (20% of rental units with half at very low income or voucher holders) and the only city program with a commercial linkage component; it exceeds the County's Measure J (for-sale only) and Capitola's and Scotts Valley's 15% standards. Because 100% affordable projects satisfy the chapter automatically and get priority processing, tax credit developers face no added inclusionary cost, while mixed-income developers can satisfy the very low tier with Housing Authority of the County of Santa Cruz PBV units. Fees flow to the City's Affordable Housing fund (record below). The 2025 code text was read on the zoneomics mirror because codepublishing.com and gocodebook.com returned 403; the City's Affordable Housing page (watsonville.gov/172) was also opened.",
+   "source_url": "https://www.zoneomics.com/code/watsonville-CA/chapter_35",
+   "record_id": "b594d259ab",
+   "cycle_notes": "Ordinances 1480-25 and 1481-25 took effect October 9, 2025 and removed the prior exemption for unsubsidized rental projects. Affordable housing agreement approved by Council and recorded before final map or construction.",
+   "eligible_project_detail": [
+    "market-rate rental and for-sale projects of seven or more units (compliance)",
+    "small residential projects and commercial or industrial development (fee payers)",
+    "condominium conversions",
+    "subsidized affordable projects (automatic compliance)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Tier 4 Nov 9, 2026: Chapter 14-46 text on the zoneomics mirror matches every figure in the record (7 to 50 and over 50 unit tiers, 15 and 20 percent components, 55 and 45 year terms, income definitions, commercial over 1,000 sq ft fee, HPI indexing, priority processing at 50 percent affordable). The official watsonville.gov/172 page has no ordinance detail, codepublishing returns 403 and the Legistar API is not enabled, so the detail rests on a third-party mirror only; confidence lowered to needs_confirmation per source rule. prevailing_wage_trigger false is uncited; this is a regulatory requirement or fee rule with no public funds.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, redevelopment or successor agency, or local public housing authority; this inclusionary ordinance (Chapter 14-46) provides no public funds, so it does not by itself trigger prevailing wage. Any public loan, grant, land write-down or fee waiver layered on a project is assessed separately under 1720(b). https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Watsonville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "needs_confirmation",
+   "program_name": "Inclusionary Housing in-lieu fee Affordable Housing fund, HOME program income and Successor Agency housing assets",
+   "administering_agency": "City of Watsonville Community Development Department, Housing Division, and the City as Successor Agency to the Watsonville Redevelopment Agency",
+   "funding_type": "loan",
+   "typical_award_size": "The 2025-2029 Consolidated Plan states that inclusionary in-lieu fees under Chapter 14-46 go to the City's Affordable Housing fund and are used for development, acquisition, rehabilitation and preservation of affordable units, and that PLHA, HOME, CDBG, CalHome and in-lieu fees provide gap financing for the First-Time Homebuyer and Housing Rehabilitation programs. The City has no active state HOME grant (last award $1,546,000 in 2011) and holds over $1,850,000 of HOME program income available for future HOME-eligible activities; it has made over 500 FTHB loans and has 280 inclusionary ownership units. The 2025-2029 plan does not mention Successor Agency property and states the City does not anticipate using publicly owned land for CDBG goals. No in-lieu fund balance, multifamily loan terms or application procedure is published.",
+   "per_unit_cap": "Not published.",
+   "affordability_requirement": "Affordable to households at or below the Chapter 14-46 income categories (70% of county AMI basis) or HOME limits (80% AMI, 60% AMI for HOME rental units) with recorded affordability covenants of 45 to 55 years.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "homeownership"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Unknown, verify with agency. No NOFA is published; developers negotiate assistance project by project with the Housing Division ((831) 768-3080). Confirm the in-lieu fund balance, the HOME program income balance and the status of Successor Agency property dispositions.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Watsonville's local gap sources are modest and discretionary; the HOME program income (over $1.85 million per the 2025-2029 Consolidated Plan) is the largest identifiable pool and carries federal HOME rules and Davis-Bacon for 12 or more units. Stack with the County of Santa Cruz state HOME tenant-based assistance (which covers Watsonville), Housing Authority of the County of Santa Cruz PBVs, HHAP through the Watsonville/Santa Cruz CoC, and City CDBG (record below). Unlike Santa Cruz city there is no adopted trust fund guideline document. Marked needs_confirmation because no fund balance or program guideline could be opened; the 2025-2029 Consolidated Plan and 2020-2024 Consolidated Plan PDFs on watsonville.gov were read.",
+   "source_url": "https://www.watsonville.gov/DocumentCenter/View/27152/2025-2029-Consolidated-Plan-and-2025-2026-Action-Plan",
+   "record_id": "2fe4c84397",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "first-time homebuyer and owner rehabilitation loans",
+    "former redevelopment agency sites"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Consolidated Plan supports the fund's existence, HOME program income figure and 70% AMI inclusionary basis, but not multifamily award size, loan terms or the Successor Agency site claim; the documented uses of these funds are mainly homebuyer and owner rehab.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Watsonville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "needs_confirmation",
+   "program_name": "Density Bonus Ordinance (Municipal Code Chapter 14-47, Ordinance 1481-25 effective October 9, 2025) with impact fee deferral concession",
+   "administering_agency": "City of Watsonville Community Development Department, Planning Division (Director approves ministerial projects; Council approves discretionary projects)",
+   "funding_type": "density bonus",
+   "typical_award_size": "Adopts Government Code 65915 by reference for all housing developments; bonus calculated under 65915(f) for very low, lower, moderate for-sale, senior, foster youth, student and 100% affordable projects, with land donation, child care and condominium conversion bonuses. Local concession menu (14-47.120) adds deferral of development impact fees (park, fire, sanitary sewer, storm drain and traffic fees) until immediately before occupancy, plus other cost-reducing incentives proposed by the applicant or City. Parking capped at 1 space for 0 to 1 bedroom, 1.5 for 2 to 3 bedrooms and 2.5 for 4 or more bedrooms, tandem and uncovered allowed. Density bonus units do not count toward Chapter 14-46 inclusionary units.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Rental target units 55 years at affordable rent as defined in Chapter 14-46; for-sale target units 45 years with equity sharing under 65915(c)(2); occupancy as principal residence; density bonus housing agreement recorded.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income",
+    "senior housing",
+    "homeownership"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Submitted with the first project approval as a density bonus housing plan; projects with 30 or more affordable bonus units must identify a monitoring funding mechanism. Processing and monitoring fees are set by Council resolution.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "The fee deferral concession is the only codified fee relief in Watsonville (no waiver program); 100% affordable projects can also use Chapter 14-46 priority processing. Watsonville's bonus mirrors state law with no local enhancement, unlike the County's enhanced bonus in Chapter 17.12.065. Watsonville was certified for its 2023-2031 Housing Element and offers Downtown Watsonville Specific Plan densities; the Specific Plan (Chapter 14-47 of Part 26 on some mirrors) was not opened. Code read on the zoneomics mirror; codepublishing and gocodebook returned 403.",
+   "source_url": "https://www.zoneomics.com/code/watsonville-CA/chapter_36",
+   "record_id": "b590f9fc7c",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income rental and for-sale",
+    "senior housing",
+    "student housing",
+    "100% affordable developments"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Tier 4 Nov 9, 2026: Chapter 14-47 text on the zoneomics mirror matches (65915 adopted by reference, Ord. 1481-25 effective October 9, 2025, parking 1, 1.5 and 2.5 spaces with tandem and uncovered allowed, 55-year rental and 45-year for-sale terms, monitoring mechanism at 30 or more bonus units, 14-47.120 concessions). The official August 26, 2025 Council report confirms the density bonus update (Housing Element Program D.1) but carries no code text; codepublishing returns 403. Detail rests on a third-party mirror; confidence lowered to needs_confirmation per source rule. prevailing_wage_trigger false is uncited; this is a regulatory requirement or fee rule with no public funds.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Monterey",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Monterey",
+   "confidence": "needs_confirmation",
+   "program_name": "Inclusionary Housing Program (City Code Section 8-1.00 et seq.), in-lieu fees and inclusionary purchase and resale program",
+   "administering_agency": "City of Monterey Community Development Department, Housing Programs",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. The City Code (Section 8-1.00 et seq., Ordinance 3346 C.S. of 2004 requiring permanent affordability) requires a minimum of 20% permanently affordable low and moderate income units in projects of six or more new housing units and in condominium conversions (2015-2023 Housing Element Program i.2.1), with payment of in-lieu fees allowed; the 2015-2023 Housing Element reported that court rulings had limited the ordinance to ownership projects and that it did not apply to apartment projects; the 2023-2031 Housing Element Program 2-I directs the City to codify the requirement in the Zoning Code. The City holds a first right to repurchase deed-restricted ownership units and resells them to low income buyers using CDBG program income ($729,609 generated from such sales in 2025). Portfolio: 531 restricted units (100 inclusionary ownership, 431 deed-restricted rental) plus 42 in development; 2300 Garden Road delivered 13 inclusionary units in a 91-unit project in 2025.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Low and moderate income units with permanent affordability covenants (2004 ordinance); rental inclusionary units monitored by the Housing Office (about 533 deed-restricted units).",
+   "eligible_project_types": [
+    "mixed-income",
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement. Zoning Code codification (Program 2-I) and the density bonus update (Program 2-F, completed by Ordinance 3713 in December 2025) are Housing Element actions due during the 2023-2031 cycle; the Monterey 2031 General Plan update is under way.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Section 38-112.5(G)(4) lets on-site inclusionary units also qualify a project for a state density bonus, but payment of in-lieu fees does not. In-lieu fee amounts and the current fund balance were not in the documents opened; the City's municipal code host (municode) blocks scripts, so the ordinance text itself was not read. Program description comes from the FY 2026-27 Annual Action Plan and the zoning code cross-reference on the zoneomics mirror. Monterey County's Chapter 18.40 (county record) does not apply inside the city.",
+   "source_url": "https://files.monterey.gov/Document-Center/Departments/Community-Development/Housing/Plans-and-Reports/Action-Plans/FY26-27-Annual-Action-Plan.pdf",
+   "record_id": "998e609da7",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate rental and for-sale projects (compliance)",
+    "mixed-income projects"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "audit_note": "City spot check Nov 9, 2026: the source Action Plan confirms the 531-unit portfolio (100 inclusionary ownership, 431 deed-restricted rental, 42 in development), Housing Element Program 2-I codification and $729,609 of 2025 resale program income, and City Code 38-112.5 (Zoneomics mirror) confirms the Section 8-1.00 inclusionary ordinance and in-lieu fees. The 20 percent requirement, six-unit threshold and ownership-only applicability could not be confirmed: monterey.municipal.codes returned 403 and the 2015-2023 Housing Element PDF on files.monterey.gov could not be downloaded. The City ownership program page says resale buyers must be at or below moderate income, not only low income.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Ukiah",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Mendocino",
+   "confidence": "needs_confirmation",
+   "program_name": "Ukiah density bonus (Zoning Code Section 9253) and development fee deferral for affordable housing",
+   "administering_agency": "City of Ukiah Community Development Department, Planning Services",
+   "funding_type": "density bonus",
+   "typical_award_size": "Incentive, not a subsidy. Section 9253 (Ord. 945, 1993) grants at least the bonus and incentives in Government Code 65915 and lets the City deliver them through Planned Development zoning regardless of parcel size or a Council variance waiving development standards. The 2019 Housing Element reports a fee deferral program for housing developers (water and sewer hookups are the largest fees; typical multifamily fees about $12,500 per unit, 9.5% of development cost) and that affordable developers may receive funding and fee deferrals for infrastructure.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State density bonus thresholds (Gov. Code 65915); deed restriction per state law (55 years for rental).",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; requested with the project application.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Ukiah has no inclusionary ordinance or in-lieu fee; the 2019 Housing Element removed the inclusionary program and the nexus study, relying on the trust fund and by-right zoning instead. The 1993 code text predates recent state amendments, and the zoneomics mirror may lag the current Ukiah City Code (codepublishing.com is blocked to scripts); state law controls where it is more generous. Fee deferral terms were not found in a current resolution, so confirm amounts and timing with Planning (707-463-6268). A deferral of City fees is likely a public subsidy under Labor Code 1720(b)(4) unless repaid at market terms. The County density bonus ordinance (Chapter 20.234) does not apply inside city limits.",
+   "source_url": "https://www.zoneomics.com/code/ukiah-CA/chapter_27",
+   "record_id": "4ff9e36e74",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Nov 9, 2026 spot check: Section 9253 (Ord. 945, 1993; at least 65915 bonuses, PD zoning regardless of parcel size, Council variance) matches the zoneomics mirror only; the fee deferral statement from the 2019 Housing Element was not re-found on an official page. Mirror-only source does not support verified.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. A Council variance can waive development fees and the City offers fee deferral for affordable housing; the density bonus itself provides no public funds (1720(a)(1)). Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ }
+]

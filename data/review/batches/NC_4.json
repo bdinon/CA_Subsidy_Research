@@ -1,0 +1,518 @@
+[
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "San Benito County",
+   "date_researched": "2026-11-07",
+   "research_pass": "2_county",
+   "county_tag": "San Benito",
+   "confidence": "needs_confirmation",
+   "program_name": "Affordable housing in-lieu fee fund and impact fee waivers for 100% affordable developments",
+   "administering_agency": "San Benito County Resource Management Agency, Planning and Building; County Executive Office (impact fee program)",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Chapter 21.03 amendments (Ordinance 1052) were heard December 13, 2022, continued, and approved January 17, 2023 with Resolution 2023-02 adopting a $30 per square foot inclusionary in-lieu fee for for-sale homes (fractional units and 6 to 10 unit projects). The amended Section 21.03.012 allows in-lieu fees to fund an affordable housing trust or to reimburse the County for impact fee waivers granted to 100% affordable developments. The Board directed staff to return in three months to revisit the 15% floor and the in-lieu fee. Fund balance and any waiver approvals are not published. Before 2023, developers voluntarily paid $4,500 per unit under development agreements.",
+   "per_unit_cap": "Not published.",
+   "affordability_requirement": "Waiver reimbursement applies only to 100% affordable developments; trust fund uses follow Chapter 21.03.",
+   "eligible_project_types": [
+    "new construction",
+    "homeownership"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA. Request an impact fee waiver with the entitlement application and confirm the in-lieu fund balance with Planning and Building; the County has not issued a housing fund NOFA.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. Confirmation needed: the ordinance language creating the waiver reimbursement was read in the 2022 Board packet, but the current code text, the fund balance and any adopted waiver procedure could not be opened (sanbenitocountyca.gov and amlegal 403). Treat as a negotiable cost reduction for a 100% affordable project rather than a funded program.",
+   "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/cosb/6404819104d9eef39ad033a9e4860b430.pdf",
+   "record_id": "623a7bb988",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "100% affordable rental or ownership developments in unincorporated San Benito County"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass 2026-11-09: false was uncited and contradicted by 1720(b)(4) for fee waivers; set unclear per Tier 3 rule.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Fees reduced, waived, deferred or reimbursed are public funds under Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720); whether a project is covered depends on 1720(c)(3) de minimis (under $600,000 and 2% of project cost) and other 1720(c) exemptions. No program rule stating prevailing wage was found. In-lieu fee fund spending on a project would be public funds under 1720(b)(1)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "San Benito County",
+   "date_researched": "2026-11-07",
+   "research_pass": "2_county",
+   "county_tag": "San Benito",
+   "confidence": "needs_confirmation",
+   "program_name": "Welfare exemption from property tax for nonprofit-owned affordable housing, San Benito County Assessor",
+   "administering_agency": "San Benito County Assessor, Tom J. Slavich (1131 San Felipe Road, Hollister)",
+   "funding_type": "tax abatement",
+   "typical_award_size": "Standard state welfare exemption for low-income rental housing owned by a qualifying nonprofit or by a limited partnership whose managing general partner is a nonprofit or eligible LLC, with a BOE Organizational Clearance Certificate (and a Supplemental Clearance Certificate for limited partnerships). Claims are filed with the County Assessor on BOE-267 (first filing) or BOE-267-A (annual), with supplemental affidavit BOE-267-L (nonprofit owner) or BOE-267-L1 (limited partnership); BOE-267-H applies to elderly or handicapped housing.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Units restricted to households at or below 80% AMI under a recorded regulatory agreement; exemption prorated to qualifying units.",
+   "eligible_project_types": [
+    "other"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "File BOE-267 or BOE-267-A with BOE-267-L or BOE-267-L1 with the Assessor by February 15, 2027 for the 2027-28 roll; late claims receive 90% or 85% relief with a $250 cap on tax, penalty and interest.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "San Benito County is a small non-entitlement county with no housing department: the Resource Management Agency (Planning and Building, Abraham Prado, (831) 637-5313) administers the inclusionary ordinance, in-lieu fees, density bonus and TEFRA hearings; the Health and Human Services Agency (Community Services and Workforce Development) runs HHAP, the shelter and the Migrant Center; Behavioral Health holds BHSA; and the Housing Authority of the County of Santa Cruz administers vouchers and PBVs for Hollister and San Juan Bautista. The County has no HOME or CDBG entitlement, no housing trust fund NOFA and no County loan program; Hollister runs its own PLHA and CDBG programs (Pass 3). sanbenitocountyca.gov and the amlegal code library block automated access, so records were built from Board of Supervisors packets on cosb.granicus.com (attachments on d2kbkoa27fdvtw.cloudfront.net), HCD allocation tables and hacosantacruz.org. Confirmation needed: the Assessor's page on sanbenitocountyca.gov returned 403 to automated access, so contact details and any local filing notes were not read this pass; the exemption itself is state law administered by every county assessor.",
+   "source_url": "https://www.sanbenitocountyca.gov/departments/assessor",
+   "record_id": "5c71dd5770",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "LIHTC rental housing with nonprofit managing general partner",
+    "nonprofit-owned affordable rental housing"
+   ],
+   "next_deadline_date": "2027-02-15",
+   "deadline_check": "future_date",
+   "link_status": "blocked",
+   "audit_note": "Form numbers corrected from BOE Publication 149 (the record cited BOE-267-H-A, which is not the low-income housing affidavit); the Assessor page still returns 403 to curl and WebFetch, so local details remain unconfirmed.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) and (b)(4) (california.public.law/codes/labor_code_section_1720): public works requires construction paid for in whole or in part out of public funds, including fees, loans or other obligations normally required in executing the construction contract that are reduced or waived. The welfare exemption (Rev. and Tax. Code 214(g)) reduces property tax on the completed property; it pays no construction cost, so it does not itself trigger prevailing wage."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Hollister",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Benito",
+   "confidence": "needs_confirmation",
+   "program_name": "Inclusionary Housing Program (Municipal Code Chapter 17.36, Ordinance 1252)",
+   "administering_agency": "City of Hollister Community Development Department, Planning Division and Housing Division (housing@hollister.ca.gov, (831) 636-4360 x1254)",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. All for-sale and rental residential projects of 10 or more units must provide 15% of base units (before any density bonus) as on-site inclusionary units: at least 6% very low income, at least 5% very low or low income, and at least 4% very low, low or moderate income (Section 17.36.050). Fractions of 0.25 or more round up. No in-lieu fee option exists; the only alternatives (Section 17.36.060) are affordable rental units inside a for-sale project or acquisition and rehabilitation of existing market-rate units (rehab value at least 25% of pre-rehab value, physical needs assessment, on a residentially zoned site). Council approved the ordinance June 18, 2024 (second reading August 2024 per Housing Element Policy Action H4.1); goal of 150 inclusionary units during 2023-2031.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Inclusionary units sold or rented only to very low (50% AMI), low (80% AMI) or moderate (120% AMI) households per San Benito County HCD limits (2025 AMI $140,200 for a family of four); units must average at least 85% of the square footage of market units with the same bedroom count, match bedroom mix, finishes and exterior design, and be dispersed on site; buyers and renters screened through an open public process by the City or a third-party administrator; for-sale units carry resale controls and rental units carry recorded affordability covenants.",
+   "eligible_project_types": [
+    "acquisition-rehab",
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement; inclusionary units must be permitted and occupied in proportion to market-rate units in each phase (Section 17.36.050 F). Exempt: ADUs, projects under 10 units, vesting tentative maps and development agreements in effect at the June 2024 effective date, and complete applications filed before that date. Council may set administration and monitoring fees by resolution (Section 17.36.080).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Hollister's program is stricter than the San Benito County Chapter 21.03 ordinance (15% on site or 20% off site, with a $30 per square foot in-lieu fee) because it allows no fee payment and requires on-site units for both rental and for-sale projects; as a result the City has no inclusionary in-lieu fund to redeploy as gap financing. Inclusionary units may be used to qualify for a density bonus under Chapter 17.34 (Section 17.36.050 C), so a 15% inclusionary project can stack the state bonus and concessions. The City's Below Market Rate Housing Program (affordable_housing.php) administers waitlists for inclusionary units; all waitlists were closed as of this pass. Hollister's prior Housing Developer Resources page (opened) states the City previously had no inclusionary ordinance; the code text was read on the zoneomics mirror because library.municode.com blocks automated access. Pairs with the Housing Authority of the County of Santa Cruz PBVs and the CMFA conduit bonds recorded at the county level (Baler Place, 340 Bridgevale Road, is a Hollister project).",
+   "source_url": "https://www.zoneomics.com/code/hollister-CA/chapter_16",
+   "record_id": "dfadf93775",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate for-sale subdivisions and condominium projects of 10 or more units (compliance)",
+    "market-rate rental projects of 10 or more units (compliance)",
+    "acquisition-rehab of existing units as alternative compliance"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Nov 9, 2026 spot check: Chapter 17.36 text on the zoneomics mirror matches the record (10 or more units, 15% on site split 6/5/4, 0.25 rounding, no in-lieu fee, 85% size rule). The City zoning ordinance updates page confirms Ordinance 1252 adopted August 6, 2024 adding Chapter 17.36, but the ordinance PDF on files.hollister.ca.gov returns 403, so code text was read only on a third-party mirror; confidence lowered to needs_confirmation per source rule.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Hollister",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Benito",
+   "confidence": "needs_confirmation",
+   "program_name": "Permit fee waiver program for affordable and special needs housing and reduced multifamily impact fees (Housing Element Policy Action H3.3)",
+   "administering_agency": "City of Hollister Planning, Building and Finance Divisions and Engineering Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Existing: lower sewer and water connection fees and traffic impact fees for multifamily development (per-unit basis; the City is considering a square-foot basis). Committed: a reduction or waiver of permit processing fees for affordable and other special needs housing projects, to be established by August 2026 following the user fee study now underway; the Housing Element also calls for waiving permit fees for ADUs under certain sizes or deed restricted as affordable to lower income households, and the sites strategy table contemplates reducing development fees for key sites. Amounts not yet set.",
+   "per_unit_cap": "Not yet established.",
+   "affordability_requirement": "Affordable and special needs housing projects as defined in the program procedures to be adopted; ADU waivers tied to size or lower income deed restriction.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "senior housing",
+    "adu"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No application deadline. Policy Action H3.3 set August 2026 to establish the fee waiver program; adoption could not be confirmed. Confirm with the Planning Division before underwriting any waiver.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Hollister has no codified fee waiver today, unlike San Benito County Section 21.03.012, which can reimburse impact fee waivers for 100% affordable projects from county in-lieu fees. Because Hollister collects no inclusionary in-lieu fees, any waiver will be a general fund cost, which is why the City is tying it to the user fee study. Density bonus concessions under Chapter 17.34 remain the only guaranteed path to fee or standard relief until the program is adopted. Recorded as negative information per schema rule 4 and so the August 2026 commitment can be tracked.",
+   "source_url": "https://files.hollister.ca.gov/CLEAN%20FINAL%20DRAFT%20City%20of%20Hollister%206th%20Cycle%20Housing%20Element%20Update_04.24.2026%20(1).pdf?t=202607071654130",
+   "record_id": "9f1cda8ebd",
+   "cycle_notes": "Lower multifamily sewer, water and traffic impact fees apply now through the fee schedule; the permit fee waiver program for affordable and special needs housing was due by August 2026 and its adoption is unconfirmed.",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing",
+    "senior and special needs housing",
+    "adu"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Housing Element text for H3.3 and the ADU fee waiver action confirmed; status after the August 2026 target and the 2025 APR entry were not confirmed from an official source, so confidence stays needs_confirmation. application_cycle changed from closed/inactive because the reduced multifamily impact fees are in effect.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. A permit fee waiver for affordable and special needs housing is committed in Housing Element Policy Action H3.3 but not yet adopted; lower multifamily connection and traffic fees are part of the general fee schedule. Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Arroyo Grande",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "needs_confirmation",
+   "program_name": "Inclusionary Affordable Housing Requirements (Municipal Code Chapter 16.80; Ord. 595, 2007) and in-lieu fee",
+   "administering_agency": "City of Arroyo Grande Community Development Department (City Council decides units, fee or land on each project)",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Applies to new residential projects of two or more units, substantial rehabilitation of two or more units and condo conversions. Options: 5% very low income units, or 10% lower income units, or 15% moderate income units (rental or non-common-interest projects), or an equivalent combination; or an in-lieu fee set by Council resolution (the Housing Element reports the fee was raised from 1% to 5%, applied to construction valuation); or land dedication. Projects of two to four units may always pay the fee. Fees go to the Inclusionary Affordable Housing Trust Fund (Sections 16.80.070 and 16.80.080). Through 2020 only two very low income units had been entitled; nearly all applicants paid the fee.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Rental units restricted at least 55 years, ownership units at least 45 years, at affordable housing cost per Health and Safety Code 50052.5 and 50053; units dispersed and comparable to market-rate units; affordable housing agreement required before map approval or building permit.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; fee paid before the first ministerial permit (grading, demolition or building). Housing Element Program E.1-1 called for amending the requirements and fee within two years of the January 26, 2021 adoption; the fee methodology was still preliminary when the element was adopted.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Low threshold (two units) means almost every multifamily project pays into the trust fund, which is the City's only local gap source (separate record). Chapter 16.80.110 coordinates with the density bonus chapter; inclusionary units can count toward density bonus thresholds. Incentives listed in the Housing Element for inclusionary projects include density bonuses, fee waivers or reductions and modified development standards, but no standing fee waiver ordinance was found. County inclusionary ordinance was repealed in 2022, so this is one of only two active inclusionary programs in the county (with the City of SLO). Read on the zoneomics mirror; arroyogrande.org opens but its housing pages are thin and the eScribe agenda host renders in JavaScript.",
+   "source_url": "https://www.zoneomics.com/code/arroyo-grande-CA/chapter_21",
+   "record_id": "44f0f7c2a8",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "mixed-use"
+   ],
+   "next_deadline_date": "2021-01-26",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "audit_note": "Tier 4: only the Zoneomics mirror of Chapter 16.80 could be read (Arroyo Grande code on codepublishing is blocked); text matches on applicability (two or more units, substantial rehab, conversions), 5% very low, 10% lower or 15% moderate options, fee by Council resolution paid before the first ministerial permit, two to four unit fee option, land dedication, trust fund and 55 and 45 year terms. Mirror-only source does not by itself support verified; current fee resolution not re-read. prevailing_wage_trigger false is uncited. Confidence held at needs_confirmation: mirror-only source.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Arroyo Grande",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "needs_confirmation",
+   "program_name": "Density Bonuses (Municipal Code Chapter 16.82; Ord. 596, 2007)",
+   "administering_agency": "City of Arroyo Grande Community Development Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement-based entitlement, not a subsidy. Local codification of state density bonus law: one density bonus per project for 10% lower income, 5% very low income, senior housing, qualified mobilehome park or 10% moderate income for-sale units, with specified bonus percentages, incentives and concessions, waivers of development standards, parking incentives and land donation provisions. Section 16.82.130 defers to state law amendments, so the larger bonuses and lower thresholds in current Government Code 65915 apply even though the chapter text dates to 2007.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Chapter text requires 30-year affordability for low and very low income bonus units (state law now requires 55 years, which governs); equity sharing for moderate income for-sale units.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; requested with the planning application.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancement beyond state law; the chapter has not been comprehensively updated since 2007 and relies on its state-law amendment clause. Inclusionary units under Chapter 16.80 can be used to qualify for the bonus (Section 16.80.110), which is the main local layering point. Arroyo Grande has no fee waiver ordinance, RDA successor housing fund or NOFA; its tools are the inclusionary trust fund and this chapter, plus County and HASLO resources. Read on the zoneomics mirror.",
+   "source_url": "https://www.zoneomics.com/code/arroyo-grande-CA/chapter_22",
+   "record_id": "8e382c7245",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-use"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Tier 4: only the Zoneomics mirror of Chapter 16.82 could be read; text matches on qualifying categories, 30-year affordability language, equity sharing for moderate for-sale units and Section 16.82.130 deferring to amended state law. Mirror-only source does not by itself support verified. prevailing_wage_trigger false is uncited; a density bonus is not a payment of public funds. Confidence held at needs_confirmation: mirror-only source.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Oxnard",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Ventura",
+   "confidence": "needs_confirmation",
+   "program_name": "Oxnard Density Bonus and Related Incentives and Concessions Program (City Code Chapter 16, Division 7A, Sec. 16-410 et seq.)",
+   "administering_agency": "City of Oxnard Community Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Density bonus, incentives, waivers and parking modifications per Gov. Code 65915; no direct funding.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Per state density bonus law; rental affordability at least 55 years; affordable housing agreement and equity sharing agreement for for-sale units (Sec. 16-410.19). Units dispersed, phased proportionally and architecturally consistent (Sec. 16-410.17).",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applied with the qualified housing development application.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Local procedural layer on state law (Ord. 2912, 3002, 3035); includes land donation and child care bonuses and a condominium conversion bonus. Inclusionary units are counted on the base count and do not count toward the bonus (Ordinance 2980 Part 15), which is stricter than cities that allow overlap (City of Ventura). Coastal zone projects also need Coastal Act consistency. Read from the zoneomics code mirror because the city's code host blocks scripts.",
+   "source_url": "https://www.zoneomics.com/code/oxnard-CA/chapter_5",
+   "record_id": "e7e38bd9b1",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09",
+   "audit_note": "City spot check Nov 9, 2026: the zoneomics mirror of Oxnard City Code Chapter 16 could not be retrieved (HTTP 413, retry denied by the permission system), oxnard.gov HTML is Cloudflare-blocked, and the FY 2026-27 Action Plan only says the City participates in the State Density Bonus Program, so the Sec. 16-410 covenant and equity sharing terms were not rechecked."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Oxnard",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Ventura",
+   "confidence": "needs_confirmation",
+   "program_name": "Oxnard Affordable Housing Additive Zones, -AHP (by-right) and -AHD (discretionary) (City Code Chapter 16, Division 7C, Ordinance No. 2999)",
+   "administering_agency": "City of Oxnard Community Development Department, Planning Division",
+   "funding_type": "zoning incentive",
+   "typical_award_size": "Zoning entitlement, not a subsidy: adds the right to build multifamily or mixed use at up to 30 units per acre on Housing Element sites; ministerial site plan review in -AHP; lot merger fees waived when merging parcels under 0.5 acre. The FY 2026-27 Action Plan cites an inventory of 2,466 potential units in these zones.",
+   "per_unit_cap": null,
+   "affordability_requirement": "At least 20% of units affordable to extremely low, very low or low income households; 55-year rental and 45-year ownership restrictions; no in-lieu payment option; Inclusionary Housing Ordinance also applies; Oxnard-resident preference list.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Available now on designated Housing Element Supplement 1 sites.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Commercial or office space capped at 15% of floor area for by-right treatment. Impact fees still apply (Sec. 16-420D(D)), so fee relief must come from Policy H-4.2 waivers negotiated separately. State density bonus (Division 7A) can be layered for more density. Useful for 100% affordable tax credit projects seeking ministerial certainty on smaller sites.",
+   "source_url": "https://www.zoneomics.com/code/oxnard-CA/chapter_5",
+   "record_id": "3fedd621ce",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, redevelopment or successor agency, or local public housing authority; this additive zone (by-right or discretionary multifamily entitlement under Division 7C) provides no public funds, so it does not by itself trigger prevailing wage. Any public loan, grant, land write-down or fee waiver layered on a project is assessed separately under 1720(b). https://california.public.law/codes/labor_code_section_1720 The lot merger fee waiver for parcels under 0.5 acre is a 1720(b)(4) item but far below the 1720(c)(3)(B) de minimis threshold (under $600,000 and under 2% of project cost). The -AHP path is a local by-right path, not Gov. Code 65913.4.",
+   "last_audited": "2026-11-09",
+   "audit_note": "City spot check Nov 9, 2026: the zoneomics mirror of Oxnard City Code Division 7C could not be retrieved (HTTP 413, retry denied by the permission system) and oxnard.gov HTML is Cloudflare-blocked. The official FY 2026-27 Action Plan (approved May 5, 2026) confirms -AHP and -AHD zones on about 63 parcels allowing up to 30 units per acre with at least 20 percent affordable units and an inventory of 2,466 potential units; the 55-year rental and 45-year ownership terms and the no in-lieu rule were not rechecked."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Thousand Oaks",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Ventura",
+   "confidence": "needs_confirmation",
+   "program_name": "Thousand Oaks Affordable Housing Trust Fund (Municipal Code Title 9, Chapter 10, Article 2, Ord. 1506-NS as amended by 1719-NS)",
+   "administering_agency": "City of Thousand Oaks Community Development Department",
+   "funding_type": "loan",
+   "typical_award_size": "Special revenue fund for very low, lower and moderate income housing, funded by inclusionary in-lieu fees, loan repayments, grants and Council appropriations. Nonresidential linkage fee proceeds go to a separate subaccount, but the linkage fee is set at $0 per square foot (Council direction 2023). Fund balance not published in the documents opened.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Units assisted are subject to an Affordable Housing Agreement under Article 6; funds may only be spent within city limits.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No City NOFA found; the 2024 APR says the County administers the City's HOME and PLHA and that developers were expected to request funding in 2025. Contact Community Development (Senior Planner Iain Holt).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Revenue has been thin because the in-lieu fee was set at zero from 2009 until the November 2023 update. The City has used land instead: it donated Hillcrest area land to the Housing Land Trust Ventura County for a 78-unit for-sale townhome project with People's Self-Help Housing, provided City land for a 50-bed navigation center, and partnered with the County on Step Up (77 extremely low income PSH units). A PLHA grant went to HTFVC as Local Housing Trust Fund match in FY 2021-22. For rental gap, look first to the County PLHA plan (which covers Thousand Oaks), the County HOME Consortium and HTFVC.",
+   "source_url": "https://www.zoneomics.com/code/thousand-oaks-CA/chapter_10",
+   "record_id": "c39bce1dcb",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass Nov 9, 2026: true rested on public-funds logic only; no program or local rule found, changed to unclear.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. No Thousand Oaks Affordable Housing Trust Fund NOFA, guideline, resolution or loan term requiring prevailing wage was found (Municipal Code Title 9, Chapter 10, Article 2 has no wage term; only the density bonus article says City financial incentives may require prevailing wages if state law requires). Loans are public funds under 1720(b)(1) or (b)(4), but qualifying below-market loans may be exempt under 1720(c)(5)(E) and small subsidies under 1720(c)(3). https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Thousand Oaks",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Ventura",
+   "confidence": "needs_confirmation",
+   "program_name": "Thousand Oaks Density Bonus Program plus Incentives for Small and Underutilized Parcels and Lot Consolidation (TOMC 9-10 Articles 5, 7 and 8)",
+   "administering_agency": "City of Thousand Oaks Community Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "State density bonus with local add-ons. Small and underutilized parcel incentives (Art. 7, Ord. 1568-NS): 100% affordable projects (all units except a manager unit for extremely low, very low or low income households, under recorded agreement) at a minimum 20 units per net acre on an existing parcel under 1/2 acre (alone or combined with contiguous parcels) or a Housing Element underutilized site may request any two extra incentives beyond density bonus incentives. Lot consolidation (Art. 8, Ord. 1734-NS, effective January 10, 2025): projects merging lots get a pre-application with no Planning Division fees, waivers of listed Mixed-Use standards (14-foot ground floor plate, 60-foot retail depth, third floor setback, 3% public exterior space), modified setbacks and height steps, reduced courtyard standards, and 65915(d)(2) regulatory incentives even without a density bonus.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Density bonus per Gov. Code 65915 with 55-year rental covenants; Article 7 incentives require 100% of units affordable to extremely low, very low or low income households; lot consolidation incentives on Housing Element sites require the inventory affordability, and on MU, MUOZ or R-3 sites outside the inventory require 20% of rental units for lower income or 20% of ownership units for moderate income households.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applied with the entitlement application.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Council may grant more density than state law (9-10.502(b)), but the code states the City need not provide financial participation such as fee waivers or land. November 2024 zoning amendments (Housing Element Program 8) updated density bonus, lot merger and SB 35 streamlining provisions. Stack with inclusionary compliance and the impact fee deferral program.",
+   "source_url": "https://www.zoneomics.com/code/thousand-oaks-CA/chapter_10",
+   "record_id": "8c520e2130",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Tier 4 spot check Nov 9, 2026: Article 7 eligibility on the zoneomics mirror requires all units affordable to lower income households, which the record omitted; Article 8 also covers 20% moderate income ownership projects. Sec. 9-10.502(b) and (c) (Ord. 1733-NS, effective January 3, 2025) match. Mirror-only source; municode blocked, so confidence lowered.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Thousand Oaks",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Ventura",
+   "confidence": "needs_confirmation",
+   "program_name": "Thousand Oaks Development Impact Fee Deferral Program (temporary Council resolution, October 2023)",
+   "administering_agency": "City of Thousand Oaks Community Development Department and Finance Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Deferral, not a waiver: City development impact fees paid at certificate of occupancy instead of building permit. Dollar value depends on project fee load.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Housing Element Program 7 called for fee deferrals for affordable projects; the 2024 APR describes the October 2023 resolution as a citywide temporary deferral in effect until a date uncertain.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No confirmed active program as of November 8, 2026; the 2025 Housing Element APR no longer mentions the deferral. Confirm with Thousand Oaks Community Development before underwriting.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Improves construction-period cash flow and reduces construction loan interest; does not reduce permanent sources needed. School district and non-City fees are not covered. A pure deferral is generally not treated as a public subsidy under Labor Code 1720, but confirm with counsel if paired with other City assistance.",
+   "source_url": "https://toaks.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=e0def7f5-9746-44c2-aa36-8052d70b5e57",
+   "record_id": "7dc729615f",
+   "cycle_notes": "Temporary Council resolution adopted October 2023, in effect until a date uncertain per the 2024 APR (March 25, 2025 Council report). The 2025 APR (Attachment 2 to the March 10, 2026 Council agenda) repeats the Program 7 text on inclusionary and linkage fees but omits the fee deferral sentence, so the program may have lapsed. State law (Gov. Code 66007) separately defers most residential impact fees to final inspection or certificate of occupancy.",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(b)(4) treats fees that are reduced, waived or forgiven as public funds and 1720(b)(5) covers loans repaid on a contingent basis, but the statute does not address a pure deferral; no City or DIR rule on this deferral was found.",
+   "audit_note": "T2 audit 2026-11-08: current status of the October 2023 deferral resolution could not be confirmed; prevailing wage left unclear for lack of a stated rule.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Ventura",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Ventura",
+   "confidence": "needs_confirmation",
+   "program_name": "City of Ventura affordable housing fee deferral and partial fee waiver program (Housing Element Program 29)",
+   "administering_agency": "City of Ventura Community Development Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Housing Element Program 29 called for a fee deferral program and a Director-granted partial fee waiver for 100% affordable projects by the FY 2022-23 budget, plus expedited plan check. Existing: 100% affordable projects are exempt from the $13,000 development agreement fee; Riverside Apartments and Westview Village received Council-granted partial fee waivers. In February 2025 the City Council considered a $570,272 impact fee deferral (including the $167,500 Quimby fee) for the College Community Courts project (People's Self-Help Housing), which indicates deferrals still go to Council case by case.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Partial waiver limited to all-affordable projects; deferral for affordable housing projects.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Unknown, verify with agency.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Before this program, fee waivers required City Council approval case by case, which was hard to use because housing projects do not otherwise go to Council. Fee waivers are local public funds and can trigger state prevailing wage. Needs confirmation because the city site (Cloudflare) blocked budget and Council documents; only the 2021-2029 Housing Element on the HCD site was opened.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf",
+   "record_id": "fc3dd4f637",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Implementation of the Director-granted waiver program not confirmed; cityofventura.ca.gov HTML pages return 403 and no adopted program document was found. No stated prevailing wage rule for City fee waivers was found.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. 100 percent affordable projects are exempt from a City development fee, and Housing Element Program 29 calls for fee deferral and a partial fee waiver. Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Ventura",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Ventura",
+   "confidence": "needs_confirmation",
+   "program_name": "City of Ventura City-Owned and Publicly Owned Land for Housing and Affordable Housing Overlay (Housing Element Programs 23 and 24)",
+   "administering_agency": "City of Ventura Community Development Department",
+   "funding_type": "land",
+   "typical_award_size": "Land disposition or long-term lease of City sites (e.g., parking lots) via development agreements; no dollar figures.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Per disposition terms and the Surplus Land Act.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Housing Element targets: identify properties by end of 2023 and study disposition or lease by 2025. Current status unknown, verify with agency.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Ventura is near build-out, so public land is a main site source. The Housing Element also commits to continued funding of Housing Trust Fund Ventura County (Program 13; see County HTFVC record) and to exploring a business or parcel tax for housing. Needs confirmation because the city site blocked access.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf",
+   "record_id": "0ec610234d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Reclassified to land because the main deployable value is disposition or long-term lease of City-owned sites (Program 23); the Affordable Housing Overlay (Program 24, adoption targeted end of 2023) is an entitlement incentive whose adoption was not confirmed. City site blocked, so current status is unconfirmed.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Ventura 2021-2029 Housing Element (Programs 23 and 24, https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf) states no prevailing wage term for City land dispositions, and the Surplus Land Act sections opened (Gov. Code 54222.5, https://california.public.law/codes/government_code_section_54222.5; 54233, https://california.public.law/codes/government_code_section_54233) impose affordability, not wages. A sale or lease of City land below fair market value is public funds under Labor Code 1720(b)(3), and the 1720(c)(5)(E) exemption covers only below-market loans, not land write-downs, so a below-market disposition can make the project a public work unless 1720(c)(3) de minimis applies; a fair market value disposition adds no public funds. https://california.public.law/codes/labor_code_section_1720"
+  }
+ }
+]

@@ -1,0 +1,305 @@
+[
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Alameda County",
+   "date_researched": "2026-11-06",
+   "research_pass": "2_county",
+   "county_tag": "Alameda",
+   "confidence": "needs_confirmation",
+   "program_name": "County boomerang funds for housing and homelessness (former redevelopment residual property tax)",
+   "administering_agency": "Alameda County Board of Supervisors through Housing and Community Development and Health, Housing and Homelessness Services",
+   "funding_type": "grant",
+   "typical_award_size": "2017 policy: 20% of the prior year's boomerang receipts, $5,000,000 minimum and $7,500,000 maximum a year, as a five-year commitment starting FY 2016-17 ($5,000,000 in FY 2016-17 and FY 2017-18) for housing resource centers and coordinated entry ($2,000,000 a year), anti-displacement crisis services ($3,500,000 initial) and other Home Together system costs; a one-time $9,800,000 boomerang allocation seeded Measure A1 implementation. HCD still lists boomerang funds among its development sources and recent HCD project commitments cite boomerang dollars, but no current annual amount or policy was located and the 2025 Housing Plan does not list it as a revenue source.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Follows the program funded; development uses carry County loan terms (3% simple, 55 to 59 years, at or below 80% AMI).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "services/operations"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "Unknown; ask HCD whether boomerang funds remain in the fall development RFP or were absorbed into Measure W planning.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Recorded as needs_confirmation because the only document opened is the 2017 EveryOne Home implementation deck describing the five-year commitment; the acgov HCD page that listed boomerang funds now redirects to achcd.org without that text. Local and state funds are public funds under Labor Code 1720(b), so state prevailing wage applies unless a 1720(c) exemption fits the deal, such as 1720(c)(5)(E) for below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI (see prevailing_wage_basis). Housing successor (LMIHAF) reporting for the former Alameda County Redevelopment Agency was not found.",
+   "source_url": "https://everyonehome.org/wp-content/uploads/2017/05/EOH-GO-Bond-Implementation-and-Boomerang-5-3-17.pdf",
+   "record_id": "777c6b9680",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "supportive housing",
+    "new construction",
+    "acquisition-rehab",
+    "services"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "audit_note": "PW pass Nov 9, 2026: true rested only on 'public funds, so prevailing wage applies'; no program rule found, changed to unclear.",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. No County boomerang fund guideline or agreement with a wage term was found; County grants to private affordable projects may fall under 1720(c)(3) de minimis or other 1720(c) exemptions depending on the deal."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Petaluma",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "needs_confirmation",
+   "program_name": "Petaluma density bonus and affordable housing incentive package (Housing Element 2023-2031 Programs 14 and 15; Implementing Zoning Ordinance density bonus chapter)",
+   "administering_agency": "City of Petaluma Community Development Department, Planning and Housing Divisions",
+   "funding_type": "density bonus",
+   "typical_award_size": "Regulatory. The City applies state density bonus law (Government Code 65915) through Implementing Zoning Ordinance Chapter 27, last updated in 2019; Zoning Code Interpretation 2023-01 (September 8, 2023) directs staff to apply state law wherever Chapter 27 conflicts until the code is updated. In November 2022 the City Council adopted a resolution exempting deed-restricted affordable housing projects from the City's facilities, parkland, traffic and open space impact fees (City Housing Finance Analysis, August 2023). Housing Element Program 14 committed the City to adopt by December 2023 a broader incentive package: expedited review, a dedicated project manager, Local Housing Trust Fund participation, density bonus beyond state law, and streamlined review for 100% affordable projects. Whether that package and any local bonus beyond state law were adopted could not be confirmed.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State density bonus thresholds (5% very low, 10% low, 10% moderate for-sale, 100% affordable for the 80% bonus); local enhancements, if adopted, would set their own thresholds.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Unknown, verify with agency. Confirm with Petaluma Planning whether the December 2023 incentive package, a local density bonus and affordable housing fee waivers were adopted, and the status of the Workforce/Missing Middle program (Program 15).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "The November 2022 impact fee exemption for deed-restricted affordable projects is in effect per the City's 2023 Housing Finance Analysis and can count as a local match in state funding applications; confirm current exemption terms with Planning. The Implementing Zoning Ordinance (gocodebook and petaluma.municipal.codes return 403) and cityofpetaluma.org housing pages were blocked. Petaluma has been Prohousing designated, based in part on fee reductions and the trust fund. Fee exemptions stack with the Housing Fund and state density bonus; the County fee waiver and deferral programs (county records) do not apply inside Petaluma.",
+   "source_url": "https://planpetaluma.squarespace.com/s/Housing-Element-Final-Certified-2023-2031web.pdf",
+   "record_id": "a3627a554c",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income projects",
+    "100% affordable rental"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "redirected",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. The package pairs the state density bonus with the November 2022 impact fee exemption for deed-restricted affordable projects; the bonus itself provides no public funds (1720(a)(1)). Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Rohnert Park",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "needs_confirmation",
+   "program_name": "Rohnert Park affordable housing funds (Rental Affordable Housing Fee and Housing In-Lieu Fee account, Housing Fund) and Essential Housing Bond Financing Program (Housing Element Programs HO-3.F and bond program)",
+   "administering_agency": "City of Rohnert Park Development Services Department and City Manager's office; City Council approves assistance",
+   "funding_type": "loan",
+   "typical_award_size": "No NOFA; the City provides gap loans or grants and land through development agreements and Council action, drawing on the segregated affordable housing fee account (budget Funds 4220 Affordable Housing Rental Fee and 4225 Affordable Linkage Fee) and the Housing Fund named in the 2023-2031 Housing Element as a funding source for Programs HO-1.B and HO-3.F (affordable housing on underutilized City sites, including extremely low income units). The Housing Element's Essential Housing Bond Financing Program commits the City to authorize CSCDA or another JPA to issue an estimated $191.3 million in governmental-purpose bonds for acquisition-conversion of market-rate apartments and new deed-restricted housing, forgoing about $337,346 in property tax and targeting at least 222 units (99 very low, 57 low, 66 moderate). Current fund balances and any adopted lending guidelines were not found; the City's budget and Housing Successor (LMIHAF) reports could not be located online.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "Fee revenue must serve very low, low and moderate income households (Section 17.08.010(J)); bond program units for very low to moderate income; City-site projects target extremely low income units.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No open round as of November 8, 2026. No NOFA; assistance is negotiated through development agreements and Council action. Contact Development Services (707-588-2231, Planning@rpcity.org).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Rohnert Park was Prohousing designated August 4, 2023 (42 points), which gives projects in the city AHSC and IIG scoring preferences. Local money is thin, so the practical stack is County CFH, County PLHA (Rohnert Park is a non-entitlement city within the County PLHA), RED Housing Fund and County PBVs (county records) plus LIHTC, with the City contributing fee deferrals, land (Program HO-3.F) or a modest gap loan. Rohnert Park's former Community Development Commission was a redevelopment agency, so a Housing Successor LMIHAF may exist; no annual report was found (flag for follow-up). The CivicPlus agenda search on rpcity.ca.gov returned no results for affordable housing and the old rpcity.org pages 404, so recent council actions could not be verified. Source is the adopted 2023-2031 Housing Element on the City's DocumentCenter.",
+   "source_url": "https://www.rpcity.ca.gov/DocumentCenter/View/355/Housing---RP-Adopted-Housing-Element-31723-PDF",
+   "record_id": "366239f66d",
+   "cycle_notes": "No NOFA cycle. The Housing Element set July 2023 to establish or join a JPA for the Essential Housing Bond Financing Program, with implementation through 2031; a Council and Planning Commission joint housing meeting was held February 5, 2026. Bond program and fund status not confirmed.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "city-owned land"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The adopted 2023-2031 Housing Element (https://www.rpcity.ca.gov/DocumentCenter/View/355/Housing---RP-Adopted-Housing-Element-31723-PDF) states no prevailing wage rule for the affordable housing fee accounts, the Housing Fund, Program HO-3.F City sites or the Essential Housing Bond Financing Program, and no City lending guidelines were found. Gap loans and grants from fee revenue are public funds under 1720(b)(1), and City sites conveyed below fair market value are public funds under 1720(b)(3) (https://california.public.law/codes/labor_code_section_1720); below-market loans can be exempt under 1720(c)(5)(E) (at least 40 percent of units restricted 20 years at or below 80 percent AMI), as DIR PW 2019-018 applied (https://dir.ca.gov/OPRL/coverage/year2020/2019-018.pdf). Under the Essential Housing bond model a JPA buys and owns the property, so any rehab or construction it pays for needs its own coverage review."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Richmond",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Contra Costa",
+   "confidence": "needs_confirmation",
+   "program_name": "Richmond CDBG and HOME entitlement funds (Housing Division) and Richmond Housing Authority project-based voucher legacy",
+   "administering_agency": "City of Richmond Community Development Department, Housing Division (Jesus Morales, Housing Manager, 510-620-6649); Richmond Housing Authority (Antoinette Terrell, Executive Director, 510-621-1300)",
+   "funding_type": "grant",
+   "typical_award_size": "Richmond does not run its own CDBG or HOME program. The adopted Housing Element states that although Richmond is eligible to be a HUD entitlement city, after staffing cuts the City opted for Contra Costa County to receive its share of HUD funding, and that the County administers CDBG and HOME for Richmond; the County CDBG page defines the Urban County as the entire county less Antioch, Concord, Pittsburg and Walnut Creek, so Richmond is inside the Urban County and the County HOME Consortium. The Housing Element cites the CDBG-assisted rehabilitation of the 150-unit Hacienda Apartments. The Richmond Housing Authority no longer administers vouchers: the County administers the Housing Choice Voucher program (about 1,700 vouchers used in Richmond, including project-based vouchers), and Miraflores received 79 RHA project-based vouchers earlier. The 2015 HUD figure of $1,092,323 predates the switch and should not be used.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "CDBG national objective (80% AMI); HOME rent limits and County regulatory agreements (55 years on County-funded rental projects); HACCC PBV requirements for voucher-assisted units.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "County Urban County CDBG and ESG applications due December 7, 2026 at 5:00 PM via City Data Services (Board approval June 2027); housing development requests go to the County Affordable Housing Program NOFA (county record).",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Richmond is part of the Contra Costa Urban County and therefore of the County HOME Consortium, so Richmond projects apply to the County for CDBG-Housing, HOME and Measure X (county records); the County's May 2026 awards to Trinity Plaza ($2.5 million CDBG and $1.5 million HOME) are consistent with this. Stack with the Richmond/Contra Costa CoC (CA-505), HACCC PBVs and Richmond housing successor assets. Audit November 8, 2026: the earlier statement that Richmond is an entitlement jurisdiction outside the Consortium was wrong; the Housing Element (HUD funding discussion and Housing Resources, CDBG) and the County CDBG page both place Richmond in the Urban County.",
+   "source_url": "https://www.ci.richmond.ca.us/ArchiveCenter/ViewFile/Item/12751",
+   "record_id": "343b5d5dac",
+   "cycle_notes": "Apply through the County: Urban County CDBG FY 2027/28 to 2029/30 NOFA (public services, economic development, infrastructure) due December 7, 2026; CDBG-Housing and HOME through the County Affordable Housing Program NOFA",
+   "eligible_project_detail": [
+    "acquisition-rehab",
+    "preservation",
+    "new construction (HOME)",
+    "supportive housing"
+   ],
+   "next_deadline_date": "2026-12-07",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "audit_note": "program_name and administering_agency still describe a Richmond-run CDBG/HOME entitlement; recommend renaming to a pointer record (Richmond access to County Urban County CDBG and Consortium HOME) with Contra Costa County DCD as administering agency, or merging into the County records.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Walnut Creek",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Contra Costa",
+   "confidence": "needs_confirmation",
+   "program_name": "Walnut Creek Local Housing Trust Fund and Affordable Housing Subsidy Request for Proposals (annual developer RFP; FY26 round October to December 2025)",
+   "administering_agency": "City of Walnut Creek Housing Division (Housing Programs), Community and Economic Development Department; contact brynen@walnutcreekca.gov",
+   "funding_type": "loan",
+   "typical_award_size": "The City maintains a Local Housing Trust Fund fed by housing in-lieu fees and commercial linkage fees and projects about $16 million available over the 2025-2029 Consolidated Plan period, with $4.14 million in general and local funds also programmed for housing and community services. Track record: $5 million to St. Paul's Commons (44 units, 2019) plus a $366,642 City fee waiver; $400,000 plus later gap funding to Riviera Family Apartments; $5,150,000 to Habitat for Humanity's 42-unit Las Juntas ownership project; acquisition, predevelopment and development funding for the 95 to 97 unit Civic Crossing at 699 Ygnacio Valley Road (TCAC application CA-24-649 shows $10.5 million of City funds); $300,000 per year budgeted for first-time homebuyer loans. The City's developer page (not opened, 403) describes an FY26 Affordable Housing Subsidy RFP open October 14 to December 19, 2025, Council review March to April 2026 and award notification May 2026; Council retains sole discretion to fund one, several or no projects.",
+   "per_unit_cap": "None published; past awards ran about $110,000 to $120,000 per unit.",
+   "affordability_requirement": "Projects must be within Walnut Creek city limits and consistent with the Housing Element; 55-year City regulatory agreements on rental projects; priority to extremely low, very low and low income and special needs households; all other funding sources must be identified before disbursement.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "homeownership"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round confirmed as of November 8, 2026. The FY26 RFP closed December 19, 2025 with awards expected May 2026 (outcome not confirmed); prior rounds opened in October and November, so an FY27 RFP is expected in fall 2026 or early 2027. Confirm with the Housing Division since the City website blocks automated access.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "The strongest city-level gap source in Contra Costa outside the County itself: Walnut Creek routinely commits $5 million to $10 million per project, equal to or above County HOME awards, and pairs it with fee waivers and expedited processing. Stack order for a Walnut Creek deal: City subsidy RFP award and fee waiver first (secures local commitment for TCAC tie-breaker), then County HOME or Measure X (county records; Civic Crossing also received $6.8 million County funds), then 4% credits and County or CMFA conduit bonds. The City is also pursuing a Prohousing Designation (program page exists but was not opened) which adds points in State NOFAs. The City is the Housing Successor for its former redevelopment agency but reported minimal boomerang funds. Because walnutcreekca.gov and its PDFs returned 403 (RFP document and developer page not opened), the fund description is taken from the City's 2025-2029 Consolidated Plan strategic plan posted by Contra Costa County (source_url) and the HCD-hosted Housing Element; RFP dates come from search snippets of the City page and need confirmation.",
+   "source_url": "https://www.contracosta.ca.gov/DocumentCenter/View/86762/WC-Strategic-Plan-Draft",
+   "record_id": "317b292ce3",
+   "cycle_notes": "annual fall RFP since November 2023 (no rolling applications); FY27 round status not confirmed",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "affordable ownership"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "audit_note": "PW pass Nov 9, 2026: RFP not readable (403) and no rule located; changed true to unclear.",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Walnut Creek subsidy RFP and developer pages (walnutcreekca.gov) return 403, so no City wage term could be read; below-market loans to qualifying affordable projects may be exempt under 1720(c)(5)(E)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fremont",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "needs_confirmation",
+   "program_name": "Development impact fee reduction and deferral for affordable housing projects, FMC Chapter 18.290",
+   "administering_agency": "City of Fremont Community Development Department, Building and Housing Divisions",
+   "funding_type": "fee waiver",
+   "typical_award_size": "City communications state that the June 2021 impact fee update added a 50% reduction of development impact fees for affordable housing projects and that a separate fee deferral program lets affordable developers pay impact fees later in the process. Chapter 18.290 defines affordable housing as units restricted to households at or below 120% AMI and provides for exemptions, exclusions, exceptions (18.290.110) and adjustments or waivers (18.290.240). Fremont's AB 1600 fees are capital facilities, fire facilities, traffic impact, parkland and park facilities fees (2025 Impact Fee Report).",
+   "per_unit_cap": "Not published.",
+   "affordability_requirement": "Deed-restricted units at or below 120% AMI per 18.290 definition; confirm whether the 50% reduction requires 100% affordable projects.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at building permit; verify current terms with the Building Division.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Could not open fremont.gov fee pages (403) or the implementing fee resolution; the 18.290 text was read on the zoneomics mirror and the fee list from the December 9, 2025 Impact Fee Report item on IQM2. Fee relief plus Fund 196 loans and SB 937 deferral make Fremont competitive with Oakland on soft cost; Alameda County has no countywide fee waiver (county record). Confirm the reduction percentage, eligible AMI level and whether school and water district fees (FUSD, ACWD, USD) are outside City control.",
+   "source_url": "https://www.zoneomics.com/code/fremont-CA/chapter_2",
+   "record_id": "b548893b8a",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "audit_note": "Chapter 18.290 (zoneomics mirror) defines affordable housing at 120% AMI but contains no 50% reduction or affordable-specific deferral, fremont.gov fee pages and published documents return 403, and no stated prevailing wage rule for the fee reduction was found (searched the code text and city fee do",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. The City reports a 50 percent impact fee reduction and a fee deferral program for affordable housing (FMC Chapter 18.290); the fee resolution could not be read. Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Leandro",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "needs_confirmation",
+   "program_name": "San Leandro Affordable Housing Development RFP (released February 28, 2025, continuous): HOME, Prohousing Incentive Program and PLHA funds",
+   "administering_agency": "City of San Leandro Community Development Department, Housing Services Division, 835 East 14th Street; housing@sanleandro.org, (510) 577-6006",
+   "funding_type": "loan",
+   "typical_award_size": "Open-ended RFP for affordable housing development loans from the City's HOME Consortium share, Prohousing Incentive Program award and PLHA allocation; amounts available on request to the Housing Division. HOME available as of April 2026: $201,134 FY 2027 ($190,548 program) plus $593,119 prior-year funds (FY 2024 $225,238 due 6/30/2027, FY 2025 $179,013, FY 2026 $188,868); $783,667 committed to Eden Housing for rehabilitation of The Surf (46 units, 15320 Tropic Court). PLHA also funds a BACS shallow rental subsidy program. City contributions to the Lewelling interim housing project (HCEB, opened 2025) were $65,000 predevelopment and $309,500 acquisition from the AHTF.",
+   "per_unit_cap": "HOME per-unit subsidy limits for HOME-assisted units; otherwise sized to gap.",
+   "affordability_requirement": "Regulatory agreement typically 55 years; PLHA-funded projects must follow Housing First; HOME units at or below 80% AMI; priority to people experiencing or at risk of homelessness.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "interim housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Continuous until funds are committed; HOME FY 2024 funds must be spent by June 30, 2027. Contact Housing Services before applying.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "San Leandro's local money is thin (AHTF balance $336,166 at June 30, 2025), so the RFP mainly packages federal and state pass-throughs. Realistic stack: County Measure A1 San Leandro base allocation and regional pool, Measure W, HACA project-based vouchers, AHSC (City co-applied with Pacific West Communities in Rounds 9 and 10 for a BART-area project), and CMFA or County conduit bonds. The City expects the County to centralize HOME administration for FY 2027-2029. RFP read on the City's DocumentCenter; some sanleandro.org pages returned 403 after repeated requests.",
+   "source_url": "https://www.sanleandro.org/DocumentCenter/View/12099",
+   "record_id": "dec8aca3c5",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "interim housing"
+   ],
+   "next_deadline_date": "2027-06-30",
+   "deadline_check": "future_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09",
+   "audit_note": "City spot check Nov 9, 2026: source_url (sanleandro.org DocumentCenter View 12099, the RFP) returned 403 and no official copy of the RFP terms was found, so the continuous status, 55-year term and Housing First requirement were not confirmed. The March 2026 HOME staff report (Legistar 26-152) confirms the HOME figures ($201,134 FY 2027, $190,548 program, $593,119 prior year, FY 2024 funds due June 30, 2027) and shows the full $783,667 committed to Eden Housing for The Surf through a separate February 2026 RFI, leaving no uncommitted HOME through FY 2027; the FY 2025 AHTF report confirms the Lewelling $65,000 and $309,500 contributions."
+  }
+ }
+]

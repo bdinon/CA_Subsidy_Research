@@ -1,0 +1,496 @@
+[
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "San Joaquin County",
+   "date_researched": "2026-11-07",
+   "research_pass": "2_county",
+   "county_tag": "San Joaquin",
+   "confidence": "needs_confirmation",
+   "program_name": "Affordable Housing Density Bonus, Development Title Chapter 9-401 (unincorporated county)",
+   "administering_agency": "San Joaquin County Community Development Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "State-law density bonus codified in Chapter 9-401 (2026-10 code edition): 20% base bonus for 10% low-income, 5% very low-income or senior projects; 5% for 10% moderate-income for-sale units; 20% for 10% very low-income units for veterans, transition-age youth or homeless households; 35% for qualifying student housing; sliding scale up to 50% (2.5% per 1% very low-income above 5%, 1.5% per 1% low-income above 10%); land donation bonus 15% to 35%; floor area ratio bonus in the R-H zone for infill near transit with 20% of units at or below 50% AMI; 100% lower-income projects per Government Code 65915. One to four incentives or concessions by affordability tier plus parking reductions; the County may exceed these amounts (9-401.060).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "55-year rental affordability (longer if required by financing); for-sale units sold to qualifying buyers with equity sharing; affordable units integrated with and indistinguishable from market-rate units; replacement of existing affordable units required.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "By application; pre-application response within 90 days; streamlined ministerial approval under 9-401.120 for eligible infill projects with at least 10% of units at or below 80% AMI (60 or 90 day review, deemed approved if missed).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). The unincorporated county has no inclusionary ordinance and no in-lieu fee, so the density bonus and concessions are the only land-use subsidy; the 2023-2031 Housing Element (HCD submittal revised January 2025, adopted and revised June 30, 2026 to transfer RHNA to the new City of Mountain House, 8,808 to 5,113 units) sets a quantified objective of 100 lower-income units through the bonus and commits to fee deferrals for affordable subdivisions. The ministerial pathway in 9-401.120 carries state prevailing wage and skilled workforce requirements for larger projects under Government Code 65913.4, so model labor costs before electing it. Most multifamily sites in the unincorporated county (French Camp, Garden Acres, Lodi and Stockton fringe) are constrained by water and sewer service, which the Housing Element names as the largest constraint. Source is the published Development Title chapter on gocodebook.com (County code host); confirm current text with Community Development at (209) 468-3144.",
+   "source_url": "https://gocodebook.com/library/us/ca/san-joaquin-county/development-title/series-400-additional-use-and-development-regulations/chapter-9-401-affordable-housing-density-bonus",
+   "record_id": "44d4f15ff4",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "multifamily new construction",
+    "senior housing",
+    "student housing",
+    "100% affordable infill",
+    "mixed-income projects"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "audit_note": "PW citation pass Nov 9, 2026: changed false to unclear; density bonus alone is false, streamlined approval under 9-401.120 is true for projects over 10 units. Code read on gocodebook mirror.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Value set false for consistency with other density bonus records: the density bonus itself provides no public funds (Labor Code 1720(a)(1), (c)(1)), so it does not trigger prevailing wage. Condition: a project that uses the streamlined path described below must pay prevailing wages under that statute. Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Chapter 9-401 density bonus grants regulatory relief and pays no public funds, but section 9-401.120 (streamlined approval for eligible infill projects) incorporates the Gov. Code 65913.4(a)(8) labor provisions: projects over 10 units approved on that path must pay prevailing wage (and over 25 units use a skilled and trained workforce unless 100% subsidized affordable). The answer depends on whether the project uses streamlined approval. https://gocodebook.com/library/us/ca/san-joaquin-county/development-title/series-400-additional-use-and-development-regulations/chapter-9-401-affordable-housing-density-bonus"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "San Joaquin County",
+   "date_researched": "2026-11-07",
+   "research_pass": "2_county",
+   "county_tag": "San Joaquin",
+   "confidence": "needs_confirmation",
+   "program_name": "County-owned and surplus land for affordable housing",
+   "administering_agency": "San Joaquin County General Services (real property), with Behavioral Health Services and Veterans Services for sponsored projects",
+   "funding_type": "negative finding",
+   "typical_award_size": "No standing County land program. Known actions: a Surplus Land Act notice of availability for about four acres of County-owned land adjacent to Gianone Park in Stockton for deed-restricted affordable housing by sale or long-term ground lease (posted November 20, 2025, offers due January 30, 2026, Board approval required); Victory Gardens, 49 veteran PSH units built on 2.5 acres of County land in French Camp; a proposed campus-style veterans housing village in French Camp near San Joaquin General Hospital pursued with a Homekey+ application in 2026.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Surplus Land Act priority for affordable housing developers with at least 25% of units at or below 80% AMI (Government Code 54222.5) or deeper restrictions negotiated with the County.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No open round as of November 8, 2026. The Gianone Park offering closed January 30, 2026; outcome not posted. Watch the County Purchasing bid page (sjgov.org/department/pss/bids, Public Purchase) and the HCD surplus land notices map for future notices.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "San Joaquin County has no county housing trust fund, no county housing bond and no inclusionary ordinance; the County's own capital for multifamily is limited to HUD pass-through funds administered by the Human Services Agency Neighborhood Preservation Division (sjchsa.org), while the regional gap lender is the SJCOG-sponsored San Joaquin Regional Housing Fund and the main voucher and development partner is the Housing Authority of the County of San Joaquin (HACSJ). County land has been the basis for the county's veteran PSH projects and is the most likely form of County contribution to a new deal because the County has no capital fund. Marked needs_confirmation because the Gianone Park notice was read on a third-party procurement aggregator (source) and the County's own bid posting (sjgov.org/gems bidView bidId=206984) returned 404 on November 7, 2026; confirm with County General Services.",
+   "source_url": "https://www.governmentcontracts.us/government-contracts/opportunity-details/52706281552814954.htm",
+   "record_id": "ca36da736a",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction on County land",
+    "ground lease",
+    "veterans and supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports a value.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The County surplus land notice (Gianone Park site, sale or ground lease) is known only from an aggregator listing and states no wage term. A land sale or lease below fair market value is public funds under 1720(b)(3); the Surplus Land Act affordability section (Gov. Code 54233) contains no wage term. https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Rancho Cordova",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "needs_confirmation",
+   "program_name": "Rancho Cordova Housing Trust Development Impact Fee (Municipal Code Chapter 16.89) and city affordable housing gap financing",
+   "administering_agency": "City of Rancho Cordova Housing Division (Community Development)",
+   "funding_type": "loan",
+   "typical_award_size": "Not verified this pass. Rancho Cordova levies a housing trust development impact fee on nonresidential development (Chapter 16.89, confirmed by title in search results and by Sacramento County's Housing Trust Fund page listing Rancho Cordova among five cities with similar fees). Current rates, fund balance and loan terms unknown. The City's PLHA plan directs 100% of its PLHA allocation to gap financing for new affordable and permanent supportive housing (search snippet, document not opened).",
+   "per_unit_cap": null,
+   "affordability_requirement": "Unknown; expected low and very low income per nexus.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "cityofranchocordova.org and codepublishing.com return 403 to automated access and the City's Legistar instance has no public API, so this record is a placeholder. Rancho Cordova is in the Sacramento County HOME Consortium (SHRA-administered) and is a CDBG entitlement city that runs an annual CDBG NOFA (a 2026 CDBG NOFA workshop was listed on the City's housing page per search results). Recent City-supported deals include Mather Veterans Village Phase 4 and The Liora (ministerial design review 2026). Confirm fee schedule, fund balance and any NOFA with the Housing Division via the City's main line (916) 851-8700.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/rancho-cordova-6th-draft032421.pdf",
+   "record_id": "f0fe655a96",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Housing trust fee loans are public funds under Labor Code 1720(b)(1) (https://california.public.law/codes/labor_code_section_1720); 1720(c)(5)(E) may exempt qualifying below-market loans. No Rancho Cordova fund guideline stating prevailing wage was found."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Rancho Cordova",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "needs_confirmation",
+   "program_name": "Housing incentives and density bonus (Rancho Cordova Municipal Code Chapter 23.710)",
+   "administering_agency": "City of Rancho Cordova Planning Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "State density bonus law implemented in Chapter 23.710 (Ord. 17-2021): one density bonus with concessions for 10% lower income, 5% very low income, special needs housing, senior housing, 10% moderate for-sale, 10% foster youth/disabled veteran/homeless units (55-year restriction), or 100% affordable projects; parking capped at 1.0 space for studios and one-bedrooms, 1.5 for two and three bedrooms, 2.5 for four or more; waivers of standards that would preclude the bonus.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Per state law.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Rolling at entitlement.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancement beyond state minimums identified; the chapter's special-needs category mirrors state law. Rancho Cordova approved The Liora affordable project through ministerial major design review in 2026, so objective-standards ministerial review is available for qualifying affordable projects.",
+   "source_url": "https://www.zoneomics.com/code/rancho-cordova-CA/chapter_4",
+   "record_id": "15ba935a4a",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income projects",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Nov 9, 2026 spot check: Chapter 23.710 text on the zoneomics mirror matches the record (eligibility categories A to G, Ord. 17-2021). cityofranchocordova.org returns 403 and the official code hosts block automated access, so only a third-party mirror was read; confidence lowered to needs_confirmation per source rule.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of South Lake Tahoe",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "El Dorado",
+   "confidence": "needs_confirmation",
+   "program_name": "Inclusionary Housing Ordinance (City Code Chapter 6.27, Ordinance 1180, adopted December 2024) and Workforce Housing Fund in-lieu fees",
+   "administering_agency": "City of South Lake Tahoe Development Services Department, Planning Division and Housing Division (fund held by the Finance Director); 1052 Tata Lane, 530-542-7417",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. New residential construction, redevelopment of 50% or more of a building with dwellings, or condo conversion must provide inclusionary units or pay an in-lieu fee scaled to unit size (habitable square feet): 2,000 sq ft or less exempt; 2,001 to 2,500 sq ft 5% of units or $5.29 per sq ft; 2,501 to 3,000 sq ft 6% or $5.84 per sq ft; 3,001 to 5,000 sq ft 9% or $16.77 per sq ft; over 5,000 sq ft 17% or $17.65 per sq ft. Fees are paid before building permit issuance (by phase for phased projects) into the Workforce Housing Fund for housing affordable to low and moderate income households. Fund balance and collections to date are not published; the 2027-2035 draft Housing Element commits the City to post requirements, fee amounts and annual collections by mid-2027 and to publish a five-year in-lieu fee report under AB 2663.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Inclusionary units deed restricted for rent or sale to lower income households (80% AMI or below, El Dorado County), priced at no more than 30% of gross income including utilities, dispersed on site, comparable in exterior quality and bedroom mix, built concurrently with market-rate units. No affordability term is stated in the chapter text that was read.",
+   "eligible_project_types": [
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at building permit; fee schedule in effect at permit issuance. Annual monitoring review each June under draft Program 2-10 with amendments within six months if warranted; first AB 2663 reporting for calendar 2026 due in 2027. Verify any fee indexing with the Planning Division before permit.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "This is the only locally generated housing fund in South Lake Tahoe. Multifamily rental projects are exempt from both the unit requirement and the fee, so apartment developers owe nothing; the fund is fed by large single-family and condo construction, which is the dominant product in the Basin. Spending the Workforce Housing Fund is at Council discretion with no NOFA or guidelines published; pair requests with the City's HOME program income, PLHA formula and Prohousing Incentive Program dollars (see the City direct financing record) and with the County Affordable Housing Trust Fund, County PLHA and County HOME/CDBG records, which also have no standing NOFA. The ordinance grew out of Housing Element Program 2-11 (2022 to 2027 cycle) and the January 2023 Analysis of Local Funding Sources, which modeled TOT and transfer tax increases, a vacancy tax, a commercial linkage fee and an in-lieu fee against a $3.35 million annual local funding need; Council proceeded only with the inclusionary fee. No vacation rental (Measure T) or TOT revenue is earmarked for housing, and Measure T itself was struck down by the El Dorado County Superior Court in March 2025 and replaced by VHR Ordinance 2025-1200 (effective July 17, 2025) and a 2026 ordinance. Blocked hosts: codepublishing.com (the City's code host) returned 403 and the City Agenda Center search errored; the chapter was read on the gocodebook code mirror, and the adoption date and background come from the City's August 2026 public review draft 2027-2035 Housing Element (cityofslt.gov DocumentCenter View 24379).",
+   "source_url": "https://gocodebook.com/library/us/ca/south-lake-tahoe-zoning/title-6-development-services/division-2-local-amendments-to-adopted-codes/chapter-6.27-inclusionary-housing",
+   "record_id": "aec15a86fe",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "single-family and condominium projects over 2,000 sq ft per unit (compliance)",
+    "condo conversions (compliance)",
+    "deed-restricted units at or below 120% AMI (exempt)",
+    "long-term multifamily rental projects of two or more units (exempt)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "audit_note": "Nov 9, 2026 spot check: fee table, thresholds, exemptions (including long-term multifamily rentals of 2+ units) and fund use match Chapter 6.27 as shown on the gocodebook mirror only; codepublishing.com (official code host) returns 403. The City's August 2026 draft Housing Element (DocumentCenter View 24379) confirms the December 2024 adoption and the monitoring and AB 2663 reporting program but not the fee amounts. Mirror-only source does not support verified.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Rocklin",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "needs_confirmation",
+   "program_name": "Rocklin Inclusionary Housing Requirements (Municipal Code Chapter 17.95, Ordinance 1195, November 11, 2025) and in-lieu fee into the Inclusionary Housing Trust Fund",
+   "administering_agency": "City of Rocklin Community Development Department, Planning Division, with the City Manager's Office Housing Division",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Housing development projects of 10 or more units must provide 15% of units for low income households, or 10% for very low income, or 5% for extremely low income (rental projects provide rental units; fractional units round up). Exempt: projects complete or with SB 330 preliminary applications before the effective date, projects with at least 50% affordable units, historic landmark portions and statutory development agreement projects. Alternatives: off-site construction, acquisition and rehabilitation of market-rate units, or an in-lieu fee once set by Council resolution, paid before building permit into a separate Inclusionary Housing Trust Fund. Council held a January 13, 2026 hearing on a proposed interim fee of $10 per square foot (opposed by the California Apartment Association) and, per the City's June 9, 2026 Council recap found in search results but not opened, approved an in-lieu fee of $2.75 per square foot with further ordinance updates still in progress. Paying the fee does not qualify a project for a state density bonus.",
+   "per_unit_cap": "Not applicable (fee reported at $2.75 per square foot, unconfirmed).",
+   "affordability_requirement": "Rental inclusionary units restricted 55 years, for-sale units 45 years, by recorded inclusionary housing agreement approved by Council with the entitlements; units dispersed and comparable to market-rate units; the City tenant preference policy applies.",
+   "eligible_project_types": [
+    "mixed-income",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies to applications deemed complete after the ordinance took effect (December 2025). The $2.75 per square foot fee and the trust fund guidelines should be confirmed with Planning; a broader fee study (consultant RFP issued 2024) and ordinance amendments were pending in mid-2026.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "New in 2025, so the Inclusionary Housing Trust Fund has little or no balance yet; over time it will feed the AHIP Low/Mod loans. A 100% affordable project is exempt and instead benefits from the ordinance by competing for the fee revenue. Compare Placer County Chapter 15.65 (10% inclusionary, unincorporated area). The ordinance text was verified on the zoneomics mirror of the Rocklin code; the fee resolution and June 9, 2026 staff report could not be opened (rocklin.ca.gov 403, Legistar API returns 500 for client rocklin), hence needs_confirmation.",
+   "source_url": "https://www.zoneomics.com/code/rocklin-CA/chapter_65",
+   "record_id": "55ac79a764",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate multifamily and subdivisions of 10 or more units (compliance)",
+    "mixed-income projects"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "November 8, 2026 audit: Chapter 17.95 text re-read on the zoneomics mirror and matches (10 or more units; 15% low, 10% very low or 5% extremely low; 50% affordable exemption; trust fund). The $2.75 per square foot fee could not be confirmed: the June 9, 2026 recap URL on rocklin.ca.us redirects to rocklin.ca.gov, which returns a Cloudflare block, and the municode API is also Cloudflare-blocked. Only a search snippet supports the fee.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Lincoln",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "needs_confirmation",
+   "program_name": "Lincoln 2021-2029 Housing Element Actions 2.6 and 2.7: project-by-project incentives (deferred development fees, reduced parking, expedited review) for affordable housing in Villages 1, 5 and 7",
+   "administering_agency": "City of Lincoln Community Development Department, Planning Division (916-434-3370; 600 6th Street)",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Negotiated, not codified. The Housing Element (adopted January 2023 per the City's 2025 Annual Progress Report, 2021 to 2029 cycle, RHNA 5,120 units) commits the City to offer incentives on a project-by-project basis for lower-income housing in Village 1, Village 5 and Village 7, including deferred development fees, reduced parking requirements, expedited application review and technical assistance (Action 2.7), and to provide financial or in-kind assistance and incentives beyond the density bonus for extremely low income housing (Action 2.6). Action 2.9 commits only to explore a local inclusionary program; none has been adopted. No dollar amounts, fee schedules or fund are attached.",
+   "per_unit_cap": "None.",
+   "affordability_requirement": "Lower-income (at or below 80% AMI) and extremely low income housing as described in the Housing Element; terms set case by case in a development agreement.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Negotiate with Planning at the specific plan or tentative map stage. The 2025 Housing Element Annual Progress Report went to Council on March 10, 2026; the 2026 APR is due to HCD by April 1, 2027.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Lincoln's village specific plans (Lincoln Crossing, Village 7 and others) carry no fixed inclusionary percentage, unlike Roseville's 10% goal, so affordability in Lincoln depends on developer-by-developer agreements plus County and state money. The Consolidated Plan notes two-story height limits and two spaces per unit parking standards as constraints the City may relax for affordable projects. The Housing Element PDF itself could not be located on the redesigned lincolnca.gov site (housing element and general plan URLs returned 404); the actions were read from the City's 2026-30 Consolidated Plan, hence needs_confirmation.",
+   "source_url": "https://media-001-us.cdn.govstack.com/lincolnca-003-us/media/w1ofbefu/city-of-lincoln-2026-30-consolidated-plan.pdf",
+   "record_id": "ff63a21c9c",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income multifamily in Village specific plans",
+    "senior housing"
+   ],
+   "next_deadline_date": "2027-04-01",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "audit_note": "November 8, 2026 audit: the City's 2026-30 Consolidated Plan (pages 111 and 132) confirms Housing Element Actions 2.3 (implemented), 2.6, 2.7 (project-by-project deferred fees, reduced parking and expedited review in Villages 1, 5 and 7) and 2.9 (explore inclusionary). No prevailing wage rule found for negotiated fee deferrals; leginfo Labor Code 1720 returned 403 and the Housing Element PDF was not found on lincolnca.gov.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. Housing Element Actions 2.6 and 2.7 offer deferred development fees project by project; the reduced parking and expedited review incentives provide no public funds. Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Lincoln",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "needs_confirmation",
+   "program_name": "Lincoln density bonus (state Government Code 65915 applied directly; Housing Element Action 2.3 reported implemented, no stand-alone zoning chapter located)",
+   "administering_agency": "City of Lincoln Community Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Regulatory incentive, not a subsidy. The Consolidated Plan lists Housing Element Action 2.3 (amend the Zoning Ordinance to allow and promote density bonuses) as implemented, but the Lincoln Zoning Ordinance (Title 18) as mirrored on zoneomics contains no density bonus chapter in Divisions I through XI (R-3 multiple residential, PD planned development, parking in-lieu fee and ADU Chapter 18.37, repealed and re-enacted September 23, 2025 by Ordinance 1099B, are present). Projects therefore rely on state density bonus law directly: 20% to 50% bonuses, 80% for 100% affordable projects, up to four concessions, parking caps.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State thresholds (5% very low, 10% lower, 10% moderate for-sale, 100% affordable); 55-year covenants for rental units under state law.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Processed with entitlements; no deadline. Confirm with Planning whether a density bonus section was added to Title 18 or the PD district after 2023.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancements and no local trust fund, fee waiver ordinance, inclusionary fund or city NOFA exist in Lincoln beyond the negotiated incentives in the Housing Element (record above) and CDBG. Lincoln's ADU chapter (18.37) was updated in 2025 for state compliance. The zoning code was read on the zoneomics mirror because the City does not host its code in fetchable form; needs_confirmation because the Housing Element and any post-2023 code amendment were not opened.",
+   "source_url": "https://www.zoneomics.com/code/lincoln-CA/chapter_4",
+   "record_id": "12573fd176",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income multifamily"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "November 8, 2026 audit: the zoneomics mirror of Lincoln Title 18 (chapters 18.34 to 18.45 page) contains no density bonus text, and the City's 2026-30 Consolidated Plan lists Action 2.3 as implemented without citing a code section. No official Lincoln code host could be opened (municode API Cloudflare-blocked), so absence of a local density bonus chapter is unconfirmed.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Tracy",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "needs_confirmation",
+   "program_name": "Tracy Affordable Housing Ordinance, in-lieu fee and Affordable Housing Fund (status unconfirmed)",
+   "administering_agency": "City of Tracy Community and Economic Development Department",
+   "funding_type": "negative finding",
+   "typical_award_size": "Not confirmed this pass. The current Title 10 Chapter 10.08 code mirror contains only the Article 36.5 density bonus; no inclusionary article, in-lieu fee or affordable housing fund section appears, and Article 33 is absent from the chapter sequence. Search snippets show a June 1, 2021 Council goal to evaluate an inclusionary and in-lieu fee program and a housing trust fund, which suggests any earlier ordinance was repealed or never funded. No Tracy Affordable Housing Fund NOFA was found.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Unknown; none in current code mirror.",
+   "eligible_project_types": [
+    "other"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "Verify with Planning (209) 831-6400 whether an Affordable Housing Fund balance exists from past in-lieu payments and whether the 2023-2031 Housing Element programs commit to a new inclusionary or linkage fee study; the Housing Element PDF (about 12 MB) could not be opened this pass.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Tracy appears to have no local gap money for multifamily: no trust fund, no in-lieu fee receipts identified, no RDA housing successor fund in current agendas, and HUD money flows through the San Joaquin Urban County (county record). The realistic local layer is land use (density bonus, Housing Element rezoning sites) plus the regional sources: SJRHF gap loans, HACSJ PBVs, County HOME and HOME-ARP, BHSA and managed care plan grants (Health Plan of San Joaquin gave Tracy $595,000 and $1.2 million for its shelter). Blocked: cityoftracy.org (Akamai 403 to scripts; HTML pages under 10 MB readable only through the WebFetch tool), tracyca.prod.govaccess.org (connection refused), Tracy PrimeGov agenda portal not reached. Source is the City's Housing Element Update page, which was opened and documents the July 1, 2025 adoption.",
+   "source_url": "https://www.cityoftracy.org/Departments/Community-and-Economic-Development/Planning/General-Plan-Zoning-Ordinance/2023-2031-Housing-Element-Update",
+   "record_id": "99438e5cef",
+   "cycle_notes": "no active local inclusionary requirement or fund identified",
+   "eligible_project_detail": [
+    "not applicable until confirmed"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "audit_note": "Reclassified from other to negative finding: no active Tracy inclusionary requirement, in-lieu fee or affordable housing fund was found. The Housing Element Update page (opened via WebFetch) confirms adoption July 1, 2025 and the HCD finding of August 11, 2025 and does not mention inclusionary or a fund. The adopted Housing Element PDF exceeds the 10 MB fetch limit and returns 403 to curl; tracyca.prod.govaccess.org refused connections.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Existence of the program is unconfirmed, so no wage rule could be read. An inclusionary requirement or in-lieu fee itself provides no public funds (Labor Code 1720(a)(1), https://california.public.law/codes/labor_code_section_1720); loans from any affordable housing fund would be public funds under 1720(b), tested under the 1720(c) exemptions and project facts."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Tracy",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "needs_confirmation",
+   "program_name": "CDBG and HOME in Tracy (San Joaquin Urban County share, City FY 2026-27 CDBG/HOME application) and City use of PLHA and HHAP",
+   "administering_agency": "City of Tracy Economic Development (CDBG/HOME) and Homeless Services Division; funds pass through San Joaquin County Neighborhood Preservation Division",
+   "funding_type": "grant",
+   "typical_award_size": "Tracy's FY 2026-27 Urban County CDBG entitlement request is $521,683 (county record). The City posted a FY 2026-27 CDBG and HOME Notice of Funding Availability (contact Alexandra Pineda, cdbg.home@cityoftracy.org, (209) 831-6491) but the notice could not be opened this pass. City uses of flexible funds have gone to the Temporary Emergency Housing Facility shelter: $331,794 CDBG recommended for shelter operations (January 30, 2026), $18,650 County CDBG for furnishings (March 3, 2026), a $786,574 PLHA application for shelter operations (February 20, 2026), HHAP Round 4 $436,246 and a Round 5 application (December 19, 2025), plus $7.17 million County ARPA and a $3 million HUD EDI grant for shelter site work.",
+   "per_unit_cap": "HOME subsidy limits (24 CFR 92.250) when County HOME is used.",
+   "affordability_requirement": "HUD CDBG national objective and HOME rent and income limits; County Urban County rules apply.",
+   "eligible_project_types": [
+    "supportive housing",
+    "interim housing",
+    "services/operations"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "County Urban County NOFA for FY 2027-28 expected about October to December 2026 (county record); Tracy's own CDBG/HOME application window for FY 2026-27 has closed. Confirm the City's next cycle with cdbg.home@cityoftracy.org.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Tracy does not control HOME: HOME rental awards are made by the County (for example Lodi Commons and STAND), so a Tracy multifamily deal applies to the County HOME NOFA with a City support letter, and Tracy's CDBG share is small and has been committed to the shelter. PLHA and HHAP have been used for shelter operations rather than capital. Layer County HOME, SJRHF, HACSJ PBVs and BHSA (county records) with the Tracy density bonus. The City news article announcing the CDBG/HOME application returned 404 and the govaccess PDF host refused connections; facts above were read from the City's homelessness actions page (opened) and the county record.",
+   "source_url": "https://www.cityoftracy.org/Departments/Homeless-Services/City-and-Council-Actions-to-Address-Homelessness",
+   "record_id": "3c94404d74",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "public facilities",
+    "public services",
+    "homeless shelter",
+    "multifamily rental (County HOME NOFA)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "audit_note": "City homelessness actions page (opened via WebFetch) confirms the shelter figures: $331,794 CDBG recommended January 30, 2026, $18,650 County CDBG March 3, 2026, $786,574 PLHA application February 20, 2026, HHAP Round 4 $436,246, Round 5 application December 19, 2025, $7,167,798 County ARPA and $3 million HUD EDI. The City FY 2026-27 CDBG/HOME NOFA and the $521,683 entitlement figure could not be confirmed; cityoftracy.org returns 403 to curl and govaccess refused connections. The County 2026-27 NOFA ran December 8, 2025 to January 23, 2026 per the County NOFA presentation.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Lodi",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "needs_confirmation",
+   "program_name": "Residential Density Bonus, Lodi Municipal Code Section 17.36.050 (Development Code; Housing Element Program 1.1 update pending)",
+   "administering_agency": "City of Lodi Community Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement and entitlement incentive, not a subsidy. Bonus of 20% to 35% for 10% low income or 5% very low income units, 5% to 35% for 10% moderate income common interest units, 20% for senior projects, additional child care bonus; maximum 35% in the code text, with the code deferring to state law where it conflicts. At least one incentive for qualifying projects of five or more units.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State density bonus thresholds; affordability covenants per Government Code 65915 (55 years rental).",
+   "eligible_project_types": [
+    "new construction",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement. Housing Element Program 1.1 commits the City to update 17.36.050 to the current state tier framework (up to 50% and 100% bonuses); the 2025 Development Code amendments (Ordinances 2030 and 2034) addressed other sections, so the density bonus update is still pending as of 2026-11-08.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Lodi has no inclusionary ordinance (Housing Element confirms) and no local in-lieu fee, so the density bonus is the only land-use subsidy. Because the code defers to state law, developers can claim the full state bonus despite the outdated 35% text. Pair with County HOME, SJRHF, HACSJ PBVs and the City surplus land program (next record). Read from the zoneomics mirror of Title 17 Article 3 because municode blocks scripts.",
+   "source_url": "https://www.zoneomics.com/code/lodi-CA/chapter_3",
+   "record_id": "199a7def2d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "senior housing",
+    "common interest development (moderate income)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Tier 4: only the Zoneomics mirror of Lodi Development Code 17.36.050 could be read (official code host codepublishing returns 403); text matches on eligibility (five or more units), bonus ranges 20 to 35% and 5 to 35%, 20% senior, child care bonus and 35% maximum. Mirror-only source does not by itself support verified; Housing Element Program 1.1 status not re-checked. prevailing_wage_trigger false is uncited; a density bonus is not a payment of public funds. Confidence held at needs_confirmation: mirror-only source.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Lodi",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "needs_confirmation",
+   "program_name": "Lodi Housing Element 2023-2031 incentive programs (Program 1.6 fee waivers, reductions or deferrals for infill at 20 or more units per acre; Program 1.12 incentives for special needs housing; Program 1.5 funding applications)",
+   "administering_agency": "City of Lodi Community Development Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Not yet adopted as a standing program. Program 1.6 commits the City to adopt by 2025 one or more incentives for infill housing at 20 or more units per acre: parking credits, fee waivers, reductions or deferrals when financially feasible, priority processing. Program 1.12 commits to incentives (reduced standards, fee waivers or financial assistance) for housing for persons with disabilities by 2026. Program 1.5 sets a goal of the City securing $1 million in state or federal housing funds by 2028 and $2 million by 2031. Housing Element impact fee estimate: about $18,948 development impact fees plus $11,468 building fees per single-family home; multifamily fees lower per unit.",
+   "per_unit_cap": "None set.",
+   "affordability_requirement": "Program 1.6 objective: incentivize 100 extremely low, 200 very low and 200 low income units on infill parcels; Program 1.12 objective 40 special needs units.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No adopting resolution found through 2026-11-08; the Housing Element deadline for Program 1.6 (2025) has passed, so ask Planning (209) 333-6711 whether a fee deferral or waiver policy is before Council. Lodi is also adding Chapter 15.69 (Agricultural Mitigation Fee) and 15.70 (Parkland Dedication and In-Lieu) in October 2026, which add costs rather than relief.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Lodi has no housing trust fund, inclusionary ordinance, in-lieu fee or housing successor fund; HOME comes only through the County. Until Program 1.6 is adopted, the only fee relief is state law (ADU fee exemptions, SB 937 fee timing). Expect County HOME plus SJRHF, HACSJ PBVs and BHSA (county records) to carry gap financing, with City CDBG for off-site infrastructure. Programs read from the adopted 2023-2031 Housing Element PDF on lodi.gov (HCD certified April 11, 2024).",
+   "source_url": "https://www.lodi.gov/DocumentCenter/View/8317/2023-2031-Certified-Housing-Element",
+   "record_id": "872e720a2a",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction (infill, 20 or more units per acre)",
+    "supportive housing",
+    "housing for persons with disabilities"
+   ],
+   "next_deadline_date": "2026-11-08",
+   "deadline_check": "past_date",
+   "audit_note": "Certified Housing Element (adopted March 20, 2024, certified April 11, 2024) supports the record: Program 1.6 incentives for infill at 20 or more units per acre including fee waivers, reductions or deferrals, adopt by 2025, objective 100 ELI, 200 VLI and 200 LI units; Program 1.12.d incentives for disability housing by 2026; Program 1.5.c goal of $1 million by 2028 and $2 million by 2031; $18,948 impact fees and $11,468 building fees per single-family home. The 2026-27 Lodi Action Plan notes the City is funding impact fee costs for HACSJ Seniors at Lodi Commons with CDBG. No program guidelines exist to state a prevailing wage rule, and Labor Code 1720 on leginfo returned 403.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. Housing Element Program 1.6 commits the City to adopt fee waivers, reductions or deferrals for infill at 20 or more units per acre; not yet adopted. Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ }
+]

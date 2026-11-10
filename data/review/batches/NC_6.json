@@ -1,0 +1,538 @@
+[
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Anaheim",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "needs_confirmation",
+   "program_name": "City-owned and Housing Authority-owned site solicitations for affordable housing (Beach Boulevard corridor and Center City developer RFPs)",
+   "administering_agency": "Anaheim Housing Authority and Housing and Community Development Department, Real Property and Housing Development staff",
+   "funding_type": "land",
+   "typical_award_size": "Land contributions under long-term ground leases plus City gap loans rather than a cash NOFA: Miraflores (85 units) on a 60-year City ground lease with a $3,000,000 HOME loan; Southeast Corner of Beach and Lincoln (46 affordable senior and transition-age youth units) on former Housing Authority land with 46 PBVs; earlier RFPs for 212 S. Beach Blvd (Silvermoon) and State College at Lincoln (about 0.51 acre) sought developers for lower income and special needs housing. The A-LHTF Build More Homes Initiative funds site acquisition for future solicitations.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Project-specific: City solicitations have required 100% affordable or supportive housing with 55-year covenants and local resident preference.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "senior housing",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency; no open RFP was located this pass. Watch Housing Authority agendas for Beach Boulevard parcels (Anaheim Lodge demolition site, 39 Commons remainder).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "The most valuable Anaheim resource is land, not cash: the Housing Authority assembled Beach Boulevard motel sites and the City leases them at nominal rent, which replaces a $5,000,000 to $10,000,000 land cost in a 4% deal. Pair with Housing Authority PBVs, HOME or PLHA loans, A-LHTF gap money and County MHSA/BHSA. The RFP pages and Authority agendas could not be opened (anaheim.gov CivicAlerts and DocumentCenter returned 403; Granicus archive lists meetings but not staff reports), so details are from the A-LHTF Guidelines, the Housing Authority page and the 2026 fact sheet.",
+   "source_url": "https://www.anaheim.net/DocumentCenter/View/66427/ADOPTED-Anaheim-Local-Housing-Trust-Fund-Program-Guidelines-and-Funding-Allocation-Plan",
+   "record_id": "9a23b51b02",
+   "cycle_notes": "site-by-site RFPs",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing",
+    "senior housing",
+    "mixed-use on city land"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. A City ground lease at less than fair market value is public funds under 1720(b)(3), but no Anaheim site-RFP prevailing wage rule was found; federal sources layered on specific sites carry their own rules (HOME 24 CFR 92.354 at 12 or more HOME-assisted units, PBV 24 CFR 983.153(c) at nine or more contract units in development). https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Garden Grove",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "needs_confirmation",
+   "program_name": "Affordable Housing and Permanent Supportive Housing Development RFP and Housing Element Program 4 (Affordable Housing Construction assistance)",
+   "administering_agency": "City of Garden Grove Community and Economic Development Department, Neighborhood Improvement Division and Housing Authority",
+   "funding_type": "loan",
+   "typical_award_size": "The City posted a developer solicitation (gg.city/afford-rfp, redirecting to the Neighborhood Improvement page for the Affordable Housing and Permanent Supportive Housing Development RFP) seeking qualified developers to build affordable and permanent supportive housing units; the page returned 403 to all fetch methods so the funding amount, sites and deadline could not be read. Housing Element Program 4 commits the City to technical and financial assistance for about 10 affordable units a year (80 units over the cycle) through land cost write-downs and construction assistance from General Fund, HOME, LMIHAF and PLHA, plus expedited processing. The FY 2025-30 Consolidated Plan earmarks part of about $2,900,000 of HOME-ARP for one PSH development, and the Housing Successor is buying the Civic Center Parcel for housing.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Program 4 targets lower income and senior households; HOME-ARP PSH units serve qualifying homeless populations; 55-year covenants under Sec. 9.60.050 regulatory agreements.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency; confirm whether the Affordable Housing and PSH Development RFP is still open and whether it covers the Civic Center Parcel. Contact Neighborhood Improvement (714-741-5144).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Likely the only Garden Grove developer solicitation and probably paired with HOME-ARP and LMIHAF land; a respondent should plan on County 2026 Supportive Housing NOFA loans, OCHFT, County BHSA and GGHA PBVs for the rest of the stack. Local and state funds are public funds under Labor Code 1720(b), so state prevailing wage applies unless a 1720(c) exemption fits the deal, such as 1720(c)(5)(E) for below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI (see prevailing_wage_basis). Source is the 2021-2029 Housing Element PDF (opened); the RFP page itself was blocked (ggcity.org/news/afford-rfp and the neighborhood-improvement RFP page both 403).",
+   "source_url": "https://ggcity.org/sites/default/files/HousingElement11921.pdf",
+   "record_id": "35be0946a8",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing",
+    "senior housing",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy (under $600,000 and under 2% of total project cost). The Garden Grove 2021-2029 Housing Element states the City does not have prevailing wage requirements of its own and that such requirements could be a condition of government funding sources. https://ggcity.org/sites/default/files/HousingElement11921.pdf"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Chula Vista",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Diego",
+   "confidence": "needs_confirmation",
+   "program_name": "Affordable Housing Incentives / Density Bonus, CVMC Chapter 19.90 (Ordinance 3572, 2024)",
+   "administering_agency": "City of Chula Vista Development Services Department with Housing and Homeless Services Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Chapter 19.90 adopts Government Code 65915 by reference: bonus, incentives, concessions, waivers and parking reductions as set in state law; no local enhancement beyond state minimums. Requires a recorded density bonus agreement senior to monetary liens, concurrent construction and on-site dispersal of affordable units (separate structure allowed where needed for LIHTC), and an administrative fee for agreement processing (19.90.080).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State tiers; occupancy, rent and term per Government Code 65915 (55 years rental).",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement; pre-application conference encouraged. Density bonus units are exempt from the inclusionary requirement and are not counted in its base.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Inclusionary units can count toward both the inclusionary and density bonus requirements (19.91.060). Otay Ranch village SPA plans carry their own affordable housing plans. Chula Vista is on HCD's Prohousing list (as of August 10, 2026) and received a Prohousing Incentive Program grant (Resolution 2025-179, November 4, 2025), which adds points for state applications on Chula Vista sites. Ordinance text read on the zoneomics code mirror.",
+   "source_url": "https://www.zoneomics.com/code/chula-vista-CA/chapter_48",
+   "record_id": "54bb3e099e",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income projects",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Nov 9, 2026 spot check: Chapter 19.90 text (Ord. 3572, 2024) on the zoneomics mirror matches the record (adopts state law by reference, agreement senior to liens, concurrent construction, administrative fee in 19.90.080). chulavistaca.gov returns 403, so only a third-party mirror was read; confidence lowered to needs_confirmation per source rule.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Oceanside",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Diego",
+   "confidence": "needs_confirmation",
+   "program_name": "Inclusionary Housing Ordinance, Oceanside City Code Chapter 14C (Ordinance 24-OR0004-1, 2024) and Inclusionary Housing In-Lieu Fee",
+   "administering_agency": "City of Oceanside Housing and Neighborhood Services Department (Housing Division) and Development Services Department (Planning)",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Ordinance 24-OR0004-1 (approved by Council February 10, 2024) raised the applicability threshold from three or more units to ten or more units, raised the set-aside for low and moderate income households from 10 percent to 15 percent, and added unit mix, dispersal and equal amenity requirements for reserved units in multifamily projects; rental projects have been covered since the September 9, 2020 Phase 1 amendment. Coastal Commission staff (report dated January 22, 2026, hearing February 5, 2026, item LCP-6-OCN-25-0030-2) recommended certification only with modifications that set the threshold at seven or more units, add an acutely low income category, require 55 year rental and resale restrictions, and let ADUs satisfy the requirement in any residential project; the report states the City agrees to the modifications. The Commission's final action was not confirmed. In-lieu fee is calculated per square foot (Housing Element Program 3) and may be deferred on the same terms as impact fees; fees must be used for low and moderate income housing. A further Chapter 14C revision was noticed for a May 6, 2026 hearing; outcome not confirmed.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "15 percent of base units for low and moderate income households (rental units for low income); 55 year terms under the 2024 ordinance; density bonus units excluded.",
+   "eligible_project_types": [
+    "mixed-income",
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement. Confirm whether the Coastal Commission certified LCP-6-OCN-25-0030-2 with the seven unit threshold, whether the May 6, 2026 Chapter 14C revisions were adopted, and the current in-lieu fee rate with the Housing Division.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "In-lieu fee revenue is Oceanside's only recurring local housing fund; the Housing Element lists inclusionary fees with HOME, Housing Asset Funds, project-based vouchers and PLHA as sources for the Affordable Housing Strategy NOFAs (separate record). Compare Carlsbad (15 percent at 7 or more units) and the unincorporated County ordinance (county record). ci.oceanside.ca.us returns 403 and the oceanside.prod-as.govaccess.org document hosts time out, and the Legistar web API has no Oceanside client, so the ordinance text was read in the California Coastal Commission's February 2026 staff report (Exhibit 2 contains the strikeout ordinance) and the City's 2021-2029 Housing Element on hcd.ca.gov. The City's Legistar calendar (oceanside.legistar.com) opens for current agendas only.",
+   "source_url": "https://documents.coastal.ca.gov/reports/2026/2/Th16b/Th16b-2-2026-report.pdf",
+   "record_id": "7de4d4240b",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate rental and for-sale projects of 3 or more units (compliance)",
+    "mixed-income projects"
+   ],
+   "next_deadline_date": "2026-05-06",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "audit_note": "Threshold corrected from three units to ten (citywide ordinance) and seven (Coastal staff recommendation). ci.oceanside.ca.us returns 403 and Oceanside has no Legistar API client, so adoption status could not be confirmed.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Oceanside",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Diego",
+   "confidence": "needs_confirmation",
+   "program_name": "Oceanside Affordable Housing Strategy RFP/NOFA (Housing Element Program 4): HOME, Housing Successor Agency asset funds, inclusionary in-lieu fees, PLHA and project-based vouchers",
+   "administering_agency": "City of Oceanside Housing and Neighborhood Services Department, Housing Division, and the Housing Successor Agency to the Oceanside Community Development Commission; recommendations through the Housing Commission",
+   "funding_type": "loan",
+   "typical_award_size": "Amounts vary by round; no standing allocation. The Council on September 9, 2020 directed an RFP/NOFA implementing the Affordable Housing Strategy with priority to homelessness and extremely low income housing (temporary shelters, bridge housing, vouchers, permanent supportive housing). Funding sources named: HOME entitlement (City is a HOME participating jurisdiction), remaining Housing Asset Funds (former redevelopment), inclusionary in-lieu fees, project-based vouchers from the Oceanside Housing Authority (Housing Choice Voucher program) and PLHA (PLHA earmarked for emergency shelter operations). Program 19 (preservation) and Program 15 (acquisition and rehabilitation) use CDBG, HOME and in-lieu fees. The Housing Element set an objective of 634 extremely low income units and 1,268 lower income units for 2021-2029 and a 2024-2025 reassessment of incentives.",
+   "per_unit_cap": "HOME per-unit subsidy limits apply to HOME units; no City cap published.",
+   "affordability_requirement": "Lower income and extremely low income households, with priority to people experiencing homelessness and ELI households; affordability term set per agreement (HOME term rules apply to HOME units; the Housing Element does not state a City term).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "unknown, verify with agency; no open NOFA found. The November 10, 2026 City Council agenda had no housing funding item. Contact the Housing Division for the FY 2026-27 Annual Action Plan HOME development set-aside and any Housing Commission funding recommendations.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Oceanside projects also compete in the County HCDS NOFA 2026-03 only for IHTF (the City is its own HOME participating jurisdiction and CDBG entitlement, outside the County consortium), and can use HACSD or Oceanside Housing Authority project-based vouchers. The City last issued its own multifamily revenue bonds in 2016 (Villa Storia, 38 units; Program 1) and otherwise relies on CMFA or CSCDA. Fee deferrals for affordable units are offered on the same terms as impact fee deferrals. Program text read in the 2021-2029 Housing Element (October 2022 revision, HCD-hosted); the certified September 2023 re-adoption and current Annual Action Plan could not be opened because City document hosts block or time out.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-adopted120622.pdf",
+   "record_id": "f14fc9d3b5",
+   "cycle_notes": "No fixed cycle; the Housing Element says funds are allocated through the Housing Commission as funding becomes available, following the 2020 Council direction to issue an RFP/NOFA.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": "2026-11-10",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "audit_note": "funding_type kept as loan: development uses are HOME, Housing Asset Fund and in-lieu fee gap and predevelopment loans (Programs 4 and 15); PLHA portion is for shelter operations. Current NOFA status unconfirmed because ci.oceanside.ca.us returns 403.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Oceanside",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Diego",
+   "confidence": "needs_confirmation",
+   "program_name": "Oceanside Density Bonus Ordinance (Zoning Ordinance, Housing Element Program 2) and development impact fee deferral for affordable units",
+   "administering_agency": "City of Oceanside Development Services Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Housing Element Program 2 commits the City to amend its density bonus ordinance (Zoning Ordinance Article 30) within one year of adoption to conform to AB 1763, SB 1227 and AB 2345. State law (as amended by AB 1287, effective January 1, 2024) allows up to a 100 percent bonus for projects reserving at least 15 percent of base units for very low income, 24 percent for lower income or 44 percent for moderate income households. In the coastal zone, Coastal Commission staff note that the certified Article 30 density bonus provisions do not apply to the Downtown District; the City's Downtown amendment (Ordinance 23-OR0749-1, LCP-6-OCN-25-0029-2) sets an 86 units per acre base density and staff recommended allowing State density bonuses there and requiring the City to submit updated density bonus regulations by January 1, 2029. In-lieu fee deferral on the same terms as impact fee deferral is available for inclusionary obligations.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Government Code 65915 tiers; 55 year rental affordability.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement. Confirm the current Zoning Ordinance Article 30 text, whether the Coastal Commission certified the Downtown density amendment, and any 2026 amendments with Planning.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "No local enhancements beyond state law were found; the practical local tools are the inclusionary in-lieu fund and the Affordable Housing Strategy NOFA (separate records). Smart and Sustainable Corridors Plan (Program 9) adds capacity along transit corridors. Read in the 2021-2029 Housing Element (HCD-hosted) and the Coastal Commission February 2026 staff report.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-adopted120622.pdf",
+   "record_id": "04ff5fbbd4",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income projects",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass Nov 9, 2026: changed false to unclear because the record bundles a fee deferral, which can be public funds under 1720(b)(4); density bonus alone would be false.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The density bonus itself (Gov. Code 65915) pays no public funds, but this record also covers development impact fee deferral for affordable units (Housing Element: fee deferrals for ELI and special needs projects, in-lieu fee deferral on the same terms as impact fees). Waived, reduced or deferred fees are public funds under 1720(b)(4) (fees or loans charged at less than fair market value), but 1720(c)(3) de minimis and other 1720(c) exemptions decide coverage. https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Oceanside",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Diego",
+   "confidence": "needs_confirmation",
+   "program_name": "Oceanside Housing Revenue Bonds (Multi-Family), Housing Element Program 1",
+   "administering_agency": "City of Oceanside Housing and Neighborhood Services Department, Housing Division (City as conduit issuer)",
+   "funding_type": "bond",
+   "typical_award_size": "Conduit tax-exempt private activity bonds issued by the City when appropriate; last used in 2016 for Villa Storia (38 units) with a CDLAC award. The City commits to issue bonds in conjunction with other financing as needed.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Federal 20 percent at 50 percent AMI or 40 percent at 60 percent AMI minimum; City regulatory agreement terms set per project.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency; no issuance policy or fee schedule was located. Most recent Oceanside deals have used JPA issuers with City TEFRA approval.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Low volume issuer; expect to use CMFA or CSCDA with a City TEFRA hearing instead, as the County does (county record). Pairs with 4 percent LIHTC and the Affordable Housing Strategy sources (separate record). Read in the 2021-2029 Housing Element (HCD-hosted); City pages blocked.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-adopted120622.pdf",
+   "record_id": "94c74add7b",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "DIR Public Works Case No. 2006-001 (citing PW 2004-016, Rancho Santa Fe) holds that conduit tax-exempt bond financing is not payment out of public funds under Labor Code 1720(b) because proceeds never enter public coffers; any City loan or land layered with the bonds must be assessed separately (https://www.dir.ca.gov/OPRL/coverage/year2007/2006-001.pdf).",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Carlsbad",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Diego",
+   "confidence": "needs_confirmation",
+   "program_name": "Carlsbad Housing Reserve Fund (CDBG set-aside for affordable housing acquisition) and CDBG entitlement; Section 108 and County HOME Consortium access",
+   "administering_agency": "City of Carlsbad Housing and Homeless Services Department; CDBG Advisory Committee recommends allocations",
+   "funding_type": "grant",
+   "typical_award_size": "The City reserves part of its annual CDBG entitlement (about $535,000 in FY 2025-26 per the Annual Action Plan; figure not confirmed on a City page) in a Housing Reserve Fund that accumulates for acquisition or development of affordable units; once a property is identified the reserve is reallocated to that project. Carlsbad used a $1.2M CDBG Section 108 loan in the 1990s for the Villa Loma site and may pursue Section 108 again. Carlsbad is in the San Diego Urban County HOME Consortium, so HOME development funds come through the County HCDS NOFA (over $675,000 awarded to Vista Las Flores rehabilitation).",
+   "per_unit_cap": "CDBG and HOME per-unit rules apply.",
+   "affordability_requirement": "CDBG low and moderate income benefit (80 percent AMI); HOME rents and terms for County-awarded HOME.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "predevelopment"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "FY 2027-28 CDBG application period expected winter 2026-27 with the CDBG Advisory Committee; Council adopts the Annual Action Plan in spring 2027. Confirm the current Housing Reserve Fund balance with the Housing and Homeless Services Department.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Minor source next to the Housing Trust Fund (separate record) but useful for site acquisition because CDBG can buy land. HOME must be sought from County HCDS NOFA 2026-03 (county record), which also offers IHTF and PLHA for Carlsbad sites. Read in the 2021-2029 Housing Element on hcd.ca.gov; carlsbadca.gov pages blocked (403).",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/carlsbad-6th-adopted041521.pdf",
+   "record_id": "7e7b594050",
+   "cycle_notes": "CDBG action plan each spring; reserve deployed by Council action",
+   "eligible_project_detail": [
+    "acquisition-rehab",
+    "preservation",
+    "new construction (site acquisition)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Housing Element confirms the Housing Reserve Fund, the 1990s $1.2M Section 108 loan for Villa Loma and the $675K County HOME award to Vista Las Flores. A news summary reports $535,326 as Carlsbad's total FY 2026-27 CDBG allocation adopted April 28, 2026, so the $535,000 figure is the whole entitlement, not the reserve set-aside; reserve amount unconfirmed.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Temecula",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "needs_confirmation",
+   "program_name": "Temecula density bonus, Development Code Section 17.10.020(P)",
+   "administering_agency": "City of Temecula Community Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Grants the bonus, incentives, waivers and parking ratios required by Gov. Code 65915, processed concurrently with development plan review.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Gov. Code 65915 thresholds.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applied at entitlement.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancements beyond state law found. Temecula has no inclusionary ordinance, in-lieu fee fund or local housing trust fund. The Housing Element target is at least two density bonus projects in the cycle.",
+   "source_url": "https://www.zoneomics.com/code/temecula-CA/chapter_9",
+   "record_id": "0466207c05",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Tier 4 spot check November 9, 2026: code text matches (density bonus application filed with and processed concurrently with development plan review, bonus, incentives, waivers and parking per Gov. Code 65915), but only on the zoneomics mirror; the official code host (library.qcode.us, linked from temeculaca.gov/1085) returned 403. Source is a third-party mirror, so the verified label rests on a mirror. Prevailing wage false is uncited. Only a third-party code mirror (zoneomics) could be read; official code host returns 403, so confidence held at needs_confirmation per the source-quality rule.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Palm Springs",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "needs_confirmation",
+   "program_name": "Palm Springs city affordable housing gap loans (housing successor LMIHAF and City housing funds)",
+   "administering_agency": "City of Palm Springs Community and Economic Development, Housing Division (Housing Successor)",
+   "funding_type": "loan",
+   "typical_award_size": "Reported 2026 commitments (from secondary summaries, not opened on the City site): $3,800,000 loan for the 82-unit Redtail project (3% simple interest, 57-year term, residual receipts), a $2,250,000 acquisition loan plus up to $2,500,000 subordinated fee loan for a 110-unit project at McCarthy and San Rafael (January 14, 2026), and a $3,000,000 commitment for a Wakeland senior project (March 2026). Earlier: Monarch Apartments (60 units) received a City loan, fee waivers and a land grant; a prior LMIHAF loan of about $5.97M to WHCHC.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "Lower income; terms set per project agreement (55-year or longer covenants typical).",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA found; commitments go to Council project by project. Confirm current fund balances in the FY 2024-25 housing successor report.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Palm Springs is a CDBG-only entitlement (FY 2026-27 CDBG about $337,285 for rehab and legal services), so City and successor funds are the local gap layer, stacked with HACR PBVs and the Coachella Valley Housing Catalyst Fund (county records). palmspringsca.gov returns 403 (Akamai) to scripts and WebFetch, and no working Granicus or Legistar host was found; source_url is the 6th cycle Housing Element draft on HCD, which documents the Monarch loan, fee waivers and land grant but not the 2026 loans.",
+   "source_url": "https://hcd.ca.gov/housing-elements/docs/palm-springs-6th-draft080221.pdf",
+   "record_id": "651cb6ed89",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Housing successor loans and land are public funds under Labor Code 1720(b)(1) and (b)(3) (https://california.public.law/codes/labor_code_section_1720); 1720(c)(4) exempts only Low and Moderate Income Housing Fund money under Health and Safety Code 33334.2 and 33334.3 and does not name housing successor asset funds, and 1720(c)(5)(E) exempts below-market loans where at least 40% of units are restricted to 80% AMI for 20 years. No program rule, NOFA or agreement term stating prevailing wage was found."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Indio",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "needs_confirmation",
+   "program_name": "Indio density bonus (Zoning Code Section 1.01.05(E) and Municipal Code Chapter 154)",
+   "administering_agency": "City of Indio Community Development Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Qualifying projects may apply for a density bonus, incentives and concessions consistent with Gov. Code 65915; Chapter 154 adopts state density bonus regulations by reference.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Gov. Code 65915 thresholds.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applied at entitlement.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancement found beyond state law. No local housing trust fund, inclusionary ordinance or in-lieu fee fund was confirmed for Indio (see the trust fund record). The 2021 Housing Element noted Chapter 154 only references state law and committed to an implementing update (Program 9). Coachella Valley Housing Coalition is the main local nonprofit developer.",
+   "source_url": "https://www.zoneomics.com/code/indio-CA/chapter_1",
+   "record_id": "490704bddf",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Tier 4 spot check November 9, 2026: Zoning Code 1.01.05 text matches (density bonus, incentives and concessions consistent with Gov. Code 65915, with reference to Municipal Code Chapter 154), but only on the zoneomics mirror; indio.org and codelibrary.amlegal.com returned 403. Source is a third-party mirror, so the verified label rests on a mirror. Prevailing wage false is uncited. Only a third-party code mirror (zoneomics) could be read; official code host returns 403, so confidence held at needs_confirmation per the source-quality rule.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Indio",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "needs_confirmation",
+   "program_name": "Indio Housing Authority housing successor LMIHAF and City or Housing Authority owned downtown sites",
+   "administering_agency": "Indio Housing Authority (Housing Successor) and City of Indio Housing and Neighborhood Services Division",
+   "funding_type": "loan",
+   "typical_award_size": "Older SB 341 reports (FY 2019-20 and FY 2020-21, seen only in search snippets) put the housing successor portfolio at about $7.2M, mostly loans such as Horizons at Indio senior housing (about $3.7M) and a SERAF loan from the Successor Agency. The Housing Element sites inventory includes 32 downtown parcels owned by the City or the Housing Authority, available for development agreements, land write-downs and fee deferrals.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "LMIHAF rules; project-specific covenants.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA found. Contact Housing and Neighborhood Services about the current LMIHAF balance and downtown parcels.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Recent Indio affordable deals (Arroyo Crossing I, Avenue 44) lean on County PLHA loans ($500K and $2M per County CEQA notices) and the Coachella Valley Housing Catalyst Fund (county records). indio.org returns 403 to scripts and WebFetch, the Legistar site has no data, and no Granicus host was found; source_url is the 6th cycle Housing Element draft on HCD, which describes the land and incentives.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/indio-6th-draft081321.pdf",
+   "record_id": "e4edfdf1dd",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Housing successor loans and land are public funds under Labor Code 1720(b)(1) and (b)(3) (https://california.public.law/codes/labor_code_section_1720); 1720(c)(4) exempts only Low and Moderate Income Housing Fund money under Health and Safety Code 33334.2 and 33334.3 and does not name housing successor asset funds, and 1720(c)(5)(E) exempts below-market loans where at least 40% of units are restricted to 80% AMI for 20 years. No program rule, NOFA or agreement term stating prevailing wage was found. The Indio Housing Element prevailing wage text refers to SB 35 streamlining, not to this fund."
+  }
+ },
+ {
+  "audit_reasons": [
+   "needs_confirmation"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Indio",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "needs_confirmation",
+   "program_name": "Indio Local Housing Trust Fund and inclusionary housing ordinance (Housing Element Programs 11 and 21, not established)",
+   "administering_agency": "City of Indio Community Development Department and Finance",
+   "funding_type": "negative finding",
+   "typical_award_size": "No funds. The Housing Element committed to explore a Local Housing Trust Fund and dedicated revenue (commercial linkage fee, inclusionary in-lieu fee or a tax) in year 2 and to evaluate an inclusionary ordinance in year 3.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Not applicable.",
+   "eligible_project_types": [
+    "new construction",
+    "preservation"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "No open round as of November 8, 2026; no trust fund or inclusionary ordinance found.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Recorded as negative information: Indio relies on CDBG (minor home repair), County funds, LIHTC and land write-downs rather than a local trust fund. Status could not be checked against current City documents because indio.org blocks automated access.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/indio-6th-draft081321.pdf",
+   "record_id": "4d4909317a",
+   "cycle_notes": "Housing Element Program 21 (explore a Local Housing Trust Fund and dedicated revenue, Year 2) and Program 11a (evaluate an inclusionary ordinance, Year 3); no adoption found.",
+   "eligible_project_detail": [
+    "new construction",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Audit 2026-11-08: reclassified from other to negative finding since no fund or ordinance exists. Housing Element confirms Programs 11 and 21 as described; a web search found no Indio trust fund or inclusionary ordinance adoption, but indio.org (403) could not be checked for current status.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program exists, so nothing here pays for construction; Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720) applies only to construction paid for in whole or in part out of public funds."
+  }
+ }
+]
