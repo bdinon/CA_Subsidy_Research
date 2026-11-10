@@ -279,7 +279,7 @@ Accepted with partial mirror reliance (core facts on official sources, one detai
 Follow-ups:
 
 - **Alameda County boomerang funds (777c6b9680):** tagged closed/inactive, but achcd.org shows HCD still administers Boomerang. Decide whether to reopen.
-- **Manual name edits (not settable by patch):** South Lake Tahoe aec15a86fe "adopted December 2024" conflicts with the March 2024 fee schedule; Richmond 343b5d5dac should become a pointer record; City of Santa Cruz 23bd3a2dd9 says "reduced" childcare fee where 100 percent affordable projects may be exempt.
+- **Manual name edits (not settable by patch):** South Lake Tahoe aec15a86fe "adopted December 2024" conflicts with the March 2024 fee schedule; Richmond 343b5d5dac should become a pointer record; City of Santa Cruz 23bd3a2dd9 says "reduced" childcare fee where 100 percent affordable projects may be exempt. RESOLVED Nov 10, 2026 (log `audit_changes_20261110_082639_manual.csv`): SLT date dropped from name; Richmond renamed to a pointer record with County agencies and links to 62fad77d98 and 7b49041303; Santa Cruz renamed to Part 3 density bonus plus Part 4 fee deferrals, childcare claim removed from name and PW basis and flagged in layering notes.
 - **Possible new records:** Hollister Housing Trust Guidelines and $300,000 to the HOME revolving loan fund (June 22, 2026); Ventura Chapter 4.240 impact fee deferral (Sept 2024 snippet only).
 - **Davis Measure W:** certification due Dec 3, 2026; then update 286b3332af and d3c111e44a.
 - **Madera County PLHA (19afbbe608):** HCD dashboard shows the housing element not compliant, which bars PLHA awards.
