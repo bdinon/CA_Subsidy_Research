@@ -22091,7 +22091,7 @@
     "program_name": "Hollister Housing Trust Fund ($300,000 initial deposit, Housing Element Policy Action H5.12 and 2026 stipulated judgment with HCD and the Attorney General)",
     "administering_agency": "City of Hollister Planning and Housing Divisions (program procedures subject to HCD approval)",
     "funding_type": "other",
-    "typical_award_size": "Initial capitalization of $300,000 from the City general fund, required by the March 26, 2026 stipulated judgment (People of the State of California and HCD v. City of Hollister) and carried into the adopted 2023-2031 Housing Element as Policy Action H5.12. The fund must support housing for extremely low, very low and low income households, including migrant housing, emergency shelters, supportive housing, single-room occupancy and transitional housing. Award form (grant or loan), per-project limits and the application procedure are to be set in a program document approved by HCD. Any money remaining five years after deposit transfers to the State Building Homes and Jobs Trust Fund unless HCD agrees otherwise.",
+    "typical_award_size": "Initial capitalization of $300,000 from the City general fund, required by the March 26, 2026 stipulated judgment (People of the State of California and HCD v. City of Hollister) and carried into the adopted 2023-2031 Housing Element as Policy Action H5.12. The fund must support housing for extremely low, very low and low income households, including migrant housing, emergency shelters, supportive housing, single-room occupancy and transitional housing. Award form (grant or loan), per-project limits and the application procedure are to be set in a program document approved by HCD. Any money remaining five years after deposit transfers to the State Building Homes and Jobs Trust Fund unless HCD agrees otherwise. On June 22, 2026 the City Council adopted a resolution approving the Housing Trust Guidelines and a FY 2026-27 budget adjustment moving $300,000 from General Fund 101 to the HOME Program Revolving Loan Fund 809 (5-0 roll call), and directed staff to submit the guidelines to HCD for review. The guideline text is attached to the agenda item but could not be opened (eScribe attachments behind a bot check), so award form and limits remain unconfirmed.",
     "per_unit_cap": "Not yet established.",
     "affordability_requirement": "Extremely low, very low and low income households (at or below 80% AMI); affordability terms to be set in the HCD-approved procedures.",
     "eligible_project_types": [
@@ -22101,12 +22101,12 @@
       "farmworker housing"
     ],
     "application_cycle": "rolling",
-    "next_deadline": "No open round as of November 8, 2026. The stipulated judgment (paragraph 34) requires the City to submit the draft trust fund program to HCD and deposit $300,000 within 30 days after HCD finds the housing element in substantial compliance; HCD certification status could not be confirmed this pass. Contact housing@hollister.ca.gov for status.",
+    "next_deadline": "No open round as of November 10, 2026. Guidelines and the $300,000 deposit were approved June 22, 2026 and sent to HCD for review; no HCD approval or funding round has been posted. Contact housing@hollister.ca.gov for status.",
     "prevailing_wage_trigger": "unclear",
-    "layering_notes": "This will be the only city-controlled capital source for affordable development in Hollister; there is no inclusionary in-lieu fund (Chapter 17.36 requires on-site units) and the former redevelopment agency's housing assets are limited to a Housing Division loan and resale monitoring portfolio (Successor Agency page opened). At $300,000 it is predevelopment-scale money; realistic use is a predevelopment loan or local match that strengthens a TCAC, HCD or AHSC application, layered under county sources (San Benito County PLHA, HHAP, CMFA conduit bonds) and Housing Authority of the County of Santa Cruz PBVs. The five-year sunset creates pressure to commit funds quickly, which favors shovel-ready sponsors. H5.12 also commits the City to annual developer meetings, one-on-one technical assistance and support letters. Marked needs_confirmation because the fund did not exist as of this pass; the judgment text (oag.ca.gov Exhibit B) and the adopted Housing Element PDF were both opened.",
+    "layering_notes": "This will be the only city-controlled capital source for affordable development in Hollister; there is no inclusionary in-lieu fund (Chapter 17.36 requires on-site units) and the former redevelopment agency's housing assets are limited to a Housing Division loan and resale monitoring portfolio (Successor Agency page opened). At $300,000 it is predevelopment-scale money; realistic use is a predevelopment loan or local match that strengthens a TCAC, HCD or AHSC application, layered under county sources (San Benito County PLHA, HHAP, CMFA conduit bonds) and Housing Authority of the County of Santa Cruz PBVs. The five-year sunset creates pressure to commit funds quickly, which favors shovel-ready sponsors. H5.12 also commits the City to annual developer meetings, one-on-one technical assistance and support letters. The $300,000 sits in the HOME Program Revolving Loan Fund 809 alongside HOME program income, so trust awards may carry HOME-style terms; confirm once HCD approves the guidelines. Sources opened: judgment text (oag.ca.gov Exhibit B), adopted Housing Element PDF, and the June 22, 2026 City Council minutes on eScribe.",
     "source_url": "https://files.hollister.ca.gov/CLEAN%20FINAL%20DRAFT%20City%20of%20Hollister%206th%20Cycle%20Housing%20Element%20Update_04.24.2026%20(1).pdf?t=202607071654130",
     "record_id": "a28971818e",
-    "cycle_notes": "",
+    "cycle_notes": "Housing Trust Guidelines and $300,000 budget adjustment approved by City Council June 22, 2026 (special meeting item 6.2, moved by Resendiz, seconded by Picha, 5-0); guidelines pending HCD review under the March 26, 2026 stipulated judgment.",
     "eligible_project_detail": [
       "new construction",
       "supportive housing",
@@ -22118,8 +22118,8 @@
     "deadline_check": "no_date",
     "link_status": "ok",
     "prevailing_wage_basis": "Neither the stipulated judgment nor Housing Element Policy Action H5.12 states a prevailing wage rule; trust fund procedures are not yet written.",
-    "audit_note": "funding_type kept as other: the fund is not yet capitalized and the judgment leaves award form (grant or loan) to HCD-approved procedures; reclassify when procedures are published.",
-    "last_audited": "2026-11-09"
+    "audit_note": "Follow-up Nov 10, 2026: June 22, 2026 Council minutes (eScribe PostMinutes view) confirm adoption of the Housing Trust Guidelines and the $300,000 transfer to HOME Revolving Loan Fund 809, with the guidelines sent to HCD. Guideline PDF (eScribe DocumentId 22444) not readable. funding_type kept as other until the guidelines state grant or loan.",
+    "last_audited": "2026-11-10"
   },
   {
     "level": "city",
@@ -28188,29 +28188,30 @@
     "research_pass": "3_city",
     "county_tag": "Ventura",
     "confidence": "needs_confirmation",
-    "program_name": "City of Ventura affordable housing fee deferral and partial fee waiver program (Housing Element Program 29)",
+    "program_name": "City of Ventura Development Impact Fee Deferral Program (Municipal Code Chapter 4.240, adopted October 2024) and Council-granted partial fee waivers (Housing Element Program 29)",
     "administering_agency": "City of Ventura Community Development Department",
     "funding_type": "fee waiver",
-    "typical_award_size": "Housing Element Program 29 called for a fee deferral program and a Director-granted partial fee waiver for 100% affordable projects by the FY 2022-23 budget, plus expedited plan check. Existing: 100% affordable projects are exempt from the $13,000 development agreement fee; Riverside Apartments and Westview Village received Council-granted partial fee waivers. In February 2025 the City Council considered a $570,272 impact fee deferral (including the $167,500 Quimby fee) for the College Community Courts project (People's Self-Help Housing), which indicates deferrals still go to Council case by case.",
+    "typical_award_size": "Municipal Code Chapter 4.240, Development Impact Fee Deferral Program, was created by ordinance in October 2024 (Council supported it unanimously at first reading; second reading October 22, 2024) so affordable projects no longer need Council approval for each impact fee deferral or waiver request. Per search excerpts of the ordinance text and staff reports (city site blocked, not opened): eligible projects are new residential developments with at least 50 percent of units affordable to lower income households; deferrable fees include the Park and Recreation Facilities Tax, Traffic Mitigation Fee, Service Area Park Mitigation Fee, Quimby Fee, CIDS Park Fee, General Capital Improvements Tax and Fire Facility and Equipment Fee; deferred fees plus accrued interest are secured by a recorded deed of trust, with a deferral term of up to 55 years described in the Planning Commission packet. Separately, 100 percent affordable projects are exempt from the $13,000 development agreement fee, and Riverside Apartments and Westview Village received Council-granted partial fee waivers.",
     "per_unit_cap": null,
-    "affordability_requirement": "Partial waiver limited to all-affordable projects; deferral for affordable housing projects.",
+    "affordability_requirement": "Chapter 4.240 deferral: at least 50 percent of units restricted to lower income households (search excerpts of the ordinance, not opened). Partial fee waivers: all-affordable projects.",
     "eligible_project_types": [
       "new construction"
     ],
     "application_cycle": "rolling",
-    "next_deadline": "Unknown, verify with agency.",
+    "next_deadline": "Rolling. Deferral requests are processed under Chapter 4.240; application timing and form not confirmed (city site blocked).",
     "prevailing_wage_trigger": "unclear",
-    "layering_notes": "Before this program, fee waivers required City Council approval case by case, which was hard to use because housing projects do not otherwise go to Council. Fee waivers are local public funds and can trigger state prevailing wage. Needs confirmation because the city site (Cloudflare) blocked budget and Council documents; only the 2021-2029 Housing Element on the HCD site was opened.",
+    "layering_notes": "Fee deferral, not forgiveness: fees plus interest come due later, secured by a deed of trust, so lenders and TCAC underwriting must carry the deferred obligation. Council items for Arrive Ventura (May 2025) and College Community Courts (February 2025) show larger requests, and the Quimby fee, still went to Council after adoption. Ventura Housing Authority CEO Jeff Lambert said the program lets sponsors plan ahead (Ojai Valley News, October 2024). Fee relief is local public funds for prevailing wage purposes. Needs confirmation because cityofventura.ca.gov returns 403; the 2021-2029 Housing Element (HCD site) and the Ojai Valley News report were opened, and ordinance details come from search excerpts of city PDFs (DocumentCenter 41962 ordinance language, 41976 Planning Commission packet, 42235 October 22, 2024 agenda item, 44572 May 13, 2025 agenda item).",
     "source_url": "https://www.hcd.ca.gov/housing-elements/docs/ventura-6th-adopted022222.pdf",
-    "record_id": "fc3dd4f637",
-    "cycle_notes": "",
+    "record_id": "2ec06fc98a",
+    "cycle_notes": "Chapter 4.240 adopted October 2024 (second reading October 22, 2024). Used for Arrive Ventura (297 units, 104 affordable; Council action May 13, 2025, Quimby fee excluded) and requested for College Community Courts (February 25, 2025 Quimby fee deferral).",
     "eligible_project_detail": [
-      "new construction"
+      "new residential construction with at least 50% lower income units (deferral)",
+      "100% affordable developments (partial waiver, development agreement fee exemption)"
     ],
     "next_deadline_date": null,
     "deadline_check": "no_date",
     "link_status": "ok",
-    "audit_note": "NC audit Nov 10, 2026: cityofventura.ca.gov pages, AgendaCenter minutes and DocumentCenter files still return 403 to curl and WebFetch, and no open agenda host was found (no Legistar, eScribe or PrimeGov client; ventura.primegov.com is the County). A search result indicates a September 2024 Planning Commission item recommending a new Municipal Code Chapter 4.240, Development Impact Fee Deferral Program for projects with a large share of affordable units, and a February 25, 2025 Council supplemental report on the College Community Courts Quimby fee deferral; neither page could be opened, so adoption of Chapter 4.240 is unconfirmed and should be checked first.",
+    "audit_note": "Follow-up Nov 10, 2026: Chapter 4.240 adoption confirmed by Ojai Valley News (unanimous first reading, second reading October 22, 2024); eligibility, fee list, deed of trust and 55-year term rest on search excerpts of city PDFs that return 403. Stays needs_confirmation until the code text or ordinance is opened.",
     "last_audited": "2026-11-10",
     "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. 100 percent affordable projects are exempt from a City development fee, and Housing Element Program 29 calls for fee deferral and a partial fee waiver. Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
   },
