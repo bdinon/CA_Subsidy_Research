@@ -1,0 +1,780 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Rafael",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "San Rafael Affordable Housing Trust Fund (Affordable Housing In-Lieu Fee Fund 243), Resolution 14760 guidelines, periodic NOFA and rolling acquisition process",
+   "administering_agency": "City of San Rafael Community and Economic Development Department, Housing Division (Alexis Captanian, Housing Manager, (415) 485-3383, housing@sanrafael.gov)",
+   "funding_type": "loan",
+   "typical_award_size": "Small gap fund capitalized by residential in-lieu fees and commercial linkage fees. Balance was $2,034,226 in July 2023 and about $1,000,000 unencumbered on August 15, 2024. 2023 NOFA offered $1,400,000 and awarded $1,450,000 across three projects (BRIDGE Housing rehabilitation of 125 units at Nova Albion and Las Gallinas $1,000,000; Eden Housing 3301 Kerner Blvd 40-unit PSH adaptive reuse $250,000 on top of $2,101,663 prior awards; Canal Alliance Marin Villa Estates renovation $200,000). The June 2025 round awarded $600,000 across three projects (an acquisition, a rehabilitation and new construction) and was issued jointly with Marin County. Rolling acquisition process approved September 3, 2024: up to $250,000 per year total, unawarded amounts do not roll over. Awards are grants or loans at Council discretion.",
+   "per_unit_cap": "No fixed cap; guidelines score per-unit subsidy for reasonableness. Rolling acquisition requests are limited by the $250,000 annual pool.",
+   "affordability_requirement": "Rental units income and rent restricted for not less than 55 years. 100% affordable rental or ownership projects serving seniors, families and special needs, including formerly homeless households. Scoring favors transit proximity (within a quarter mile), units for larger families (Resolution 15438) and very low income service.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No City NOFA planned for 2026 (City statement on its funding page). Acquisition requests accepted any time after a pre-application meeting with staff. Watch the County NOFA in January 2027 for the next joint round.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "San Rafael is the only Marin city with a recurring NOFA practice, but the pool is thin: in-lieu revenue has fallen because most projects now use State Density Bonus with on-site units instead of paying the fee (Oct 5, 2026 staff report). Typical use is last-mile gap money of $200,000 to $1,000,000 that unlocks the Marin County Affordable Housing Fund (County guidelines require a city contribution for projects inside city limits) and County PLHA (2023 example: $250,000 City plus $250,000 County Trust Fund plus $250,000 PLHA for 3301 Kerner). CDBG and HOME for San Rafael flow through the Marin Urban County; the City received $508,032 in CDBG in 2026 and the 2026-27 County cycle offered $1,500,000 CDBG, $700,000 HOME and $900,000 PLHA. Pair with CMFA bonds and 4% credits; LIHTC deals in the City pipeline include 88 Vivian (124 units) and 1100 Los Gamos (192 units, Community Development Partners). City funds are public funds, so assume Labor Code 1720 prevailing wage unless the award is structured as an exempt grant. Resolution 14760 itself (Jan 21, 2020) was not opened; terms come from the Sept 3, 2024 staff report, the July 2023 NOFA award report, the April 2024 Marin Villa amendment and the 2025 Annual Progress Report, all opened. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+   "source_url": "https://sanrafael.gov/funding-opportunities-for-affordable-housing-developers/",
+   "record_id": "19f8bbe646",
+   "cycle_notes": "(acquisitions, up to $250,000 a year); NOFA issued only when the balance supports it, aligned with the County January cycle",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No program rule found. The City funding page, the 2020, 2021 and 2023 NOFAs and staff reports, and the Sept 2024 application process report do not state a prevailing wage requirement for Trust Fund awards. The April 2024 Marin Villa Estates staff report notes prevailing wage applied to that project through multiple layered funding sources, not through the City fund itself. Coverage of a City-only award rests on the general Labor Code 1720(b) public-funds definition and depends on 1720(c) exemptions and project facts.",
+   "audit_note": "Tier 3: prevailing wage left unclear. Resolution 14760 guideline text was not found online; only the general Labor Code 1720(b) basis exists, so the outcome depends on 1720(c) exemptions and other funding layered on the project.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Rafael",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "Affordable Housing Requirement (inclusionary), SRMC 14.16.030(B), Ordinance 1990 and Resolution 14890 guidelines, in-lieu fee set by Resolution 15179",
+   "administering_agency": "City of San Rafael Community and Economic Development Department, Planning and Housing Divisions",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. In-lieu fee per required affordable unit: $396,702 for July 1, 2026 to June 30, 2027 ($389,032 in FY 2025-26, $368,274 in FY 2024-25, $362,817 in FY 2023-24), indexed annually to the California Construction Cost Index under Resolution 15179 (Dec 19, 2022). Fees are paid before building permit issuance and deposited to the Affordable Housing Trust Fund.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Primary requirement: projects of 2 to 15 units provide 10% of base units (excluding density bonus units) for low income households; projects of 15 or more units provide 5% low income. Secondary requirement for projects over 15 units: an additional 5% low income or 10% moderate income on site, or an in-lieu fee equal to 5% of base units, or off-site units within a half mile with an experienced affordable developer, or land donation appraised at or above the fee. Affordability in perpetuity, reducible to not less than 40 years on a Council finding of financial infeasibility. Fractional units below 0.5 pay the fee; 0.5 and above round up. Exempt: single-family homes, ADUs and JADUs, projects with pre-ordinance development agreements.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Fee resets every July 1; FY 2027-28 figure will post after the index update. Resolution 14890 requires a program review every 3 to 5 years, so watch for amendments alongside the 2027 Housing Element mid-cycle work.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Low on-site percentages (5% to 10%) make San Rafael one of the lighter inclusionary regimes in Marin, compared with Novato's 20% and Mill Valley's 15% (25% before 2026) and the County's 20%. Developers of 100% affordable projects satisfy the requirement automatically and the City counts inclusionary units with density bonus units when they overlap, which is why in-lieu receipts have dropped (Oct 2026 staff report). The Northgate Town Square redevelopment (Merlone Geier, up to 1,422 units, entitled Dec 2, 2024, demolition began fall 2025) is the largest pipeline source of inclusionary units or fee revenue; the City pages opened state that it includes affordable housing but do not quantify the count, so confirm the development agreement terms in the Laserfiche project documents before relying on them. Fee revenue funds the Trust Fund record above. Ordinance 1990, Resolutions 14890 and 14891 were opened as PDFs on the City fees page; Resolution 15179 is on the City's Laserfiche public records portal, which refused connections this pass.",
+   "source_url": "https://sanrafael.gov/affordable-housing-fees-for-developers/",
+   "record_id": "ae12a4b435",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Rafael",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "Fee waivers for affordable housing: planning and building fee waiver policy (Resolution 11025), traffic mitigation fee exemption for affordable units (Resolution 14983), Housing Element Program 36 fee burden review",
+   "administering_agency": "City of San Rafael Community and Economic Development Department; waivers approved by the City Council case by case",
+   "funding_type": "fee waiver",
+   "typical_award_size": "No fixed schedule. The City does not assess its Traffic Mitigation Fee on affordable housing units, and affordable housing developers may request planning and building fee waivers for City Council consideration under Resolution 11025 (2025 Annual Progress Report, Program 36). The June 15, 2026 Transportation Mitigation Fee update (effective August 14, 2026) and the pending Park Impact Fee nexus study (hearing continued from May 18 to June 15, 2026) will set the fee base against which any waiver is measured.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Not codified in the documents read; waivers have been granted to 100% affordable projects on request. Program 36 commits the City to reduce fee burdens for affordable housing projects where possible by December 31, 2025 and is reported as in progress.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Request with the entitlement or building permit application; Council action required. Watch the Park Impact Fee adoption and any affordable housing exemption written into it (2026 to 2027).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Waived fees count as public funds under Labor Code 1720(b)(4), so model prevailing wage on any waiver. Combined with the Trust Fund and County money this is a modest layer; the City is counting Program 36 and Resolution 11025 toward its Prohousing Designation points. Resolution 11025 and Resolution 14983 were not opened (the City's Laserfiche portal refused connections); terms come from the 2025 Annual Progress Report, the 2026 Prohousing draft application and Resolution 14891 Section H, all opened. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+   "source_url": "https://storage.googleapis.com/proudcity/sanrafael/2026/07/3.b-general-plan-and-housing-element-annual-progress-reports.pdf",
+   "record_id": "42d199968b",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. A waived or reduced fee that would normally be required is public funds under Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(3) treats a subsidy as de minimis (so the project is not a public work on that basis) when it is under $600,000 and under 2 percent of total project cost, and 1720(c)(5) exemptions can apply. The 2025 Annual Progress Report (https://storage.googleapis.com/proudcity/sanrafael/2026/07/3.b-general-plan-and-housing-element-annual-progress-reports.pdf) states no prevailing wage rule for Resolution 11025 waivers or the traffic mitigation fee exemption.",
+   "audit_note": "PW citation pass Nov 9, 2026: true changed to unclear. Whether a fee never charged on affordable units (traffic fee) is a fee normally required under 1720(b)(4) is itself uncertain.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Rafael",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "Prohousing Designation application (Resolution of October 5, 2026) and Prohousing Incentive Pilot eligibility",
+   "administering_agency": "City of San Rafael Community and Economic Development Department (Greg Minor, (415) 680-4707, greg.minor@sanrafael.gov)",
+   "funding_type": "policy/designation",
+   "typical_award_size": "Not a direct subsidy. Designation gives City-sponsored projects scoring priority in AHSC, IIG, TCC, SCCP, LPP, TIRCP and STPG and lets the City apply to HCD's Prohousing Incentive Pilot (PIP); the staff report notes the smallest award in the most recent PIP round was $315,762.38 and that no Marin jurisdiction held the designation as of August 10, 2026. Draft application posted for public review October 9 to November 8, 2026, then submitted to HCD, which has 60 days to decide; designation lasts three years.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Not applicable. The City commits to implement Housing Element Programs 19 (City-owned lots), 20 (North San Rafael Precise Plan), 25 (Objective Design Standards), 36 (fee reductions for affordable housing) and 43 (parking standards) to keep its score.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "HCD decision expected by early 2027 (60 days after formal submittal following the comment period that closed November 8, 2026). Check for a PIP NOFA in 2027.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "If approved, San Rafael becomes the only Prohousing jurisdiction in Marin, which matters for AHSC and IIG scoring on transit-adjacent sites like Northgate and Downtown. PIP funds would likely be routed through the City's Affordable Housing Trust Fund process. Staff report and draft application PDFs opened on the City site.",
+   "source_url": "https://sanrafael.gov/prohousing-designation-program-application/",
+   "record_id": "1f99eae749",
+   "cycle_notes": "HCD PIP rounds once designated",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": "2026-11-08",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720) requires construction paid for out of public funds. Prohousing Designation is a scoring preference that pays no funds to a project, so it does not itself trigger prevailing wage; wage obligations come only from the funding programs used. Prohousing Incentive Pilot awards routed to projects would be tested as public funds.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Novato",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "Novato Affordable Housing Requirements (inclusionary), Novato Municipal Code Division 19.24 (Ordinances 1576, 1676 and 1718), with in-lieu fees to the City housing fund",
+   "administering_agency": "City of Novato Community Development Department, 922 Machin Avenue, Novato, (415) 899-8989",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. In-lieu fee amounts are set by Council resolution (not published on the code mirror); fees are paid before building permit issuance into a separate City fund earmarked for very low, low and moderate income housing (19.24.040). Council approval of an in-lieu payment is discretionary for projects of 7 or more units and by right for 3 to 6 unit projects and for fractions below 0.70.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Sliding scale by project size: 3 to 10 units 10%, then one percentage point per unit from 11 units (11%) to 20 or more units (20%). Rental projects: half of the required units at 50% AMI rents and half at 60% AMI rents (very low and low income). Ownership: half low income (65% AMI pricing) and half moderate income (90% AMI pricing). Fractions of 0.70 or more round up. Deed restrictions through a recorded Inclusionary Housing Agreement; one-for-one replacement of demolished deed-restricted units. Exempt: ADUs and JADUs, residential care facilities for the elderly, single or two-unit projects with homes of 3,000 square feet or less, and AHO overlay projects that meet the overlay's 20% requirement.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Ordinance 1718 (Sept 10, 2024) was the latest amendment read. Confirm the current in-lieu fee resolution and any Housing Element Program 3.F (Evaluate and Adjust Impact Fees) follow-up with the Planning Division.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Novato's 20% at 20-plus units with a 50/50 very low and low split is the strictest rental inclusionary standard among the three Marin priority cities and matches the County's 20% in unincorporated Marin; State Density Bonus units are excluded from the base count. Because in-lieu payment needs Council approval above six units, fund revenue is small and lumpy; a 2019 Planning Commission record cited a housing fund balance of about $1,200,000 (search snippet, not opened). Habitat for Humanity's 80-unit Redwood Boulevard project shows how the City layers: about $1,000,000 in City fee reductions and waivers approved March 2025 on top of $1,000,000 allocated in 2023 from the City's Affordable Housing Fund, with a $5,239,098 Marin County Housing Trust Fund loan (April 15, 2025, see County record). novato.gov and novato.org returned 403 to every request this pass (HTML pages, showpublisheddocument PDFs and the news module); Novato has no Legistar API client and no Granicus or IQM2 host was found, so City pages, the 2023-2031 Housing Element, the 2025 Annual Progress Report and Council staff reports could not be opened. The Zoning Ordinance was read on the Zoneomics mirror and HCD's April 12, 2023 review letter was opened on hcd.ca.gov. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+   "source_url": "https://www.zoneomics.com/code/novato-CA/chapter_3",
+   "record_id": "ed1a62065b",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Novato",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "Novato Affordable Housing Fund (inclusionary in-lieu fee fund) gap financing and development fee waivers for affordable projects",
+   "administering_agency": "City of Novato Community Development Department, 922 Machin Avenue, Novato, (415) 899-8989",
+   "funding_type": "loan",
+   "typical_award_size": "No published guidelines or NOFA. The Affordable Housing Programs Fund (Fund 210) receives in-lieu fees, BMR resale and monitoring fees and interest, and mainly pays for BMR program administration, with occasional project support: past loans to Eden Housing ($1,500,000), Homeward Bound Oma Village ($600,000) and Habitat northwest quad ($427,438). For Habitat for Humanity's 80-unit Redwood Boulevard ownership project the Council granted $350,000 for development impact fees plus waivers of several City fees (March 14, 2023) and a further grant of up to $1,000,000 ($800,000 from Fund 210 plus $200,000 transferred from the General Fund) for processing fees (March 11, 2025). Staff projected a Fund 210 balance of $1,132,422 at June 30, 2025, leaving about $332,422 for other projects after reserving $650,000 for BMR buybacks, and said the fund no longer has large balances because developers build inclusionary units on site.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Zoning Code 19.24.040 requires in-lieu fees to go to a separate City fund for very low, low and moderate income housing; awards carry regulatory agreements set per project (Habitat: 60 low and 20 moderate income ownership units). Inclusionary requirement 10% for 7 to 10 units rising to 20% at 20 or more units (19.24.030).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No open round; requests go to Council through the Community Development Department as of November 8, 2026.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Treat as a small, negotiated gap or fee-offset source, roughly $1,000,000 per project at most and limited by a low fund balance; mainly useful to meet the Marin County Affordable Housing Fund requirement that cities waive fees and provide a local match. CDBG and HOME for Novato flow through the Marin Urban County planning area, and Novato supplies PLHA match for its planning area. Novato agendas and staff reports are reachable on novato.granicus.com (view_id=7) and its legistar download links even though novato.gov returns 403.",
+   "source_url": "https://novato.granicus.com/services/legistar/download/pdf/3191930/J.1_cc25-039_Habitat_for_Humanity_Fee_Waiver_Request.pdf",
+   "record_id": "2b8daf48cf",
+   "cycle_notes": "No NOFA; developers request funds directly and the Council acts by resolution. City support also satisfies the County Affordable Housing Fund local-match requirement.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "audit_note": "novato.gov still 403; the March 11, 2025 Council agenda and staff report on novato.granicus.com were read and correct the prior figures ($350,000, not $1,000,000, in 2023; the $1,000,000 in 2025 was a grant, not fee reductions). Fund 210 makes both loans and grants; funding_type left as loan. Prevailing wage trigger left as found; not in audit scope. PW citation pass Nov 9, 2026: true changed to unclear.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans and grants are public funds under Labor Code 1720(b)(1), (b)(4) and (b)(5) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market interest rate loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI (applied to an NPLH loan in DIR PW 2019-018, https://dir.ca.gov/OPRL/coverage/year2020/2019-018.pdf), and 1720(c)(3) exempts de minimis subsidies (under $600,000 and under 2 percent of project cost). A waived or reduced fee that would normally be required is public funds under Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(3) treats a subsidy as de minimis (so the project is not a public work on that basis) when it is under $600,000 and under 2 percent of total project cost, and 1720(c)(5) exemptions can apply. The March 11, 2025 staff report on the Habitat for Humanity request (https://novato.granicus.com/services/legistar/download/pdf/3191930/J.1_cc25-039_Habitat_for_Humanity_Fee_Waiver_Request.pdf) states no prevailing wage term; Habitat ownership projects may also qualify for the 1720(c)(5)(A) self-help housing exemption (at least 500 hours of construction work by the buyers)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Novato",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "Novato Density Bonus (Division 19.25) with Local Senior Density Bonus and the Affordable Housing Opportunity (AHO) Overlay District (Section 19.16.070)",
+   "administering_agency": "City of Novato Community Development Department, 922 Machin Avenue, Novato, (415) 899-8989",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement framework, not a cash subsidy. Division 19.25 (Ordinance 1587, Dec 3, 2013) applies State Density Bonus Law by reference (19.25.040) and adds a Local Senior Density Bonus to 30 dwelling units per acre for senior citizen housing on AHO overlay sites, calculated before any state bonus (19.25.050). The AHO overlay, applied to Housing Element opportunity sites, sets base density at 20 to 23 units per acre on activation, requires 20% of units for very low and low income households (10% each) with 55-year covenants, exempts compliant projects from Division 19.24, and carries its own development standards (height, setbacks, lot coverage). Rezoning to implement Housing Element Program 1.A was adopted January 9, 2024 (CEQA addendum).",
+   "per_unit_cap": null,
+   "affordability_requirement": "State thresholds for the general bonus; AHO projects 20% very low and low income for not less than 55 years; senior bonus requires compliance with Civil Code 51.3 senior housing and the AHO standards.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "None. Novato's 2023-2031 Housing Element (adopted May 2024 per the City's General Plan page, not opened) commits to Program 3.G multifamily parking standards and 3.H parking reduction incentives; confirm adoption status.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "The AHO overlay is Novato's main local enhancement: a by-right residential path on commercial and institutional opportunity sites in exchange for 20% deep affordability, which substitutes for Division 19.24. State bonus units stack on top of the AHO base density. No local fee waiver or financial incentive is attached in the code read; see the Affordable Housing Fund record. Zoneomics mirror chapters 2 and 3 (Articles 2 and 3 of Title 19) opened; HCD's April 12, 2023 letter on the draft element also opened and lists programs 3.F (impact fees), 3.H (parking incentives) and 5.K (assist lower income production) as items HCD required the City to firm up. novato.gov and novato.org returned 403 to every request this pass (HTML pages, showpublisheddocument PDFs and the news module); Novato has no Legistar API client and no Granicus or IQM2 host was found, so City pages, the 2023-2031 Housing Element, the 2025 Annual Progress Report and Council staff reports could not be opened. The Zoning Ordinance was read on the Zoneomics mirror and HCD's April 12, 2023 review letter was opened on hcd.ca.gov. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+   "source_url": "https://www.zoneomics.com/code/novato-CA/chapter_2",
+   "record_id": "b3152a9af7",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Density bonus under Gov. Code 65915 grants units, concessions and waivers of development standards, not public funds; Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720) covers only construction paid for in whole or in part out of public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011, Gov. Code 65912.130). Division 19.25 and the AHO overlay attach no local fee waiver or financial incentive in the code text read (https://www.zoneomics.com/code/novato-CA/chapter_2).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Mill Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "Mill Valley Affordable Housing Trust Fund (MVMC 20.80.070, Ordinance 1295, Resolution 20-26 Administrative Guidelines, Resolution 24-60 Local Housing Trust Fund match)",
+   "administering_agency": "City of Mill Valley Planning and Building Department (Danielle Staude, dstaude@cityofmillvalley.org), with Housing Advisory Committee priorities and City Council approval of every award",
+   "funding_type": "loan",
+   "typical_award_size": "Funded by the 1% affordable housing impact fee on residential permits at or above the construction valuation threshold ($142,000 since May 1, 2024) plus inclusionary in-lieu payments and donations; collections were $345,000 by Feb 2020, roughly $300,000 a year per the Housing Element and about $600,000 a year per the 2024 Annual Progress Report, with about $1,000,000 unencumbered in 2024. Resolution 24-60 (Sept 5, 2024) committed $1,000,000 of Trust Fund match for an HCD Local Housing Trust Fund application ($1,200,000 requested; HCD's Round 5 applicant list shows the City with a self-score of 60) so that $2,400,000 total would be available: $1,000,000 ($500,000 grant plus $500,000 match) for Bayfront Terrace at 1 Hamilton Drive and $1,400,000 for other projects to be solicited. Loans at simple interest of no more than 3% as construction or deferred-payment permanent financing; up to 5% administration. Ongoing uses: Marin Housing Authority BMR administration, Home Match contract (up to $30,000 a year), Bayfront Terrace predevelopment, and the Lease to Locals pilot ($3,500 to $14,000 per converted rental, running through 2027).",
+   "per_unit_cap": "None published; LHTF-matched funds must put at least 30% toward extremely low income (30% AMI) units and no more than 20% toward 80% AMI units, with the remainder at or below 60% AMI.",
+   "affordability_requirement": "Low income households per Chapter 20.80 covenants; LHTF-matched awards target 60% AMI and below with a 30% extremely low income set-aside. Projects must be inside Mill Valley, scored on feasibility, funding needed, unit count and location outside the very high fire severity zone. Council approves each award at a public hearing. The City adopted HCD's Uniform Multifamily Regulations for underwriting.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency. The City said it would announce a solicitation in early 2025 contingent on the HCD LHTF award; no award or solicitation was found on the City site as of November 2026, and the 2028 Mitigation Fee Act five-year review and impact fee extension decision are the next fixed milestones.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Mill Valley's fund is unusually well capitalized for a 14,000-person city because the 1% fee hits every large remodel; it is the only Marin priority city with a committed state LHTF match strategy. Money has gone almost entirely to the City's own site (Bayfront Terrace, EAH Housing, 45 units) and to tenure programs, so a third-party developer should expect the $1,400,000 remainder and future fee receipts (about $600,000 a year) as the ceiling. Layer under the Marin County Affordable Housing Fund (the County awarded 1 Hamilton $500,000 in 2022 and $1,000,000 total by 2024 per County documents cited in search results, not opened), County HOME ($360,000 to the Eden Housing Mill Valley rental project in FY 2026-27, see County record) and PLHA; CDBG and HOME flow through the Marin Urban County. City loans are public funds for prevailing wage. Trust Fund page, Resolutions 20-26 and 24-60, 2024 APR, Housing Element and HCD's LHTF applicant list all opened. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+   "source_url": "https://www.cityofmillvalley.gov/2149/Housing-Trust-Fund",
+   "record_id": "a6508c0895",
+   "cycle_notes": "(Council awards); a solicitation for the remaining $1,400,000 was promised if the state grant is received",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The City Housing Trust Fund page and Resolution 20-26 Administrative Guidelines (https://www.cityofmillvalley.gov/2149/Housing-Trust-Fund, https://www.cityofmillvalley.gov/DocumentCenter/View/8671) and Resolution 24-60 (https://www.cityofmillvalley.gov/DocumentCenter/View/8672) state no prevailing wage rule. The State LHTF Round 5 NOFA (https://hcd.ca.gov/sites/default/files/docs/grants-and-funding/lhtf/2024-lhtf-nofa.pdf) says LHTF Program funds are subject to state prevailing wage law unless a Labor Code 1720(c) exception applies as determined by DIR, which restates 1720. Local loans and grants are public funds under Labor Code 1720(b)(1), (b)(4) and (b)(5) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market interest rate loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI (applied to an NPLH loan in DIR PW 2019-018, https://dir.ca.gov/OPRL/coverage/year2020/2019-018.pdf), and 1720(c)(3) exempts de minimis subsidies (under $600,000 and under 2 percent of project cost).",
+   "audit_note": "PW citation pass Nov 9, 2026: true changed to unclear. Bayfront Terrace, the main use of the fund, carries prevailing wage through its CEQA exemption (see that record).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Mill Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "Mill Valley Affordable Housing Requirements: inclusionary units and affordable housing impact fee, MVMC Chapter 20.80 (Ordinance 1295 of 2017, inclusionary update adopted 2026 under Housing Element Programs 7 and 11)",
+   "administering_agency": "City of Mill Valley Planning and Building Department",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Impact fee: 1% of construction valuation on single-family and small multifamily residential work at or above the valuation threshold ($100,000 in 2018, $105,000 in 2020, $130,000 in 2023, $142,000 from May 1, 2024, indexed to the California Construction Cost Index), paid at building permit into the Affordable Housing Trust Fund; collection was extended five years by Council resolution on March 20, 2023. The 2026 update lowered the inclusionary requirement from 25% to 15%, exempted 2 to 6 unit projects from building affordable units and waived their impact fee when units stay under 850 square feet (one bedroom), 1,000 (two bedrooms) or 1,200 (three bedrooms), and eliminated micro-unit caps. Fractional units of 0.50 or more may be met by an in-lieu payment calculated by applying the fraction to the impact fee formula.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Projects of 7 to 9 units: 15% affordable with at least one unit for moderate income households. Projects of 10 or more units: 15% affordable, at least half of the affordable units for low income households and the rest moderate income. Rental affordable units restricted in perpetuity or the maximum term allowed by law (20.80.060). Exempt: ADUs, micro units, projects below the valuation threshold, projects vested before November 1, 2018. Off-site units, land dedication or acquisition-rehabilitation alternatives at the City's sole discretion; Chapter 20.80.080 allows reducing moderate income unit counts when units are instead restricted to very low or low income.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Threshold adjusts each calendar year. Housing Element Program 11 requires a further look at inclusionary ratios at the 2028 RHNA mid-point; Program 12 calls for considering a commercial linkage fee and single-family impact fee changes with other Marin jurisdictions.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "The 2026 drop from 25% to 15% (half low, half moderate) brings Mill Valley below Novato (20%) and the County (20%) and closer to San Rafael's 5% to 10%; combined with the Housing Overlay Districts (17 to 40 units per acre) it is meant to make 7-plus unit infill feasible on commercial corridors. The impact fee is the engine of the Trust Fund record above; no commercial linkage fee exists yet. The 2026 ordinance PDF (Attachment 1, as adopted per the City zoning updates page), the Zoneomics mirror of Chapter 20.80, the 2024 APR and the Housing Element were opened; the City's eCode360 host was not needed.",
+   "source_url": "https://www.cityofmillvalley.gov/DocumentCenter/View/12336",
+   "record_id": "4af9d9ce01",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "redirected",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Mill Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "Mill Valley development fee waivers for affordable housing (MVMC 5.32 as amended October 3, 2022, Housing Element Programs 14 and 23) and lot merger fee waiver in the Opportunity Site Housing Overlay",
+   "administering_agency": "City of Mill Valley Planning and Building Department; City Council resolution for waivers",
+   "funding_type": "fee waiver",
+   "typical_award_size": "100% waiver of City application processing fees for projects managed and operated by affordable housing organizations when at least 10% of units serve very low income households (Housing Element Program 14 text) or extremely low income households (Program 23 and 2024 APR wording), adopted by ordinance and resolution in October 2022. Separately, MVMC 5.32 provides a 50% reduction in City fees, licenses and taxes for units affordable to and occupied by lower and moderate income households. Lot merger fees are waived for projects using the Opportunity Site Housing Overlay (2024 overlay ordinance). Affordable projects are also exempt from the Chapter 20.80 impact fee. Dollar value depends on the City fee schedule.",
+   "per_unit_cap": null,
+   "affordability_requirement": "At least 10% of units for very low or extremely low income households and operation by an affordable housing organization; the City also may consider a fee waiver program for ADUs under Program 30.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Request at application. Confirm the exact MVMC 5.32 threshold (very low versus extremely low) with Planning before underwriting; the two City documents read describe it differently.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "A processing-fee waiver is worth tens of thousands of dollars on a Mill Valley project, not a gap closer, but it counts as public funds under Labor Code 1720(b)(4). Stack with the Trust Fund, the housing overlays and State Density Bonus. Mill Valley's title 5 code text was not opened (eCode360 not attempted); terms come from the certified 2023-2031 Housing Element Chapter 4 (opened), the 2024 Annual Progress Report (opened) and the overlay ordinance (opened). marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+   "source_url": "https://www.cityofmillvalley.gov/DocumentCenter/View/7984",
+   "record_id": "0d0535d663",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "redirected",
+   "audit_note": "Link redirect is only a filename slug. Housing Element Chapter IV also states the 50% MVMC 5.32 reduction for lower and moderate income units, which the record omitted. PW citation pass Nov 9, 2026: true changed to unclear.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. A waived or reduced fee that would normally be required is public funds under Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(3) treats a subsidy as de minimis (so the project is not a public work on that basis) when it is under $600,000 and under 2 percent of total project cost, and 1720(c)(5) exemptions can apply. The certified Housing Element (https://www.cityofmillvalley.gov/DocumentCenter/View/7984) states no prevailing wage term for the fee waivers."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Mill Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "Mill Valley Density Bonus (MVMC Chapter 20.81) and Housing Overlay Zoning Districts (Small Lot, Office Conversion and Opportunity Site overlays, 2024 ordinance)",
+   "administering_agency": "City of Mill Valley Planning and Building Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement framework, not a cash subsidy. Chapter 20.81 applies Government Code 65915 by reference (bonus, incentives, waivers, parking ratios; senior projects get no concessions unless state law requires). The 2024 Housing Overlay Districts, applied on top of base zoning to Housing Element sites, allow 17 to 40 units per acre (20 to 40 in the Opportunity Site overlay), 40-foot height, one parking space for units of 1,000 square feet or less, waived lot merger fees, and let projects also use State Density Bonus to modify standards; projects reserving 20% of units for lower income households get streamlined review. Affordable units in overlay projects follow Chapter 20.80 deed restriction rules. Bayfront Terrace (45 units) was rezoned to RM-B and approved as a 100% affordable project using density bonus incentives but not the density increase.",
+   "per_unit_cap": null,
+   "affordability_requirement": "State thresholds for Chapter 20.81; overlay projects must meet Chapter 20.80 inclusionary (15% since 2026) or provide 20% lower income units for the streamlined path. Density bonus affordability covenants recorded before building permit (20.81.050).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "None. The 2026 inclusionary ordinance also updated the Opportunity Site overlay to the 15% standard and removed micro-unit restrictions; parking standards were updated November 3, 2025.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Mill Valley's overlays are the practical density path because base multifamily zoning is scarce; combine overlay density with the State bonus, the 15% inclusionary rule and the Trust Fund. No local bonus exceeds state law. Overlay ordinance (DocumentCenter 7829) and the Zoneomics mirror of Chapter 20.81 were opened; the City's eCode360 host was not attempted.",
+   "source_url": "https://www.cityofmillvalley.gov/DocumentCenter/View/7829",
+   "record_id": "1945fdaa55",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": "2025-11-03",
+   "deadline_check": "past_date",
+   "link_status": "redirected",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Density bonus under Gov. Code 65915 grants units, concessions and waivers of development standards, not public funds; Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720) covers only construction paid for in whole or in part out of public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011, Gov. Code 65912.130). The 2024 Housing Overlay ordinance (https://www.cityofmillvalley.gov/DocumentCenter/View/7829) waives lot merger fees for Opportunity Site projects; that waiver is public funds under Labor Code 1720(b)(4) but is de minimis under 1720(c)(3) (under $600,000 and under 2 percent of project cost) on any realistic project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Mill Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Marin",
+   "confidence": "verified",
+   "program_name": "City-owned land for affordable housing: Bayfront Terrace at 1 Hamilton Drive (EAH Housing, 45 units, Lease, Development and Loan Agreement) under Housing Element Program 10",
+   "administering_agency": "City of Mill Valley (City Manager and Planning and Building Department) with EAH Housing as developer",
+   "funding_type": "land",
+   "typical_award_size": "Land plus local loan. The City declared the northern 1.60 acres of 1 Hamilton Drive exempt surplus land (Sept 20, 2021), selected EAH Housing through an RFQ and ENA, approved the project, EIR and a Lease, Development and Loan Agreement with a 99-year ground lease on February 5, 2024, and reapproved it with a 0.15-acre smaller footprint on January 12 and 20, 2026 to use a 2025 CEQA statutory exemption. City money committed: $1,000,000 from the Affordable Housing Trust Fund ($500,000 City match plus $500,000 requested HCD LHTF grant) toward the extremely low income units, after Trust Fund payment of predevelopment and environmental costs. Marin County Trust Fund awards of $500,000 (2022) and a reported $1,000,000 total appear in County documents cited in search results (not opened).",
+   "per_unit_cap": null,
+   "affordability_requirement": "44 restricted units plus one manager unit: 9 at or below 50% AMI, 9 at or below 60% AMI, 26 at or below 80% AMI, with at least 40% of units at or below 60% AMI and half of those at or below 50% AMI (Surplus Land Act), all subject to a TCAC regulatory agreement.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "EAH is assembling tax credit and other financing; leasing interest sign-ups were anticipated for early 2026 and construction timing depends on credit awards. No other City-owned site is in process.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Mill Valley's first affordable development in about three decades and the model for how the City layers: surplus land under a 99-year lease, Trust Fund match, County Trust Fund, HOME through the Marin Urban County, and 4% or 9% credits with CMFA bonds. For a third-party developer the record shows that City resources are already concentrated here through at least 2027. Hamilton Drive project page, Jan 12, 2026 Council agenda and staff report (270 pages, Granicus) and Resolution 24-60 opened. marincounty.gov remained Cloudflare-blocked this pass; County programs are referenced from the Marin County records in this database.",
+   "source_url": "https://ca-millvalley.civicplus.com/931/Bayfront-Terrace-at-3-Hamilton-Drive",
+   "record_id": "4672918415",
+   "cycle_notes": "site committed to EAH Housing",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "audit_note": "Project page renamed Bayfront Terrace at 3 Hamilton Drive; facts (45 units, 44 lower income plus manager, Feb 5, 2024 approval, Jan 12 and 20, 2026 reapproval, EAH seeking funding) match. The County June 23, 2026 NOFA recommendations include $200,000 PLHA plus $200,000 County Trust Fund match for Bayfront Terrace, per the County staff report attachment.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Project rule: Planning Commission Resolution PC25-06 for the revised Bayfront Terrace project (https://www.cityofmillvalley.gov/DocumentCenter/View/11248, Section 15) finds the project exempt from CEQA under Public Resources Code 21080.40 and that it meets the labor standards in Government Code 65912.130, which require that all construction workers employed in the execution of the development be paid at least the general prevailing rate of per diem wages (https://california.public.law/codes/government_code_section_65912.130). The site is City-owned land on a 99-year ground lease with City Trust Fund loans, which is also public funds under Labor Code 1720(b)(1) and (b)(3) (https://california.public.law/codes/labor_code_section_1720)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Ukiah",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Mendocino",
+   "confidence": "verified",
+   "program_name": "Ukiah Housing Trust Fund (UHTF) NOFA, funded with PLHA, Prohousing Incentive Pilot (PIP) and housing successor funds",
+   "administering_agency": "City of Ukiah Community Development Department, Housing Services Division (Housing and Grants Manager, housing@cityofukiah.com, 707-463-6708)",
+   "funding_type": "loan",
+   "typical_award_size": "Most recent round: June 10, 2024 NOFA for about $1,000,000 to acquire infill parcels for affordable housing, combining a $455,000 Prohousing Incentive Pilot award (October 2023) with up to $617,000 of the City's 2019-2022 PLHA allocation. Loans at 0 to 3% simple interest, 55-year term, repaid from residual cash flow after operating costs, senior debt, reserves and deferred developer fee; due on sale or refinance. Commitments last 24 months from Council approval (one-year extension possible). Earlier UHTF capital came from former RDA housing bond proceeds; the 2019 Housing Element notes a $500,000 NOFA in 2018. Acorn Valley Plaza (DANCO, 74 units, opened March 2025) was built with UHTF funds.",
+   "per_unit_cap": "None published; sized as gap funding after all other sources.",
+   "affordability_requirement": "Units affordable at or below 60%, 80% or 120% AMI with a recorded 55-year rent or resale covenant; bonus points for units at 0 to 30% AMI. Funding-source rules (PLHA, PIP) add restrictions.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "adu",
+    "predevelopment"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "unknown, verify with agency. The 2024 round closed July 8, 2024 and no newer NOFA is posted on the Housing Services page as of 2026-11-08. Projects must deploy UHTF funds and start construction within two years of award.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Ukiah is the only priority city in Mendocino County with a standing local trust fund and was the first rural Northern California city with a Prohousing Designation (April 2023), which earns state Prohousing points on AHSC, IIG and similar applications. The 2024 round targeted parcels in TCAC High and Highest Resource areas and favored scattered-site or non-traditional infill. The Housing Element says the fund exists partly to supply local match points for tax credit applications. Stacks with County HOME program income (about $351,767, for example the Marigold Villas request in Ukiah) and the City's own state HOME awards; County PLHA is a separate formula pool. Local and state funds are public funds under Labor Code 1720(b), so state prevailing wage applies unless a 1720(c) exemption fits the deal, such as 1720(c)(5)(E) for below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI (see prevailing_wage_basis).",
+   "source_url": "https://cityofukiah.com/wp-content/uploads/2024/06/2024-HTF-NOFA.pdf",
+   "record_id": "b3a3e105db",
+   "cycle_notes": "irregular; issued when state funds are awarded",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "adu",
+    "land acquisition"
+   ],
+   "next_deadline_date": "2024-07-08",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The June 2024 UHTF NOFA (https://cityofukiah.com/wp-content/uploads/2024/06/2024-HTF-NOFA.pdf) states no prevailing wage term. HCD 2024-2028 PLHA Formula Guidelines (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-guidelines.pdf) contain no prevailing wage, Davis-Bacon or Labor Code 1720 provision; the HCD PLHA FAQ (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/cycle-2-nofa-faq.pdf) says only that HCD programs require compliance with applicable law including prevailing wages unless the project meets a Labor Code 1720(c) exception as determined by DIR. PLHA loans and grants are public funds under 1720(b)(1) and (b)(4) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(5)(E) (below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI), 1720(c)(5)(C) (mortgage, down payment or single-family rehab aid to a household) and 1720(c)(3) de minimis can apply. Davis-Bacon applies only if HOME (12+ HOME units, 24 CFR 92.354) or CDBG (8+ units, 24 CFR 570.603) is layered. The HCD Prohousing Incentive Program guidelines and Round 4 NOFA (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/pip-final-guidelines-2026.pdf, https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/pip-round-4-nofa.pdf) contain no prevailing wage provision. UHTF loans are 0 to 3 percent residual receipts loans, so 1720(c)(5)(E) can apply (https://dir.ca.gov/OPRL/coverage/year2020/2019-018.pdf); land acquisition alone is not construction under 1720(a)(1).",
+   "audit_note": "PW citation pass Nov 9, 2026: true changed to unclear.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Ukiah",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Mendocino",
+   "confidence": "verified",
+   "program_name": "Ukiah Housing Successor Low and Moderate Income Housing Asset Fund (LMIHAF)",
+   "administering_agency": "City of Ukiah as Housing Successor to the former Ukiah Redevelopment Agency (Housing Services Division)",
+   "funding_type": "loan",
+   "typical_award_size": "Former RDA housing bond proceeds deposited in the LMIHAF and used to seed the Ukiah Housing Trust Fund in 2017. The City Council authorized $500,000 for affordable housing activities in FY 2019-20 (2019 Housing Element). Current balance not published on the City site; check the annual Housing Successor report (Health and Safety Code 34176.1).",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "At least two-thirds of LMIHAF spending must serve households at or below 60% AMI (Mendocino County); eligible uses include rental rehab, acquisition-rehab and new construction.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency; funds are offered through Ukiah Housing Trust Fund rounds rather than a separate application.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Treat as part of the UHTF capital stack, not a separate window. Housing successor income targeting (two-thirds at 60% AMI or below) is stricter than the UHTF NOFA's 120% AMI ceiling, so the City will steer LMIHAF dollars to lower-income units. Balance and five-year expenditure deadlines should be confirmed from the City's latest Housing Successor annual report, which was not located on the City site this pass. Source is the adopted 2019-2027 Housing Element hosted by HCD.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/ukiah-6th-adopted102819.pdf",
+   "record_id": "89e2d25196",
+   "cycle_notes": "deployed through UHTF NOFAs",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Labor Code 1720(c)(4) (https://california.public.law/codes/labor_code_section_1720) provides that affordable units built or rehabilitated under Health and Safety Code 33334.2(a)(5) or (a)(7) and paid for solely from the Low and Moderate Income Housing Fund (or that fund plus private funds) are not paid for out of public funds; whether that reaches housing successor LMIHAF dollars depends on the deal. Mixed with other public sources, LMIHAF loans fall under 1720(b), subject to 1720(c)(5)(E). The 2019 Housing Element (https://www.hcd.ca.gov/housing-elements/docs/ukiah-6th-adopted102819.pdf) states no prevailing wage rule for the fund.",
+   "audit_note": "PW citation pass Nov 9, 2026: true changed to unclear.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Ukiah",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Mendocino",
+   "confidence": "verified",
+   "program_name": "City of Ukiah state HOME and CDBG awards (City as State Recipient), including the Summercreek Village HOME application",
+   "administering_agency": "City of Ukiah Community Development Department, Housing Services Division",
+   "funding_type": "grant",
+   "typical_award_size": "City applies to HCD as a non-entitlement State Recipient and relends to projects. Track record: $5 million State HOME grant (2018) for Ukiah Senior Apartments; a $5 million HOME application for a 32-unit project (FY 2019-20 budget narrative); 2026 application of up to $5 million in HOME for rehabilitation of DANCO's 64-unit Summercreek Village Apartments (East Gobbi Street: roofs, pool, energy efficiency, parking). CDBG currently funds a Housing Conditions Survey (3,000-plus units) and First Time Homebuyer loans; the owner-occupied Housing Rehabilitation Program has no funding for 2026.",
+   "per_unit_cap": "HCD HOME per-unit subsidy limits apply; State Recipient multifamily request cap was $4.5 million plus soft and admin costs in the FY24 NOFA.",
+   "affordability_requirement": "HOME rental units at or below 60% and 80% AMI with 55-year state affordability (20-year federal minimum); CDBG benefits households at or below 80% AMI.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "unknown, verify with agency; Summercreek HOME award decision pending as of the January to March 2026 newsletter. Developers must ask the City to sponsor before the HCD HOME deadline.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Davis-Bacon applies at 12 or more HOME-assisted units or 8 or more CDBG-assisted units; state prevailing wage turns on the local or state funds in the deal and the Labor Code 1720(c) exemptions (see prevailing_wage_basis). City-sponsored HOME is distinct from Mendocino County's HOME program income pool, and both can sit in one project. HOME repayments recycle into City program income. City CDBG is not currently used for multifamily construction.",
+   "source_url": "https://cityofukiah.com/wp-content/uploads/2026/04/CDD-Jan-Mar-2026-Quarterly-Newsletter.pdf",
+   "record_id": "737f900e36",
+   "cycle_notes": "HCD HOME and CDBG rounds; City sponsors one application per round",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fort Bragg",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Mendocino",
+   "confidence": "verified",
+   "program_name": "City of Fort Bragg state HOME, PLHA and CDBG applications (City as State Recipient), including Hazelwood Senior Apartments HOME request",
+   "administering_agency": "City of Fort Bragg Economic Development Department (Grants Coordinator)",
+   "funding_type": "loan",
+   "typical_award_size": "May 12, 2025 Council authorized a $4,600,000 FY24 State HOME application ($4,500,000 loan to AMG Associates for Hazelwood Senior Apartments, 49 units at 30 to 60% AMI, $25 million total cost; $50,000 soft costs; $50,000 admin). Repaid HOME loan proceeds stay in the City Housing Trust Fund. PLHA: formula allocation committed to Housing Mendocino Coast (community land trust); 2021 competitive PLHA award with DANCO for the Plateau project; 2024 competitive PLHA considered for homeless services because no development project was ready. The 2025 CDBG application targets sidewalks, not housing; $570,000 of CDBG program income is encumbered for business loans.",
+   "per_unit_cap": "HCD HOME per-unit limits; FY24 State Recipient cap $4.5 million per multifamily project plus soft and admin costs.",
+   "affordability_requirement": "HOME: 55-year state affordability for new construction (20-year federal); PLHA competitive rental: at or below 60% AMI for 55 years.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. The City's FY24 State HOME application for Fort Bragg Senior Apartments (Hazelwood, $4,550,000 requested) is not on HCD's final FY24 awardee list dated June 10, 2026, and the City did not apply in the HOME 2025 Projects NOFA (due March 30, 2026). HCD has not posted the next HOME Projects NOFA date. 2025 State CDBG applications were due April 3, 2026 and the City's application targets sidewalks, not housing.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "City sponsorship is the practical path to state HOME for small coastal projects since Fort Bragg is not a HUD participating jurisdiction. HOME triggers Davis-Bacon at 12 or more HOME units. AMG planned 9% tax credits after HOME. County PLHA and HOME program income are separate County pools; Fort Bragg holds its own PLHA formula share. Staff reports were read from the Legistar attachment host because city.fortbragg.com was down.",
+   "source_url": "https://legistar1.granicus.com/cityfortbragg/attachments/517d6183-3153-4094-8f5c-8369187ffed6.docx",
+   "record_id": "8d4640e329",
+   "cycle_notes": "HCD State HOME Projects NOFA, roughly annual (2025 NOFA released January 29, 2026, due March 30, 2026, awards expected July 2026). City sponsors one developer project per round as State Recipient. PLHA formula share is committed to Housing Mendocino Coast.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Hazelwood (Fort Bragg Senior Apartments) HOME request was not funded in the FY24 round; developer would need to reapply in a future HOME round.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fort Bragg",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Mendocino",
+   "confidence": "verified",
+   "program_name": "Housing Mendocino Coast community land trust partnership (ARPA housing funds and PLHA), 251 S. Franklin Street",
+   "administering_agency": "City of Fort Bragg City Manager's Office with Housing Mendocino Coast (501(c)(3) community land trust)",
+   "funding_type": "grant",
+   "typical_award_size": "Council obligated $800,000 in ARPA funds to housing (Resolution 4859-2024); about $50,000 went to the Prohousing Designation application. June 22, 2026 staff recommended $350,000 of remaining ARPA housing funds for HMC's acquisition of 251 S. Franklin Street (about 1 acre, 12 to 13 workforce units) and working capital, under an MOU to be drafted in summer 2026. HMC reports about $1.39 million in existing funding. The City previously used SB 2, LEAP, REAP and PLHA funds to form HMC.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "Households up to 120% AMI; CLT ground lease (typically 99 years) with resale restrictions; possible priority for City employees and local workforce.",
+   "eligible_project_types": [
+    "new construction",
+    "homeownership",
+    "predevelopment"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "MOU and funding documents were to be prepared in summer 2026; ARPA funds must be expended by December 31, 2026 under federal rules, so verify status with the City Manager.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Not a general NOFA; the City routes funds to its incubated CLT. Useful as a land and ownership partner for small workforce projects rather than a gap lender for tax credit rentals. The staff report states $300,000 in the recommendation and $350,000 in the discussion; confirm the final amount. Fort Bragg also references a Prohousing Designation application funded with ARPA; designation status was not confirmed this pass.",
+   "source_url": "https://legistar1.granicus.com/cityfortbragg/attachments/f234af69-08d5-4b5d-bbaa-9dd829b93041.docx",
+   "record_id": "6838c762fe",
+   "cycle_notes": "one-time ARPA allocation",
+   "eligible_project_detail": [
+    "new construction",
+    "land acquisition",
+    "homeownership"
+   ],
+   "next_deadline_date": "2026-12-31",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The June 22, 2026 staff report (https://legistar1.granicus.com/cityfortbragg/attachments/f234af69-08d5-4b5d-bbaa-9dd829b93041.docx) states no prevailing wage term for the ARPA and PLHA support to Housing Mendocino Coast. Land acquisition and working capital are not construction under Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720); later construction on land bought with City funds is a 1720(b) question, and down payment or mortgage aid to ownership households is exempt under 1720(c)(5)(C). HCD 2024-2028 PLHA Formula Guidelines (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-guidelines.pdf) contain no prevailing wage, Davis-Bacon or Labor Code 1720 provision; the HCD PLHA FAQ (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/cycle-2-nofa-faq.pdf) says only that HCD programs require compliance with applicable law including prevailing wages unless the project meets a Labor Code 1720(c) exception as determined by DIR. PLHA loans and grants are public funds under 1720(b)(1) and (b)(4) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(5)(E) (below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI), 1720(c)(5)(C) (mortgage, down payment or single-family rehab aid to a household) and 1720(c)(3) de minimis can apply. Davis-Bacon applies only if HOME (12+ HOME units, 24 CFR 92.354) or CDBG (8+ units, 24 CFR 570.603) is layered.",
+   "audit_note": "PW citation pass Nov 9, 2026: true changed to unclear.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Willits",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Mendocino",
+   "confidence": "verified",
+   "program_name": "Willits Density Bonus ordinance (Municipal Code Chapter 17.67) and Housing Element affordable housing incentives (Program HE-2C and related)",
+   "administering_agency": "City of Willits Community Development Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Incentive, not a subsidy. Chapter 17.67 (updated September 2018) implements Government Code 65915 for projects of five or more units, with concessions that can include City fee waivers or publicly owned land. The 2019-2027 Housing Element commits to project-by-project fast-track processing, density bonuses, flexible standards, reduced parking, fee subsidies when feasible and fee deferrals for mixed-use projects with affordable multifamily units, plus water allocation priority for lower-income projects (HE-1.G).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Per Government Code 65915.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable. Willits must adopt its 7th cycle Housing Element by 2027.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Willits has no local housing trust fund, no inclusionary ordinance (Program HE-3.D only committed to study feasibility by spring 2020) and no city-run NOFA for multifamily. Fee subsidies and deferrals are discretionary and General Fund dependent; if granted they likely count as public funds for prevailing wage. Multifamily gap money must come from County HOME program income, state programs and tax credits. Code text read from the zoneomics mirror; Housing Element read from the HCD-hosted copy (willits-6th-adopted121719.pdf).",
+   "source_url": "https://www.zoneomics.com/code/willits-CA/chapter_39",
+   "record_id": "4c0282192f",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-use"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. Chapter 17.67 concessions can include City fee waivers or publicly owned land (below-market land is public funds under 1720(b)(3)); the density bonus itself provides no public funds (1720(a)(1)). Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Willits",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Mendocino",
+   "confidence": "verified",
+   "program_name": "Willits Owner-Occupied Housing Rehabilitation Program (PLHA and CDBG funded)",
+   "administering_agency": "City of Willits Community Development Department",
+   "funding_type": "loan",
+   "typical_award_size": "0% interest deferred loans of $25,000 to $50,000 per home (current application packet), with the program page citing up to $100,000, funded by the City's PLHA allocation; Council authorized a CDBG application in November 2022 for about $554,000 to seed a revolving housing rehabilitation loan program. The City also holds CDBG business loan program income.",
+   "per_unit_cap": "$50,000 to $100,000 per home depending on source.",
+   "affordability_requirement": "Owner-occupants at or below 120% AMI (household of four $108,500).",
+   "eligible_project_types": [
+    "acquisition-rehab"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Open intake by appointment with Community Development (707-459-7112); subject to funding availability.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Shows that Willits commits its PLHA formula share to single-family rehab rather than multifamily gap financing, so no city PLHA is available for affordable rental projects. Recorded as negative information for multifamily layering. Developers should look to Mendocino County HOME program income and the Community Development Commission of Mendocino County for project-based vouchers.",
+   "source_url": "https://www.cityofwillits.org/319/Owner-Occupied-Housing-Rehabilitation-Pr",
+   "record_id": "c9cb7995b6",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "owner-occupied rehabilitation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Not triggered for this program. California Labor Code 1720(c)(5)(C) states that, unless otherwise required by a public funding program, rehabilitation of privately owned residential projects is not public works where assistance is provided to a household for the rehabilitation of a single-family home (https://california.public.law/codes/labor_code_section_1720). The 2024-2028 PLHA Formula Guidelines contain no prevailing wage requirement (searched, no match). For the CDBG-funded portion, 42 U.S.C. 5310(a) applies Davis-Bacon to rehabilitation of residential property only if it contains 8 or more units, so single-family owner-occupied rehab is exempt (https://www.law.cornell.edu/uscode/text/42/5310).",
+   "audit_note": "Tier 3: prevailing wage set false based on Labor Code 1720(c)(5)(C) single-family rehab exemption, absence of a PLHA guidelines requirement, and the 8-unit CDBG Davis-Bacon threshold in 42 U.S.C. 5310. Program page re-read 2026-11-08; up to $100,000 deferred loan and 120% AMI limits still shown.",
+   "last_audited": "2026-11-08"
+  }
+ }
+]

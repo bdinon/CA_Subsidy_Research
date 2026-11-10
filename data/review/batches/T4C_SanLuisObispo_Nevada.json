@@ -1,0 +1,773 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Luis Obispo",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "Inclusionary Housing Requirements (Municipal Code Chapter 17.138, Ord. 1719, 2022) and Commercial Linkage Fee (Chapter 4.60)",
+   "administering_agency": "City of San Luis Obispo Community Development Department, Housing Programs",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Rental projects: 6% of units affordable (3% very low, 3% low). For-sale projects: 10% of units (5% low, 5% moderate). In-lieu fee calculated on new habitable square footage at a rate set by Council resolution in the comprehensive fee schedule; the City's inclusionary page (not opened this pass, slocity.org blocks automated access) reports about $26.73 per sq ft for-sale and $21.42 per sq ft rental, with commercial linkage fees of about $6.42 per sq ft (office, service, hotel, retail) and $5.35 per sq ft (industrial, institutional). All in-lieu and linkage fees go to the City Affordable Housing Fund. By 2020 the program had produced more than 850 affordable units and $10.45 million in in-lieu funds committed to 464 units.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Inclusionary units deed restricted 55 years rental, 45 years ownership, at City Affordable Housing Standards. Fractional units may be met by paying a fractional in-lieu fee. Exempt: ADUs and JADUs, 100% affordable projects, projects using a density bonus, downtown flexible density units (Chapter 17.141), additions and remodels that add no units.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; requirement applies at entitlement and in-lieu fee is paid before building permit issuance (phased projects pay proportionally).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Core local requirement for any market-rate multifamily deal in the City of SLO. 100% affordable projects and density bonus projects are exempt, so an LIHTC deal normally pays nothing and instead competes for the in-lieu revenue through the Affordable Housing Fund (separate record). Ordinance replaced the 1999 program in 2022 after a nexus study; the City notes Chapter 17.138 and Chapter 4.60 (nonresidential linkage fee) apply to mixed-use projects on both the residential and commercial components. County inclusionary ordinance (Title 22 Section 22.12.080) was repealed in 2022 and the County's Title 29 fund is now residual, so the City fund is the only growing in-lieu pool in the county. slocity.org returns 403 to automated access; the ordinance text was read on the zoneomics code mirror and the program history in the HCD-hosted 2020-2028 Housing Element. Confirm current fee rates on the City's inclusionary page before underwriting.",
+   "source_url": "https://www.zoneomics.com/code/san-luis-obispo-CA/chapter_8",
+   "record_id": "6c0eef4130",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-use"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Luis Obispo",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "City Affordable Housing Fund (AHF) grants and loans (in-lieu fee fund; award criteria Resolution 9263, 2001 Series; Housing Element Program 2.5)",
+   "administering_agency": "City of San Luis Obispo Community Development Department, Housing Programs (Council awards)",
+   "funding_type": "loan",
+   "typical_award_size": "Gap grants and below-market loans at Council discretion under adopted criteria (Resolution 9263, 2001 Series). Housing Element history: $10,450,954 of in-lieu funds granted, loaned or committed to 464 deed-restricted units since the 1999 inclusionary ordinance; Bishop Street Studios (34 units) received $1,595,500 combined AHF loan, impact fee deferral loan and CDBG loan; $330,000 grant to TMHA for a 6-unit acquisition-rehab. Not confirmed on an agency source in the audit: a $2 million January 2020 approval for a 108-unit project; a 2023 Council resolution approving $3.2 million to HASLO for 736 Orcutt Road ($2.0 million) and 279 Bridge Street ($1.2 million); and $750,000 of 2024 Prohousing Incentive funds routed through the AHF. Housing Element target: support at least 4 new affordable developments during the planning period.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Extremely low, very low, low and moderate income; deed restrictions of 55 years rental and 45 years ownership under City Affordable Housing Standards. Housing Element Program 2.5 directs the fund to projects that would not be feasible without AHF support and to production efficiency.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency. No formal NOFA; developers request awards through the Housing Programs Coordinator (housing@slocity.org) and awards go to Council by resolution, usually timed to TCAC or CDLAC rounds.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Largest city-controlled housing fund in the county. Revenue is the Chapter 17.138 in-lieu fee and Chapter 4.60 commercial linkage fee plus shared-equity recapture; the City also receives its own CDBG share through the Urban County (county record: Urban County Action Plan NOFA, due October 30, 2026 for the 2027 program year) and has layered CDBG loans with AHF awards. Typical stack for a City of SLO LIHTC deal: AHF grant or loan, City impact fee deferral loan (separate record), County Title 29 or Regional Housing Fund, HASLO project-based vouchers, SLO County Housing Trust Fund predevelopment loan, then state sources. HCD-hosted Housing Element was the only agency document that could be opened; slocity.org (403) and the City eScribe agenda host pub-slocity.escribemeetings.com (filestream 403, JS-only listings) could not be read, so current fund balance and 2025-2026 awards are unconfirmed.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-6th-adopted072321.pdf",
+   "record_id": "94afa63537",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "mixed-use"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports a value.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The City Housing Element (Program 2.5 and AHF description) states no wage term for Affordable Housing Fund awards. Local loans are public funds under 1720(b), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. AHF grants are public funds under 1720(b)(1). https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Luis Obispo",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "Development services fee waiver and citywide development impact fee deferral loans for affordable units (Housing Element incentives table; Chapter 4.56 impact fee deferral)",
+   "administering_agency": "City of San Luis Obispo Community Development Department and Finance Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Residential projects meeting City affordable housing standards for extremely low, very low and low income households are exempt from all planning, engineering and building review, processing and permit fees and water and sewer meter hook-up fees; mixed-income projects receive the waiver per affordable unit. Citywide development impact fees are deferred (as a deferral loan) for affordable units that exceed the inclusionary minimum or are built, owned and managed by HASLO, other public agencies or nonprofit housing agencies. Example: Bishop Street Studios received an impact fee deferral loan as part of $1,595,500 in City assistance; 2023 HASLO awards for 736 Orcutt and 279 Bridge Street each included a fee deferral loan. HCD's Prohousing release describes the impact fee relief as a waiver for qualifying affordable housing.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Deed-restricted affordable units at City Affordable Housing Standards (extremely low, very low, low for the fee exemption; any inclusionary-exceeding or nonprofit or public agency affordable unit for impact fee deferral).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; requested with the building permit or through the AHF award resolution.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Local cost-reduction layer that stacks with AHF awards; the City routinely packages an AHF loan plus an impact fee deferral loan in one resolution. Fee exemptions and deferrals are public subsidies and may trigger Labor Code 1720 prevailing wage unless the project already pays it under LIHTC or state funding. The Chapter 4.56 ordinance text and current deferral terms (interest, repayment at permanent loan closing versus residual receipts) could not be opened because slocity.org, codepublishing and the City eScribe agenda host all block automated access; the HCD-hosted 2020 Housing Element incentives table is the source. No comparable county program exists for unincorporated land beyond the Title 22 incentive program.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-6th-adopted072321.pdf",
+   "record_id": "975ec5606f",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "mixed-use"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The City Housing Element incentives table states no wage term for fee waivers or impact fee deferral loans. Waived, reduced or deferred fees are public funds under 1720(b)(4) (fees or loans charged at less than fair market value), but 1720(c)(3) de minimis and other 1720(c) exemptions decide coverage. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports a value."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Luis Obispo",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "Prohousing Designation (HCD, announced January 2024) and Prohousing Incentive Program award",
+   "administering_agency": "California HCD designation; City of San Luis Obispo Community Development Department administers the incentive funds",
+   "funding_type": "policy/designation",
+   "typical_award_size": "Designation gives City-sponsored or City-located projects extra points in HCD competitive programs (AHSC, IIG, MHP and others). The City received $750,000 from the Prohousing Incentive Program in 2024, deposited to the City Affordable Housing Fund for affordable projects, with final awards to individual projects subject to Council approval. HCD lists the City (and the County, designated October 2025) among designated jurisdictions as of August 10, 2026.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Not a direct subsidy; the PIP dollars follow AHF affordability rules (55-year rental, 45-year ownership covenants).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; benefit is realized in state NOFA scoring. PIP rounds are announced by HCD (round 2 closed March 15, 2024).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Both the City and the County of San Luis Obispo are Prohousing (county record: Prohousing Designation, October 2025), so any site in the City qualifies for Prohousing bonus points in HCD programs regardless of which agency sponsors. HCD credited the City's hillside program, objective design standards and the waiver of citywide impact fees for affordable housing exceeding inclusionary requirements or built by HASLO, nonprofits or public agencies. The HCD newsroom release and designated-jurisdictions page were opened; the City's own news page about the $750,000 award could not be opened (slocity.org 403).",
+   "source_url": "https://www.hcd.ca.gov/about-hcd/newsroom/seven-california-communities-earn-prohousing-designation",
+   "record_id": "8aa4fa993f",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": "2024-03-15",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720) requires construction paid for out of public funds. Prohousing Designation is a scoring preference that pays no funds to a project, so it does not itself trigger prevailing wage; wage obligations come only from the funding programs used. The $750,000 Prohousing Incentive Program award went to the City Affordable Housing Fund, where any loan to a project is tested separately.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Paso Robles",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "Density Bonus (Municipal Code Chapter 21.61; Ord. 1144 N.S., adopted October 1, 2024) and Urban Dwelling Units (Chapter 21.65)",
+   "administering_agency": "City of El Paso de Robles Community Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement-based entitlement, not a subsidy. Chapter 21.61 adopts state density bonus law by reference (Government Code 65915 to 65918) with no local enhancement: bonus amounts, incentives and concessions, parking reductions and waivers are as specified in state law and state law prevails over any conflict. Chapter 21.65 implements SB 9 urban dwelling units for individual owners. Both were part of the 2024 comprehensive Zoning Code Update.",
+   "per_unit_cap": null,
+   "affordability_requirement": "State thresholds (5% very low, 10% low, 10% moderate for-sale common interest, senior, transitional foster youth, disabled veterans, homeless). Replacement housing requirement of Government Code 65915(c)(3) applies.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; requested with the planning application.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Paso Robles has no inclusionary ordinance, no local housing trust fund and no in-lieu fee fund (see separate closed/inactive record), so state density bonus plus fee deferral loans are the only local tools. The 2020-2028 Housing Element Program 10 set a quantified objective of 25 density bonus units. Recent projects: a 79-unit senior low-income development approved February 16, 2021 with fee deferrals, and Highland's Senior Affordable Apartments (30 units, 298 Niblick Road, CEQA notice January 2026) using a density bonus. The County's Regional Housing Incentive Program (Title 22) does not apply inside the City. Read on the zoneomics mirror; prcity.com itself is accessible but municode is blocked.",
+   "source_url": "https://www.zoneomics.com/code/paso-robles-CA/chapter_5",
+   "record_id": "3a95417331",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-use"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Paso Robles",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "Affordable housing fee deferral loans (deferral of development impact, water and sewer connection and building permit fees; Housing Element Programs 8 and 9)",
+   "administering_agency": "City of El Paso de Robles Community Development Department and City Council (case-by-case resolution)",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Case-by-case Council approval of long-term deferral of City water connection, sewer connection, development impact and building permit fees, structured as General Fund loans repaid several years beyond occupancy. Oak Park Public Housing (Paso Robles Housing Authority) phases one through four received fee deferral loans of $1.018 million (Resolution 12-031), $889,000 (14-019), $999,423 (17-019) and $1,438,160.71 (Resolution 18-020, 2018). Resolution 18-020 terms: promissory note repaid over up to 30 years from building permit at 3.75% simple interest from residual receipts, secured by a deed of trust. News reports (not agency sources) describe a March 2026 Council resolution deferring water, sewer, development impact and building permit fees for affordable housing, a 30-year deferral of about $1.2 million for Highland's Senior Affordable Apartments (298 Niblick Road), a 30-year deferral of about $1.8 million for Sunrise Villas Apartments, a roughly 50% impact fee waiver for a nine-unit Habitat for Humanity project on Vine Street, and February 2021 deferrals for a 79-unit senior project at Woodland Plaza II.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Units affordable to lower-income households (Health and Safety Code 50079.5), including extremely low income; City practice requires a recorded affordability covenant for the longest feasible time and not less than 30 years (Resolution 18-020).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Rolling; no open round or deadline as of November 8, 2026. Requests go to Council with the entitlement or before building permit; contact Community Development at (805) 237-3970 or planning@prcity.com.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "This is the only City-controlled financial tool in Paso Robles; it substitutes for a housing trust fund. City fee deferrals have been the local match for Paso Robles Housing Authority tax credit deals (Oak Park) and are expected to pair with County Title 29 or Regional Housing Fund awards, HASLO or Paso Robles Housing Authority vouchers, SLO County Housing Trust Fund loans and the Urban County HOME NOFA (county record). The City receives about $165,000 per year of CDBG through the Urban County, which cannot fund new construction or impact fees. The 2026 resolution and project-specific deferrals were found only in local news; the City's eScribe agenda host (pub-pasorobles.escribemeetings.com) renders listings in JavaScript and returns 403 on document downloads, so the HCD-hosted 2020-2028 Housing Element is the agency source. Paso Robles is now preparing its 7th cycle Housing Element (consultant RFP due September 8, 2026).",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-adopted120920.pdf",
+   "record_id": "bad1e3bae2",
+   "cycle_notes": "No NOFA. Housing Element Program 7 (Affordable Housing Support) commits the City to offer impact fee deferrals for lower-income units and allow deferral of fees several years beyond occupancy; each deferral is approved by Council resolution.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports a value.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Paso Robles Housing Element (Programs 8 and 9) states no wage term for fee deferral loans. Waived, reduced or deferred fees are public funds under 1720(b)(4) (fees or loans charged at less than fair market value), but 1720(c)(3) de minimis and other 1720(c) exemptions decide coverage. https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Paso Robles",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "Inclusionary housing ordinance and local affordable housing fund (none adopted; Housing Element finding)",
+   "administering_agency": "City of El Paso de Robles Community Development Department, Housing Programs Division",
+   "funding_type": "other",
+   "typical_award_size": "None. The 2020-2028 Housing Element states the City of Paso Robles does not have an inclusionary ordinance, and the City holds no inclusionary in-lieu fund, local housing trust fund or RDA successor housing fund for development. The Housing Programs Division's development support is limited to CDBG (about $165,000 per year through the Urban County), applying for County-administered HOME funds, fee deferrals and liaison with the Paso Robles Housing Authority. A November 2025 townhouse proposal offered a voluntary in-lieu payment tied to the County's Title 22 point system for use in a future tax-credit project, which indicates ad hoc negotiated contributions rather than a program.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Not applicable.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "Not applicable; no program exists as of November 8, 2026. Watch the 7th cycle Housing Element update for any inclusionary or local housing fund program.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Negative finding recorded so the gap is visible: Paso Robles is the largest North County city and offers no local gap funding beyond fee deferrals. Developers must rely on County Title 29 and the new Regional Housing Fund (county records), HASLO and Paso Robles Housing Authority vouchers, SLO County Housing Trust Fund and state programs. The 2020 Housing Element workshops listed a possible local housing fund (General Fund, TOT, in-lieu fees) as an option but none was adopted. prcity.com pages and the HCD-hosted Housing Element were opened; the 2025 Annual Progress Report could not be located on prcity.com.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-adopted120920.pdf",
+   "record_id": "9ee24b94ff",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Kept funding_type other: this is a negative finding with no deployable fund; the Housing Element states the City has no inclusionary ordinance and lists only General Fund fee deferral loans, Urban County CDBG and HOME, and the private SLO County Housing Trust Fund as resources.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds; Paso Robles has adopted no inclusionary ordinance or local housing fund (Housing Element finding), so there is no program that could pay public funds or trigger prevailing wage. https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Paso Robles",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "Community Development Block Grant (CDBG) city allocation through the San Luis Obispo Urban County",
+   "administering_agency": "City of El Paso de Robles Community Development Department, Housing Programs Division (County of San Luis Obispo is lead agency)",
+   "funding_type": "grant",
+   "typical_award_size": "City page states about $165,000 per year, but the County's 2027 Action Plan NOFA estimates Paso Robles' 2027 CDBG share at $295,492 ($192,070 available for project applications after admin and the 15% public services cap). At least 70% must benefit low income persons (80% AMI or below), no more than 15% for public services, up to 30% for blight elimination; projects must complete within about 1.5 years. CDBG cannot pay new housing construction costs or development impact fees; eligible uses include land acquisition for low income housing, street improvements serving low income housing, rehabilitation and public facilities.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Beneficiaries at or below 80% of county median income; HOME and CalHome recipients must be low income.",
+   "eligible_project_types": [
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. The County runs one combined Action Plan NOFA each fall; the next round (2028 Action Plan) is expected to open in late September 2027.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "The City recommends use of its own CDBG share but the County Board adopts the Action Plan (county record: Urban County Action Plan NOFA). HOME and ESG are not allocated to the City; the City may apply to the County for HOME annually, and County HOME has funded Peoples' Self-Help Housing projects in Paso Robles (Canyon Creek, Creekside Gardens). Useful only for acquisition, site work or rehab components and must be paired with other local or state sources for construction. Davis-Bacon applies.",
+   "source_url": "https://www.prcity.com/238/Community-Development-Block-Grant-Progra",
+   "record_id": "a6f0dbc3aa",
+   "cycle_notes": "City CDBG requests run on the Urban County Action Plan calendar: RFP late August or September, applications mid to late October, City Council recommendations November to February, County Board hearing in spring. The 2027 Action Plan NOFA applications were due October 30, 2026 at 5:00 p.m. via Neighborly. Contact City Housing Programs at (805) 237-3970.",
+   "eligible_project_detail": [
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal Davis-Bacon Act applies to CDBG-assisted construction (24 CFR 570.603; residential projects with 8 or more units). The County 2027 Action Plan NOFA Section B and the City CDBG page both state the federal prevailing wage requirement.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Atascadero",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "Interim Inclusionary Housing Policy (Council policy adopted June 24, 2003, amended November 25, 2003) and inclusionary in-lieu housing fund",
+   "administering_agency": "City of Atascadero Community Development Department (fund and resale administration by Administrative Services, affordablehousing@atascadero.org)",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Applies only to residential projects needing legislative approval (planned developments, subdivisions, rezones). 20% of units affordable; in multifamily and mixed-use areas split 20% very low, 37% low, 43% moderate (single-family areas 100% moderate). Projects of 1 to 10 units may pay the in-lieu fee or build; 11 or more units must build unless Council approves fees. In-lieu fee equals 5% of the construction valuation of the market-rate units; fractional units up to 0.499 pay fees. Collected fees sit in the City's inclusionary (in-lieu) housing fund, which has helped Peoples' Self-Help Housing (Atalaya Street 24 homes, Triangle parcel 11 units) and Corporation for Better Housing (60 very low and low income units). Housing Element Program 2.C commits the City to adopt a policy for using the in-lieu funds.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Deed restriction of 30 years under the policy (County Affordable Housing Standards used for income limits, rents and prices); inclusionary units are treated as density bonus units not counted against maximum density. Projects using the state density bonus and second units are exempt.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable. The 2022 EPS nexus study recommended replacing the policy with a citywide affordable housing impact fee (nexus-justified maximum $38.71 to $75 per sq ft, adopted fee to be set well below) and lowering inclusionary to 10% to 15% for large discretionary projects; no ordinance had been adopted as of the pages read.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Still an interim policy more than 20 years on; it only reaches discretionary legislative projects, so most by-right multifamily pays nothing. A 100% affordable LIHTC project is effectively exempt and can request the in-lieu fund as gap money; the fund balance is not published and should be requested from Administrative Services at (805) 470-3428. Pair with the City's impact fee deferral program and state density bonus (separate records), County Title 29 and Regional Housing Fund awards, HASLO vouchers and the Urban County HOME NOFA (Atascadero is a participating city). atascadero.org opens to scripts; the policy PDF, Housing Element and EPS nexus study were read directly.",
+   "source_url": "https://www.atascadero.org/sites/default/files/Interim%20Inclusionary%20Housing%20Policy.pdf",
+   "record_id": "d13dc048aa",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-use"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Atascadero",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "Affordable Housing Impact Fee Deferral Program (Municipal Code Section 3-14.070 as amended by Ord. 666, September 26, 2023, and Council deferral resolution)",
+   "administering_agency": "City of Atascadero Community Development Department and Administrative Services",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Development impact fees and wastewater capacity charges, normally due at final inspection, may be deferred under a Council-approved agreement for residential units affordable to low, very low or extremely low income households. Staff reports and local coverage describe the program as a 17-year interest-bearing deferral loan for projects with five or more affordable rental units, with up to about $3 million in fees eligible; the City cites multifamily impact fees of roughly $12,000 to $15,000 per unit. Intended to improve TCAC competitiveness by lowering upfront cost.",
+   "per_unit_cap": "About $12,000 to $15,000 per high-density multifamily unit in impact fees is deferrable, not waived.",
+   "affordability_requirement": "Units affordable to low, very low and extremely low income households under a recorded agreement; deferral terms set in the agreement approved by Council.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; request with the entitlement or before building permit issuance. Contact Community Development at (805) 461-5000.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Deferral, not forgiveness: fees are a City loan repaid over the term, so underwrite as soft debt. Implements Housing Element Program 2.E. EPS advised the City against outright impact fee waivers for fiscal reasons, so a waiver is unlikely. Stacks with state density bonus (Article 30), the inclusionary in-lieu fund, County Title 29 or Regional Housing Fund, HASLO vouchers and Urban County HOME. The ordinance text was read on the ecode360 code mirror (atascadero.org links to the September 26, 2023 resolution on records.atascadero.org, which returned a scanned PDF with no extractable text).",
+   "source_url": "https://ecode360.com/43091640",
+   "record_id": "750900cfb0",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Municipal Code 3-14.070 could not be read (ecode360 returned 403) and no City wage term was found. Waived, reduced or deferred fees are public funds under 1720(b)(4) (fees or loans charged at less than fair market value), but 1720(c)(3) de minimis and other 1720(c) exemptions decide coverage. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports a value.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Atascadero",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "Density Bonus (Municipal Code Title 9 Chapter 3 Article 30, Sections 9-3.801 to 9-3.806; Ord. 570, 2013, updated by Ord. 671, June 25, 2024)",
+   "administering_agency": "City of Atascadero Community Development Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement-based entitlement, not a subsidy. Adopts state density bonus law (Government Code 65915 to 65918) by reference: bonus amount, incentives and concessions, parking reductions and development standard waivers as specified in state law; state law prevails over conflicts. No local enhancement beyond state minimums. Market-rate senior projects get the bonus but no other concessions. Projects that use the density bonus are exempt from the City's Interim Inclusionary Housing Policy.",
+   "per_unit_cap": null,
+   "affordability_requirement": "State thresholds (5% very low, 10% low, 10% moderate for-sale, 100% senior); replacement housing requirement of Government Code 65915(c)(3) applies.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; requested with the planning application.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "The 2024 update (Ord. 671) fulfilled Housing Element Program 2.A. Atascadero also adopted objective design standards and SB 330 and SB 9 code changes in 2024 as Housing Element deliverables. The density bonus exempts a project from inclusionary units, so for mixed-income deals the bonus is usually the better path; 100% affordable deals use it for up to 80% bonus and unlimited density near transit under state law. The County's Regional Housing Incentive Program does not apply inside city limits. Read on the zoneomics mirror; the City's March 2023 draft ordinance PDF on atascadero.org was also opened.",
+   "source_url": "https://www.zoneomics.com/code/atascadero-CA/chapter_3",
+   "record_id": "a86bf1292d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-use"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Arroyo Grande",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Luis Obispo",
+   "confidence": "verified",
+   "program_name": "Inclusionary Affordable Housing Trust Fund (In-Lieu Affordable Housing Fund) grants to affordable developments (Housing Element Program C.1-1)",
+   "administering_agency": "City of Arroyo Grande Community Development Department and City Manager; awards by City Council",
+   "funding_type": "grant",
+   "typical_award_size": "Small fund, awarded by Council to specific projects. Balance of $928,000 as of 2020 per the Housing Element. News reports (not agency sources) state the Council granted $448,370 in July 2023 and a further $630,000 on October 22, 2024 from the Affordable Housing Trust Fund to HASLO's Arroyo Terrace, a 63-unit (reported as 63 to 65 units) 100% affordable project at 700 North Oak Park Boulevard that also received a 2024 TCAC 9% reservation of about $2.2 million in annual federal credits and County Title 29 funds. Housing Element quantified objective: assist three extremely low, three very low and twenty low income units during 2020-2028.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Extremely low, very low and low income units with long-term covenants (55 years rental under Chapter 16.80); criteria for allocating the fund were to be adopted under Housing Element Policy C.1.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency. No NOFA; requests are made to Community Development and the City Manager during the budget cycle or when a project needs gap funding. Contact (805) 473-5420.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "The fund is likely close to depleted after the two HASLO grants (about $1.08 million against a $928,000 2020 balance plus later fees), so treat it as a small top-off source replenished by in-lieu fees. Arroyo Terrace shows the local stack: City trust fund grant, County Title 29 and Urban County HOME or PLHA (county records), HASLO vouchers, SLO County Housing Trust Fund and 9% LIHTC. The City also controls a small CDBG share through the Urban County. The Council staff reports for the 2023 and 2024 grants could not be opened (pub-arroyogrande.escribemeetings.com listings are JavaScript-rendered and documents return 403), so the HCD-hosted 2020-2028 Housing Element is the agency source; confirm the current balance and award history with the City.",
+   "source_url": "https://www.hcd.ca.gov/housing-elements/docs/arroyo-grande-6th-adopted021121.pdf",
+   "record_id": "e0e0447caf",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Arroyo Grande Housing Element (Program C.1-1) states no wage term for In-Lieu Affordable Housing Fund grants. Grants are public funds under 1720(b)(1) (the 1720(c)(5)(E) loan exemption does not apply to grants), and 1720(c)(3) de minimis may exempt small grants. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports a value."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "Town of Truckee",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Nevada",
+   "confidence": "verified",
+   "program_name": "Truckee Inclusionary Housing (Development Code Chapter 18.214) and Affordable Housing In-Lieu Fee (Section 18.210.100; Resolution 2024-65) with dedicated in-lieu fee account",
+   "administering_agency": "Town of Truckee Community Development Department and Department of Neighborhood Services and Sustainability (Housing)",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. 15% of all new units in residential projects (and subdivisions of seven or more lots) must be affordable, built no later than the market-rate units; density bonus units are excluded from the base. Alternatives: off-site units in the Truckee region, land dedication, purchase of inclusionary credits, or deed-restricting existing units. In-lieu fee by Council resolution with annual update: $136,851 per required affordable unit under Resolution 2024-65 (up from $115,517 under Resolution 2023-63); projects of six or fewer units or lots pay a scaled fee (Exhibit A1) at the developer's option. Larger projects may pay in lieu only if the review authority finds it furthers affordable housing equally or better. Fees go to a separate interest-bearing account and must be used for Town affordable housing programs that create housing in the Truckee region, not studies (Resolution 2024-65 Exhibit A).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Ownership inclusionary units: 100% moderate income, or one-third each low, moderate and above moderate. Rental units: 100% low income, or one-third each very low, low and moderate. Affordability controls under Chapter 18.210 with locals preference; in perpetuity per the Town's Housing Resources page.",
+   "eligible_project_types": [
+    "new construction",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Fee is reset annually by resolution; a November 2025 staff report reportedly recommended not adopting an update, so confirm the fee in effect for 2026 with the Town before underwriting.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Inclusionary units can receive Homegrown Housing payments only where the project qualifies for the new Chapter 18.213 non-monetary incentives; otherwise required units are ineligible. In-lieu fee revenue supports Town housing programs (Homegrown Housing, THAP, Lease to Locals and similar) rather than a traditional tax credit gap loan NOFA; no Town multifamily NOFA was found. Separate from the Western Nevada County Regional Housing Trust Fund, which Truckee does not belong to (members are the County, Grass Valley and Nevada City). Code text from the October 12, 2023 Article VII PDF on the Town site.",
+   "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/truckeeca-meet-8a5450e393694eab8a209bf8d13ee33e/ITEM-Attachment-001-5ec3253d417e438eb7c314a7b15a17aa.pdf",
+   "record_id": "25a2837464",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate residential (compliance)",
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, successor agency or housing authority. This requirement is imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Spending of in-lieu fee revenue is a separate public funds question.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "Town of Truckee",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Nevada",
+   "confidence": "verified",
+   "program_name": "Truckee Workforce Housing Ordinance for non-residential development (Development Code Chapter 18.216)",
+   "administering_agency": "Town of Truckee Community Development Department",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy (commercial linkage). Commercial, industrial, institutional, recreational, residential resort and other non-residential projects must build workforce housing for a share of the full-time equivalent employees they generate (Table 7-7; commercial projects of 3,500 square feet or less and industrial of 7,000 square feet or less, or under 7 FTEE, are exempt). Fractions and approved cases may pay the same in-lieu fee ($136,851 per required unit under Resolution 2024-65) or use alternative equivalent actions such as land dedication.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Workforce units restricted under Chapter 18.210 affordability controls; occupancy by employees in the Truckee region.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable. Draft 7th cycle Program H-2.E calls for reviewing the ordinance and an affordable housing credit bank by December 2029.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Creates partnering opportunities: commercial developers needing workforce units can buy inclusionary credits from, or dedicate land to, affordable projects. The Edmunds Lofts site came to the Town through a land dedication by High Altitude Fitness under this ordinance. No county equivalent exists.",
+   "source_url": "https://www.townoftruckee.gov/DocumentCenter/View/1196",
+   "record_id": "c9fb1bbef1",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "mixed-use",
+    "new construction",
+    "land dedication"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "redirected",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, successor agency or housing authority. This requirement is imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Spending of in-lieu fee revenue is a separate public funds question. Land dedicated to the Town under the ordinance and later conveyed below market would be public funds under 1720(b)(3) for that project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "Town of Truckee",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Nevada",
+   "confidence": "verified",
+   "program_name": "Truckee Homegrown Housing Program, Monetary Incentives (formerly Deed Restriction for New Housing Development)",
+   "administering_agency": "Town of Truckee Housing Division; program operator Sierra Business Council (info@sierrabusiness.org, 530-582-4800)",
+   "funding_type": "grant",
+   "typical_award_size": "Per-unit payment for a 55-year deed restriction on newly built units, paid at certificate of occupancy after recording: studio $100,000, one bedroom $150,000, two bedroom $225,000 for units restricted to 180% AMI; studio $116,000, one bedroom $174,000, two bedroom $261,000 for units restricted to 120% AMI. Guidelines approved June 23, 2026. Town Council has committed $3,600,000 to deed restriction payments, after moving site-acquisition funds into the program in September 2025.",
+   "per_unit_cap": "$261,000 per two-bedroom unit at 120% AMI; studios through two bedrooms only.",
+   "affordability_requirement": "Occupants must work within the Tahoe Truckee Unified School District boundary; household income at or below 180% AMI (rent or price capped at 120% AMI affordability) or at or below 120% AMI (capped at 80% AMI affordability); 55-year non-renewing restriction; no short-term rental; one dedicated parking space per unit.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use",
+    "adu"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Open; apply after a complete Planning application. Milestones: building permit application within 9 months of entitlement, permit issued within 18 months, first inspection within 24 months, certificate of occupancy within 30 months, or the award is cancelled.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Designed for missing-middle workforce units, not tax credit deals: projects entitled under State Density Bonus Law are ineligible, and funds cannot be combined with other assistance that imposes an equivalent 55-year income and workforce restriction. Eligible only in VMT Exemption Areas. Payment at C of O means it works as permanent-loan paydown or equity replacement, not construction financing. A January 27, 2026 BAE valuation analysis informed the revised amounts. Town funds count as public funds under Labor Code 1720.",
+   "source_url": "https://www.townoftruckee.gov/DocumentCenter/View/2190",
+   "record_id": "8cdf4a65cc",
+   "cycle_notes": "first come, subject to available funds",
+   "eligible_project_detail": [
+    "new construction",
+    "adu",
+    "mixed-use"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "redirected",
+   "prevailing_wage_basis": "The June 23, 2026 Homegrown Housing Program Guidelines do not address prevailing wage, and whether a post-completion deed restriction payment makes a privately owned residential project a public work under Labor Code 1720 was not confirmed by any cited rule.",
+   "audit_note": "Redirect resolves to the same June 23, 2026 guidelines PDF; payment table, AMI tiers, 55-year term, density bonus exclusion, VMT area and milestone deadlines match. Prevailing wage changed from true to unclear because no stated rule supports true. The $3,600,000 Council commitment is not in the guidelines and was not re-checked.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "Town of Truckee",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Nevada",
+   "confidence": "verified",
+   "program_name": "Truckee Deed-Restricted Housing Incentives (Development Code Chapter 18.213, Ordinance 2026-06) and Density Bonus (Chapter 18.212)",
+   "administering_agency": "Town of Truckee Community Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Non-monetary incentives, not a subsidy. Ordinance 2026-06, adopted April 28, 2026 and effective about May 28, 2026, implements 2040 General Plan Action LU-2.B: a Town-specific workforce and affordable housing bonus with streamlined review and flexible design standards for projects with deed-restricted units, with income criteria set by Council resolution. Chapter 18.212 separately implements state density bonus law, including a Development Bonus for Partnered Commercial Projects (18.212.160).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Deed-restricted units meeting the Council-adopted income criteria (workforce levels up to 180% AMI under the companion Homegrown program); state density bonus thresholds for Chapter 18.212.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "In effect; requested with the Planning application.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Choose one path: projects using State Density Bonus Law cannot take Homegrown payments, while projects using Chapter 18.213 can also draw Homegrown payments, even for their inclusionary units. Draft 7th cycle Program H-3.D adds fee deferrals, land write-downs and incentives beyond state density bonus for acutely and extremely low income, senior and disability housing. The Housing Development Incentives page text says the ordinance was introduced April 7, 2026 with second reading April 28; the Council work plan page reports adoption on April 28, 2026.",
+   "source_url": "https://www.townoftruckee.gov/677/Housing-Development-Incentives",
+   "record_id": "fa211c287f",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-use"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011). Chapter 18.213 incentives are non-monetary; Homegrown Housing payments are a separate Town program tested on their own, and draft Program H-3.D fee deferrals are not adopted.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Grass Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Nevada",
+   "confidence": "verified",
+   "program_name": "Grass Valley Housing Element affordable housing programs: fee deferral on request (Program 28), state and federal funding support (Program 13), tax-exempt bonds (Program 14)",
+   "administering_agency": "City of Grass Valley Community Development Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Fee deferral for affordable housing is available on request, but the City reports it has received no requests. Program 13 commits the City to apply for grants and support developers seeking funding (objective 25 very low and 40 to 60 low income new units in 2019-2027); Program 14 supports tax-exempt bonds and mortgage credit certificates. The City won a $2 million DTSC Equitable Community Revitalization Grant in 2024 to clean up a brownfield site of interest to affordable developers, and expedited a Habitat for Humanity SB 9 lot split for three deed-restricted homes.",
+   "per_unit_cap": "Not published.",
+   "affordability_requirement": "Lower income units per the funding source; Program 28 targets units at or below 30% AMI with Nevada County and the Regional Housing Authority.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency. The 7th cycle Housing Element is due in 2027.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Deferral terms are not codified in a published resolution; negotiate case by case. City sites have historically attracted County-sponsored supportive housing (Brunswick Commons, 41 units) and RHA projects. The City joined the October 30, 2025 regional housing workshop with the County, Nevada City, Truckee and HCD. Source is the 2024 General Plan Annual Progress Report (March 2025) on the City's meeting host; a 2025 APR was not located this pass.",
+   "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/grassvalca-meet-5c5ce93ed0824b79a101ec1314e65ee9/ITEM-Attachment-001-a14d952e40f44151a2a312e8d4e022e5.pdf",
+   "record_id": "6a0a41a7c4",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Fee deferral or reduction can be public funds under 1720(b)(4), but the Housing Element programs state no prevailing wage rule and deferrals are often de minimis under 1720(c)(3). https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Nevada City",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Nevada",
+   "confidence": "verified",
+   "program_name": "Nevada City density bonus and affordable housing incentives (Housing Element Program 24; Zoning Code update pending)",
+   "administering_agency": "City of Nevada City Planning Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Incentive, not a subsidy. The City grants density bonuses and incentives per state law; Cashin's Field (51 units, opened 2023) used an 80% density bonus and reduced parking. The 2025 Annual Progress Report says the City will update its density bonus regulations in 2026 to match current state law. Nevada City has not raised development impact fees since 1993 and is considering a fee study in 2026.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Per Government Code 65915.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; 7th cycle Housing Element (2027-2035) update underway with workshops July 30 and September 10, 2026.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Nevada City has no city housing trust fund, no city NOFA and no city-run CDBG or HOME program; the 2025 APR states the City's limited resources preclude its own rehabilitation program. Local gap money comes through the Western Nevada County Regional Housing Trust Fund and regional PLHA (the City allocated PLHA to Cashin's Field). Zoning code density bonus chapter not found on the zoneomics mirror; source is the City's 2025 Housing Element APR.",
+   "source_url": "https://nevadacityca.gov/DocumentCenter/View/2515/2025-Housing-Element-Annual-Progress-Report?bidId=",
+   "record_id": "a37a48cd82",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": "2026-09-10",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Nevada City",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Nevada",
+   "confidence": "verified",
+   "program_name": "Nevada City fee waiver for deed-restricted low income ADUs and reduced ADU impact fees (Municipal Code 17.72.026)",
+   "administering_agency": "City of Nevada City Planning Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Waiver of mitigation fees and utility hook-up fees for deed-restricted low income accessory dwelling units; reduced AB 1600 impact fees for all ADUs and none for ADUs under 750 square feet. Pre-approved ADU plans available. Objective of 8 affordable second units in the cycle.",
+   "per_unit_cap": "Not published.",
+   "affordability_requirement": "Low income deed restriction on the ADU.",
+   "eligible_project_types": [
+    "adu"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Small-scale tool only; no equivalent waiver is codified for multifamily. Recorded so the market's lack of multifamily fee relief is visible.",
+   "source_url": "https://nevadacityca.gov/DocumentCenter/View/2515/2025-Housing-Element-Annual-Progress-Report?bidId=",
+   "record_id": "2c8f5d1e7e",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "adu"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Waived fees are public funds under 1720(b)(4), but an ADU fee waiver is likely de minimis under 1720(c)(3) and no Nevada City rule states prevailing wage applies. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ }
+]

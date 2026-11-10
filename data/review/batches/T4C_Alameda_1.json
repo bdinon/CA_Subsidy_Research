@@ -1,0 +1,453 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Oakland",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "verified",
+   "program_name": "Measure U Affordable Housing Bond: New Construction Notice of Funding Availability (NC NOFA), Resolutions 90419, 90552, 90894 and 91377 C.M.S.",
+   "administering_agency": "City of Oakland Housing and Community Development Department (HCD), Housing Development Division, 250 Frank H. Ogawa Plaza, Suite 5313; Fay Darmawi, Deputy Director, fdarmawi@oaklandca.gov, (510) 238-3714",
+   "funding_type": "loan",
+   "typical_award_size": "Measure U (Nov 2022, $850,000,000 bond, $350,000,000 for affordable housing in three tranches). Tranches 1 and 2 committed $248,000,000 to 32 projects (New Construction 15 projects, 1,172 units, $167,035,412; R2H2/Homekey 6 projects, $31,564,588; ACAH 11 projects, $37,000,000; 5% admin $12,400,000), leveraging about $5 outside per $1 City. 2024 NC NOFA: 24 applications requesting $424,000,000; January 2025 awards $80,500,000 to 5 projects (583 units); November 2025 pipeline awards $63,500,000; 13 unfunded pipeline applications (919 units, $246,000,000 requested) remain. Tranche 3: $50,000,000 appropriated in the FY 2026-27 midcycle budget and authorized by Resolution 91377 C.M.S. (October 2026), about $35,000,000 of it for the NC NOFA. Typical City loans run roughly $8,000,000 to $20,000,000 per project, 55-year residual receipts.",
+   "per_unit_cap": "No fixed cap published; awards sized by gap underwriting, cost per unit and leverage. Oakland Housing Authority has indicated up to $8,000,000 in operating, predevelopment or capital assistance for NC NOFA and R2H2 projects with PSH or deeply affordable units (OHA Board action pending).",
+   "affordability_requirement": "At least 20% of units targeted to homeless exits or extremely low income (0-30% AMI) households with supportive services plan; 55-year regulatory agreement; scoring favors public land, ministerial approvals, readiness for tax credits, emerging developer joint ventures, displacement-risk neighborhoods.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "mixed-income"
+   ],
+   "application_cycle": "biennial",
+   "next_deadline": "Next NC NOFA planned for late 2026 or early 2027 after state HDFC rules settle; awards timed to the spring 2027 tax credit round. Existing pipeline applicants may be advanced ahead of a full round. Confirm release date with HCD (NOFA mailing list).",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Oakland is the largest city funder in the county (42% of Alameda County affordable permits 2024-25). Stacks with Alameda County Measure A1 Oakland base allocation and Measure W Home Together New Construction RFP (five Oakland projects won Measure W in March 2026: Liberation Park, 500 Lake Park, 3135 San Pablo, East 12th Circle, Brighter Bancroft), county PBVs via OHA, and state HDFC/TCAC. City commitment is intended as the first local layer so projects can show match for county and state rounds. Measure U loans carry Oakland local hire, First Source and prevailing wage requirements; a Project Labor Agreement debate for Measure U projects occurred in 2024. Measure KK (2016, $100,000,000 housing) is fully committed and reported with Measure U. Non-bond sources commingled in the same NOFA: Affordable Housing Impact Fee Fund 1872, Jobs/Housing Impact Fee Fund 1871, boomerang Fund 1870, LMIHAF 2830, HOME 2109, PLHA 2145, excess redevelopment bond funds. oaklandca.gov returns 403 to scripts; all material read from Oakland Legistar attachments and the City's OpenCities prelive host.",
+   "source_url": "https://oakland.legistar1.com/oakland/attachments/6fffddd8-44d0-4cb6-9f7a-bd7e5972ecb2.pdf",
+   "record_id": "2b0b12697f",
+   "cycle_notes": "pipeline NOFA with supplemental awards as funds arrive",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing",
+    "mixed-income rental with PSH set-aside"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "City of Oakland HCD Development Loan Program Requirements (Contract Compliance section) require City-funded projects to comply with Payment of Prevailing Wages and state that the general contractor must comply with Davis-Bacon if applicable and State of California prevailing wage as determined by DIR; City requirements apply regardless of fund source. https://oaklandca.prelive.opencities.com/files/assets/city/v/1/housing-comm-dev/documents/development-loan-program-requirements.pdf Same requirement in the 2019 New Construction NOFA program description. https://cao-94612.s3.amazonaws.com/documents/NOFA-2019-New-Construction_Program-Description.pdf",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Oakland",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "verified",
+   "program_name": "Rapid Response Homeless Housing (R2H2) and local Homekey program (Resolutions 89977 and 90419 C.M.S.)",
+   "administering_agency": "City of Oakland HCD, Homeless Housing Development unit",
+   "funding_type": "grant",
+   "typical_award_size": "Program capitalized in 2023 with boomerang Fund 1870 and LMIHAF: $10,400,000 capital plus $19,600,000 operating subsidy; $21,000,000 Measure U Tranche 2 capital added September 2024 for $31,400,000 total capital. Four awards to date (Mandela House, Friendly Manor, Covenant House, the Holland), leveraging over $87,000,000 outside funds (about $4 to $1). About $7,000,000 of Measure U Tranche 2 remained available for new applications as of September 2026; Tranche 3 may add more. City also co-applies for state Homekey+: 2025 awards $7,100,000 The Maya (23 units), $33,000,000 Mark Twain Homes (109 units), $6,500,000 34th and San Pablo (15 PSH units).",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "Permanent supportive housing or permanent transitional housing for people experiencing homelessness; quick-build, ready to house residents within 12 months of award and fully operational within 15 months; Housing First.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Rolling RFP since November 2023; apply any time while capital remains. Confirm remaining balance with HCD.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Oakland analog to state Homekey; projects typically combine R2H2 capital with Homekey+, county Measure W Housing dollars, HHAP and county BHSA. Operating subsidy is the binding constraint; the Prohousing Incentive Program award ($2,390,000 in 2023, up to $1,600,000 requested in Round 4, 2026) is dedicated to capitalized service reserves for R2H2 and NC NOFA PSH units. OHA may add project-based vouchers or operating subsidy.",
+   "source_url": "https://oakland.legistar1.com/oakland/attachments/6fffddd8-44d0-4cb6-9f7a-bd7e5972ecb2.pdf",
+   "record_id": "5593dd693f",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "supportive housing",
+    "acquisition-rehab",
+    "motel or office conversion",
+    "modular new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "City of Oakland Homekey and R2H2 RFP pre-application presentation: teams must comply with Payment of State prevailing wages (Homekey and City requirement) plus the Living Wage Ordinance and certified payroll. https://www.oaklandca.gov/files/assets/city/v/1/housing-comm-dev/documents/r2h2/final-homekey-r2h2-rfp-pre-app-presentation-v.2-1.pdf"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Oakland",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "verified",
+   "program_name": "Jobs/Housing Impact Fee (commercial linkage fee), OMC Chapter 15.68, Fund 1871",
+   "administering_agency": "City of Oakland Planning and Building Department (collection) and HCD (expenditure)",
+   "funding_type": "loan",
+   "typical_award_size": "Linkage fee on office and warehouse projects over 25,000 sq ft: $7.87 per sq ft for permits applied July 1, 2024 to June 30, 2025 per Table 4 ($8.05 for July 1, 2023 to June 30, 2024), inflation adjusted; paid 25% at permit, 50% at certificate of occupancy, 25% eighteen months later. The 2025 amendments extended the fee to additional nonresidential categories. FY 2024-25 JHIF fund (Fund 1871): start $13,964,433, end $12,546,460, fee revenue $0 in FY 2024-25, $12,060,074 committed to affordable developments, $486,386 being committed to pipeline projects. Past JHIF awards include $2,500,000 (2700 International, 75 units) and $3,472,130 (34th and San Pablo, 60 units).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Revenue restricted to acquisition, new construction, substantial rehabilitation and preservation of affordable housing, awarded through HCD NOFAs.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Fee collected continuously; funds flow to the NC NOFA pipeline (next round late 2026 or early 2027).",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Oakland is one of only two priority cities in the county with a commercial linkage fee (Fremont also has one). Classified as loan because the fund balance is deployed as City development loans through HCD NOFAs (New Construction and ACAH); the fee itself is a cost to commercial developers, not to affordable housing sponsors. Revenue is modest relative to Measure U (FY 2024-25 JHIF fee revenue was $0) but is flexible local money with no bond restrictions, which HCD uses for early predevelopment commitments. Developers do not apply to this fund directly; it is part of the NOFA sources table.",
+   "source_url": "https://oakland.legistar1.com/oakland/attachments/cbff9d9a-7710-4842-8968-0b288ef0fcb4.pdf",
+   "record_id": "79c31e799d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Reclassified from other to loan per audit rule for trust funds that deploy loans. Impact Fee Annual Report FY 2024-25 (CED Committee February 10, 2026) shows JHIF committed to projects through City loans.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "The FY 2024-25 Impact Fees Annual Report shows JHIF revenue is released through Oakland HCD NOFAs (Resolution 90419 C.M.S., 2024 New Construction NOFA) and lent to projects such as 2700 International and 34th and San Pablo (https://oakland.legistar1.com/oakland/attachments/cbff9d9a-7710-4842-8968-0b288ef0fcb4.pdf). Those loans are made under the City of Oakland HCD Development Loan Program Requirements, whose Employment and Contracting section requires Payment of Prevailing Wages and states the general contractor must comply with Davis-Bacon if applicable and State of California prevailing wage as determined by DIR; City requirements apply regardless of fund source (https://oaklandca.prelive.opencities.com/files/assets/city/v/1/housing-comm-dev/documents/development-loan-program-requirements.pdf). Because the funding program itself requires wages, the 1720(c)(5) affordable housing exemptions do not remove the requirement (1720(c)(5) applies unless otherwise required by a public funding program, https://california.public.law/codes/labor_code_section_1720)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Oakland",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "verified",
+   "program_name": "Prohousing Designation (renewed 2025, Resolution 90836 C.M.S.) and Prohousing Incentive Pilot Program grants",
+   "administering_agency": "City of Oakland HCD, Housing Policy Unit",
+   "funding_type": "grant",
+   "typical_award_size": "Oakland was the first Bay Area jurisdiction designated Prohousing (December 2022); renewal for a 3-year term authorized September 16, 2025. Prohousing Incentive Program awards: $2,390,000 (Round 1, 2023) dedicated to capitalized service reserves for deeply affordable housing; Rounds 2 and 3 unsuccessful ($1,390,000 requests); Round 4 application for up to $1,600,000 authorized March 2026 for capitalized service reserves for PSH units in R2H2 or NC NOFA projects.",
+   "per_unit_cap": "None; grants are sub-awarded to projects by HCD as grants or loans.",
+   "affordability_requirement": "Capitalized service reserves for permanent supportive housing and deeply affordable units identified through City NOFAs.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "HCD PIP Round 5 NOFA released October 13, 2026 (about $8 million statewide); applications due March 31, 2027, Prohousing Designation required by March 31, 2027, awards expected June 2027. Oakland Round 4 result not confirmed.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Developers benefit indirectly: Oakland projects receive Prohousing scoring points in AHSC, IIG, TCC and other state programs, and PIP dollars are routed to service reserves that make PSH projects feasible. Hayward and San Leandro also hold or expect Prohousing status. No county equivalent.",
+   "source_url": "https://oakland.legistar1.com/oakland/attachments/7517a614-abf5-43fa-bad4-4cf1bc78d82f.pdf",
+   "record_id": "bb65553d29",
+   "cycle_notes": "State PIP rounds funded from SB 2 Building Homes and Jobs Trust Fund collections; Round 5 NOFA October 13, 2026 with March 31, 2027 due date.",
+   "eligible_project_detail": [
+    "supportive housing",
+    "new construction"
+   ],
+   "next_deadline_date": "2027-03-31",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "HCD Prohousing Incentive Program guidelines (Round 4 and October 2026 final guidelines) and the Round 4 and Round 5 NOFAs contain no prevailing wage provision. PIP funds pass to projects as City grants or loans for capitalized service reserves, so coverage depends on the general Labor Code 1720(b) public funds definition, 1720(c) exemptions (including 1720(c)(5)(E) for qualifying below-market loans) and project facts.",
+   "audit_note": "Tier 3: prevailing wage left unclear; PIP guidelines and NOFAs were searched and state no prevailing wage rule. Deadline updated from the HCD Round 5 NOFA.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Oakland",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "verified",
+   "program_name": "Rehabilitation of Existing Affordable Housing NOFA (Rehab NOFA, planned 2027) and Health and Safety Rehabilitation Loan Program (Resolutions 86126, 86366, 89605 C.M.S.)",
+   "administering_agency": "City of Oakland HCD, Asset Management Services unit",
+   "funding_type": "loan",
+   "typical_award_size": "Rehab NOFA: last issued FY 2019-20; $7,000,000 of Measure U Tranche 2 earmarked in 2024 and a competitive round planned for 2027 using already authorized Tranche 2 funds plus Tranche 3. Health and Safety Loan Program: over-the-counter emergency loans to owners of City-subsidized multifamily housing, generally up to $250,000 per project, 0% interest, 55-year term; balance fully committed ($250,000 Christian Church Homes, $100,000 Coliseum Connections) and a $2,000,000 recapitalization was recommended in October 2026.",
+   "per_unit_cap": "Health and Safety loans generally limited to $250,000 per project.",
+   "affordability_requirement": "Existing City-regulated affordable portfolio properties; affordability restrictions extended or maintained for 55 years.",
+   "eligible_project_types": [
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "biennial",
+   "next_deadline": "Rehab NOFA expected 2027; Health and Safety Program accepting requests once the $2,000,000 recapitalization is funded. Verify with HCD Asset Management.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Covers Oakland's aging City-funded portfolio, the same need Berkeley addressed with its 2024 HTF rehab RFP. Larger recapitalizations pair with 4% credits and tax-exempt bonds (City of Oakland or CMFA conduit). Not a source for third-party acquisition; see ACAH.",
+   "source_url": "https://oakland.legistar1.com/oakland/attachments/6fffddd8-44d0-4cb6-9f7a-bd7e5972ecb2.pdf",
+   "record_id": "83047d37ef",
+   "cycle_notes": "Rehab NOFA irregular; Health and Safety loans rolling when funded",
+   "eligible_project_detail": [
+    "preservation",
+    "acquisition-rehab (portfolio recapitalization)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "City of Oakland HCD Development Loan Program Requirements (Contract Compliance section) require City-funded projects to comply with Payment of Prevailing Wages and state that the general contractor must comply with Davis-Bacon if applicable and State of California prevailing wage as determined by DIR; City requirements apply regardless of fund source. https://oaklandca.prelive.opencities.com/files/assets/city/v/1/housing-comm-dev/documents/development-loan-program-requirements.pdf The 2019 Acquisition-Rehab-Preservation NOFA program description carries the same Contract Compliance requirement. https://cao-94612.s3.amazonaws.com/documents/NOFA-2019-Acquisition-Rehab-Preservation_Program-Description.pdf",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Berkeley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "verified",
+   "program_name": "Measure O Affordable Housing General Obligation Bond (November 2018, $135,000,000)",
+   "administering_agency": "City of Berkeley HHCS with the Measure O Bond Oversight Committee and Housing Advisory Commission",
+   "funding_type": "bond",
+   "typical_award_size": "Voter-approved $135,000,000 GO bond for development, rehabilitation and preservation of affordable housing for extremely low through middle income households. First issuance about $30,000,000 (2019-20) funded Berkeley Way ($23,500,000 reservation less operating reserve) and 1601 Oxford ($6,000,000) and a 2019 HTF RFP of about $14,500,000. Later issuances fund the current HTF reservations: BUSD educator housing $26,500,000, 1740 San Pablo $11,996,669, North Berkeley BART projects $21,500,000 (with AHMF and HTF), Supportive Housing in People's Park and Ephesian Legacy Court (with AHMF and U1). Measure O cannot fund predevelopment or capitalized operating reserves, which the City covers with U1 or fee revenue.",
+   "per_unit_cap": "None published; awards made through HTF RFPs.",
+   "affordability_requirement": "HTF Guidelines (60% of units at or below 30% to 60% AMI) with Council-approved exceptions up to 120% AMI for BUSD educator housing; 55-year restrictions.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "No open Measure O round; most remaining proceeds are reserved for NBB, SHiPP, Ephesian and BUSD projects with reservations extended to January 2028. Verify unreserved balance with HHCS or the Measure O Bond Oversight Committee.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Measure O is Berkeley's counterpart to Oakland Measure U and County Measure A1; it is permanent capital only, so projects pair it with AHMF or in-lieu funds and U1 for predevelopment and reserves, Berkeley Housing Authority PBVs for operating support, and Measure A1 or Measure W for the balance. Oversight by the Measure O committee acts in place of the HAC for bond-funded RFPs. The 2019 Council report and the November 2025 HAC packet were the documents opened; a current bond balance statement was not found on berkeleyca.gov.",
+   "source_url": "https://berkeleyca.gov/sites/default/files/documents/2019-06-11%20Item%2031%20Measure%20O%20Affordable%20Housing%20Bonds.pdf",
+   "record_id": "4f6f662085",
+   "cycle_notes": "remaining authorization reserved to named projects; new rounds only if reservations lapse",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "City of Berkeley Housing Trust Fund and Small Sites Program Guidelines (2021), Labor Requirements item 2: funded projects must pay the General Prevailing Rate of Per Diem Wages (8 CCR 16000) to all workers covered by a State-published determination, per Resolution 54,533-N.S. (1988) requiring State prevailing wage on all City-funded construction; the guidelines note HTF projects are usually exempt from DIR registration under Labor Code 1720(c)(5)(E) but the City requirement still applies. https://berkeleyca.gov/sites/default/files/2021%20HTF-Approved-Guidelines%20for%20website_0.pdf Measure O bond capital is awarded through the HTF guidelines.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Berkeley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "verified",
+   "program_name": "Density Bonus, BMC Chapter 23.330 (Ordinance 7787-NS, 2021; 7853-NS, 2023)",
+   "administering_agency": "City of Berkeley Planning and Development Department, Zoning Officer and Zoning Adjustments Board",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement and entitlement, not a subsidy. Incorporates Government Code 65915 and 65917.2 by reference with administrative regulations; incentives and concessions counted per dimensional or quantitative standard; City bears the burden of proof to deny; waivers negotiated through Use Permit and Design Review; regulatory agreement required before certificate of occupancy; qualifying units must meet Chapter 23.328 standards.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State thresholds; bonus units count toward the base for the 20% inclusionary requirement only as provided in 23.328.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Concurrent with the housing development permit application; no deadline.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancement beyond state law; Berkeley's leverage for affordable projects is instead the Southside and transit-corridor rezonings and the Housing Element Program upzonings. Inclusionary in-lieu fee applies to the base project only, which modestly favors bonus projects. Code read on the zoneomics mirror because berkeley.municipal.codes is script-blocked.",
+   "source_url": "https://www.zoneomics.com/code/berkeley-CA/chapter_3",
+   "record_id": "9b3cba1ad9",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fremont",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "verified",
+   "program_name": "Fremont Affordable Housing Fund NOFA (Affordable Housing In-Lieu Fee Fund 196, Low and Moderate Income Housing Asset Fund 111, commercial linkage fees)",
+   "administering_agency": "City of Fremont Community Development Department, Housing Division, 39550 Liberty Street; housing@fremont.gov, (510) 494-4500",
+   "funding_type": "loan",
+   "typical_award_size": "Periodic NOFAs: November 2021 round awarded $14,000,000 to MidPen (Osgood, with up to $11,500,000 more), $6,000,000 to TPC/Maracor (Osgood South) and $7,600,000 to RCD (3900 Thornton, with up to $9,700,000 more). August 2023 NOFA (about $30,000,000 estimated, $35,000,000 available) awarded $34,850,000 on March 19, 2024: $12,850,000 USA Properties Centerville Station Phase 1 (150 units; $8,850,000 Fund 196 plus $4,000,000 Fund 111), $12,000,000 TPC/Maracor Warm Springs (240 units, $50,000 per unit; $9,500,000 redirected to acquisition in March 2025), $10,000,000 Community Development Partners 39340 Fremont Blvd (96 units, $104,000 per unit). Loans are 55 years at 3% simple interest, capital and predevelopment only (no operating subsidy or services). City contributed $30,700,000 of restricted funds to the 560 units opened in 2025 and funded four of the six developments (918 units) breaking ground in fall 2026.",
+   "per_unit_cap": "No formal cap; staff benchmark recent City subsidy at about $110,000 per unit and favored requests of $50,000 to $104,000 per unit.",
+   "affordability_requirement": "Households at or below 80% AMI with a target mix including extremely low (under 30% AMI), very low (under 50% AMI) and low income units; all-electric construction; site control required at application; 55-year regulatory agreement.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "biennial",
+   "next_deadline": "No NOFA open as of 2026-11-08; prior rounds were 2021 and August 2023 (due October 31, 2023). Next round expected when Fund 196 rebuilds; verify with the Housing Division.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Second largest city pool in the county after Oakland and Berkeley, funded almost entirely by developer fees (for-sale in-lieu fee, rental AHO fee, commercial linkage) plus LMIHAF program income. Awards are timed so projects can apply to CDLAC/TCAC (Warm Springs waited for enhanced credits in a Small DDA). Stacks with Alameda County Measure A1 Fremont base allocation and regional pool, Measure W, and HACA project-based vouchers (Fremont is in the HACA jurisdiction and the County HOME Consortium). fremont.gov returns 403 to scripts, so the NOFA page could not be opened; terms were read from the March 19, 2024 and March 18, 2025 Council staff reports on the City's IQM2 agenda host and City GovDelivery bulletins.",
+   "source_url": "https://fremontcityca.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=1963&MediaPosition=&ID=5091&CssClass=",
+   "record_id": "0c6bd9786f",
+   "cycle_notes": "NOFA issued roughly every two years as fund balance allows",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Fremont NOFA (fremont.gov) returns 403 and the 2024 award resolutions on the City IQM2 host carry no wage term. Below-market loans to projects with 40% of units at 80% AMI for 20 years are exempt under 1720(c)(5)(E) unless the program requires prevailing wage, and LMIHAF-only work may fall under 1720(c)(4).",
+   "audit_note": "PW pass Nov 9, 2026: true not supported by a located program rule; Fremont NOFA text could not be opened (403), so changed to unclear pending the NOFA.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fremont",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "verified",
+   "program_name": "State Density Bonus Law implementation in Fremont (no local bonus chapter; Lopes Road determination, November 2025)",
+   "administering_agency": "City of Fremont Community Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement and entitlement, not a subsidy. Fremont applies Government Code 65915 directly; all three 2024 NOFA awardees used concessions or waivers to reduce ground-floor commercial, open space or setbacks in TC-P, WSI-8 and Downtown zones, and AB 2097 removed parking minimums near transit. In November 2025 the Council upheld staff and Planning Commission denial of a concession to reduce the 50 unit per acre minimum density for a 127-townhome project at Lopes Road near Warm Springs BART, consistent with an HCD technical assistance letter. Commercial density bonus (Gov Code 65915.7) is available but unused.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State thresholds (10% low, 5% very low, 10% moderate for sale, 100% affordable).",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Concurrent with the entitlement application.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancement; the City's incentives for affordable projects are fee based. Fremont adopted a development impact fee deferral and a 50% impact fee reduction for affordable housing projects under FMC 18.290 (2021 and later actions) according to City notices, but the fremont.gov pages describing them were blocked (403) this pass and the zoneomics 18.290 text defines affordable housing (up to 120% AMI) without stating the reduction; treat the fee reduction as needs_confirmation. Fremont also adopted a Streamlined Affordable Housing overlay through Housing Element Program implementation ordinances in 2025 (PLN2025-00065 and PLN2025-00074) that were not opened.",
+   "source_url": "https://fremontcityca.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=2043&MediaPosition=&ID=5562&CssClass=",
+   "record_id": "552c4aa037",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Hayward",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "verified",
+   "program_name": "Hayward Affordable Housing NOFA (local housing funds with Alameda County Measure A1 base allocation; last round 2018)",
+   "administering_agency": "City of Hayward Development Services Department, Housing Division, 777 B Street, Hayward; housing@hayward-ca.gov, (510) 583-4454",
+   "funding_type": "loan",
+   "typical_award_size": "2018 NOFA: about $7,000,000 in local housing funds plus recommendations for Hayward's Measure A1 base allocation ($18,200,000 available at the time) and local match to position projects for the A1 regional pool. Maximum City loan 10% of total residential development cost of the affordable units; HOME per-unit limits for HOME-assisted units ($144,050 studio to $285,149 four bedroom in 2018); 24-month commitment with one-year extension. CDBG available for predevelopment or acquisition by request. No NOFA has been issued since; the City reports only one City-supported project remaining in the pipeline and limited general fund for housing.",
+   "per_unit_cap": "City loan capped at 10% of the affordable units' total development cost (2018 terms).",
+   "affordability_requirement": "Rental and supportive housing for lower income households; Measure A1 policies require at least 20% of units at 20% AMI for A1-funded projects; scoring favors special needs, homeless, larger units and deeper targeting.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "No open NOFA as of 2026-11-08. The December 2024 Housing Policy and Resource Committee report floated an annual general fund allocation for a regular NOFA but no funding was identified. Watch the Doing Business with Hayward page and the Housing Division mailing list.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Hayward's role is mainly as pass-through for its Measure A1 base allocation (county record) and HOME Consortium share; local dollars are limited to the Affordable Housing Trust Fund balance and CDBG. Developers should expect to rely on Measure A1, Measure W, HACA project-based vouchers and state sources with the City providing land (surplus sites), entitlements under the Streamlined Affordable Housing Overlay, and its Prohousing designation points. NOFA page and 2018 program description were opened on hayward-ca.gov.",
+   "source_url": "https://hayward-ca.gov/content/notice-funding-availability-new-construction-affordable-rental-housing",
+   "record_id": "3febadbf74",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "City of Hayward 2018 Affordable Housing NOFA Program Description: the general contractor must comply with Davis-Bacon if applicable and State of California prevailing wage as determined by DIR; projects with federal funds pay the higher of federal or state rates; Measure A1 funded projects also follow County contracting requirements. https://hayward-ca.gov/sites/default/files/NOFA%202018%20%20Program%20Description%20-UPDATED%205.22.18.pdf",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Leandro",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Alameda",
+   "confidence": "verified",
+   "program_name": "Residential Density Bonus, San Leandro Zoning Code Chapter 6.08, and inclusionary incentives (6.04.136)",
+   "administering_agency": "City of San Leandro Community Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement and entitlement, not a subsidy. Chapter 6.08 grants the bonus, incentives and concessions exactly as specified in Government Code 65915, processed concurrently with other entitlements and approved if the applicant complies with state law; continued availability of bonus units secured by agreement. Section 6.04.136 allows additional flexibility in density, lot size, yards and parking to accommodate required inclusionary units, but density bonus affordable units are in addition to the inclusionary requirement. Condominium conversions get the 65915.5 bonus (5.32.136).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State thresholds; inclusionary 15% must still be met on the base project.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income",
+    "homeownership"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Concurrent with the entitlement application.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancement beyond state law. San Leandro's affordable housing tools beyond density bonus are the inclusionary ordinance, the small AHTF, the HOME/PIP/PLHA RFP and the 2025 park fee exemption; there is no fee waiver for building permits and no local trust fund NOFA with meaningful capital. Code read on the zoneomics mirror.",
+   "source_url": "https://www.zoneomics.com/code/san-leandro-CA/chapter_6",
+   "record_id": "5f1a87b114",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income",
+    "condominium conversion"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ }
+]

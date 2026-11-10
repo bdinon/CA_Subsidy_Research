@@ -1,0 +1,718 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Riverside",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Riverside Local Affordable Housing Trust Fund (LAHTF), created by Council resolution March 12, 2024",
+   "administering_agency": "City of Riverside Housing and Human Services Department",
+   "funding_type": "loan",
+   "typical_award_size": "Construction and permanent loans at simple interest of no more than 3% per annum, with repayments recycled into the fund. Seeded with a $1,500,000 transfer of PLHA funds; ongoing revenue from HOME, NSP, CalHome, PLHA and ARPA affordable housing program income (ARPA affordable housing allocation was $1,388,797) plus 50% of future sale proceeds of City-owned land bought with General Fund money. City applied for a $1,000,000 HCD Local Housing Trust Fund match (August 2024). Staff cite typical gap requests of $3M to $4M for 65 to 80 unit projects.",
+   "per_unit_cap": "None published; sized to gap.",
+   "affordability_requirement": "Low to moderate income households. Committee recommendations at creation: 99-year affordability term, priority for seniors and justice-involved people, and eligibility for market-rate developers that restrict 10% of rental units (or 5% of for-sale units). Loans funded with PIP Round 4 money require 55-year first-position covenants at or below 50% AMI.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No LAHTF NOFA issued as of 2026-11-08. The March 24, 2026 PIP Round 4 staff report says residual receipts from PIP loans will flow to the trust fund and staff will issue a NOFA once enough has accumulated. Contact Housing and Human Services (Agripina Neubauer, Housing Project Manager).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "City-controlled gap layer that sits ahead of County HOME/PLHA (the County CDBG/HOME record covers the Urban County, which excludes the City of Riverside as its own entitlement grantee). Stacks with the City's own HOME, PLHA and PIP loans (separate records) and with 4% or 9% LIHTC. Capitalized mainly from recycled program income, so the balance is small relative to need; expect it to be combined with HOME and PLHA on the same project. If the LHTF state match was awarded it carries HCD LHTF regulatory terms. City pages on riversideca.gov are thin; staff reports were pulled through the Legistar web API (client riversideca).",
+   "source_url": "https://riversideca.legistar1.com/riversideca/attachments/1ba55bf5-5dbd-4eeb-9ca6-933968bf57e8.pdf",
+   "record_id": "6d04638084",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": "2026-03-24",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No LAHTF rule found; the March 12, 2024 staff report is silent on prevailing wage. City loans are public funds under Labor Code 1720(b), but 1720(c)(5)(E) exempts privately owned residential projects whose public participation is below-market interest rate loans with at least 40% of units restricted for 20+ years at or below 80% AMI (applied in DIR PW 2016-035, Spring Park Senior Villa). Where a loan is drawn from HOME program income, HOME rules (24 CFR 92.354, Davis-Bacon at 12+ HOME-assisted units) follow that money. Outcome is project-specific.",
+   "audit_note": "Leave unclear: only basis is the general Labor Code 1720(b) public funds definition; coverage turns on 1720(c) exemptions and project facts. Searched LAHTF staff report, Labor Code 1720 and DIR coverage determinations 2026-11-08.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Riverside",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Housing Authority and Successor Agency land write-downs and surplus land dispositions (e.g., 2882 Mission Inn Avenue DDA, 11049 Bogart, 8733 Indiana)",
+   "administering_agency": "Housing Authority of the City of Riverside; Successor Agency to the Redevelopment Agency of the City of Riverside",
+   "funding_type": "land",
+   "typical_award_size": "Land conveyed at or near $1. Example: September 1, 2026 DDA conveys 2882 Mission Inn Ave (0.22 acre) to Grapevine Development for $1, a $245,861 write-down counted as HOME match, for 10 affordable units in a 64-unit mixed-use project; that project also pairs $900,000 City HOME and $250,000 City PLHA with LIHTC. Other Housing Authority sites: 11049 Bogart (DDA with NPHS, 22 PSH units), 8733 Indiana (RFP with adjacent Successor Agency parcel), 2348 University (duplex redevelopment).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Surplus Land Act: at least 25% lower income on the notice of availability, 55-year covenants; Grapevine DDA requires 2 units at 50% AMI and 8 at 60% AMI for 55 years.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Sites are offered through SLA notices and RFPs as they come up; watch Housing Authority agendas. The University Avenue Density Transfer Pilot (separate record) also targets City surplus parcels.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Land write-downs count as HOME match (City reports excess HOME match of $16.4M). Successor Agency parcels need Countywide Oversight Board approval and HCD SLA sign-off, which adds months. The County land program (county record) is separate.",
+   "source_url": "https://riversideca.legistar1.com/riversideca/attachments/b93e9147-b9ff-49dd-836f-73b65f7a2d6f.docx",
+   "record_id": "abdeea04e6",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Below-market land transfers are public funds under Labor Code 1720(b)(3) (https://california.public.law/codes/labor_code_section_1720). The Surplus Land Act sections read (Gov. Code 54233, https://california.public.law/codes/government_code_section_54233; 54233.5, https://california.public.law/codes/government_code_section_54233.5) impose affordability covenants only, not prevailing wage. No DDA or program term stating prevailing wage was found. The 2882 Mission Inn DDA also pairs $900,000 City HOME; HOME Davis-Bacon (24 CFR 92.354) applies only if 12 or more units are HOME-assisted, which the DDA staff report does not state.",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Riverside",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "City of Riverside HUD entitlement funds: HOME Infill Residential Development Program and CDBG (FY 2026-27 Annual Action Plan)",
+   "administering_agency": "City of Riverside Housing and Human Services Department",
+   "funding_type": "loan",
+   "typical_award_size": "FY 2026-27 HUD allocations total $9,050,906: CDBG $2,749,768, HOME $981,735 (of which $883,561 to the Infill Residential Development Program, plus about $200,000 HOME program income), ESG $250,428, HOPWA $5,068,975 (City is the HOPWA EMSA grantee for both Riverside and San Bernardino counties). Recent HOME loans: $1,508,234 Sunrise at Bogart (22 PSH units), $1,550,443 Mulberry Gardens Family (11 HOME units). HOME-ARP also used ($3,000,000 Mulberry Gardens Senior).",
+   "per_unit_cap": "HOME per-unit subsidy limits (HUD 221(d)(3) based).",
+   "affordability_requirement": "HOME: at or below 80% AMI with HOME rent limits; 20-year minimum HOME period for new construction, City typically records 55 years.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Public notice of funding availability released each December (last one December 2025) for the following July program year; FY 2027-28 notice expected about December 2026. Action Plan due to HUD by mid-August.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "City is its own HUD entitlement and is outside the Riverside Urban County CDBG/HOME pool in the county record. HOME is small (under $1M a year), so it functions as a slice of the local gap. Federal Davis-Bacon applies at 12 or more HOME-assisted units. The draft Action Plan says the City dedicates its direct PLHA allocation to affordable housing development as additional leverage.",
+   "source_url": "https://riversideca.legistar1.com/riversideca/attachments/b92b10a6-255f-45ef-bb95-804c8f95b9f6.docx",
+   "record_id": "2e35160dd1",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Riverside",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "City of Riverside Permanent Local Housing Allocation (PLHA) direct formula allocation, development loans",
+   "administering_agency": "City of Riverside Housing and Human Services Department",
+   "funding_type": "loan",
+   "typical_award_size": "Five-year PLHA plan (adopted July 7, 2020) estimated $9,732,750. CY 2023 application $2,456,509 (March 2025). Development loans to date: $1,000,000 Golden Pierce (79 units), $1,053,907 The Aspire (32 youth PSH units), $380,562 Sunrise at Bogart (22 PSH units), $250,000 proposed for Grapevine (10 units). A large share also goes to homeless case management ($1,384,134 City Net).",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "PLHA rules: rental units at or below 60% AMI (up to 120% AMI for owner units), 55-year covenants.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Awarded through Council-approved loan agreements; uncommitted amounts may be transferred to the Local Affordable Housing Trust Fund ($1.5M already moved). Contact Housing and Human Services.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "City receives its own PLHA formula share separate from the County PLHA record, so City projects can carry both a City and a County PLHA loan. Commonly stacked with City HOME and PIP on the same project (Sunrise at Bogart used PIP $1.44M, PLHA $380K and HOME $1.51M).",
+   "source_url": "https://riversideca.legistar1.com/riversideca/attachments/0e2435f5-b0f3-4816-8f98-68582b8bd16d.pdf",
+   "record_id": "86dae6d648",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "HCD 2024-2028 PLHA Formula Guidelines contain no prevailing wage or Labor Code 1720 provision, and the City staff report is silent. PLHA loans are public funds under Labor Code 1720(b), but the 1720(c)(5)(E) below-market loan exemption (40% of units at or below 80% AMI for 20+ years) can apply, as in DIR PW 2016-035. Outcome depends on project facts and other layered sources (City HOME triggers Davis-Bacon at 12+ HOME units under 24 CFR 92.354).",
+   "audit_note": "Leave unclear: only basis is the general Labor Code 1720(b) public funds definition; coverage turns on 1720(c) exemptions and project facts. PLHA guidelines and City staff report searched for prevailing wage 2026-11-08 with no hit.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Riverside",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Prohousing designation and Prohousing Incentive Program (PIP) loans, City of Riverside",
+   "administering_agency": "City of Riverside Housing and Human Services Department (designation by HCD)",
+   "funding_type": "loan",
+   "typical_award_size": "City has received $2.44M in PIP to date: $1,000,000 loan to Mulberry Gardens Family (149 units) and $1,440,000 to Sunrise at Bogart (22 PSH units). Council authorized an application for up to $1,440,000 in PIP Round 4 (March 24, 2026); loans come back to Council project by project.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "PIP-assisted units at or below 50% AMI; 55-year covenants in first position.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Prohousing designation (awarded March 30, 2023) expires January 1, 2027. The Housing and Homelessness Committee took up reapplication on August 31, 2026; a reapplication resolution and HCD submittal must happen before January 2027 for the City to keep PIP eligibility and Prohousing scoring points.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Designation also gives Riverside projects Prohousing points or preference in HCD competitive programs (AHSC, IIG and others), a meaningful edge for City sites. PIP residual receipts flow to the LAHTF. Risk: staff estimate 16 confident and up to 23 uncertain points against a 30-point threshold under the stricter 2024 criteria, so the designation could lapse. Recorded at city level because the City selects and lends to projects, although the money is HCD's.",
+   "source_url": "https://riversideca.legistar1.com/riversideca/attachments/6a5bf8ac-0390-4374-8266-cbdc5145ea9a.docx",
+   "record_id": "b9057c1e22",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing"
+   ],
+   "next_deadline_date": "2027-01-01",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "HCD PIP Round 4 Guidelines and the 2026 PIP Final Guidelines contain no prevailing wage provision (Labor Code is cited only for the H-2A agricultural employer restriction), and the City staff report is silent. PIP loans are public funds under Labor Code 1720(b), but the 1720(c)(5)(E) below-market loan exemption can apply to 50% AMI covenanted projects, as in DIR PW 2016-035. Outcome is project-specific.",
+   "audit_note": "Leave unclear: only basis is the general Labor Code 1720(b) public funds definition; coverage turns on 1720(c) exemptions and project facts. PIP guidelines (Round 4 and 2026) and City staff report searched 2026-11-08.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Riverside",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Riverside density bonus, Municipal Code Chapter 19.545",
+   "administering_agency": "City of Riverside Community and Economic Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Implements state density bonus law with a concession table (1 to 4 concessions; 100% affordable projects get 4 and, within half a mile of a major transit stop, up to three extra stories or 33 feet) and reduced parking ratios (1 space for 0-1 BR, 1.5 for 2-3 BR; 0.5 per unit near transit with at least 11% VLI or 20% low).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Eligibility per Gov. Code 65915: 5% VLI, 10% low, 10% moderate for-sale, 10% special populations, 20% lower income students, or 100% lower income with up to 20% moderate.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applied through entitlement review. Zoning Code amendments (PR-2024-001746 and the 2025 omnibus PR-2025-001793) updated Chapter 19.545 for 2024 state law changes.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancements beyond state law found; the chapter tracks Gov. Code 65915. City has no inclusionary ordinance or in-lieu fee fund, and no adopted citywide affordable housing fee deferral program was found. Pairs with the University Avenue Density Transfer Pilot (separate record) on eligible sites.",
+   "source_url": "https://riversideca.legistar1.com/riversideca/attachments/7d869dac-66e3-4bb9-9bc2-642278a8e580.pdf",
+   "record_id": "2af8e7b89e",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Moreno Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Moreno Valley Housing Authority, Housing Successor Low and Moderate Income Housing Asset Fund (LMIHAF) and housing successor land",
+   "administering_agency": "Moreno Valley Housing Authority (Housing Successor to the Community Redevelopment Agency), Financial and Management Services",
+   "funding_type": "loan",
+   "typical_award_size": "FY 2024-25: cash $6,494,846; total fund balance $38,030,093 (mostly loans and interest receivable); deposits $595,276. Excess surplus of $3,238,065 in FY 2024-25 must be spent or encumbered within three fiscal years or transferred to HCD; the prior FY 2023-24 excess was to be spent by June 30, 2026. Land: Fir/Heacock site going to the Linwood Rose 36-unit special needs apartments; Eucalyptus/Heacock to Lantana Court (7 ownership homes); JFK/Elm and Sheila/Perris dispositions starting; the Action Plan also lists Day/Alessandro (8.15 acres) as available.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "LMIHAF income and ELI spending tests (HSC 34176.1); 55-year rental covenants typical.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA posted. The excess surplus creates a spend-down deadline (FY 2024-25 excess by about June 30, 2028), so the Authority has a strong incentive to commit funds to a ready project. Contact the Financial and Management Services Grants Division.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Best near-term local cash in Moreno Valley. The City has no Section 8 authority (HACR administers about 1,100 vouchers and 66 RAD PBV units in the City), so HACR PBVs (county record) are the rental subsidy layer. Stack with City HOME (separate record) and County PLHA/HOME-ARP. moval.org and moval.gov both served documents without blocking.",
+   "source_url": "https://moval.gov/departments/financial-mgmt-svcs/pdf/MorenoValleyHousingSuccessorReportFiscalYear2024-25.pdf",
+   "record_id": "4de0dd149e",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": "2028-06-30",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Housing successor loans and land are public funds under Labor Code 1720(b)(1) and (b)(3) (https://california.public.law/codes/labor_code_section_1720); 1720(c)(4) exempts only Low and Moderate Income Housing Fund money under Health and Safety Code 33334.2 and 33334.3 and does not name housing successor asset funds, and 1720(c)(5)(E) exempts below-market loans where at least 40% of units are restricted to 80% AMI for 20 years. No program rule, NOFA or agreement term stating prevailing wage was found.",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Moreno Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Moreno Valley HOME Investment Partnerships Program and CDBG annual application round",
+   "administering_agency": "City of Moreno Valley Financial and Management Services, Grants Division",
+   "funding_type": "loan",
+   "typical_award_size": "FY 2026-27: HOME $623,617 (CHDO set-aside $93,542; $467,714 for other activities; 10% admin), CDBG about $1.9M, ESG about $172,000. The adopted Action Plan (July 2026) also carries $2,265,372 in unencumbered HOME funds with activity TBD, available for a rental project.",
+   "per_unit_cap": "HOME per-unit subsidy limits.",
+   "affordability_requirement": "HOME rent and income limits (at or below 80% AMI; 20-year minimum affordability for new construction).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. The PY 2027-28 CDBG, ESG and HOME application period is expected to open in December 2026 with a late January 2027 deadline; ask the Grants Division about the $2.27M unencumbered HOME balance now.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "HUD classifies Moreno Valley as fiscally distressed, giving a 50% HOME match reduction. Moreno Valley is its own entitlement city, outside the County Urban County pool. The Action Plan also lists PLHA, Prohousing Incentive Pilot and former RDA housing funds as leverage. Davis-Bacon applies at 12 or more HOME units.",
+   "source_url": "https://id3464.securedata.net/moreno-valley/departments/financial-mgmt-svcs/pdf/CDBG/2026-2027/FY-26-27-HOME-ApplicationWorkshop.pdf",
+   "record_id": "aa9f59c178",
+   "cycle_notes": "One combined annual application period for CDBG, ESG and HOME via PlanetBids. FY 2026-27: NOFA December 2025, HOME applications opened December 12, 2025 and were due January 30, 2026. PY 2027-28: City Council public hearing to adopt Objectives and Policies and take community needs comments on December 1, 2026; PY 27-28 Objectives and Policies, income limits and citizen participation plan are posted. Grants Division: grantadmin@moval.org, (951) 413-3450.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Moreno Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Moreno Valley density bonus program, Municipal Code Section 9.03.050 (with impact fee reductions)",
+   "administering_agency": "City of Moreno Valley Community Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Implements state density bonus law plus a local fee incentive: 50% reduction of the development impact fee and parkland impact mitigation fee for VLI units and 25% for lower income units (Section 9.03.050.I.2). Up to four concessions; projects within half a mile of a major transit stop also get up to three more stories or 33 feet.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Gov. Code 65915 thresholds (5% VLI, 10% lower, 10% moderate for-sale, 100% lower income with up to 20% moderate, and special populations); 55-year affordability agreement for rental units.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applied at entitlement; last amended by Ord. 1035 (December 16, 2025).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "The fee reduction is a real local enhancement beyond state law and can be requested as an additional incentive. A City fee reduction may count as public funds under Labor Code 1720. No local housing trust fund, inclusionary ordinance or in-lieu fee fund was found for Moreno Valley. Code read on the zoneomics mirror.",
+   "source_url": "https://www.zoneomics.com/code/moreno-valley-CA/chapter_3",
+   "record_id": "ed88fe25f7",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": "2025-12-16",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. Section 9.03.050.I.2 reduces the development impact fee and parkland fee 50 percent for very low income units and 25 percent for lower income units; the density bonus itself provides no public funds (1720(a)(1)). Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Corona",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Corona development impact fee waiver or deferral for affordable housing",
+   "administering_agency": "City of Corona (City Council; Housing Services and Planning)",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Case by case. On the 2nd Street Family project the City deferred up to $2,000,000 in development impact fees into a promissory note repaid over 55 years.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Tied to the affordability terms of the project's DDA or density bonus agreement.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Requested at predevelopment and approved by Council resolution with the project agreement. The FY 2026-27 Action Plan commits staff to educate affordable developers on how to request a waiver or deferral.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "No standing fee deferral ordinance was found; treat as negotiable. Deferred fees held as a City loan count as public funds for prevailing wage. Useful to reduce the gap at construction closing.",
+   "source_url": "https://cdn.prod.website-files.com/65799af8ef225180fdf1ba2e/69cd88593e905eafa153a5f7_Corona%20Annual%20Action%20Plan%2026-27.pdf",
+   "record_id": "0f72af08b1",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Fees reduced, waived, deferred or reimbursed are public funds under Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720); whether a project is covered depends on 1720(c)(3) de minimis (under $600,000 and 2% of project cost) and other 1720(c) exemptions. No program rule stating prevailing wage was found.",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Corona",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Corona CDBG, HOME and HOME-ARP (FY 2026-27 Annual Action Plan)",
+   "administering_agency": "City of Corona Housing Services Division",
+   "funding_type": "grant",
+   "typical_award_size": "FY 2026-27 CDBG and HOME investment $1,844,570; about $8.9M expected over the 2025-2029 Consolidated Plan. HOME is mostly programmed to tenant-based rental assistance ($656,979 TBRA, 20 households). HOME-ARP allocation $1,801,873 (as amended July 2025), part committed to 2nd Street ($529,875).",
+   "per_unit_cap": "HOME per-unit subsidy limits.",
+   "affordability_requirement": "Low and moderate income (at or below 80% AMI); HOME rent limits.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Annual Action Plan adopted each spring for a July 1 program year; FY 2027-28 cycle expected to start winter 2026-27. Little HOME is left for development after TBRA; ask Housing Services before counting on it.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Corona is its own entitlement, not part of the County Urban County. CDBG has been used for land acquisition for housing ($600K on 2nd Street). Corona does not qualify for a HOME match reduction. The Action Plan also lists SB 2 PLHA as a resource.",
+   "source_url": "https://cdn.prod.website-files.com/65799af8ef225180fdf1ba2e/69cd88593e905eafa153a5f7_Corona%20Annual%20Action%20Plan%2026-27.pdf",
+   "record_id": "bc193d5659",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Corona",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Corona density bonus housing agreements, Municipal Code Chapter 17.87",
+   "administering_agency": "City of Corona Planning and Housing Commission and City Council",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Procedures for state density bonus law (Gov. Code 65915-65918) through a density bonus housing agreement that lists incentives, waivers and parking reductions; filing fee set by Council resolution.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Gov. Code 65915 thresholds; term of affordability per Section 17.87.060(B).",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Agreements are reviewed by the Planning and Housing Commission and approved by Council (e.g., AHDB2023-0002 for 115 units and AHDB2023-0003 for 25 PSH units, July 2024).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local bonus beyond state law found. Corona has no inclusionary ordinance or in-lieu fee fund, and no local housing trust fund was found. Amended by Ord. 3391 (2024).",
+   "source_url": "https://www.zoneomics.com/code/corona-CA/chapter_54",
+   "record_id": "9a9fc3f3a5",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Temecula",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Temecula housing successor assets and remaining former RDA Tax Allocation Bond proceeds for affordable housing",
+   "administering_agency": "City of Temecula Community Development Department (Housing Successor to the Temecula Redevelopment Agency)",
+   "funding_type": "loan",
+   "typical_award_size": "Remaining Tax Allocation Bond proceeds are available for affordable housing (balance not published in the documents read). Recent local deals: Las Haciendas (132 units, certificates of occupancy 2024) and Rancho Las Bolsas (26 NPLH units).",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "Lower income; bond covenants and LMIHAF rules apply; the City inspects RDA/SARDA-funded projects annually.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA. The City makes bond proceed information available to developers through the development application process; contact Community Development (Housing and Real Estate Analyst).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Temecula is a CDBG-only entitlement ($606,465 in FY 2026-27, used for public services and capital projects, not new rental construction) and receives no HOME, so these bond proceeds plus City land are its only cash layer. County HOME and PLHA (county records) are the other local options. A housing successor annual report with the bond balance was not found; request it.",
+   "source_url": "https://temeculaca.legistar1.com/temeculaca/attachments/01f0643f-4dae-46ac-aa6c-ff8cd2968734.pdf",
+   "record_id": "0967d1946b",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Housing successor loans and land are public funds under Labor Code 1720(b)(1) and (b)(3) (https://california.public.law/codes/labor_code_section_1720); 1720(c)(4) exempts only Low and Moderate Income Housing Fund money under Health and Safety Code 33334.2 and 33334.3 and does not name housing successor asset funds, and 1720(c)(5)(E) exempts below-market loans where at least 40% of units are restricted to 80% AMI for 20 years. No program rule, NOFA or agreement term stating prevailing wage was found. Former RDA tax allocation bond proceeds are public funds under 1720(b)(1); no bond covenant or City rule on prevailing wage was found.",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Temecula",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Temecula Uptown city-owned parcel affordable housing RFP (APN 910-262-061, 1.83 acres)",
+   "administering_agency": "City of Temecula Community Development Department",
+   "funding_type": "land",
+   "typical_award_size": "City may donate the 1.83-acre parcel in the Uptown Temecula Sports District as its contribution. A June 2025 RFP drew 6 proposals; the City plans to add adjacent City land and reissue in 2026.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Intended as 100% affordable (SLA exemption requested), with interest in short to medium term housing for families at risk of homelessness and a mix of unit types and incomes; 55-year covenants expected.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "Reissue expected in 2026 per the 2025 Annual Progress Report; not yet seen in Legistar as of 2026-11-08. Watch Council agendas and the City bid portal.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Site sits in the Uptown Temecula Specific Plan (amended July 2026) and can pair with the AHO and density bonus. A land donation counts as a local public contribution in TCAC scoring and tie-breakers.",
+   "source_url": "https://temeculaca.legistar1.com/temeculaca/attachments/f62eac50-0962-4a7a-9224-782cffc996f9.docx",
+   "record_id": "8724e5aeb5",
+   "cycle_notes": "RFP to be reissued",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Below-market land transfers are public funds under Labor Code 1720(b)(3) (https://california.public.law/codes/labor_code_section_1720). The Surplus Land Act sections read (Gov. Code 54233, https://california.public.law/codes/government_code_section_54233; 54233.5, https://california.public.law/codes/government_code_section_54233.5) impose affordability covenants only, not prevailing wage. No DDA or program term stating prevailing wage was found.",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Temecula",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Temecula Affordable Housing Overlay Zoning District, Development Code Chapter 17.21",
+   "administering_agency": "City of Temecula Community Development Department, Planning Division",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. By-right approval on 44 mapped parcels (just over 100 acres, capacity about 2,007 affordable units) at 20 to 30 units per acre for projects reserving at least 20% of units for households at or below 80% AMI; mixed use allowed in Uptown if residential is at least 50%.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "At least 20% of units at or below 80% AMI, deed-restricted at least 55 years by recorded regulatory agreement.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Ongoing (Ord. 18-09, 2018; Ord. 20-06).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "By-right path reduces entitlement risk. Density bonus is allowed but the AHO caps the base for bonus purposes at 30 units per acre. Regular impact fees (DIF, TUMF, MSHCP) still apply unless deferred under a development agreement (separate record).",
+   "source_url": "https://www.zoneomics.com/code/temecula-CA/chapter_16",
+   "record_id": "64db3f1f31",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Temecula",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Temecula development fee deferral and reimbursement through development agreements",
+   "administering_agency": "City of Temecula Community Development Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Case by case deferral or reimbursement of City development fees for qualifying senior and affordable projects; Las Haciendas and Rancho Las Bolsas received fee deferrals and new reimbursement agreements were entered in 2025. Amounts not published.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Tied to the project's affordability agreement.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Negotiated through a development agreement; contact Community Development early in entitlement.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Housing Element programs commit the City to continue fee deferral and reimbursement and expedited review. Fee reimbursement is a public subsidy for prevailing wage purposes.",
+   "source_url": "https://temeculaca.legistar1.com/temeculaca/attachments/01f0643f-4dae-46ac-aa6c-ff8cd2968734.pdf",
+   "record_id": "9669a486bc",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Fees reduced, waived, deferred or reimbursed are public funds under Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720); whether a project is covered depends on 1720(c)(3) de minimis (under $600,000 and 2% of project cost) and other 1720(c) exemptions. No program rule stating prevailing wage was found.",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Palm Springs",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Palm Springs Affordable and Multi-Family Housing Incentive Program (Resolution No. 24654), impact fee reduction and deferral",
+   "administering_agency": "City of Palm Springs (Planning and Building)",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Sliding scale reduction of developer fees and development impact fees from 100% to 1% based on the number and share of affordable units; deferral of fee payment to certificate of occupancy; 50% reduction for market-rate apartments; ADU fee reductions.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "New housing restricted to lower income households for the affordable tier.",
+   "eligible_project_types": [
+    "new construction",
+    "adu"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Rolling; no application deadline. Program adopted 2019 (Resolution No. 24654) and slated for continued implementation through 2021-2029 per the Housing Element.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Unusually generous for the Coachella Valley; stack with the City gap loans and the 93.23.17 density bonus. Fee reductions are public funds for prevailing wage. Program described in the 2021 Housing Element draft on the HCD site; the City resolution and current fee schedule could not be opened (palmspringsca.gov 403).",
+   "source_url": "https://hcd.ca.gov/housing-elements/docs/palm-springs-6th-draft080221.pdf",
+   "record_id": "f31b6672ca",
+   "cycle_notes": "Fee relief applied per project at entitlement; fees deferred to certificate of occupancy.",
+   "eligible_project_detail": [
+    "new construction",
+    "adu"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Fees reduced, waived, deferred or reimbursed are public funds under Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720); whether a project is covered depends on 1720(c)(3) de minimis (under $600,000 and 2% of project cost) and other 1720(c) exemptions. No program rule stating prevailing wage was found."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Palm Springs",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Riverside",
+   "confidence": "verified",
+   "program_name": "Palm Springs density bonus, Zoning Code Section 93.23.17",
+   "administering_agency": "City of Palm Springs Planning Services Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Implements Gov. Code 65915-65918 with on-menu and off-menu incentives, parking alterations and waivers; the City Council may approve a density bonus above state limits by resolution with Housing Element findings.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Gov. Code 65915 thresholds.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applied at entitlement.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "The Council discretion to exceed state bonus limits is a local enhancement. No inclusionary ordinance or local housing trust fund was confirmed. Code read on the zoneomics mirror.",
+   "source_url": "https://www.zoneomics.com/code/palm-springs-CA/chapter_3",
+   "record_id": "bda47738bd",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ }
+]

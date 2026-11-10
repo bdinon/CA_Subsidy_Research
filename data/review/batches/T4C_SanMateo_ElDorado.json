@@ -1,0 +1,845 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Redwood City",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Affordable Housing Ordinance (Zoning Code Article 29): inclusionary units and Affordable Housing Impact Fee",
+   "administering_agency": "City of Redwood City, Housing Services (City Manager's Office) and Community Development",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Rental projects of 20 or more units: 20% affordable (10% moderate, 5% low, 5% very low income). Ownership projects of 20 or more units: 15% moderate income. Projects of 5 to 19 units and nonresidential projects over 5,000 square feet pay the Affordable Housing Impact Fee (Resolution 15462 of 2015; nonresidential rates raised December 20, 2021 to $23.62 per square foot for office, medical office and R&D and $5.91 for hotel, retail, restaurant and services; residential small-project rate reported at about $20 to $25 per square foot, with a temporary 25% reduction for 5 to 19 unit projects that pull vertical permits by June 30, 2027). Fees fund the City's affordable housing NOFA.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Rental units restricted at least 55 years, ownership at least 30 years, recorded covenants in first position; fractional units met by an extra unit or in-lieu fee set by Council resolution; 100% affordable projects exempt from the fee.",
+   "eligible_project_types": [
+    "mixed-income",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement; fees due before the first building permit. The 2026 San Mateo County multi-city nexus study (Strategic Economics, Redwood City is a participant) may change percentages and fees in 2027.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. Redwood City is the deepest inclusionary program in the county at 20% for rental with a very low income tier, which is why most downtown projects negotiate on-site units rather than pay the fee and why the impact fee fund grows mainly from commercial projects (Elco Yards is expected to pay about $5.8 million in 2026). Alternative compliance plans (off-site, land, conversions) go to Council. The ordinance text is on the City's code host (source, Article 29, Ordinances 1130-375 of 2018, 2498 of 2021, 1130-387 of 2023 and 1130-890 of 2024); fee amounts are from the December 20, 2021 staff report on meetings.redwoodcity.org because redwoodcity.org returns 403 to automated access. Confirm the current residential fee and the 25% reduction with Housing Services at (650) 780-7000.",
+   "source_url": "https://www.zoneomics.com/code/redwood-city-CA/chapter_28",
+   "record_id": "42daa121ce",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate multifamily (compliance)",
+    "mixed-income projects",
+    "100% affordable projects (fee exempt)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Redwood City",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Affordable Housing NOFA and Preservation Program (impact fee fund loans)",
+   "administering_agency": "City of Redwood City, Housing Services",
+   "funding_type": "loan",
+   "typical_award_size": "NOFA issued October 23, 2025 for $7,960,000 ($4,650,000 former RDA LMIHF plus $3,310,000 Affordable Housing Impact Fees), with about $5.8 million in expected Elco Yards (1601 El Camino Real) housing impact fees added. Two applications. May 11, 2026 staff recommendation: Rise City Apartments (1304 Middlefield Road, Sand Hill Property Company, 94 units, 20% to 70% AMI, 24 PSH units) $7,960,000 in new permanent loans, for a total City commitment of $12,326,460 including $4,366,460 (HOME and housing funds) awarded February 2024; 1580 Maple Street (MidPen Housing, 79 units, 20% to 40% AMI, City-owned land appraised at $5,140,000 contributed by ground lease) $5,000,000 ($500,000 predevelopment loan plus $4,500,000 permanent loan conditional on receipt of the Elco Yards fees). Total City funding allocated $17,326,460. Permanent loan terms: residual receipts, 3% simple interest, 57-year term, 55-year regulatory term. Redwood City Pulse reported Council approval on May 11, 2026. Separate Affordable Housing Preservation Program: over-the-counter gap loans to convert market-rate units to deed-restricted units or preserve expiring restrictions; first project 417 Stambaugh Street (8 units, about $1.2 million loan, June 2025); about $5.8 million remained in HPP funds; guideline amendments were on the May 11, 2026 agenda.",
+   "per_unit_cap": "NOFA guidelines limit RDA LMIHF and impact fee subsidy to $200,000 per City-regulated unit; Council raised the limit to $300,000 per unit for the 2026 awards (the City regulates no more than 49% of units to stay outside Article 34). HOME funds follow HUD per-unit limits.",
+   "affordability_requirement": "New construction multifamily rental of 5 or more units; all City-funded units at or below 80% AMI and at least 15% of units at or below 30% AMI (extra points for more extremely low income units); 55-year City regulatory agreement (HOME units also carry the 20-year HOME term).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. The last NOFA was issued October 23, 2025 and awarded May 11, 2026; no new NOFA appears on City Council agendas through November 9, 2026. Preservation Program is over the counter.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. City loans are residual receipts loans repaid from cash flow after operating expenses, hard debt and reserves, and are sized to leverage County AHF, HACSM PBVs and 4% or 9% credits; 1580 Maple shows the City-County land plus City fee money pattern. Marked needs_confirmation because redwoodcity.org (NOFA page, Preservation Program guidelines, fee schedule) returned 403 to automated access and figures come from the May 12, 2026 Redwood City Pulse report (source) and the City's meetings portal; confirm award terms with Housing Services.",
+   "source_url": "https://meetings.redwoodcity.org/AgendaOnline/Meetings/ViewMeeting?id=2675&doctype=1",
+   "record_id": "f0495b3670",
+   "cycle_notes": "Competitive NOFA released when former RDA LMIHF and housing impact fee balances allow (prior awards February 2024 and May 2026); not on a fixed annual calendar. Scoring: readiness to proceed, physical design and location, affordability, budget. Affordable Housing Preservation Program accepts applications over the counter through the City's Neighborly online portal.",
+   "eligible_project_detail": [
+    "new construction multifamily rental",
+    "permanent supportive housing",
+    "acquisition and preservation (Preservation Program)",
+    "City-owned land"
+   ],
+   "next_deadline_date": "2026-11-09",
+   "deadline_check": "future_date",
+   "prevailing_wage_basis": "City Project Approval and Commitment summaries in the May 11, 2026 Council packet state both NOFA projects must pay state prevailing wages (Labor Code 1720 et seq.; SB 35 projects also need a skilled and trained workforce), and Davis-Bacon applies where 12 or more HOME-assisted units are funded.",
+   "audit_note": "Award figures and terms verified in the official May 11, 2026 City Council agenda packet (item 9.A staff report, resolution and PAC summaries; item 7.F Preservation Program). Final Council vote taken from Redwood City Pulse; May 11 minutes not located. Prior record overstated the 1580 Maple award ($5.8 million is the expected Elco Yards fee; staff recommended $5.0 million).",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Mateo",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Below Market Rate (BMR) inclusionary program and in-lieu fees (SMMC 27.16.050)",
+   "administering_agency": "City of San Mateo Community Development Department, Neighborhood Improvement and Housing Division",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Projects of 11 or more units: 15% of rental units for lower income households (rents at 30% of 50% to 70% AMI, 4% annual increase cap) and 15% of ownership units for moderate income (100% to 110% AMI). Projects of 5 to 10 units and fractional units pay the BMR Housing Fee (Resolution 121 of 2008; FY 2026-27 schedule: rental $171,273 for a 5-unit project up to $342,545 for 10 units, ownership $157,187 to $314,373; fractional units $34,255 per 0.1 rental unit and $31,438 per 0.1 ownership unit). In-lieu fees are otherwise not allowed. BMR Housing Fee fund balance $254,281 at June 30, 2026 with $2,560,924 programmed for housing land purchase.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "55-year restrictions; BMR units may be up to 10% smaller than market units (20% where market units exceed 2,000 square feet); density bonus projects must provide BMR units equal to at least 15% of the base density; off-site and applicant-proposed alternatives need Council findings (Guidelines Resolution 72, June 16, 2025).",
+   "eligible_project_types": [
+    "mixed-income",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at planning application; fees indexed in the annual Comprehensive Fee Schedule each July 1. The City is a participant in the 2026 multi-city nexus study.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. San Mateo's program is unit-first: no fee option above 10 units, so inclusionary units are a given in every downtown and Hillsdale project and the City's cash sources are the Commercial Linkage Fee and the small BMR fee. Source is the adopted FY 2026-27 Comprehensive Fee Schedule (pages 11.1 to 11.2); program rules from the BMR Guidelines (cityofsanmateo.org/DocumentCenter/View/99291) and the FY 2025-26 Mitigation Fee Act report (DocumentCenter/View/107918).",
+   "source_url": "https://www.cityofsanmateo.org/DocumentCenter/View/105420/Master-Fee-Schedule-26-27",
+   "record_id": "aac4d53285",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate multifamily (compliance)",
+    "mixed-income projects"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Mateo",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Affordable Housing Commercial Linkage Fee fund (SMMC Chapter 23.61)",
+   "administering_agency": "City of San Mateo Community Development Department",
+   "funding_type": "loan",
+   "typical_award_size": "Fee on net new nonresidential construction over 5,000 square feet, adopted September 2016 (Ordinance 2016-8): office, R&D and medical office $32.76 per square foot, hotel $13.11, retail, restaurant and services $6.55 (FY 2025-26 and FY 2026-27). 25% rebate for projects that sign a Standard Wage (area standard or prevailing wage) agreement; alternative of building 8 low-income units per 100,000 square feet of office, 3 per 100,000 of hotel, 1 per 100,000 of retail. Fund activity FY 2025-26: beginning $3,551,934, fees $1,090,711, loan repayments $514,717, ending balance $5,292,314 with $1,000,000 set aside for the Bespoke project and $4,000,000 programmed for housing land purchase.",
+   "per_unit_cap": "Not published.",
+   "affordability_requirement": "Fund must support creation or preservation of housing for lower and moderate income workers; projects carry City regulatory agreements.",
+   "eligible_project_types": [
+    "new construction",
+    "preservation",
+    "predevelopment"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA. The City commits linkage fee money by Council action; the FY 2025-26 report programs $4 million toward housing land purchase. Contact housing@cityofsanmateo.org, (650) 522-7220.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. Reclassified from other to loan: the fund has deployable money and records loan repayment income ($514,717 in FY 2025-26), so it lends to affordable projects, and the five-year plan programs $4,000,000 to Housing Land Purchase (CIP 310416). After the $1,000,000 Bespoke set-aside and the $4,000,000 land purchase, only about $0.3 million of the $5,292,314 ending balance is unprogrammed, so new requests depend on future fee receipts. Pair a request with the County AHF NOFA. The City is a CDBG entitlement and joins the County HOME Consortium. Source is the FY 2025-26 Mitigation Fee Act (AB 1600) annual report; fee rates confirmed in the FY 2026-27 Comprehensive Fee Schedule.",
+   "source_url": "https://www.cityofsanmateo.org/DocumentCenter/View/107918/FY2025-26-AB1600",
+   "record_id": "f41bb3608a",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "land acquisition for affordable housing",
+    "new construction gap loans",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. The City of San Mateo FY 2025-26 AB 1600 fee report states no wage rule for affordable housing loans; it notes only that developers paying area standard wages get a 25 percent reduction of a separate development fee. https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Daly City",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Inclusionary Housing Ordinance (DCMC Chapter 17.47, Ordinance 1423) and Affordable Housing Trust Fund",
+   "administering_agency": "City of Daly City Economic and Community Development, Housing and Community Development Division",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Residential developments of 5 or more units: for-sale projects provide 20% of units at moderate income; rental projects provide 10% at low income (rents at 30% of 70% AMI). On-site units required at 15 or more for-sale units and 20 or more rental units; smaller projects pay the Required In Lieu Fee. Rental developers may instead elect the Alternative In Lieu Fee, and rental projects over 50 units may combine on-site units (at least half the requirement or 5% of units) with Required In Lieu Fees. Fees per square foot of livable space (Resolution 18-174, November 26, 2018, as posted by the City): Required In Lieu Fee $45 ownership and $35 rental; Alternative In Lieu Fee $48 (rental only). Projects approved before July 1, 2018 pay the older Affordable Housing Impact Fee ($21 to $35 per square foot after February 1, 2020). Fees go to the Affordable Housing Trust Fund, which the City uses with state and HUD funds for 100% affordable projects (Daly City is a CDBG and HOME entitlement city).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "55-year restrictions; on-site units earn state density bonus, waivers and concessions under the Affordable Housing Plan; local preference ordinance (September 2026) gives Daly City residents and workers preference for 70% of affordable units.",
+   "eligible_project_types": [
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement; Alternative In Lieu Fees are due in full at building permit issuance. In-lieu fees are set by Council resolution (current posted schedule is Resolution 18-174). Daly City is a participant in the 2026 multi-city nexus study.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. Daly City's rental requirement (10% low income) is the lightest among the eight cities covered, and the City's own money for 100% affordable deals comes from the Trust Fund, its HOME and CDBG entitlements and the housing successor fund rather than a NOFA; the County's $14 million Midway Village loan and City loans reported at about $7.7 million for the 72-unit 493 Eastmoor project (CMFA bonds up to $25 million authorized February 9, 2026, per news summaries not opened) show the pattern. Source is the ordinance PDF on dalycity.org; the fee amounts are unconfirmed, hence needs_confirmation. Contact hcd@dalycity.org, (650) 991-8068.",
+   "source_url": "https://www.dalycity.org/DocumentCenter/View/926/Inclusionary-Housing-Ordinance-PDF",
+   "record_id": "413eb60598",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate multifamily (compliance)",
+    "100% affordable projects (Trust Fund loans)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Tier 1 audit read the ordinance PDF and the fee resolution (DocumentCenter/View/925, a scanned PDF read by rendering the page). The September 2026 local preference ordinance was not checked against a source in this audit.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Daly City",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Daly City Housing Development Finance Agency land offerings and housing successor fund (Carter/Martin site RFQ)",
+   "administering_agency": "Daly City Housing Development Finance Agency (housing successor to the former Redevelopment Agency), Economic and Community Development",
+   "funding_type": "land",
+   "typical_award_size": "Request for Developer Qualifications issued August 14, 2026 for an approximately 12.5-acre Agency-owned site at Carter and Martin Streets in the Bayshore neighborhood next to the Cow Palace (APNs 005-050-240 and 005-380-020, zoned C-1, former RDA housing asset with Community Redevelopment Law affordability obligations), marketed under Surplus Land Act exemptions for 100 or more units with at least 25% lower income or 100% affordable mixed use. Housing Asset Fund (Fund 11) balance $4,461,128 at June 30, 2025 with net deposits of $298,048 in FY 2024-25.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "At least 25% of units restricted to lower income households (or 100% affordable with 75% lower income) under the Surplus Land Act exemption; housing successor funds limited to 80% AMI and below with 30% minimum for extremely low income over each five-year period.",
+   "eligible_project_types": [
+    "mixed-income"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "RFQ responses were due October 16, 2026 at 5:00 pm; developer selection and exclusive negotiation follow. No other Agency sites are offered.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. Reclassified from other to land: the deployable value is the Agency-owned 12.5-acre site offered for sale or ground lease under Surplus Land Act exemptions (100 or more units with at least 25% lower income, or 100% affordable mixed use with 75% lower income). Carter/Martin will need extensive site work (slopes, wetlands, soils); the Agency can contribute land value and successor funds but will look to the County AHF, HACSM PBVs and state programs for the capital stack. Source is the RFQ document on dalycity.org; successor fund figures from the FY 2024-25 Housing Successor Annual Report (dalycity.org/DocumentCenter/View/12949).",
+   "source_url": "https://www.dalycity.org/DocumentCenter/View/13545/Carter-Martin-August-2026-RFQ-issued",
+   "record_id": "34c146ffa6",
+   "cycle_notes": "One-time RFQ for the Carter/Martin site. Tentative RFQ timeline: SOQs due October 16, 2026; review October 19 to 30; special Agency Board developer interviews November 9; developer selection November 23; ENA consideration December 14, 2026.",
+   "eligible_project_detail": [
+    "large mixed-income or 100% affordable development on Agency land",
+    "ground lease or sale"
+   ],
+   "next_deadline_date": "2026-10-16",
+   "deadline_check": "past_date",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. A sale or ground lease of Agency land below fair market value is public funds under 1720(b)(3); the August 2026 Carter/Martin RFQ contains no prevailing wage term, and the Surplus Land Act (Gov. Code 54221, 54233) adds affordability rules but no wage requirement. https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of South San Francisco",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Commercial Linkage Fee fund (Fund 823) and Affordable Housing Trust Fund loans",
+   "administering_agency": "City of South San Francisco Economic and Community Development Department, Housing Division",
+   "funding_type": "loan",
+   "typical_award_size": "Commercial Linkage Fee (SSFMC 8.69, adopted 2018): office and R&D $17.38 per square foot, hotel $5.80, retail, restaurant and services $2.90 (January 2025 handout). Fund 823 revenue swung from $7.5 million (FY 2022-23) to a projected $1.5 million in FY 2025-26, $19.3 million in FY 2026-27 and $8.5 million in FY 2027-28 (Genentech, Trammell Crow and Healthpeak payments); projected year-end FY 2024-25 balances were $14 million in Fund 823, $200,000 in the Affordable Housing Trust Fund (Fund 205) and $1 million in the housing successor fund (Fund 241). City loans: Rotary Gardens Phase 1, 500 Linden Avenue, up to $7,867,409 (August 11, 2026); Synergy Community Development acquisition of the Metropolitan Hotel, 220 Linden, up to $3,115,000 from Fund 823 (February 24, 2026); 1051 Mission Road (BRIDGE, 158 units, PUC site) $2,000,000 raised to $2,362,000 as the LHTF match plus up to $14.6 million committed April 22, 2026 from the first market-rate phase for Measure K and tax credit applications; 428-432 Baden (For the Future Housing, 36 units) $4,050,000; 201-219 Grand and 418 Linden (ROEM, 84 units) $3,500,000; 201 Baden (Eden, 82 units) $2,362,500 LHTF. City also holds a $28,817,500 IIG grant for 1051 Mission and $890,000 PIP.",
+   "per_unit_cap": "Not published; recent awards range from about $25,000 to $94,000 per unit.",
+   "affordability_requirement": "Trust Fund serves low and moderate income households; LHTF-matched loans require extremely low and very low income units; 55-year City regulatory agreements.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "adu",
+    "homeownership",
+    "predevelopment"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No standing NOFA; the Affordable Housing Financing Plan (May 2025, FY 2025-27) says the City will time NOFAs, acquisitions and rehabilitation around linkage fee payouts, with 66% of projected revenue arriving in FY 2026-27. Requests go to Council through the Housing Division (housing@ssfca.gov, (650) 829-6620).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. South San Francisco has the largest city housing fund in the county after the linkage fee rebound and uses it as the first-in local loan (residual receipts) ahead of County AHF, state IIG and LHTF money; the City also waives or pays permit fees from Fund 823 for public housing work (C Street electrification, August 2026) and holds TEFRA hearings for CMFA bonds (Rotary Gardens, August 2026). City-owned sites: 1051 Mission Road (PUC site, Development Agreement amended April 24, 2026), 220 Linden and 905 Linden under negotiation in 2026. Source is the Housing Division funding page; figures from the Affordable Housing Financing Plan PDF and Council files on ci-ssf-ca.legistar.com (Legistar API client ci-ssf-ca).",
+   "source_url": "https://www.ssfca.gov/Departments/Economic-and-Community-Development/Divisions/Housing-Division/Funding-Sources-for-Affordable-Housing",
+   "record_id": "8378406017",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction multifamily rental",
+    "preservation and acquisition (SRO and hotel conversions)",
+    "multifamily rehabilitation",
+    "ADU construction",
+    "predevelopment loans",
+    "limited equity cooperatives",
+    "first-time homebuyer loans"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. First-time homebuyer and single-family assistance is exempt under 1720(c)(5)(C). The SSF Funding Sources for Affordable Housing page states no prevailing wage rule. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Menlo Park",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Below Market Rate (BMR) Housing Fund NOFA 2026/27",
+   "administering_agency": "City of Menlo Park Community Development Department, Housing Division",
+   "funding_type": "loan",
+   "typical_award_size": "Approximately $4 million available for the production and preservation of permanent affordable housing, awarded competitively by the City Council; PlanetBids listing cites award sizes of about $300,000 to $800,000. Additional consideration for extremely low income units, special populations and preservation or rehabilitation of multifamily housing. Emergency shelters and transitional housing are not eligible. The prior round (January 2023) offered $1.5 million to $2 million; the City also contributed $1 million to a teacher housing project in November 2024.",
+   "per_unit_cap": "Not published.",
+   "affordability_requirement": "Permanent affordability consistent with the BMR Housing Program Guidelines (October 21, 2025) and the Housing Element; priority to extremely low income and special needs units.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "homeownership"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Applications due 5:00 pm Friday, November 20, 2026 on PlanetBids (invitation 2026-100926-101526; questions closed November 6, 2026); Housing Commission review winter 2027, Council award spring 2027. Housing Element Program H1.I requires a NOFA at least every two years.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. The BMR fund is capitalized by commercial in-lieu fees (office and R&D $23.26 per square foot in FY 2026-27) and residential in-lieu payments, so its size tracks Meta and life science approvals; $4 million is enough for one gap loan or a preservation deal and is typically paired with County AHF and HACSM PBVs. Source is the City's 2026 NOFA page; contact Arianna Milton, ANMilton@menlopark.gov, (650) 330-6705.",
+   "source_url": "https://www.menlopark.gov/Government/Departments/Community-Development/Housing/NOFA",
+   "record_id": "6e33f1967b",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction multifamily rental",
+    "acquisition and preservation",
+    "rehabilitation of existing affordable multifamily",
+    "affordable ownership"
+   ],
+   "next_deadline_date": "2026-11-20",
+   "deadline_check": "future_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. The Menlo Park NOFA page and 2026 draft NOFA announcement contain no prevailing wage term. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of East Palo Alto",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Inclusionary Housing Ordinance (Chapter 18.37) with in-lieu fees and Affordable Housing Commercial Linkage Fee",
+   "administering_agency": "City of East Palo Alto Housing Division, 1960 Tate Street",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Projects of 5 or more units: rental 20% on-site (5% at 35% AMI, 10% at 50% AMI, 5% at 60% AMI) or, with Council approval, 25% off-site or an in-lieu fee of $299,200 per required unit (FY 2025-26); for-sale 20% on-site (10% median, 10% moderate) or 25% off-site or $268,800 per unit in lieu. Projects under 5 units pay a per-unit share ($59,840 to $239,360 rental). Commercial linkage fee (Resolution 118-2020, effective October 31, 2020, ENR-indexed each April 1) applies to office, R&D and medical office; retail, restaurant, service and hotel are charged $0; the City plans to update it in 2027 after the multi-city nexus study.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Ordinance 425 (November 19, 2019) and Guidelines (Resolution 142-2020); income limits follow HCD; SB 9 lot splits exempt (September 2025); in-lieu fees reset each July (FY 2025-26 adopted July 16, 2025).",
+   "eligible_project_types": [
+    "mixed-income",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement; fee schedule updated each July (comprehensive fee schedule effective July 18, 2026). East Palo Alto is a 2026 multi-city nexus study participant.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. East Palo Alto has the deepest rental targeting in the county (a 35% AMI tier) and uses the fees plus Measure HH and Measure JJ revenue to fund 100% affordable projects such as Colibri Commons and Light Tree; 148 inclusionary units were in the pipeline in 2024. Source is the City's inclusionary housing page; fee amounts from the in-lieu fee page and the linkage fee notice (updated October 16, 2026).",
+   "source_url": "https://www.cityofepa.org/housing/page/inclusionary-housing",
+   "record_id": "6e37d072ec",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate multifamily (compliance)",
+    "office and R&D development (fee payer)",
+    "mixed-income projects"
+   ],
+   "next_deadline_date": "2026-07-18",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of East Palo Alto",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Affordable Housing Preservation Program (over-the-counter fund)",
+   "administering_agency": "City of East Palo Alto Housing Division",
+   "funding_type": "loan",
+   "typical_award_size": "Council allocated just over $2 million to the program; applications accepted over the counter once the NOFA is released (anticipated March 2026 or later, launch planned for 2026). Draft guidelines (November 26, 2024) were developed with the County Equity Innovation Fund and HEART.",
+   "per_unit_cap": "Not published.",
+   "affordability_requirement": "Conversion of market-rate housing to income-restricted housing or preservation and extension of existing restrictions; anti-displacement focus.",
+   "eligible_project_types": [
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Over the counter after NOFA release; status of the 2026 release not confirmed. Contact housing@cityofepa.org, (650) 853-3189.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. Small but flexible; pairs with the County's preservation financing and the Bay Area Preservation Pilot. The City's broader funding plan (Affordable Housing Strategy 2024-2028, adopted February 6, 2024) commits 50% of Measure HH office parcel tax revenue ($2.50 per square foot on office over 25,000 square feet, 2018) to creation and preservation of affordable housing, cites capacity to fund up to 122 units in 100% affordable developments, and adds Measure JJ gross receipts tax revenue (about $1.45 million to $1.7 million a year, approved November 2024); the City has not posted a new-construction NOFA, so developers should approach the Housing Division directly. Source is the preservation program page.",
+   "source_url": "https://www.cityofepa.org/housing/page/affordable-housing-preservation",
+   "record_id": "dbaef9f03e",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "acquisition and conversion of unrestricted multifamily",
+    "preservation of expiring restricted housing",
+    "rehabilitation with new restrictions"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. The East Palo Alto preservation program page and draft Preservation Program guidelines contain no prevailing wage term. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Burlingame",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Affordable Housing Fund NOFA (rolling, FY 2025-26 and FY 2026-27)",
+   "administering_agency": "City of Burlingame Community Development Department, Economic Development and Housing",
+   "funding_type": "loan",
+   "typical_award_size": "About $12 million available (announced July 2025): $9 million for preservation of existing or naturally occurring affordable housing and $3 million for production; news reports put the fund at $14.3 million. Prior support: a $1.4 million 55-year loan considered for the 69-unit Eucalyptus Grove (1875 California Drive, CRP and Abode, 20% to 50% AMI, County AHF $5,698,107, 30 HACSM PBVs) and donated land for the 132-unit Village at Burlingame (150 Park Road, completed 2023).",
+   "per_unit_cap": "Subsidy limit $300,000 per unit.",
+   "affordability_requirement": "Up to 80% AMI, 55-year regulatory agreement, County rent limits with utility allowances, rent increases capped at the lesser of County limits or 5%; mixed-income projects may have up to 49% restricted units.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "mixed-income",
+    "homeownership",
+    "predevelopment",
+    "adaptive reuse"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No deadline; applications reviewed first come first served (scored against each other if several arrive within 60 days) and taken to Council. Confirm remaining balance with Joseph Sanfilippo, jsanfilippo@burlingame.org, (650) 558-7264.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. Terms are standard county soft debt: 3% simple interest residual receipts, 55 years, DCR 1.15 (1.10 for the first two years of acquisitions), developer fee 5% to 10%, $125 per unit monitoring fee, asset management fee capped at $1,000 per unit or $25,000, 10% hard and 5% soft contingencies, City subordinates its deed of trust but not its regulatory agreement; matching funds score up to 15 points (300% match). The preservation emphasis follows the HOPE advisory committee's priorities. Source is the 2025 NOFA PDF; fund page at burlingame.org/1274.",
+   "source_url": "https://burlingame.org/DocumentCenter/View/7046/City-of-Burlingame-2025-Affordable-Housing-Fund-NOFA?bidId=",
+   "record_id": "5f0772c0e8",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction rental or ownership (including mixed-income up to 49% affordable)",
+    "acquisition and preservation of NOAH",
+    "rehabilitation and re-restriction",
+    "adaptive reuse",
+    "predevelopment"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. The City of Burlingame 2025 Affordable Housing Fund NOFA contains no prevailing wage term. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Carlos",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Commercial Linkage Fee fund loans and City land for affordable housing (Cherry Street Commons)",
+   "administering_agency": "City of San Carlos Community Development Department, Housing Division (housing successor to the former Redevelopment Agency)",
+   "funding_type": "loan",
+   "typical_award_size": "Commercial Linkage Fee (SCMC Chapter 8.51, adopted 2016) on large office and life science projects had produced over $10 million by 2023 with more than $30 million projected over the following five years. Council approved a $12,860,000 construction loan on June 26, 2023 for Cherry Street Commons (Eden Housing and HIP Housing, 33 family units, one to three bedrooms, replacing a six-unit HIP building at 1244 Cherry Street on City land including 1232 Cherry Street acquired in 2022, occupancy targeted 2026) and forgave a $100,000 1995 loan on 1244 Cherry in FY 2024-25. Housing successor assets total about $9 million (817 Walnut Street ground lease and $10.4 million of loans receivable) with a slight cash deficit. A NOFA 25-26 is listed on the City housing page without details.",
+   "per_unit_cap": "Not published; Cherry Street Commons is about $390,000 per unit of City loan.",
+   "affordability_requirement": "Lower income households under City regulatory agreements; housing successor funds limited to 80% AMI with extremely low income minimums.",
+   "eligible_project_types": [
+    "new construction",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No open solicitation found; the City lists a NOFA 25-26 but the link resolves to the homepage. Contact the Housing Division at (650) 802-4265.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. San Carlos is cash-rich from life science linkage fees and land-rich downtown (Walnut Studios at 817 Walnut was the first City-financed project), so it funds projects at a much higher per-unit level than its neighbors; the per-square-foot linkage rate is in the Master Fee Schedule and was not confirmed this pass (codepublishing.com returned 403). Source is the City's Cherry Street Commons page; loan amount from the June 27, 2023 announcement (vmwp.com) and the FY 2024-25 Housing Successor Annual Report.",
+   "source_url": "https://www.cityofsancarlos.org/city_hall/departments_and_divisions/community_development/housing/cherry_street_commons.php",
+   "record_id": "a1156b5041",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction multifamily rental",
+    "City-owned downtown sites",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. City land conveyed below fair market value is public funds under 1720(b)(3). The San Carlos Cherry Street Commons page states no prevailing wage term. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Carlos",
+   "date_researched": "2026-11-07",
+   "research_pass": "3_city",
+   "county_tag": "San Mateo",
+   "confidence": "verified",
+   "program_name": "Below Market Rate (BMR) Ordinance (SCMC Chapter 18.16, revised June 2022)",
+   "administering_agency": "City of San Carlos Community Development Department, Planning and Housing",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. 15% of units in market-rate developments: rental 10% very low plus 5% low income (or an option of 15% very low income to align with state density bonus law); ownership 10% moderate plus 5% low income, raised to 20% low income by the June 2022 revisions. On-site units required at 7 or more rental units and 5 or more ownership units; smaller projects pay an in-lieu fee.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Deed restrictions with City BMR eligibility rules (SCMC 18.16.080), San Carlos resident and worker preference, County income limits (2026 AMI $200,800 for four).",
+   "eligible_project_types": [
+    "mixed-income",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement; in-lieu fee amount in the Master Fee Schedule (not opened).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "County layer: every San Mateo County city project competes for the County Affordable Housing Fund NOFA (AHF 14 closed July 15, 2026, next fall 2027), HEART bridge loans and HACSM project-based vouchers; city money is usually the first commitment that unlocks those. The very low income rental tier makes San Carlos BMR units eligible to pair with HACSM PBVs; recent downtown projects at 1232 to 1360 Cherry Street used the ordinance's density bonus alignment. Source is the Housing Resources chapter of the 2023-2031 Housing Element.",
+   "source_url": "https://cms3.revize.com/revize/sancarlos/Document%20Center/Housing%20Element/05%20San%20Carlos%20Housing%20Resources_Final.pdf",
+   "record_id": "c06f3c6a8a",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate multifamily (compliance)",
+    "mixed-income downtown and El Camino projects"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of South Lake Tahoe",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "El Dorado",
+   "confidence": "verified",
+   "program_name": "City direct gap and predevelopment financing for affordable housing (HOME program income, Housing Successor and Redevelopment Agency program income, PLHA formula funds, Prohousing Incentive Program funds, general fund, residential units of use) and state application sponsorship",
+   "administering_agency": "City of South Lake Tahoe Development Services Department, Housing Division (Housing Manager, mmanuel@cityofslt.gov, 530-542-7417); City Council approves each commitment",
+   "funding_type": "loan",
+   "typical_award_size": "Deal-by-deal Council commitments, no NOFA or written guidelines. Track record: over $2.5 million of HOME program income, Redevelopment Agency program income and general fund to Sugar Pine Village (248 units, Related California and Saint Joseph Community Land Trust on state surplus land; Phase 1A 68 units opened fall 2024, Phase 2A 60 units fall 2025, Phase 1B 60 units summer 2026, Phase 2B seeking financing), plus City-sponsored AHSC ($17,359,470), MHP ($19.6 million), IIG, LGMG, HOME and PLHA awards; a $564,073 predevelopment loan plus $500,000 of Prohousing Incentive Program funds to Novin Development for the 75-unit 3900 and 3908 Lake Tahoe Boulevard project (SB 35 approval 2025, AHSC pending); about $1,791,669 CDBG-CV and $120,000 PIP for rehabilitation of three Homekey properties (72 supportive units) with Tahoe Coalition for the Homeless; 21 multifamily residential units of use donated to Lake Tahoe Community College's 100-bed dorm (about $315,000 market value); three Al Tahoe lots donated to Saint Joseph Community Land Trust. City awards 2020 to 2025 included PLHA formula about $880,000 total, PLHA competitive $15 million over three awards, HOME $6,538,240 and PIP Round 2 $620,000. Legacy RDA Low and Moderate Income Housing Fund loans (AB 987 database) total $16.46 million HOME, $2.15 million RDA and $1.18 million CDBG across 296 units in eight projects.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "Follows the state source layered in: Sugar Pine Village and 3900 Lake Tahoe Boulevard are 55-year deed restrictions at 30% to 80% AMI; TRPA deed restriction also required when bonus units are used. HOME program income follows HOME rules.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA; no open round as of November 8, 2026. Approach the Housing Division (housing@cityofslt.us) ahead of the AHSC, MHP and PLHA competitive rounds; the draft Housing Element commits the City to apply for at least one grant per year. The draft 2027-2035 Housing Element was open for public comment through September 12, 2026 and no adopted version was posted on the City Housing Element page as of November 8, 2026; Phase 2B of Sugar Pine Village is still pursuing financing.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "South Lake Tahoe is a non-entitlement city that has out-raised most small cities by sponsoring state applications (PLHA competitive, AHSC, HOME, IIG, LGMG) for a nonprofit or private developer, so the City's own cash is small but its sponsorship is the key to the state layer. Gap order used on Sugar Pine Village: LIHTC and bonds, AHSC and MHP, IIG and LGMG, HOME and PLHA, City program income last. County layers available in the Tahoe Basin: El Dorado County PLHA formula and County HOME/CDBG participation requests, County Affordable Housing Trust Fund (no development NOFA), County PHA project-based vouchers, CMFA TEFRA approvals, welfare exemption, BHSA housing funds; the County Traffic Impact Fee offset (Policy B-14) does not apply inside the city because the City levies its own fees. TRPA layer: bonus units and the allocation exemption are required for any deed-restricted project (see the TRPA record), and TRPA application fees are waived for affordable projects. Residential allocations are scarce (33 market-rate per year citywide, one third reserved for multifamily), which is why deed-restricted projects using bonus units are the only route to scale. Workforce Housing Fund in-lieu fees (inclusionary record) are a separate, newer pool. No local housing trust fund, no city NOFA, no local tax-exempt issuer. Source is the City's August 2026 public review draft 2027-2035 Housing Element on the City DocumentCenter; the City's CivicPlus pages opened directly but council packets were not reachable (Granicus and Legistar hosts not found).",
+   "source_url": "https://www.cityofslt.gov/DocumentCenter/View/24379/SLT_Housing-Element_Public-Review-Draft_August-2026",
+   "record_id": "b6214b5875",
+   "cycle_notes": "Deal-by-deal City Council commitments with no NOFA or written guidelines; timing follows the state program rounds the City sponsors (AHSC, MHP, PLHA competitive, HOME, IIG).",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "modular and all-electric multifamily"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "T2 audit 2026-11-08: the earlier statement that final Housing Element adoption was set for a September 8, 2026 Council hearing is not supported; the City Housing Element page shows the draft comment period ran through September 12, 2026 and posts no adopted 2027-2035 element. That page names Jessica Wackenhut Lomeli as Housing Manager (housing@cityofslt.us), which differs from the contact in administering_agency.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of South Lake Tahoe",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "El Dorado",
+   "confidence": "verified",
+   "program_name": "City permit fee waiver for nonprofit and public agency affordable housing (City Code Section 6.55.090), lot consolidation fee waiver for deed-restricted units (Housing Element Program 1-7) and Sugar Pine Village inspection fee reduction",
+   "administering_agency": "City of South Lake Tahoe Development Services Department (Planning and Building Divisions); waivers approved by the City Council at a public hearing",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Case by case. Nonprofits and public agencies developing affordable housing may request waiver of City permit fees, granted by Council resolution (about 45 days from request to approval, run concurrently with permit review). The City also reduced building inspection fees for Sugar Pine Village because HCD inspects the modular units. Program 1-7 commits the City to waive the lot line adjustment fee when the resulting project includes deed-restricted affordable units. City planning fees are modest relative to TRPA fees; City multifamily impact charges are mainly utility connection fees set by South Tahoe Public Utility District (not waived; $7,500 deposit and 10% of capacity fees at plan review). No waiver of TRPA water quality ($1.86 per sq ft) or excess coverage mitigation fees ($8.50 per sq ft), though TRPA application fees are waived for affordable, moderate and achievable bonus-unit projects and the mobility mitigation fee may be waived.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Affordable housing project sponsored by a nonprofit or public agency; deed restriction consistent with TRPA affordable, moderate or achievable definitions when bonus units are used. No specific AMI threshold published for the City waiver.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Request with the entitlement or building permit application; Council hearing required. Verify current practice with the Housing Division (530-542-7417) because the code text could not be opened.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Fee relief is small in dollar terms; the real cost drivers in the Basin are TRPA mitigation fees, land coverage purchases and development rights, which the TRPA bonus unit program (separate record) addresses. Combine with the TRPA application fee exemption and with the Phase 2 Housing Amendments height, coverage and density relief. Private for-profit developers are not eligible for the 6.55.090 waiver unless partnered with a nonprofit or public agency. The County Traffic Impact Fee offset (Board Policy B-14) is not available inside the city. The City's code host (codepublishing.com) returned 403 and the gocodebook mirror had no Chapter 6.55 page, so Section 6.55.090 was not read directly; the description is taken from the fees and exactions analysis in the City's August 2026 public review draft 2027-2035 Housing Element (pages 4-203 to 4-206) and from Program 1-7 of the adopted 2022-2027 Housing Element.",
+   "source_url": "https://www.cityofslt.gov/DocumentCenter/View/24379/SLT_Housing-Element_Public-Review-Draft_August-2026",
+   "record_id": "903b87de7c",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "modular multifamily"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW pass Nov 9, 2026: true rested on 1720(b)(4) alone; changed to unclear per the consistency rule.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Waived permit fees are public funds under 1720(b)(4), but the 1720(c)(3) de minimis test (under $600,000 and under 2% of project cost) will usually exempt small waivers; City Code 6.55.090 could not be read (codepublishing 403)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of South Lake Tahoe",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "El Dorado",
+   "confidence": "verified",
+   "program_name": "TRPA Residential Bonus Unit Program (TRPA Code Chapter 52), allocation exemption (Chapter 50.5.1) and Phase 2 Housing Amendments as applied in South Lake Tahoe Town Centers (Tourist Core, Tahoe Valley and Midtown Area Plans)",
+   "administering_agency": "Tahoe Regional Planning Agency (TRPA), with City of South Lake Tahoe Planning Division as lead reviewer inside Area Plan boundaries; City holds a voting seat on the TRPA Governing Board",
+   "funding_type": "density bonus",
+   "typical_award_size": "Regulatory, not cash, but it substitutes for development rights that otherwise must be bought. Deed-restricted affordable (80% AMI), moderate (120% AMI) or achievable (TRPA-set percentage tied to median home price) units receive residential bonus units at no cost in place of a residential unit of use (potential unit plus allocation), are exempt from the City's annual allocation (33 market-rate allocations per year citywide, one third reserved for multifamily), and are exempt from TRPA application fees. About 946 of the 1,124 bonus units set aside in 2018 remained as of the 2026 draft Housing Element, all reserved for deed-restricted housing and prioritized for Centers and multifamily zones. Phase 2 Housing Amendments (TRPA Governing Board, December 2023; MAP settlement July 2024) remove the maximum density cap for 100% deed-restricted projects in Town Centers, allow heights up to 65 feet in Centers (step-back, shade and scenic findings above 56 feet), allow 100% deed-restricted projects outside Centers to transfer in coverage up to 70% of high-capability land if runoff is treated by a public stormwater system, and allow use of the TRPA basin-wide parking study to reduce parking. Affordable projects using these tools have reached 61 to 67 units per acre in the city (Sugar Pine Village, 3900 Lake Tahoe Boulevard).",
+   "per_unit_cap": "One bonus unit per deed-restricted unit; no dollar cap. Market value of a multifamily residential unit of use is about $15,000 (the City valued 21 units given to Lake Tahoe Community College at about $315,000).",
+   "affordability_requirement": "Permanent TRPA deed restriction recorded as a permit condition: occupancy limited to affordable, moderate or achievable households (or local employees for achievable units), no second-home or vacation rental use, annual compliance report to TRPA (penalties up to $5,000 per day), real estate disclosure on transfer; project within one half mile of transit. Height, coverage and density incentives under Phase 2 require 100% deed-restricted units plus stormwater and transportation contributions.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "mixed-use",
+    "adu"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Bonus units assigned at TRPA permit (about 120 days of TRPA review, or City-only review for qualifying projects inside the TCAP and TVAP). Watch: TRPA Phase 3 (Cultivating Community, Conserving the Basin) EIS scoping closed March 16, 2026 with further code changes pending; City Midtown Area Plan (MTAP) adoption was pending a September 2026 hearing; TRPA 2025-2026 income limits and achievable percentages are updated each July.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Flag for every South Lake Tahoe deal: the Tahoe Basin is dual-jurisdiction. The City cannot grant a state density bonus law bonus or concessions that exceed TRPA standards; TRPA gives full density relief only to 100% deed-restricted projects and gives no comparable benefit or mandatory concessions to mixed-income projects that set aside a share of units, which the draft 2027-2035 Housing Element names as a continuing constraint (Program 2-8 asks TRPA to allow state density bonus compliance). Land coverage (Bailey system, 30% base outside Area Plans, 70% inside TCAP and TVAP), scenic and height limits and the allocation system govern feasibility more than zoning. Projects using bonus units must carry a TRPA deed restriction in addition to TCAC, HCD or City covenants; coordinate the three so income limits (TRPA uses county AMI for a family of three) and terms do not conflict. The TRPA application fee waiver stacks with the City Section 6.55.090 waiver (separate record). County layers (PLHA, Trust Fund, PBVs, welfare exemption) apply as in the rest of El Dorado County. Source pages at trpa.gov opened directly; City-specific figures (946 bonus units remaining, 61 to 67 du per acre, 65-foot height, MTAP status) come from the City's August 2026 draft Housing Element on the City DocumentCenter.",
+   "source_url": "https://www.trpa.gov/housing/",
+   "record_id": "5ece3580cf",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-use with deed-restricted housing",
+    "adu",
+    "motel or hotel conversion to residential",
+    "acquisition-rehab (coverage and density relief for 100% deed-restricted)"
+   ],
+   "next_deadline_date": "2026-03-16",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Placerville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "El Dorado",
+   "confidence": "verified",
+   "program_name": "Affordable Housing Density Bonus, Placerville City Code Title 10 Chapter 12 (Sections 10-12-1 to 10-12-13; 2015 text, state-law update ZC 24-05 pending under ROI 2024-01)",
+   "administering_agency": "City of Placerville Development Services Department, Planning Division, 3101 Center Street, (530) 642-5252, pv.planning@gmail.com",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. The local chapter still reflects the 2015 version of Government Code 65915: bonus up to 35% for 5% very low, 10% lower or 10% moderate (for-sale) units, 20% for senior housing, land donation bonus up to 35% combined; one to three incentives (reduced lot size, setbacks, lot coverage, height, parking, mixed-use zoning, other cost-reducing regulatory relief) and by-right parking ratios of 1 space (0 to 1 bedroom), 2 (2 to 3 bedrooms) and 2.5 (4 or more). Where the chapter conflicts with state law, state law controls (10-12-1), so the current 80% bonus for 100% affordable projects, unlimited bonus near major transit and up to five concessions apply by operation of state law. The 2025 Annual Progress Report (March 2026) reports the full density bonus ordinance update was deferred to 2026 because of evolving state law.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Per state law: income-restricted units for very low (50% AMI), lower (80% AMI) or moderate (120% AMI, for-sale) households with a recorded density bonus housing agreement (10-12-12); rental affordability term per Government Code 65915 (55 years).",
+   "eligible_project_types": [
+    "new construction",
+    "senior housing",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Request with the entitlement application (optional pre-application conference). Watch for the Planning Commission and City Council hearings on text amendment ZC 24-05 (density bonus update), dates still TBD on the City's project list; adoption targeted in 2026.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancement beyond state law. Placerville has no local housing trust fund, no inclusionary ordinance or in-lieu fee, no commercial linkage fee, no city NOFA and no redevelopment successor housing funds; the City's affordable housing tools are this chapter, the Housing Opportunity Overlay by-right sites, fee deferral under SB 937, SCIP impact fee financing and sponsorship of state CDBG, HOME and PLHA applications (separate records). Stack with the El Dorado County density bonus and the County PLHA, Trust Fund, HOME/CDBG, PBV and welfare exemption records; the County Traffic Impact Fee offset (Policy B-14) does not apply inside the city, which levies its own traffic impact mitigation fee. Chapter text read from the City's own zoning ordinance PDF; the City page links the amlegal code library, which was not opened.",
+   "source_url": "https://www.cityofplacerville.org/media/Planning%20Division/Zoning%20Ordinance/ZoningOrdinance.DSDMaster-%20Chapter%2012%20-%20Affordable%20Housing%20Density%20Bonus.pdf",
+   "record_id": "71ec9bc62b",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-use",
+    "senior housing",
+    "land donation projects",
+    "child care facility bonus"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Placerville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "El Dorado",
+   "confidence": "verified",
+   "program_name": "Housing Opportunity Overlay Zone (HO, Title 10 Chapter 5 Section 24, Zone Change 2016-01) by-right affordable sites and Housing Element Programs A-3 and A-5",
+   "administering_agency": "City of Placerville Development Services Department, Planning Division",
+   "funding_type": "zoning incentive",
+   "typical_award_size": "Regulatory. Sites in the HO overlay (and the R-5 Very High Density Multi-Family zone) allow owner-occupied or multifamily housing by right at a minimum 20 and maximum 24 units per acre with compliance with local design standards and no discretionary action (Government Code 65583.2 sites). The overlay covers about 17 acres with three additional sites proposed for 2026. Two of the four original HO parcels produced Mallard Apartments (72 units, 30% to 60% AMI, 55 years) and Middletown Apartments (82 units, 30% to 60% AMI, 55 years), both by Pacific Southwest Community Development Corporation and under construction in 2025 (82 Middletown permits issued in 2025). Objective design standards (LEAP $65,000 and SB 2 $160,000 funded) were still being completed as of March 2025.",
+   "per_unit_cap": null,
+   "affordability_requirement": "By-right status is tied to lower income housing need under state law; projects on HO sites have been 100% affordable at 30% to 60% AMI with 55-year covenants. No local inclusionary percentage.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Ministerial site plan review on HO or R-5 sites at any time. Three additional HO sites were proposed for 2026 rezoning; confirm status and the objective design standards with Planning.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "The HO overlay is where Placerville's deal flow has actually occurred; both recent projects paired by-right siting with City-sponsored CDBG and CPLHA loans, IIG and MHP (see the City state-funding record). The 2025 APR reports 244 lower income units of site capacity against a 90-unit lower income RHNA, so no-net-loss is not a constraint. Combine with the state density bonus (Chapter 12) and SB 35 or AB 2011 streamlining. Source is the City's 2021-2029 Housing Element policy document (Programs A-3 and A-5); the 2016 draft HO ordinance was also read on the City's EvoGov agenda host. No local trust fund or NOFA exists in Placerville.",
+   "source_url": "https://www.cityofplacerville.org/media/Planning%20Division/Housing%20Element/2021-2029%20Housing%20Element%20-%20Amended/PolicyDocSect%20II%20-%202021%20HE%20(12-16-22,%20lmh).pdf",
+   "record_id": "0c547fd28d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing",
+    "mixed-income multifamily on HO or R-5 sites"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, redevelopment or successor agency, or local public housing authority; this zoning overlay provides no public funds, so it does not by itself trigger prevailing wage. Any City or County loan, grant, land write-down or fee waiver layered on the project is assessed separately under 1720(b). https://california.public.law/codes/labor_code_section_1720",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Placerville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "El Dorado",
+   "confidence": "verified",
+   "program_name": "Development impact fee deferral for affordable projects (SB 937 implementation, Housing Element Program C-5), ADU impact fee reductions, and Statewide Community Infrastructure Program (SCIP) impact fee financing (Program C-7)",
+   "administering_agency": "City of Placerville Development Services Department (Planning and Building Divisions) and Finance; SCIP bonds issued by California Statewide Communities Development Authority (CSCDA)",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Timing relief, not a reduction, for multifamily: the City reports it implemented fee deferrals under SB 937 in 2025 so impact fees on qualifying affordable projects are collected at certificate of occupancy rather than permit issuance. Housing Element Program C-5 also offers deferment to completion or occupancy, payment over 12 months or longer after completion, or fee reductions where the applicant documents lower facility demand. Impact fee reductions (water, sewer, traffic impact mitigation, park fees) have been implemented only for ADUs and JADUs consistent with state law. SCIP lets a developer finance City impact fees and public improvements through tax-exempt CSCDA bonds repaid by a special assessment on the parcel; the City intends to offer it for all projects, especially housing, but no development had used SCIP as of the 2023 and 2025 progress reports. No general fee waiver for affordable housing exists.",
+   "per_unit_cap": null,
+   "affordability_requirement": "SB 937 deferral applies to projects meeting the statute's affordability definitions (generally 100% affordable or qualifying mixed-income projects); Program C-5 options are for affordable housing providers. SCIP has no affordability requirement.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "adu"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Request deferral at building permit; SCIP participation requires a City resolution and CSCDA application ahead of permit issuance. Confirm the current fee schedule and deferral form with the Building Division.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Placerville levies its own traffic impact mitigation, park and utility fees, so the El Dorado County Traffic Impact Fee offset (Board Policy B-14) does not apply to city projects; deferral is the only local fee tool. SCIP assessment financing of impact fees is senior to other liens and must be cleared with TCAC and permanent lenders. Pair with the HO overlay by-right sites and City-sponsored CDBG, PLHA and HOME loans (separate records). Sources read: the March 24, 2026 City Council staff report accepting the 2025 Housing Element Annual Progress Report (SB 937 deferral statement), the City's Housing Resources page describing SCIP (updated March 4, 2025) and Programs C-5 and C-7 of the 2021-2029 Housing Element.",
+   "source_url": "https://www.cityofplacerville.org/media/City%20Council%20Staff%20Reports/2026/03%2024%202026/12.3_SR%202025%20Housing%20Element%20APR%20(CK,DW-Fully%20Executed).pdf",
+   "record_id": "8681173b00",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "adu",
+    "self-help housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No program-specific rule found. Labor Code 1720(b)(4) treats fees that are paid, reduced, waived or forgiven by a public agency as public funds, but SB 937 deferral only changes timing and is not listed; ADU fee reductions and any Program C-5 reduction could count under 1720(b)(4) subject to the 1720(c)(3) de minimis test (under $600,000 and under 2% of project cost) and the 1720(c)(1) and (c)(5) private residential exemptions. No DIR determination on fee deferral or SCIP assessment financing was located. Outcome depends on project facts. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "Tier 3: left unclear; only the general Labor Code 1720(b)(4) definition applies and the result turns on 1720(c) exemptions and project facts.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Placerville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "El Dorado",
+   "confidence": "verified",
+   "program_name": "City-sponsored state CDBG, Competitive PLHA and HOME loans for affordable multifamily (non-entitlement city; Housing Element Program C-4) and partnership with Housing El Dorado",
+   "administering_agency": "City of Placerville Development Services Department (applicant and lender of record for state CDBG and PLHA competitive funds) with El Dorado County Housing Authority (HHSA) and Housing El Dorado",
+   "funding_type": "loan",
+   "typical_award_size": "Pass-through loans sized to each state award, no local cash. Mallard Apartments (Mallard Lane and MacIntosh, 72 units): City CDBG loan $756,000 for acquisition, Competitive PLHA (CPLHA) loan $756,000 for architecture and engineering, IIG $1,105,000 for frontage and offsite work, MHP $11,000,000. Middletown Apartments (Cold Springs Road and Middletown Road, 82 units): CDBG loan $861,000 for acquisition, CPLHA loan $861,000, IIG $2,158,000, MHP $13,000,000. The 2025 progress report adds a $400,000 PLHA loan secured for Mallard/Middletown. Program C-4 commits the City to meet annually with nonprofit developers, apply or co-apply for state and federal funds (CDBG, HOME, PLHA, Section 202 and 811, CalHome), and to establish priority processing and fee deferrals for extremely low income projects.",
+   "per_unit_cap": "None; limited by the state program caps (state CDBG and PLHA competitive NOFAs).",
+   "affordability_requirement": "Follows the state source: Mallard and Middletown are 100% affordable at 30% to 60% AMI for 55 years; CDBG and PLHA require at least 55-year covenants for rental new construction.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Tied to HCD state CDBG and PLHA competitive NOFAs (typically fall or late winter per the Housing Element) and HUD rounds in late spring. Contact Planning at least one cycle ahead so the City can adopt the required resolutions; no city NOFA exists.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Placerville competes in the same non-entitlement state CDBG, HOME and competitive PLHA pools as El Dorado County, so coordinate with the County's Affordable Housing Unit (Housing@edcgov.us) to avoid both jurisdictions applying for the same project; the County's own records cover County HOME/CDBG participation requests, County PLHA formula funds and the County Trust Fund (no development NOFA). County PHA project-based vouchers and the welfare exemption apply inside the city. Gap order used on the two Placerville projects: 4% LIHTC and bonds (CMFA TEFRA via the County), MHP, IIG, City CDBG and CPLHA loans. The City has no local trust fund, inclusionary fee, linkage fee or RDA successor housing funds; a first-time homebuyer program and workforce housing study (Program C-8, CDBG planning grant by spring 2025) were not advanced as of the 2025 progress report. Source is the City's 2023 Housing Element Annual Progress Report tables (October 8, 2024 Council packet); the 2025 APR staff report of March 24, 2026 was also read.",
+   "source_url": "https://www.cityofplacerville.org/media/City%20Council%20Staff%20Reports/2024/10%2008%202024/7.7_AttA%20APR%20Tables%20A,%20A2,%20B,%20D,%20LEAP,%20and%20Summary.pdf",
+   "record_id": "1c167dd05d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "self-help housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09"
+  }
+ }
+]

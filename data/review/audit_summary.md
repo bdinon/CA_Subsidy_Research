@@ -194,6 +194,57 @@ Follow-ups:
 - **Placer:** find the Board agenda item for the plan certification signed June 25, 2026.
 - **Marin:** the official text of the ADU resolution and of the Chapter 22.22 fee reduction was not read.
 
+## City records full spot check (November 9, 2026, night)
+
+Scope: every verified city record that no earlier Tier 4 round had checked, 338 records in 21 batches (`data/review/batches/T4C_*.json`). With the 93 city records sampled earlier, every verified city record has now been spot checked. 338 patch lines applied, 0 rejected (change log `audit_changes_20261109_234409.csv`; one follow-up fix in `audit_changes_20261109_234424.csv`).
+
+| Result | Records |
+|---|---|
+| Confirmed | 286 |
+| Corrected | 47 (13.9 percent) |
+| Unverifiable, moved to needs_confirmation | 5 |
+
+Correction rate by batch: highest in San Joaquin (5 of 10), Santa Clara 2 (6 of 13), San Diego (5 of 18) and Alameda 2 (3 of 11). Contra Costa, Fresno, Sacramento and Madera, and San Mateo and El Dorado had none.
+
+What the corrections were:
+
+- **Stale deadlines:** NOFAs described as expected or pending that never opened (San Jose, Stockton, Garden Grove, Manteca, Mountain View and Stockton PIP Round 4).
+- **Outdated dollar figures:** fund balances and allocations replaced with FY 2025-26 or adopted-plan figures (Napa funds, Santa Clara CDBG and HOME, San Jose HOME reservation, Corona HOME-ARP, Mountain View Lot 12, Anaheim LMIHAF).
+- **Wrong income or code terms:**
+  - Oakland Measure U loan cap and 60 percent AMI limit
+  - Sunnyvale inclusionary thresholds
+  - Petaluma income split
+  - San Diego Complete Communities and ADU bonus terms
+  - Carlsbad rent cap
+  - Capitola in-lieu fee ($25 per square foot, not $10)
+  - Tracy density bonus tables
+  - Novato 99-year term
+  - Thousand Oaks off-site rules
+- **Reclassified:** the Davis, Woodland and West Sacramento inclusionary ordinances changed from density bonus to regulatory requirement.
+
+Unverifiable because the source is blocked or gone:
+
+- Anaheim HOME, PLHA and CDBG gap financing (853d7e7f96)
+- San Leandro RFP (dec8aca3c5)
+- City of Monterey inclusionary (998e609da7)
+- Oxnard density bonus (e7e38bd9b1) and Oxnard affordable housing zones (3fedd621ce)
+
+Manual fixes after the apply:
+
+- Renamed Santa Rosa CFF pilot (1a4482981d), Paso Robles fee deferral (bad1e3bae2) and Tracy density bonus (ccd43a5158).
+- Moved the Manteca density bonus source to official ecode360.
+
+Database now: 854 records, 760 verified, 94 needs_confirmation.
+
+Follow-ups:
+
+- **San Diego IB 538 expedite (0efcc39e93):** expedite fees are waived for 100 percent affordable projects, so the prevailing wage basis (no fee waiver) should be revisited under 1720(b)(4).
+- **Chula Vista Housing Authority bonds (183596192c):** the Otay Ranch II TEFRA example (Res. 2026-092) was a CMFA issuance, not Housing Authority bonds.
+- **Nevada City 17.80.220 (f36356c385):** the record says 30 percent of homes at 1,500 square feet or smaller, but the 2025 APR describes 20 percent lower income units. Reconcile.
+- **Napa density bonus (d09a3c4ecd):** move source_url to official ecode360.
+- **Anaheim gap financing (853d7e7f96):** retry with the anaheim.net browser-header method in the site access notes.
+- **Elk Grove (8fd8dede09):** the outcome of the September 23, 2026 fee hearing is still unconfirmed.
+
 ## Files
 
 - Change logs: `data/review/audit_changes_*.csv` (one per tier).

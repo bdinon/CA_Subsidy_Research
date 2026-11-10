@@ -1,0 +1,466 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Ana",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "verified",
+   "program_name": "Project-Based Vouchers, Housing Authority of the City of Santa Ana (SAHA)",
+   "administering_agency": "Housing Authority of the City of Santa Ana (Community Development Agency), waiting list hotline (714) 667-2284",
+   "funding_type": "rental assistance",
+   "typical_award_size": "PBVs are committed to City-financed projects through the Affordable Housing Development RFP: Estrella Springs 89 PBVs (89 PSH units, former Budget Inn), WISEPlace on Broadway 25 PBVs (15 set aside for domestic violence survivors), Crossroads at Washington 15 PBVs (43 PSH units of 86), Richard Lehn Intergenerational Housing 8 PBVs (11 units, under construction), plus earlier commitments at Casa Querencia (57 units), Heroes' Landing (75), The Orchard (72) and FX Residences (17). PBV waiting lists for Crossroads at Washington and Andalucia closed April 30, 2026. SAHA received 25 Foster Youth to Independence vouchers in August 2025. Total HCV count not confirmed from an opened document.",
+   "per_unit_cap": null,
+   "affordability_requirement": "PBV households at or below 50% AMI at admission (30% of adjusted income toward rent); PSH units generally 30% AMI with Coordinated Entry referrals; HAP contracts up to 20 years.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Request PBVs in the RFP quarterly rounds (next January 11, 2027); SAHA's FY 2026 Annual Plan draft (Feb 17, 2026) was opened but lists no fixed PBV allotment.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Santa Ana is one of four PHAs in Orange County (with OCHA, Anaheim and Garden Grove) and has been the most active in project-basing: 89 PBVs at Estrella Springs is the largest single PBV award in the county. A HAP contract is not itself a prevailing wage trigger but Davis-Bacon applies to new construction or rehab of nine or more PBV units and PBVs bring a HUD subsidy layering review. Combine with City HOME or Housing Successor loans, County MHSA/BHSA capital and OCHFT. The City also receives its own HHAP allocation (Richard Lehn used $2,021,319 HHAP), so the operating stack for PSH can be entirely city-controlled. PSH properties page, Housing Authority page, PBV waiting list notices and the 2025 Affordable Housing Awards release opened on santa-ana.gov.",
+   "source_url": "https://santa-ana.gov/about-our-permanent-supportive-housing-properties/",
+   "record_id": "8c690732b5",
+   "cycle_notes": "requested with or without capital in the Affordable Housing Development RFP",
+   "eligible_project_detail": [
+    "supportive housing",
+    "new construction",
+    "acquisition-rehab",
+    "motel conversion"
+   ],
+   "next_deadline_date": "2027-01-11",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal Davis-Bacon: 24 CFR 983.153(c) (PBV development requirements, labor standards) requires the owner and its contractors to pay Davis-Bacon wages in the case of development involving nine or more contract units, whether or not completed in stages (https://www.law.cornell.edu/cfr/text/24/983.153). Applies only to PBVs committed under a development agreement for new construction or rehab; PBVs placed on existing housing with 8 or fewer contract units, or no development activity, do not trigger it. State prevailing wage depends separately on other public funds in the deal under Labor Code 1720.",
+   "audit_note": "Prevailing wage set true per 24 CFR 983.153(c): Davis-Bacon at 9+ PBV contract units in development; existing-housing PBVs are not covered.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Ana",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "verified",
+   "program_name": "Prohousing Designation (HCD Prohousing Designation Program)",
+   "administering_agency": "City of Santa Ana Planning and Building Agency; designation issued by HCD",
+   "funding_type": "policy/designation",
+   "typical_award_size": "Not a direct subsidy. Santa Ana appears on HCD's list of Prohousing Designated Jurisdictions, which gives projects inside the city bonus points or priority processing in AHSC, Infill Infrastructure Grant, Transformative Climate Communities, SCCP, LPP, TIRCP and STPG, and makes the City eligible for the Prohousing Incentive Program (PIP).",
+   "per_unit_cap": null,
+   "affordability_requirement": "Follows the state program applied for (AHSC and IIG serve lower income projects at or below 80% AMI).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Designation is good for four years from award and must be renewed; PIP rounds are announced by HCD. Confirm the designation date with the Planning Division.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "The only Prohousing city among the five Orange County priority cities (Anaheim, Irvine, Huntington Beach and Garden Grove are not on the list opened 2026-11-08), so AHSC and IIG applications in Santa Ana carry the designation points. The City's own HHAP allocation, SAHA PBVs and the RFP loans make a full local stack for AHSC-sized projects. HCD designated jurisdictions page opened.",
+   "source_url": "https://www.hcd.ca.gov/planning-and-research/prohousing/designated-jurisdictions",
+   "record_id": "4ba540d9a4",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "infrastructure for affordable housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) covers construction paid for in whole or in part out of public funds, and 1720(b)(1)-(6) lists the forms public funds take (payments, construction by the agency, below-market asset transfers, reduced or waived fees and loans, contingent loans, credits). A Prohousing Designation (scoring points and eligibility for HCD programs) grants regulatory relief and provides none of those forms of public funds, and the law it rests on imposes no prevailing wage condition, so it does not by itself trigger prevailing wage. Any City or state funds layered on the same project are tested separately. https://california.public.law/codes/labor_code_section_1720",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Anaheim",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "verified",
+   "program_name": "HOME, PLHA and CDBG entitlement funds used as affordable housing gap financing (Build More Homes Initiative)",
+   "administering_agency": "City of Anaheim Housing and Community Development Department (HUD Programs division) and Anaheim Housing Authority",
+   "funding_type": "grant",
+   "typical_award_size": "HOME allocation FY 2024 $1,314,087.60 (down from $2,240,380 in FY 2010); PLHA about $3,000,000 a year since 2019; together about $4,600,000 a year of recurring production money, though a large share of HOME is committed to tenant-based rental assistance. City cash gap financing has averaged $6,000,000 per project on the last two developments (Finamore Place, 101 family units, completed February 2022; Miraflores, 85 PSH family units, 2024, with a 60-year ground lease, a $3,000,000 HOME loan and 8 vouchers). Center of Hope (72 PSH units, 2023) received a $2,000,000 City construction loan and 50 vouchers. Anaheim also administers CDBG, ESG and HOPWA for the region.",
+   "per_unit_cap": "HOME: HUD maximum per-unit subsidy limits.",
+   "affordability_requirement": "HOME rents and 80% AMI limits with 20% of HOME units at 50% AMI; PLHA rental production at or below 60% AMI; City deals have typically been 100% affordable family, senior or supportive housing with 55-year covenants.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "homeownership"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Annual Action Plan adopted each spring; developer solicitations are issued per site (recent Housing Authority RFPs covered 212 S. Beach Blvd and State College at Lincoln). Verify the FY 2026-27 HOME and PLHA figures with the department; the City documents page lists only the FY 2022-23 Action Plan.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Anaheim does not run a competitive NOFA; it assembles sites (Beach Boulevard corridor, former motels) and selects developers by RFP, then layers HOME, PLHA, A-LHTF and Housing Authority PBVs. The City is an HHAP direct recipient and a HOPWA grantee for Orange County, so operating subsidies for PSH can come from the same department. Stack order seen in practice: City land lease plus HOME or PLHA loan, Housing Authority PBVs, County MHSA/BHSA or OCHFT loan, 4% credits with CMFA or CSCDA bonds. Davis-Bacon on HOME projects of 12 or more assisted units; state prevailing wage on all City funds. Figures from the June 2026 A-LHTF Guidelines PDF (opened); Housing and Community Development documents page and 2026 affordable housing fact sheet opened; Action Plan PDFs and CivicAlerts pages returned 403.",
+   "source_url": "https://www.anaheim.gov/DocumentCenter/View/66427",
+   "record_id": "853d7e7f96",
+   "cycle_notes": "project-specific RFPs and negotiated agreements; no standing developer NOFA",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "motel conversion",
+    "affordable ownership"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Anaheim",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "verified",
+   "program_name": "Project-Based Vouchers, Anaheim Housing Authority",
+   "administering_agency": "Anaheim Housing Authority, 201 S. Anaheim Blvd., Suite 201, (714) 765-4320; Housing and Community Development Department",
+   "funding_type": "rental assistance",
+   "typical_award_size": "About $144,000,000 a year in Section 8 rent assistance to about 6,500 households (2026 fact sheet). PBVs are committed to City-assisted projects: Southeast Corner of Beach and Lincoln (208 S. Beach Blvd) 37 senior units (some HOPWA) and 9 transition-age youth units, waiting list referrals opening November 5, 2026; Center of Hope 50 vouchers (72 PSH units, 2023); Miraflores 8 vouchers (85 units, 2024). The City counts 4,156 affordable apartments in 50 communities (45 fully affordable), 2,851 family, 1,113 senior and 332 special needs units.",
+   "per_unit_cap": null,
+   "affordability_requirement": "PBV admission at or below 50% AMI (30% of adjusted income toward rent); City PSH projects target 30% AMI with Coordinated Entry referrals; HAP contracts up to 20 years.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No open PBV developer solicitation as of November 8, 2026; request vouchers through a Housing Authority site RFP or City loan negotiation.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Anaheim Housing Authority is a separate PHA from OCHA, so projects inside Anaheim can get PBVs from either; the City's own vouchers are the standard operating layer on City land deals, and HOPWA units can be project-based through the same office. Davis-Bacon applies to new construction or rehab of nine or more PBV units; HAP contracts bring a HUD subsidy layering review. Housing Authority page and 2026 affordable housing fact sheet (DocumentCenter 54022) opened on anaheim.gov; Public Documents page (1947) returned 403.",
+   "source_url": "https://www.anaheim.gov/668/Housing-Authority",
+   "record_id": "eda85673a9",
+   "cycle_notes": "Committed through the City's project-specific development agreements. Tenant waiting list for SEC Beach and Lincoln (Senior) PBVs opened November 5, 2026 on the Housing Authority portal (anaheim.myhousing.com), alongside open lists for Cherry Orchard, Bel'Age Manor, El Verano, Hermosa Village, Miracle Terrace and Vintage Crossing.",
+   "eligible_project_detail": [
+    "supportive housing",
+    "new construction",
+    "acquisition-rehab",
+    "motel conversion",
+    "senior housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "24 CFR 983.153(c)(2) (HUD PBV development requirements): development involving nine or more contract units must pay Davis-Bacon wages and comply with 29 CFR part 5; 24 CFR 983.4 lists labor standards for projects of nine or more assisted units (eCFR, https://www.ecfr.gov/current/title-24/subtitle-B/chapter-IX/part-983). Does not apply to existing housing PBVs or to developments with fewer than nine PBV units.",
+   "audit_note": "anaheim.gov and anaheim.net Housing Authority pages returned 403 on 2026-11-08; waiting list status read on the AHA portal anaheim.myhousing.com.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Irvine",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "verified",
+   "program_name": "Affordable Housing In-Lieu Fee Fund (Irvine Zoning Ordinance Sec. 2-3-5.B.3.c; fee set by City Council resolution)",
+   "administering_agency": "City of Irvine Community Development Department",
+   "funding_type": "loan",
+   "typical_award_size": "In-lieu fees are deposited in the City's affordable housing fund and used for projects implementing the Housing Element needs assessment or serving low, very low and extremely low income households; the fee is charged per market-rate unit under a Council-approved formula, determined at building permit, and has not been updated since 2011 (a legacy $17,000 per unit rate applied only to pre-2007 Irvine Business Complex filings). A May 2026 Draft Affordable Housing and In-Lieu Fee Analysis was released August 10, 2026; staff recommends keeping the existing formula with updated inputs. Finance Commission reviewed it October 19, 2026; Planning Commission and Council hearings are not yet scheduled. Fund balance and any developer allocation process are not published.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Fund uses limited to low, very low and extremely low income households and Housing Element implementation; recipients record 55-year covenants under Chapter 2-3.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA located as of November 8, 2026. In-lieu fee update pending Planning Commission and City Council hearings (dates TBD). Ask Community Development (cd@cityofirvine.org) for the fund balance and whether a developer round is planned.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Because most Irvine builders provide units on-site or through credits, the in-lieu fund is smaller than Santa Ana's; its visible use is land and loans to Irvine Community Land Trust projects (Salerno, Parc Derian, Doria, Alegre, Sage Park) which then take LIHTC, HOME, OCHFT and County MHSA money. Local and state funds are public funds under Labor Code 1720(b), so state prevailing wage applies unless a 1720(c) exemption fits the deal, such as 1720(c)(5)(E) for below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI (see prevailing_wage_basis). Code text read on zoneomics because the City-linked Municode page is Cloudflare-blocked; the City In-Lieu Fee Formula Update page (cityofirvine.gov/node/94569) and its September 8, 2026 FAQ were opened and confirm the 15% requirement, the formula-based fee and the update schedule.",
+   "source_url": "https://www.zoneomics.com/code/irvine-CA/chapter_2",
+   "record_id": "f7d55433db",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "land for Irvine Community Land Trust projects"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy (under $600,000 and under 2% of total project cost). Irvine Zoning Ordinance Sec. 2-3-5 states no prevailing wage rule for in-lieu fee loans. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Irvine",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "verified",
+   "program_name": "Affordable Housing Credits Program (Irvine Zoning Ordinance Sec. 2-3-6)",
+   "administering_agency": "City of Irvine Community Development Department (credits database and three-party credits agreements)",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Market mechanism, not a subsidy. Projects that build more affordable units than the 15% requirement earn transferable credits in three income categories (extremely low or very low, low, moderate) that they may sell to market-rate projects or mixed projects with a shortfall; credits become available after building permits are issued for the excess units and a completion bond or certificate of occupancy is in place. A three-party credits agreement (buyer, seller, City) must be executed before the buyer's building permits; sale prices are not disclosed to the City.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Credits track the income level of the excess units; the receiving project satisfies its required affordable component at that level.",
+   "eligible_project_types": [
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Agreement before building permit; City maintains the credits database on request.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Reclassified from other to regulatory requirement: the credits program is part of the Chapter 2-3 inclusionary procedure (15% requirement, 5% each extremely low or very low, low and moderate) and is a compliance-trading mechanism, not a public subsidy. For a 100% affordable developer it can still be a revenue source: excess units earn credits (for example 2.0 credits per ownership unit sold to lower income buyers, 1.6 extremely low or very low credits per qualifying rental unit, one credit releasing 19 market-rate units) that can be sold to market-rate builders. Confirm with the City how many credits are outstanding and the recent trading range. Read on the zoneomics mirror because the City-linked Municode page is Cloudflare-blocked; the City in-lieu fee page (cityofirvine.gov/node/94569) confirms the 15% requirement and menu options.",
+   "source_url": "https://www.zoneomics.com/code/irvine-CA/chapter_2",
+   "record_id": "b3cb6ed7e9",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "100% affordable projects (credit sellers)",
+    "market-rate projects (credit buyers)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Huntington Beach",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "verified",
+   "program_name": "Affordable Housing (Inclusionary Housing) Ordinance, Huntington Beach Zoning and Subdivision Ordinance Sec. 230.26, and in-lieu fee",
+   "administering_agency": "City of Huntington Beach Community Development Department, Housing Division (Charles Kovac, Housing Manager, charles.kovac@surfcity-hb.org; Gregory Hoang, Senior Housing Analyst, 714-536-5473)",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. New residential projects of three or more units (including conversions) must restrict at least 10% of units: rental units at the lower income level (or very low or extremely low at the developer's choice), ownership units at moderate income, with fractional units rounded up or paid as fee. In-lieu fees may be paid by ownership projects of any size and rental projects of 100 units or fewer, per a fee schedule set by Council resolution and indexed annually to Orange County new home prices; fees are paid before building permit (pro rata for phased projects) and deposited in the Affordable Housing Trust Fund. Land dedication is allowed at Council discretion. Projects that exceed the requirement on-site are eligible for reduced City fees (the 2025 Annual Progress Report cites over $1,000,000 of development impact fee exemptions for a 78-unit project with 8 ELI, 32 VL and 37 low units). A 6-1 Council vote amended the ordinance and the fee formula to make payment more flexible (date not confirmed).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Affordability term at least 55 years for rental and 45 years for ownership; affordable rental units built by a separate affordable developer on a parcel within an ownership project may not request City financial assistance; at least 40% of such units must have two or more bedrooms; interior standards equal to LIHTC minimums.",
+   "eligible_project_types": [
+    "mixed-income",
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement; fee per the current Council resolution at building permit. Council must review the Trust Fund and fee within 180 days after each fiscal year end (by late December).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "A low 3-unit threshold but a fee-out for all ownership and all rental projects up to 100 units, so in practice most Huntington Beach projects pay the fee; the Trust Fund (next record) is the resulting local source. The ordinance's fee-reduction incentive is the only affordable housing fee relief found among the five cities. Housing Element status matters here: HCD's March 6, 2026 letter found the 2021-2029 element cannot be certified until the Program 2A and 2B rezonings (Affordable Housing Overlay) are complete, and the state litigation over the element continues, which exposes projects to builder's remedy and limits state funding points. Code read on the zoneomics mirror; Legistar attachments (HCD letter, 2025 APR) opened via the Legistar web API.",
+   "source_url": "https://www.zoneomics.com/code/huntington-beach-CA/chapter_4",
+   "record_id": "adbbe8ef1b",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate rental and for-sale projects of 3 or more units (compliance)",
+    "mixed-income projects"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Huntington Beach",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "verified",
+   "program_name": "CDBG and HOME entitlement (FY 2025-2029 Consolidated Plan, Resolution 2025-32; annual CDBG Notice of Funding Availability)",
+   "administering_agency": "City of Huntington Beach Community Development Department, Housing Division (Charles Kovac, Housing Manager; Gregory Hoang, Senior Housing Analyst, gregory.hoang@surfcity-hb.org, 714-536-5473)",
+   "funding_type": "grant",
+   "typical_award_size": "FY 2025-26: CDBG grant $1,121,195 plus $258,868 carryover ($1,380,063 total); HOME grant $538,328 plus $306,100 program income ($844,428 total). HOME uses FY 2025-26: Families Forward TBRA $200,000, Mercy House TBRA $200,000, Mobile Home TBRA $128,841, CHDO Reserve/Affordable Housing $261,754, administration $53,833. CDBG capital: code enforcement $246,506, housing rehabilitation $381,139, TBRA administration $235,000, ADA improvements $125,000; public services $168,179 across six agencies. The 2026-27 CDBG NOFA opened October 2, 2025 with applications due December 11, 2025.",
+   "per_unit_cap": "HOME: HUD maximum per-unit subsidy limits.",
+   "affordability_requirement": "HOME rents and 80% AMI limits; CHDO reserve for nonprofit-owned or developed affordable housing; CDBG national objectives.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "rental assistance"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "FY 2027-28 CDBG NOFA open: application packets available October 8, 2026; completed applications due by 5:00 p.m. December 10, 2026 (original signed applications only, postmarks not accepted).",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Huntington Beach's HOME is small ($538,328) and goes almost entirely to TBRA; only the CHDO reserve (about $260,000 a year) is available for development, so City HOME is a token layer next to County and OCHFT money. Davis-Bacon applies at 12 or more HOME-assisted units. The City's Pathways Project (Jamboree Housing ENA extended 18 months in May 2024 for a permanent shelter and supportive housing at the Navigation Center site, Beach and Edinger Corridors Affordable Housing Overlay) was budgeted from IIG, AHSC, TCAC, BHCIP, Community Care Expansion, OCHFT ($2,500,000), OCHA PBVs ($3,720,000) and Behavioral Health Services funds ($5,000,000), illustrating the stack the City expects. Legistar attachments (FY 2025-26 funding tables, 2026-27 NOFA notice, Pathways funding matrix, ENA extension) opened via the Legistar web API; The City CDBG and HOME program page (huntingtonbeachca.gov, opened 2026-11-08) posts the FY 2027-28 NOFA, handbook and application.",
+   "source_url": "https://www.huntingtonbeachca.gov/departments/community_development/affordable_housing/community_development_block_grant_home_program.php",
+   "record_id": "68e0dc751f",
+   "cycle_notes": "Annual CDBG NOFA each fall with applications due in December for the fiscal year starting the next July; the Citizen Participation Advisory Board reviews applications and the Action Plan hearing is each spring. The FY 2027-28 NOFA covers CDBG only; HOME has gone to City TBRA and the CHDO reserve.",
+   "eligible_project_detail": [
+    "acquisition-rehab",
+    "new construction (CHDO reserve)",
+    "tenant-based rental assistance",
+    "housing rehabilitation"
+   ],
+   "next_deadline_date": "2026-12-10",
+   "deadline_check": "future_date",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Huntington Beach",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "verified",
+   "program_name": "Pathways Project supportive housing and shelter site (Huntington Beach Housing Authority Exclusive Negotiations Agreement with Jamboree Housing; Navigation Center site, Beach and Edinger Corridors Affordable Housing Overlay)",
+   "administering_agency": "Huntington Beach Housing Authority and Community Development Department; Jason Austin, Deputy Director of Homeless and Behavioral Health",
+   "funding_type": "zoning incentive",
+   "typical_award_size": "City-controlled site (current Navigation Center, about 3,000 deed-restricted affordable units in the City's overall portfolio per the RFQ) offered to Jamboree Housing under a 2022 Exclusive Negotiations Agreement extended 18 months on May 14, 2024 to plan and secure funding for a permanent homeless shelter, sobering center, services and low income supportive housing. June 2024 funding matrix prepared by the City: IIG $3,900,000, BHCIP $60,000,000, TCAC/CDLAC equity $23,000,000, Community Care Expansion $3,800,000, AHSC $17,000,000, OCHFT $2,500,000, OCHA PBVs $3,720,000, Behavioral Health Services (Prop 1) $5,000,000. No City cash commitment is listed.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Housing Authority goal of 100% affordable units at 60% AMI or below qualifying as supportive housing under Government Code 65650; at least 20% affordable for by-right processing in the overlay.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "interim housing"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "ENA extension ran 18 months from May 2024 (to about November 2025); status of a further extension or disposition agreement not confirmed. Check Housing Authority agendas.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Recorded because it shows how Huntington Beach expects to finance supportive housing: City land plus state programs, OCHFT, OCHA PBVs and County BHSA, with no local trust fund dollars in the stack. Any developer other than Jamboree would need the ENA to lapse. Public land conveyed below fair market value and local loans are public funds under Labor Code 1720(b)(1) and (b)(3), so state prevailing wage applies unless a 1720(c) exemption fits the deal (see prevailing_wage_basis). ENA extension and funding matrix PDFs opened via Legistar web API (matter 24-397).",
+   "source_url": "https://huntingtonbeach.legistar1.com/huntingtonbeach/attachments/8086715c-5d18-4e67-855c-9dc7a7974022.pdf",
+   "record_id": "7c513fbce9",
+   "cycle_notes": "ENA with a selected developer; no open solicitation",
+   "eligible_project_detail": [
+    "supportive housing",
+    "new construction",
+    "shelter with housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. City land under the ENA is public funds under 1720(b)(3), but the ENA extension and funding matrix state no prevailing wage term; the planned state capital sources would each carry their own rules once awarded. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Garden Grove",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "verified",
+   "program_name": "HOME, HOME-ARP, CDBG and ESG entitlement (FY 2025-2030 Consolidated Plan and FY 2025-26 Action Plan)",
+   "administering_agency": "City of Garden Grove Community and Economic Development Department, Neighborhood Improvement Division (Timothy Throne, 714-741-5144, timothyt@ggcity.org; Dana Yang, 714-741-5131)",
+   "funding_type": "grant",
+   "typical_award_size": "Five-year estimates FY 2025-2030: CDBG $9,100,000, HOME $3,000,000 (about $600,000 a year), ESG $785,000, plus about $2,900,000 of HOME-ARP for TBRA and one permanent supportive housing development. FY 2025-26 HOME budget $540,267: New Construction of Affordable Housing (predevelopment) $145,134, Acquisition/Rehabilitation of Affordable Housing $145,133, Interval House HEART program $250,000 (about 10 extremely low income households). CDBG FY 2025-26 public service RFP of about $280,000 (due January 2025); FY 2025-26 CDBG subrecipients include Habitat for Humanity OC home repairs, Meals on Wheels, StandUp for Kids and the Fair Housing Foundation. A $120,000 HOME rehabilitation NOFA closed January 9, 2025 and the City sought $2,000,000 from the CalHome Super NOFA (March 2025) for homebuyer assistance.",
+   "per_unit_cap": "HOME: HUD maximum per-unit subsidy limits.",
+   "affordability_requirement": "HOME rents and 80% AMI limits with 20% of HOME units at 50% AMI; HOME-ARP PSH for qualifying populations; CDBG national objectives.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "predevelopment",
+    "rental assistance"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "CDBG public service and HOME RFPs are released each winter (the FY 2025-26 CDBG RFP and the HOME rehabilitation NOFA were due in January 2025); FY 2026-27 Action Plan hearing in spring 2027 after community needs workshops. The developer RFP page (gg.city/afford-rfp) could not be opened; call Neighborhood Improvement for the HOME-ARP PSH development solicitation status.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Garden Grove's HOME is about $600,000 a year and most goes to TBRA and HEART, so City development money is limited to small predevelopment and acquisition-rehab lines (about $145,000 each in FY 2025-26) and the one-time HOME-ARP PSH development set-aside (part of about $2,900,000). The real local layers are Housing Successor land and GGHA PBVs; County 2026 NOFA loans ($95,000 to $105,000 per unit inside Garden Grove), OCHFT and County BHSA supply capital. Davis-Bacon at 12 or more HOME units. FY 2025-2030 Consolidated Plan public review draft PDF, CDBG page, FY 2025-26 CDBG RFP PDF and the March 13, 2025 weekly memo opened on ggcity.org; the afford-rfp and hud-nofa pages returned 403.",
+   "source_url": "https://ggcity.org/sites/default/files/fy2025-2030-con-plan-public-review-draft.pdf",
+   "record_id": "c0c9ff9a85",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction (predevelopment)",
+    "acquisition-rehab",
+    "supportive housing (HOME-ARP)",
+    "tenant-based rental assistance"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Garden Grove",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Orange",
+   "confidence": "verified",
+   "program_name": "Residential Density Bonus and Affordable Housing Regulatory Agreements (Garden Grove Municipal Code Chapter 9.60, Secs. 9.60.040 and 9.60.050; Housing Element Program 10)",
+   "administering_agency": "City of Garden Grove Community and Economic Development Department, Planning Services Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement and entitlement, not a subsidy. Chapter 9.60 implements the State Density Bonus Law, Housing Accountability Act, Housing Crisis Act and No Net Loss law: density bonus, incentives, concessions, waivers and parking ratios per Government Code 65915 and 65915.5 as amended, processed concurrently with the land use application; ministerial review for qualifying housing development projects; replacement of protected units; regulatory agreement required for every affordable unit (Sec. 9.60.050) including a rule that voucher holders pay the affordable rent, not FMR. The 2021-2029 Housing Element reports surveyed projects averaging 183% of base density through bonuses and commits the City to the updated ordinance by 2025 (Program 10) and to study an inclusionary ordinance (Program 11).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State thresholds (5% very low, 10% low, 10% moderate for-sale, 100% affordable) with 55-year rental covenants in the City regulatory agreement.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at project application. Program 11 inclusionary study was due within the Housing Element cycle; no inclusionary ordinance or in-lieu fee exists as of this pass.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Garden Grove has no inclusionary ordinance, in-lieu fee, local housing trust fund or affordable housing fee waiver; density bonus plus Housing Element Program 4 (technical and financial assistance for 10 affordable units a year, expedited processing, land write-downs from General Fund, HOME, LMIHAF and PLHA) is the full local toolkit beyond the Housing Successor land and GGHA vouchers. Garden Grove is not a Prohousing designated city. Density bonus does not trigger prevailing wage. Chapter 9.60 read on the zoneomics mirror; 2021-2029 Housing Element PDF opened on ggcity.org.",
+   "source_url": "https://www.zoneomics.com/code/garden-grove-CA/chapter_18",
+   "record_id": "87c686a81f",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income",
+    "100% affordable",
+    "mixed-use (Civic Center and corridor zones)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ }
+]

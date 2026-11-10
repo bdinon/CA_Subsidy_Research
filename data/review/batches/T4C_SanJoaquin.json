@@ -1,0 +1,426 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Stockton",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "verified",
+   "program_name": "Stockton Affordable Housing NOFA (annual Housing NOFA; HOME, HOME-ARP, PLHA, LMIHF, NSP, CDBG, HHAP and PIP loan pool)",
+   "administering_agency": "City of Stockton Economic Development Department, Housing Division (underwriting consultant TDA Consulting Inc.)",
+   "funding_type": "loan",
+   "typical_award_size": "2025 Housing NOFA released October 30, 2025, closed December 18, 2025: 8 proposals requesting $28.2 million for 522 units; $11,979,838 available after de-obligating $1,614,000 of HOME and LMIHF from Sierra Vista III. Awards: Fairview Terrace (Mutual Housing California, 76 senior units) $2,800,000 gap loan approved March 31, 2026 (Resolution 2026-03-31-1601) on top of $7,037,865 HOME awarded November 19, 2024; Don Shalvey Apartments (Visionary Home Builders, 108 family units, TDC $84.0 million) $5,000,000 and Danny Drive (DCDC, 66 senior units, TDC $39.7 million) $4,179,838 recommended April 2026 after Council deferred them on March 31. 2024 NOFA (January 29, 2024) offered about $16.1 million and funded Fairview Terrace $7,037,865 HOME, Kentfield Apartments rehab $1,126,893 PLHA and LMIHF, Casa de Mariposa $747,055, plus two HHAP projects. Typical award $0.7 million to $7 million per project.",
+   "per_unit_cap": "No published cap; 2025 applications ranged from about $27,000 to about $294,000 of City funds per unit. HOME subsidy limits apply when HOME is the source.",
+   "affordability_requirement": "55-year regulatory agreement and loan term at 3% simple interest, repaid from residual receipts proportionate to the City share of permanent financing; projects served 30% to 80% AMI (families) and 30% to 60% AMI (seniors). HOME-funded units carry the HOME affordability period inside the 55-year term. Article XXXIV authority: voters allow Council to approve up to 500 assisted units per year.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "senior housing",
+    "farmworker housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Next Housing NOFA expected about October 2026 under the Council-approved process (Motion 2025-11-04-1601: release, two-week question window, due date at least 45 days after release, pass/fail review, three-rater scoring, matrix to Council two weeks before award). No 2026 NOFA posted on the housing page as of 2026-11-08; confirm with hhep@stocktonca.gov, (209) 937-8538.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Stockton is the only city in San Joaquin County running a competitive gap-loan NOFA, and it is the main local soft source after the SJCOG San Joaquin Regional Housing Fund (county record). Pool is HUD and state pass-through plus housing successor LMIHF, so awards must fit each source's rules and deadlines; the City requires the full stack to be committed before executing loan documents and de-obligates allocations older than three years that cannot start within three years (Sierra Vista III lost $1.6 million in 2026). Scoring: developer capacity 30, proforma 30, populations served 15, design 15, leverage 10; an AI score was averaged with three human raters in 2025. Stacks with HACSJ project-based vouchers, County HOME (Urban County does not cover Stockton), BHSA and managed care plan grants (county records), the City PFF exemption and the 100% density bonus (records below). 2026 awards included HOME-ARP and PIP as eligible sources. Source documents read through the Stockton Legistar API and Granicus attachments; stocktonca.gov Economic Development pages have moved to /business/economic_development/housing_index.php.",
+   "source_url": "https://legistar1.granicus.com/stockton/attachments/b99be6e6-5a2b-44a6-b6d2-10c2eca86d3d.pdf",
+   "record_id": "3ce8fc2898",
+   "cycle_notes": "fall release",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "senior housing",
+    "farmworker housing"
+   ],
+   "next_deadline_date": "2025-11-04",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Stockton",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "verified",
+   "program_name": "Low and Moderate Income Housing Fund (LMIHF), Successor Agency to the Stockton Redevelopment Agency (housing successor)",
+   "administering_agency": "City of Stockton as Housing Successor; administered by the Housing Division through the Housing NOFA",
+   "funding_type": "loan",
+   "typical_award_size": "Fund balance not published in the 2026 NOFA documents; the Housing Source Funds Description lists LMIHF as a NOFA source for acquisition, new construction and conversion or rehabilitation for households up to 120% AMI. Recent uses: part of $1,614,000 HOME and LMIHF allocated to Sierra Vista III in 2019 and 2020 (de-obligated March 2026 and returned to the NOFA pool); part of $1,126,893 PLHA and LMIHF to Kentfield Apartments rehab (2024).",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "Housing successor rules (Health and Safety Code 34176.1): 55-year rental covenants, income targeting by statute with at least 30% of expenditures for extremely low income households over each five-year period; City NOFA applies a 55-year regulatory agreement.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Deployed only through the Housing NOFA (next expected about October 2026); no standalone LMIHF application. Check the annual housing successor report filed with the City's HCD Annual Progress Report for the current balance.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Stockton is one of the few San Joaquin County cities with legacy redevelopment housing money; Tracy, Manteca and Lodi records show none in active use. LMIHF is the most flexible source in the Stockton pool (local money, up to 120% AMI, no federal cross-cutting rules) and is usually paired with HOME to cover costs HOME cannot. Treat as a small, lumpy source: the only recent LMIHF commitments were under $1.7 million each. Combine with HACSJ PBVs and SJRHF gap loans (county records). Fund description opened from the Stockton Legistar attachment for the April 2026 award item; the Successor Agency meets concurrently with Council.",
+   "source_url": "https://legistar1.granicus.com/stockton/attachments/540653fd-9f3a-493b-85ca-5810bff4fdb1.docx",
+   "record_id": "7c3dbf2c54",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Stockton staff report describing LMIHF uses states no wage term. Construction paid solely with low and moderate income housing fund money plus private funds is excluded under 1720(c)(4). Local loans are public funds under 1720(b), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports a value.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Stockton",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "verified",
+   "program_name": "City-Wide Affordable Housing Development Public Facilities Fee (PFF) Exemption Program (with Greater Downtown Residential PFF Exemption; Resolutions 2015-11-17-1602, 2018-02-06-0504, 2018-11-06-1402, 2020-12-15-1105)",
+   "administering_agency": "City of Stockton Economic Development Department (fee programs) with Community Development Department Permit Center",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Full exemption from seven Public Facilities Fee categories (city office space, libraries, fire stations, parkland, community recreation centers, police stations, street improvements) for qualifying new affordable housing anywhere in city limits; the same categories are exempt for all new residential development in the Greater Downtown area. Dollar value depends on the current PFF schedule (not published on the program page); the program was cited by HCD as a basis for Stockton's 2023 Prohousing Designation. Other PFFs (water, wastewater, air quality, habitat, school fees) and the SJMSCP habitat fee still apply.",
+   "per_unit_cap": "Not applicable (fee exemption per unit equals the exempted PFF categories).",
+   "affordability_requirement": "Qualifying affordable housing development as defined in the authorizing resolutions (deed-restricted units); confirm the affordability threshold and covenant term with the Economic Development Department before relying on it.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No application deadline; rolling. Apply before building permit issuance through the Economic Development Department. The exemption sunsets when the City completes its Master Infrastructure Plans and PFF Nexus Study and adopts new fees; as of November 8, 2026 the nexus study is still in progress (Parks Master Plan approved, draft Transportation Master Plan out for comment in 2026), so the exemption remains listed as active.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Most valuable local incentive in Stockton after the NOFA; the exemption reduces per-unit soft costs by the PFF categories listed and the downtown exemption applies to market-rate units too, which helps mixed-income deals. A non-residential short-term PFF deferral program (through December 31, 2027) and the non-residential 5 or 10 year deferral do not apply to housing. Stacks with the Chapter 16.40 density bonus and the Housing NOFA; fee exemptions count as public assistance for Labor Code 1720 analysis, so confirm prevailing wage exposure with counsel. Read from the City Business Assistance page (financial_assistance.php); authorizing resolutions are linked there.",
+   "source_url": "https://www.stocktonca.gov/business/economic_development/financial_assistance.php",
+   "record_id": "2b52bc78bc",
+   "cycle_notes": "Rolling fee exemption at building permit. Sunset is tied to adoption of new PFFs after the nexus study, not a fixed date; check the City Public Facility Fees page for nexus study adoption. Pass 3 research also noted a five-year phase-out of the related SESP fee reduction starting 2025 (not stated on the current program page, which still says SESP expires when the nexus study fees take effect).",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab (new units)",
+    "mixed-income (downtown)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "Deadline text fixed (resolution date was being parsed as a past deadline). Prevailing wage left unclear: neither the City program page nor the authorizing resolutions listed there state a prevailing wage rule; Labor Code 1720(b)(4) treats waived fees as public funds but de minimis and affordable housing exemptions in 1720(c) make the result project specific, and the statute page on california.public.law returned 403.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. The program fully exempts qualifying affordable housing from seven Public Facilities Fee categories. Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Stockton",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "verified",
+   "program_name": "Prohousing Designation and Prohousing Incentive Pilot (PIP) funds, City of Stockton (2023 designation, 2026 renewal application, PIP Rounds 1 to 4)",
+   "administering_agency": "City of Stockton Housing, Homelessness, Events and Parking Department with HCD",
+   "funding_type": "grant",
+   "typical_award_size": "Stockton received $2.37 million in PIP funds after its 2023 designation (one of 22 jurisdictions then designated) and applied by March 31, 2026 for PIP Round 4 ($1,000,000 base plus up to $500,000 bonus, $1.5 million total, no match). PIP funds are placed in the Housing NOFA for predevelopment, construction, acquisition, rehabilitation or capitalized operating subsidies for households up to 120% AMI, and PIP was part of the $4.55 million 2024 property acquisition NOFA. The 2026 renewal application is out for public comment November 2 to December 8, 2026 (Council hearing December 8, 2026, 1:00 PM) and would keep the City eligible for PIP and HHAP preferences through 2029.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "PIP: affordable to extremely low through moderate income households, or workforce housing up to 120% AMI (150% in high-cost areas); City NOFA covenants apply.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "predevelopment"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "PIP money reaches developers only through the City Housing NOFA (next expected about October 2026). Prohousing renewal hearing December 8, 2026; PIP Round 4 award decision pending from HCD.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Designation also gives Stockton projects scoring preference in state competitive programs (AHSC, IIG, MHP, HHAP), which helps the local stack indirectly. Stockton Measure M (Strong Communities sales tax) funds libraries and recreation, not housing, and Measure W funds public safety; neither is a housing source despite appearing in the brief. Read from the City housing page, which also lists the 2025-2029 Consolidated Plan and 2026-27 AAP documents.",
+   "source_url": "https://www.stocktonca.gov/business/economic_development/housing_index.php",
+   "record_id": "019fa873d8",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "site acquisition",
+    "preservation",
+    "capitalized operating reserves"
+   ],
+   "next_deadline_date": "2026-12-08",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. HCD Prohousing Incentive Program Final Guidelines (2026) and PIP NOFA Round 5 contain no prevailing wage provision, and the City housing page and staff report state none. PIP grants are public funds under 1720(b)(1). https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/pip-final-guidelines-2026.pdf",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports a value.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Tracy",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "verified",
+   "program_name": "Density Bonus, Tracy Municipal Code Title 10 Chapter 10.08 Article 36.5 (Sections 10.08.4650 to 10.08.4695; Ordinance 1378 adopted January 20, 2026)",
+   "administering_agency": "City of Tracy Community and Economic Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement and entitlement incentive, not a subsidy. Ordinance 1378 repealed the 2008 article (Ord. 1113) and re-enacted Article 36.5 to match current state law: bonus of 5% to 35% (higher for 100% affordable projects under Government Code 65915), one or more concessions or incentives, parking caps, land donation and child care bonuses, and a recorded density bonus housing agreement (10.08.4686).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State thresholds: 10% very low, 20% low (code text uses 70% AMI for low), 50% senior, 20% moderate condominium units; 100% affordable projects under state law.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use",
+    "homeownership"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement. Adopted as part of the Housing Element implementation package introduced December 2025 and adopted January 20, 2026; no further hearing scheduled.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Tracy's bonus is the state minimum with no local enhancement, unlike Stockton's 100% tier. The 2023-2031 Housing Element (adopted July 1, 2025, HCD compliance letter August 11, 2025, RHNA 8,830) relies on rezoning rather than local subsidy. Tracy's Residential Growth Management Ordinance governs allotments for market-rate units; confirm whether affordable projects are exempt. Read from the zoneomics mirror of Title 10 because cityoftracy.org returns 403 to scripts and its Municipal Code host blocks automated access.",
+   "source_url": "https://www.zoneomics.com/code/tracy-CA/chapter_44",
+   "record_id": "ccd43a5158",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-use",
+    "condominium conversion"
+   ],
+   "next_deadline_date": "2026-01-20",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Manteca",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "verified",
+   "program_name": "Density Bonus and Other Incentives, Manteca Municipal Code Chapter 17.72 (Ord. 1501, 2011) and Draft Zoning Code Update (public review October 22 to November 21, 2026)",
+   "administering_agency": "City of Manteca Development Services Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement and entitlement incentive, not a subsidy. One density bonus with concessions per Government Code 65915 for 10% lower income, 5% very low income, senior or 10% moderate for-sale units; parking caps of 1 space (0-1 bedroom), 2 (2-3 bedrooms), 2.5 (4 or more bedrooms); waivers of standards that physically preclude the project; density bonus agreement required; pro forma review consultant paid by applicant unless nonprofit. The Draft Zoning Code Update (implementing the 2043 General Plan and 6th Cycle Housing Element) rewrites 17.72 and the 17.200 density bonus definitions and makes Council the approval authority.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State density bonus thresholds; continued affordability per Government Code 65915 (55 years rental) under the agreement required by 17.72.030.",
+   "eligible_project_types": [
+    "new construction",
+    "senior housing",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement. Draft Zoning Code Update comment period closed November 21, 2026; Planning Commission hearing noticed, Council adoption expected late 2026 or early 2027.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Manteca's 2011 chapter has not kept pace with state law (no 50% or 100% bonus tiers, old parking ratios), so state law controls in practice; the pending Zoning Code Update should fix this. Section 17.72.030.G still references a Chapter 17.32 Affordable Housing Requirements that no longer exists in the code (see next record). Manteca has no local trust fund, in-lieu fund or NOFA, so the land-use incentive plus County and regional sources (Urban County CDBG and HOME, SJRHF, HACSJ PBVs, BHSA) are the whole local layer. Read from the zoneomics mirror of Title 17 (ecode360 blocks scripts); the City's Title 17 page confirms the update schedule.",
+   "source_url": "https://www.zoneomics.com/code/manteca-CA/chapter_4",
+   "record_id": "ce5d41a532",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "senior housing",
+    "mixed-use",
+    "common interest development (moderate income)"
+   ],
+   "next_deadline_date": "2026-11-21",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Manteca",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "verified",
+   "program_name": "Manteca Affordable Housing Requirements (former Chapter 17.32) and proposed affordable housing fee (no active inclusionary ordinance, in-lieu fund or housing trust fund)",
+   "administering_agency": "City of Manteca Development Services Department",
+   "funding_type": "negative finding",
+   "typical_award_size": "Not an active program. Current Title 17 has no Chapter 17.32; the chapter is only referenced in 17.72.030.G, indicating the inclusionary requirement was repealed. Local press reported a City nexus study supporting a maximum $16.86 per square foot affordable housing fee and Council discussion of adopting a fee, but no ordinance or fee resolution was found on manteca.gov or in the Draft Zoning Code Update. No Manteca Housing Trust Fund, in-lieu fee fund or housing successor LMIHAF appears in City pages.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "None in effect.",
+   "eligible_project_types": [
+    "other"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "Verify with Planning (209) 456-8540 whether an affordable housing impact or linkage fee is scheduled for Council action with the Zoning Code Update, and whether any in-lieu balance remains from the former Chapter 17.32.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Manteca receives CDBG through the San Joaquin Urban County ($420,911 FY 2026-27 request, county record) and HOME through the County NOFA; the City is a member of the SJCOG San Joaquin Regional Housing Fund. Expect no City gap money; County HOME, SJRHF, HACSJ PBVs and BHSA plus the density bonus are the stack. Blocked this pass: manteca.prod-as.govaccess.org (6th Cycle Housing Element PDF, connection refused), manteca.gov site search and Agenda Center (JavaScript only); the adopted General Plan PDF on manteca.gov lists the Housing Element under separate cover. Source is the Title 17 code mirror chapter that carries the dangling 17.32 reference.",
+   "source_url": "https://ecode360.com/46033517",
+   "record_id": "d1c7c8588a",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "not applicable"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "audit_note": "Official Title 17 on eCode360 (linked from manteca.gov) lists chapters 17.02 through 17.30 then 17.40 onward with no Chapter 17.32; 17.72.030.G still references Chapter 17.32 (Affordable Housing Requirements). No active inclusionary requirement, in-lieu fund or trust fund, so reclassified from other to negative finding. Press-reported $16.86 per square foot nexus study not re-checked.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program exists, so nothing here pays for construction; Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720) applies only to construction paid for in whole or in part out of public funds. The former inclusionary chapter was repealed and the proposed affordable housing fee is a charge on development, not public funds."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Manteca",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "verified",
+   "program_name": "Manteca 6th Cycle Housing Element implementation and Urban County CDBG/HOME (no city-run housing NOFA)",
+   "administering_agency": "City of Manteca Development Services Department; San Joaquin County Human Services Agency Neighborhood Preservation Division for CDBG and HOME",
+   "funding_type": "grant",
+   "typical_award_size": "Manteca runs its own annual CDBG and HOME application as a pass-through subrecipient of the San Joaquin Urban County. FY 2026-27 NOFA estimated allocation: CDBG $420,013 and HOME $111,278 (estimates based on prior year). HOME-eligible uses include acquisition, new construction, rehabilitation, homebuyer assistance and TBRA; Manteca HOME funds are administered by the County Neighborhood Preservation Division. The City publishes no trust fund or fee waiver program; its housing work in 2025-2026 is the Zoning Code Update implementing the 2043 General Plan and the 6th Cycle Housing Element.",
+   "per_unit_cap": "HOME subsidy limits apply to County HOME awards.",
+   "affordability_requirement": "HUD CDBG national objective and HOME rent and income limits for County-funded projects; Housing Element programs may offer density bonus and streamlined review only.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "homeownership",
+    "rental assistance",
+    "services/operations"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "FY 2027-28 City notice not yet posted as of November 8, 2026; the FY 2026-27 application was due January 22, 2026, so expect the next deadline about January 2027. Contact (209) 456-8556.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Documented so the gap is explicit: Manteca is the county's fastest growing city but has no local affordable housing capital. Developers should apply to the County HOME NOFA, SJRHF gap loans, HACSJ PBVs and BHSA (county records) and use the Chapter 17.72 density bonus. The Title 17 page (opened) confirms the Zoning Code Update implements the 6th Cycle Housing Element; the Housing Element document itself is hosted on the blocked govaccess server.",
+   "source_url": "https://www.manteca.gov/216/CDBG-HOME-Funding",
+   "record_id": "534004e2c0",
+   "cycle_notes": "Annual City CDBG/HOME application; FY 2026-27 applications due by email January 22, 2026 at 5:00 p.m.",
+   "eligible_project_detail": [
+    "CDBG: public facilities and improvements, property acquisition, public services, new construction, rehabilitation, homebuyer assistance",
+    "HOME: acquisition, new construction, rehabilitation, homebuyer assistance, tenant-based rental assistance",
+    "multifamily rental (County HOME NOFA)"
+   ],
+   "next_deadline_date": "2026-01-22",
+   "deadline_check": "past_date",
+   "audit_note": "Program name says no city-run housing NOFA, but manteca.gov posts a City FY 2026-27 CDBG and HOME Notice of Funding Availability and application; consider renaming.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Lodi",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "verified",
+   "program_name": "CDBG entitlement, City of Lodi (2026-27 Annual Action Plan and annual CDBG application cycle)",
+   "administering_agency": "City of Lodi Community Development Department, Neighborhood Services Division (CDBG administration consultant Michael Baker International)",
+   "funding_type": "grant",
+   "typical_award_size": "2026-27 CDBG award $665,263 (2025-26 $655,037; 2024-25 $675,615): capital projects $434,263 including Public Works $235,000, DCDC/HACSJ Salas Park (Lodi Commons) $115,000 and $84,263 unassigned; CBO services $98,000 (15% cap); admin $133,000 including fair housing. 2026-27 cycle anticipated about $310,000 for capital and infrastructure applications. City guideline: 40% of the award net of admin to community-based organizations. No program income.",
+   "per_unit_cap": "None; HOME limits do not apply because Lodi has no HOME allocation.",
+   "affordability_requirement": "HUD CDBG national objective (low and moderate income benefit); Consolidated Plan 2024-2028 goal to preserve and increase affordable housing through rehabilitation, land acquisition or partnerships with housing developers.",
+   "eligible_project_types": [
+    "acquisition-rehab",
+    "predevelopment",
+    "services/operations"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "2026-27 applications ran December 8, 2025 to January 27, 2026; the 2027-28 cycle should open about December 2026 with applications due late January 2027 and funds available July 1, 2027. 2025-26 CAPER hearing was September 2, 2026. Contact NeighborhoodServices@lodi.gov.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Lodi is a CDBG entitlement city but not a HOME participating jurisdiction; HOME for Lodi projects comes from the San Joaquin Urban County NOFA (Lodi Commons received $230,024 plus $500,000 program income in 2026-27 and $2 million HOME-ARP, county records). City CDBG contributions to housing are small infrastructure or predevelopment pieces ($115,000 to Salas Park in 2026-27), so treat CDBG as a sub-$250,000 layer. Lodi joined the SJCOG San Joaquin Regional Housing Fund by resolution on July 17, 2024 and gets HHAP Round 4 ($652,126) and Round 5 subrecipient funds for shelter and transitional housing. Read from the City CDBG page and the 2026-27 Annual Action Plan PDF.",
+   "source_url": "https://www.lodi.gov/183/Community-Development-Block-Grant-Progra",
+   "record_id": "80d7f9fc1f",
+   "cycle_notes": "applications December to late January",
+   "eligible_project_detail": [
+    "public facilities",
+    "acquisition-rehab",
+    "site acquisition and infrastructure for affordable housing",
+    "public services"
+   ],
+   "next_deadline_date": "2027-07-01",
+   "deadline_check": "future_date",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Lodi",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "verified",
+   "program_name": "City-owned sites for affordable housing (Housing Element Program 1.16 Surplus Land Act; Salas Park right-of-way with HACSJ; 130 West Century Boulevard)",
+   "administering_agency": "City of Lodi Community Development Department and City Council",
+   "funding_type": "land",
+   "typical_award_size": "Land contribution, not cash. Salas Park former right-of-way (about 3 acres rezoned to High Density Residential by Ordinance 2026, August 2024): City agreement with the Housing Authority of the County of San Joaquin for up to 110 affordable units, first phase Lodi Commons (DCDC Senior Housing at Salas Park, 54 senior units plus manager) funded with County HOME, HOME-ARP, HHAP, Congressional Community Project funds and $115,000 City CDBG. 130 West Century Boulevard (about 2.5 acres, Housing Element capacity 53 lower income units) under Council discussion January 27, 2026 with no decision. Program 1.16 targets 101 lower income units on four City sites, with RFP or sale by 2026, ENA 2026, entitlements 2027-2028, permits 2029.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Lower income units counted toward RHNA; Surplus Land Act priority to affordable housing developers (25% affordable minimum under Government Code 54233 when sold for housing).",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Housing Element Program 1.16 calls for an action plan to sell or RFP City-owned land for affordable housing by 2026 and incentives for affordable housing on City sites by 2026; watch Council agendas for a Surplus Land Act declaration on 130 West Century Boulevard and the remaining Salas Park phase (56 units).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Lodi's only material local contribution to multifamily deals is land; the City budget has no housing fund and no RDA housing successor fund appears in the Housing Element or in Council items since 2024. The HACSJ partnership shows the working model: City land plus County HOME and HOME-ARP, HHAP, HACSJ PBVs and tax credits (county records). A developer other than HACSJ would need a Surplus Land Act process. Read from the City 2026-27 Annual Action Plan PDF (Salas Park partnership) and the Legistar staff reports for the January 27, 2026 Century Boulevard item.",
+   "source_url": "https://www.lodi.gov/DocumentCenter/View/10072/26-27-AAP-Final-Draft-Public-Review-050226-060326-PDF",
+   "record_id": "e1113697bd",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "senior housing",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No program-specific rule found. City land conveyed or leased below fair market value is public funds under Labor Code 1720(b)(3) (transfer of an asset of value for less than fair market price, https://california.public.law/codes/labor_code_section_1720), but coverage depends on 1720(c) exemptions and project facts, for example 1720(c)(1) private residential projects remain covered when built under an agreement with a local public housing authority such as HACSJ. The Surplus Land Act affordability section, Government Code 54233.5, sets 15 percent lower income units at 10+ units and contains no prevailing wage term. Federal HOME or CDBG layered on a given site (for example Lodi Commons) carries its own Davis-Bacon trigger (HOME 12+ assisted units, CDBG 8+ units), which belongs to those funding records, not this land program.",
+   "audit_note": "Tier 3: prevailing wage left unclear; the only basis is Labor Code 1720(b)(3) below-market land transfer, and the outcome depends on 1720(c) exemptions and deal terms set in each disposition agreement.",
+   "last_audited": "2026-11-08"
+  }
+ }
+]

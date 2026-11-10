@@ -1,0 +1,827 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Rosa",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "Santa Rosa Housing Trust annual Notice of Funding Availability (Housing Authority affordable housing loans: local Housing Trust, CDBG, PLHA and Prohousing Incentive Program funds)",
+   "administering_agency": "Housing Authority of the City of Santa Rosa, Housing and Community Services Department (Santa Rosa Housing Trust)",
+   "funding_type": "loan",
+   "typical_award_size": "FY 2026-27 NOFA (issued May 1, 2026, due June 5, 2026): about $3.6 million, made up of about $1,399,000 local Housing Trust funds, $1,056,071 CDBG and $1,187,500 state Prohousing Incentive Program (PIP) funds; two applications received for $4 million and 93 units; August 24, 2026 awards: $2,000,000 to Ponderosa Village Phase II (CRDC and Danco, 30 units, 250 Roseland Ave) and $1,642,571 to Caritas Homes Phase II (360 Seventh St). FY 2025-26 NOFA: about $3.5 million (about $2,210,500 local, $1,082,310 CDBG); awards Sept 2025: $489,228 Zane-Wolff Veterans Village rehab, $1,238,310 Apple Valley Scattered Sites rehab, $2,000,000 Ridley Family Apartments (50 units). FY 2024-25: about $3.1 million for 170 units. Local Housing Trust revenue is one half of the City's real property transfer tax allocation ($2.275 million total in FY 2026-27, split equally with Homeless Services) plus housing impact fees and commercial linkage fees (about $1.44 million collected in 2025). Application fee $2,203.",
+   "per_unit_cap": "No published per-unit cap; awards sized by gap and scored on a 100-point system (affordability 20, developer experience 15, special needs 12, readiness 10, leveraging 10, TCAC/CDLAC competitiveness 10, bedrooms 8, services 7, other 5, amenities 3). Requests have run $0.5 million to $2 million per project.",
+   "affordability_requirement": "Units restricted to extremely low, very low and low income households up to 60% AMI (unless another source restricts further) for 55 years from initial occupancy under a recorded Regulatory Agreement. Standard loan: 3% simple interest, principal and interest deferred 55 years, residual receipts split 75% to the Authority and 25% to the developer.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. No FY 2027-28 Housing Trust NOFA has been issued; based on prior cycles expect a May 2027 release with an early June 2027 deadline. Contact housingtrust@srcity.org, (707) 543-3300.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "This is the primary local gap source inside Santa Rosa city limits and is separate from the County CFH, County HOME/CDBG (Santa Rosa is its own CDBG entitlement and is not in the Urban County) and County PLHA records. Santa Rosa is also a HOME participating jurisdiction and has run a continuous HOME NOFA in the past (2020); HOME TBRA guidelines were revised September 2026. The City's own PLHA 2024-2028 allocation (separate record) and the $1.25 million PIP grant (accepted April 7, 2026, must be spent by June 30, 2028) are folded into this NOFA, so a single application reaches all City sources; applicants cannot pick the source. Typical stack: City NOFA loan plus RED Housing Fund (county record) plus County CFH or PBVs, then 4% or 9% LIHTC. The FY 2026-27 round had a five-point preference for rehabilitation and a five-point deduction for applicants that previously declined or failed to close an award. Prevailing wage: the NOFA requires compliance with California prevailing wage and, for federal funds, Davis-Bacon. Note the City's Capital Facilities Fee pilot waiver (separate record) is not available to units receiving City or Housing Authority loan funds, so developers must choose between the fee waiver and NOFA funds. Access notes: srcity.org returns 403 to scripts; records were read from the Legistar web API (client santa-rosa) and legistar.granicus.com attachments, and the ca-santarosa.civicplus.com mirror for some pages.",
+   "source_url": "https://legistar.granicus.com/santarosa/attachments/b3d1890e-abad-405d-b6fe-7256e122c83c.pdf",
+   "record_id": "7eb171a8ae",
+   "cycle_notes": "Annual spring NOFA. FY 2026-27: issued May 1, 2026, due June 5, 2026 at 3 pm (physical check for fee required by deadline), awards August 24, 2026. Projects must start construction within 12 months of award or funds are rescinded.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Santa Rosa Housing Trust FY 2026-27 NOFA, requirement 12: applicants must comply with California prevailing wage requirements and federal Davis-Bacon labor standards: https://legistar.granicus.com/santarosa/attachments/b3d1890e-abad-405d-b6fe-7256e122c83c.pdf",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Rosa",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "Santa Rosa development fee deferral for affordable housing units, City Code Chapter 21-01 (Section 21-01.020)",
+   "administering_agency": "City of Santa Rosa Planning and Economic Development Department; agreements approved by City Council",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Deferral, not a waiver: Government Code 66000(b) development impact fees on affordable units under contract with the City may be deferred up to two years from the date otherwise due, secured by a deed of trust, with the balance (at the rate in effect when originally due) payable on sale, transfer or placement of permanent financing. Separately, all City development impact fees are due at final inspection rather than permit issuance (Section 21-01.030), which is itself a cash-flow benefit, and water and sewer demand fees may use a Board of Public Utilities payment plan.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Only units under an affordability contract with the City or Housing Authority qualify.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Application must be filed with Planning and Economic Development at least 120 days before fees are due; each deferral agreement needs Council approval. No standing deadline.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Stacks with the Capital Facilities Fee pilot waiver (separate record) for remaining fees such as park and utility fees, and with the Housing Trust NOFA. The County's Multi-Family Development Fee Deferral Program (county record) applies only to unincorporated projects. Deferral agreements are not assignable without City Attorney consent, which matters when a LIHTC partnership takes title after entitlement. Read from the ecode360 mirror; the Housing Element implementation ordinance introduced December 2025 (PLN25-0397) amended Titles 20 and 21 but the redline was not reviewed for changes to this chapter.",
+   "source_url": "https://ecode360.com/42997580",
+   "record_id": "d7d3719534",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule found. Labor Code 1720(b)(4) counts fees waived, reduced or charged at less than fair market value by a public agency as public funds, so the deferral (due at the rate in effect when originally due, apparently without interest), can make a private project paid for in part with public funds; coverage then turns on project facts and the 1720(c) exemptions, including 1720(c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost) and 1720(c)(5)(E) (below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI). Most LIHTC deals with HCD money pay prevailing wage anyway. Source: https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "Prevailing wage left unclear: only basis is Labor Code 1720(b)(4) and the result depends on 1720(c) exemptions and project facts; confirm with counsel or a DIR coverage determination. ecode360 returned 403 in the Tier 3 audit, so Chapter 21-01 text was not re-read.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Rosa",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "Santa Rosa Affordable Housing Capital Facilities Fee Pilot Program (Resolution RES-2024-175) and 50% permit fee reduction for 100% deed-restricted projects",
+   "administering_agency": "City of Santa Rosa Planning and Economic Development Department with Housing and Community Services (deed restrictions through the Housing Authority)",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Capital Facilities Fee (Chapter 21-04) set at $0 for new units deed-restricted through the Housing Authority at very low (0-50% AMI, including acutely and extremely low), low (50-80% AMI) and moderate (80-120% AMI) income levels, for building permits issued during the three-year pilot (adopted late 2024, runs until about late 2027 or adoption of a new CFF nexus study, whichever is first). The City's 2026 Prohousing renewal application also cites a 50 percent reduction in permit fees for projects in which 100 percent of units are deed-restricted affordable, and streamlined design review. The CFF for a multifamily unit is several thousand dollars, so the waiver is worth roughly $100,000 to $500,000 on a typical project (confirm with the current fee schedule).",
+   "per_unit_cap": "Per-unit waiver equal to the applicable CFF for each restricted unit; no dollar cap published.",
+   "affordability_requirement": "Units must be deed-restricted through the Housing Authority at the AMI categories above. Units receiving locally sourced financial assistance from the City or Housing Authority loan programs are NOT eligible for the CFF waiver.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies to building permits for vertical construction issued during the pilot period (three years from the late 2024 effective date of RES-2024-175, roughly through fall 2027, unless a new nexus study ends it sooner). Permit fee reduction has no stated sunset.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Key conflict: a project cannot take both the CFF waiver and a Santa Rosa Housing Trust NOFA loan, so model both paths; for a 100% affordable LIHTC deal the NOFA loan is usually larger than the CFF waiver, but the waiver has no competition and no application cycle. The waiver stacks with the Chapter 21-01 deferral of other impact fees, state density bonus and the County welfare exemption (county record). The County's 2025-2026 traffic and parks fee waiver (county record) applies only in unincorporated Sonoma County. Read from the resolution text included in the City's draft 2026 Prohousing Designation renewal application (Legistar matter 26-0547, Council hearing August 4, 2026); the City's designation expires January 1, 2027 and renewal is pending with HCD.",
+   "source_url": "https://legistar.granicus.com/santarosa/attachments/21130e8e-5174-46fe-8b07-7f926d718e3d.pdf",
+   "record_id": "1a4482981d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing",
+    "conversion of temporary housing units approved under Section 20-16.030 to permanent units"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule found. Labor Code 1720(b)(4) counts fees waived, reduced or charged at less than fair market value by a public agency as public funds, so the Capital Facilities Fee waiver and 50 percent permit fee reduction can make a private project paid for in part with public funds; coverage then turns on project facts and the 1720(c) exemptions, including 1720(c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost) and 1720(c)(5)(E) (below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI). Most LIHTC deals with HCD money pay prevailing wage anyway. Source: https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "Prevailing wage left unclear: only basis is Labor Code 1720(b)(4) and the result depends on 1720(c) exemptions and project facts; confirm with counsel or a DIR coverage determination.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Rosa",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "Santa Rosa Density Bonus and Other Developer Incentives, Zoning Code Chapter 20-31 (state density bonus plus local Supplemental Density Bonus up to 100%)",
+   "administering_agency": "City of Santa Rosa Planning and Economic Development Department; Density Bonus Housing Agreements through the Housing Authority",
+   "funding_type": "density bonus",
+   "typical_award_size": "Regulatory, not cash. State density bonus up to 50% with incentives and concessions; 100% affordable rental projects (very low and low income, up to 20% moderate) get a 100% density bonus. Local enhancements: (1) an Additional Density Bonus of up to 100% above maximum density for projects that reach the 50% base bonus and add very low income units (5% additional VLI units earns 20%, up to 10% VLI earns 38.75%) or moderate income units; (2) a Supplemental Density Bonus through a Minor Conditional Use Permit using Eligibility Points, at least 60% earned by on-site affordable units and up to 40% by community benefits (public open space, park or capital facilities fee contributions, landmark rehabilitation, family-sized affordable units), with three total incentives or concessions; (3) incentives for specialized housing (10% of units for special needs at very low income rents, 55 years) and child care facilities.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Affordable units restricted 55 years under a recorded Density Bonus Housing Agreement; inclusionary units may count toward both Chapter 21-02 and the density bonus.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Density bonus application filed with the first entitlement application and processed concurrently; Supplemental Density Bonus requires a Minor CUP. Chapter last amended by Ordinance 2023-006 (June 6, 2023); further Title 20 amendments to implement the 2023-2031 Housing Element were introduced December 2025 (PLN25-0397).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Santa Rosa's supplemental bonus goes beyond state law and beyond the County's Chapter 26 density bonus program (county record), which is useful on infill sites near the two SMART stations and Downtown where the Downtown Station Area Specific Plan already allows high densities. A single affordability agreement can cover inclusionary and density bonus units. Pairing a 100% density bonus with the CFF pilot waiver and the Housing Trust NOFA is the standard local stack. Read from the ecode360 mirror of the Santa Rosa City Code.",
+   "source_url": "https://ecode360.com/42981356",
+   "record_id": "9d7bdebf03",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income projects",
+    "100% affordable rental",
+    "student housing",
+    "senior housing",
+    "specialized housing"
+   ],
+   "next_deadline_date": "2023-06-06",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Rosa",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "Permanent Local Housing Allocation (PLHA), City of Santa Rosa formula allocation and 2024-2028 PLHA Plan",
+   "administering_agency": "City of Santa Rosa Housing and Community Services Department; loans awarded by the Housing Authority through its NOFA",
+   "funding_type": "loan",
+   "typical_award_size": "Five-year 2024-2028 formula allocation of up to $3,046,056 ($487,369 for 2024 and $522,044 for 2025 applied for after an October 13, 2026 public hearing); up to 5% ($152,303) for administration. The prior 2019-2023 allocation of $4,012,612 was committed to four projects totaling 196 units. Funds are loaned at 3% simple interest, deferred, repaid from surplus cash, secured by deed of trust and regulatory agreement.",
+   "per_unit_cap": "None published; sized within the annual NOFA.",
+   "affordability_requirement": "Priority for multifamily rental housing affordable to households at or below 60% AMI (predevelopment, development, acquisition, rehabilitation and preservation); PLHA statute allows up to 120% AMI for some activities. Preference for the most units at the deepest affordability.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. PLHA funds are loaned through the Santa Rosa Housing Trust annual NOFA, next expected about May 2027 based on prior cycles. HCD award for the 2024 and 2025 allocations pending after the Council hearing.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Santa Rosa is a direct PLHA entitlement recipient, so its allocation is separate from the County PLHA record (which covers the unincorporated area and non-entitlement cities such as Sonoma and Rohnert Park). Petaluma also receives its own PLHA (see Petaluma record). Because PLHA, CDBG, PIP, HOME and local Housing Trust money all flow through the same NOFA, one application reaches all City sources. Read from the Council staff report and Exhibit A PLHA Plan on the City's Legistar agenda host (matter 26-0770).",
+   "source_url": "https://legistar.granicus.com/santarosa/attachments/cbff409c-b8cf-4067-89f2-f12cfe721295.docx",
+   "record_id": "77adf4c320",
+   "cycle_notes": "Spring Housing Trust NOFA. Council public hearing and PLHA 2024-2028 Plan adoption October 13, 2026 (application for $487,369 for 2024 and $522,044 for 2025, five-year total up to $3,046,056); later years require annual HCD applications.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "PLHA funds are awarded through the Santa Rosa Housing Trust NOFA, which requires compliance with California prevailing wage (FY 2026-27 NOFA requirement 12): https://legistar.granicus.com/santarosa/attachments/b3d1890e-abad-405d-b6fe-7256e122c83c.pdf",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Rosa",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "Santa Rosa tax-exempt multifamily housing revenue bonds (City Council conduit issuance under the City Bond Policy and Term Sheet)",
+   "administering_agency": "City of Santa Rosa Housing and Community Services Department (Housing Authority) and City Council as issuer",
+   "funding_type": "bond",
+   "typical_award_size": "Conduit tax-exempt and taxable multifamily housing revenue bonds issued by the City Council on request under Council Policy 000-15 (RES-2018-071) and City Code Chapter 4-52; amounts set per project within CDLAC allocation (non-profit borrowers may not need an allocation). Bonds are non-recourse to the City and Housing Authority. Issuer fees per the Bond Policy Term Sheet: $5,000 non-refundable application fee (covers initial review and TEFRA hearing, credited at closing), issuance fee of 25 basis points of principal with a $20,000 minimum at closing, and annual compliance monitoring fee of 12.5 basis points of original principal paid semi-annually. Borrower pays all City, bond counsel, financial advisor, CDLAC, trustee and other costs. Rated issues need AA or better unless privately placed under Exhibit A.",
+   "per_unit_cap": "Not published.",
+   "affordability_requirement": "Must satisfy CDLAC regulations and Section 142(d) (20% at 50% AMI or 40% at 60% AMI minimum); Council may impose more restrictive terms per issue. Qualified Project Period set in each Regulatory Agreement (typically 15 years after 50% occupancy, or longer if bonds remain outstanding or CDLAC requires). Project must show positive cash flow after year one or cover any operating deficit for five years.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Request to Council timed to CDLAC application rounds; confirm issuer fee schedule and TEFRA hearing lead time with Housing and Community Services, (707) 543-3300.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Alternative to CSCDA, CMFA or CalHFA conduit issuance for 4% LIHTC deals in Santa Rosa; using the City as issuer can simplify coordination with Housing Authority loans and regulatory agreements. The Developer Information page confirms the program and lists local funds (real property transfer tax and housing impact fees), CDBG, HOME and HCD funds used by the Housing Authority. The Bond Policy and Term Sheet were opened this pass (srcity.org DocumentCenter 21065 and 21066); contact is the Housing Trust Division, HousingTrust@srcity.org, (707) 543-3300. Whether the City is actively issuing versus deferring to JPAs was not confirmed.",
+   "source_url": "https://ca-santarosa.civicplus.com/678/Developer-Information",
+   "record_id": "19f21c72dc",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "mobilehome park acquisition"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Bond Policy Exhibit A Section III.A(10) requires the borrower to comply with California Labor Code Section 1720 et seq. and indemnify the City, and to meet Davis-Bacon if any bond funds are federal (https://srcity.org/DocumentCenter/View/21065/Bond-Policy). This is a compliance covenant, not a determination that conduit bonds alone trigger prevailing wage, so the trigger stays unclear.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Petaluma",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "Petaluma Inclusionary Housing Program (Implementing Zoning Ordinance Section 3.040, Ordinance 2663 N.C.S.) and Housing In-Lieu Fee (Resolution 2018-142 N.C.S.)",
+   "administering_agency": "City of Petaluma Community Development Department, Housing Division",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Residential projects of five or more units, including residential components of mixed-use projects, must provide 15% of units on site as affordable (rental and ownership alike). Alternatives require City Council approval as alternative compliance: land donation, an in-lieu payment to the City Housing Fund equal to a 20% inclusionary requirement, or other methods. In-lieu fee for fractional units under 0.5 or approved alternative compliance: $10.12 per square foot (2024 Development Impact and Capacity Fees booklet, effective July 1, 2024), collected at close of escrow for for-sale homes and at final inspection or certificate of occupancy for multifamily. Projects deemed complete before January 1, 2019 use the prior rules.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Affordability restrictions of at least 45 years for ownership units and 55 years for rental units; the 2023-2031 Housing Element targets 1,000 inclusionary units (400 very low, 400 low, 200 moderate) over eight years.",
+   "eligible_project_types": [
+    "mixed-income",
+    "mixed-use",
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement. Housing Element Program 11 called for a 2024 review of thresholds, in-lieu options and fee structure and a fee recalculation at least every four years; no 2025 or 2026 ordinance or resolution amending the program was found (cityofpetaluma.org blocks scripts, so recent council actions could not be checked). Fee schedule for FY 2025-26 and FY 2026-27 could not be opened.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Because the 2018 ordinance removed the by-right in-lieu option, most market-rate projects now build units on site and in-lieu revenue to the Housing Fund has slowed; the Housing Element reports the In-Lieu Fund at $3,323,128 on July 1, 2022 (see Petaluma Housing Fund record). Petaluma's 15% rental requirement is higher than Santa Rosa's 8% low income rule and lower than the City of Sonoma's 25%. The County's Affordable Housing Program fee (county record) applies only in unincorporated areas. Fee data read from the City's 2024 fee booklet and schedule hosted on the City's ProudCity storage; ordinance text itself was not opened because petaluma.municipal.codes and cityofpetaluma.org return 403.",
+   "source_url": "https://storage.googleapis.com/proudcity/petalumaca/2024/06/2024-Development-Impact-and-Capacity-Fees-BOOKLET.pdf",
+   "record_id": "30e49500f9",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate rental and for-sale projects (compliance)",
+    "mixed-income projects",
+    "mixed-use residential"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Petaluma",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "Petaluma Commercial Development Housing Linkage Fee (Ordinance 2171 N.C.S. of 2004, as amended 2011)",
+   "administering_agency": "City of Petaluma Community Development Department, Housing Division; collected by Building at permit",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Fee on new or expanded nonresidential square footage, effective July 1, 2024: commercial $3.47, retail $6.00 and industrial $3.57 per square foot of building space (July 2022 rates were $3.36, $5.81 and $3.46), due before building permit issuance, escalated annually by the ENR Construction Cost Index 20-city average. Exempt: public facilities, public and private schools, churches. Fund balance $2,158,717 as of July 1, 2022 (Housing Element).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Proceeds fund housing affordable to households between 80% and 100% AMI under the 2004 ordinance; Housing Element Program 12 directs the City to consider widening the target to extremely low, very low and low income households and to add an automatic CPI adjustment.",
+   "eligible_project_types": [
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Fee rate in effect at building permit; FY 2025-26 and FY 2026-27 schedules could not be opened. Program 12 set 2024 for a nexus study review and end of 2024 to consider revising the AMI target; outcome not confirmed.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "The linkage fund is one of three revenue sources for Petaluma's Local Housing Trust Fund (see Housing Fund record) and is the only local source aimed at 80-100% AMI workforce units, which makes it a possible match for moderate-income or mixed-income deals that cannot use LIHTC. Petaluma's rates are far higher than Rohnert Park's 2008 linkage fee ($0.69 to $1.19 per square foot) and the County's Workforce Housing fee applies only in unincorporated areas. Read from the City's 2024 Development Impact Fee Schedule on City ProudCity storage.",
+   "source_url": "https://storage.googleapis.com/proudcity/petalumaca/2024/06/2024-Development-Impact-Fee-SCHEDULE.pdf",
+   "record_id": "ec661e321e",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "nonresidential development (compliance)",
+    "funds workforce rental and ownership housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Petaluma",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "Petaluma Housing Fund and Local Housing Trust Fund (Inclusionary In-Lieu Fund, Commercial Linkage Fund, PLHA formula allocation and HCD Local Housing Trust Fund match)",
+   "administering_agency": "City of Petaluma Community Development Department, Housing Division",
+   "funding_type": "loan",
+   "typical_award_size": "No fixed award size and no NOFA; the City negotiates gap loans and grants project by project. Balances reported in the certified 2023-2031 Housing Element: In-Lieu Fund $3,323,128 and Commercial Linkage Fee fund $2,158,717 as of July 1, 2022; PLHA about $250,000 per year with a $470,905 balance from 2019-2020 program years; HOME program income of $900,000 and $1.1 million of in-lieu funds went to MidPen's 43-unit project at 414 Petaluma Blvd North; the City also received a $1,100,000 HCD Local Housing Trust Fund award in 2022 (HCD award list, not a City page). CDBG entitlement about $330,000 per year (FY 2022-23), mostly for public services and rehab, not new construction.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "In-lieu and PLHA funds target lower income households (PLHA priority at or below 60% AMI); linkage funds target 80-100% AMI under current ordinance. Terms set in each loan agreement; expect 55-year regulatory agreements consistent with inclusionary rental rules.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "predevelopment"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA cycle; approach the Housing Division before a TCAC or CDLAC round. Housing Element Program 13 committed the City to explore new revenue (TOT, short-term rental fees, vacant home tax, employer fee) and to pursue options by 2025, and to consider joining the Renewal Enterprise District JPA; status not confirmed. PLHA allocations require HCD applications each cycle.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Petaluma is a CDBG entitlement city and its own PLHA recipient, so it is outside the County's Urban County CDBG and County PLHA records; it is not a HOME participating jurisdiction (uses state HOME and program income). Local funds are small relative to Santa Rosa, so the usual stack is City gap loan plus County CFH plus RED Housing Fund (county records; Petaluma was exploring RED membership) plus LIHTC. Housing Element Program 14 lists expedited review, a dedicated project manager, trust fund participation, density bonus beyond state law and waived, reduced or deferred impact fees as incentives (see density bonus record). Current fund balances were not available because cityofpetaluma.org and its housing reports page return 403 to scripts; the certified Housing Element was read from the City's planpetaluma.squarespace.com site.",
+   "source_url": "https://planpetaluma.squarespace.com/s/Housing-Element-Final-Certified-2023-2031web.pdf",
+   "record_id": "47058c5ff2",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "land acquisition and predevelopment"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "redirected",
+   "prevailing_wage_basis": "No program-specific rule found. The certified Housing Element states only generally that state law requires prevailing wages for many private projects built under an agreement with a public agency providing assistance; cityofpetaluma.org housing pages return 403, so no City loan guidelines or NOFA could be read.",
+   "last_audited": "2026-11-08",
+   "audit_note": "Housing Element (source_url redirects only to the same file on the Squarespace CDN) still matches the fund balances and sources, but no stated prevailing wage rule could be found for Petaluma Housing Fund loans."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Rohnert Park",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "Rohnert Park Density Bonus (Municipal Code Section 17.08.020) and affordable housing concessions under Section 17.08.010(E)",
+   "administering_agency": "City of Rohnert Park Development Services Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Regulatory. Section 17.08.020 adopts state density bonus law (Government Code 65915 et seq.) by reference with no local increase beyond the state schedule; it sets application contents (project summary table, base and bonus unit counts, replacement housing compliance, parking) and ministerial processing without separate Planning Commission action. Section 17.08.010(E) lets the City Council grant for-sale projects exceeding the inclusionary requirement, and rental projects that include affordable units, additional concessions: an extra density bonus or incentives of equal financial value, waiver of City standards, direct financial assistance (loan or grant) from trust funds, and deferral of all City fees on market-rate units until certificate of occupancy. Projects making all inclusionary units affordable at median, low or very low income get an additional 5% density bonus.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State thresholds (5% very low, 10% low, 10% moderate for-sale, 100% affordable) for the state bonus; Council discretion for the local concessions, tied to on-site affordable units.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Submitted with the entitlement application; Council concessions requested through the project approval or a development agreement. Housing Element Program HO-3.B (City Density Bonus Program) and HO-2.E (Workforce Housing Overlay, to be presented by January 2026 and adopted by December 2026 if directed) may add local bonuses; status not confirmed.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Rohnert Park relies on development agreements and specific plans rather than a formal local bonus, so negotiate fee deferral, rental fee relief and gap funding together. The Workforce Housing Overlay would be the first local density tool beyond state law; check Planning for its status. The County's density bonus chapter applies only in unincorporated areas. Read from the zoneomics mirror of Title 17 (Ordinance 991, January 27, 2026 version).",
+   "source_url": "https://www.zoneomics.com/code/rohnert-park-CA/chapter_6",
+   "record_id": "46467d8acb",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income projects",
+    "100% affordable rental"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, redevelopment or successor agency, or local public housing authority; the density bonus (Section 17.08.020, adopting Gov. Code 65915) provides no public funds, so it does not by itself trigger prevailing wage. Any public loan, grant, land write-down or fee waiver layered on a project is assessed separately under 1720(b). https://california.public.law/codes/labor_code_section_1720",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sonoma",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "City of Sonoma Inclusionary Housing requirement and in-lieu fee, Development Code Chapter 19.44 (Sections 19.44.020 and 19.44.030, Ordinance 06-2021)",
+   "administering_agency": "City of Sonoma Planning Department",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Projects of five or more parcels or units must make at least 25% of units affordable: rental projects 5% extremely low, 10% very low and 10% low income (sequenced ELI, VLI, LI, then middle income); ownership projects 5% low, 10% moderate and 10% middle income. Projects of four or fewer units pay an in-lieu fee per Section 19.44.030; fractions below 0.5 may be paid as a fee. In-lieu fees are paid before building permit into the City's housing trust fund. Fee amount is set by Council resolution (amount not opened); Housing Element Program 1 called for a nexus-supported in-lieu fee by December 2023 and a July 2024 amendment requiring perpetual affordability. Units of 850 square feet or less, ADUs and additions under 850 square feet are exempt. Affordability is in perpetuity under Section 19.44.060.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Rental: 25% of units split 5% ELI, 10% VLI, 10% LI; ownership: 25% split 5% LI, 10% moderate, 10% middle income; restricted in perpetuity by recorded affordability agreement; affordable units must average at least 75% of market-rate unit floor area with the same bedroom count.",
+   "eligible_project_types": [
+    "mixed-use",
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement. Housing Element Program 1 schedules a review of the inclusionary provisions and Development Code amendments by 2026; Program 15 Development Code amendments were noticed under CEQA in January 2026. Check with Planning (707) 938-3681 for the current in-lieu fee resolution.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "At 25% with deep targeting, this is the strictest inclusionary rule among the Sonoma County priority cities, and the City says it has produced about 293 inclusionary and density bonus rental units inside 40 market-rate projects (about six units a year). Because the required ELI and VLI units can also qualify a project for a state density bonus (Chapter 19.44 counts inclusionary units when calculating the bonus), most market-rate rental projects in Sonoma pair the two. In-lieu revenue feeds the Affordable Housing Trust Fund (separate record). Growth management (Chapter 19.94 Housing Allocation Process) exempts affordable and density bonus units from the annual allocation. Code read from the zoneomics mirror (codepublishing.com returns 403); the City's Housing Policies page confirms the 25% rule.",
+   "source_url": "https://www.zoneomics.com/code/sonoma-CA/chapter_4",
+   "record_id": "19e73d06c4",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate rental and for-sale projects (compliance)",
+    "mixed-use residential",
+    "small projects (fee)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sonoma",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "City of Sonoma Affordable Housing Trust Fund (established May 2019, funded by 1% of Transient Occupancy Tax and inclusionary in-lieu fees)",
+   "administering_agency": "City of Sonoma City Manager's office and Planning Department; grants approved by City Council",
+   "funding_type": "grant",
+   "typical_award_size": "Small, case-by-case grants and loans approved by Council. Most recent award: $250,000 grant approved June 18, 2025 (agreement authorized July 16, 2025) to Burbank Housing toward acquisition and 55-year preservation of 18 units at Setzer Senior Apartments (8 units, 673 First St West) and Maysonnave Apartments (10 units, 270 First St East), leveraged with a $4.5 million BAHFA Housing Preservation Loan Pilot loan and San Francisco Housing Accelerator Fund financing; closed fall 2025. Revenue: Council approved on June 10, 2019 the final 1% of the Measure S TOT increase (TOT now 13%) effective September 1, 2019 to address affordable housing, estimated at the time at about $350,000 to $400,000 per year, plus in-lieu fees under Section 19.44.030. Press accounts put the balance at roughly $1.4 million to $1.9 million in 2025-2026; no City balance figure was opened.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "Grant terms set per project; the 2025 preservation deal requires affordability for at least 55 years with rents averaging 30% of 80% AMI and tenants protected on modest income increases. The fund is earmarked for very low, low and moderate income housing (Section 19.44.030).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA. Requests go to City Council; the Council's 2026 priorities include creating a funding plan and policy for use of the Housing Trust Fund, so an allocation policy may be adopted in 2026-2027 (verify with the City Manager's office, (707) 938-3681).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Sonoma is a non-entitlement city inside the County's Urban County and County PLHA area, so projects in the city should combine this fund with County CFH, County HOME and CDBG, County PLHA, RED Housing Fund and County PBVs (county records); the 2025 Burbank deal shows the pattern with BAHFA regional preservation money. Housing Element Program 7 commits the City to pursue a Prohousing Designation and to request RED JPA membership in 2024 (status not confirmed). The City also runs an ADU fee waiver program (housing strategies page) and lists Policy H-4.6 fee waivers for affordable housing, but no multifamily fee waiver ordinance was found. Council staff reports on the civicweb portal could not be reached by meeting date; the City's press release and TOT page were used as sources.",
+   "source_url": "https://www.sonomacity.org/city-of-sonoma-preserves-18-affordable-homes-through-landmark-partnership",
+   "record_id": "5135fbfbb1",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "preservation",
+    "acquisition-rehab",
+    "new construction",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No City of Sonoma Housing Trust Fund rule on prevailing wage found. City grants are public funds under Labor Code 1720(b)(1), but coverage of a private residential project depends on 1720(c) exemptions, notably 1720(c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost, which recent $250,000 awards may meet) and on other funding sources. Source: https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "Prevailing wage left unclear: no program rule; only the general Labor Code 1720 definition applies and the result depends on 1720(c) exemptions and project facts.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sonoma",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "City of Sonoma Density Bonus and incentives, Development Code Sections 19.44.040 through 19.44.080 (Housing Element Program 19)",
+   "administering_agency": "City of Sonoma Planning Department and Planning Commission (reductions in standards); City Council for other incentives",
+   "funding_type": "density bonus",
+   "typical_award_size": "Regulatory. Adopts state density bonus law (Government Code 65915 through 65918) by reference; bonus percentage calculated under 65915(f), inclusionary units count toward the bonus, one bonus per project, Planning Commission may waive or modify standards to fit bonus units, incentives include reduced standards, mixed-use zoning, other cost-reducing incentives and state parking ratios. No local bonus beyond state law, though Housing Element Program 19 contemplates streamlined processing and a density bonus or incentives for projects not otherwise eligible under state law, and reduced parking for affordable and special needs housing (Program 18). Density bonus and inclusionary units are exempt from the Chapter 19.94 growth management allocation.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State thresholds; affordable units restricted in perpetuity under Section 19.44.060 (2016 amendments raised the term from 30 to 55 years and 2021-2023 amendments made it perpetual).",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Density bonus request filed with the first entitlement application; Housing Element Program 19 schedules an update of Chapter 19.44 to current state law (Program 15 code amendments noticed January 2026).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Past projects using the bonus include Firehouse Village and Maysonnave Apartments. In a city with low base densities and an urban growth boundary, the state bonus plus the 25% inclusionary rule is the main production tool; pair with the Affordable Housing Trust Fund and County sources. Read from the zoneomics mirror of the Sonoma Development Code (codepublishing.com and sonoma.municipal.codes return 403).",
+   "source_url": "https://www.zoneomics.com/code/sonoma-CA/chapter_4",
+   "record_id": "afedd8add8",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income projects",
+    "100% affordable rental"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, redevelopment or successor agency, or local public housing authority; the density bonus (Sections 19.44.040 to 19.44.080, adopting Gov. Code 65915) provides no public funds, so it does not by itself trigger prevailing wage. Any public loan, grant, land write-down or fee waiver layered on a project is assessed separately under 1720(b). https://california.public.law/codes/labor_code_section_1720",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sonoma",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sonoma",
+   "confidence": "verified",
+   "program_name": "City of Sonoma Affordable Housing Fees for Nonresidential Development (Resolution 12-2020) and planned residential affordable housing impact fee (Housing Element 2023-2031 Program 8)",
+   "administering_agency": "City of Sonoma Planning Department",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Resolution 12-2020 established Affordable Housing Fees for Nonresidential Development, charged per gross square foot by nonresidential use type including additions; the rate schedule itself was not opened. The City's FY 2023-24 AB 1600 fee report shows the Affordable Housing Impact Fee account (732-00000-000-30120) collected $7,452.98 in FY 2023-24 with an ending balance of about $104,000 to $137,000 at June 30, 2024 (the report's summary and detail pages differ), no projects yet identified, and a plan to earmark funds in the FY 2025-26 budget. Housing Element Program 8 directs the City to adopt by December 2023 a per-square-foot impact fee on single-family homes and 2 to 4 unit projects and by December 2025 to expand the nonresidential fee after nexus studies. The FY 2023-24 report lists no residential affordable housing fee, so the residential fee had not been adopted as of June 30, 2024.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Fee proceeds go to the Affordable Housing Trust Fund (Resolution 18-2019) for low and moderate income housing development, preservation, and loan and grant programs.",
+   "eligible_project_types": [
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Unknown, verify with agency. Confirm whether the residential impact fee (due December 2023) and the expanded nonresidential fee (due December 2025) were adopted and at what rates; the City's 2026 Fee Study and Master Fee Schedule Update is underway and may carry them.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Any new fee revenue would flow to the Affordable Housing Trust Fund (separate record) and expand the City's gap capacity, which is now mostly TOT-based. The County's Affordable Housing Program fees (county record) do not apply inside the city. Source is the adopted Housing Element on the City's ProudCity storage; Resolution 12-2020 and council fee resolutions could not be opened on the civicweb portal.",
+   "source_url": "https://storage.googleapis.com/proudcity/sonomaca/2024/10/Housing-Element-2023-2031-FINAL.pdf",
+   "record_id": "49c538f52d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "nonresidential development (compliance)",
+    "small residential projects (planned fee)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, redevelopment or successor agency, or local public housing authority; this nonresidential affordable housing fee (Resolution 12-2020) provides no public funds, so it does not by itself trigger prevailing wage. Any public loan, grant, land write-down or fee waiver layered on a project is assessed separately under 1720(b). https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Merced",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Merced",
+   "confidence": "verified",
+   "program_name": "Merced Housing Successor Agency Low and Moderate Income Housing Asset Fund (Fund 2513) and former RDA housing parcels",
+   "administering_agency": "City of Merced as Housing Successor to the former Merced Redevelopment Agency (Housing Division; consultant RSG)",
+   "funding_type": "grant",
+   "typical_award_size": "Housing Asset Fund balance was $9,553,758 at June 30, 2025, but most of it is the portfolio of 5 properties and 19 loans receivable ($7,653,072). Unencumbered beginning cash was $2,056,382, with no excess surplus. FY 2024-25 deposits were $147,185 and spending was $316,895, including a $200,000 grant to CC915 Merced for 73 South R Street (extremely low income container units). Staff cited about $1.8M available in January 2025.",
+   "per_unit_cap": null,
+   "affordability_requirement": "HSC 34176.1: over each five-year period, at least 30% of development spending for extremely low income (30% AMI) households and no more than 20% for 60-80% AMI. Administration is capped at $382,654 per year.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency. The FY 2024-25 SB 341 report was received January 2026. The HSA parcels at 1815 and 1823 I Street, 205 and 211 W. 18th Street and 202 W. 19th Street are in escrow with Linc Housing.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "This is the only true local cash pool in Merced County found this pass (about $2M liquid). The fund made no development spending in the first five-year compliance period, so new awards should lean toward extremely low income units to meet the proportionality targets. The City has used HSA land as its main contribution (the Linc I Street site and the 73 S. R Street Homekey site), adding PLHA and HOME on top. The 626 W. Main Street RFP involves a former RDA non-housing asset, not this fund. County-level layers are separate (county records).",
+   "source_url": "https://cityofmerced.legistar1.com/cityofmerced/attachments/449ae8c6-d0b6-40fb-b7af-3c03f4eaa596.pdf",
+   "record_id": "68d4c62b23",
+   "cycle_notes": "Council awards case by case; parcels offered by RFP",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No stated rule. Labor Code 1720(b) covers public funds and below-market land transfers; 1720(c)(4) exempts affordable housing paid solely from a former redevelopment Low and Moderate Income Housing Fund (HSC 33334.2/33334.3), but it does not name the post-dissolution Housing Asset Fund (HSC 34176), and layered funds would defeat the 'solely' condition. Outcome depends on 1720(c) exemptions and project facts.",
+   "audit_note": "Tier 3: prevailing wage left unclear; the FY 2024-25 Housing Successor report has no labor standards language and no DIR determination on housing successor funds was found.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Merced",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Merced",
+   "confidence": "verified",
+   "program_name": "City of Merced Affordable Housing Fund (Fund 1020) under the Affordable Housing Fund Policy (Council Resolution 2023-55)",
+   "administering_agency": "City of Merced Development Services Department, Housing Division, and Finance",
+   "funding_type": "loan",
+   "typical_award_size": "Balance was $881,017 at June 30, 2024. In October 2025 the Council moved $218,000 to cover Housing Division administration, and staff expect more draws for FY 2026-27 administration. The fund was also one option for repaying $700,507 of HUD-disallowed costs (the outcome was not confirmed). Usable balance is likely well under $650,000.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Policy eligible uses include predevelopment and development of multifamily rental housing for extremely low to moderate income households (including operating subsidies) and soft costs. Soft costs cover design, water and sewer connection fees, permit and application fees, development impact fees and environmental review.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Useful as a local source that can pay or reimburse impact fees and connection fees, which HUD funds cannot easily do; it is the closest thing the City has to a fee waiver fund. It is shrinking because it backfills Housing Division staffing. The revenue source was not confirmed; the scanned Resolution 2023-55 attachment could not be text-extracted. The Housing Element notes advocates commenting on a proposed in-lieu fee by Council resolution, but Merced has no inclusionary ordinance. Confirm whether in-lieu or annexation-related affordable housing payments feed this fund.",
+   "source_url": "https://cityofmerced.legistar.com/LegislationDetail.aspx?ID=7005585&GUID=4B673200-0EEA-40A3-AF1E-8EB1E1D81352",
+   "record_id": "c91c2628ae",
+   "cycle_notes": "Council appropriation case by case",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No stated rule. The fund is local money, so Labor Code 1720(b) (public funds, and fees paid or waived under 1720(b)(4)) may reach a funded project; 1720(c)(5)(E) exempts only below-market loans where at least 40% of units are restricted to 80% AMI for 20 years, and fee payments fall outside that exemption. Outcome depends on 1720(c) exemptions and project facts.",
+   "audit_note": "Tier 3: prevailing wage left unclear; the Council item on Fund 1020 contains no labor standards language and the Resolution 2023-55 policy was not text-readable.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Merced",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Merced",
+   "confidence": "verified",
+   "program_name": "City of Merced Density Bonus Ordinance (Merced Municipal Code Title 20) and 2024-2032 Housing Element incentives (Programs 2, 6 and 7: fee deferrals, reductions or waivers; 50% senior bonus; UC Merced Student Housing Plan)",
+   "administering_agency": "City of Merced Development Services Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. The ordinance was adopted in 2005 and amended in 2016; it caps the bonus at 35% and lags current state law, which the City commits to fix. The Housing Element commits to: amend the Zoning Code by July 2026 to allow a 50% bonus for senior housing with at least 50% very low income units; offer expedited processing and fee deferrals, reductions or waivers for affordable units on large inventory sites (with extra incentives by July 2028 if needed); scope a UC Merced Student Housing Plan; and require 5% affordable housing plans in annexations around UC Merced.",
+   "per_unit_cap": null,
+   "affordability_requirement": "State density bonus thresholds; senior enhancement requires at least 50% very low income units.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Available at entitlement, no deadline. The 6th Cycle Housing Element went to the Planning Commission in April 2026 (Resolution 4181), and Ordinance 2594 (RHNA rezones) had its second reading in July 2026. Verify whether the density bonus update and senior bonus amendment have been adopted.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Merced has no inclusionary ordinance or commercial linkage fee, and the fee deferrals and waivers are Housing Element commitments, not an adopted program. Fund 1020 is the practical way to cover fees today. The UC Merced items are planning commitments, not funding. Merced does not appear to be a Prohousing jurisdiction; the HCD list page returned 404 this pass, so this was not confirmed. The code chapter was not opened directly: zoneomics has Title 20, but the density bonus section was not isolated. The Housing Element was read as a City Legistar attachment.",
+   "source_url": "https://cityofmerced.legistar1.com/cityofmerced/attachments/88fdf37c-8fda-4ab9-b9d1-dcfd682f332b.pdf",
+   "record_id": "be757071ff",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Density bonus under Gov. Code 65915 grants units, concessions and waivers of development standards, not public funds; Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720) covers only construction paid for in whole or in part out of public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011, Gov. Code 65912.130). The Housing Element fee deferrals, reductions or waivers (https://cityofmerced.legistar1.com/cityofmerced/attachments/88fdf37c-8fda-4ab9-b9d1-dcfd682f332b.pdf) are commitments, not an adopted program; once adopted, a fee reduction or waiver is public funds under Labor Code 1720(b)(4) and would be tested against 1720(c)(3) de minimis.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Los Banos",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Merced",
+   "confidence": "verified",
+   "program_name": "Los Banos Affordable Housing Projects Developer RFQ (homeless housing, open continuously) with City-owned parcels and PLHA",
+   "administering_agency": "City of Los Banos Housing Program Division (Housing Program Manager Christy McCammond, (209) 827-7000 ext. 2441)",
+   "funding_type": "land",
+   "typical_award_size": "No set dollar amount. The City seeks a partner for about 45 to 60 units for people experiencing homelessness. It may convey City-owned parcels or motels to the developer and will co-apply for PLHA (formula and competitive), Encampment Resolution Fund and other state and federal grants.",
+   "per_unit_cap": null,
+   "affordability_requirement": "55-year affordable housing deed restriction. Units must meet HUD HQS so Section 8 vouchers can be used; studios and one-bedroom units with on-site service space.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No deadline; responses reviewed continuously. Qualified respondents go to a pool for later RFPs. Submit by email to christy.mccammond@losbanos.org.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "This is the main route into City land and City-sponsored state applications in Los Banos. The City's current PLHA funds operate a second bridge home, so little PLHA is free for capital. Los Banos is not a CDBG entitlement city; it applies to the state CDBG NOFA (code enforcement in 2015, planned 2025 rehab application) and does not fund multifamily development. A related RFP for a joint homeless housing applicant closed April 26, 2024. Merced County CoC CA-520 HHAP and Housing Authority of the County of Merced vouchers (county records) are the other layers.",
+   "source_url": "https://losbanos.org/bids-rfps-and-rfqs/request-for-qualifications-affordable-housing-developer-for-people-experiencing-homelessness-no-deadline-for-submissions-until-further-notice/",
+   "record_id": "a3300e7cea",
+   "cycle_notes": "RFQ issued January 2024, no deadline",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "error",
+   "prevailing_wage_basis": "No stated rule. The RFQ (issued January 25, 2024, no deadline) contains no prevailing wage or labor standards clause. Conveying City parcels below fair market value is public funds under Labor Code 1720(b)(3), but coverage depends on 1720(c) exemptions and on whichever state or federal sources are layered in, each with its own rule.",
+   "audit_note": "Tier 3: prevailing wage left unclear; the RFQ PDF served at the source_url was read and has no labor standards terms.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Atwater",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Merced",
+   "confidence": "verified",
+   "program_name": "Atwater Housing Element Program 7 (Facilitating Affordable Housing Development): density bonus ordinance to be adopted, fee waivers, reductions or deferrals, and city-built off-site improvements",
+   "administering_agency": "City of Atwater Community Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. The Housing Element finds the Atwater Zoning Code does not address density bonus and is not in compliance with State Density Bonus Law. The Code was to be amended by January 31, 2026 (end of 2026 in the Program 7 timeline); state law applies directly in the meantime. Incentives: possible fee waivers, reductions or deferrals; expedited review; and off-site improvements (traffic, street, sewer) built by the City as capital projects, case by case.",
+   "per_unit_cap": null,
+   "affordability_requirement": "State density bonus thresholds.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Available at entitlement, no deadline. Density bonus ordinance due by end of 2026. A water and sewer priority policy for affordable housing (SB 1087) is due by end of 2026, and the infrastructure fee study and fee schedule update by June 2026; verify status.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Atwater has no local density bonus ordinance yet, and no inclusionary ordinance, trust fund or city NOFA. The goal is entitling at least 100 subsidized units with nonprofit partners during the planning period. The City-built off-site improvements are the most tangible local subsidy and would count as public funds. Source is the July 2026 MJHE version of the Atwater Housing Element on the MCAG mercedmjhe.com site; adoption status not confirmed.",
+   "source_url": "https://mercedmjhe.com/wp-content/uploads/2026/07/City-of-Atwater-2024-2032-Housing-Element.pdf",
+   "record_id": "f454e36355",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "error",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. Program 7 offers fee waivers, reductions or deferrals and City-built off-site improvements, which are construction by a political subdivision under 1720(b)(2); the density bonus itself provides no public funds (1720(a)(1)). Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Atwater",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Merced",
+   "confidence": "verified",
+   "program_name": "Atwater PLHA allocation (ADU loans and rental assistance) and state CDBG and HOME grants (non-entitlement)",
+   "administering_agency": "City of Atwater Community Development Department",
+   "funding_type": "loan",
+   "typical_award_size": "PLHA ADU loans of up to $40,000 per qualified applicant. PLHA mortgage, rent and utility assistance of up to $5,000 per household (up to six months). The City received no CDBG in the 5th cycle but by 2026 had state CDBG and HOME awards for owner-occupied rehab. No multifamily allocation identified.",
+   "per_unit_cap": "$40,000 per ADU loan (PLHA).",
+   "affordability_requirement": "Lower income households under PLHA, CDBG and HOME rules.",
+   "eligible_project_types": [
+    "acquisition-rehab",
+    "adu"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Set by HCD state NOFAs; unknown, verify with agency.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Atwater's housing money is small and aimed at owners, ADUs and tenants, not multifamily gap financing. A multifamily developer should treat Atwater mainly as a co-applicant for state CDBG or HOME and a source of letters of support. Merced County's surplus land at Castle Commerce Center in Atwater (county record) is the relevant site lead.",
+   "source_url": "https://mercedmjhe.com/wp-content/uploads/2026/07/Atwater-B7-Housing-Plan.pdf",
+   "record_id": "15412116d7",
+   "cycle_notes": "City applies to state CDBG, HOME, CalHome and PLHA; Program 7 commits to annual applications starting 2026",
+   "eligible_project_detail": [
+    "adu",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "error",
+   "prevailing_wage_basis": "No single stated rule. Labor Code 1720(c)(5)(C) exempts assistance to a household for rehabilitation of a single-family home, and the HOME (12 or more units) and CDBG (8 or more units) federal thresholds do not reach owner-occupied rehab, but PLHA ADU loans fund new construction that 1720(c)(5)(C) does not clearly cover, so the outcome depends on 1720(c) exemptions and project facts. The Atwater Housing Plan has no labor standards language.",
+   "audit_note": "Tier 3: prevailing wage left unclear; program mixes ADU construction loans, rental assistance and owner rehab with no stated program rule.",
+   "last_audited": "2026-11-08"
+  }
+ }
+]

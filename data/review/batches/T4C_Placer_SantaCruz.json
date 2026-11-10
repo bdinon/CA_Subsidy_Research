@@ -1,0 +1,838 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Roseville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "verified",
+   "program_name": "Roseville development impact fee deferral for affordable multifamily (Municipal Code Section 4.04.040, Ordinance 6830; Sierra Vista Apartments deferral, Resolution 26-336)",
+   "administering_agency": "City of Roseville Economic Development Department (Gina McColl, 916-774-5452) with the Finance Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Deferral, not waiver: city-controlled impact fees are deferred from building permit to final or certificate of occupancy, with interest at the City's pooled rate (ten-year average about 2.23%) and an administrative processing fee per permit. Deferrals of $100,000 or more need Council approval. Example approved September 16, 2026: about $2,987,339 deferred for the 192-unit Sierra Vista Apartments (Greek Orthodox Housing Corporation, parcel JM-30, 4950 Upland Drive), covering fire construction tax, sewer and water connection, drainage, SVSP traffic mitigation, citywide and neighborhood parks, bike trail, public benefit and solid waste fees (about $373,000 per building). For a 100% affordable project (three or more units, all units low, very low or extremely low income, Affordable Housing Agreement under Section 19.28.110, objective design standards, secured promissory note) payment may be pushed up to one year after the first certificate of occupancy. The City's policy is not to waive fees; CSCDA SCIP fee financing is also offered.",
+   "per_unit_cap": "None; about $15,600 per unit deferred in the Sierra Vista example.",
+   "affordability_requirement": "Standard deferral is open to any multifamily project on request; the extended one-year post-occupancy deferral requires 100% of units (except managers) affordable to low, very low or extremely low income households under a recorded Affordable Housing Agreement.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Request through the Economic Development Department when fee estimates are prepared; a Council hearing under Government Code 53083 is required for deferrals of $100,000 or more.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Timing relief only; fees are still paid in full with interest, so it does not reduce basis but eases construction-period cash needs. Placer County Capital Facilities fees and traffic fees are not city-controlled and are not deferred; age-restricted projects get reduced traffic and County capital facilities rates. Roseville also made a $571,850 CDBG loan (September 4, 2024) to the same Sierra Vista sponsor for land purchase, showing how CDBG, fee deferral, the Regulatory Agreement and LIHTC stack on one project. Read from the September 16, 2026 City Council agenda packet via the CivicClerk API file stream.",
+   "source_url": "https://rosevilleca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11713,plainText=false)",
+   "record_id": "9accb06f94",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income multifamily",
+    "100% affordable multifamily"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No stated rule. The September 16, 2026 Council packet (Sierra Vista deferral, Resolution 26-336) does not address prevailing wage. A fee deferral at the City's pooled interest rate may be a reduced fee or below-market interest rate under Labor Code 1720(b)(4), but 1720(b)(4) alone does not decide coverage; the 1720(c)(3) de minimis test (under $600,000 and under 2% of project cost) and the 1720(c)(5)(E) below-market loan exemption (40% of units at 80% AMI or below for 20 years) may apply, and Roseville's separate CDBG loan to the same sponsor brings its own federal rule.",
+   "audit_note": "Tier 3: prevailing wage left unclear; only basis is Labor Code 1720(b)(4) and the outcome depends on 1720(c) exemptions and project facts.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Roseville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "verified",
+   "program_name": "Roseville CDBG entitlement and HOME funds (annual Action Plan) and Permanent Local Housing Allocation (PLHA) Plan adopted September 2, 2026",
+   "administering_agency": "City of Roseville Housing Division (Dani Calli, Housing Analyst, 916-774-5277, dcalli@roseville.ca.gov)",
+   "funding_type": "grant",
+   "typical_award_size": "Roseville is a HUD entitlement city; the 2026-27 CDBG award was expected at roughly $700,000 with about $730,000 of prior-year carryover and about $50,000 program income (2026 Action Plan hearing May 6, 2026; 2025-26 CAPER public comment August 29 to September 16, 2026). CDBG is mostly used for owner rehabilitation loans (deferred loans up to $100,000, $5,000 grants for elderly and disabled owners), accessibility work (over $1 million earmarked in 2026 for Sierra Gardens accessibility upgrades) and public services, but it has funded affordable housing land acquisition: a $571,850 CDBG loan to Greek Orthodox Housing Corporation on September 4, 2024 for parcel JM-30 (192-unit Sierra Vista Apartments). HOME funds (state-administered) support first-time homebuyer and rehabilitation programs. PLHA: Roseville's formula allocation under HCD's July 2026 NOFA (about $285 million statewide, five-year term) is programmed in the City's PLHA Plan (Resolution 26-327) for Homeless Prevention and Rapid Rehousing, not development; $1,374,763 of PLHA was budgeted for HPRR in FY2026-27.",
+   "per_unit_cap": "None; the CDBG acquisition loan example is about $3,000 per unit.",
+   "affordability_requirement": "CDBG national objective (low and moderate income benefit; 2026 Sacramento PMSA limits: 1 person $73,600, 4 persons $105,100); HOME and PLHA income rules per program.",
+   "eligible_project_types": [
+    "acquisition-rehab",
+    "supportive housing",
+    "rental assistance",
+    "services/operations"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. The 2026 round closed February 2, 2026 and the Action Plan was heard May 6, 2026. No 2027-28 CDBG or HPRR NOFA was posted on the City CDBG page; past cycles released the NOFA in October to January with applications due in late January or early February, so expect a deadline around early February 2027.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Roseville runs its own CDBG and PLHA; Placer County's PLHA allocation (county record, needs_confirmation) covers the unincorporated area and non-entitlement cities such as Auburn, while Lincoln became its own CDBG entitlement in 2026 and Rocklin receives its own PLHA formula share. CDBG land loans trigger federal cross-cutting rules (Davis-Bacon for 8 or more units, environmental review, Section 3). PLHA is currently committed to HPRR, so do not count on PLHA for development in Roseville. The CDBG page, PLHA notice and the September 2, 2026 agenda were opened; the PLHA Plan PDF link itself was not fetched.",
+   "source_url": "https://www.roseville.ca.gov/departments/affordable_housing/community_development_block_grant_cdbg.php",
+   "record_id": "b074861f50",
+   "cycle_notes": "Annual winter NOFA through ZoomGrants with a required pre-application; Action Plan public comment in April and Council hearing in early May; CAPER comment in late August to September.",
+   "eligible_project_detail": [
+    "acquisition",
+    "acquisition-rehab",
+    "public facilities serving affordable housing",
+    "homeless prevention and rapid rehousing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "T2 audit 2026-11-08: City CDBG page read via WebFetch (curl 403). It lists the 2026 Action Plan comment period April 3 to May 6, 2026, the 2025-26 CAPER comment period August 29 to September 16, 2026, and says the City had not yet been notified of the 2026-27 award. The page lists two contacts, Dani O'Connell (doconnell@roseville.ca.us) and Danielle Calli (DCalli@roseville.ca.us); the administering_agency email domain should be checked.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Roseville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "verified",
+   "program_name": "Roseville Housing Authority (RHA) Project-Based Vouchers and Housing Choice Vouchers (jurisdiction includes Rocklin)",
+   "administering_agency": "Roseville Housing Authority, a department of the City of Roseville (Housing Division, 916-774-5270, housing@roseville.ca.gov)",
+   "funding_type": "rental assistance",
+   "typical_award_size": "Rental subsidy, not capital. RHA (established October 2, 1974) administers tenant-based Housing Choice Vouchers for roughly 850 households (about 1,600 individuals) at or below 50% AMI in Roseville and Rocklin, plus VASH and Mainstream vouchers. It project-bases vouchers in new affordable developments (the City's news release on The Crawford, 265 units by USA Properties, cites eight RHA project-based vouchers) and runs a Project Based Voucher waiting list (waitlistcheck.com CA1217-4334). Payment standards effective October 1, 2026 and utility allowances effective June 1, 2026 are posted for Roseville (95661, 95678, 95747) and Rocklin.",
+   "per_unit_cap": "Per-unit PBV contract rents at or below RHA payment standards; the count of PBVs per project is negotiated with RHA (HUD caps apply).",
+   "affordability_requirement": "HCV income limits: 50% AMI at admission (2026: 1 person $46,000, 4 persons $65,700), with 75% of new admissions at or below 30% AMI; PBV units must meet HUD HQS and the Housing Element directs RHA to expand use in high opportunity areas.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "PBV commitments are requested from RHA during predevelopment; RHA reports quarterly to Council (next quarterly status update early 2027). Contact RHA before TCAC or CDLAC applications to secure a PBV commitment letter.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Roseville and Rocklin projects have two voucher sources: RHA (city) and Placer County Housing Authority (county record, PBVs and special-purpose vouchers); Rocklin is covered by both. PBVs raise achievable rents on 30% AMI units and support bond or 4% deals. Not a public works trigger by itself. Verified on the RHA page opened this pass.",
+   "source_url": "https://www.roseville.ca.gov/departments/affordable_housing/housing_authority/index.php",
+   "record_id": "2ef2956676",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "senior housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "24 CFR 983.153(c) (HUD PBV development requirements, labor standards): for development activity (new construction or rehabilitation) involving nine or more PBV contract units, the owner and its contractors must pay Davis-Bacon wages and the PHA monitors compliance; existing-housing PBV contracts with no development activity do not trigger it. RHA places PBVs in new developments (Voucher Programs page lists The Crawford and Terracina at Winding Creek, 1040 Lower Bank Drive, as under construction), but nearly every RHA PBV property carries exactly 8 PBV units, below the 9-unit threshold; Davis-Bacon applies only if RHA awards 9 or more contract units to a new construction or rehab project. https://www.roseville.ca.gov/departments/affordable_housing/housing_authority/voucher_programs.php https://www.law.cornell.edu/cfr/text/24/983.153",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Roseville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "verified",
+   "program_name": "Roseville Residential Density Bonus (Zoning Ordinance Chapter 19.28) and Prohousing Designation renewal (Resolution 25-346, November 5, 2025)",
+   "administering_agency": "City of Roseville Development Services Department, Planning Division (Lauren Hocker, Senior Planner, 916-774-5272)",
+   "funding_type": "density bonus",
+   "typical_award_size": "Regulatory incentive, not a subsidy. Chapter 19.28 mirrors Government Code 65915: bonuses of 20% to 50% for very low, lower and moderate income set-asides, 80% (or no limit near major transit) for 100% affordable projects, 20% for senior, foster youth, disabled veteran and homeless housing, 35% for student housing, land donation and child care bonuses, up to four incentives, parking caps (0.5 space per unit for qualifying projects near transit, none for 100% lower-income rental near transit or qualifying senior projects). Applications require a pro forma, an appraisal of the bonus value and a sources and uses statement showing the financing gap. Roseville was among the first ten Prohousing-designated jurisdictions (2022); the designation expired at the end of 2025 and Council authorized renewal on November 5, 2025 (application published for 30-day review through September 29, 2025). The City reports over $1 million in grants attributable to the designation and received $1,610,000 of PIP Round 1 funds in 2023.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State density bonus thresholds (5% very low, 10% lower, 10% moderate for-sale, or 100% affordable); Affordable Housing Agreement recorded for 55 years (rental) under Section 19.28.110.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "mixed-income",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Processed with entitlements; no deadline. HCD action on the Prohousing renewal application was pending at the time of the November 2025 hearing; confirm current designation status with Planning before claiming Prohousing points in MHP, AHSC or IIG applications.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancements beyond state law other than the explicit pro forma and appraisal submittal requirements. Density bonus units do not count toward the 10% specific plan goal, and the Regulatory Agreement can assign bonus units as part of the City's subsidy. Prohousing status gives bonus points on state NOFAs for projects located in Roseville (not available in Rocklin, Lincoln or Auburn, none of which held the designation as of this pass). Chapter text read on the zoneomics code mirror; Roseville's own code host (ecode360) returns partial PDFs only.",
+   "source_url": "https://www.zoneomics.com/code/roseville-CA/chapter_3",
+   "record_id": "ec0585e45d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income multifamily",
+    "senior housing",
+    "student housing",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Roseville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "verified",
+   "program_name": "City-owned land for affordable housing: 505 Royer Street and 300 Taylor Street sale to Eden Housing (Resolution 26-331, September 16, 2026)",
+   "administering_agency": "City of Roseville Economic Development Department (Gina McColl, 916-774-5452) with the Housing Division",
+   "funding_type": "land",
+   "typical_award_size": "Land sale at appraised value rather than a grant: two parcels totaling 1.17 acres in the Downtown Specific Plan (former Placer County courthouse site, demolished 2021, declared surplus October 23, 2019) sold to Eden Housing for $580,000 after a May 2025 RFP (Eden was the sole respondent) for a 58-unit senior affordable project at 30% to 60% AMI. A prior 2022 contract with Bridge Housing for a similar project was terminated in September 2024 for lack of financing. Escrow closes no later than January 31, 2027; construction estimated January 2030. Eden also applied for the City's 2026 PIP NOFA for this site but was not selected.",
+   "per_unit_cap": "About $10,000 per unit in land cost.",
+   "affordability_requirement": "Purchase and Sale Agreement covenant recorded before closing: if 10 or more units are built, at least 15 percent must be affordable to lower income households for 55 years. Eden's RFP proposal is a 58-unit senior project at 30% to 60% AMI; deeper restrictions will come from the project's financing regulatory agreements.",
+   "eligible_project_types": [
+    "new construction",
+    "senior housing"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "No open city land offering as of 2026-11-08. The City also tracks vacant parcels obligated for affordable housing under specific plan agreements (list posted on the Housing Division page); watch for Surplus Land Act notices for future sites.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Shows Roseville's practice of running Surplus Land Act and RFP processes for infill sites and pairing them with LHTF or PIP loans and CDBG. The Eden project will still need County gap money (Placer County in-lieu fee loans or Housing Trust Placer), RHA or PCHA PBVs and LIHTC. Read from the September 16, 2026 agenda packet via the CivicClerk API.",
+   "source_url": "https://rosevilleca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11713,plainText=false)",
+   "record_id": "a123f85142",
+   "cycle_notes": "site committed",
+   "eligible_project_detail": [
+    "new construction",
+    "senior housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "The City sells 505 Royer Street and 300 Taylor Street to Eden Housing at appraised fair market value of $580,000, and the staff report for Resolution 26-331 (September 16, 2026 packet, https://rosevilleca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11713,plainText=false)) states the purchase is not contingent upon City funding; the purchase agreement summary states no wage rule. Labor Code 1720(b)(3) treats a land transfer as public funds only when it is for less than fair market price (https://california.public.law/codes/labor_code_section_1720), so the land sale itself does not trigger prevailing wage. Any City, County or state loans Eden later layers on the project (HCD loans, LHTF or PIP, Placer County funds) must be tested separately under 1720(b) and (c).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Rocklin",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "verified",
+   "program_name": "Rocklin Affordable Housing Incentive Program (AHIP): Low/Mod Housing Fund residual receipts loans (Resolution 2024-039, repealed and replaced September 9, 2025)",
+   "administering_agency": "City of Rocklin City Manager's Office, Housing Division (Housing@rocklin.ca.us; 3970 Rocklin Road, 916-625-5000)",
+   "funding_type": "loan",
+   "typical_award_size": "Residual receipts loan of up to $40,000 for each very low and extremely low income unit constructed, funded from the City's Low/Mod Housing Fund. Approved subsidies as of September 2025 (contingent on full project financing): CHW Pacific Street Apartments, 109 affordable units, $2.6 million; USA Properties The Steven, 179 affordable age-restricted units, $2.23 million. AHIP was adopted January 23, 2024 and restated September 9, 2025 to align its fee deferral component with SB 937; the loan and fee reduction terms were unchanged.",
+   "per_unit_cap": "$40,000 per very low or extremely low income unit.",
+   "affordability_requirement": "Loans attach to units restricted to very low (50% AMI) and extremely low (30% AMI) income households; the fee reduction companion applies at 60% AMI or lower; qualified affordable housing developments per the AHIP resolution.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA; developers request a commitment from the Housing Division during entitlement so the City estimate can be included in LIHTC applications. Confirm the remaining Low/Mod Housing Fund balance with staff; the two approved commitments total $4.83 million.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Rocklin's only direct gap source; it stacks with the 40% impact fee reduction and SB 937 fee deferral (next record), the new inclusionary in-lieu fee trust fund, Placer County in-lieu fee loans and Housing Trust Placer, and PBVs from either Roseville Housing Authority or Placer County Housing Authority (both cover Rocklin). Rocklin is in the Roseville, Rocklin and Placer County Continuum of Care (CA-515). The City's websites (rocklin.ca.us legacy and rocklin.ca.gov CivicPlus) return 403 to scripts; staff reports were read from the City's Legistar packet files on d2kbkoa27fdvtw.cloudfront.net and the fee deferral form from the DocumentCenter.",
+   "source_url": "https://d2kbkoa27fdvtw.cloudfront.net/rocklin-ca/0ec9880a92fca65f4afaea2f351002320.pdf",
+   "record_id": "79b98a6f93",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "senior housing",
+    "mixed-income multifamily"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy (under $600,000 and under 2% of total project cost). Labor Code 1720(c)(4) also provides that affordable housing paid for solely with former redevelopment Low and Moderate Income Housing Fund moneys (H&S Code 33334.2 and 33334.3) is not paid for out of public funds; whether that carve-out reaches housing successor Low and Moderate Income Housing Asset Fund money under H&S Code 34176 is not settled in the sources read. The AHIP resolution and staff report state no prevailing wage rule. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Rocklin",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "verified",
+   "program_name": "Rocklin impact fee reduction of 40% for affordable units (Ordinance 1159, January 10, 2023) and SB 937 fee deferral program (Resolution adopted August 26, 2025)",
+   "administering_agency": "City of Rocklin City Manager's Office, Housing Division (Housing@rocklin.ca.us) and Community Development Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "40% reduction of City development impact fees for deed-restricted units at 60% AMI or lower, calculated unit by unit (adopted by Ordinance 1159 with the rate set by resolution the same night). Fee deferral: City park development, traffic, community and recreation center, construction tax, park improvement, public facilities and trails impact fees deferred from building permit to final inspection or certificate of occupancy, secured by a promissory note and deed of trust that may be subordinated to construction financing; since the August 26, 2025 SB 937 policy, deferral to final inspection applies to all designated residential projects without interest, and the AHIP deferral is aligned with it. Staff reported in September 2025 that no reductions or deferrals had yet been processed but estimates had been issued to developers for their financing packages.",
+   "per_unit_cap": "No cap; 40% of city impact fees on each qualifying unit.",
+   "affordability_requirement": "Fee reduction: units deed-restricted at 60% AMI or lower. AHIP fee deferral eligibility: at least 10% of units at affordable rents for very low income households or at least 49% of units affordable to low income households; fees become payable with interest penalties if the promised units are not delivered by certificate of occupancy.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Apply to Housing@rocklin.ca.us with a preliminary title report before building permit issuance; reductions must be requested before signing a deferral agreement. Municipal Code chapters on impact fees were slated for SB 937 clean-up at a future Council meeting (not confirmed adopted as of this pass).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "A real cost reduction (not just timing), unlike Roseville, which defers but does not waive. Combine with the $40,000 per unit Low/Mod loan (record above). Placer County Capital Facilities fees and school fees are outside the City program. Verified from the September 9, 2025 Council staff report and the City's fee deferral application form (rocklin.ca.gov/DocumentCenter/View/457).",
+   "source_url": "https://www.rocklin.ca.gov/DocumentCenter/View/457",
+   "record_id": "366e7c7977",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income multifamily",
+    "100% affordable multifamily"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "No stated rule. The September 9, 2025 AHIP staff report (Ordinance 1159 fee reduction, SB 937 deferral) does not address prevailing wage. A 40% impact fee reduction is a reduced or waived fee under Labor Code 1720(b)(4), but coverage depends on the 1720(c)(3) de minimis test (under $600,000 and under 2% of project cost); projects using only Low and Moderate Income Housing Fund money plus private funds are exempt under 1720(c)(4), but adding the fee reduction may take a project outside that exemption, and 1720(c)(5)(E) may apply to below-market loans at 40% of units at 80% AMI or below.",
+   "audit_note": "Tier 3: prevailing wage left unclear; only basis is Labor Code 1720(b)(4) and the outcome depends on 1720(c) exemptions and project facts. rocklin.ca.gov and rocklin.ca.us return 403; staff report read from the City's agenda host d2kbkoa27fdvtw.cloudfront.net.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Rocklin",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "verified",
+   "program_name": "Rocklin Density Increase Incentive Program (Municipal Code Chapter 17.96, Ordinance 977) and Housing Element Program 10 Residential Minimum Density Overlay rezones (August 26, 2025)",
+   "administering_agency": "City of Rocklin Community Development Department, Planning Division (Arwen Wacht, Planning Manager; Nathan Anderson, Principal Planner)",
+   "funding_type": "density bonus",
+   "typical_award_size": "Regulatory incentive, not a subsidy. Chapter 17.96 (2011) incorporates Government Code 65915 by reference for projects of five or more units in any residential zone: bonus amounts and concessions as specified in state law, applications processed with entitlements and approved if state criteria are met, affordability secured for 30 years or longer if required by financing. Separately, on August 26, 2025 Council approved General Plan amendments, a CEQA addendum and an ordinance applying the Residential Minimum Density Overlay (Chapter 17.53) to alternative RHNA sites to cure the shortfall HCD identified in its April 8, 2025 letter, including sites in the Rocklin West annexation.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State density bonus thresholds; 30-year minimum affordability covenant in the local chapter (state law now requires 55 years for rental units, which controls).",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Processed with entitlements. Confirm the final adoption date of the alternative sites rezone ordinance (introduced August 26, 2025) and the current RHNA site list with Planning.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancements beyond state law; Rocklin's incentives sit in AHIP (fee reduction, Low/Mod loans) rather than the density bonus chapter. The minimum density overlay sites are the practical pipeline of by-right multifamily land for 2021 to 2029 RHNA units. Chapter text read on the zoneomics mirror; the August 26, 2025 staff report cover was read from the Legistar packet on d2kbkoa27fdvtw.cloudfront.net.",
+   "source_url": "https://www.zoneomics.com/code/rocklin-CA/chapter_66",
+   "record_id": "ef95273e8f",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income multifamily",
+    "senior housing"
+   ],
+   "next_deadline_date": "2025-08-26",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Lincoln",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "verified",
+   "program_name": "Lincoln CDBG entitlement program (first-time entitlement, 2026-2030 Consolidated Plan and 2026 Annual Action Plan)",
+   "administering_agency": "City of Lincoln City Manager's Office (Nita Wracker; publiccomments@lincolnca.gov, 916-434-2427; 600 Sixth Street)",
+   "funding_type": "grant",
+   "typical_award_size": "Lincoln became a HUD CDBG entitlement city in 2026 with a first-year allocation of $272,325. The 2026-30 Consolidated Plan (public hearing May 12, 2026, submitted to HUD June 3, 2026) prioritizes community services and administration; it states the City has not yet set standards for subrecipients and will look for opportunities to support affordable housing with entitlement funds but does not program CDBG for housing development in year one. Stakeholders asked for local gap financing, PBV support and tax credit competitiveness funds, which the City said it will continue to evaluate.",
+   "per_unit_cap": "None; the annual allocation is about $272,000 in total.",
+   "affordability_requirement": "CDBG national objectives (low and moderate income benefit); no housing development set-aside adopted.",
+   "eligible_project_types": [
+    "acquisition-rehab",
+    "services/operations"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "The 2027 Annual Action Plan process is expected in spring 2027 (30-day comment and Council hearing, likely April to May 2027); confirm the application window with the City Manager's Office.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Lincoln has no local housing trust fund, inclusionary ordinance, in-lieu fee or city NOFA; CDBG is its only city-controlled housing-related money and it is small. Development gap funding for Lincoln projects comes from Placer County (in-lieu fee gap loans, PLHA, Housing Trust Placer) and PCHA project-based vouchers. Lincoln has a Redevelopment Successor Agency (meets with Council) but no Low and Moderate Income Housing Asset Fund activity was found in 2026 agendas. lincolnca.gov pages open; the Consolidated Plan PDF was read from the City's govstack media host.",
+   "source_url": "https://media-001-us.cdn.govstack.com/lincolnca-003-us/media/w1ofbefu/city-of-lincoln-2026-30-consolidated-plan.pdf",
+   "record_id": "4f07fe199f",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "public services and facilities",
+    "acquisition (eligible but not programmed)",
+    "housing rehabilitation (eligible but not programmed)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Auburn",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "verified",
+   "program_name": "Auburn Density Bonus ordinance (Municipal Code Sections 159.330 to 159.342, ministerial density bonus permit)",
+   "administering_agency": "City of Auburn Planning and Public Works Department (1225 Lincoln Way, Auburn)",
+   "funding_type": "density bonus",
+   "typical_award_size": "Regulatory incentive, not a subsidy. Implements Government Code 65915 to 65918 through a ministerial density bonus permit processed with other entitlements: bonuses per state tables for very low, lower and moderate income units, 20% for senior, foster youth, disabled veteran and homeless housing, 80% for 100% affordable projects (no density limit within one half mile of a major transit stop), incentives and concessions by threshold with a three-story or 33-foot height increase when four concessions apply near transit, unlimited waivers of standards that physically preclude the project, land donation bonus, parking ratios per state law, and a recorded density bonus housing agreement. The Director must determine completeness and the eligible bonus within 30 days. Filing fee set by Council resolution.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State thresholds; affordable units governed by Section 159.340 (affordable rent and housing cost per Health and Safety Code 50053 and 50052.5) with 55-year rental covenants.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "mixed-income",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Processed with entitlements; no deadline.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Auburn (population about 14,000) has no local housing trust fund, inclusionary ordinance, in-lieu fee fund, housing successor fund or city NOFA; this chapter and the negotiated fee reductions in the Housing Element (next record) are the City's only tools. The Housing Element credits past density bonuses (one project received a 400% bonus with apartments in an R-1 zone and a 50% parking reduction) and Placer County land donation and Housing Trust Placer money for a 79-unit project. Gap funding for Auburn projects comes from Placer County in-lieu fee loans, County PLHA, Housing Trust Placer and PCHA PBVs. Chapter read on the zoneomics mirror (Auburn's code publisher is blocked); auburn.ca.gov DocumentCenter PDFs open directly.",
+   "source_url": "https://www.zoneomics.com/code/auburn-CA/chapter_18",
+   "record_id": "7211b3f714",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income multifamily",
+    "senior housing",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Auburn",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Placer",
+   "confidence": "verified",
+   "program_name": "Auburn 2021-2029 Housing Element Program A and Program I: case-by-case fee reductions or deferrals, alternative development standards and state CDBG and HOME applications for affordable housing (adopted May 24, 2021)",
+   "administering_agency": "City of Auburn Planning and Public Works Department, with participating nonprofit and for-profit housing providers",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Negotiated, not codified. Program A commits the City to consider fee reductions or deferrals sized to the financial need of each affordable development, to negotiate alternative standards (parking, street improvements, density, lot coverage), to apply for state-administered CDBG, HOME and other funds on behalf of affordable developers or support their applications, and to meet at least twice in the planning period with housing providers; Program I adds land write-downs, expedited processing, identification of impact fee reductions and incentives beyond the density bonus for extremely low income housing, with priority in high resource areas and the Baltimore Ravine Specific Plan. Track record: 2010 and 2014 state HOME grants for owner rehabilitation and first-time buyers (completed November 2017); the City did not apply for 2018 HOME funds due to staff turnover and no new award was found. No dollar amounts or fee schedule exist.",
+   "per_unit_cap": "None.",
+   "affordability_requirement": "Extremely low, very low, low and moderate income housing as defined in the Housing Element; terms set per project.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "senior housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Request during entitlement; Council action is needed for any fee reduction. Auburn is a non-entitlement city, so state CDBG and HOME NOFAs (HCD) are the vehicles, with the City as applicant or supporter; check HCD NOFA calendars and the City's annual NOFA review.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Because Auburn is non-entitlement, Placer County's PLHA and the County's in-lieu fee gap loans (county records) are the nearest local money; the County's Priority Applicant Policy (effective July 1, 2026) would apply to County-funded units. Fee deferral for residential projects is now mandated statewide by SB 937 (to final inspection), so the Housing Element's deferral promise mainly adds the possibility of a reduction. Verified from the adopted 2021 Housing Element PDF on auburn.ca.gov; no 2024 or 2025 Annual Progress Report could be located (CivicPlus Agenda Center and search pages are script-rendered).",
+   "source_url": "https://auburn.ca.gov/DocumentCenter/View/2270/AUBURN_Housing-Element-2021",
+   "record_id": "dcd0c22bb2",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "senior housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No stated rule. The adopted 2021 Housing Element (Programs A and I) does not address prevailing wage. Negotiated fee reductions or land write-downs are reduced fees or below-market land under Labor Code 1720(b)(4) and (b)(3), with coverage depending on the 1720(c)(3) de minimis test and 1720(c)(5) exemptions. If the City secures state CDBG or HOME for a project, those programs carry their own federal rules (Davis-Bacon for CDBG at 8+ units, HOME 24 CFR 92.354 at 12+ HOME units), but those are separate awards.",
+   "audit_note": "Tier 3: prevailing wage left unclear; only basis is the general Labor Code 1720(b) definition and the outcome depends on 1720(c) exemptions and project facts.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Cruz",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "verified",
+   "program_name": "Prohousing Designation (awarded August 4, 2023; renewal application 2026, Resolution NS-30,681) and Downtown Library and Affordable Housing Project on City Lot 4",
+   "administering_agency": "City of Santa Cruz Economic Development and Housing (Housing Division) with the Planning Division",
+   "funding_type": "policy/designation",
+   "typical_award_size": "Not a direct subsidy. The designation (57 points, 7th highest of 47 jurisdictions as of April 2024) gives City projects scoring preference or priority processing in AHSC, Infill Infrastructure Grant, Transformative Climate Communities and other state programs and made the City eligible for Prohousing Incentive Program Round 2 ($9.5 million statewide pool). Example: the Downtown Library and Affordable Housing Project on City-owned Lot 4 (Cathcart, Cedar and Lincoln Streets) received a $33.5M AHSC award, a $55.1M TCAC tax credit award and $55.6M of CDLAC bond authority for 124 units (all affordable except one manager unit) above a new library funded by Measure S, with child care, 240 parking spaces and a $250,000 Economic Development Trust Fund contribution for the farmers market. The 2023 designation expires January 1, 2027; the City applied for renewal in 2026.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Not applicable to the designation; the Lot 4 housing is 100% affordable (income levels not stated on the project page; Eden Housing manages the interest list for studio to three-bedroom units).",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use",
+    "services/operations"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Renewal decision by HCD pending; current designation valid through January 1, 2027. Lot 4 housing framing was underway on levels 4 through 8 as of the latest project update, with completion dates not stated.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Prohousing points are additive to the AHTF and HOME layers and have been decisive for Santa Cruz downtown projects competing in AHSC. The City disposes of its own land for 100% affordable projects (Lot 4, Pacific Station North 125 units and Pacific Station South 70 units with Santa Cruz Community Health and Dientes, 119 Lincoln Street ground lease) and accepts land dedications from market-rate developers under Measure O (Anton Pacific). Santa Cruz County does not hold a Prohousing designation in the records compiled; Watsonville, Capitola and Scotts Valley pages opened this pass do not mention one. The Prohousing page, the May 2024 Economic Development journal article and the Downtown Library project page were opened; the 2026 resolution PDF returned 403 to scripted access.",
+   "source_url": "https://www.santacruzca.gov/Government/City-Departments/Community-Development/Housing-Assistance-Information-and-Resources/Prohousing-Designation-Program",
+   "record_id": "62b9f1964d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "city-owned land dispositions",
+    "mixed-use with public facilities"
+   ],
+   "next_deadline_date": "2027-01-01",
+   "deadline_check": "future_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Prohousing Designation itself pays no construction cost (Labor Code 1720(a)(1)). The Downtown Library and Affordable Housing Project sits on City-owned Lot 4 and is layered with a City-funded library, City land and state awards; any wage obligation comes from those sources, their 1720(b)(3) land terms and award conditions, not from the designation. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: true was not tied to a rule; the designation provides no funds and project-level wages depend on the library, land and state award terms. Changed to unclear.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Cruz",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "verified",
+   "program_name": "CDBG and HOME entitlement grants (HUD Consolidated Plan 2025-2030, Annual Action Plan PY 2026-2027)",
+   "administering_agency": "City of Santa Cruz Community Development Department, Housing and Community Development Division (housing@santacruzca.gov)",
+   "funding_type": "grant",
+   "typical_award_size": "PY 2026 (July 2026 to June 2027): $497,393 CDBG and $237,080.42 HOME from HUD, both lower than PY 2025; CDBG total available $512,553 with about $15,000 program income; HOME total available $793,841 including about $100,000 program income and $456,761 of prior-year funds for reprogramming. The City describes typical levels as about $600,000 CDBG and about $400,000 HOME per year. CDBG funds community programs (public services capped at 15%), infrastructure and facility improvements and delivery costs for two housing programs; HOME funds acquisition, homebuyer assistance, homeowner rehabilitation and rental development, with repaid rehabilitation and homebuyer loans automatically reprogrammed to affordable housing. Santa Cruz receives no ESG.",
+   "per_unit_cap": "HUD HOME maximum per-unit subsidy limits apply; none set locally.",
+   "affordability_requirement": "CDBG benefits households at or below 80% AMI; HOME rental units at or below 60% AMI (High HOME rents) with HUD affordability periods of 5 to 20 years depending on subsidy; Section 3 applies to construction and rehabilitation.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "homeownership",
+    "services/operations"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "PY 2027-2028 application period open as of this pass; the cycle normally opens in October with applications due mid-December, proposals advertised in November, public review and Council approval February through May, and the Action Plan submitted to HUD by May 15. Applications: online CDBG form, HOME application (DOCX) and CDBG supplemental budget; CBDO certification available. Email housing@santacruzca.gov to join the HUD notification list.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Small but predictable; HOME is the realistic development piece (under $800,000 available in PY 2026) and is typically paired with an AHTF loan and PBVs from the Housing Authority of the County of Santa Cruz. Federal Davis-Bacon applies to HOME projects of 12 or more assisted units and CDBG projects of 8 or more units. The County administers state HOME and CDBG for the unincorporated area, Watsonville (CDBG entitlement separately), Capitola and Scotts Valley, so Santa Cruz is the only Santa Cruz County city with its own HOME entitlement. Documents opened via WebFetch: HUD Consolidated Plan Documents page and the PY 2026-2027 Annual Action Plan PDF.",
+   "source_url": "https://www.santacruzca.gov/Government/City-Departments/Community-Development/Housing-Assistance-Information-and-Resources/HUD-Consolidated-Plan-Documents",
+   "record_id": "d9b15f2bf5",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "homebuyer assistance",
+    "public services and facilities"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "blocked",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Watsonville",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "verified",
+   "program_name": "CDBG entitlement grant (2025-2029 Consolidated Plan, Annual Action Plans FY 2025-2026 and FY 2026-2027)",
+   "administering_agency": "City of Watsonville Community Development Department, Housing Division ((831) 768-3080)",
+   "funding_type": "grant",
+   "typical_award_size": "PY 2025-2026 allocation $634,804 plus $48,897 of prior-year funds and about $20,000 of program income; PY 2026-2027 anticipated about $634,000 plus $100,000 of unspent prior-year funds and about $100,000 of program income from rehabilitation loan repayments. Draft 2026-2027 activities: low-interest housing rehabilitation loans (owner-occupied and rental rehabilitation programs), youth recreation, street improvements, job training and economic development; 2025-2026 line items included $225,000 for homeowner housing and $200,000 for a public improvement. Watsonville is not a HOME entitlement city.",
+   "per_unit_cap": "Rehabilitation loan limits per program guidelines; not published on the page.",
+   "affordability_requirement": "Households at or below 80% AMI; multifamily rental rehabilitation units restricted to low income tenants.",
+   "eligible_project_types": [
+    "acquisition-rehab",
+    "services/operations"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Draft FY 2026-2027 Annual Action Plan posted for review (program year July 1, 2026 to June 30, 2027); the FY 2025-2026 draft CAPER was open for comment September 4 to 21, 2026. Subrecipient applications are solicited each winter before the Action Plan is finalized in spring; contact the Housing Division for the next cycle.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "CDBG in Watsonville funds rehabilitation and public services, not new construction, so it is a preservation tool; new development relies on the Affordable Housing fund and HOME program income (record above), the County's state HOME tenant-based assistance, Housing Authority PBVs, HHAP and state programs. The 2025-2029 Consolidated Plan, the FY 2025-2026 and FY 2026-2027 Action Plans and the City Housing page (watsonville.gov/165) were opened.",
+   "source_url": "https://www.watsonville.gov/DocumentCenter/View/27889/Draft-2026-2027-Annual-Action-Plan-",
+   "record_id": "5c141af1c3",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "acquisition-rehab",
+    "owner-occupied and rental rehabilitation",
+    "public facilities and services"
+   ],
+   "next_deadline_date": "2027-06-30",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Capitola",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "verified",
+   "program_name": "Affordable (Inclusionary) Housing Ordinance (Municipal Code Chapter 18.02, Ordinance 1062 of 2023) and in-lieu fee",
+   "administering_agency": "City of Capitola Community and Economic Development Department ((831) 475-7300), with buyer intake by the Housing Authority of the County of Santa Cruz",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Projects creating seven or more for-sale units, residential parcels, mobile home parcels or converted condominiums must restrict 15% of units for sale to moderate, low or very low income households; rental projects are exempt from the inclusionary requirement but pay the Affordable Housing Impact Fee (record below). Alternatives (18.02.050): in-lieu fees at the rate in the Council fee schedule ($10 per square foot per the City's 2021 EPS fee feasibility analysis), payable with deferral allowed if the Council finds it aids feasibility; off-site units; land dedication yielding at least 10% more affordable units than otherwise required. In-lieu fees are deposited to the City's housing trust fund for construction of new low and very low income units. Adopted November 2004, amended 2013, 2021 and by Ordinance 1062 (introduced August 24, 2023) to update definitions, mobile home sales procedures and eligibility. The City may require more than 15% only when it provides a grant, subsidy, loan, fee waiver or other fiscal benefit.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Buyers at or below 120% of Santa Cruz County AMI with assets no more than 1.5 times the income limit (excluding up to $500,000 in retirement plans); affordable price set at 35% of gross income including a 10% down payment; resale restrictions with equity sharing and release payments to the trust fund; condominium conversions of five or more units mitigate through on-site units or in-lieu fees.",
+   "eligible_project_types": [
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement; in-lieu fee per the schedule in effect at payment. Inventory to date: eight inclusionary condos at Capitola Beach Villas (2008), four other inclusionary homes, seven affordable lots at Turner Lane and 12 new units added citywide in 2025 (69 in the 6th cycle). Housing Element Program 2.8 commits the City to an economic analysis of the inclusionary ordinance during the planning period.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Lighter than the County's Measure J only in scope (same 15%, same seven-unit threshold, for-sale only) and much lighter than Watsonville. Rental developers owe the $25 per square foot Affordable Housing Impact Fee instead, so a 100% affordable rental project in Capitola should seek the impact fee exemption or deferral at entitlement. The ordinance text was read from the Council's Ordinance 1062 packet attachment on the City's public agenda host (mccmeetingspublic) because codepublishing.com returned 403 and the City's own chapter PDF link is dead; the City's Affordable Housing page and 2023-2031 Housing Element (certified August 30, 2024) were also opened.",
+   "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/capitolaca-meet-ccbbd673a032414cbb411229e1b0e065/ITEM-Attachment-004-f1b24ff134274c7c8e4dec361dd50b51.pdf",
+   "record_id": "6f236a2967",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "for-sale subdivisions and condominium projects of seven or more units (compliance)",
+    "mobile home park subdivisions",
+    "condominium conversions"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, redevelopment or successor agency, or local public housing authority; this inclusionary ordinance (Chapter 18.02) provides no public funds, so it does not by itself trigger prevailing wage. Any public loan, grant, land write-down or fee waiver layered on a project is assessed separately under 1720(b). https://california.public.law/codes/labor_code_section_1720",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Capitola",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "verified",
+   "program_name": "Capitola Affordable Housing Trust Fund (established November 2004) and Affordable Housing Impact Fee ($25 per square foot, adopted 2021)",
+   "administering_agency": "City of Capitola Community and Economic Development Department ((831) 475-7300)",
+   "funding_type": "loan",
+   "typical_award_size": "Trust fund balance about $144,000 (2023-2031 Housing Element, certified August 2024); revenue to date has come only from inclusionary in-lieu fees, with donations allowed. Uses: matching funds for state and federal sources, acquisition of units for affordable resale, and gap assistance; no loan guidelines, per-project limit or NOFA are adopted. Affordable Housing Impact Fee: $25 per square foot on new market-rate residential development, including multifamily rental, adopted in 2021 after a nexus study (the earlier schedule was $6 per square foot on rental projects, $10 per square foot in-lieu on for-sale projects and $2.50 per square foot on additions); exemptions or waivers for deed-restricted affordable units are not stated on the pages opened. PLHA: state estimate of $630,557 for Capitola over the 2020-2024 cycle, application pending at the time the Housing Element was written. Capitola imposes no park, transportation, administration or childcare exactions; school fees ($4.08 per square foot) and Central Fire District fees ($0.53 per square foot) apply.",
+   "per_unit_cap": "None adopted.",
+   "affordability_requirement": "Trust fund monies are directed to new low and very low income units (Section 18.02.050) and to affordable units for moderate income and below; the impact fee is used exclusively to facilitate affordable housing development.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No application cycle; requests are negotiated with the Community and Economic Development Director and approved by Council. The 52-unit 100% affordable development at 1098 38th Avenue (building permit application filed, 2025 Annual Progress Report) is the first candidate for City assistance; confirm whether the impact fee is waived or deferred for that project.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Capitola's fund is too small (about $144,000) to serve as gap financing; its value is as a local match or fee offset in a TCAC or HCD application, with capital from the County's Chapter 17.10 AHIF fund being unavailable inside city limits. The $25 per square foot impact fee is a significant cost on market-rate rental projects (the County charges $2 per habitable square foot on rentals), so mixed-income sponsors should model it; the fee feasibility analysis (EPS, 2021) warned rental development was marginal even before the increase. Density increases are available under the mixed-use AHO successor provisions for 20% lower income units (record below). Sources opened: 2023-2031 Housing Element PDF (DocumentCenter 1797), 2021 fee feasibility analysis (DocumentCenter 699) and the March 23, 2026 Annual Progress Report memo. Audit reclassification: funding_type set to loan because Housing Element Program 2.7 states the City uses the Housing Trust Fund to provide loans and grants (Housing Rehabilitation Loan and Grant Program, feasibility studies, and permanent financing of acquisition-rehab and new construction affordable projects); the balance is only about $144,000. The Housing Element also states a $6 per square foot impact fee for multifamily rental housing alongside the $25 per square foot fee, so confirm the rental rate with the City.",
+   "source_url": "https://www.cityofcapitola.gov/DocumentCenter/View/1797/Capitola-Housing-Element-Adopted-and-Certified-August-2024",
+   "record_id": "bcb90d685b",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition of units for affordable resale",
+    "preservation",
+    "local match for state and federal awards"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Capitola 2023-2031 Housing Element (https://www.cityofcapitola.gov/DocumentCenter/View/1797/Capitola-Housing-Element-Adopted-and-Certified-August-2024) adopts no trust fund loan guidelines or wage rule; its constraints chapter notes only generally that use of state and federal funds triggers relocation and prevailing wage rules. Trust fund loans are public funds under 1720(b)(1) (https://california.public.law/codes/labor_code_section_1720); a below-market residual receipts loan on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI can be exempt under 1720(c)(5)(E) (https://dir.ca.gov/OPRL/coverage/year2020/2019-018.pdf), and small subsidies may fall under 1720(c)(3)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Capitola",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "verified",
+   "program_name": "Density Bonus Ordinance (Municipal Code Chapter 18.03, 2009, amended by the 2024-2025 Housing Element implementation ordinance) and mixed-use density increase for 20% lower income units",
+   "administering_agency": "City of Capitola Community and Economic Development Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Chapter 18.03 (adopted 2009) was rewritten by the Council ordinance amending Title 17, Chapter 18.03 and the zoning map to implement the 2023-2031 Housing Element (certified August 30, 2024), establishing density bonus procedures consistent with current Government Code 65915 (up to 50% bonus, 80% or unlimited for 100% affordable projects, 55-year covenants, replacement units) and including specific incentives for child care facilities in affordable projects. The Housing Element also allows density increase requests on mixed-use sites in exchange for 20% of units for lower income households (or a smaller share at extremely low and very low income), with an in-lieu fee option where on-site units are infeasible. The 2025 Annual Progress Report shows zero density bonus applications and zero projects permitted with a bonus; the obsolete Affordable Housing Overlay (-AH) from the 5th cycle is being retired.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State density bonus law thresholds (very low 50% AMI, lower 80% AMI, moderate for-sale 120% AMI, senior, 100% affordable) with 55-year rental covenants; mixed-use density increase requires 20% lower income units.",
+   "eligible_project_types": [
+    "new construction",
+    "senior housing",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Requested with the planning application. Multifamily zoning and Capitola Mall code updates consumed 18 Council and Planning Commission meetings in 2025; the mall site is the City's largest housing opportunity. Verify the adopted date of the Chapter 18.03 amendment with Planning (the public review draft was dated August 26, 2024).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "State-law mirror with no local bonus enhancement, like Watsonville and unlike the County's Chapter 17.12.065 enhanced bonus. Because rental projects are exempt from the inclusionary ordinance, a developer can combine the 20% lower income mixed-use density increase or the state bonus with the Chapter 18.02 fee structure and seek relief from the $25 per square foot impact fee as a concession. Capitola has no fee waiver program, no city NOFA and no city-controlled development funds beyond the small trust fund; Capitola projects rely on the County's state HOME tenant assistance (which covers Capitola), Housing Authority PBVs, HHAP and state capital. The amending ordinance was read from the Council agenda attachment on the City's public agenda host; codepublishing.com returned 403 and the zoneomics mirror covers only Title 17.",
+   "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/capitolaca-meet-19b56e741f6c45368586676aa9e4f433/ITEM-Attachment-004-2047883dda26419bb42cc48861c6d794.pdf",
+   "record_id": "1bb263392f",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-use on commercial corridors (41st Avenue, Capitola Mall area)",
+    "senior housing",
+    "100% affordable developments"
+   ],
+   "next_deadline_date": "2024-08-26",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Scotts Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "verified",
+   "program_name": "Inclusionary Housing (Below Market Rate) Ordinance (Municipal Code Section 14.01.030, Affordable Housing Committee) and affordable housing in-lieu fee fund",
+   "administering_agency": "City of Scotts Valley Planning Department (planningdepartment@scottsvalley.gov, 1 Civic Center Drive) with the Council's Affordable Housing Committee setting project terms",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Within the former redevelopment project area boundary (unchanged since 1990), residential developments of seven or more units (for sale or rental) must set aside 15% of units for very low, low and moderate income households on site, or off site in limited cases; developments of six or fewer units pay an in-lieu fee; projects of seven or more units with average lot sizes over one acre may pay the fee with Council approval. The in-lieu fee equals the median sales price of a home in the project minus the City-determined affordable price. The two-member Affordable Housing Committee recommends unit counts, sizes and affordability levels for each project, subject to Council confirmation. The ordinance has produced 84 affordable rental and 50 affordable ownership units; in-lieu fees from small projects have subsidized smaller rental projects (the City loaned funds to Emerald Hill Apartments, 46 units with MidPen Housing, including impact fee offsets). Exempt: subsidized projects deed restricted through state or federal programs, single homes on existing lots, additions, ADUs and hardship cases. Housing Element Program H-1.8: comprehensive study by July 2026 and a citywide amendment with income-tier standards by January 2027.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Very low, low and moderate income households as set per project by the Affordable Housing Committee; inclusionary units carry restricted equity accrual, resale price and rental price limits; subsidized affordable projects meeting the standard are exempt.",
+   "eligible_project_types": [
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement; the Affordable Housing Committee meets as special meetings noticed 24 hours ahead. Watch for the July 2026 inclusionary study and the January 2027 citywide ordinance amendment (Program H-1.8), which may change the boundary, percentage and in-lieu formula.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "The in-lieu fee fund is the City's only local housing money; no balance, guidelines or NOFA are published, so treat it as a small negotiated gap or fee-offset source, as with Emerald Hill. The 15% standard matches Capitola and the County's Measure J but applies to rentals as well; it is lighter than Watsonville's 20%. 100% affordable projects are exempt and instead use Chapter 17.41 ministerial approval and the Chapter 17.62 state density bonus (records below); the 4444 Scotts Valley Drive project is the first 100% affordable project under the 6th cycle element. Regional sources: County state HOME tenant assistance (covers Scotts Valley), Housing Authority PBVs, Housing Trust Silicon Valley loans (Beverly Gardens, 25 units, $3,277,500 acquisition loan), HHAP. The 2023-2031 Housing Element PDF (certified April 2, 2024), the City Housing page (scottsvalley.gov/220) and the Affordable Housing Committee page were opened; the municode text of Section 14.01.030 was not (blocked host).",
+   "source_url": "https://www.scottsvalley.gov/DocumentCenter/View/4812/2023-2031-Housing-Element---Adopted-and-Certified",
+   "record_id": "54d536fe5e",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate for-sale and rental projects of seven or more units within the RDA boundary (compliance)",
+    "small projects of six or fewer units (fee payers)",
+    "100% affordable projects (exempt)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, redevelopment or successor agency, or local public housing authority; this inclusionary ordinance (Section 14.01.030) provides no public funds, so it does not by itself trigger prevailing wage. Any public loan, grant, land write-down or fee waiver layered on a project is assessed separately under 1720(b). https://california.public.law/codes/labor_code_section_1720",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Scotts Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "verified",
+   "program_name": "Density Bonus Ordinance (Municipal Code Chapter 17.62, Ordinance 16.142 adopted December 4, 2024)",
+   "administering_agency": "City of Scotts Valley Planning Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Chapter 17.62 was replaced in its entirety on December 4, 2024 to implement State Density Bonus Law (Government Code 65915 to 65918) and the 2023-2031 Housing Element: concurrent request with the first permit application, summary density table, eligibility under 65915(b)(1) and additional bonuses under 65915(v)(1), incentives and concessions (65915(k)), waivers (65915(e)), reduced parking (65915(p)), land donation bonuses, replacement housing documentation, regulatory agreements (17.62.060) and affordable unit design standards (17.62.050). No local bonus beyond state law is codified; the chapter states that state law definitions and limits control.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State density bonus law thresholds with 55-year rental covenants recorded in a regulatory agreement; affordable units comparable in design and construction to market units.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income",
+    "senior housing",
+    "homeownership"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Submitted with the first permit application; the Maximum Allowable Density Worksheet is available from the Community Development Department for sites without a units-per-acre standard. The City is filing a 2026 technical update to the Housing Element sites inventory (projects at 4444 Scotts Valley Drive, 75 Mount Hermon Road and 4575 Scotts Valley Drive).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Mirrors state law, like Watsonville and Capitola; the County's enhanced bonus does not apply inside Scotts Valley. Pairs with the inclusionary exemption for subsidized projects and the Chapter 17.41 ministerial path for 20% or 100% affordable projects (record below); the City Housing page also lists SB 35 procedures and an AB 1332 pre-approved ADU program. Scotts Valley offers no fee waiver program; the Housing Element lists permitting fee waivers only as a possible case-by-case action for special needs housing. Code text read on the zoneomics mirror.",
+   "source_url": "https://www.zoneomics.com/code/scotts-valley-CA/chapter_39",
+   "record_id": "6b35bd1f07",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income rental and for-sale",
+    "senior housing",
+    "100% affordable developments"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Scotts Valley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Cruz",
+   "confidence": "verified",
+   "program_name": "Housing Element Opportunity Site Combining District (Municipal Code Chapter 17.41, Ordinance 16.142.1 adopted June 18, 2025): ministerial approval and standards relief for affordable projects",
+   "administering_agency": "City of Scotts Valley Planning Department",
+   "funding_type": "zoning incentive",
+   "typical_award_size": "Not a subsidy. Streamlined permitting on Housing Element opportunity sites: multifamily projects with 20% or more of units affordable to lower income households receive the Chapter 17.41 A permitting path (ministerial or reduced review), other projects follow Subsection B; 100% affordable projects (all units deed restricted at least 55 years, rentals at or below 80% AMI, ownership at or below 120% AMI, residential at least 85% of mixed-use floor area) may obtain deviations from development standards needed to make the project feasible. Mixed-use sites in the district require residential uses below 70% of gross floor area unless the project qualifies as affordable. The chapter was adopted December 4, 2024 (Ordinance 16.142) and rewritten June 18, 2025 to carry out Housing Element Programs H-1.1 and H-1.2 (rezoning of at least 8.7 acres to R-VH-2 and 32.2 acres to R-VHM, by-right development).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "At least 20% lower income units for the affordable permitting path; 100% affordable (rental 80% AMI, ownership 120% AMI, 55 years) for standards deviations.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Available now for sites mapped in the combining district; Program H-1.1 required the rezonings within the Housing Element timeline and Program H-1.2 maintains by-right approval for lower income sites. Confirm site eligibility with the Planning Department.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Scotts Valley's main local incentive for tax credit projects, substituting for the absence of a trust fund or fee waiver; it stacks with the Chapter 17.62 state density bonus and the inclusionary exemption for subsidized projects, and with Housing Authority PBVs and state capital. The 4444 Scotts Valley Drive 100% affordable project (first under the 6th cycle element, using state density bonus and SB 35) is the template. Code text read on the zoneomics mirror; the HCD certification letter (April 2, 2024) and the City Housing Element page were also opened.",
+   "source_url": "https://www.zoneomics.com/code/scotts-valley-CA/chapter_22",
+   "record_id": "c5622d2f01",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction on Housing Element opportunity sites",
+    "mixed-use with at least 85% residential floor area",
+    "100% affordable developments"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, redevelopment or successor agency, or local public housing authority; this local opportunity site combining district (ministerial or reduced review and standards deviations under Chapter 17.41) provides no public funds, so it does not by itself trigger prevailing wage. Any public loan, grant, land write-down or fee waiver layered on a project is assessed separately under 1720(b). https://california.public.law/codes/labor_code_section_1720 The chapter is a local by-right path, not the Gov. Code 65913.4 (SB 35/SB 423) path; a project that separately uses SB 35 (as 4444 Scotts Valley Drive did) carries the 65913.4(a)(8) wage rule above 10 units.",
+   "last_audited": "2026-11-09"
+  }
+ }
+]

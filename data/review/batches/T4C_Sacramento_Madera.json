@@ -1,0 +1,832 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sacramento",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "SHRA Multifamily Lending Program (City of Sacramento gap financing: HOME, Housing Trust Fund, Mixed Income Housing fund, PLHA)",
+   "administering_agency": "Sacramento Housing and Redevelopment Agency (SHRA) on behalf of the City of Sacramento and the Housing Authority of the City of Sacramento",
+   "funding_type": "loan",
+   "typical_award_size": "Gap loans sized to the gap after all other sources, no stated per-project cap. City funds posted June 1, 2026: HOME $5,000,000, Housing Trust Fund/Workforce Housing $1,000,000, Mixed Income Housing/Workforce Housing $2,500,000, PLHA $680,000 (about $9.2M). Applicants request gap funds without naming a source. January 2026 City pre-applications: Hotel Berry (Jamboree, preservation, $5.1M) invited; Florin Family Apartments (CCH, $5.1M) and Q Street Apartments (Community HousingWorks, $2.0M) invited; requests of $6.5M to $12M (Mercy 2601 5th Street, Danco 6779 Q Street, TWG 1220 H Street, Dos Rios) declined for insufficient funds. Projects must have 12 or more units.",
+   "per_unit_cap": "No published cap; subsidy per restricted unit cannot exceed HUD Section 234 limits for the Sacramento area; HOME units capped by 24 CFR 92.250. Annual SHRA monitoring fee charged per assisted unit.",
+   "affordability_requirement": "55-year regulatory agreement (HOME units per federal rules). SHRA minimum: at least 15% of units at or below 50% AMI and 5% at or below 30% AMI based on feasibility; regulated share at least proportional to SHRA share of total development cost; restricted rents at least 10% below market. Housing Trust Fund and Mixed Income fund money is limited to workforce households (up to 80% AMI, jobs-housing nexus). Priorities: preservation at risk, then new construction and nonresidential conversion (PSH and homeless housing, veterans, workforce 30% to 60% AMI, other), then rehab of regulated stock, then market-rate to affordable conversion.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Two rounds a year aligned to CTCAC 9% rounds. 2026: pre-applications Jan 2 and July 1 (Builder's Patch), full applications March 2 and Sept 1, Council approvals June 16, 2026 and Jan 19, 2027. SHRA was not accepting pre-applications as of 2026-11-08; the 2027 schedule and a new funds-available notice are expected on the SHRA multifamily page at least 30 days before the next pre-application deadline, likely early January 2027. Phone (916) 440-1393.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "This is the City-side pool parallel to the County SHRA record (Pass 2); a project uses one or the other based on location, both run on the same schedule and policies (2026 City Multifamily Lending and Mortgage Revenue Bond Policies, amended July 29, 2026). Terms: up to 3% simple interest or the AFR, term up to 40 years from conversion or 55 years when senior public lenders require, 1.10x to 1.20x combined DSCR, payments deferred during construction and deferred developer fee repayment, residual receipts allowed; nonprofit managing general partner required; developer fee limited to $25,000/$15,000/$12,000 per unit tiers for non-tax-credit deals and deferred maximum fee for LIHTC deals. Federal HOME (12 or more units) and CDBG (8 or more units) trigger Davis-Bacon; SHRA treats state prevailing wage as applying unless the below-market loan exemption (40% of units at 80% AMI for 20 years) fits. Stack with the City Zero-Dollar Rate impact fee reduction, Housing Impact Fee exemption at 40 du/acre, SacSewer fee waivers (County record) and Housing Authority of the City of Sacramento bonds. SHRA does not expect a project-based voucher RFP in 2026. SB 802 moves SHRA into the Sacramento Area Housing and Homelessness Agency by Jan 1, 2028, so confirm the lender entity on 2027 and later commitments.",
+   "source_url": "https://www.shra.org/multi-family-housing-financing-lending-resources/",
+   "record_id": "dc4482720d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": "2026-06-16",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sacramento",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "City of Sacramento Housing Trust Fund (commercial linkage fee, City Code Chapter 18.56 Article IV)",
+   "administering_agency": "City of Sacramento Community Development Department, Planning Division (fee assessment); SHRA (fund administration and lending)",
+   "funding_type": "loan",
+   "typical_award_size": "Fee source for SHRA City gap loans. Nonresidential rates effective July 1, 2024 through June 30, 2026: office $3.33, hotel $3.18, commercial $2.68, manufacturing $2.08, warehouse $0.91 per square foot, adjusted annually by the San Francisco construction cost index (the FY 2026-27 notice was not posted as of 2026-11-08). 2024 fund: $411,805 fees collected, $140,000 spent, $4.85M ending balance of which $807,861 uncommitted; $1.0M posted as available June 1, 2026.",
+   "per_unit_cap": "None published; SHRA policies apply (HUD Section 234 limit per restricted unit).",
+   "affordability_requirement": "Fund is restricted to housing for workforce households up to 80% AMI (very low and low income wage earners) under the 1989 jobs-housing nexus; 55-year SHRA regulatory agreement.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Deployed through the SHRA two-round schedule (next pre-application likely early January 2027). Fee is paid at building permit on nonresidential projects; contact Ryan Dodge, (916) 808-8044, rdodge@cityofsacramento.org for fee questions.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Adopted 1989 (Chapter 17.708), moved into the Development Impact Fee chapter 18.56 on Feb 14, 2017; Council raised the fee 81.3% in 2004 (phased) and allows changes by resolution. Small and lumpy: about $0.4M to $0.6M a year in fees, so it is the smallest of the four City pools and is usually blended into a single SHRA loan with HOME and Mixed Income money. Parallel County Housing Trust Fund covers the unincorporated area (County rates $3.26 office to $1.08 warehouse since March 28, 2025). Annual report posted each May by SHRA.",
+   "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/housing-trust-fund",
+   "record_id": "77c3590bb3",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Housing Trust Fund loans through SHRA are local fee money with no federal Davis-Bacon trigger; SHRA 2026 Multifamily Lending Policies, City (https://www.shra.org/wp-content/uploads/2026/08/2026-SHRA-Multifamily-Lending-Policies-City-final.pdf), Section 6.1 restates state law and the 1720(c)(5)(E) below-market loan exemption (40% of units at 80% AMI for 20 years) (https://california.public.law/codes/labor_code_section_1720).",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sacramento",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Reduced Residential Development Impact Fees for Affordable Dwelling Units (Zero-Dollar Rate Program)",
+   "administering_agency": "City of Sacramento Community Development Department, Planning Division (Form CDD-0410); affordability confirmed by SHRA or CADA",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Reduction of City-controlled development impact fees to a $0 rate for deed-restricted affordable units, capped at $10,000 per qualifying unit, funded by a $3 million annual General Fund/Measure U appropriation (reauthorized July 2025). Eligible fees: park development impact fee (Ch. 18.56 Art. II), sewer, combined sewer, water system and storm drainage development fees (Ch. 13), and the 65th Street, Central City, Jacinto Creek, North Natomas, Railyards, River District and Willowcreek area fees. School fees and SAFCA fees are not City-controlled and still apply.",
+   "per_unit_cap": "$10,000 per qualifying affordable dwelling unit; mixed-income projects receive a proportional reduction.",
+   "affordability_requirement": "Rental: occupied by low or moderate income households (80% or 120% AMI per H&S 50093) at affordable rent (H&S 50053), restricted at least 30 years by a recorded regulatory agreement with the City, SHRA or another public agency. For-sale: low income (80% AMI) at an affordable price, 30 years.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "adu"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Rolling, first come first served against each fiscal year's $3 million allocation; no application deadline. Apply with Form CDD-0410 before permit issuance.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Worth roughly $5,000 to $10,000 per unit depending on area fees; stackable with the SacSewer impact fee waiver (County record) which covers the regional sanitation fee the City program does not touch, and with the Housing Impact Fee $0 rate. Because Labor Code 1720(b)(4) treats waived fees as public funds, a fee reduction can by itself trigger state prevailing wage for a project that is otherwise exempt; most LIHTC projects already pay prevailing wage. The 2018 version waived fees without a cap; the 2024 modification added the $10,000 cap and the $3M budget, so large projects should not assume full waivers. Deferral of remaining impact fees to final inspection is available separately (CDD-0330).",
+   "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/reduction-of-development-impact-fees-for-new-adus",
+   "record_id": "b2505bd5f8",
+   "cycle_notes": "Funded by a $3 million annual General Fund/Measure U allocation. LIHTC and Homekey projects may ask to reserve funds when they receive their award. Contact City staff early because funding is limited. Program resolutions 2018-0428, 2019-0185 and 2024-0233 (adopted June 25, 2024).",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing",
+    "adu"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(b)(4) defines payment out of public funds to include fees that are reduced or waived by a political subdivision, so the fee reduction counts as public funds; an otherwise private project is exempt only if the subsidy is de minimis in the context of the project under 1720(c)(3), and the 1720(c)(5)(E) exemption covers below-market loans, not fee waivers. https://california.public.law/codes/labor_code_section_1720",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sacramento",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "City of Sacramento Development Impact Fee Deferral Program",
+   "administering_agency": "City of Sacramento Community Development Department, Building Division (Form CDD-0330)",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Deferral, not waiver: City impact fees may be paid at final inspection instead of permit issuance, useful for phased or multi-building projects. No cost figure published. Fee estimates available for a low-cost application. The Statewide Community Infrastructure Program (CSCDA SCIP) is also accepted for financing eligible City impact fees.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "None; open to all residential projects.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Apply with CDD-0330 before permit issuance; fees due at final inspection.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Carries impact fees through construction so they can be paid from permanent loan proceeds; pair with the Zero-Dollar Rate reduction on the affordable units and SCIP bond financing of remaining fees. The County runs a separate deferral program for unincorporated projects (County record).",
+   "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/housing-development-kit/housing-development-incentives/help-me-reduce-the-cost-of-development",
+   "record_id": "cac517cdb6",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Fees reduced, waived, deferred or reimbursed are public funds under Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720); whether a project is covered depends on 1720(c)(3) de minimis (under $600,000 and 2% of project cost) and other 1720(c) exemptions. No program rule stating prevailing wage was found.",
+   "audit_note": "PW citation pass 2026-11-09: false was uncited and no rule supports it; set unclear per Tier 3 rule.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sacramento",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Multifamily Mortgage Revenue Bonds, Housing Authority of the City of Sacramento (SHRA conduit issuance)",
+   "administering_agency": "Sacramento Housing and Redevelopment Agency for the Housing Authority of the City of Sacramento",
+   "funding_type": "bond",
+   "typical_award_size": "Tax-exempt and taxable conduit bonds for rental projects of 12 or more units in the City; no minimum or maximum issue size (cost-effectiveness usually sets a floor). Applications for bonds without an SHRA loan are accepted year round; bond-plus-loan requests follow the SHRA pre-application schedule. Private placements require accredited or qualified institutional buyers in $250,000 denominations with investor letters.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Federal minimum 20% at 50% AMI or 30% at 60% AMI plus 10% at 50% AMI (H&S 34312.3); CDLAC and CTCAC rules govern; SHRA adds its 15% at 50% AMI and 5% at 30% AMI policy when an SHRA loan is included; non-competitive CTCAC deals averaging above 60% AMI must average at or below 59% AMI. Refundings that extend maturity require at least 10% of units at 50% or 60% AMI for 15 more years.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Bond-only applications any time; bond-with-loan applications on the SHRA schedule (next pre-application likely early January 2027). SHRA Commission then City Council approval, then CDLAC allocation.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "SHRA prefers to be the issuer for City projects and pairs bonds with its gap loan; CSCDA or CMFA remain alternatives if timing does not fit. Bond policy requires the nonprofit owner to have material day-to-day involvement for projects claiming the welfare exemption, matching BOE scrutiny of managing general partners (see County Assessor record). Policies: 2026 City Multifamily Lending and Mortgage Revenue Bond Policies (Section 9).",
+   "source_url": "https://www.shra.org/wp-content/uploads/2026/08/2026-SHRA-Multifamily-Lending-Policies-City-final.pdf",
+   "record_id": "3038f76416",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "False for the bond financing itself. DIR coverage determinations PW 2006-001 Horizons at Indio (https://www.dir.ca.gov/OPRL/coverage/year2007/2006-001.pdf) and PW 2006-020(A) Heber (https://www.dir.ca.gov/OPRL/coverage/year2007/2006-020(A).pdf), following PW 2004-016 Rancho Santa Fe, hold that conduit multifamily revenue bonds, where the issuer assigns its rights to a private trustee that advances proceeds to the borrower and receives repayments directly, are not payment of public funds under Labor Code 1720(b)(1) and not a public below-market loan under 1720(b)(4). SHRA's structure matches: 2026 SHRA City Multifamily Lending and Bond Policies Section 9.1.3 state there is no liability to or pledge of the City's, the Housing Authority's or SHRA's faith, credit or taxing power, repayment is limited to private project revenues, and the program is self-supporting with the developer paying all costs; Section 9.4.11 provides a bank bond trustee as custodian of funds. Caveat: SHRA gap loans, HOME, CDBG or other public funds in the same deal are tested separately under SHRA policy 6.1 and Labor Code 1720 (1720(c)(5)(E) exemption; Davis-Bacon for HOME at 12+ or CDBG at 8+ units). Sources: https://www.shra.org/wp-content/uploads/2026/08/2026-SHRA-Multifamily-Lending-Policies-City-final.pdf ; https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "Set false on DIR determinations PW 2006-001 and PW 2006-020(A) for trustee-structured conduit bonds, which matches SHRA policy 9.1.3 and 9.4.11; other public funds in the deal still need their own prevailing wage test.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Elk Grove",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "City of Elk Grove Affordable Housing Fund and Affordable Housing Impact Fee (Municipal Code Chapters 16.88 and 16.89)",
+   "administering_agency": "City of Elk Grove Housing and Public Services Division (fund and RFPs); Finance Department (fee collection)",
+   "funding_type": "loan",
+   "typical_award_size": "Fee-funded local gap loan fund. Current (2025) fees per the 2026 EPS nexus study: $6,396 per single or two-unit dwelling and $3,837 per multi-unit dwelling; nonresidential $1.05 commercial/retail, $3.11 hotel, $1.19 manufacturing, $1.28 warehouse and $0.00 office per square foot, indexed annually. Staff recommended (Sept 23, 2026 hearing) converting to per square foot: $3.59 single-unit, $3.29 owner-occupied multi-unit, $1.46 renter-occupied multi-unit, plus commercial $2.15 shopping center, $2.29 office, $0.39 industrial, $1,146.75 per hotel room and other categories (maximums supportable were $47.80, $43.80 and $19.50 per square foot). The City releases an RFP when the fund balance can support a project (generally about $5 million); the City reports $84 million lent to sixteen projects since inception (developer page, not opened this pass).",
+   "per_unit_cap": "None published; set in each RFP and loan agreement.",
+   "affordability_requirement": "Fund restricted to housing for low and very low income households (HCD limits); 2026 update would also allow a local preference for City-based workers where fair housing law permits. Density bonus affordable units are exempt from the residential fee (Zoning Code 23.50.080).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No open RFP found as of 2026-11-08; watch elkgrove.gov/affordable-housing/developers and the City's purchasing RFP page. Outcome of the September 23, 2026 fee update hearing (ordinance amending 16.88 and 16.89 and a fee resolution) was not confirmed; contact Joshua Tovar, Management Analyst II, jtovar@elkgrove.gov, or the Housing and Public Services Division, (916) 683-7111.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Elk Grove is an impact-fee jurisdiction (like the City and County of Sacramento) with no inclusionary option, so market-rate rental projects pay the fee rather than build units; the 2026 renter-occupied rate was deliberately set low ($1.46 per square foot recommended) because the nexus study found multifamily infeasible at higher fees. Elk Grove is outside the SHRA lending area (SHRA finances in other cities only under cooperation agreements), so this fund, state sources and Elk Grove's own PLHA are the local layer. Past RFPs tied fund loans to City-owned sites (Sheldon Farms North and Old Town, 2023). elkgrove.gov and codepublishing.com return 403 to automated access; facts here come from the City's Sept 23, 2026 public hearing notice and the June 2026 EPS nexus study PDFs on elkgrove.gov.",
+   "source_url": "https://elkgrove.gov/sites/default/files/city-files/city-government/city-council/council-meetings/public-hearing-notices/09-23-26-affordable-housing-fee-2026-nexus-update-08-21-26-and-08-28-26.pdf",
+   "record_id": "8fd8dede09",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Affordable Housing Fund loans are public funds under Labor Code 1720(b)(1) (https://california.public.law/codes/labor_code_section_1720); 1720(c)(5)(E) may exempt below-market loans with 40% of units at 80% AMI for 20 years. No Elk Grove fund guideline stating prevailing wage was found.",
+   "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Elk Grove",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Density bonus and developer incentives (Elk Grove Municipal Code Chapter 23.50) and streamlined housing approvals (Chapter 23.17)",
+   "administering_agency": "City of Elk Grove Development Services, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "State density bonus law implemented in Chapter 23.50 (eligibility at 10% lower income, 5% very low income, senior, 10% moderate for-sale, special needs, 100% affordable), one bonus with concessions per Government Code 65915; Section 23.50.080 (Ord. 12-2022) exempts affordable units built under the chapter from the Chapter 16.88 affordable housing fee. Chapter 23.17 provides ministerial streamlined approvals for infill affordable projects, affordable housing in commercial zones, mixed-income projects along commercial corridors, middle-class housing, adaptive reuse, faith and higher-education land, and urban subdivisions (titles confirmed; detailed standards not read this pass).",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Per state law; fee exemption applies only to the deed-restricted affordable units.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Rolling at entitlement.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancement beyond state minimums identified. The fee exemption in 23.50.080 is the useful local layer: a density bonus project avoids the per-unit affordable housing fee on its affordable units, and the 2026 fee update proposed keeping the renter multi-unit fee low. Elk Grove adopted its Chapter 23.17 streamlining menu in response to the 2021-2029 Housing Element.",
+   "source_url": "https://www.zoneomics.com/code/elk-grove-CA/chapter_4",
+   "record_id": "bea0256433",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income projects",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Value set false for consistency with other density bonus records: the density bonus itself provides no public funds (Labor Code 1720(a)(1), (c)(1)), so it does not trigger prevailing wage. Condition: a project that uses the streamlined path described below must pay prevailing wages under that statute. Elk Grove Municipal Code Chapter 23.17 (read on the gocodebook mirror, https://gocodebook.com/library/us/ca/elk-grove/title-23-zoning/division-ii-administration-and-permit-procedures/chapter-23.17-streamlined-housing-approvals): Article II implements Gov. Code 65913.4, which requires prevailing wages for projects over 10 units (https://california.public.law/codes/government_code_section_65913.4); Articles III and IV implement Gov. Code 65912.100 to 65912.124, and 65912.130(b) requires prevailing wages (https://california.public.law/codes/government_code_section_65912.130); Article V requires the 65852.24(b)(8) and (b)(9) labor standards. Trigger is conditional on using those streamlined paths; a Chapter 23.50 density bonus alone pays no public funds and does not trigger prevailing wage under Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720).",
+   "audit_note": "PW citation pass 2026-11-09: set true because Chapter 23.17 streamlining paths carry state prevailing wage rules; density bonus alone does not. Chapter 23.17 text read only on a third-party mirror.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Elk Grove",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Elk Grove Permanent Local Housing Allocation (PLHA) and CDBG entitlement funds for affordable housing",
+   "administering_agency": "City of Elk Grove Housing and Public Services Division",
+   "funding_type": "grant",
+   "typical_award_size": "FY 2026-27 Action Plan (public review draft): CDBG $948,393 annual allocation plus $448,348 prior-year funds; HOME $357,251 annual allocation plus $698,628 prior-year funds ($1,055,880 available), as Elk Grove is its own HOME participating jurisdiction; Affordable Housing Fund (impact fee on new residential and nonresidential development) $405,158 available, earmarked as HOME match. The Plan says development and acquisition are expected to be funded mainly from the Affordable Housing Fund and/or PLHA, with HOME use for development still under consideration and a TBRA program being evaluated. PLHA: $2,541,598 awarded for 2019-2023 allocations; the original 2022 plan put most funds toward multifamily rental development, but the December 11, 2024 amendment shifted funds to homelessness activities and Affordable Ownership Worker Housing (40% of 2022-2023 funds, $266,401) after a planned use in the $5,436,000 Cornerstone Village loan fell through.",
+   "per_unit_cap": null,
+   "affordability_requirement": "HOME: 24 CFR Part 92 rent and income limits; CDBG: low and moderate income per HUD; PLHA AOWH: up to 120% AMI ownership.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No open round as of November 8, 2026; contact Housing and Public Services.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Elk Grove is a CDBG entitlement city since 2003 and a HOME participating jurisdiction, not a Sacramento County HOME Consortium member. The City reported the PLHA expenditure deadline does not fit multifamily timelines and redirected PLHA away from rental development; the Affordable Housing Fund and HOME are the realistic city capital sources. elkgrove.gov/affordable-housing pages return 403; grants pages and PDFs open.",
+   "source_url": "https://elkgrove.gov/sites/default/files/city-files/Departments/grants/action-plan/2026-2027/2026-27-action-plan-public-review-draft.pdf",
+   "record_id": "e322986dfe",
+   "cycle_notes": "No developer NOFA found on the City site. CDBG and HOME are programmed through the annual Action Plan (2026-27 draft public hearing notice September 4, 2026); multifamily projects appear to be funded by direct negotiation, including on City-owned sites.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing",
+    "City-owned sites (about 326 affordable units on two sites with developer partners)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "prevailing_wage_basis": "Federal funds: HOME projects with 12 or more assisted units trigger Davis-Bacon under 24 CFR 92.354; CDBG-assisted residential projects with 8 or more units trigger Davis-Bacon under Section 110 of the Housing and Community Development Act of 1974. PLHA alone does not set a federal wage rule.",
+   "audit_note": "Original source_url (elkgrove.gov/affordable-housing/developers) returns 403; replaced with the City's 2026-27 Action Plan PDF. Prior text saying amounts unknown and that PLHA funds multifamily was superseded.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Rancho Cordova",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Affordable Housing Plan requirement for new growth areas (Housing Element policy, south of Highway 50)",
+   "administering_agency": "City of Rancho Cordova Planning Department and Housing Division",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Per the May 6, 2026 Keyser Marston survey prepared for Sacramento County, Rancho Cordova has no formal inclusionary ordinance but its Housing Element requires new residential projects in newly developing areas (generally south of Highway 50, mostly high-resource areas) to include an Affordable Housing Plan showing how the project contributes to affordable housing production; compliance options are on-site units, land dedication, rehabilitation of existing affordable units, or in-lieu fees negotiated through development agreements for master plans and specific plans.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "No fixed percentage. Housing Element Policy H.1.5 and Action H.1.5.1 require an Affordable Housing Plan approved at the earliest entitlement (Specific Plan, Development Agreement or other primary entitlement) projecting units by extremely low, very low, low and moderate income and the ownership and rental split, set case by case by City Council.",
+   "eligible_project_types": [
+    "mixed-income",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at specific plan or development agreement approval.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "For affordable developers the practical effect is land: master plan developers (Rio del Oro, Suncreek, Arboretum, Westborough, etc.) often satisfy the plan by dedicating sites or paying per-door in-lieu fees, which creates site opportunities and sometimes developer contributions for 9% and 4% deals. Per Action H.1.5.1, contributed land may be used by the City and its nonprofit partners, and the City will pursue supplemental funding to reach below 50% AMI. Sources: May 6, 2026 Keyser Marston memo for Sacramento County, and the HCD-hosted 2021-2029 Housing Element draft (March 24, 2021); the City site itself blocks automated access.",
+   "source_url": "https://development.saccounty.gov/content/dam/cd/planning/docs/projects/long-range/SACOG-Region-Comparison-Memo_5-6-26.pdf",
+   "record_id": "27aad75ad0",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate master plans (compliance)",
+    "mixed-income projects",
+    "land dedication sites"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Citrus Heights",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Citrus Heights Affordable Housing Fee on commercial development (Resolution 2022-048) and City Housing Trust Fund",
+   "administering_agency": "City of Citrus Heights Housing and Grants Division (fund); Building Division (fee collection)",
+   "funding_type": "other",
+   "typical_award_size": "Fee source, not a subsidy program with published terms. Per the July 9, 2026 development impact fee sheet (Resolution 2022-048): office (including medical and assisted living) $1.95, hotel $2.35, commercial and retail $1.77, industrial (flex and R&D) $1.67 per square foot on new commercial development or added commercial square footage, applying to commercial projects both under and over 5,000 square feet; residential is exempt. Rates were raised in June 2022 to the regional average after no update since 1992. Revenue goes to the City Housing Trust Fund administered by the Housing and Grants Division; fund balance and any lending terms not published.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Unknown; linkage fee funds are for very low income housing per the original 1992 ordinance title (Nonresidential Construction Fees for Funding Very Low Income Housing).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA found; projects should approach the Housing and Grants Division directly, (916) 727-4830, housing@citrusheights.net.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Citrus Heights has no inclusionary ordinance and no residential affordable housing fee, and no city fee waiver program for affordable units was found; the fee sheet also lists multimodal ($1,591 per multifamily unit), park, Measure A transportation, drainage, sewer, school and fire fees that apply to apartments. The trust fund is small because the city is built out with little new commercial construction; the realistic city layer is the CDBG, HOME Consortium and PLHA record below plus SHRA bonds under a cooperation agreement.",
+   "source_url": "https://www.citrusheights.net/DocumentCenter/View/21440/Development-Impact-Fees-brochure_July2026",
+   "record_id": "46a69bde4c",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "audit_note": "Kept as other: the source documents show only fee collection into the Housing Trust Fund, with no published loan or grant program, terms or awards to classify as deployable. Fee table corrected: the affordable housing fee applies to commercial construction of any size, not only 5,000 square feet or more.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The July 2026 Development Impact Fees brochure lists the commercial Affordable Housing fee and states no wage rule (https://www.citrusheights.net/DocumentCenter/View/21440/Development-Impact-Fees-brochure_July2026), and no Citrus Heights Housing Trust Fund lending guidelines or wage rule were found on the City site. The fee is a cost to commercial developers and provides no public funds to the payer; trust fund money lent or granted to a housing project would be public funds under 1720(b), where below-market residual receipts loans may fall under the 1720(c)(5)(E) exemption (below-market loan, at least 40 percent of units restricted 20 years at or below 80 percent AMI; see DIR PW 2019-018, https://dir.ca.gov/OPRL/coverage/year2020/2019-018.pdf). https://california.public.law/codes/labor_code_section_1720"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Citrus Heights",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Citrus Heights CDBG entitlement, Sacramento County HOME Consortium share, and Permanent Local Housing Allocation (PLHA)",
+   "administering_agency": "City of Citrus Heights Housing and Grants Division (CDBG and PLHA); SHRA administers the HOME Consortium",
+   "funding_type": "grant",
+   "typical_award_size": "CDBG: about $600,000 a year in entitlement funds plus about $50,000 program income (2024 Action Plan), used mostly for public improvements, public services (15% cap, competitive round each summer) and a housing rehabilitation revolving loan fund. HOME: the City is a member of the Sacramento County HOME Consortium with the County, City of Sacramento and Rancho Cordova; its consortium share funded $3,580,000 to the 47-unit Sunrise Pointe permanent supportive housing project (approved 2018, completed August 2023). PLHA: $1,876,554 five-year allocation from HCD, partly for the Sayonara Drive redevelopment project and a navigator program.",
+   "per_unit_cap": "HOME units capped by 24 CFR 92.250.",
+   "affordability_requirement": "Per federal and PLHA rules; HOME at or below 60% AMI with 20% of HOME units at 50% AMI.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. The 2027 CDBG public service application deadline was August 4, 2026 and the 2027 Annual Action Plan went to Council October 28, 2026; the next public service NOFO is expected around July 2027. Multifamily HOME requests go through SHRA's two-round schedule with a Citrus Heights consortium set-aside, confirm with SHRA (916) 440-1393.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "The HOME Consortium share is the only meaningful city-level capital source: Citrus Heights directed its share to Sunrise Pointe via SHRA rather than running its own NOFA. CDBG is largely spent on infrastructure and services. Federal funds trigger Davis-Bacon (HOME at 12 or more units, CDBG at 8 or more) and NEPA. Sayonara Drive is a City-led acquisition and redevelopment site that may seek a development partner.",
+   "source_url": "https://www.citrusheights.net/DocumentCenter/View/20610/DRAFT-2024-Annual-Action-Plan-",
+   "record_id": "ce25a9e63c",
+   "cycle_notes": "CDBG public service NOFO released each July with an early August deadline; Annual Action Plan hearings each October for the following calendar program year. No city capital NOFA for multifamily.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Citrus Heights",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Affordable housing incentives and density bonus (Citrus Heights Zoning Code Chapter 106.32)",
+   "administering_agency": "City of Citrus Heights Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "State density bonus law implemented in Chapter 106.32 (Ord. 2019-004, 2022-007): eligibility at 10% lower income, 5% very low income, senior housing, 10% moderate for-sale, 10% foster youth/disabled veteran/homeless, 20% low-income student housing, or land donation of at least one acre; bonus table follows Government Code 65915; minimum project size five units; bonus and incentives for projects with child care facilities; density bonus agreement recorded.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Per state law; moderate income bonuses only for for-sale units.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Rolling at entitlement; Council determines the bonus.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancement beyond state minimums identified. Citrus Heights is built out, so bonus use is on infill and commercial corridor sites (Sunrise Boulevard, Auburn Boulevard) and the Sunrise Tomorrow Specific Plan area at Sunrise Mall, where a 2026 public-private agreement started redevelopment; housing phases there are a future opportunity.",
+   "source_url": "https://www.zoneomics.com/code/citrus-heights-CA/chapter_10",
+   "record_id": "d1a5dff72d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income projects",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Folsom",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Folsom Affordable Housing Loan (AHL) Program (Folsom Housing Fund 238 and Housing Trust Fund 221)",
+   "administering_agency": "City of Folsom Community Development Department, Housing Services (loan consultant TDA, Inc.)",
+   "funding_type": "loan",
+   "typical_award_size": "Gap loans from the City's inclusionary in-lieu fee fund and commercial housing trust fund. Unaudited cash available for projects at June 30, 2025: $23.9 million (Fund 238 $22.8M, Fund 221 $0.9M, legacy funds $0.2M). Track record: 11 loans since 2005 totaling over $36 million supporting 1,095 units (e.g., a $2.7M conditional loan for 52 units in 2020). Guidelines adopted by Resolution 11427 on August 26, 2025 standardize terms and allow the City to issue NOFAs.",
+   "per_unit_cap": "None published; sized by the City's consultant review of the pro forma against TCAC underwriting.",
+   "affordability_requirement": "Minimum 55-year income, rent and affordability restrictions recorded senior to foreclosable liens; serves extremely low, very low and low income households; priority to sites outside concentrations of existing regulated housing and to Housing Element goals (seniors, large families, special needs). Fund 238 must spend at least 50% on construction or major rehab of multifamily rentals affordable to low and very low income households (Sacramento Housing Alliance settlement).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA issued as of 2026-11-08; the 2025 guidelines contemplate strategic NOFAs when resources are available, and staff planned a Council policy discussion on priorities for the housing funds. Requests may still be submitted ahead of tax credit rounds; contact Housing Services via the Community Development Department (Pam Johns, Director), (916) 461-6000.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "The largest city-controlled pool in Sacramento County outside the City of Sacramento (about $23M) with few competing applicants, because Folsom's rental projects are scarce and the Folsom Plan Area south of Highway 50 generates most in-lieu revenue. Loans are repaid from 50% of residual cash flow after allowed expenses; operating and replacement reserves required for the 55-year term; underwriting and compliance aligned to TCAC and LIHTC rules. Folsom is outside the SHRA lending area (cooperation agreement needed), so this fund plus state sources is the local layer; a Folsom Plan Area MOU committing to 890 deed-restricted affordable units (2024 General Plan amendments, not opened this pass) creates sites. Chapter 17.104.070 also allows fee waivers or deferrals and density bonuses for inclusionary units. folsom.ca.us returns 403 to automated access; the staff report and resolution were read from the City's public agenda host.",
+   "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-3c80e00338b5420aafa72ac45dae4a5d.pdf",
+   "record_id": "94239692fe",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Unresolved. The August 26, 2025 staff report on the AHL Program Guidelines (Resolution 11427) and the housing funds staff report state no prevailing wage rule for City loans (the latter notes only that Homekey and Infill Infrastructure require it). City loans are public funds under Labor Code 1720(b); the 1720(c)(5)(E) exemption for below-market loans with 40% of units at 80% AMI for 20 years may apply depending on loan terms. Davis-Bacon applies only if City HOME (12+ units) or CDBG (8+ units) is layered. Sources: https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-3c80e00338b5420aafa72ac45dae4a5d.pdf ; https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-54dff11a603148f68a0203d4b6b13245.pdf ; https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "Left unclear: Folsom documents state no rule; outcome depends on Labor Code 1720(c)(5)(E) and project facts. The full guidelines text was not separately located (folsom.ca.us returns 403).",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Folsom",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Folsom Inclusionary Housing Ordinance (Municipal Code Chapter 17.104) and in-lieu fee (Ordinance 1359, Resolution 11510)",
+   "administering_agency": "City of Folsom Community Development Department, Housing Services",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. For-sale residential projects of 10 or more units (and rental projects of 10 or more units receiving City assistance) must make 10% of units affordable: 3% very low income and 7% low income; market-rate rental apartments are exempt. In-lieu fee effective February 12, 2026 (replacing 1% of the lowest sales price): $3.00 per square foot for single-family for-sale units and $2.50 per square foot for multifamily for-sale units of 1,500 square feet or less, paid at building permit into the Folsom Housing Fund (Fund 238); at least 50% of fee revenue must go to lower-income rental development. Prior-year collections exceeded $3.8M, mostly from the Folsom Plan Area. Alternatives: land dedication, off-site units, acquisition-rehab or conversion of market-rate units, inclusionary credits, combinations.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Rental inclusionary units restricted at least 30 years (or longer if state law requires); for-sale units resale-restricted; projects of nine or fewer market-rate units exempt.",
+   "eligible_project_types": [
+    "mixed-income",
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Applies at entitlement; fee per unit in effect at permit issuance. Council adopted Ordinance 1359 on January 13, 2026 (first reading December 9, 2025) and set fees by Resolution 11510 the same night; next review expected with the Housing Element cycle. Developers paying fees only need a letter of intent, not a full inclusionary housing plan.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Nearly all Folsom Plan Area builders pay the fee, which is why Fund 238 holds about $22.8M and funds the AHL Program (record above). Rental multifamily was kept exempt in 2026 despite AB 1505 authority, so apartment developers owe no inclusionary units or fee. Developers who provide more than 10% can bank and sell inclusionary housing credits for five years (17.104.070). The ordinance text was read from the City Council's January 13, 2026 agenda packet on the City's public agenda host and the zoneomics code mirror.",
+   "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-e0a349248e64470eac3fc0fa94532290/ITEM-Attachment-001-881e809b1b1f4a71b18b405a5e2e979f.pdf",
+   "record_id": "5824008c06",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "market-rate for-sale subdivisions (compliance)",
+    "mixed-income projects",
+    "land dedication sites"
+   ],
+   "next_deadline_date": "2026-01-13",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Folsom",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Folsom Housing Trust Fund commercial development fee (Municipal Code Chapter 3.90, Fund 221)",
+   "administering_agency": "City of Folsom Community Development Department (fee) and Housing Services (fund)",
+   "funding_type": "loan",
+   "typical_award_size": "Commercial linkage fee of $2.08 per square foot on new commercial development (established 2002), deposited in the Housing Trust Fund (Fund 221) and used mainly to fill financing gaps in affordable rental projects through the AHL Program. Fund 221 balance was $918,311 at June 30, 2025.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "Fund supports affordable housing development; AHL Program 55-year restrictions apply to loans.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Deployed through the AHL Program (no NOFA as of 2026-11-08). Fee paid at building permit.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Minor source compared with Fund 238; Folsom's rate ($2.08) is below the City of Sacramento ($2.68 commercial) and above the County ($2.17). Chapter 3.90 text itself was not opened (codepublishing.com and folsom.ca.us return 403); the rate and balance come from the August 26, 2025 staff report on the City's public agenda host.",
+   "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-54dff11a603148f68a0203d4b6b13245.pdf",
+   "record_id": "b5e8f6c802",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Unresolved. Fund 221 is deployed through the AHL Program; the August 26, 2025 staff reports state no prevailing wage rule. City loans are public funds under Labor Code 1720(b), with the 1720(c)(5)(E) below-market-loan exemption (40% of units at 80% AMI for 20 years) depending on loan terms. Sources: https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-54dff11a603148f68a0203d4b6b13245.pdf ; https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-3c80e00338b5420aafa72ac45dae4a5d.pdf ; https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "Left unclear: Folsom documents state no rule; outcome depends on Labor Code 1720(c)(5)(E) and project facts. Chapter 3.90 text not opened (codepublishing and folsom.ca.us return 403).",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Folsom",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Density bonus and other developer incentives (Folsom Municipal Code Chapter 17.102)",
+   "administering_agency": "City of Folsom Community Development Department, Planning Services",
+   "funding_type": "density bonus",
+   "typical_award_size": "State density bonus law implemented in Chapter 17.102 (Ord. 1145, 2011) for very low, low, moderate and senior households, with additional incentives or concessions per Government Code 65915(i), an added bonus for child care facilities, and resale and occupancy restrictions on moderate income units. Multifamily objective design standards were adopted in late 2025 to enable ministerial review.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "Per state law (affordable rent defined as 30% of 50% or 80% AMI).",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Rolling at entitlement.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancement beyond state minimums identified; the chapter predates recent state amendments and defers to Government Code 65915 where they conflict. The 2024 General Plan and Folsom Plan Area amendments added capacity for about 6,046 units in targeted multifamily areas, which is where bonus requests will land. Inclusionary projects may also request fee waivers or deferrals under 17.104.070 and Chapter 16.60.",
+   "source_url": "https://www.zoneomics.com/code/folsom-CA/chapter_53",
+   "record_id": "5e64408691",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income projects",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Folsom",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Sacramento",
+   "confidence": "verified",
+   "program_name": "Folsom legacy housing funds: Oaks at Willow Springs inclusionary fund (Fund 274) and former redevelopment bond proceeds (Fund 280)",
+   "administering_agency": "City of Folsom Community Development Department, Housing Services",
+   "funding_type": "loan",
+   "typical_award_size": "Largely spent. Fund 274 held $25,672 at June 30, 2025 from a 2006 $3.1M inclusionary payment ($2.7M went to the Granite City Apartments site on Sibley Street). Fund 280 held $149,695 of pre-2011 redevelopment bond proceeds that SB 107 (2015) let the City use for housing; over $9.6 million was invested in multiple affordable projects after redevelopment dissolved in 2012.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Low and very low income housing per the original sources.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "No new rounds; residual balances may be folded into an AHL Program loan.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Recorded as negative information: Folsom's redevelopment successor housing money is essentially exhausted, so the City's capacity now rests on the in-lieu fee fund. Figures from the August 26, 2025 Housing Fund update staff report.",
+   "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-54dff11a603148f68a0203d4b6b13245.pdf",
+   "record_id": "688794e0d9",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The August 26, 2025 Housing Fund update staff report (https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-54dff11a603148f68a0203d4b6b13245.pdf) states no wage rule for Fund 274 or Fund 280; it notes only that state HCD programs such as Homekey and Infill Infrastructure require prevailing wage. Fund 280 holds former redevelopment bond proceeds released by SB 107, not the former Low and Moderate Income Housing Fund that 1720(c)(4) names, and Fund 274 paid for a project on City-owned land, where below-market land transfers are public funds under 1720(b)(3) (https://california.public.law/codes/labor_code_section_1720). Below-market loans can be exempt under 1720(c)(5)(E) (at least 40 percent of units restricted 20 years at or below 80 percent AMI), as DIR PW 2019-018 applied (https://dir.ca.gov/OPRL/coverage/year2020/2019-018.pdf).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Madera",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Madera",
+   "confidence": "verified",
+   "program_name": "City of Madera Permanent Local Housing Allocation (PLHA), 2019-2023 five-year plan",
+   "administering_agency": "City of Madera Grants Division (Finance)",
+   "funding_type": "loan",
+   "typical_award_size": "2022 PLHA award of $1,801,097 (FY 2019, 2020 and 2021 allocations), notified February 15, 2023. The ConPlan lists $1,361,913 remaining for housing. The 2026 Housing Element estimates $1,455,181 available from award years 2021-2023, earmarked for housing construction and rehabilitation.",
+   "per_unit_cap": null,
+   "affordability_requirement": "The plan funds affordable rental development or rehabilitation (generally at or below 60% to 80% AMI under HCD PLHA guidelines) and homeless services. The City has not published its own income targets.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "unknown, verify with agency. No open City solicitation found as of 2026-11-08. The 2019-2023 plan period has ended, so check whether a new five-year plan has been adopted for later allocations.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "The largest uncommitted local pool identified for the City of Madera (about $1.36M to $1.46M). Pair it with City HOME (separate record) to form one local gap layer. Madera County has its own PLHA allocation (county record), so a project in the city could in principle seek both. State-source funds generally count as public funds under Labor Code 1720. The City web page describes only the 2022 application and award; no commitment to a specific project was found this pass.",
+   "source_url": "https://www.madera.gov/living-in-madera/housing-grants-assistance-programs/permanent-local-housing-allocation-plha-program/",
+   "record_id": "7523df22f7",
+   "cycle_notes": "no City NOFA found; Council approves commitments",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No program-specific rule found. HCD PLHA Final Guidelines (2019) and 2024-2028 PLHA Formula Guidelines contain no prevailing wage, Davis-Bacon or Labor Code 1720 provisions, and the City PLHA page does not mention labor standards. Coverage would rest only on the general Labor Code 1720(b) public-funds definition, with the outcome depending on 1720(c) exemptions and project facts.",
+   "audit_note": "Tier 3: left unclear. PLHA guidelines (2019 and 2024-2028) searched for prevailing wage, Davis-Bacon, Labor Code and 1720 with no hits; only basis would be Labor Code 1720(b) generally, which depends on 1720(c) exemptions and project facts.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Chowchilla",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Madera",
+   "confidence": "verified",
+   "program_name": "Chowchilla state CDBG and HOME small-city grants (non-entitlement applications with Self-Help Enterprises)",
+   "administering_agency": "City of Chowchilla Community and Economic Development Department, with Self-Help Enterprises as grant writer and program administrator",
+   "funding_type": "grant",
+   "typical_award_size": "CDBG, HOME and CalHome awards of over $2,000,000 combined between 2018 and 2020, for owner rehab, first-time homebuyer and sweat equity programs. A further HOME grant with Self-Help Enterprises was awarded in 2023. Infrastructure goal: at least $120,000 per year to extend water and sewer service to infill housing sites.",
+   "per_unit_cap": "State HOME and CDBG program limits apply.",
+   "affordability_requirement": "Households at or below 80% AMI under state CDBG and HOME rules.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Set by the HCD state CDBG and HOME NOFAs; unknown, verify with agency.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Chowchilla is a non-entitlement city with no local trust fund, inclusionary ordinance, in-lieu fund or city-run NOFA. Its housing money comes from competitive state CDBG and HOME rounds that the City enters with a developer or with Self-Help Enterprises, so a multifamily project would need the City to apply as the sponsoring jurisdiction. Program 2 commits the City to letters of support for AHSC, LHTF, PLHA and HOME applications, expedited processing and possible land write-downs. The Housing Element also says a HUD moratorium stalled the 2018-2020 owner programs. County-level layers: Madera County PLHA and HHAP and the Housing Authority of the City of Madera (county records).",
+   "source_url": "https://cityofchowchilla.org/DocumentCenter/View/3586/September-2024-Adopted-Chowchilla-2024-2032-Housing-Element",
+   "record_id": "27ccdff7f3",
+   "cycle_notes": "City applies to HCD state CDBG and HOME rounds",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Chowchilla",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Madera",
+   "confidence": "verified",
+   "program_name": "Housing Density Bonus and Other Incentives (Chowchilla Municipal Code Chapter 18.58) and Housing Element Program 3.e impact fee deferral",
+   "administering_agency": "City of Chowchilla Community and Economic Development Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Chapter 18.58 implements State Density Bonus Law (Gov. Code 65915) with no local enhancements. Program 3.e (adoption targeted for Q1/Q2 2025) would let developers pay a small portion of impact fees at permit and defer the rest for up to 30 years as a recorded note. The note would be due on sale, refinance or loss of affordability.",
+   "per_unit_cap": null,
+   "affordability_requirement": "State density bonus thresholds. The deferred fee note becomes due if multifamily rents stop being affordable.",
+   "eligible_project_types": [
+    "new construction",
+    "adu"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Available at entitlement, no deadline. Program 3.k will amend Chapter 18.58 to match current state law. Confirm whether the Program 3.e fee deferral resolution was adopted.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Chowchilla offers nothing beyond state density bonus law and a proposed fee deferral. The adopted 2024-2032 Housing Element says the City has no inclusionary, affordable housing or other local housing ordinances, and there is no local trust fund, fee waiver fund or NOFA. If adopted, the deferral works like a soft second loan that can sit under tax credit financing. A deferral may count as public funds for prevailing wage purposes. ADU builders can use free pre-approved Cottage Home plans (funded by SB 2). cityofchowchilla.org opened directly; the code was read on the zoneomics mirror.",
+   "source_url": "https://www.zoneomics.com/code/chowchilla-CA/chapter_26",
+   "record_id": "0770df743e",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "adu"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Density bonus under Gov. Code 65915 grants units, concessions and waivers of development standards, not public funds; Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720) covers only construction paid for in whole or in part out of public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011, Gov. Code 65912.130). Chapter 18.58 offers City financial incentives (subsidies, land, fee waivers) only at the City discretion. The Program 3.e impact fee deferral is proposed, not adopted; if adopted, a deferral is a fee reduction or loan under Labor Code 1720(b)(4) and would be tested against 1720(c)(3) de minimis.",
+   "audit_note": "PW citation pass Nov 9, 2026: false kept for the density bonus; revisit if the fee deferral program is adopted.",
+   "last_audited": "2026-11-09"
+  }
+ }
+]

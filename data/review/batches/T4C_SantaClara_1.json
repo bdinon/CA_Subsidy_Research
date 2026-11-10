@@ -1,0 +1,558 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Jose",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Gap Financing Program, rolling Request for Proposals with Notice of Funding Availability addenda (new construction and preservation)",
+   "administering_agency": "City of San Jose Housing Department, Residential Development, Production and Preservation",
+   "funding_type": "loan",
+   "typical_award_size": "Construction-permanent and acquisition loans from the Low and Moderate Income Housing Asset Fund, Inclusionary Fee Fund, Measure E Real Property Transfer Tax Fund and impact fee funds. The April 14, 2025 joint New Construction/Preservation RFP was backed by a $50 million commitment; the June 2025 Round 1 NOFA addendum has produced three awards so far. 2025 awards: $48.3 million for Berryessa TOD and Gateway Tower (415 units); Gateway Tower $38.44 million total ($174,727 per unit on 220 units, later revised to $25.56 million after CalHFA MIP and state credits); 1510 North 1st Street hotel conversion $5.7 million (58 units, October 2026); Capitol Station $8.4 million LMIHAF. Since January 2023 the City has provided $222.7 million to 16 developments producing 1,639 units.",
+   "per_unit_cap": "No published cap. Recent per-unit City subsidy ranged from about $100,000 (1510 North 1st, with project-based vouchers) to $174,727 (Gateway Tower before state awards).",
+   "affordability_requirement": "City affordability covenant of at least 55 years, senior to any deed of trust. Rolling RFP prioritizes construction-ready developments, extremely low and very low income units, permanent supportive housing with County vouchers, and preservation of at-risk units. Preservation NOFA target is $5 million average per year (Housing Element Program R-2).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Second NOFA addendum to the rolling RFP was planned for Q2 2026 and waitlisted applications refreshed; confirm the current addendum and submission window with the Housing Department (Banu San, Deputy Director, 408-975-4489). The RFP document is hosted on Biddingo and requires registration.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "The primary local gap lender in the county alongside County Measure A (now fully committed, see county record). Staff align awards with County OSH funds and Santa Clara County Housing Authority project-based vouchers ($47.4 million County funds and 298 PBVs leveraged in 2025). Typical stack: 4 percent credits and bonds (City can be issuer under Policy 1-16 or CMFA/CSCDA), CalHFA MIP, AHSC, County SHDF, then City gap loan. The City's August 2026 alternative financing frameworks (see separate record) let staff combine gap financing with inclusionary projects and master-lease structures. Measure E dollars for new development were sharply reduced in the FY 2025-26 budget, so LMIHAF program income ($22.5 million deposited in FY 2024-25) and inclusionary in-lieu fees are the main recurring sources. sanjoseca.gov returns 403 to automated access; all documents were read from the Legistar attachment host.",
+   "source_url": "https://legistar.granicus.com/sanjose/attachments/c6d4b946-ec56-4d6d-8066-ab9d0f78106c.pdf",
+   "record_id": "1b47e67212",
+   "cycle_notes": "NOFA addenda to a rolling RFP, roughly annual",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. San Jose Council loan commitment memos read (Capitol Station, Gateway Tower, 318 N. 6th St.) contain no City prevailing wage requirement; sanjoseca.gov NOFA documents returned 403. Federal HOME in an award triggers Davis-Bacon at 12 or more HOME-assisted units (24 CFR 92.354). https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Jose",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Inclusionary Housing Ordinance, Municipal Code Chapter 5.08, in-lieu fees and Surplus Credits Exchange (2026 amendments)",
+   "administering_agency": "City of San Jose Housing Department",
+   "funding_type": "regulatory requirement",
+   "typical_award_size": "Requirement, not a subsidy. Applies to residential developments of 10 or more units (threshold lowered from 20 in 2021). On-site rental options after the January 27, 2026 amendments: 5 percent at 60 percent AMI, 5 percent at 80 percent AMI and 5 percent at 110 percent AMI (15 percent total); the former 10 percent at 30 percent AMI alternative was removed. For-sale: 15 percent at 120 percent AMI with the price cap raised to 120 percent AMI. Off-site rental: 30 percent (10 percent each at 60, 80 and 100 percent AMI); off-site for-sale 25 percent at 110 percent AMI. In-lieu fee is set per square foot in the annual Schedule of Fees; about $50 million in in-lieu fees collected from 15 fee-only projects since March 2021 ($38.2 million fee-only plus $12.4 million mixed compliance). Fees flow to the Inclusionary Fee Fund, which is a Gap Financing Program source ($4.3 million committed to Gateway Tower in 2025). Pipeline: 73 projects, 12,900 units, 1,900 affordable.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Inclusionary rental units restricted for 55 years (reduced from 99 years in 2026 to match TCAC and state density bonus terms). 100 percent affordable developments at or below 100 percent AMI now comply by recording an abbreviated City covenant that mirrors their TCAC, HCD or CDLAC regulatory agreements instead of a full Inclusionary Housing Agreement.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income",
+    "homeownership",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Ordinance adopted January 27, 2026 and effective in 2026. The Surplus Credits Exchange (Section 5.08.540) will get a 12-month performance review; check the Housing Department for exchange rules and current in-lieu fee rates (set each June in the Schedule of Fees and Charges).",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "For affordable developers the key uses are: (1) the Inclusionary Fee Fund as a gap source, (2) the 2026 Surplus Credits Exchange, where a 100 percent affordable or mixed-income project that exceeds its requirement can sell credits (room-count equivalency) to market-rate projects, a potential new equity-like revenue stream, and (3) streamlined compliance for 100 percent affordable projects. Alternative Financing Model 1 (August 2026) pairs Gap Financing loans with deeper inclusionary set-asides (for example 10 percent at 50 percent AMI) in tower and wrap projects. Market-rate projects in the Multifamily Housing Incentive Program pay a $0 in-lieu fee if they provide 5 percent at up to 110 percent AMI on site, which reduces fee revenue to the fund. State density bonus can be layered on inclusionary units. sanjoseca.gov blocked; memo and ordinance read from Legistar.",
+   "source_url": "https://legistar.granicus.com/sanjose/attachments/80d86249-fa6c-42b1-8689-e3f55e732331.pdf",
+   "record_id": "4bdda01ad5",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income rental",
+    "for-sale",
+    "100 percent affordable (streamlined compliance)"
+   ],
+   "next_deadline_date": "2026-01-27",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Jose",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Multifamily Housing Incentive Program (MHIP), construction tax reductions and inclusionary in-lieu fee waiver (Municipal Code Sections 4.46.039.13 and 4.47.098)",
+   "administering_agency": "City of San Jose Housing Department with Planning, Building and Code Enforcement, Public Works and Finance",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Phase I (projects that apply by February 28, 2027 and pull building permits by that date, capacity expanded from 1,800 to 3,600 units on January 27, 2026): 50 percent reduction of the Building and Structure Construction Tax (1.54 percent to 0.77 percent of valuation), 50 percent reduction of the Commercial, Residential and Mobile Home Park Construction Tax (2.42 percent to 1.21 percent), reduced inclusionary requirement of 5 percent of units at 100 percent AMI (or up to 110 percent AMI) and a $0 inclusionary in-lieu fee. Phase II (after capacity or March 2027): 25 percent Building and Structure tax reduction (to 1.16 percent) plus the inclusionary benefits. Approved waivers range from $4.07 million (498 West San Carlos, 278 units) to $6.93 million (3896 Stevens Creek Phase 1, 311 units, September 2026). Five projects with 1,444 units started construction under the program by January 2026.",
+   "per_unit_cap": "Roughly $14,000 to $22,000 per unit in waived taxes and fees in approved projects.",
+   "affordability_requirement": "Market-rate high-density projects (50 or more units per acre in growth areas) providing at least 5 percent of units affordable at up to 100 or 110 percent AMI; recorded affordability restriction required. Financial infeasibility finding under Municipal Code Section 14.10.310 and the 2025 Cost of Residential Development Study.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Phase I application deadline February 28, 2027; building permit must be obtained by February 28, 2027 for the 50 percent reductions. Each waiver requires a Council public hearing under Government Code 53083.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Not a subsidy for 100 percent affordable projects, which generally are exempt from these construction taxes anyway, but it is the City's main production incentive for mixed-income market-rate towers and wraps and it shapes the inclusionary pipeline (lower on-site percentages, zero in-lieu fee revenue). Alternative Financing Model 3 (August 2026) pairs MHIP incentives with master-lease financing so that a public or nonprofit master lessee can take down units at 80 to 110 percent AMI. Developers combining MHIP with state density bonus should confirm the 5 percent at 100 percent AMI units count toward density bonus moderate income thresholds. sanjoseca.gov blocked; staff memo read from Legistar.",
+   "source_url": "https://legistar.granicus.com/sanjose/attachments/5ffd1eac-a24d-4ca7-a78c-024f6bfe0174.pdf",
+   "record_id": "0a02ec2bd7",
+   "cycle_notes": "first come first served with tiered readiness prioritization",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income rental",
+    "high-density market rate with on-site workforce units"
+   ],
+   "next_deadline_date": "2027-02-28",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "The MHIP staff memo does not address prevailing wage. Construction tax and in-lieu fee reductions are public funds under Labor Code 1720(b)(4) (fees reduced or waived by a political subdivision), but coverage depends on 1720(c) exemptions and project facts; no DIR determination or City rule on MHIP was found.",
+   "audit_note": "Tier 3: prevailing wage left unclear; only basis is Labor Code 1720(b)(4) fee waivers, outcome depends on 1720(c) and project facts.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Jose",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Alternative financing frameworks for affordable housing (Gap Financing plus IHO, PAB plus master-lease, production incentives plus master-lease)",
+   "administering_agency": "City of San Jose Housing Department",
+   "funding_type": "loan",
+   "typical_award_size": "Council resolution of September 1, 2026 authorizing the Housing Director to implement four mixed-financing models: (1) Gap Financing Program loans in exchange for deeper inclusionary set-asides (example: 10 percent of units at 50 percent AMI instead of 5 percent at 60 and 5 percent at 80); (2) private activity bonds combined with master-lease financing; (3) production incentive programs (MHIP) combined with master-lease financing; (4) master-lease financing combined with the Inclusionary Housing Ordinance. Target rents 40 to 110 percent AMI. No new dollars; uses existing Gap Financing, bond and incentive tools.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Varies by model; 40 percent AMI up to 110 percent AMI with recorded restrictions; Model 1 limited to tower and wrap projects already paying prevailing wage.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "mixed-income",
+    "market-rate (compliance)"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Housing Director may implement without further Council action subject to funding approvals; individual loan or master-lease commitments still return to Council. No deadline.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Relevant to developers of mixed-income towers (prevailing wage already assumed) and to nonprofit or public master lessees. Models borrow from the Bay Area Housing Finance Authority and CalHFA middle-income work; they will compete with the Multifamily Housing Incentive Program pipeline for the same market-rate projects. Prohousing: San Jose applied for HCD Prohousing Designation in June 2023 (memo read); current designation status was not confirmed this pass, verify on HCD's designated jurisdictions list. sanjoseca.gov blocked; memo read from Legistar. Audit 2026-11-08 funding_type: classed as loan because Model 1 is a Gap Financing loan and the master-lease models use City funding expected to be repaid on exit; no new grant dollars.",
+   "source_url": "https://legistar.granicus.com/sanjose/attachments/4501c16f-6229-4c5f-a3f4-040f4e430b6b.pdf",
+   "record_id": "255c97f008",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income rental",
+    "master-lease acquisition of market-rate units",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. The Alternative Financing memo mentions prevailing wage only as a cost assumption for tower and wrap projects (where prevailing wage labor is already in the financing model), not as a City requirement; conduit private activity bonds are not public funds under DIR PW 2006-001. https://www.dir.ca.gov/OPRL/coverage/year2007/2006-001.pdf",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of San Jose",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Permanent Local Housing Allocation (PLHA), City of San Jose formula entitlement (Rounds 4 and 5)",
+   "administering_agency": "City of San Jose Housing Department",
+   "funding_type": "grant",
+   "typical_award_size": "$6,585,489 for PLHA Rounds 4 and 5 (grant agreement authorized March 24, 2026), part of the City's 2019 to 2023 five-year allocation plan. The Round 4 and 5 allocation is designated for emergency shelter operations, not development. Earlier rounds supported housing programs under the 2020 plan.",
+   "per_unit_cap": null,
+   "affordability_requirement": "PLHA statute allows households up to 120 percent AMI (150 percent in high-cost areas); San Jose's current plan uses the funds for shelter operations.",
+   "eligible_project_types": [
+    "new construction",
+    "interim housing",
+    "services/operations"
+   ],
+   "application_cycle": "closed/inactive",
+   "next_deadline": "The 2024-2028 PLHA formula cycle will require a new five-year plan; watch for a Council action in 2026 or 2027 that could redirect future rounds to development.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Not a developer-facing source in San Jose today. Contrast with Mountain View, which routes PLHA to specific developments. The County's PLHA record covers the Urban County allocation. sanjoseca.gov blocked; memo read from Legistar.",
+   "source_url": "https://legistar.granicus.com/sanjose/attachments/38b08055-9acf-453a-a35d-3fb2004df548.pdf",
+   "record_id": "dad182fcb2",
+   "cycle_notes": "allocated to shelter operations under the five-year plan",
+   "eligible_project_detail": [
+    "emergency shelter operations (current plan)",
+    "new construction (eligible but not currently funded)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The HCD 2024-2028 PLHA Formula Guidelines and Formula Allocation NOFA contain no prevailing wage provision (only the separate Non-Entitlement Competitive NOFA does). https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-guidelines.pdf San Jose currently uses PLHA for emergency shelter operations, which are not construction under 1720(a)(1).",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Mountain View",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Mountain View Affordable Housing Initiative Fund (partnership with Los Altos Mountain View Community Foundation)",
+   "administering_agency": "City of Mountain View Housing Department and Los Altos Mountain View Community Foundation (fiscal sponsor)",
+   "funding_type": "grant",
+   "typical_award_size": "Seeded January 27, 2026 with a $1,000,000 City grant from the BMR Housing Fund; goal of at least a 1 to 1 philanthropic match. Eligible uses: new construction in the City pipeline (priority), acquisition, preservation or rehabilitation of existing housing, homebuyer programs, other projects approved by the City. 3 percent LAMVCF administrative fee on the City contribution; City approves all expenditures and may claw back its grant if donations lag.",
+   "per_unit_cap": null,
+   "affordability_requirement": "City-identified affordable housing priorities; projects must meet the City's affordability restrictions when funds are used for development.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "homeownership"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "New fund; donor engagement beginning 2026. No application process published yet; contact the Housing Department (Wayne Chen, Housing Director).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Small today but the only city-sponsored philanthropic housing fund in the county. Most useful as predevelopment or gap top-up for projects already in the City NOFA pipeline. Treat as unclear for prevailing wage because donated funds passed through a nonprofit may not be public funds, while the City seed grant is. mountainview.gov blocked; Council report read from Legistar.",
+   "source_url": "https://legistar1.granicus.com/mountainview/attachments/7ff2b4f6-ea52-4df2-bef0-7bbb238f5f45.pdf",
+   "record_id": "9aeeec8644",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "homebuyer assistance"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "The January 27, 2026 Council report sets up the fund with a $1,000,000 City BMR Housing Fund grant and does not address prevailing wage. City money is public funds under Labor Code 1720(b)(1), but philanthropic donations through the Community Foundation may not be, and coverage depends on 1720(c) exemptions and project facts; no stated rule found.",
+   "audit_note": "Tier 3: prevailing wage left unclear; no fund guidelines yet, outcome depends on fund source and 1720(c) exemptions.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Mountain View",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Conduit tax-exempt multifamily bonds (CMFA TEFRA approvals) and City-owned or dedicated land for affordable housing",
+   "administering_agency": "City of Mountain View Housing Department; California Municipal Finance Authority as issuer",
+   "funding_type": "bond",
+   "typical_award_size": "City is a CMFA member and holds TEFRA hearings for 100 percent affordable projects: 334 San Antonio Road (Castellan, 100 units, up to $50 million authorization, about $18.75 million expected, September 2026), 96 West El Camino Real and 87 East Evelyn Avenue (May 2026), 1020 Terra Bella (January 2026), 424 Bryant Street Lot 12 (August 2025). Land: City-owned Lot 12 (ground lease to Alta/Related), VTA site at 87 East Evelyn (City ground lease since 2021, Affirmed Housing, AHSC Round 9 award of $5.5 million for City streets and bus shelters in 2026), and precise plan land dedication sites (North Bayshore six sites, Middlefield Park two sites) delivered by master developers.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Bond projects meet federal 20/50 or 40/60 tests plus City regulatory agreements; City-site projects negotiated through development agreements, typically 30 to 60 percent AMI with PSH components.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "TEFRA hearings scheduled on request ahead of CDLAC rounds; land dedication sites become available as North Bayshore and Middlefield Park phases proceed (three North Bayshore sites expected during the Housing Element period). Developer selection for City sites is by RFQ/RFP.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Mountain View does not issue its own bonds; CMFA is the default issuer (CSCDA also acceptable). Dedicated land from the precise plans is the City's largest non-cash subsidy and is paired with City NOFA loans, County Measure A and SCCHA vouchers. mountainview.gov blocked; Council report read from Legistar.",
+   "source_url": "https://legistar1.granicus.com/mountainview/attachments/839f850a-95b8-4f6c-88f0-a35feecef7c7.pdf",
+   "record_id": "808965b8e8",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Mixed record. The CMFA conduit bond component is not public funds per DIR determinations PW 2006-001 (https://www.dir.ca.gov/OPRL/coverage/year2007/2006-001.pdf) and PW 2006-006 (https://www.Dir.Ca.Gov/OPRL/coverage/year2006/2006-006.pdf). The City land component (ground leases and dedicated sites) can be public funds under Labor Code 1720(b)(3) if conveyed below fair market value, and coverage then depends on 1720(c) exemptions and deal terms; the Council report does not address prevailing wage.",
+   "audit_note": "Tier 3: prevailing wage left unclear because the land component depends on 1720(b)(3) and project facts; bonds alone do not trigger it. Consider splitting bonds and land into separate records.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sunnyvale",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Housing Mitigation Fund and BMR In-Lieu Fund biennial Notice of Funding Availability",
+   "administering_agency": "City of Sunnyvale Community Development Department, Housing Division (Housing and Human Services Commission advisory)",
+   "funding_type": "loan",
+   "typical_award_size": "Biennial NOFA. 2022: $16 million to four developments. 2024 (issued May 2, 2024, due June 6, 2024): $29,533,000 awarded August 13, 2024, including $14.03 million to MidPen's 1171 Sonora Court (172 units; $12.5 million City acquisition of the site plus $1.53 million predevelopment, about $84,500 per unit with earlier PLHA), $1.5 million predevelopment to MidPen's 295 South Mathilda (126 units, City-owned site bought for $7.3 million in 2023), and $14 million to Pacific Companies and Miramar's 352 East Java Drive (308 units, about $45,000 per unit). 2026 NOFA released January 2026 for $18 million with awards announced spring 2026; priorities include senior and age-friendly projects and units for people experiencing homelessness. Minimum award $500,000; FY 2024-25 budget appropriated $32.5 million.",
+   "per_unit_cap": "No fixed cap; 2024 awards ranged from about $45,000 to $85,000 per unit (excluding land).",
+   "affordability_requirement": "Deed restricted to lower income households for a minimum of 55 years; scoring favors deep affordability, homeless-serving units (at least 20 to 25 percent in recent awards), high resource locations, readiness and leverage. Funding agreement must be executed within two years of award.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "predevelopment"
+   ],
+   "application_cycle": "biennial",
+   "next_deadline": "2026 round awards were expected spring 2026; next NOFA expected in FY 2027-28 (about early 2028), when 295 South Mathilda is expected to seek about $7.5 million in construction funds and 1171 Sonora about $12 million. Confirm award results and the next release with the Housing Division (NOFA documents are posted on the City housing page, which is blocked to scripts).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "The best-funded city NOFA in the county after San Jose. Awards are structured as predevelopment, acquisition (with the City taking title and ground leasing, which locked in TCAC High Resource status for 1171 Sonora) and construction loans, and are meant to leverage County Measure A or SHDF, AHSC, IIG, BAHFA and 4 percent credits. Sunnyvale's HHSC scoring sheet is public. Also uses PLHA for predevelopment ($500,000 to 1171 Sonora in 2022). sunnyvale.ca.gov blocked; APR and award reports read from Legistar.",
+   "source_url": "https://legistar.granicus.com/Sunnyvale/attachments/d5ab8b14-34d8-439e-99c0-2db362a22f77.pdf",
+   "record_id": "64b4ab6cd1",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "predevelopment",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. City acquisition and ground lease below market value is also public funds under 1720(b)(3). The Sunnyvale document read contains no prevailing wage term; sunnyvale.ca.gov NOFA pages are blocked. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sunnyvale",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Prohousing Designation, Prohousing Incentive Program applications and City-owned sites for affordable housing (295 South Mathilda Avenue)",
+   "administering_agency": "City of Sunnyvale Community Development Department, Housing Division",
+   "funding_type": "policy/designation",
+   "typical_award_size": "HCD issued Sunnyvale a Prohousing Designation award letter on May 27, 2025 after a December 9, 2024 application (Housing Element Program H41); the City planned a PIP Round 4 application (due March 31, 2026) for homeless services, outreach, shelter and transitional housing activities (award depends on population base and points; Mountain View's comparable request was $890,000). City-owned site: 295 South Mathilda Avenue purchased September 2023 for $7,325,000 and held under an Exclusive Negotiating Agreement (August 30, 2023) and short-term ground lease with MidPen Housing for a 126-unit project with at least 25 percent of units for families experiencing homelessness; the 2024 NOFA awarded $1.5 million for predevelopment; cumulative City support including land about $13.3 million ($105,000 per unit) before construction funds. The City also adopted a water and sewer priority ordinance for affordable developments and received $1.84 million in MTC Housing Incentive Pool funds in 2025.",
+   "per_unit_cap": null,
+   "affordability_requirement": "295 South Mathilda: 100 percent affordable with 25 percent homeless set-aside; PIP funds for households up to 120 percent AMI.",
+   "eligible_project_types": [
+    "new construction",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "PIP Round 4 award expected mid 2026; 295 South Mathilda ENA extended November 2025 with construction targeted 2027 after a tax credit application in 2026. Future City-owned sites would be offered by ENA or RFP.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Prohousing status improves scores for AHSC, IIG and MHP applications by Sunnyvale projects. The City's land contribution model (buy the site, ground lease to the nonprofit, then fund through the NOFA) mirrors Mountain View and San Jose practice and locks in TCAC opportunity-area status. sunnyvale.ca.gov blocked; information taken from the 2025 Housing Element APR read on Legistar.",
+   "source_url": "https://legistar.granicus.com/Sunnyvale/attachments/d5ab8b14-34d8-439e-99c0-2db362a22f77.pdf",
+   "record_id": "219772d0f7",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. A Prohousing Designation itself provides no public funds; PIP grants and City land conveyed below fair market value (1720(b)(3)) are public funds whose coverage depends on 1720(c) and project facts. The HCD Prohousing Incentive Program guidelines (2026) contain no prevailing wage provision. https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/pip-final-guidelines-2026.pdf"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Clara",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Low and Moderate Income Housing Asset Fund (LMIHAF, Fund 169) and City Housing Successor Fund, Santa Clara Housing Successor",
+   "administering_agency": "City of Santa Clara as Housing Successor (Community Development Department)",
+   "funding_type": "loan",
+   "typical_award_size": "Ending balance June 30, 2025: $5,154,665. FY 2024-25 deposits $1,542,552 (development loan repayments $1,189,170, first-time homebuyer repayments $166,142, interest and other $187,240). Expenditures $553,186 (administration $303,197; homeless prevention, TBRA case management and rapid rehousing $249,989). Assets: 30 development loans with statutory value $103.2 million, 20 homebuyer loans, and land including 3575 De La Cruz Boulevard ($1.7 million, held for a Habitat for Humanity development under an ENA extended to December 2025). The Annual Action Plan budgets about $250,000 a year from the City Housing Successor Fund for services.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Dissolution Law income targets; next five-year income test reported FY 2028-29.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "homeownership"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No NOFA; funds have been used for services and homebuyer activities. The De La Cruz ENA status after December 2025 should be confirmed with the Housing and Community Services Division.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "About $5 million available plus steady loan repayments; a candidate second layer behind the Affordable Housing Fee fund for a Santa Clara project. santaclaraca.gov blocked; the FY 2024-25 Housing Successor Annual Report (docx) was read from the Legistar attachment host.",
+   "source_url": "https://santaclara.legistar1.com/santaclara/attachments/6618d25f-ca03-4a48-ab8f-25480ea5ab5d.docx",
+   "record_id": "d44511f005",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "homebuyer assistance"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Local loans can be public funds under 1720(b)(1), (b)(4) or (b)(5), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. Labor Code 1720(c)(4) excludes affordable housing paid for solely from the former redevelopment Low and Moderate Income Housing Fund; whether that reaches housing successor LMIHAF money is not settled in the sources read. Homebuyer assistance is exempt under 1720(c)(5)(C). The FY 2024-25 Housing Successor Annual Report contains no prevailing wage term. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "PW citation pass Nov 9, 2026: no program rule found stating prevailing wage applies; changed true to unclear because only the general 1720(b) public-funds definition supports it.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Santa Clara",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Conduit tax-exempt multifamily bonds, CMFA TEFRA approvals (Clara Gardens, 3550 El Camino Real)",
+   "administering_agency": "City of Santa Clara City Council as applicable elected representative; California Municipal Finance Authority as issuer",
+   "funding_type": "bond",
+   "typical_award_size": "TEFRA approvals for CMFA issuance: Clara Gardens (Resources for Community Development, 120 units, up to $50 million, Resolution 26-9556, May 2026) and a 59-unit project (February 2025). The City is a CMFA JPA member since 2004 and does not issue its own housing bonds.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Federal 20/50 or 40/60 minimums plus TCAC regulatory agreements; recent projects are 100 percent affordable.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "TEFRA hearings scheduled on request ahead of CDLAC rounds; allow one Council cycle.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Standard conduit path; CSCDA also available. Pair with Affordable Housing Fee fund loans, County SHDF or Measure A and SCCHA vouchers. santaclaraca.gov blocked; resolution read from Legistar.",
+   "source_url": "https://santaclara.legistar1.com/santaclara/attachments/a8821545-9d24-4ca2-8b20-47108956b3ca.pdf",
+   "record_id": "0e28d05ed2",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "DIR public works coverage determinations PW 2006-001 (Horizons at Indio, March 12, 2007, citing PW 2004-016 Rancho Santa Fe, publicly offered conduit bonds) and PW 2006-006 (Tracy Place Senior Apartments, July 11, 2006, privately placed CDLAC bonds bought by a bank) hold that conduit multifamily bond financing is not payment out of public funds under Labor Code 1720(b)(1) because proceeds and repayments never enter public coffers, and that LIHTCs are not public funds. The City of Santa Clara only holds the TEFRA hearing as applicable elected representative for CMFA issuance, and the resolution imposes no prevailing wage requirement. Other public subsidy layered on the project (City or County loans, land, fee waivers) is analyzed separately and can still trigger prevailing wage. Sources: https://www.dir.ca.gov/OPRL/coverage/year2007/2006-001.pdf ; https://www.Dir.Ca.Gov/OPRL/coverage/year2006/2006-006.pdf",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Milpitas",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Housing Opportunity Districts (HOD), Neighborhood Commercial Mixed-Use and Town Center zoning incentives (Resolution 9404, adopted April 15, 2025)",
+   "administering_agency": "City of Milpitas Planning Division",
+   "funding_type": "zoning incentive",
+   "typical_award_size": "Zoning incentive, not a cash subsidy. LEAP-funded rezoning effective June 6, 2025 that raises allowable residential density to 60 units per acre in NCMU zones and 65 units per acre in Town Center zones, lowers minimum commercial FAR to 0.10 or 0.20, cuts residential parking to 1 space per unit and commercial to 1 per 300 square feet, reduces open space standards, and exempts 100 percent affordable projects in NCMU and Town Center areas from non-residential requirements. Implements Housing Element Program 15 (Housing Opportunity Zones) with a goal of at least 200 affordable units in these districts; Program 15 also contemplated a supplemental density bonus beyond state law, reduced impact fees and ministerial approval.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Affordable units per the AHO (15 percent) or 100 percent affordable projects, which receive the non-residential exemption; state density bonus can be layered.",
+   "eligible_project_types": [
+    "new construction",
+    "mixed-income",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "In effect since June 6, 2025. The financial incentive and supplemental density bonus elements of Program 15 were not confirmed as adopted; check with Planning.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "The HOD is Milpitas's main local tool beyond state density bonus. The 2008 Density Bonus Ordinance was replaced by Chapter C.12 of the new Zoning Ordinance (Title XIII), adopted September 2, 2025 and effective October 2, 2025, which follows state law and lists waived, reduced or deferred fees and additional density bonus as case-by-case incentives. Impact fees remain high (about $48,500 per unit in the Metro Specific Plan area including the Transit Area Development Impact Fee, about $29,064 elsewhere, mostly park in-lieu), so fee deferral or waiver for 100 percent affordable projects (Program 20 explores this for specific plan areas) matters more here than in neighboring cities. milpitas.gov opened directly (use curl over IPv4; the www host times out otherwise).",
+   "source_url": "https://www.milpitas.gov/DocumentCenter/View/8216",
+   "record_id": "a920995edf",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "mixed-income rental",
+    "100 percent affordable mixed-use"
+   ],
+   "next_deadline_date": "2025-06-06",
+   "deadline_check": "past_date",
+   "link_status": "redirected",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) reaches only construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, redevelopment or successor agency, or local public housing authority; this rezoning (density, FAR, parking and open space relief and the non-residential exemption for 100 percent affordable projects) provides no public funds, so it does not by itself trigger prevailing wage. Any public loan, grant, land write-down or fee waiver layered on a project is assessed separately under 1720(b). https://california.public.law/codes/labor_code_section_1720 Housing Element Program 15 contemplated reduced impact fees; if adopted, reduced fees would be public funds under 1720(b)(4)."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Milpitas",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Santa Clara",
+   "confidence": "verified",
+   "program_name": "Community Development Block Grant, FY 2026-27 Annual Action Plan (2025-2030 Consolidated Plan)",
+   "administering_agency": "City of Milpitas Office of Housing",
+   "funding_type": "grant",
+   "typical_award_size": "FY 2026-27 CDBG entitlement $538,212 plus about $8,000 program income, $294,688 carryover program income and $116,072 prior-year unused entitlement; roughly $561,000 for capital and housing rehabilitation activities (including Rebuilding Together Silicon Valley critical home repairs), $136,000 public services, with the remainder for other activities and administration. No HOME entitlement (Milpitas is in the County HOME Consortium). Council may supplement CDBG with the Housing Authority Fund.",
+   "per_unit_cap": null,
+   "affordability_requirement": "CDBG low and moderate income benefit; housing rehabilitation for lower income owners.",
+   "eligible_project_types": [
+    "acquisition-rehab",
+    "services/operations"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. The FY 2027-28 CDBG notice of funding availability was not posted on the City CDBG page; in the prior cycle the Council funding hearing was held in January and the Action Plan hearing in June.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Too small to matter for multifamily gap financing; Milpitas developers use the County HOME Consortium and County Measure A or SHDF (see county records) and SCCHA vouchers. milpitas.gov opened directly.",
+   "source_url": "https://www.milpitas.gov/DocumentCenter/View/10522",
+   "record_id": "e8ff1e27ed",
+   "cycle_notes": "Annual CDBG cycle for nonprofit and City activities. FY 2026-27 plan: Council public hearings January 20, 2026 (funding allocations) and June 16, 2026 (plan adoption); entitlement $538,212, estimated program income $8,000, prior-year resources $521,760; capital and housing rehabilitation $561,060, public services $135,986. FY 2027-28 timing expected to follow the same pattern.",
+   "eligible_project_detail": [
+    "acquisition-rehab (owner repair)",
+    "public facilities",
+    "public services"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "redirected",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "CDBG: 24 CFR 570.603(a) applies the section 110(a) labor standards (Davis-Bacon) to construction financed in whole or in part with CDBG; for residential property the requirement applies only if the property contains 8 or more units. Milpitas CDBG single-family critical home repairs fall below the threshold (and are exempt from state wage under Labor Code 1720(c)(5)(C)); an 8+ unit CDBG-assisted project triggers Davis-Bacon. https://www.law.cornell.edu/cfr/text/24/570.603"
+  }
+ }
+]

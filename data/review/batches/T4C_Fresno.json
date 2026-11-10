@@ -1,0 +1,559 @@
+[
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fresno",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "Affordable Housing Development and Substantial Rehabilitation NOFA (HOME, HOME-CHDO and HOME-ARP), City of Fresno PY 2026-2027",
+   "administering_agency": "City of Fresno Planning and Development Department, Housing and Community Development Division (Housing Finance)",
+   "funding_type": "loan",
+   "typical_award_size": "PY 2026-27 Annual Action Plan programs $2,804,486.73 HOME for affordable development or rehab (entitlement $2,766,057.28 plus $500,000 program income and $229,944 prior year) and a $414,909 HOME CHDO set-aside. Recent awards: $3,000,000 HOME to Sarah's Court II (120 units, 11 HOME units, January 2026). City HOME-ARP allocation was $11.9 million (HOME-ARP supportive services NOFA closed April 13, 2026). Five-year Con Plan years 3 to 5 HOME estimate $8.3 million.",
+   "per_unit_cap": "HUD HOME maximum per-unit subsidy limits apply; no separate City cap published.",
+   "affordability_requirement": "HOME rents and incomes (at or below 80% AMI, with HOME rent limits on assisted units); 55-year City regulatory agreement typical for rental loans; priority for projects in areas of opportunity.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. The 2026-2027 AHD NOFA (PlanetBids No. 2026/12602307) closed August 31, 2026. The separate PY 2027-28 HUD CPD NOFA (tentative release December 14, 2026, applications due January 22, 2027) follows the Consolidated NOFA model covering ESG, HOPWA, public services, infrastructure and owner-occupied repair, not HOME rental development. Expect the next AHD NOFA in mid-2027; verify with HCDD at (559) 621-8300.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "City of Fresno is its own HUD entitlement (CDBG $6.9M, HOME $2.77M, ESG $624K, HOPWA $1.27M in PY 2026) and is not part of the Fresno Urban County, so City projects do not compete in the County HOME/PLHA NOFO and vice versa. The AHD NOFA is separate from the Consolidated NOFA (CDBG, ESG, HOPWA public services and infrastructure, due January 23, 2026). City HOME is usually layered with City PLHA, LHTF and Housing Successor funds and with 4% or 9% LIHTC; HOME triggers Davis-Bacon at 12 or more assisted units and federal NEPA review before choice-limiting actions. Fresno Housing (county record) PBVs and bonds stack on top. The PlanetBids NOFA document itself could not be opened by script; figures come from the City HCD page and the PY 2026-27 Annual Action Plan.",
+   "source_url": "https://www.fresno.gov/planning/housing-community-development/",
+   "record_id": "c254cd9aed",
+   "cycle_notes": "summer, posted on PlanetBids",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing"
+   ],
+   "next_deadline_date": "2026-12-14",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C))."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fresno",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "City of Fresno Local Housing Trust Fund (LHTF), Resolution 2021-201 and Revised Program Guidelines 02",
+   "administering_agency": "City of Fresno Planning and Development Department, Housing Finance Division",
+   "funding_type": "loan",
+   "typical_award_size": "Dedicated $1,500,000 per year from the City Real Estate Transfer Tax, plus General Fund contributions, Prohousing Incentive Pilot Round 1 ($2,064,891) and State LHTF matching grants (about $8.5 million received to date, including $1,797,373 appropriated January 2026). Recent loans: $5,000,000 Cesar Chavez Apartments (54 units, 2024 commitment) and $3,727,000 The Park at South Stadium (15 LHTF units of 174, approved June 18, 2026; includes $156,800 Housing Successor funds). City applied for PIP Round 4 (up to $2,000,000) to recapitalize the fund.",
+   "per_unit_cap": "None published; South Stadium works out to about $248,000 per LHTF-restricted unit.",
+   "affordability_requirement": "Local funds (Guidelines 02) serve households at or below 80% AMI (State match dollars follow State LHTF rules, with at least 30% to extremely low income); 55-year affordability covenants on rental loans. Eviction Protection Program uses are exempt from income verification since July 1, 2025.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. The LHTF Multi-Family New Construction NOFA (PlanetBids No. 12601837) released April 24, 2026 and closed May 25, 2026 with 11 applications; no new LHTF NOFA is posted on the City housing page. Next NOFA depends on the FY 2027 transfer-tax allocation and any PIP Round 4 award; verify with Housing@fresno.gov.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "One of the few city-controlled flexible local sources in the Central Valley. Loans are 3% simple interest, 55-year, residual receipts, and accept third or fourth lien position behind construction/permanent debt and other public loans, so they fit as gap under 4% LIHTC and tax-exempt bonds. Guidelines 02 were rewritten in 2025 (Resolution 2025-270) and a technical amendment in April 2026 restored multifamily new construction as eligible after it was inadvertently dropped; check the current guidelines before applying. Competes for the same transfer-tax dollars as the Eviction Protection Program. County has no equivalent trust fund (see Fresno County PLHA and HOME records).",
+   "source_url": "https://agendas.fresno.gov/en/legislation/id-26-146-20843",
+   "record_id": "1f8b2d6405",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The State LHTF Round 5 NOFA (https://hcd.ca.gov/sites/default/files/docs/grants-and-funding/lhtf/2024-lhtf-nofa.pdf) says LHTF Program funds are subject to state prevailing wage law unless the project meets a Labor Code 1720(c) exception as determined by DIR, which restates 1720 rather than setting a separate rule. The City LHTF loan agreement for The Park at South Stadium (Section 7.14, https://agendas.fresno.gov/api/v1/attachments/cmqb6fzd1sw39pe4bj1bxdmdt/file) makes the developer responsible for prevailing wage only to the extent local, state and federal law require, and applies HOME 24 CFR 92.354 only as applicable. Local loans and grants are public funds under Labor Code 1720(b)(1), (b)(4) and (b)(5) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market interest rate loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI (applied to an NPLH loan in DIR PW 2019-018, https://dir.ca.gov/OPRL/coverage/year2020/2019-018.pdf), and 1720(c)(3) exempts de minimis subsidies (under $600,000 and under 2 percent of project cost). LHTF loans are 3% residual receipts loans, so 1720(c)(5)(E) can apply where they are the only public participation.",
+   "audit_note": "PW citation pass Nov 9, 2026: true changed to unclear; City agreement Section 7.14 defers to applicable law."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fresno",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "Permanent Local Housing Allocation (PLHA), City of Fresno 2024-2028 Five-Year Plan and PLHA development loans",
+   "administering_agency": "City of Fresno Planning and Development Department, Housing Finance Division",
+   "funding_type": "loan",
+   "typical_award_size": "Estimated $14,949,413 over 2024-2028 (first allocation $2,391,906, second $2,562,083). 45% of each year to multifamily rental development, 50% to owner-occupied rehab and down payment assistance, 5% admin. Recent award: $1,600,000 PLHA to Helm Lofts (9 restricted units of 98, conditional award February 9, 2026).",
+   "per_unit_cap": "None published; Helm Lofts was about $178,000 per restricted unit.",
+   "affordability_requirement": "Rental activity up to 120% AMI under State rules, with a portion of units reserved at or below 60% AMI; 55-year regulatory agreement; loans are low-interest deferred (Helm Lofts: 3% simple, 55-year term).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "No open round as of November 8, 2026. Last standalone PLHA NOFA ran August 1 to August 29, 2025. The draft 2024-2028 PLHA plan (public comment September 21 to October 10, 2026; hearing November 5, 2026; Council adoption pending) states PLHA rental funds are offered through the City's Affordable Housing Development and Substantial Rehabilitation NOFAs, the latest of which closed August 31, 2026. Expect the next round with the mid-2027 AHD NOFA; verify with Housing@fresno.gov.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Separate from the Fresno County PLHA (county record covers the unincorporated area and participating cities, not the City of Fresno). The City plan devotes only 45% to rentals, so expect roughly $1.1M per year available for multifamily. PLHA is used as soft gap alongside City HOME and LHTF and with LIHTC; it was also paired with the market-rate-oriented Revolving Loan Fund on Helm Lofts. State PLHA funds count as public funds for prevailing wage purposes.",
+   "source_url": "https://www.fresno.gov/wp-content/uploads/2026/10/Draft-2024-to-2028-PLHA-5-Year-Plan-Document-10w1852.pdf",
+   "record_id": "bbcba8fedc",
+   "cycle_notes": "Delivered through the City's annual Affordable Housing Development and Substantial Rehabilitation NOFA per the draft 2024-2028 plan.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. HCD 2024-2028 PLHA Formula Guidelines (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-guidelines.pdf) contain no prevailing wage, Davis-Bacon or Labor Code 1720 provision; the HCD PLHA FAQ (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/cycle-2-nofa-faq.pdf) says only that HCD programs require compliance with applicable law including prevailing wages unless the project meets a Labor Code 1720(c) exception as determined by DIR. PLHA loans and grants are public funds under 1720(b)(1) and (b)(4) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(5)(E) (below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI), 1720(c)(5)(C) (mortgage, down payment or single-family rehab aid to a household) and 1720(c)(3) de minimis can apply. Davis-Bacon applies only if HOME (12+ HOME units, 24 CFR 92.354) or CDBG (8+ units, 24 CFR 570.603) is layered. The City draft 2024-2028 PLHA plan (https://www.fresno.gov/wp-content/uploads/2026/10/Draft-2024-to-2028-PLHA-5-Year-Plan-Document-10w1852.pdf) is silent on prevailing wage, and half the allocation funds owner-occupied rehab and down payment assistance, which 1720(c)(5)(C) exempts.",
+   "audit_note": "PW citation pass Nov 9, 2026: true changed to unclear. The layering note that state PLHA funds count as public funds is correct under 1720(b) but does not by itself make a project a public work."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fresno",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "Housing Successor to the Redevelopment Agency of the City of Fresno, Low and Moderate Income Housing Asset Fund (LMIHAF) program income and FHS-owned sites",
+   "administering_agency": "City of Fresno in its capacity as Housing Successor (FHS) and Fresno Revitalization Corporation",
+   "funding_type": "loan",
+   "typical_award_size": "FY 2026-27 budget $4,188,073 (carryover $4,138,073 plus about $50,000 program income); unencumbered and available for development $2,523,599, all restricted to units at or below 30% AMI because FHS exceeded the 20% cap for 60-80% AMI. LMIHAF assets under management $28.9 million; FY 2024-25 ending balance $6,856,360. Historic per-unit contributions range from about $25,000 to $331,000; recent uses include Heritage Estates ($1.2M), B Street ($836,200 encumbered) and 33 E Atchison ($275,000).",
+   "per_unit_cap": null,
+   "affordability_requirement": "HSC 34176.1: at least 30% of funds for extremely low income (30% AMI) rentals, no more than 20% for 60-80% AMI, remainder at or below 60% AMI; 55-year covenants for rentals.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No standalone NOFA as of November 8, 2026. Funds and FHS-owned parcels are committed through City NOFAs, RFPs and disposition agreements (FY 2026-27 program income budget approved June 11, 2026; $2,523,599 unencumbered, restricted to 30% AMI rentals). Contact the Housing Successor.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Small cash pool but useful for deep (30% AMI) targeting and as a match: PLHA allows LMIHAF dollars to be matched into a housing trust account. FHS land is being paired with LHTF, RLF and PRO Housing applications in Downtown and Chinatown (South Stadium used $156,800 FHS plus FHS parcels at 829 and 835 Fulton). Excess surplus test is met (unencumbered $4.08M versus $6.24M threshold at FY 2024-25), so there is no pressure to transfer funds to HCD.",
+   "source_url": "https://agendas.fresno.gov/en/legislation/id-26-752-21456",
+   "record_id": "4b806acc58",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Labor Code 1720(c)(4) (https://california.public.law/codes/labor_code_section_1720) provides that affordable units built or rehabilitated under Health and Safety Code 33334.2(a)(5) or (a)(7) and paid for solely from the Low and Moderate Income Housing Fund (or that fund plus private funds) are not paid for out of public funds; whether that carve-out reaches housing successor LMIHAF dollars and the deal structure is a project fact. Mixed with other public sources, LMIHAF loans fall under 1720(b), subject to 1720(c)(5)(E) for below-market loans. The FY 2026-27 Housing Successor report item (https://agendas.fresno.gov/en/legislation/id-26-752-21456) states no prevailing wage rule.",
+   "audit_note": "PW citation pass Nov 9, 2026: true changed to unclear."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fresno",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "Downtown and Chinatown Housing Development NOFA, City Revolving Loan Fund (RLF) construction loans",
+   "administering_agency": "City of Fresno Planning and Development Department",
+   "funding_type": "loan",
+   "typical_award_size": "Construction gap loans of up to $8,000,000 per project from the City Revolving Loan Fund (Round 2 awards: Helm Lofts $8M, Uptown Apartments $8M, The Park at South Stadium $8M). 60-month term, variable rate estimated at 4.81%, secured by deed of trust.",
+   "per_unit_cap": "None published; awards to date have been a flat $8M regardless of unit count (48 to 174 units).",
+   "affordability_requirement": "None required for RLF dollars; market-rate projects are eligible (Uptown is 48 market-rate units). Affordability comes from layered sources or Surplus Land Act terms (South Stadium 70 of 174 units restricted to very low and low income for 55 years).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Round 2 NOFA (PlanetBids No. 12601560) opened February 13, 2026 and closed April 14, 2026; conditional commitments expire December 31, 2026 unless financing closes. No Round 3 announced as of 2026-11-08.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Short-term construction money, not permanent soft debt: it must be taken out at conversion, so it suits 4% LIHTC or mixed-income deals with a permanent loan sized to repay. Pairs with City PLHA, LHTF and FHS land in the Downtown/Chinatown area, and with the TOD height and density bonus. RLF capital is State money: $20 million of the State's $250 million Downtown Fresno appropriation (FY 2025-26 installment, Resolution 2025-256) plus a further $5 million appropriated in 2026 for a $25 million fund (Council item 25-1713). The executed RLF Agreement form (item 26-440) nonetheless contains boilerplate federal compliance language; confirm with the City whether any federal cross-cutters attach.",
+   "source_url": "https://agendas.fresno.gov/en/legislation/id-26-145-20842",
+   "record_id": "3af88382e6",
+   "cycle_notes": "round-based NOFA, awards on a rolling basis",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": "2026-12-31",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No program rule found. The City RLF Agreement form (Council item 26-440, Park at South Stadium) requires compliance with prevailing wage laws only 'as may be applicable' (sections 5.4 and 7.14) and the staff reports and resolutions for Helm Lofts, Uptown and South Stadium are silent. Coverage then rests on Labor Code 1720(b) (public funds, including below-market loans) and depends on 1720(c) facts, such as (c)(5)(E) for below-market loans with 40% of units at 80% AMI or less for 20+ years and (c)(3) de minimis, so it is project-specific. https://agendas.fresno.gov/en/legislation/id-26-440-21137 ; https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "Tier 3: prevailing wage left unclear. RLF Agreement says prevailing wage applies 'as may be applicable'; outcome depends on Labor Code 1720(b) and 1720(c) project facts. The Round 2 NOFA document itself (PlanetBids 12601560) was not readable.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fresno",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "HUD Section 108 Affordable Housing Development Loan Pool (Substantial Amendment 2025-02)",
+   "administering_agency": "City of Fresno Planning and Development Department, Community Development Division",
+   "funding_type": "loan",
+   "typical_award_size": "$15,000,000 pool (City borrowing capacity $15,494,680) for land acquisition and acquisition of manufactured housing units; no minimum or maximum loan; loans generally forgivable at end of affordability term. City repays HUD over 20 years from future CDBG (estimated 3.94% rate).",
+   "per_unit_cap": "None; sized to demonstrated financing gap.",
+   "affordability_requirement": "Nonprofit developers only. At least 51% of units on land acquired with the pool for low and moderate income households (80% AMI), or at least 20% for non-elderly multifamily rental where CDBG share is proportional; 100% LMI for manufactured units; up to 55-year covenants. Borrower must secure outside senior financing and commit up to 10% equity.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Council hearing to adopt Substantial Amendment 2025-02 and authorize the HUD application scheduled November 12, 2026 (ID 26-1506). If approved, a NOFA will be posted on PlanetBids; timing unknown, verify with the Community Development Division.",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Land acquisition gap, so it fits early in the stack ahead of LIHTC applications, and can help secure site control for TCAC/CDLAC rounds. CDBG/Section 108 rules apply (Davis-Bacon at 8 or more units for assisted construction, NEPA, URA relocation). Competes with future City CDBG public infrastructure spending because CDBG is pledged for repayment. Separate from the City's earlier $20M Section 108 loan for the Senior Activity Center.",
+   "source_url": "https://www.fresno.gov/wp-content/uploads/2026/08/Section-108-Loan-Guarantee-Application-Affordable-Housing-Development-Loan-Pool-10w1789.pdf",
+   "record_id": "6f2b1a4e75",
+   "cycle_notes": "City NOFA after HUD approval",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": "2026-11-12",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Program rule: the City of Fresno Section 108 Loan Guarantee Program Underwriting and Servicing guidelines (May 2026, Prevailing Wage section, page 12 of 58, in the Section 108 application, https://www.fresno.gov/wp-content/uploads/2026/08/Section-108-Loan-Guarantee-Application-Affordable-Housing-Development-Loan-Pool-10w1789.pdf) state that housing development projects are a public work for federal purposes including Davis-Bacon and Related Acts and for State purposes under Labor Code 1720 et seq., absent a contrary written determination by HUD, DIR or a court, and that developers shall perform project work as a public work. Federal basis: Section 108 is assistance under Title I of the Housing and Community Development Act, and 24 CFR 570.603 (https://www.law.cornell.edu/cfr/text/24/570.603) applies Davis-Bacon to construction financed with that assistance, for residential rehabilitation only at 8 or more units; the guidelines checklist applies Davis-Bacon to projects with more than 11 assisted units.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fresno",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "City-owned and surplus land contributions with conditional City funding commitments (Surplus Land Act RFPs, Land Bank)",
+   "administering_agency": "City of Fresno Planning and Development Department",
+   "funding_type": "land",
+   "typical_award_size": "Land at nominal cost plus conditional funding. Examples: Vantage Blackstone senior modular (100 units) gets a 1.21-acre parcel on a 55-year ground lease at $1 per year plus $4,300,000 loan/grant (approved October 22, 2026); Parkview Apartments (98 units, Cesar Chavez Foundation) gets three Parkway Drive parcels plus $10,500,000 conditional commitment (December 2025); Ventura Family Apartments land contribution.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Per SLA and Gov. Code 37364 exempt-surplus terms: at least 40% of units at or below 80% AMI with half at or below 50% AMI, regulatory agreement of at least 30 years; recent deals carry 55-year covenants and 30% to 80% AMI targeting.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Site by site; Vantage Blackstone commitment expires September 30, 2027 if financing is not secured. Watch City SLA notices and RFPs on PlanetBids.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "City land plus a conditional funding resolution is the standard Fresno package for TCAC 4% and HCD MFSN applications (commitments are reissued each round, as with Parkview since 2024). Funding sources behind the commitments vary (CDBG-acquired land on Blackstone carries CDBG national objective requirements). Below-market ground leases count as public subsidy for prevailing wage. The City also adopted a Land Bank program to acquire sites for future reuse.",
+   "source_url": "https://agendas.fresno.gov/en/legislation/id-26-1294-21998",
+   "record_id": "be243da879",
+   "cycle_notes": "site-specific RFPs and SLA notices of availability",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "supportive housing"
+   ],
+   "next_deadline_date": "2027-09-30",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Transfer or lease of public land below fair market value is public funds under Labor Code 1720(b)(3) (https://california.public.law/codes/labor_code_section_1720); coverage then depends on 1720(c) exemptions and the other public sources in the deal. 1720(c)(5)(E) covers only below-market loans, so it does not by itself exempt a below-market ground lease. The Vantage Blackstone item (https://agendas.fresno.gov/en/legislation/id-26-1294-21998) and its draft resolution state no prevailing wage term. Projects that also take City HOME (12+ HOME units, 24 CFR 92.354) or CDBG-funded construction (24 CFR 570.603) carry Davis-Bacon by those rules.",
+   "audit_note": "PW citation pass Nov 9, 2026: true changed to unclear.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fresno",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "Infill Incentive Program development impact fee waiver (FMC Article 12-4.16, Ordinance 2021-029) and Residential BUILD Act waivers",
+   "administering_agency": "City of Fresno Public Works Department (Traffic and Land Planning), with City Manager approval",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Waives City park, police, fire and street facilities impact fees and reimburses up to 50% of curb, gutter and sidewalk costs. Backfilled from the City budget, first come first served. Cumulative waivers since 2014: $10.19 million across programs ($3.62M Infill Incentive, $659K Residential BUILD). FY 2025 waivers totaled only $45,825 (five single-family homes).",
+   "per_unit_cap": "Equal to the waived fee amounts; not a fixed cap.",
+   "affordability_requirement": "None; the waiver is location-based (Infill Opportunity Zone, outside the South Industrial Priority Area, sites up to 6.5 net acres or commercial-to-residential conversions of any size).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Likely expired: the City application form (July 2025 update) states the waiver is not valid on building permits issued after June 30, 2026 and only when backfill funds exist. No extension was found as of November 8, 2026; the December 18, 2025 fee waiver report shows $0 Infill waivers in FY 2025. Confirm with Public Works before underwriting.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Market-rate and affordable infill both qualify, so it is not affordable-specific, but it lowers impact fees for downtown and BRT corridor projects that also use the TOD bonus. Applied at certificate of occupancy, not at permit, so the full fee must be carried in the construction budget. Use near zero in FY 2025 suggests limited backfill funding. Fee waivers backfilled with City funds may be public subsidy under Labor Code 1720.",
+   "source_url": "https://agendas.fresno.gov/en/legislation/id-25-1584-20563",
+   "record_id": "17ad4295f7",
+   "cycle_notes": "First come, first served at building permit, subject to annual backfill funding; form sunset for permits issued after June 30, 2026.",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": "2026-06-30",
+   "deadline_check": "past_date",
+   "link_status": "ok",
+   "audit_note": "Program sunset per application form June 30, 2026; no extension located. Prevailing wage left unclear: neither the form nor the fee waiver report states a prevailing wage rule; Labor Code 1720(b)(4) treats waived fees as public funds but applicability to a given project was not confirmed.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. The program waives City park, police, fire and street impact fees (FMC Article 12-4.16) and reimburses up to 50 percent of curb, gutter and sidewalk costs, which is also a payment under 1720(b)(1). Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Fresno",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "Affordable housing development impact fee deferral to certificate of occupancy (uncodified Ordinance 2008-51)",
+   "administering_agency": "City of Fresno Planning and Development Department and Public Works Department",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Defers payment of all adopted City development impact fees (street, water, sewer and others) on qualifying affordable units from building permit to certificate of occupancy. Deferral only, no reduction.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Inside the Central Area (bounded by SR 180, 99 and 41): any unit in a development with at least 15% of units restricted; outside the Central Area: restricted units only. Covenants of at least 55 years for rental and 30 years for ownership.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Ongoing; request at building permit.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Construction-period carry savings only; fees are still due before occupancy. Stacks with the Infill Incentive waiver where both apply and with density bonus concessions. Ordinance dates from 2008; confirm current implementation with Public Works since it is uncodified.",
+   "source_url": "https://www.fresno.gov/wp-content/uploads/2023/04/AFFORDABLE-HOUSING-WAIVER.pdf",
+   "record_id": "e3f913d8e0",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "No program rule found; Ordinance 2008-51 (fee deferral to certificate of occupancy) says nothing on prevailing wage. Coverage would rest only on Labor Code 1720(b)(4) (fees or obligations paid, reduced, waived or forgiven), and whether a deferral with no reduction counts, plus the 1720(c)(3) de minimis test ($600,000 and 2% of project cost), depends on project facts. No DIR determination on point was located. https://california.public.law/codes/labor_code_section_1720",
+   "audit_note": "Tier 3: prevailing wage left unclear. The only basis is Labor Code 1720(b)(4); a pure deferral may not be a reduction or waiver, and the de minimis exemption in 1720(c)(3) may apply. Project-specific.",
+   "last_audited": "2026-11-08"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Clovis",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "Clovis Affordable Housing Trust Fund (Martinez v. City of Clovis Judgment Action Item 2)",
+   "administering_agency": "City of Clovis Affordable Housing Program (Planning and Development Services)",
+   "funding_type": "loan",
+   "typical_award_size": "Initial $1,000,000 (FY 2023-24) awarded to a senior housing project in planning; City sets aside $100,000 per year for seven years. City also holds its State PLHA formula allocation and releases it through the same webpage when available.",
+   "per_unit_cap": null,
+   "affordability_requirement": "At least 30% of HTF funds requested must assist extremely low income households (below 30% AMI); the rest at or below 80% AMI; deed-restricted units.",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No open RFP as of 2026-11-08 (last RFP August 2024). Check the City affordable housing financial incentives page or email housing@clovisca.gov.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Small fund created under the March 2024 court judgment (Martinez v. City of Clovis); about $100K per year is only useful as a local match or to show local support in TCAC scoring. Future MIZO in-lieu fees ($2.80 per square foot) are expected to feed affordable housing gap funding. Clovis is a CDBG entitlement city, but its CDBG goes mainly to home repair, public services and streets. County HOME/PLHA NOFO records cover the urban county; confirm Clovis eligibility with the County before relying on it.",
+   "source_url": "https://www.clovisca.gov/services/affordable_housing/affordable_housing_development/financial_incentives.php",
+   "record_id": "7eddc32410",
+   "cycle_notes": "RFP when funds accumulate",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Clovis financial incentives page (https://www.clovisca.gov/services/affordable_housing/affordable_housing_development/financial_incentives.php) states no prevailing wage term for the Affordable Housing Trust Fund. Local loans and grants are public funds under Labor Code 1720(b)(1), (b)(4) and (b)(5) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market interest rate loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI (applied to an NPLH loan in DIR PW 2019-018, https://dir.ca.gov/OPRL/coverage/year2020/2019-018.pdf), and 1720(c)(3) exempts de minimis subsidies (under $600,000 and under 2 percent of project cost).",
+   "audit_note": "PW citation pass Nov 9, 2026: true changed to unclear.",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Clovis",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "Clovis Affordable Housing Development Impact Fee Deferral Program (2025-2026 NOFA, Judgment Action Item 6)",
+   "administering_agency": "City of Clovis Affordable Housing Program",
+   "funding_type": "fee waiver",
+   "typical_award_size": "Defers 40% (80% AMI units), 45% (50% AMI) or 50% (30% AMI) of City major facility sewer and water fees per restricted unit, up to 120 affordable units per fiscal year. Deferred amount becomes a 0% residual receipts loan, 17-year term for multifamily (30 years single-family) or as senior lenders require.",
+   "per_unit_cap": "Percentage of each unit's major facility sewer and water fees; no dollar cap.",
+   "affordability_requirement": "Units restricted at or below 80% AMI; recorded development agreement, deed of trust and declaration of restrictions; units must be built after July 1, 2024 and receive certificates of occupancy by December 31, 2031. Units required by MIZO are ineligible.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No fixed deadline as of November 8, 2026. The City program page states applications are accepted year-round, first come, first served, for up to 120 affordable units per year starting July 1, 2024; it still links the August 28, 2025 NOFA and no 2026-27 NOFA is posted.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "Only sewer and water major facility fees are covered; other City impact fees remain due. The residual receipts note sits behind senior and tax credit financing. Clovis states development fees cannot be waived. Pairs with Clovis density bonus and the R-3 density increase to 20 to 30 du/ac.",
+   "source_url": "https://www.clovisca.gov/documents/Services/Affordable Housing/Housing Settlement/City of Clovis - NOFA - Development Impact Fee Deferral Program - August 28 2025.pdf",
+   "record_id": "8bc997e0a1",
+   "cycle_notes": "Year-round, first come, first served, 120 units per fiscal year; annual NOFA document.",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "error",
+   "audit_note": "Prevailing wage left unclear: the NOFA lists federal Davis-Bacon only for 12 or more HOME units and states no state prevailing wage rule for the fee deferral itself.",
+   "last_audited": "2026-11-09",
+   "prevailing_wage_basis": "No program-specific prevailing wage rule is recorded for this program. Deferred sewer and water fees become a 0 percent residual receipts loan, which is a below-market loan under 1720(b)(4) and may fall under 1720(c)(5)(E) when the project meets its affordability terms. Labor Code 1720(b)(4) (https://california.public.law/codes/labor_code_section_1720) counts fees paid, reduced, charged at less than fair market value, waived or forgiven by a political subdivision as public funds, so this relief can make a project paid for in part with public funds. Coverage then turns on project facts and 1720(c): (c)(1) private residential projects on private property not built under an agreement with a state agency, successor agency or housing authority, (c)(3) de minimis (subsidy under $600,000 and under 2 percent of total project cost), and (c)(5)(E) where the public participation is below-market loans on a project with at least 40 percent of units restricted 20 years at or below 80 percent AMI. Other public funds in the deal often decide the question."
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Clovis",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "Clovis Affordable Housing Incentives: Density Bonus (Development Code Chapter 9.26)",
+   "administering_agency": "City of Clovis Planning and Development Services",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Tracks Gov. Code 65915 as amended through Ord. 21-06 (2021): up to 50% bonus (Tables 3-5 and 3-6), 80% and height increases for 100% affordable projects; projects of 5 or more units.",
+   "per_unit_cap": null,
+   "affordability_requirement": "State thresholds: 10% lower income, 5% very low income, senior, 10% moderate for-sale, 20% student, or 100% lower income (up to 20% moderate); 55-year restrictions.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; applied with entitlements.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "No local enhancement beyond State law found in the chapter. Combined with the June 2024 R-3 and High Density Residential minimum density increase to 20.1 du/ac and the infill rezone program under the judgment. City also offers expedited entitlements and a citywide Cottage Home program. Code read on the zoneomics mirror because codepublishing is blocked.",
+   "source_url": "https://www.zoneomics.com/code/clovis-CA/chapter_3",
+   "record_id": "99d788330a",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Reedley",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "Reedley Density Bonus and Concessions for Affordable Housing (Zoning Code Section 10.50.050, Ordinance 2024-001)",
+   "administering_agency": "City of Reedley Community Development Department",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Section 10.50.050 adopts State Density Bonus Law by reference (Gov. Code 65915 as revised), replacing the prior outdated ordinance; no local enhancements.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Per Gov. Code 65915 thresholds and 55-year rental restrictions.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; applied with entitlements.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Reedley has no local housing trust fund, inclusionary ordinance or in-lieu fund, no city NOFA and no city-controlled HOME or CDBG entitlement. It is a participating city in the Fresno Urban County, so HOME, CDBG and PLHA flow through the County records (County HOME rehab of Reedley Heritage is the model). Housing Element Program 7 also offers a minor deviation process, reduced parking and frontage improvements and streamlined CEQA. reedley.ca.gov failed TLS handshakes to scripts and WebFetch; code read on the zoneomics mirror of the 2024 zoning code.",
+   "source_url": "https://www.zoneomics.com/code/reedley-CA/chapter_4",
+   "record_id": "bba12b457f",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ },
+ {
+  "audit_reasons": [
+   "spot_check"
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Sanger",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Fresno",
+   "confidence": "verified",
+   "program_name": "Sanger Density Bonus (Zoning Code Article XXX, Sections 90-1131 to 90-1138, Ordinance 2025-04)",
+   "administering_agency": "City of Sanger Community Development Department (Planning Division)",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement, not a subsidy. Adopted May 15, 2025 to implement Gov. Code 65915; Table 90-1138 tracks State percentages (20% bonus at 5% very low, up to 50% at 15% very low or 24% low income, 80% for 100% affordable). Reviewed concurrently with other entitlements; approved if State law is met.",
+   "per_unit_cap": null,
+   "affordability_requirement": "State thresholds; covenant approved by the City Attorney ensures continued affordability (55 years for rental under State law).",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "Not applicable; applied with entitlements.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Sanger has no local housing trust fund, inclusionary ordinance or in-lieu fund, and no city NOFA. It is a participating city in the Fresno Urban County (HOME, CDBG, HARP, rental rehab and homebuyer programs run by the County), so gap funding comes from County HOME/PLHA and Fresno Housing PBVs (county records). Housing Element Program 7 targets 100 units through density bonuses. Code read on zoneomics; gocodebook returned 403.",
+   "source_url": "https://www.zoneomics.com/code/sanger-CA/chapter_30",
+   "record_id": "f943cdf78d",
+   "cycle_notes": "",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "link_status": "ok",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-09"
+  }
+ }
+]
