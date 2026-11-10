@@ -284,6 +284,19 @@ Follow-ups:
 - **Davis Measure W:** certification due Dec 3, 2026; then update 286b3332af and d3c111e44a.
 - **Madera County PLHA (19afbbe608):** HCD dashboard shows the housing element not compliant, which bars PLHA awards.
 
+## Older prevailing wage items (Nov 10, 2026)
+
+Three parallel agents, patches `20261110_pw_A/B/C.jsonl`, 16 records corrected, 0 rejected, 44 field changes (log `audit_changes_20261110_085912.csv`). One trigger changed.
+
+- **Santa Clara County (b9423ec8a0, bb49c3e13d, 45a29b9c03, a5cbf8c30d, 9248240ed5, 1ac0881658, 2fe81f006d):** bases now cite Supportive Housing Development Program Guidelines V7 (Board Nov 16, 2021, BOS-2021-168; still applied in the Sept 15, 2026 North 40 Phase II report): State prevailing wage when County funds pay for construction unless otherwise exempt, higher of State and Davis-Bacon with federal funds. Triggers unchanged. HTSV Supportive Housing Fund layering note no longer says unclear. County land stays unclear (V7 silent on conveyances).
+- **HACSM and HACSJ (d65d39c7f5, 6d68d56e51, ab0e64f2f1):** HACSM MTW development cites PIH 2011-45 (Davis-Bacon on all MTW-funded development, no unit floor); HACSJ PBVs cite 24 CFR 983.153(c) and 983.4 (nine or more contract units, not existing housing); repositioning cites 1437j(a) for public housing development. RAD supplemental notice URL 404, not checked.
+- **Santa Ana (e323261aa8, fb9539f944, c5b437d4e2):** the Community Workforce Agreement (LA/OC Building Trades, effective June 6, 2023) printed as RFP 26-004A Exhibit V covers "any Affordable Housing projects that receive City funds" (Sec. 2.2.4), with prevailing wage (Sec. 5.1), union hiring halls and 30 percent local or targeted hire. LMIHAF fb9539f944 changed unclear to true on the CWA. CWA pages are scans read as images; the Exhibit II sample commitment leaves the Labor Code 1720 call to the developer, noted in the basis.
+- **Napa ADU loan (fb882ab07a):** stays false. Loan Agreement, Deed of Trust, Note and Regulatory Agreement run to the County of Napa (guidelines V2, matter 26-308, March 10, 2026); the Housing Authority is not a party, so 1720(c)(1) holds.
+- **Sonoma LMIHAF (8b40a193d2):** "not offered for development" removed. FY 2024-25 development spending $3,837,187 (FY 2023-24 $1,316,702); balance $2,509,338 at June 30, 2025, of which $1,509,338 excess surplus; loans receivable $31,242,980. PW stays unclear; housing successor is the CDC, parent of the Housing Authority, so 1720(c)(1) should not be assumed. No FY 2025-26 report posted. funding_type grant may deserve review given the loan portfolio.
+- **Placer Launchpad (1d1bc18543):** LP-001 and LP-002 NOFA PDFs removed from the County site; program page kept as source. LP-002 posted Feb 6, 2026, 12 applications, 55 units, $10.55 million requested, four reserved projects $3.25 million. No open round; guideline revisions expected later in 2026.
+
+Follow-ups: Napa ADU layering_notes still cite 2023 search-result terms; Sonoma LMIHAF funding_type; CWA Article 21 term not printed in the RFP.
+
 ## Files
 
 - Change logs: `data/review/audit_changes_*.csv` (one per tier).
