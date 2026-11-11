@@ -297,6 +297,19 @@ Three parallel agents, patches `20261110_pw_A/B/C.jsonl`, 16 records corrected, 
 
 Follow-ups: Napa ADU layering_notes still cite 2023 search-result terms; Sonoma LMIHAF funding_type; CWA Article 21 term not printed in the RFP.
 
+## Sacramento-area city items (Nov 10, 2026)
+
+Two agents, patches `20261110_sac_city.jsonl` and `20261110_sac_suburbs.jsonl`: 5 corrected, 1 unverifiable (log `audit_changes_20261110_184254.csv`).
+
+- **City of Sacramento HTF linkage fee (77c3590bb3):** FY 2026-27 rates effective July 1, 2026: office $3.35, hotel $3.19, commercial $2.69, manufacturing $2.09, warehouse $0.92 psf (0.49 percent index adjustment). Notice is attached to the City Fees and Charges ArcGIS record (fee ID 3798); the HTF web page still links FY25-26.
+- **Housing Impact Fee (7a03511fb5):** FY27 $3.58 / $0.00 / $1.55 confirmed.
+- **SHRA lending and bonds (dc4482720d, 3038f76416):** proposed 2027 schedule (Exhibit B, 2027 SHRA budget, SHRC Nov 4, 2026): Round 1 pre-app Jan 4, full app Mar 1, Board/Council June 29, 2027; Round 2 pre-app July 1, full app Sept 1, 2027. Council and Board adoption not confirmed; no 2027 funds-available notice yet. Recheck in December 2026.
+- **Folsom AHL (94239692fe):** no NOFA or new loan. Fund 238 used for a $1.55 million Leidesdorff Street site purchase (Res. 11659, 2026) and a $615,000 transfer for Habitat at 300 Persifer (Res. 11467). Fund 238 about $23.85 million projected June 30, 2026.
+- **Folsom HTF commercial fee (b5e8f6c802):** $2.13 psf from July 1, 2026 (Res. 11601, 2.43 percent index); Fund 221 about $858,000 projected.
+- **Rancho Cordova HTF fee (f0fe655a96):** still needs_confirmation; city site and code host blocked. 2021 KMA County report shows rates matched the pre-2022 County schedule. The Liora (250 affordable units, Anatolia Drive) noted.
+
+Follow-ups: confirm SHRA 2027 schedule adoption and funds-available notice in December 2026; Folsom FY 2026-27 fund tables.
+
 ## Files
 
 - Change logs: `data/review/audit_changes_*.csv` (one per tier).

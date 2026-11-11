@@ -13237,23 +13237,24 @@
       "supportive housing"
     ],
     "application_cycle": "annual NOFA",
-    "next_deadline": "Two rounds a year aligned to CTCAC 9% rounds. 2026: pre-applications Jan 2 and July 1 (Builder's Patch), full applications March 2 and Sept 1, Council approvals June 16, 2026 and Jan 19, 2027. SHRA was not accepting pre-applications as of 2026-11-08; the 2027 schedule and a new funds-available notice are expected on the SHRA multifamily page at least 30 days before the next pre-application deadline, likely early January 2027. Phone (916) 440-1393.",
+    "next_deadline": "2027 SHRA Multi-Family Loan and Mortgage Revenue Bond schedule (proposed): Pre-application January 4, 2027, full application March 1, 2027, environmental clearance May 3, 2027, SHRC June 23, 2027, Board/Council June 29, 2027; second round pre-application July 1, 2027, full application September 1, 2027, environmental clearance November 16, 2027, SHRC January 19, 2028, Board/Council January 25, 2028. 2027 schedule is Exhibit B to the 2027 SHRA budget item (SHRC heard Nov 4, 2026; County Board agenda Nov 3, 2026; City Council and Housing Authority hearing Nov 10, 2026); final adoption not yet confirmed. As of 2026-11-10 the SHRA multifamily page still says SHRA is not accepting pre-applications and links only the 2026 schedule and the June 1, 2026 funds-available notice; no 2027 funds-available notice or NOFA is posted. Phone (916) 440-1393.",
     "prevailing_wage_trigger": "true",
     "layering_notes": "This is the City-side pool parallel to the County SHRA record (Pass 2); a project uses one or the other based on location, both run on the same schedule and policies (2026 City Multifamily Lending and Mortgage Revenue Bond Policies, amended July 29, 2026). Terms: up to 3% simple interest or the AFR, term up to 40 years from conversion or 55 years when senior public lenders require, 1.10x to 1.20x combined DSCR, payments deferred during construction and deferred developer fee repayment, residual receipts allowed; nonprofit managing general partner required; developer fee limited to $25,000/$15,000/$12,000 per unit tiers for non-tax-credit deals and deferred maximum fee for LIHTC deals. Federal HOME (12 or more units) and CDBG (8 or more units) trigger Davis-Bacon; SHRA treats state prevailing wage as applying unless the below-market loan exemption (40% of units at 80% AMI for 20 years) fits. Stack with the City Zero-Dollar Rate impact fee reduction, Housing Impact Fee exemption at 40 du/acre, SacSewer fee waivers (County record) and Housing Authority of the City of Sacramento bonds. SHRA does not expect a project-based voucher RFP in 2026. SB 802 moves SHRA into the Sacramento Area Housing and Homelessness Agency by Jan 1, 2028, so confirm the lender entity on 2027 and later commitments.",
     "source_url": "https://www.shra.org/multi-family-housing-financing-lending-resources/",
     "record_id": "dc4482720d",
-    "cycle_notes": "",
+    "cycle_notes": "Two rounds a year aligned to CTCAC 9% and CDLAC rounds; pre-applications through Builder's Patch, then invited full applications; a separate funds-available notice lists City and County sources. 2026 rounds: pre-applications Jan 2 and July 1, 2026; full applications March 2 and Sept 1, 2026; Council approvals June 16, 2026 and Jan 19, 2027 (SHRC Jan 13, 2027). The Nov 4, 2026 SHRC packet also lists 2027 unfunded pipeline projects (for example 1220 H Street, Danco, $15.7M request; 16th and O, Eden Housing, $5.0M), and SHRC approved a $2M conditional loan commitment for Q Street Apartments on Nov 4, 2026.",
     "eligible_project_detail": [
       "new construction",
       "acquisition-rehab",
       "preservation",
       "supportive housing"
     ],
-    "next_deadline_date": "2026-06-16",
-    "deadline_check": "past_date",
+    "next_deadline_date": "2027-01-04",
+    "deadline_check": "future_date",
     "link_status": "ok",
     "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
-    "last_audited": "2026-11-09"
+    "last_audited": "2026-11-10",
+    "audit_note": "Nov 10, 2026: 2027 application schedule found as Exhibit B to the 2027 SHRA budget (SHRC Nov 4, 2026 packet; City Council hearing Nov 10, 2026); not yet posted on shra.org and no 2027 funds-available notice. Recheck the multifamily page in December 2026 for the funds notice."
   },
   {
     "level": "city",
@@ -13265,7 +13266,7 @@
     "program_name": "City of Sacramento Housing Trust Fund (commercial linkage fee, City Code Chapter 18.56 Article IV)",
     "administering_agency": "City of Sacramento Community Development Department, Planning Division (fee assessment); SHRA (fund administration and lending)",
     "funding_type": "loan",
-    "typical_award_size": "Fee source for SHRA City gap loans. Nonresidential rates effective July 1, 2024 through June 30, 2026: office $3.33, hotel $3.18, commercial $2.68, manufacturing $2.08, warehouse $0.91 per square foot, adjusted annually by the San Francisco construction cost index (the FY 2026-27 notice was not posted as of 2026-11-08). 2024 fund: $411,805 fees collected, $140,000 spent, $4.85M ending balance of which $807,861 uncommitted; $1.0M posted as available June 1, 2026.",
+    "typical_award_size": "Fee source for SHRA City gap loans. Nonresidential rates effective July 1, 2026 through June 30, 2027: office $3.35, hotel $3.19, commercial $2.69, manufacturing $2.09, warehouse $0.92 per square foot, a 0.49% San Francisco construction cost index adjustment from the FY 2025-26 rates ($3.33, $3.18, $2.68, $2.08, $0.91). Table H in the FY27 notice sets use-specific rates (for example major medical facility $5.22, laboratory $2.84, K-12 and college $2.79). The FY27 notice is attached to the City Fees and Charges database entry (fee ID 3798); the City Housing Trust Fund page still links the FY 2025-26 notice as of 2026-11-10. 2024 fund: $411,805 fees collected, $140,000 spent, $4.85M ending balance of which $807,861 uncommitted; $1.0M posted as available June 1, 2026.",
     "per_unit_cap": "None published; SHRA policies apply (HUD Section 234 limit per restricted unit).",
     "affordability_requirement": "Fund is restricted to housing for workforce households up to 80% AMI (very low and low income wage earners) under the 1989 jobs-housing nexus; 55-year SHRA regulatory agreement.",
     "eligible_project_types": [
@@ -13274,23 +13275,23 @@
       "preservation"
     ],
     "application_cycle": "annual NOFA",
-    "next_deadline": "Deployed through the SHRA two-round schedule (next pre-application likely early January 2027). Fee is paid at building permit on nonresidential projects; contact Ryan Dodge, (916) 808-8044, rdodge@cityofsacramento.org for fee questions.",
+    "next_deadline": "Deployed through the SHRA two-round schedule. Proposed 2027 SHRA schedule: pre-applications January 4, 2027 and July 1, 2027; full applications March 1, 2027 and September 1, 2027. Fee is paid at building permit on nonresidential projects; contact Ryan Dodge, (916) 808-8044, rdodge@cityofsacramento.org for fee questions.",
     "prevailing_wage_trigger": "unclear",
     "layering_notes": "Adopted 1989 (Chapter 17.708), moved into the Development Impact Fee chapter 18.56 on Feb 14, 2017; Council raised the fee 81.3% in 2004 (phased) and allows changes by resolution. Small and lumpy: about $0.4M to $0.6M a year in fees, so it is the smallest of the four City pools and is usually blended into a single SHRA loan with HOME and Mixed Income money. Parallel County Housing Trust Fund covers the unincorporated area (County rates $3.26 office to $1.08 warehouse since March 28, 2025). Annual report posted each May by SHRA.",
     "source_url": "https://www.cityofsacramento.gov/community-development/planning/housing/housing-trust-fund",
     "record_id": "77c3590bb3",
-    "cycle_notes": "",
+    "cycle_notes": "Fee rates reset every July 1 by the San Francisco CCI (March to March). Fund money is lent through SHRA Multifamily Lending rounds; 2027 schedule is Exhibit B to the 2027 SHRA budget item (SHRC heard Nov 4, 2026; County Board agenda Nov 3, 2026; City Council and Housing Authority hearing Nov 10, 2026); final adoption not yet confirmed. No 2027 funds-available notice posted on shra.org as of 2026-11-10.",
     "eligible_project_detail": [
       "new construction",
       "acquisition-rehab",
       "preservation"
     ],
-    "next_deadline_date": null,
-    "deadline_check": "no_date",
+    "next_deadline_date": "2027-01-04",
+    "deadline_check": "future_date",
     "link_status": "ok",
     "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Housing Trust Fund loans through SHRA are local fee money with no federal Davis-Bacon trigger; SHRA 2026 Multifamily Lending Policies, City (https://www.shra.org/wp-content/uploads/2026/08/2026-SHRA-Multifamily-Lending-Policies-City-final.pdf), Section 6.1 restates state law and the 1720(c)(5)(E) below-market loan exemption (40% of units at 80% AMI for 20 years) (https://california.public.law/codes/labor_code_section_1720).",
-    "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
-    "last_audited": "2026-11-09"
+    "audit_note": "Nov 10, 2026: FY 2026-27 Housing Trust Fund notice found (City Fees and Charges database attachment) and rates updated; SHRA 2027 application schedule found in the Nov 4, 2026 SHRC packet.",
+    "last_audited": "2026-11-10"
   },
   {
     "level": "city",
@@ -13324,8 +13325,8 @@
     "next_deadline_date": null,
     "deadline_check": "no_date",
     "link_status": "ok",
-    "audit_note": "Nov 9, 2026 spot check: FY27 fee notice matches all rates ($3.58, $0.00, $1.55). The fee page lists Ryan Dodge, Associate Planner, (916) 808-8044, as contact rather than Greta Soos.",
-    "last_audited": "2026-11-09",
+    "audit_note": "Nov 10, 2026: FY27 Housing Impact Fee notice linked from the City fee page re-read; $3.58, $0.00 and $1.55 per square foot effective July 1, 2026 through June 30, 2027 confirmed. The City Fees and Charges database entry (fee ID 5700) attaches the same FY27 notice. Contact on the fee page is Ryan Dodge, (916) 808-8044.",
+    "last_audited": "2026-11-10",
     "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project."
   },
   {
@@ -13458,24 +13459,24 @@
       "supportive housing"
     ],
     "application_cycle": "rolling",
-    "next_deadline": "Bond-only applications any time; bond-with-loan applications on the SHRA schedule (next pre-application likely early January 2027). SHRA Commission then City Council approval, then CDLAC allocation.",
+    "next_deadline": "Bond-only applications any time; bond-with-loan applications follow the proposed 2027 SHRA schedule: pre-applications January 4, 2027 and July 1, 2027, full applications March 1, 2027 and September 1, 2027, approvals June 29, 2027 and January 25, 2028. SHRA Commission then City Council and Housing Authority approval, then CDLAC allocation.",
     "prevailing_wage_trigger": "false",
     "layering_notes": "SHRA prefers to be the issuer for City projects and pairs bonds with its gap loan; CSCDA or CMFA remain alternatives if timing does not fit. Bond policy requires the nonprofit owner to have material day-to-day involvement for projects claiming the welfare exemption, matching BOE scrutiny of managing general partners (see County Assessor record). Policies: 2026 City Multifamily Lending and Mortgage Revenue Bond Policies (Section 9).",
     "source_url": "https://www.shra.org/wp-content/uploads/2026/08/2026-SHRA-Multifamily-Lending-Policies-City-final.pdf",
     "record_id": "3038f76416",
-    "cycle_notes": "",
+    "cycle_notes": "2027 schedule is Exhibit B to the 2027 SHRA budget item (SHRC heard Nov 4, 2026; County Board agenda Nov 3, 2026; City Council and Housing Authority hearing Nov 10, 2026); final adoption not yet confirmed. Schedule not yet posted on shra.org as of 2026-11-10.",
     "eligible_project_detail": [
       "new construction",
       "acquisition-rehab",
       "preservation",
       "supportive housing"
     ],
-    "next_deadline_date": null,
-    "deadline_check": "no_date",
+    "next_deadline_date": "2027-01-04",
+    "deadline_check": "future_date",
     "link_status": "ok",
     "prevailing_wage_basis": "False for the bond financing itself. DIR coverage determinations PW 2006-001 Horizons at Indio (https://www.dir.ca.gov/OPRL/coverage/year2007/2006-001.pdf) and PW 2006-020(A) Heber (https://www.dir.ca.gov/OPRL/coverage/year2007/2006-020(A).pdf), following PW 2004-016 Rancho Santa Fe, hold that conduit multifamily revenue bonds, where the issuer assigns its rights to a private trustee that advances proceeds to the borrower and receives repayments directly, are not payment of public funds under Labor Code 1720(b)(1) and not a public below-market loan under 1720(b)(4). SHRA's structure matches: 2026 SHRA City Multifamily Lending and Bond Policies Section 9.1.3 state there is no liability to or pledge of the City's, the Housing Authority's or SHRA's faith, credit or taxing power, repayment is limited to private project revenues, and the program is self-supporting with the developer paying all costs; Section 9.4.11 provides a bank bond trustee as custodian of funds. Caveat: SHRA gap loans, HOME, CDBG or other public funds in the same deal are tested separately under SHRA policy 6.1 and Labor Code 1720 (1720(c)(5)(E) exemption; Davis-Bacon for HOME at 12+ or CDBG at 8+ units). Sources: https://www.shra.org/wp-content/uploads/2026/08/2026-SHRA-Multifamily-Lending-Policies-City-final.pdf ; https://california.public.law/codes/labor_code_section_1720",
-    "audit_note": "Set false on DIR determinations PW 2006-001 and PW 2006-020(A) for trustee-structured conduit bonds, which matches SHRA policy 9.1.3 and 9.4.11; other public funds in the deal still need their own prevailing wage test.",
-    "last_audited": "2026-11-09"
+    "audit_note": "Nov 10, 2026: replaced the estimated early January 2027 pre-application with the dates in the proposed 2027 Multi-Family Loan and Mortgage Revenue Bond Application Schedule (SHRC Nov 4, 2026 packet).",
+    "last_audited": "2026-11-10"
   },
   {
     "level": "city",
@@ -13650,7 +13651,7 @@
     "application_cycle": "rolling",
     "next_deadline": "No published round as of November 10, 2026; contact the Housing Division at (916) 851-8700.",
     "prevailing_wage_trigger": "unclear",
-    "layering_notes": "cityofranchocordova.org and codepublishing.com return 403 to automated access and the City's Legistar instance has no public API, so this record is a placeholder. Rancho Cordova is in the Sacramento County HOME Consortium (SHRA-administered) and is a CDBG entitlement city that runs an annual CDBG NOFA (a 2026 CDBG NOFA workshop was listed on the City's housing page per search results). Recent City-supported deals include Mather Veterans Village Phase 4 and The Liora (ministerial design review 2026). Confirm fee schedule, fund balance and any NOFA with the Housing Division via the City's main line (916) 851-8700.",
+    "layering_notes": "cityofranchocordova.org and codepublishing.com return 403 to automated access and the City's Legistar instance has no public API, so this record is a placeholder. Rancho Cordova's housing fee came from the County's 1990 program at incorporation (County KMA Fee Context Report, August 2021); the County raised its own fees in 2022 but a matching City update was not found. Rancho Cordova is in the Sacramento County HOME Consortium (SHRA-administered) and is a CDBG entitlement city that runs an annual CDBG NOFA. Recent City-supported deals include Mather Veterans Village Phase 4 and The Liora (250 affordable units at 4321 and 4381 Anatolia Drive, Lincoln Avenue Communities, ministerial approval, CEQA notice October 2026). Confirm fee schedule, fund balance and any NOFA with the Housing Division at (916) 851-8700.",
     "source_url": "https://www.hcd.ca.gov/housing-elements/docs/rancho-cordova-6th-draft032421.pdf",
     "record_id": "f0fe655a96",
     "cycle_notes": "",
@@ -13662,7 +13663,7 @@
     ],
     "next_deadline_date": null,
     "deadline_check": "no_date",
-    "audit_note": "NC audit Nov 10, 2026: cityofranchocordova.org and codepublishing.com still return 403 to curl and WebFetch. The City's March 2021 draft Housing Element on hcd.ca.gov (text extracted) confirms the LHTF, its nonresidential fee basis, 2021 fee rates and its use in Housing Element actions; current fee rates and any fund guidelines remain unconfirmed, so confidence stays needs_confirmation.",
+    "audit_note": "Sac suburbs follow-up Nov 10, 2026: cityofranchocordova.org and codepublishing.com return 403; the Rancho Cordova Legistar and Granicus hosts return no content. The County's August 2021 KMA Housing Trust Fund Fee Context Report confirms Rancho Cordova's fees were then identical to the pre-2022 County schedule ($0.97 office, $0.92 hotel, $0.82 R&D, $0.77 commercial, $0.61 manufacturing, $0.26 warehouse) and originate from the County program before incorporation. Whether the City updated its rates after the County's 2022 increase (County now $3.26 office, $2.17 commercial, $1.08 manufacturing since March 28, 2025), the fund balance, and any NOFA or gap loan round remain unconfirmed; confidence stays needs_confirmation.",
     "last_audited": "2026-11-10",
     "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Housing trust fee loans are public funds under Labor Code 1720(b)(1) (https://california.public.law/codes/labor_code_section_1720); 1720(c)(5)(E) may exempt qualifying below-market loans. No Rancho Cordova fund guideline stating prevailing wage was found."
   },
@@ -13855,7 +13856,7 @@
     "program_name": "Folsom Affordable Housing Loan (AHL) Program (Folsom Housing Fund 238 and Housing Trust Fund 221)",
     "administering_agency": "City of Folsom Community Development Department, Housing Services (loan consultant TDA, Inc.)",
     "funding_type": "loan",
-    "typical_award_size": "Gap loans from the City's inclusionary in-lieu fee fund and commercial housing trust fund. Unaudited cash available for projects at June 30, 2025: $23.9 million (Fund 238 $22.8M, Fund 221 $0.9M, legacy funds $0.2M). Track record: 11 loans since 2005 totaling over $36 million supporting 1,095 units (e.g., a $2.7M conditional loan for 52 units in 2020). Guidelines adopted by Resolution 11427 on August 26, 2025 standardize terms and allow the City to issue NOFAs.",
+    "typical_award_size": "Gap loans from the City's inclusionary in-lieu fee fund (Fund 238) and commercial housing trust fund (Fund 221). FY 2025-26 Mid-Year Budget (March 10, 2026): Fund 238 cash $23,960,396 at July 1, 2025, projected $23,850,147 at June 30, 2026; Fund 221 cash $951,872, projected $858,319. FY 2024-25 AB 1600 report: Fund 238 available balance $24,487,971 after $29.7M in loans receivable; Fund 221 available $978,809. Draws since mid-2025: $615,000 from Fund 238 to the General Fund for the Habitat for Humanity 300 Persifer Street sale (Res. 11467, Oct 14, 2025) and a $1.55M Fund 238 appropriation to buy two vacant Historic District housing sites on Leidesdorff Street, APNs 070-0046-026 and 070-0042-002 (Res. 11659, CEQA exemption filed June 24, 2026). Since 2019 the Council approved $13.7M in long-term loans for over 550 units in six projects; the last loan commitment was Harrington Grove, $2.7M for 52 units (2024). Guidelines adopted by Res. 11427 on August 26, 2025.",
     "per_unit_cap": "None published; sized by the City's consultant review of the pro forma against TCAC underwriting.",
     "affordability_requirement": "Minimum 55-year income, rent and affordability restrictions recorded senior to foreclosable liens; serves extremely low, very low and low income households; priority to sites outside concentrations of existing regulated housing and to Housing Element goals (seniors, large families, special needs). Fund 238 must spend at least 50% on construction or major rehab of multifamily rentals affordable to low and very low income households (Sacramento Housing Alliance settlement).",
     "eligible_project_types": [
@@ -13865,12 +13866,12 @@
       "supportive housing"
     ],
     "application_cycle": "rolling",
-    "next_deadline": "No NOFA issued as of 2026-11-08; the 2025 guidelines contemplate strategic NOFAs when resources are available, and staff planned a Council policy discussion on priorities for the housing funds. Requests may still be submitted ahead of tax credit rounds; contact Housing Services via the Community Development Department (Pam Johns, Director), (916) 461-6000.",
+    "next_deadline": "No open round as of November 10, 2026. No AHL NOFA or new loan award found in Council records from mid-2026 through November 2026; the 2025 guidelines allow strategic NOFAs when resources are available. Contact Housing Services via the Community Development Department, (916) 461-6000.",
     "prevailing_wage_trigger": "unclear",
     "layering_notes": "The largest city-controlled pool in Sacramento County outside the City of Sacramento (about $23M) with few competing applicants, because Folsom's rental projects are scarce and the Folsom Plan Area south of Highway 50 generates most in-lieu revenue. Loans are repaid from 50% of residual cash flow after allowed expenses; operating and replacement reserves required for the 55-year term; underwriting and compliance aligned to TCAC and LIHTC rules. Folsom is outside the SHRA lending area (cooperation agreement needed), so this fund plus state sources is the local layer; a Folsom Plan Area MOU committing to 890 deed-restricted affordable units (2024 General Plan amendments, not opened this pass) creates sites. Chapter 17.104.070 also allows fee waivers or deferrals and density bonuses for inclusionary units. folsom.ca.us returns 403 to automated access; the staff report and resolution were read from the City's public agenda host.",
     "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-3c80e00338b5420aafa72ac45dae4a5d.pdf",
     "record_id": "94239692fe",
-    "cycle_notes": "",
+    "cycle_notes": "Rolling, developer-initiated requests under the AHL guidelines (Res. 11427); NOFAs contemplated but none issued as of November 10, 2026. In 2026 the City used Fund 238 for land acquisition (Res. 11659, $1.55M, Leidesdorff Street sites designated for housing at a minimum of 20 units per acre and listed for lower-income RHNA), consistent with Housing Element Program H-17, which the 2025 APR says the City would explore in 2026. The FY 2026-27 budget was adopted June 9, 2026, but its fund-level housing figures were not found (folsom.ca.us returns 403).",
     "eligible_project_detail": [
       "new construction",
       "acquisition-rehab",
@@ -13881,8 +13882,8 @@
     "deadline_check": "no_date",
     "link_status": "ok",
     "prevailing_wage_basis": "Unresolved. The August 26, 2025 staff report on the AHL Program Guidelines (Resolution 11427) and the housing funds staff report state no prevailing wage rule for City loans (the latter notes only that Homekey and Infill Infrastructure require it). City loans are public funds under Labor Code 1720(b); the 1720(c)(5)(E) exemption for below-market loans with 40% of units at 80% AMI for 20 years may apply depending on loan terms. Davis-Bacon applies only if City HOME (12+ units) or CDBG (8+ units) is layered. Sources: https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-3c80e00338b5420aafa72ac45dae4a5d.pdf ; https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-54dff11a603148f68a0203d4b6b13245.pdf ; https://california.public.law/codes/labor_code_section_1720",
-    "audit_note": "Left unclear: Folsom documents state no rule; outcome depends on Labor Code 1720(c)(5)(E) and project facts. The full guidelines text was not separately located (folsom.ca.us returns 403).",
-    "last_audited": "2026-11-09"
+    "audit_note": "Sac suburbs follow-up Nov 10, 2026: searched Council packets on the mccmeetingspublic host and CEQAnet. No NOFA or new AHL loan found; balances updated from the March 2026 mid-year budget and FY 2024-25 AB 1600 report; added the $615K Habitat transfer and the $1.55M Fund 238 land purchase. FY 2026-27 adopted budget fund tables not located.",
+    "last_audited": "2026-11-10"
   },
   {
     "level": "city",
@@ -13930,7 +13931,7 @@
     "program_name": "Folsom Housing Trust Fund commercial development fee (Municipal Code Chapter 3.90, Fund 221)",
     "administering_agency": "City of Folsom Community Development Department (fee) and Housing Services (fund)",
     "funding_type": "loan",
-    "typical_award_size": "Commercial linkage fee of $2.08 per square foot on new commercial development (established 2002), deposited in the Housing Trust Fund (Fund 221) and used mainly to fill financing gaps in affordable rental projects through the AHL Program. Fund 221 balance was $918,311 at June 30, 2025.",
+    "typical_award_size": "Commercial linkage fee under FMC 3.90.010, indexed annually by the ENR Construction Cost Index: $2.08 per square foot through June 30, 2026 and $2.13 per square foot (office, retail, light and heavy industrial, manufacturing) from July 1, 2026 per Resolution 11601 (April 28, 2026 hearing, 2.43% adjustment). Deposited in the Housing Trust Fund (Fund 221) and used mainly to fill gaps in affordable rental projects through the AHL Program. FY 2024-25 AB 1600 report: fees collected $170,963, available fund balance $978,809 after $1.80M in loans receivable. FY 2025-26 Mid-Year Budget: cash $951,872 at July 1, 2025, projected $858,319 at June 30, 2026.",
     "per_unit_cap": "None published.",
     "affordability_requirement": "Fund supports affordable housing development; AHL Program 55-year restrictions apply to loans.",
     "eligible_project_types": [
@@ -13939,12 +13940,12 @@
       "preservation"
     ],
     "application_cycle": "rolling",
-    "next_deadline": "Deployed through the AHL Program (no NOFA as of 2026-11-08). Fee paid at building permit.",
+    "next_deadline": "No open round as of November 10, 2026. Deployed through the AHL Program; no NOFA found. Fee paid at building permit.",
     "prevailing_wage_trigger": "unclear",
-    "layering_notes": "Minor source compared with Fund 238; Folsom's rate ($2.08) is below the City of Sacramento ($2.68 commercial) and above the County ($2.17). Chapter 3.90 text itself was not opened (codepublishing.com and folsom.ca.us return 403); the rate and balance come from the August 26, 2025 staff report on the City's public agenda host.",
+    "layering_notes": "Minor source compared with Fund 238. Folsom's rate ($2.13 from July 1, 2026) is below Sacramento County's $2.17 commercial and $3.26 office rates (effective March 28, 2025). Rate source is the Resolution 11601 fee schedule in the April 28, 2026 Council packet; adoption minutes were not opened. The AB 1600 report notes the fund holds fees beyond five years, reserved until enough accumulates for a project. Chapter 3.90 text itself was not opened (codepublishing.com and folsom.ca.us return 403).",
     "source_url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-54dff11a603148f68a0203d4b6b13245.pdf",
     "record_id": "b5e8f6c802",
-    "cycle_notes": "",
+    "cycle_notes": "Fee rate adjusts each July 1 by the ENR CCI (Res. 7812, 2006). Fund 221 is deployed through the AHL Program (Res. 11427); no NOFA as of November 10, 2026.",
     "eligible_project_detail": [
       "new construction",
       "acquisition-rehab",
@@ -13954,8 +13955,8 @@
     "deadline_check": "no_date",
     "link_status": "ok",
     "prevailing_wage_basis": "Unresolved. Fund 221 is deployed through the AHL Program; the August 26, 2025 staff reports state no prevailing wage rule. City loans are public funds under Labor Code 1720(b), with the 1720(c)(5)(E) below-market-loan exemption (40% of units at 80% AMI for 20 years) depending on loan terms. Sources: https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-54dff11a603148f68a0203d4b6b13245.pdf ; https://mccmeetingspublic.blob.core.usgovcloudapi.net/folsomca-meet-20667254009747e4aa5f68a4d63539d6/ITEM-Attachment-001-3c80e00338b5420aafa72ac45dae4a5d.pdf ; https://california.public.law/codes/labor_code_section_1720",
-    "audit_note": "Left unclear: Folsom documents state no rule; outcome depends on Labor Code 1720(c)(5)(E) and project facts. Chapter 3.90 text not opened (codepublishing and folsom.ca.us return 403).",
-    "last_audited": "2026-11-09"
+    "audit_note": "Sac suburbs follow-up Nov 10, 2026: fee corrected from $2.08 to $2.13 per sq ft effective July 1, 2026 (Res. 11601 packet); balance updated from the FY 2024-25 AB 1600 report and March 2026 mid-year budget. No NOFA found.",
+    "last_audited": "2026-11-10"
   },
   {
     "level": "city",
