@@ -315,3 +315,8 @@ Follow-ups: confirm SHRA 2027 schedule adoption and funds-available notice in De
 - Change logs: `data/review/audit_changes_*.csv` (one per tier).
 - Applied patches: `data/review/audit_patches/applied/`.
 - Backups before each tier: `data/backups/programs_before_audit_*.json`.
+
+## Small cleanups (2026-11-10)
+
+- Napa ADU Forgivable Loan fb882ab07a: layering_notes rewritten from the ADU Guidelines V2 and loan documents (Legistar matter 26-308). Covers escrow disbursement, other financing (Loan Agreement 3(g)), senior liens, due on sale, eligibility limits. The guidelines do not name the funding source.
+- Sonoma LMIHAF 8b40a193d2: funding_type grant to loan. FY 2024-25 development spending $3,837,187 vs services $173,658; Note 4 calls the $31,242,980 receivable loans receivable; excess surplus plan names homeownership loans and rental development. Instrument per expenditure not stated, so loan is an inference. Tags now new construction, preservation, homeownership, supportive housing.
