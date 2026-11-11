@@ -38,3 +38,14 @@ Collected across research passes. Many agency sites block scripts. Do not bypass
 - Oxnard Cloudflare-blocked with no agenda portal
 - Menlo Park opens via WebFetch but 403 to curl
 - housing element compliance from the HCD CSV on data.ca.gov (housing-element-compliance-report)
+
+## Added from deadline refresh 2026-11
+- Contra Costa: /8695 redirects to /8695/Federal-Programs-Funds-HOME-and-CDBG; ca-contracostacounty3.civicplus.com works with curl and a Chrome user agent; DocumentCenter PDFs need an Accept: application/pdf header
+- Walnut Creek walnutcreekca.gov 403; use Concord and Antioch Consortium pages
+- San Diego HCDS NOFA page at /content/sdc/sdhcd/community-development/di-nofa.html (curl with Chrome user agent)
+- Manteca: ecode360.com/44092704 now 403; Title 17 page at manteca.gov/249/Zoning-Ordinance-Title-17
+- Stockton: stockton.legistar.com and webapi.legistar.com/v1/stockton work
+- Sunnyvale Legistar API client sunnyvaleca works via WebFetch but not curl
+- Vallejo has no Legistar API client; long_range_planning and inclusionary_housing paths 404
+- Santa Ana PlanetBids portal is JavaScript only, addenda unreadable
+- Cloud environment: PyMuPDF may not import; pdftotext is installed and works for PDFs

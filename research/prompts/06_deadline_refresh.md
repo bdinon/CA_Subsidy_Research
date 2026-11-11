@@ -14,7 +14,8 @@ merges it, and runs `scripts/apply_audit.py` locally.
 
 ## Steps
 
-1. Set up: `pip install pymupdf pandas openpyxl` if missing. Create a branch
+1. Set up: `pip install pymupdf pandas openpyxl` if missing. If PyMuPDF will not import,
+   use `pdftotext -layout` for PDFs. Create a branch
    `deadline-refresh-YYYY-MM` from `main` (use the run month).
    Preflight: try `git push --dry-run origin HEAD` and fetch two agency hosts from the
    worklist (for example a county site and a Legistar site). If the push is refused or both

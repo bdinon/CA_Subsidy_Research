@@ -348,3 +348,17 @@ Material corrections:
 - Huntington Beach 5c54e31538: HCD found the adopted element out of compliance August 18, 2026.
 
 Recheck soon: Sunnyvale 580a6f688d and Vallejo 46ca5946a2 Council votes November 10, 2026; Fresno Section 108 6f2b1a4e75 November 12; Stockton CDBG amendment aa68f3b18e; Contra Costa NOFA records December 7 (PLHA, in-lieu and Summer Lake not named in the FY 2027/28 NOFA PDF); Marin ADU waiver 3b88b743dc expiry December 31; Manteca zoning update comment period November 21; Capitola Chapter 18.03 Coastal certification; TRPA Phase 3 vote early 2027; Oxnard inclusionary update (site blocked).
+
+## Monthly deadline refresh 2026-11 (first routine run, PR #1)
+
+24 records (21 near, 3 recheck): 21 confirmed, 1 corrected (Stockton aa68f3b18e stale hearing wording), 2 unverifiable (Sunnyvale and Vallejo November 10 outcomes unpublished). Details in data/review/deadline_refresh_2026-11.md.
+
+Recheck soon:
+- Sunnyvale 580a6f688d: Legistar file 26-0862 after the November 17 meeting or when November 10 minutes post.
+- Vallejo 46ca5946a2: November 10 adoption result and effective date.
+- Stockton aa68f3b18e: file 26-1157 passed status once November 10 minutes post.
+- Fresno 6f2b1a4e75: November 12 Council result on the Section 108 item.
+- Contra Costa 13a9c2c042, 50b4b2ad10, 86f8392c92: NOFA names only CDBG-Housing, HOME and Measure X; confirm PLHA, in-lieu and Summer Lake with DCD before December 7.
+- Walnut Creek 4d562727d9: confirmed only through Concord and Antioch pages (walnutcreekca.gov 403).
+- Santa Ana e323261aa8: PlanetBids addenda unreadable.
+- Still open: Marin ADU waiver 3b88b743dc expiry December 31; Manteca hearing notice; Capitola; TRPA; Oxnard.
