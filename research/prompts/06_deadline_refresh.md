@@ -16,6 +16,10 @@ merges it, and runs `scripts/apply_audit.py` locally.
 
 1. Set up: `pip install pymupdf pandas openpyxl` if missing. Create a branch
    `deadline-refresh-YYYY-MM` from `main` (use the run month).
+   Preflight: try `git push --dry-run origin HEAD` and fetch two agency hosts from the
+   worklist (for example a county site and a Legistar site). If the push is refused or both
+   hosts fail with DNS or proxy errors, stop. Do not write patches. Reply with the exact
+   errors and that the environment needs full network access and GitHub access for this repo.
 2. `python scripts/normalize_data.py` so deadline_check reflects today. Do not commit the
    resulting programs.json or output/ changes; restore them with `git checkout -- data/programs.json output/`
    after step 3.
