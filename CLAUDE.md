@@ -8,7 +8,9 @@ Brandon's target California counties. Source of truth is `data/programs.json`.
 - `data/jurisdictions.json`: counties and priority cities in scope.
 
 ## Research passes
-- Prompts in `research/prompts/`: 01 state, 02 county, 03 city, 04 private, 05 audit.
+- Prompts in `research/prompts/`: 01 state, 02 county, 03 city, 04 private, 05 audit, 06 monthly
+  deadline refresh (scheduled cloud routine; opens a PR with patch files, apply locally after merge).
+- Site access routes for blocked agency sites: `research/site_access_notes.md`.
 - Replace `{{COUNTY_NAME}}` and `{{CITY_NAME}}` before running a pass.
 - New records must use the v2 schema: enum funding_type, enum application_cycle with detail in
   cycle_notes, lowercase string prevailing_wage_trigger, tag list in eligible_project_types
