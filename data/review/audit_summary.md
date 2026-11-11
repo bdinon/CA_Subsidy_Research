@@ -327,3 +327,24 @@ Source: HCD Housing Element Compliance Report on data.ca.gov (CSV updated Novemb
 
 - Madera County: adopted 6th cycle element received October 20, 2025, found in compliance December 16, 2025. Earlier "not compliant" notes were wrong. Corrected PLHA 19afbbe608 (compliance no longer blocks payment; plan still unfound, stays needs_confirmation) and density bonus 720cc72cc0 (rezones adopted with the element, parcels not identified).
 - City of Madera: adopted element received February 6, 2026, reviewed April 7, 2026, Out. Added to PLHA 7523df22f7 (2024-2028 NOFA pays only once compliant) and density bonus af9dcb340f (Builder's Remedy exposure, state fund eligibility).
+
+## Deadline refresh (2026-11-10)
+
+Scope: 76 records (43 open records with past deadlines, 33 with deadlines through December 31, 2026), 8 parallel agents by county, patch files deadline_b1 to b8. Result: 20 confirmed, 56 corrected, 0 unverifiable, 0 rejected. After apply: 0 open records with past deadlines (5 past dates remain, all closed/inactive), 102 future dates.
+
+Main finding: most past deadlines were not missed rounds. About 40 regulatory or incentive records (inclusionary, density bonus, fee schedules, Prohousing) had an ordinance adoption, effective, hearing or reporting date in next_deadline, which the script read as a deadline. These now start "No application deadline" with the dates moved to cycle_notes. Use that wording for standing requirements going forward.
+
+Material corrections:
+- San Diego HACSD PBVs e72e35e00b: not offered in NOFA 2026-03; no open round.
+- City of San Diego CDBG FY2028 c4c3170fac: December 7, 2026 is the RFP release; proposals due January 15, 2027, RFQ-qualified applicants only.
+- Fresno HOME AHD NOFA c254cd9aed: December 14, 2026 was the HUD CPD release; AHD round closed August 31, 2026.
+- Fresno Downtown RLF 3af88382e6: December 31, 2026 was a commitment expiry; no Round 3.
+- Fresno Infill fee waiver 17ad4295f7: form sunset June 30, 2026; may need closed/inactive if the ordinance also sunset (amlegal 403).
+- Santa Rosa density bonus 9d7bdebf03: Chapter 20-31 last amended by Ord. 2025-011, not 2023-006.
+- San Rafael Prohousing 1f99eae749: HCD PIP Round 5 open through March 31, 2027.
+- Sunnyvale BMR 580a6f688d: effective 30 days after adoption, not 60; proposed $93 psf.
+- Fort Bragg 6838c762fe: Council directed a $350,000 MOU (June 22, 2026); ARPA deadline December 31, 2026 stands.
+- Santa Cruz BHSA 6de784df42: source now the final FY 2026-29 plan.
+- Huntington Beach 5c54e31538: HCD found the adopted element out of compliance August 18, 2026.
+
+Recheck soon: Sunnyvale 580a6f688d and Vallejo 46ca5946a2 Council votes November 10, 2026; Fresno Section 108 6f2b1a4e75 November 12; Stockton CDBG amendment aa68f3b18e; Contra Costa NOFA records December 7 (PLHA, in-lieu and Summer Lake not named in the FY 2027/28 NOFA PDF); Marin ADU waiver 3b88b743dc expiry December 31; Manteca zoning update comment period November 21; Capitola Chapter 18.03 Coastal certification; TRPA Phase 3 vote early 2027; Oxnard inclusionary update (site blocked).
