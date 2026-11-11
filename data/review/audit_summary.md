@@ -320,3 +320,10 @@ Follow-ups: confirm SHRA 2027 schedule adoption and funds-available notice in De
 
 - Napa ADU Forgivable Loan fb882ab07a: layering_notes rewritten from the ADU Guidelines V2 and loan documents (Legistar matter 26-308). Covers escrow disbursement, other financing (Loan Agreement 3(g)), senior liens, due on sale, eligibility limits. The guidelines do not name the funding source.
 - Sonoma LMIHAF 8b40a193d2: funding_type grant to loan. FY 2024-25 development spending $3,837,187 vs services $173,658; Note 4 calls the $31,242,980 receivable loans receivable; excess surplus plan names homeownership loans and rental development. Instrument per expenditure not stated, so loan is an inference. Tags now new construction, preservation, homeownership, supportive housing.
+
+## Madera housing element compliance (2026-11-10)
+
+Source: HCD Housing Element Compliance Report on data.ca.gov (CSV updated November 6, 2026). The accountability.ca.gov dashboard (data last updated February 26, 2026) is not a reliable status source; use the HCD CSV.
+
+- Madera County: adopted 6th cycle element received October 20, 2025, found in compliance December 16, 2025. Earlier "not compliant" notes were wrong. Corrected PLHA 19afbbe608 (compliance no longer blocks payment; plan still unfound, stays needs_confirmation) and density bonus 720cc72cc0 (rezones adopted with the element, parcels not identified).
+- City of Madera: adopted element received February 6, 2026, reviewed April 7, 2026, Out. Added to PLHA 7523df22f7 (2024-2028 NOFA pays only once compliant) and density bonus af9dcb340f (Builder's Remedy exposure, state fund eligibility).
