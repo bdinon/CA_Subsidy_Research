@@ -46,7 +46,8 @@ Look for:
    deals in this market.
 5. Append to `data/programs.json`, checking for existing duplicate records first per the rule
    in `SCHEMA.md`.
-6. Run `python scripts/validate_schema.py` when done.
+6. When done, run in order: `python scripts/normalize_data.py`, `python scripts/validate_schema.py`
+   (fix anything it flags), `python scripts/build_report.py`.
 
 ## Output check
 

@@ -2941,8 +2941,8 @@
       "acquisition-rehab",
       "preservation"
     ],
-    "next_deadline_date": "2027-06-30",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "link_status": "ok",
     "last_audited": "2026-11-09",
     "prevailing_wage_basis": "24 CFR 578.99(h): the Davis-Bacon Act does not apply to the CoC program. The HHAP Round 6 NOFA states no prevailing wage requirement, and Solano HHAP rounds fund board and care beds, services at Fair Haven Commons (mental health specialists and the Caminar contract), flexible rental subsidies and interim housing operations, none of which is construction under Labor Code 1720(a)(1). A future HHAP or CoC capital award would need a project-level 1720 analysis. https://www.law.cornell.edu/cfr/text/24/578.99 ; https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-6-nofa.pdf ; https://california.public.law/codes/labor_code_section_1720",
@@ -2976,8 +2976,8 @@
       "supportive housing",
       "acquisition-rehab"
     ],
-    "next_deadline_date": "2027-06-30",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "link_status": "ok",
     "last_audited": "2026-11-09",
     "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The DHCS BHSA County Policy Manual chapter 7 (Housing Interventions, section C.10 capital development) states no prevailing wage requirement, and no Solano term was found. Rental and operating subsidies are not construction under 1720(a)(1); BHSA capital grants are public funds whose coverage depends on 1720(c) and the other sources in the deal. https://policy-manual.mes.dhcs.ca.gov/behavioral-health-services-act-county-policy-manual/V1.0.0/7-bhsa-components-and-requirements",
@@ -3017,7 +3017,7 @@
       "supportive housing",
       "homeownership"
     ],
-    "next_deadline_date": "2026-11-23",
+    "next_deadline_date": "2026-12-07",
     "deadline_check": "future_date",
     "link_status": "blocked",
     "prevailing_wage_basis": "FY 2027/28 Affordable Housing Program Guidelines Section 8.4: Davis-Bacon applies when there are more than 11 HOME-assisted units, and CDBG triggers Davis-Bacon in housing projects of 8 or more total units; state prevailing wage is the developer's responsibility to determine (Section 8.6).",
@@ -6378,8 +6378,8 @@
       "interim housing",
       "services"
     ],
-    "next_deadline_date": "2027-01-31",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "link_status": "ok",
     "last_audited": "2026-11-09",
     "prevailing_wage_basis": "24 CFR 578.99(h): the Davis-Bacon Act does not apply to the CoC program. The HHAP Round 6 NOFA states no prevailing wage requirement, and Yolo HHAP goes to operations and services (interim housing operating subsidies, rapid rehousing), not capital, so it pays for no construction under Labor Code 1720(a)(1). A future HHAP or CoC capital award would need a project-level 1720 analysis. https://www.law.cornell.edu/cfr/text/24/578.99 ; https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/calich/hhap-6-nofa.pdf ; https://california.public.law/codes/labor_code_section_1720",
@@ -6643,8 +6643,8 @@
       "supportive housing",
       "homeownership"
     ],
-    "next_deadline_date": "2028-02-29",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "prevailing_wage_basis": "The 2024-2028 PLHA Formula Guidelines (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-guidelines.pdf) contain no prevailing wage provision; coverage of a County PLHA loan is a Labor Code 1720 question, including the 1720(c)(5)(E) affordable housing exemption (numbered (c)(6)(E) when DIR PW 2006-020 applied it).",
     "last_audited": "2026-11-09"
   },
@@ -6791,7 +6791,7 @@
       "preservation",
       "supportive housing"
     ],
-    "next_deadline_date": "2027-02-15",
+    "next_deadline_date": "2027-02-16",
     "deadline_check": "future_date",
     "audit_note": "T2 audit 2026-11-08: deadline confirmed in BOE Publication 149, the BOE-267-A sample form and the Placer County BOE-267-L2 affidavit (read on placerair.org). Placer Assessor Matt Maynard, 530-889-4300, confirmed on the BOE county contacts page.",
     "last_audited": "2026-11-09",
@@ -9242,8 +9242,8 @@
       "affordable rental development serving qualifying populations",
       "supportive services"
     ],
-    "next_deadline_date": "2030-09-30",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "link_status": "ok",
     "prevailing_wage_basis": "HUD Notice CPD-21-10 Section VII.D: 24 CFR 92.354 labor standards apply to HOME-ARP activities, so Davis-Bacon applies to rental housing contracts with 12 or more HOME-ARP-assisted units (Sendero Commons is planned at 10 HOME-ARP units).",
     "audit_note": "Tier 4 spot check: next_deadline implied HOME-ARP capital was available to the next PSH project, but the staff report says the development allocation is 100% committed to Sendero Commons.",
@@ -10628,8 +10628,8 @@
       "interim housing operations",
       "permanent supportive housing services and operating support"
     ],
-    "next_deadline_date": "2027-01-31",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "link_status": "ok",
     "audit_note": "T2 audit 2026-11-08: HHAP 6 and HHAP 7 Ventura figures confirmed against HCD allocation PDFs; HCD HHAP page shows application window closed and no new application for HHAP 7.",
     "last_audited": "2026-11-09",
@@ -20606,8 +20606,8 @@
       "preservation",
       "capitalized operating reserves"
     ],
-    "next_deadline_date": "2026-12-08",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "link_status": "ok",
     "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. HCD Prohousing Incentive Program Final Guidelines (2026) and PIP NOFA Round 5 contain no prevailing wage provision, and the City housing page and staff report state none. PIP grants are public funds under 1720(b)(1). https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/pip-final-guidelines-2026.pdf",
     "audit_note": "City spot check Nov 9, 2026: typical_award_size said the Round 4 award decision was pending; HCD's PIP Round 4 awardee list shows Stockton unfunded (score 38, deprioritized for a prior award). next_deadline said the City NOFA was expected about October 2026 and Round 4 was pending; changed to No open City round, with HCD PIP Round 5 open through March 31, 2027. The $2,370,000 first-round award is confirmed on the HCD 2023 awardee list. Deadline refresh November 10, 2026: City Housing page (updated November 9, 2026) confirms the 2026 Prohousing renewal comment period November 2 to December 8, 2026 and the Council public hearing December 8, 2026 at 1:00 PM, and still posts no Housing NOFA; HCD PIP page confirms Round 5 open October 13, 2026 through March 31, 2027 with awards estimated June 2027. Deadline refresh November 11, 2026: City Housing page (last updated November 9, 2026) still shows the Prohousing renewal comment period November 2 to December 8, 2026 and Council public hearing December 8, 2026 at 1:00 PM; no Housing NOFA posted.",
@@ -20752,8 +20752,8 @@
       "mixed-use",
       "common interest development (moderate income)"
     ],
-    "next_deadline_date": "2026-11-21",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
     "last_audited": "2026-11-10",
     "audit_note": "City spot check Nov 9, 2026: source_url moved from the zoneomics mirror to the official ecode360 Manteca code (Chapter 17.72), which the auditor opened and matched. Deadline refresh November 10, 2026: the City Title 17 page shows the Draft Zoning Code Update review period still open through November 21 (draft cover says November 22, 2026), so the earlier text saying the period had closed and that a Planning Commission hearing was noticed was wrong; the hearing notice is listed without a link. The City page now links Title 17 at ecode360.com/46033517. Deadline refresh November 11, 2026: City Title 17 page still shows the Draft Zoning Code Update review period October 22 through November 21 and a Planning Commission public hearing notice with no date; no adoption date stated. Standing requirement, no application deadline."
@@ -21007,7 +21007,7 @@
       "affordable ownership",
       "limited-equity cooperatives"
     ],
-    "next_deadline_date": "2026-11-30",
+    "next_deadline_date": "2027-01-11",
     "deadline_check": "future_date",
     "link_status": "ok",
     "prevailing_wage_basis": "RFP No. 26-004A (May 1, 2026), pages 11 to 12: pro formas must assume State prevailing wages and/or Federal Davis-Bacon wages and compliance with the City CWA; HOME and HOME-ARP Davis-Bacon applies at 12 or more assisted units (24 CFR 92.354, restated in RFP Exhibit IV page 31). Santa Ana Community Workforce Agreement with the Los Angeles/Orange Counties Building and Construction Trades Council, effective June 6, 2023 (reproduced as Exhibit V of RFP 26-004A, pages 54 to 78): Section 2.2.4 makes 'any Affordable Housing projects that receive City funds' covered Project Work, with no dollar threshold (the $750,000 multi-trade and $100,000 specialty thresholds in 2.2.1 and 2.2.2 apply to public works contracts); Section 5.1 requires covered employees to be paid the hourly rates in the applicable prevailing wage determination; Section 11.2 requires compliance with state prevailing wage law and Santa Ana Municipal Code 33-206. RFP 26-004A Section IV (page 24) and General Terms item (2) (page 19) state the CWA applies to City-funded affordable housing projects, is enforced in the final City agreement, requires union hiring hall referral, and requires at least 30% of craft hours by Santa Ana (Tier 1) or Orange County (Tier 2) ZIP code residents, veterans or MC3 pre-apprenticeship graduates, measured on certified payroll; each proposer signs Attachment H and each contractor signs a Letter of Assent. SAMC 33-206 (emergency ordinance, December 16, 2014) applies state prevailing wage law to City public works as defined in Labor Code 1720, so it adds no coverage beyond state law; the local layer is the CWA. Note: the RFP's Exhibit II sample pre-loan commitment (page 44) leaves the Labor Code 1720 state prevailing wage determination to the developer, but the CWA wage clause applies to all City-funded affordable housing regardless.",
@@ -24536,8 +24536,8 @@
       "supportive housing",
       "preservation"
     ],
-    "next_deadline_date": "2027-01-27",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "link_status": "ok",
     "last_audited": "2026-11-09",
     "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The Chula Vista NOFA and staff reports could not be read (chulavistaca.gov and the eSCRIBE attachments return 403), and the eSCRIBE agenda text for the Park Hill loan states no wage term. Construction paid solely with low and moderate income housing fund money plus private funds is excluded under 1720(c)(4). Local loans are public funds under 1720(b), but 1720(c)(5)(E) exempts privately owned residential projects whose only public participation is below-market loans with at least 40% of units restricted for 20 or more years at 80% AMI or below, and 1720(c)(3) exempts de minimis subsidy. https://california.public.law/codes/labor_code_section_1720",
@@ -27262,7 +27262,7 @@
       "acquisition-rehab"
     ],
     "next_deadline_date": "2026-11-12",
-    "deadline_check": "future_date",
+    "deadline_check": "past_date",
     "link_status": "ok",
     "prevailing_wage_basis": "Program rule: the City of Fresno Section 108 Loan Guarantee Program Underwriting and Servicing guidelines (May 2026, Prevailing Wage section, page 12 of 58, in the Section 108 application, https://www.fresno.gov/wp-content/uploads/2026/08/Section-108-Loan-Guarantee-Application-Affordable-Housing-Development-Loan-Pool-10w1789.pdf) state that housing development projects are a public work for federal purposes including Davis-Bacon and Related Acts and for State purposes under Labor Code 1720 et seq., absent a contrary written determination by HUD, DIR or a court, and that developers shall perform project work as a public work. Federal basis: Section 108 is assistance under Title I of the Housing and Community Development Act, and 24 CFR 570.603 (https://www.law.cornell.edu/cfr/text/24/570.603) applies Davis-Bacon to construction financed with that assistance, for residential rehabilitation only at 8 or more units; the guidelines checklist applies Davis-Bacon to projects with more than 11 assisted units.",
     "last_audited": "2026-11-10",
@@ -28741,8 +28741,8 @@
       "land acquisition",
       "homeownership"
     ],
-    "next_deadline_date": "2026-12-31",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "link_status": "ok",
     "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. The June 22, 2026 staff report (https://legistar1.granicus.com/cityfortbragg/attachments/f234af69-08d5-4b5d-bbaa-9dd829b93041.docx) states no prevailing wage term for the ARPA and PLHA support to Housing Mendocino Coast. Land acquisition and working capital are not construction under Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720); later construction on land bought with City funds is a 1720(b) question, and down payment or mortgage aid to ownership households is exempt under 1720(c)(5)(C). HCD 2024-2028 PLHA Formula Guidelines (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-guidelines.pdf) contain no prevailing wage, Davis-Bacon or Labor Code 1720 provision; the HCD PLHA FAQ (https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/cycle-2-nofa-faq.pdf) says only that HCD programs require compliance with applicable law including prevailing wages unless the project meets a Labor Code 1720(c) exception as determined by DIR. PLHA loans and grants are public funds under 1720(b)(1) and (b)(4) (https://california.public.law/codes/labor_code_section_1720), but 1720(c)(5)(E) (below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI), 1720(c)(5)(C) (mortgage, down payment or single-family rehab aid to a household) and 1720(c)(3) de minimis can apply. Davis-Bacon applies only if HOME (12+ HOME units, 24 CFR 92.354) or CDBG (8+ units, 24 CFR 570.603) is layered.",
     "audit_note": "PW citation pass Nov 9, 2026: true changed to unclear. Deadline refresh November 10, 2026: read the June 22, 2026 City Council minutes (item 8B, file 26-294): direction to prepare an MOU for $350,000 of ARPA funds. Searched Fort Bragg Legistar matters since June 23, 2026 for HMC, MOU, 251 S. Franklin and ARPA; no MOU approval found.",
@@ -29512,8 +29512,8 @@
       "preservation",
       "supportive housing"
     ],
-    "next_deadline_date": "2028-06-30",
-    "deadline_check": "future_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "link_status": "ok",
     "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Housing successor loans and land are public funds under Labor Code 1720(b)(1) and (b)(3) (https://california.public.law/codes/labor_code_section_1720); 1720(c)(4) exempts only Low and Moderate Income Housing Fund money under Health and Safety Code 33334.2 and 33334.3 and does not name housing successor asset funds, and 1720(c)(5)(E) exempts below-market loans where at least 40% of units are restricted to 80% AMI for 20 years. No program rule, NOFA or agreement term stating prevailing wage was found.",
     "audit_note": "PW citation pass 2026-11-09: true was uncited and no program-specific rule was found; set unclear per Tier 3 rule (1720(b) alone does not support true).",
@@ -30932,7 +30932,7 @@
       "community land trust projects"
     ],
     "next_deadline_date": "2026-11-13",
-    "deadline_check": "future_date",
+    "deadline_check": "past_date",
     "link_status": "ok",
     "audit_note": "funding_type kept as other: Ready to Build provides fully funded technical assistance only, with no loan, grant or other deployable capital, so no money-to-project enum value fits. Deadline refresh November 11, 2026: Ready to Build page still shows applications due November 13, 2026 at 5pm Pacific, review November 16 to 30, selections first week of December 2026; no extension stated.",
     "last_audited": "2026-11-10",

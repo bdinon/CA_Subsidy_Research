@@ -1,6 +1,8 @@
 # Site access notes
 
-Collected across research passes. Many agency sites block scripts. Do not bypass Cloudflare or bot checks; use the alternate routes below. Extract PDFs locally with PyMuPDF. curl with a full Chrome user agent often works when a fetch tool fails, and the reverse.
+Collected across research passes. Many agency sites block scripts. Sending a normal browser user agent or Accept header to a public page is allowed; do not solve, evade or script around Cloudflare challenges, CAPTCHAs or logins. Use the alternate routes below. Extract PDFs locally with PyMuPDF, or `pdftotext -layout` if PyMuPDF will not import. curl with a full Chrome user agent often works when a fetch tool fails, and the reverse.
+
+Code mirrors (zoneomics, gocodebook) listed below help find text. They are never the only source for a verified record.
 
 - HCD listing 403s, use /funding/ short URLs
 - napacounty.gov Cloudflare-blocked, use services.napacounty.gov agenda PDFs

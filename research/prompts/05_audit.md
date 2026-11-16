@@ -19,15 +19,16 @@ scripts. Treat those as "open it yourself with the fetch tool".
 
 | Tier | What | Batch files |
 |---|---|---|
-| 1 | needs_confirmation, dead or moved links, funding_type "other", ambiguous reclass | `data/review/batches/T1_*.json` |
+| 1 | needs_confirmation, dead or moved links, funding_type "other", ambiguous reclass, verified on a code mirror | `data/review/batches/T1_*.json` |
 | 2 | past deadlines on live money programs | `T2_*.json` |
 | 3 | prevailing wage "unclear" on live money programs | `T3_*.json` |
 | 4 | spot-check sample of records currently marked verified | `T4_*.json` |
 
 ## How to run a tier
 
-Spawn one subagent per batch file, at most 4 running at once. Give each subagent the
-"Per-record checks" and "Patch format" sections below plus its batch file path.
+Spawn one `audit-batch` subagent (`.claude/agents/audit-batch.md`) per batch file, at most 4
+running at once. Give each one its batch file path. The agent file points it to the
+"Per-record checks" and "Patch format" sections below.
 
 Subagents must NOT edit `data/programs.json`. Each writes exactly one file:
 `data/review/audit_patches/<batch_id>.jsonl`, one JSON line per record in its batch.
@@ -58,6 +59,11 @@ Look at `audit_reasons` and do the matching work:
   `needs_confirmation`, set `result: "unverifiable"`, and give the reason.
 - **link_dead, link_soft_404, link_redirected**: find the correct page, set `source_url`, and
   re-check the facts on it.
+- **mirror_source**: the record is verified but its `source_url` is a third-party code mirror.
+  Find the official code host or agency page. If it supports the record, set `source_url` to
+  it and confirm or correct. If no official page can be read, set `confidence:
+  "needs_confirmation"`, return `result: "unverifiable"`, and say in `audit_note` which official
+  hosts were blocked.
 - **funding_type_other, reclass_ambiguous**: choose the best `funding_type` from the enum
   using the meanings in `SCHEMA.md`. Trust funds and housing successor funds that deploy
   loans are `loan`, grants are `grant`. A fund that only collects fees and has nothing
@@ -65,8 +71,10 @@ Look at `audit_reasons` and do the matching work:
   `grant` if the plan funds housing capital or rental subsidy for housing, otherwise
   `other`. Say which in `layering_notes`.
 - **deadline_past**: find the next round, or confirm none is open. Write `next_deadline` as
-  plain text with explicit dates written as "Month D, YYYY" (the date is extracted from this
-  text by script). If no round is open, write "No open round as of <today's date>" and add
+  plain text with explicit dates written as "Month D, YYYY", submit-by date first (the script
+  takes the first date written as the deadline when it is in the future). Release dates,
+  question deadlines and hearings come after it or go in `cycle_notes`. Standing requirements
+  start with "No application deadline;". If no round is open, write "No open round as of <today's date>" and add
   the expected timing if the agency states it. If the program ended, set
   `application_cycle` to `closed/inactive`. Update `cycle_notes` to match.
 - **prevailing_wage_unclear**: set `true` or `false` only if the program guidelines, NOFA,
@@ -83,7 +91,12 @@ Look at `audit_reasons` and do the matching work:
 
 Rules for every record:
 - `confirmed` and `corrected` both require `sources_checked` with the URLs you opened.
+  `apply_audit.py` rejects lines without them.
 - Never mark `verified` from memory, from a search snippet, or from a page you could not read.
+- Never mark `verified` when the only sources read are third-party code mirrors (zoneomics,
+  gocodebook). `apply_audit.py` rejects these.
+- A normal browser user agent or Accept header is fine. Do not solve, evade or script around
+  Cloudflare challenges, CAPTCHAs or logins.
 - Write plain text. No em dashes, no exclamation points, no emojis.
 - Keep `reason` to one sentence.
 

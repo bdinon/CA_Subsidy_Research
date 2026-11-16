@@ -41,10 +41,11 @@ Look for:
    `layering_notes` if this city's program duplicates, supplements, or conflicts with the
    county program.
 4. Append to `data/programs.json`, checking for duplicates first.
-5. Run `python scripts/validate_schema.py` when done.
+5. When done, run in order: `python scripts/normalize_data.py`, `python scripts/validate_schema.py`
+   (fix anything it flags), `python scripts/build_report.py`.
 
 ## Output check
 
 If a city has essentially nothing beyond state-mandated density bonus, record that explicitly
-as a record with `application_cycle: "closed/inactive"` or a note, rather than silently
-skipping the city. That tells you where a market lacks tools other markets have.
+as a record with `funding_type: "negative finding"` and a note on what was searched, rather
+than silently skipping the city. That tells you where a market lacks tools other markets have.

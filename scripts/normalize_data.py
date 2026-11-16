@@ -3,7 +3,8 @@
 Cleans data/programs.json. Safe to re-run (idempotent).
 
 What it does:
-  1. Adds a stable record_id to every record.
+  1. Adds a record_id to any record that has none. An existing record_id is never changed,
+     including when a record is renamed.
   2. Normalizes prevailing_wage_trigger to "true" | "false" | "unclear".
   3. Splits application_cycle into a clean enum (application_cycle) plus cycle_notes.
   4. Reclassifies funding_type "other" using keyword rules, writes a review CSV.
@@ -138,18 +139,19 @@ def reclass(r):
 
 
 def parse_dates(text):
-    out = []
+    """All explicit dates in the order they are written."""
+    found = []
     for m in DATE_RE.finditer(text or ""):
         try:
-            out.append(date(int(m.group(3)), MONTHS[m.group(1).lower()], int(m.group(2))))
+            found.append((m.start(), date(int(m.group(3)), MONTHS[m.group(1).lower()], int(m.group(2)))))
         except ValueError:
             pass
     for m in ISO_RE.finditer(text or ""):
         try:
-            out.append(date(int(m.group(1)), int(m.group(2)), int(m.group(3))))
+            found.append((m.start(), date(int(m.group(1)), int(m.group(2)), int(m.group(3)))))
         except ValueError:
             pass
-    return out
+    return [d for _, d in sorted(found)]
 
 
 AS_OF_RE = re.compile(r"(?i)as of\s+(?:" + DATE_RE.pattern[2:] + r"|20\d{2}-\d{2}-\d{2})")
@@ -159,16 +161,24 @@ NO_ROUND_RE = re.compile(r"(?i)\s*no (open|fixed|standalone|nofa|application dea
 
 
 def deadline_fields(text, today):
-    # "No open round as of <date>" records a check date, not a deadline. Ignore it.
-    dates = parse_dates(AS_OF_RE.sub(" ", text or ""))
+    """next_deadline_date and deadline_check from the next_deadline text.
+
+    Writing rule (05_audit.md, 06_deadline_refresh.md): the submit-by date comes first, and text
+    that starts "No open ..." or "No application deadline" has no deadline. Any other dates in such
+    text are history, hearings, comment periods or plan terms.
+    """
+    text = text or ""
+    if NO_ROUND_RE.match(text):
+        return None, "no_date"
+    # "as of <date>" records a check date, not a deadline.
+    dates = parse_dates(AS_OF_RE.sub(" ", text))
     if not dates:
         return None, "no_date"
+    if dates[0] >= today:
+        return dates[0].isoformat(), "future_date"
     future = sorted(d for d in dates if d >= today)
     if future:
         return future[0].isoformat(), "future_date"
-    # A statement that no round is open lists past dates only as history.
-    if NO_ROUND_RE.match(text or ""):
-        return None, "no_date"
     return max(dates).isoformat(), "past_date"
 
 
@@ -183,11 +193,16 @@ def main():
     stats = Counter()
     reclass_rows, unmapped_types = [], Counter()
 
+    used_ids = {r["record_id"] for r in programs if r.get("record_id")}
     for r in programs:
-        # 1 record_id
-        rid = make_id(r)
-        if r.get("record_id") != rid:
+        # 1 record_id: assign once, never re-hash (a rename must not change the id)
+        if not r.get("record_id"):
+            rid, n = make_id(r), 1
+            while rid in used_ids:  # a renamed record can still hold this name's hash
+                n += 1
+                rid = hashlib.sha1(f"{make_id(r)}|{n}".encode("utf-8")).hexdigest()[:10]
             r["record_id"] = rid
+            used_ids.add(rid)
             stats["record_id_added"] += 1
 
         # 2 prevailing wage

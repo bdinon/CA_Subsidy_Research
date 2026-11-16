@@ -40,8 +40,12 @@ researching each agency's site:
    CDLAC bonds + AHSC + MIP is a common capital stack) and which have mutually exclusive
    eligibility.
 4. Flag prevailing wage triggers accurately. This matters a lot for underwriting.
-5. Append records to `data/programs.json`. Do not overwrite existing unrelated records.
-6. When done, run `python scripts/validate_schema.py` and fix anything it flags.
+5. Append records to `data/programs.json`. Do not overwrite existing unrelated records. Update
+   an existing record in place rather than adding a duplicate.
+6. When done, run in order: `python scripts/normalize_data.py`, `python scripts/validate_schema.py`
+   (fix anything it flags), `python scripts/build_report.py`.
+7. Confirm which state body administers each program today. The state reorganized its housing
+   agencies in 2026; use the agency page, not memory, for `administering_agency`.
 
 ## Output check
 

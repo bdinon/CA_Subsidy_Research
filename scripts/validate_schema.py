@@ -10,6 +10,7 @@ import json
 import re
 import sys
 from collections import Counter
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -27,7 +28,16 @@ VALID_FUNDING = {"tax credit", "bond", "grant", "loan", "fee waiver", "tax abate
                  "regulatory requirement", "policy/designation", "negative finding", "other"}
 VALID_CYCLES = {"rolling", "annual NOFA", "biennial", "closed/inactive"}
 VALID_CONFIDENCE = {"verified", "needs_confirmation"}
-VALID_PASSES = {"1_state", "2_county", "3_city", "4_private", "5_audit"}
+VALID_PASSES = {"1_state", "2_county", "3_city", "4_private", "5_audit", "7_federal"}
+# Third-party code mirrors: usable to find text, never the basis for "verified" (CLAUDE.md).
+MIRROR_HOSTS = ("zoneomics.com", "gocodebook.com")
+# Standing requirements and designations have no application deadline.
+STANDING_TYPES = {"regulatory requirement", "policy/designation", "density bonus",
+                  "zoning incentive", "negative finding"}
+
+
+def is_mirror(url):
+    return any(h in str(url or "").lower() for h in MIRROR_HOSTS)
 VALID_PW = {"true", "false", "unclear"}
 VALID_DEADLINE_CHECK = {"future_date", "past_date", "no_date"}
 VALID_TAGS = {"new construction", "acquisition-rehab", "preservation", "supportive housing",
@@ -48,8 +58,10 @@ def load_programs():
         sys.exit(1)
 
 
-def validate(programs):
+def validate(programs, today=None):
     errors, warnings = [], []
+    grouped = {"mirror": [], "standing_date": [], "far_date": []}
+    far = (today or date.today()).replace(year=(today or date.today()).year + 2).isoformat()
     for i, r in enumerate(programs):
         label = f"#{i} {r.get('record_id','?')} ({str(r.get('program_name','UNNAMED'))[:50]} / {r.get('jurisdiction','?')})"
 
@@ -89,8 +101,15 @@ def validate(programs):
         if url and not str(url).startswith("http"):
             errors.append(f"{label}: source_url is not a URL: '{url}'")
 
-        if r.get("confidence") == "needs_confirmation" and r.get("research_pass") == "5_audit" and not r.get("audit_note"):
+        if r.get("confidence") == "needs_confirmation" and r.get("last_audited") and not r.get("audit_note"):
             warnings.append(f"{label}: audited but still needs_confirmation with no audit_note")
+        rid = r.get("record_id", "?")
+        if r.get("confidence") == "verified" and is_mirror(url):
+            grouped["mirror"].append(rid)
+        if r.get("funding_type") in STANDING_TYPES and nd is not None and r.get("deadline_check") == "future_date":
+            grouped["standing_date"].append(rid)
+        if nd is not None and str(nd) > far:
+            grouped["far_date"].append(rid)
 
     ids = Counter(r.get("record_id") for r in programs)
     for k, c in ids.items():
@@ -102,6 +121,15 @@ def validate(programs):
             warnings.append(f"possible duplicate: '{str(k[0])[:60]}' / {k[1]} x{c}")
     if sum(1 for r in programs if r.get("funding_type") == "other"):
         warnings.append(f"{sum(1 for r in programs if r.get('funding_type') == 'other')} records still typed 'other'")
+    text = {
+        "mirror": "verified records whose source_url is a third-party code mirror (make_worklist.py queues them as mirror_source)",
+        "standing_date": "standing requirement or designation records with a future deadline date (next_deadline should start 'No application deadline;')",
+        "far_date": "records with a deadline date more than two years out (likely a plan term, not a submit-by date)",
+    }
+    for k, ids in grouped.items():
+        if ids:
+            more = f" ... +{len(ids) - 12}" if len(ids) > 12 else ""
+            warnings.append(f"{len(ids)} {text[k]}: {', '.join(ids[:12])}{more}")
     return errors, warnings
 
 

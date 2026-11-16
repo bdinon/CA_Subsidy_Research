@@ -3,7 +3,8 @@
 Builds the audit worklist and batch files from data/programs.json.
 
 Tiers (work them in order, stop whenever you like):
-  1  needs_confirmation, dead/soft_404/redirected links, funding_type 'other', ambiguous reclass
+  1  needs_confirmation, dead/soft_404/redirected links, funding_type 'other', ambiguous reclass,
+     verified records sourced from a third-party code mirror (mirror_source)
   2  expired or past deadlines on live money programs
   3  prevailing wage 'unclear' on live money programs
   4  spot-check sample of verified records (all state and private, plus ~8% of the rest, min 2 per county)
@@ -26,6 +27,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import normalize_data as nd  # noqa: E402
+import validate_schema as vs  # noqa: E402
 
 PROGRAMS_PATH = ROOT / "data" / "programs.json"
 REVIEW_DIR = ROOT / "data" / "review"
@@ -76,6 +78,8 @@ def main():
             add(1, r, f"link_{ls}")
         if ls in ("blocked", "error") and r["confidence"] == "needs_confirmation":
             add(1, r, f"link_{ls}")
+        if r["confidence"] == "verified" and vs.is_mirror(r.get("source_url")):
+            add(1, r, "mirror_source")
         if r["funding_type"] == "other":
             add(1, r, "funding_type_other")
         if ambiguous_reclass(r):

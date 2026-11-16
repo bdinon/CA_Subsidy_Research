@@ -69,10 +69,15 @@ def check_patch(p, rec):
             return "eligible_project_types must be a list of valid tags"
     if "source_url" in s and not str(s["source_url"]).startswith("http"):
         return "source_url must be http(s)"
+    src = p.get("sources_checked") or []
+    if p.get("result") in ("confirmed", "corrected"):
+        if not src or not all(str(u).startswith("http") for u in src):
+            return "confirmed and corrected require sources_checked URLs"
     if s.get("confidence") == "verified":
-        src = p.get("sources_checked") or []
         if not src or not all(str(u).startswith("http") for u in src):
             return "verified requires sources_checked URLs"
+        if all(vs.is_mirror(u) for u in src):
+            return "verified cannot rest only on a third-party code mirror"
     new_pw = s.get("prevailing_wage_trigger")
     if new_pw in ("true", "false") and rec.get("prevailing_wage_trigger") == "unclear":
         if not (s.get("prevailing_wage_basis") or "").strip():

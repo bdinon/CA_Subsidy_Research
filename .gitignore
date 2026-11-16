@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 ~$*.xlsx
 data/backups/
+data/review/batches/*.json.old
+CLAUDE.backup-*.md
+.claude/settings.local.json

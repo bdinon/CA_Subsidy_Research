@@ -22,6 +22,7 @@ JURISDICTIONS_PATH = ROOT / "data" / "jurisdictions.json"
 OUTPUT_DIR = ROOT / "output"
 
 COLUMN_ORDER = [
+    "record_id",
     "program_name",
     "level",
     "jurisdiction",
@@ -38,6 +39,7 @@ COLUMN_ORDER = [
     "next_deadline",
     "deadline_check",
     "prevailing_wage_trigger",
+    "prevailing_wage_basis",
     "layering_notes",
     "confidence",
     "link_status",
@@ -48,6 +50,8 @@ COLUMN_ORDER = [
 ]
 
 HEADER_LABELS = {
+    "record_id": "Record ID",
+    "prevailing_wage_basis": "Prevailing Wage Basis",
     "program_name": "Program",
     "level": "Level",
     "jurisdiction": "Jurisdiction",
@@ -157,6 +161,7 @@ def _format_workbook(xlsx_path):
     wrap_align = Alignment(wrap_text=True, vertical="top")
 
     widths = {
+        "Record ID": 12, "Prevailing Wage Basis": 40,
         "Program": 28, "Level": 10, "Jurisdiction": 20, "County": 16,
         "Administering Agency": 26, "Funding Type": 16, "Typical Award": 20,
         "Per-Unit Cap": 16, "AMI Requirement": 22, "Eligible Project Types": 24,
@@ -223,7 +228,7 @@ def build_markdown_report(programs, jurisdictions):
         for juris in sorted(by_juris.keys()):
             lines.append(f"\n### {juris}\n")
             for r in sorted(by_juris[juris], key=lambda x: x.get("program_name", "")):
-                lines.append(f"**{r.get('program_name', 'Unnamed program')}**")
+                lines.append(f"**{r.get('program_name', 'Unnamed program')}** ({r.get('record_id', '')})")
                 lines.append(f"- Agency: {r.get('administering_agency', 'unknown')}")
                 lines.append(f"- Type: {r.get('funding_type', 'unknown')}")
                 if r.get("typical_award_size"):
@@ -232,6 +237,9 @@ def build_markdown_report(programs, jurisdictions):
                     lines.append(f"- AMI requirement: {r.get('affordability_requirement')}")
                 lines.append(f"- Cycle: {r.get('application_cycle', 'unknown')}"
                              + (f" (next: {r.get('next_deadline')})" if r.get("next_deadline") else ""))
+                pw = r.get("prevailing_wage_trigger", "unclear")
+                basis = r.get("prevailing_wage_basis")
+                lines.append(f"- Prevailing wage: {pw}" + (f". Basis: {basis}" if basis else ""))
                 if r.get("layering_notes"):
                     lines.append(f"- Layering notes: {r.get('layering_notes')}")
                 lines.append(f"- Source: {r.get('source_url', 'none')}")
