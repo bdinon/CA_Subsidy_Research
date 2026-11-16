@@ -51,3 +51,7 @@ Code mirrors (zoneomics, gocodebook) listed below help find text. They are never
 - Vallejo has no Legistar API client; long_range_planning and inclusionary_housing paths 404
 - Santa Ana PlanetBids portal is JavaScript only, addenda unreadable
 - Cloud environment: PyMuPDF may not import; pdftotext is installed and works for PDFs
+
+## Added from recheck 2026-11-15
+- Vallejo agendas and minutes are on CivicClerk (vallejoca.portal.civicclerk.com); the public API at vallejoca.api.civicclerk.com/v1/Events and /v1/Meetings/{id} returns agenda, packet and minutes files
+- Legistar web API eventitems with AgendaNote=1&MinutesNote=1 can show a passed action and resolution number while the public meeting page still shows "Not available" (draft minutes); cite the API URL
