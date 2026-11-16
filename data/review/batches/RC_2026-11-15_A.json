@@ -1,0 +1,214 @@
+[
+ {
+  "audit_reasons": [
+   "recheck: Contra Costa PLHA: the FY 2027/28 NOFA names only CDBG-Housing, HOME and Measure X; confirm with DCD whether PLHA is offered before the December 7, 2026 deadline."
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Contra Costa County",
+   "date_researched": "2026-11-06",
+   "research_pass": "2_county",
+   "county_tag": "Contra Costa",
+   "confidence": "verified",
+   "program_name": "Permanent Local Housing Allocation (PLHA), Contra Costa Urban County entitlement",
+   "administering_agency": "Contra Costa County Department of Conservation and Development (HCD entitlement grantee for the Urban County)",
+   "funding_type": "grant",
+   "typical_award_size": "HCD 2024-2028 Formula Allocation NOFA: Contra Costa County CY 2024 $1,523,318 and CY 2025 $1,631,698; 2024-2028 five-year estimate $9,520,738. The $13,021,068 figure in Resolution 2026-406 (Oct 20, 2026) is the five-year estimate for the earlier 2020-2023 allocation cycle, adopted to amend that Five-Year Plan for the owner-occupied workforce housing rule. FY 2025/26 allocation $1,860,477 with $1,767,453 to projects after 5% administration; FY 2024/25 award $1,876,423 to El Cerrito Plaza Parcel A South; FY 2022/23 award $1,000,000 to Choice in Aging Senior Housing and $1,650,000 to Rumrill Commons. Earlier HCD awards: $3,373,129 (2022) and $2,170,178. Antioch, Concord, Pittsburg and Walnut Creek receive separate PLHA entitlements (Pass 3).",
+   "per_unit_cap": null,
+   "affordability_requirement": "Activity 1: rental development for extremely low to low income households as low-interest deferred loans with a 55-year regulatory agreement, priority to units at or below 60% AMI, awards counted on units at 80% AMI or below. The 2024 HCD NOFA requires 40% of funds for affordable owner-occupied workforce housing (Activity 9: down payment assistance, homeowner rehab, 80% to 120% AMI).",
+   "eligible_project_types": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "homeownership"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Rental PLHA is awarded through the County housing NOFA in years with a balance; the FY 2027/28 NOFA (due December 7, 2026 at 5:00 PM) lists CDBG-Housing, HOME and Measure X only, so ask DCD whether PLHA will be added. HCD formula allocations arrive annually.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "County pages on www.contracosta.ca.gov refuse automated fetches (403); the same pages and DocumentCenter PDFs were opened on 2026-11-06 through the site's CivicPlus origin host (ca-contracostacounty3.civicplus.com), and Board reports were read through the contra-costa.legistar.com API. Roughly $1,500,000 to $1,900,000 a year, now split with 40% to homeownership under the state's 2024 workforce housing rule, so the rental share is under $1,000,000 a year. Used as a companion to Measure X in El Cerrito Plaza (7 PLHA units of 69) and Choice in Aging. PLHA states no wage rule of its own; construction use is public funds under Labor Code 1720(b), subject to the 1720(c) exemptions (see prevailing_wage_basis). State regulations require commitment and occupancy deadlines (Choice in Aging PLHA must be occupied by 2030). The County's PLHA Five-Year Plan narrative (Sept 2025) is attached to Resolution 2026-406 on Legistar.",
+   "source_url": "https://www.contracosta.ca.gov/8702/State-and-Local-Funds",
+   "record_id": "13a9c2c042",
+   "cycle_notes": "annual County NOFA when a PLHA balance exists; FY 2027/28 round due December 7, 2026 does not name PLHA",
+   "eligible_project_detail": [
+    "new construction",
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "homeownership"
+   ],
+   "next_deadline_date": "2026-12-07",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "audit_note": "PW pass Nov 9, 2026: PLHA formula rules are silent on prevailing wage; changed true to unclear. Deadline refresh November 10, 2026: State and Local Funds page says PLHA is allocated through the annual Affordable Housing NOFA and shows the December 7, 2026 deadline; the FY 2027/28 NOFA PDF does not mention PLHA. Deadline refresh November 11, 2026: County pages (civicplus origin host) and FY 2027/28 NOFA PDF still show applications due December 7, 2026 at 5:00 PM via City Data Services; no extension or addendum posted as of this check; NOFA, FAQs (October 21, 2026 TA meeting) and full 2027/28 Housing Guidelines PDF mention only CDBG-Housing, HOME and Measure X and contain no reference to PLHA, and no County statement on its inclusion was found, so confirm with DCD.",
+   "last_audited": "2026-11-10",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. HCD 2024-2028 PLHA Formula Guidelines and Formula Allocation NOFA contain no prevailing wage provision, and the County guidelines leave state prevailing wage to the developer. https://www.hcd.ca.gov/sites/default/files/docs/grants-and-funding/plha/2024-2028-plha-formula-guidelines.pdf ; https://ca-contracostacounty3.civicplus.com/DocumentCenter/View/93026/2027-28-Housing-Guidelines---Entire-Document-Large-PDF"
+  }
+ },
+ {
+  "audit_reasons": [
+   "recheck: Contra Costa in-lieu fee fund: confirm with DCD whether a balance is offered in the FY 2027/28 NOFA before December 7, 2026."
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Contra Costa County",
+   "date_researched": "2026-11-06",
+   "research_pass": "2_county",
+   "county_tag": "Contra Costa",
+   "confidence": "verified",
+   "program_name": "Inclusionary Housing Ordinance In-Lieu Fee Fund (Chapter 822-4)",
+   "administering_agency": "Contra Costa County Department of Conservation and Development",
+   "funding_type": "loan",
+   "typical_award_size": "FY 2026/27: $1,216,295 available; awards $1,000,000 to Orbisonia Village (Pacific West, Bay Point, 167 units) and $216,295 to Harbor Pointe (USA Properties, Discovery Bay, 168 units). FY 2025/26: $1,054,134 awarded. Fees come from unincorporated projects of five or more units that pay in lieu of building 15% affordable units; the fee is set annually by the Board (for rentals, the 55-year gap between average two-bedroom rent and the affordable rent; for sale units, the gap between the affordable price and the countywide median sale price).",
+   "per_unit_cap": "Mixed-income projects are capped at an award based on the number of 80% AMI or 50% AMI units that exceed the inclusionary requirement.",
+   "affordability_requirement": "New construction for households up to 80% AMI, unincorporated county only; preference for two-bedroom and larger units and for projects exceeding the inclusionary minimum. Cannot fund units required by density bonus or inclusionary obligations. Forgivable low-interest loan reconveyed after five years in service as affordable housing.",
+   "eligible_project_types": [
+    "new construction"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "December 7, 2026 at 5:00 PM through the County housing NOFA when a balance exists. The State and Local Funds page says in-lieu fees are allocated through the annual Affordable Housing NOFA, but the FY 2027/28 NOFA PDF names only CDBG-Housing, HOME and Measure X, so confirm an in-lieu balance with DCD. FY 2026/27 awards required commitments by July 1, 2026 (Orbisonia) and December 31, 2027 (Harbor Pointe).",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "County pages on www.contracosta.ca.gov refuse automated fetches (403); the same pages and DocumentCenter PDFs were opened on 2026-11-06 through the site's CivicPlus origin host (ca-contracostacounty3.civicplus.com), and Board reports were read through the contra-costa.legistar.com API. Small and lumpy, about $1,000,000 to $1,200,000 a year, and limited to unincorporated areas (Bay Point, Discovery Bay, North Richmond, Rodeo, El Sobrante, Alamo). It was used as last-dollar construction money alongside Measure X and PLHA in Orbisonia Village, which also needed a July 1, 2026 close for its 4% credits. Local and state funds are public funds under Labor Code 1720(b), so state prevailing wage applies unless a 1720(c) exemption fits the deal, such as 1720(c)(5)(E) for below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI (see prevailing_wage_basis). The fee calculator and 2025 rent maximums are posted on the County ordinances page.",
+   "source_url": "https://www.contracosta.ca.gov/8702/State-and-Local-Funds",
+   "record_id": "50b4b2ad10",
+   "cycle_notes": "annual NOFA when a balance exists; FY 2027/28 County NOFA due December 7, 2026 does not name in-lieu funds",
+   "eligible_project_detail": [
+    "new construction"
+   ],
+   "next_deadline_date": "2026-12-07",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "audit_note": "PW pass Nov 9, 2026: no program rule for the in-lieu fee fund; changed true to unclear. Deadline refresh November 10, 2026: State and Local Funds page shows the FY 2027/28 NOFA schedule with applications due December 7, 2026; the NOFA PDF does not mention in-lieu fees. Deadline refresh November 11, 2026: County pages (civicplus origin host) and FY 2027/28 NOFA PDF still show applications due December 7, 2026 at 5:00 PM via City Data Services; no extension or addendum posted as of this check; NOFA, FAQs (October 21, 2026 TA meeting) and full 2027/28 Housing Guidelines PDF mention only CDBG-Housing, HOME and Measure X and contain no reference to in-lieu fees, and no County statement on its inclusion was found, so confirm with DCD; State and Local Funds page still says in-lieu fees are allocated through the annual NOFA.",
+   "last_audited": "2026-11-10",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Contra Costa County FY 2027/28 Affordable Housing Program Guidelines section 8.6 leave state prevailing wage to the developer (developers must determine whether state prevailing wage applies and register the project); only federal Davis-Bacon is stated (HOME 12+ assisted units, CDBG 8+ units). Below-market loans to projects with 40% of units at 80% AMI for 20 years are exempt under 1720(c)(5)(E) unless the program requires otherwise. https://ca-contracostacounty3.civicplus.com/DocumentCenter/View/93026/2027-28-Housing-Guidelines---Entire-Document-Large-PDF"
+  }
+ },
+ {
+  "audit_reasons": [
+   "recheck: Contra Costa Summer Lake fund: confirm with DCD whether a balance is offered in the FY 2027/28 NOFA before December 7, 2026."
+  ],
+  "record": {
+   "level": "county",
+   "jurisdiction": "Contra Costa County",
+   "date_researched": "2026-11-06",
+   "research_pass": "2_county",
+   "county_tag": "Contra Costa",
+   "confidence": "verified",
+   "program_name": "Summer Lake Affordable Housing Fund (east county)",
+   "administering_agency": "Contra Costa County Department of Conservation and Development",
+   "funding_type": "loan",
+   "typical_award_size": "Balance of $913,438 as of 2026, fed by a $3,333 affordable housing fee on each new Summer Lake home collected by the City of Oakley and transferred to the County under the Cypress Corridor annexation Transition Agreement. FY 2026/27 awards: $413,438 construction loan to Harbor Pointe (Discovery Bay, 168 units) and $500,000 predevelopment loan to Casita Phase II (Hijas del Campo, Byron, 17 manufactured farmworker units) at 3% simple interest with a five-year term to start construction.",
+   "per_unit_cap": null,
+   "affordability_requirement": "Affordable housing in east Contra Costa County; the agreement asks the County to consider reserving 20% for projects in Oakley. Awarded through the County Affordable Housing Program, so County loan terms (55 years, 3% simple, residual receipts) apply to construction loans.",
+   "eligible_project_types": [
+    "new construction",
+    "predevelopment",
+    "farmworker housing"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "December 7, 2026 at 5:00 PM through the County housing NOFA when a balance exists; the FY 2027/28 NOFA PDF names only CDBG-Housing, HOME and Measure X, so confirm any Summer Lake balance with DCD. Casita Phase II predevelopment loan must be executed by June 30, 2028.",
+   "prevailing_wage_trigger": "unclear",
+   "layering_notes": "A geographic set-aside, not a standing program, but it is real money for Oakley, Brentwood, Discovery Bay, Byron and Bay Point projects and the County used it in 2026 to fill requests that Measure X could not. Local and state funds are public funds under Labor Code 1720(b), so state prevailing wage applies unless a 1720(c) exemption fits the deal, such as 1720(c)(5)(E) for below-market loans with at least 40 percent of units restricted 20 years at or below 80 percent AMI (see prevailing_wage_basis). Documented in the May 19, 2026 Board report (file 26-2203) read through the Legistar API.",
+   "source_url": "https://contra-costa.legistar.com/LegislationDetail.aspx?ID=18528&GUID=B677C887-8ECE-4F9B-9304-3E2A7F242109&Options=&Search=&FullText=1",
+   "record_id": "86f8392c92",
+   "cycle_notes": "awarded through the annual County NOFA when a balance exists; FY 2027/28 round due December 7, 2026",
+   "eligible_project_detail": [
+    "new construction",
+    "predevelopment",
+    "farmworker housing"
+   ],
+   "next_deadline_date": "2026-12-07",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "audit_note": "PW pass Nov 9, 2026: no Summer Lake fund rule found; changed true to unclear. Deadline refresh November 10, 2026: County State and Local Funds page and the FY 2027/28 NOFA PDF still show applications due December 7, 2026; the NOFA does not mention the Summer Lake fund. Deadline refresh November 11, 2026: County pages (civicplus origin host) and FY 2027/28 NOFA PDF still show applications due December 7, 2026 at 5:00 PM via City Data Services; no extension or addendum posted as of this check; NOFA, FAQs (October 21, 2026 TA meeting) and full 2027/28 Housing Guidelines PDF mention only CDBG-Housing, HOME and Measure X and contain no reference to the Summer Lake fund, and no County statement on its inclusion was found, so confirm with DCD.",
+   "last_audited": "2026-11-10",
+   "prevailing_wage_basis": "Only the general Labor Code 1720(b) definition applies; outcome depends on 1720(c) exemptions and project facts. Contra Costa County FY 2027/28 Affordable Housing Program Guidelines section 8.6 leave state prevailing wage to the developer (developers must determine whether state prevailing wage applies and register the project); only federal Davis-Bacon is stated (HOME 12+ assisted units, CDBG 8+ units). Below-market loans to projects with 40% of units at 80% AMI for 20 years are exempt under 1720(c)(5)(E) unless the program requires otherwise. https://ca-contracostacounty3.civicplus.com/DocumentCenter/View/93026/2027-28-Housing-Guidelines---Entire-Document-Large-PDF"
+  }
+ },
+ {
+  "audit_reasons": [
+   "recheck: Walnut Creek: confirmed only through Concord and Antioch Consortium pages; retry walnutcreekca.gov."
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Walnut Creek",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "Contra Costa",
+   "confidence": "verified",
+   "program_name": "Walnut Creek CDBG entitlement, Community Services Grant and Homeless Services Fund (Contra Costa Consortium three-year cycle)",
+   "administering_agency": "City of Walnut Creek Housing Division (Housing and Community Service Grants); contact brynen@walnutcreekca.gov",
+   "funding_type": "grant",
+   "typical_award_size": "Walnut Creek is a CDBG entitlement city in the Contra Costa HOME Consortium. The 2025-2029 Consolidated Plan estimates $2.12 million in federal resources over five years (PY 2025-26 CDBG entitlement estimated around $350,000 to $400,000) plus $4.14 million in general and local funds through the Community Services Grant and Homeless Services Fund; the five-year goal table programs CDBG of $100,000 to $500,000 per goal with $500,000 of local funds per year for several goals and $2.5 million for affordable housing (AH-1). Historically the City sets aside part of CDBG for the Home Rehabilitation Loan and Emergency Grant Program. Awards are competitive on the Consortium's two- and three-year cycle; the FY 2027/28 to 2029/30 NOFA was released October 15, 2026.",
+   "per_unit_cap": "None published.",
+   "affordability_requirement": "CDBG 80% AMI national objective; Walnut Creek has nine low and moderate income block groups (census tracts 3390.01, 3400.01, 3511.01 to 3511.05) prioritized for area-benefit activities.",
+   "eligible_project_types": [
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "services/operations"
+   ],
+   "application_cycle": "annual NOFA",
+   "next_deadline": "Consortium applications due December 7, 2026 at 5:00 PM via City Data Services; Walnut Creek Council adopts its PY 2027-28 Annual Action Plan in May 2027 (the PY 2026-27 plan hearing was May 5, 2026).",
+   "prevailing_wage_trigger": "true",
+   "layering_notes": "Walnut Creek's CDBG is small (under $500,000 a year) and mostly funds services and rehab; for development, the City's Local Housing Trust Fund RFP (separate record) and County HOME or Measure X (county records) carry the weight, with HOME requests filed through the same Consortium application the County administers. Davis-Bacon applies to CDBG-assisted projects of 8 or more units. Consolidated Plan read from the County-hosted copy (source_url); Consortium NOFA dates and the Walnut Creek contact were read on the City of Antioch's Community Grants page (https://ca-antioch.civicplus.com/993/Community-Grants) because walnutcreekca.gov returns 403.",
+   "source_url": "https://www.contracosta.ca.gov/DocumentCenter/View/86762/WC-Strategic-Plan-Draft",
+   "record_id": "4d562727d9",
+   "cycle_notes": "three-year cycle; applications due December 7, 2026",
+   "eligible_project_detail": [
+    "acquisition-rehab",
+    "preservation",
+    "supportive housing",
+    "public services"
+   ],
+   "next_deadline_date": "2026-12-07",
+   "deadline_check": "future_date",
+   "link_status": "ok",
+   "last_audited": "2026-11-10",
+   "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
+   "audit_note": "Deadline refresh November 10, 2026: Consortium timeline on the Antioch and Concord Community Grants pages still shows applications due December 7, 2026 at 5:00 PM; walnutcreekca.gov not checked (403 in earlier passes). Deadline refresh November 11, 2026: Consortium timeline on the Antioch and Concord Community Grants pages still shows applications due December 7, 2026 at 5:00 PM; Concord page says applications due Monday, December 7, 2026 by 5pm in City Data Services; walnutcreekca.gov still 403 so no Walnut Creek page read."
+  }
+ },
+ {
+  "audit_reasons": [
+   "recheck: Manteca: zoning code update comment period closed November 21, 2026; look for the hearing notice and any density bonus changes."
+  ],
+  "record": {
+   "level": "city",
+   "jurisdiction": "City of Manteca",
+   "date_researched": "2026-11-08",
+   "research_pass": "3_city",
+   "county_tag": "San Joaquin",
+   "confidence": "verified",
+   "program_name": "Density Bonus and Other Incentives, Manteca Municipal Code Chapter 17.72 (Ord. 1501, 2011) and Draft Zoning Code Update (public review October 22 to November 21, 2026)",
+   "administering_agency": "City of Manteca Development Services Department, Planning Division",
+   "funding_type": "density bonus",
+   "typical_award_size": "Requirement and entitlement incentive, not a subsidy. One density bonus with concessions per Government Code 65915 for 10% lower income, 5% very low income, senior or 10% moderate for-sale units; parking caps of 1 space (0-1 bedroom), 2 (2-3 bedrooms), 2.5 (4 or more bedrooms); waivers of standards that physically preclude the project; density bonus agreement required; pro forma review consultant paid by applicant unless nonprofit. The Draft Zoning Code Update (implementing the 2043 General Plan and 6th Cycle Housing Element) rewrites 17.72 and the 17.200 density bonus definitions and makes Council the approval authority.",
+   "per_unit_cap": "Not applicable.",
+   "affordability_requirement": "State density bonus thresholds; continued affordability per Government Code 65915 (55 years rental) under the agreement required by 17.72.030.",
+   "eligible_project_types": [
+    "new construction",
+    "senior housing",
+    "mixed-use"
+   ],
+   "application_cycle": "rolling",
+   "next_deadline": "No application deadline; applies at entitlement. The Draft Zoning Code Update public review period runs October 22 through November 21, 2026 per the City Title 17 page (the draft's cover lists November 22, 2026); comments to planning@manteca.gov. The Planning Commission public hearing notice and General Plan Update EIR Addendum are listed on the City page but not yet posted, and no adoption date is stated.",
+   "prevailing_wage_trigger": "false",
+   "layering_notes": "Manteca's 2011 chapter has not kept pace with state law (no 50% or 100% bonus tiers, old parking ratios), so state law controls in practice; the pending Zoning Code Update should fix this. Section 17.72.030.G still references a Chapter 17.32 Affordable Housing Requirements that no longer exists in the code (see next record). Manteca has no local trust fund, in-lieu fund or NOFA, so the land-use incentive plus County and regional sources (Urban County CDBG and HOME, SJRHF, HACSJ PBVs, BHSA) are the whole local layer. Read from the zoneomics mirror of Title 17 (ecode360 blocks scripts); the City's Title 17 page confirms the update schedule.",
+   "source_url": "https://ecode360.com/44092704",
+   "record_id": "ce5d41a532",
+   "cycle_notes": "Entitlement provision, no funding round.",
+   "eligible_project_detail": [
+    "new construction",
+    "senior housing",
+    "mixed-use",
+    "common interest development (moderate income)"
+   ],
+   "next_deadline_date": null,
+   "deadline_check": "no_date",
+   "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
+   "last_audited": "2026-11-10",
+   "audit_note": "City spot check Nov 9, 2026: source_url moved from the zoneomics mirror to the official ecode360 Manteca code (Chapter 17.72), which the auditor opened and matched. Deadline refresh November 10, 2026: the City Title 17 page shows the Draft Zoning Code Update review period still open through November 21 (draft cover says November 22, 2026), so the earlier text saying the period had closed and that a Planning Commission hearing was noticed was wrong; the hearing notice is listed without a link. The City page now links Title 17 at ecode360.com/46033517. Deadline refresh November 11, 2026: City Title 17 page still shows the Draft Zoning Code Update review period October 22 through November 21 and a Planning Commission public hearing notice with no date; no adoption date stated. Standing requirement, no application deadline."
+  }
+ }
+]

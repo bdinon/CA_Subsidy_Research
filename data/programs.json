@@ -18497,7 +18497,7 @@
     "program_name": "Walnut Creek CDBG entitlement, Community Services Grant and Homeless Services Fund (Contra Costa Consortium three-year cycle)",
     "administering_agency": "City of Walnut Creek Housing Division (Housing and Community Service Grants); contact brynen@walnutcreekca.gov",
     "funding_type": "grant",
-    "typical_award_size": "Walnut Creek is a CDBG entitlement city in the Contra Costa HOME Consortium. The 2025-2029 Consolidated Plan estimates $2.12 million in federal resources over five years (PY 2025-26 CDBG entitlement estimated around $350,000 to $400,000) plus $4.14 million in general and local funds through the Community Services Grant and Homeless Services Fund; the five-year goal table programs CDBG of $100,000 to $500,000 per goal with $500,000 of local funds per year for several goals and $2.5 million for affordable housing (AH-1). Historically the City sets aside part of CDBG for the Home Rehabilitation Loan and Emergency Grant Program. Awards are competitive on the Consortium's two- and three-year cycle; the FY 2027/28 to 2029/30 NOFA was released October 15, 2026.",
+    "typical_award_size": "Walnut Creek is a CDBG entitlement city in the Contra Costa HOME Consortium. FY 2026/27 (PY 2026-27) CDBG award $400,232 (FY 2025/26 $401,430), split by federal caps: $80,046 administration, $60,035 public services, $260,151 economic development, public facilities and housing. The City's Community Grant Program totals $1,050,232 for FY 2026/27 with local and state money: Community Services Grant $100,000, Homeless Services Grant $70,000, Measure O $250,000 (CORE outreach), General Fund $80,000 (school crisis counselors) and Prohousing Incentive Program $150,000; the City's PLHA grants that had funded homeless services are not available for FY 2026/27. The only housing activity funded is Habitat for Humanity home rehabilitation (about $82,350). The 2025-2029 Consolidated Plan estimates $2.12 million in federal resources over five years plus $4.14 million in general and local funds and programs $2.5 million for affordable housing (AH-1). FY 2025/26 was a competitive application year and FY 2026/27 a renewal year; the Consortium NOFA for the next three-year cycle was released October 15, 2026.",
     "per_unit_cap": "None published.",
     "affordability_requirement": "CDBG 80% AMI national objective; Walnut Creek has nine low and moderate income block groups (census tracts 3390.01, 3400.01, 3511.01 to 3511.05) prioritized for area-benefit activities.",
     "eligible_project_types": [
@@ -18509,8 +18509,8 @@
     "application_cycle": "annual NOFA",
     "next_deadline": "Consortium applications due December 7, 2026 at 5:00 PM via City Data Services; Walnut Creek Council adopts its PY 2027-28 Annual Action Plan in May 2027 (the PY 2026-27 plan hearing was May 5, 2026).",
     "prevailing_wage_trigger": "true",
-    "layering_notes": "Walnut Creek's CDBG is small (under $500,000 a year) and mostly funds services and rehab; for development, the City's Local Housing Trust Fund RFP (separate record) and County HOME or Measure X (county records) carry the weight, with HOME requests filed through the same Consortium application the County administers. Davis-Bacon applies to CDBG-assisted projects of 8 or more units. Consolidated Plan read from the County-hosted copy (source_url); Consortium NOFA dates and the Walnut Creek contact were read on the City of Antioch's Community Grants page (https://ca-antioch.civicplus.com/993/Community-Grants) because walnutcreekca.gov returns 403.",
-    "source_url": "https://www.contracosta.ca.gov/DocumentCenter/View/86762/WC-Strategic-Plan-Draft",
+    "layering_notes": "Walnut Creek's CDBG is small (about $400,000 a year) and mostly funds services, job training and owner-occupied rehab; for development, the City's Local Housing Trust Fund RFP (separate record) and County HOME or Measure X (county records) carry the weight, with HOME requests filed through the same Consortium application the County administers. Davis-Bacon applies to CDBG-assisted projects of 8 or more units. walnutcreekca.gov still returns 403 (Akamai) to scripts; award figures were read in the City's May 5, 2026 Council agenda report on the City's Granicus portal (walnutcreek.granicus.com, source_url), and Consortium NOFA dates and the Walnut Creek contact on the City of Antioch's Community Grants page (https://ca-antioch.civicplus.com/993/Community-Grants).",
+    "source_url": "https://walnutcreek.granicus.com/MetaViewer.php?view_id=12&clip_id=5378&meta_id=353466",
     "record_id": "4d562727d9",
     "cycle_notes": "three-year cycle; applications due December 7, 2026",
     "eligible_project_detail": [
@@ -18521,10 +18521,9 @@
     ],
     "next_deadline_date": "2026-12-07",
     "deadline_check": "future_date",
-    "link_status": "ok",
-    "last_audited": "2026-11-10",
+    "last_audited": "2026-11-15",
     "prevailing_wage_basis": "Federal rules by name: HOME, 24 CFR 92.354 (law.cornell.edu/cfr/text/24/92.354), Davis-Bacon wages apply when 12 or more units are HOME-assisted; CDBG, Housing and Community Development Act sec. 110 (42 U.S.C. 5310), Davis-Bacon applies to CDBG-financed construction, and for residential property only at 8 or more units. Below those thresholds federal wages do not apply; state prevailing wage may still apply under Labor Code 1720 depending on 1720(c) exemptions (single-family rehab and homebuyer aid are exempt under 1720(c)(5)(C)).",
-    "audit_note": "Deadline refresh November 10, 2026: Consortium timeline on the Antioch and Concord Community Grants pages still shows applications due December 7, 2026 at 5:00 PM; walnutcreekca.gov not checked (403 in earlier passes). Deadline refresh November 11, 2026: Consortium timeline on the Antioch and Concord Community Grants pages still shows applications due December 7, 2026 at 5:00 PM; Concord page says applications due Monday, December 7, 2026 by 5pm in City Data Services; walnutcreekca.gov still 403 so no Walnut Creek page read."
+    "audit_note": "Recheck November 15, 2026: walnutcreekca.gov still 403 (Akamai Access Denied) to curl and WebFetch with browser headers; the City's official Granicus agenda portal opens, and the May 5, 2026 Council agenda report and FY27 Funding Plan confirm the CDBG entitlement ($400,232 for FY 2026/27), local Community Services Grant ($100,000) and Homeless Services Grant ($70,000), and the May Action Plan hearing; source_url moved to that report. Consortium deadline of December 7, 2026 at 5:00 PM reconfirmed on the Antioch Community Grants page; no Walnut Creek page states it directly."
   },
   {
     "level": "city",
@@ -20740,9 +20739,9 @@
       "mixed-use"
     ],
     "application_cycle": "rolling",
-    "next_deadline": "No application deadline; applies at entitlement. The Draft Zoning Code Update public review period runs October 22 through November 21, 2026 per the City Title 17 page (the draft's cover lists November 22, 2026); comments to planning@manteca.gov. The Planning Commission public hearing notice and General Plan Update EIR Addendum are listed on the City page but not yet posted, and no adoption date is stated.",
+    "next_deadline": "No application deadline; applies at entitlement. The Draft Zoning Code Update public review period runs October 22 through November 21, 2026 per the City Title 17 page (the draft's cover lists November 22, 2026); comments to planning@manteca.gov. As of November 15, 2026 the Planning Commission public hearing notice and General Plan Update EIR Addendum are listed on the City page without links, the City's Environmental and Public Hearing Notices page lists no Zoning Code Update hearing, and the November 19, 2026 Planning Commission meeting is cancelled; no hearing or adoption date is stated.",
     "prevailing_wage_trigger": "false",
-    "layering_notes": "Manteca's 2011 chapter has not kept pace with state law (no 50% or 100% bonus tiers, old parking ratios), so state law controls in practice; the pending Zoning Code Update should fix this. Section 17.72.030.G still references a Chapter 17.32 Affordable Housing Requirements that no longer exists in the code (see next record). Manteca has no local trust fund, in-lieu fund or NOFA, so the land-use incentive plus County and regional sources (Urban County CDBG and HOME, SJRHF, HACSJ PBVs, BHSA) are the whole local layer. Read from the zoneomics mirror of Title 17 (ecode360 blocks scripts); the City's Title 17 page confirms the update schedule.",
+    "layering_notes": "Manteca's 2011 chapter has not kept pace with state law (no 50% or 100% bonus tiers, old parking ratios), so state law controls in practice. The October 2026 public review draft of the Zoning Code Update keeps the same four eligibility thresholds (10% lower income, 5% very low income, senior, 10% moderate for-sale), shortens 17.72 to purpose, eligibility and approval sections, makes the City Council the approving authority for density bonuses and concessions, keeps the density bonus agreement, and lists the state findings needed to deny a concession; it does not write in the newer state tiers or parking caps, so state law will still control after adoption. Current Section 17.72.030.G still references a Chapter 17.32 Affordable Housing Requirements that no longer exists in the code (see next record). Manteca has no local trust fund, in-lieu fund or NOFA, so the land-use incentive plus County and regional sources (Urban County CDBG and HOME, SJRHF, HACSJ PBVs, BHSA) are the whole local layer. Current Chapter 17.72 was read on the official ecode360 host (source_url); the City's Title 17 page confirms the update schedule.",
     "source_url": "https://ecode360.com/44092704",
     "record_id": "ce5d41a532",
     "cycle_notes": "Entitlement provision, no funding round.",
@@ -20755,8 +20754,8 @@
     "next_deadline_date": null,
     "deadline_check": "no_date",
     "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. A density bonus under Gov. Code 65915 grants units, concessions and waivers of standards, not public funds, so the bonus itself does not trigger prevailing wage. Wages may still apply through other public financing or through streamlining laws that require them (for example SB 423 or AB 2011).",
-    "last_audited": "2026-11-10",
-    "audit_note": "City spot check Nov 9, 2026: source_url moved from the zoneomics mirror to the official ecode360 Manteca code (Chapter 17.72), which the auditor opened and matched. Deadline refresh November 10, 2026: the City Title 17 page shows the Draft Zoning Code Update review period still open through November 21 (draft cover says November 22, 2026), so the earlier text saying the period had closed and that a Planning Commission hearing was noticed was wrong; the hearing notice is listed without a link. The City page now links Title 17 at ecode360.com/46033517. Deadline refresh November 11, 2026: City Title 17 page still shows the Draft Zoning Code Update review period October 22 through November 21 and a Planning Commission public hearing notice with no date; no adoption date stated. Standing requirement, no application deadline."
+    "last_audited": "2026-11-15",
+    "audit_note": "Recheck November 15, 2026: City Title 17 page unchanged (review October 22 to November 21, 2026; hearing notice and EIR Addendum listed without links); Environmental and Public Hearing Notices page has no Zoning Code Update notice; Granicus shows the November 19, 2026 Planning Commission meeting cancelled and the November 17, 2026 Council agenda has no Zoning Code Update item. Draft Chapter 17.72 (DocumentCenter/View/3450, pp. 176-177) read and summarized in layering_notes. ecode360.com/44092704 opened directly this pass."
   },
   {
     "level": "city",
@@ -27683,20 +27682,20 @@
       "new construction"
     ],
     "application_cycle": "rolling",
-    "next_deadline": "No application deadline; the requirement applies at entitlement, and in-lieu payments (only if City Council approves at pre-application) are due per unit at building permit. An update of the Inclusionary Housing Ordinance was discussed at the April 20, 2026 Housing Element and Prohousing workshop; no adoption could be confirmed as of November 10, 2026.",
+    "next_deadline": "No application deadline; the requirement applies at entitlement, and in-lieu payments (only if City Council approves at pre-application) are due per unit at building permit. An update of the Inclusionary Housing Ordinance has been discussed, but no Council or Planning Commission agenda item to introduce or adopt it appears on Oxnard CivicClerk through the November 17, 2026 Council agenda.",
     "prevailing_wage_trigger": "false",
     "layering_notes": "Ordinance 2980 (adopted June 2, 2020) replaced Ordinance 2721; specific plan areas with equal or higher requirements are exempt. Off-site units or land dedication (MAI appraisal) can substitute for the payment with Council approval. Payments go to the City's Affordable Housing Trust Fund (see separate loan record). Projects in the -AHP/-AHD additive zones must provide units and cannot pay in lieu. The 20-year covenant is far shorter than TCAC's 55-year term, so a tax credit deal on the same site carries the longer restriction. Ventura County has no adopted inclusionary ordinance (postponed June 2026), so Oxnard's requirement is local only. Oxnard's Prohousing application was pending as of April 2026. oxnard.gov HTML pages return 403 (Cloudflare) to scripts, but wp-content PDFs open directly.",
     "source_url": "https://www.oxnard.gov/wp-content/uploads/Ordinance-2980.pdf",
     "record_id": "e0d9c9f1f3",
-    "cycle_notes": "Standing requirement, no application cycle. Ordinance update in progress with no adoption date found.",
+    "cycle_notes": "Standing requirement, no application cycle. Ordinance 2980 as amended by Ordinance 2999 remains in effect; an update is in progress with no hearing scheduled as of November 15, 2026 (CivicClerk agendas checked February through November 17, 2026).",
     "eligible_project_detail": [
       "new construction"
     ],
     "next_deadline_date": null,
     "deadline_check": "no_date",
-    "last_audited": "2026-11-10",
+    "last_audited": "2026-11-15",
     "prevailing_wage_basis": "Labor Code 1720(a)(1) (california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds. This program is a requirement imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Wages may still apply through other public financing on the project.",
-    "audit_note": "Deadline refresh November 10, 2026: the April 20, 2026 workshop date had been read as a deadline. Re-opened Ordinance 2980 (wp-content PDF). oxnard.gov HTML pages, including the Inclusionary Housing Update page, return a Cloudflare challenge, and no current Oxnard agenda portal was reachable (old Granicus views end in 2009, iqm2 errors), so the status of the ordinance update was not confirmed."
+    "audit_note": "Recheck November 15, 2026: oxnard.gov HTML pages are Cloudflare-blocked, but the City's CivicClerk portal is readable through its public API (oxnardca.api.civicclerk.com /v1/Events and /v1/Meetings/{id}). Searched all City Council, Planning Commission and Community Services, Public Safety, Housing and Economic Development Committee agendas from February 3 to November 17, 2026: no item introduces, adopts or schedules an inclusionary housing ordinance update; the only related items are the 2025 General Plan and Housing Element Annual Progress Report (March 17, 2026) and planning consultant agreements (June 23 and July 7, 2026). Ordinance 2980 wp-content PDF still opens. Current indexed in-lieu fee schedule still not opened."
   },
   {
     "level": "city",
@@ -30919,23 +30918,23 @@
       "predevelopment"
     ],
     "application_cycle": "annual NOFA",
-    "next_deadline": "Applications due November 13, 2026 at 5pm (rolling if needed); selections first week of December 2026.",
+    "next_deadline": "No open round as of November 15, 2026. The posted deadline of November 13, 2026 at 5pm Pacific has passed and no new round or extension is posted. The page says applications are taken on a rolling basis if needed, the FAQ calls the early December 2026 selections the first batch, and the 2026 application form was still online on November 15, 2026, so late applications may be considered; confirm with Leslie Palaroan (lpalaroan@communityvisionca.org). No next round timing is stated.",
     "prevailing_wage_trigger": "false",
     "layering_notes": "Open to nonprofits in the nine Bay Area counties (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, Sonoma), including emerging developers, CLTs, faith-based entities, tribal organizations and service providers. Pairs with LISC Faith and Housing and with Community Vision or Housing Trust predevelopment loans.",
     "source_url": "https://communityvisionca.org/advising/ready-to-build/",
     "record_id": "4c38ec9433",
-    "cycle_notes": "",
+    "cycle_notes": "2026 round: info session October 13, 2026; RFIs due October 16, 2026; RFI responses posted October 19, 2026; applications due November 13, 2026 at 5pm (rolling if needed); review November 16 to 30, 2026; first batch of projects selected the first week of December 2026. Selected projects receive technical assistance from December 1, 2026 to December 1, 2028. RFI responses say applicants can apply when ready and projects are reviewed more often than quarterly. No later round announced as of November 15, 2026.",
     "eligible_project_detail": [
       "predevelopment technical assistance",
       "new construction",
       "acquisition-rehab",
       "community land trust projects"
     ],
-    "next_deadline_date": "2026-11-13",
-    "deadline_check": "past_date",
+    "next_deadline_date": null,
+    "deadline_check": "no_date",
     "link_status": "ok",
     "audit_note": "funding_type kept as other: Ready to Build provides fully funded technical assistance only, with no loan, grant or other deployable capital, so no money-to-project enum value fits. Deadline refresh November 11, 2026: Ready to Build page still shows applications due November 13, 2026 at 5pm Pacific, review November 16 to 30, selections first week of December 2026; no extension stated.",
-    "last_audited": "2026-11-10",
+    "last_audited": "2026-11-15",
     "prevailing_wage_basis": "Labor Code 1720(a)(1) covers only construction work paid for in whole or in part out of public funds (https://california.public.law/codes/labor_code_section_1720). Ready to Build provides technical assistance only and no direct capital (https://communityvisionca.org/advising/ready-to-build/), so it funds no construction and does not trigger prevailing wage."
   },
   {
@@ -31439,15 +31438,15 @@
     "prevailing_wage_trigger": "false",
     "prevailing_wage_basis": "Labor Code 1720(a)(1) (https://california.public.law/codes/labor_code_section_1720): public works means construction paid for in whole or in part out of public funds, and 1720(c)(1) exempts private residential projects on private property unless built under an agreement with a state agency, successor agency or housing authority. This requirement is imposed on private development and provides no public funds, so it does not itself trigger prevailing wage. Spending of in-lieu fee revenue is a separate public funds question.",
     "layering_notes": "Rental only: Anaheim exempts ownership projects of every size, unlike the Santa Ana (587c1bf887) and Huntington Beach (adbbe8ef1b) ordinances in this database, which also reach for-sale housing. The $10 per square foot fee (about $87,500 per required unit in the City example) is the main alternative most market-rate developers will price against onsite units. Under Sec. 17.40.090, units provided for a state density bonus (Chapter 18.52, record 2db1a1727f) count toward this requirement if they also meet Chapter 17.40 standards, so a project with 10% low and very low units can satisfy both. Projects under a development agreement with comparable affordable obligations are exempt, which matters in the Platinum Triangle and other DA areas. In-lieu fees go to the Anaheim Local Housing Trust Fund (record ec67d2dea0), which redeploys them as gap loans through the Build More Homes Initiative; this is the City's own fund, not a County of Orange program, and no County inclusionary requirement applies inside Anaheim. Ord. 6593 recitals note it replaced a voluntary Housing Ambassador approach that had raised $561,000. Ordinance and fee resolution read in the City Clerk Laserfiche portal (records.anaheim.net); code text cross-checked on the gocodebook mirror because amlegal returns 403.",
-    "source_url": "https://www.anaheim.gov/5190/Affordable-Housing",
+    "source_url": "https://www.anaheim.net/5190/Affordable-Housing",
     "date_researched": "2026-11-09",
     "confidence": "verified",
     "research_pass": "3_city",
-    "audit_note": "Sources read November 9, 2026: City Affordable Housing page (anaheim.gov/5190), Ordinance 6593 (records.anaheim.net DocView id 5538865), Resolution 2024-126 with Exhibit A fee methodology (records.anaheim.net DocView id 5575892), and the Chapter 17.40 code text on gocodebook. No in-lieu fee update after 2024 was found; confirm the current rate with Housing and Community Development before underwriting.",
+    "audit_note": "Recheck November 15, 2026: the City Affordable Housing page (read at anaheim.net/5190; anaheim.gov/5190 now returns 403 to curl) still cites Resolution No. 2024-126 as the in-lieu fee schedule. All City Council agendas on anaheim.granicus.com from December 10, 2024 through November 10, 2026 were searched: no item amends the inclusionary in-lieu fee (the only in-lieu fee action was the park in-lieu fee resolution on March 24, 2026). The Planning Services fee schedule effective August 2026 does not list the inclusionary fee. Earlier sources: Ordinance 6593 (records.anaheim.net DocView 5538865), Resolution 2024-126 (DocView 5575892). Chapter 17.40 code text was cross-checked on gocodebook because amlegal returns 403.",
     "record_id": "746a778e8a",
     "next_deadline_date": null,
     "deadline_check": "no_date",
-    "last_audited": "2026-11-09"
+    "last_audited": "2026-11-15"
   },
   {
     "level": "county",
